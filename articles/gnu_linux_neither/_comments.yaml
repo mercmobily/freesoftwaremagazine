@@ -1,0 +1,350 @@
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'Why don''t we call it "Other" then?'
+    hostname: 165.98.157.37
+    created: '1175218500'
+    body: "Well, the reason we don't is because \"other\" is not integral to the working of the operating system. The two things that make up the \"operating system\" (as opposed to a \"distro\") in our favorite case are the kernel (Linux) and the set of tools (GNU) that make it useful.\r\n\r\nIt doesn't seem appropriate to name an operating system after whatever word processor or web browser you use on it. I mean, these applications are easy to change and changing these parts doesn't affect the functioning of the operating system. However, if you remove the \"GNU\" or the \"Linux\" parts or swap either of them out for some other set of tools or a different kernel, then you would have a completely different operating system. So all of those non-essential, non-integral applications (like OOo or Mozilla) should not play a part in the naming. \r\n\r\nSo then, what remains is whether to name it after the kernel or the set of tools that make the kernel useful. Well, seeing as both parts are necessary to make the operating system work and it's possible to swap either of them out for a different kernel or a different set of tools, then we really should use both parts to name it. \r\n\r\nNext, we need to decide whether we should call it GNU/Linux or Linux/GNU. Well, from the info in your blog entry it seems at 15.3% to 6.3% GNU provides a greater part of the total composition so why not put the \"GNU\" up front. And if you don't like that we could use alphabetic order. Or perhaps we should use the chronological order based on when the projects began. \r\n \r\nWell, it looks like no matter what logical ordering system you use, it seems \"GNU/Linux\", as suggested by RMS, is the most reasonable name for the operating system we base our free software distros on. And this backs FSM's choice for using the term \"GNU/Linux\" over \"Linux\" when referring to the operating system as whole, not just the kernel."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'I agree'
+    hostname: 212.159.106.192
+    created: '1175221030'
+    body: "I agree with Dave here. The \"other\" stuff is not part of an OS mostly because if you decided not to install it the OS still runs (I include X and DMs in this list).\r\n\r\nAs for the naming, well Linus didn't start developing an OS, he started developing the kernel. The kernel is, as Dave says, but a small part compared to the GNU tools. Sure you could use some other tools (or develop your own)and then I guess you're free to call it <whatever>/Linux but in the end I think Debian GNU/Linux does it best for the distribution I use.\r\n\r\nTerry, please don't take this as anything other than inquisitiveness but I really struggle to see why you (and many others) have a problem with calling it GNU/Linux. Perhaps you could enlighten the rest of us?"
+-
+    name: ''
+    mail: ''
+    subject: 'Quantity versus Quality'
+    hostname: 203.118.156.111
+    created: '1175222342'
+    body: "The reason why it's appropriate to refer to most of these Free Software distros as \"Linux\" is because the Linux kernel was the crucial missing piece that started the Free Software movement firing on all cylinders. Before that, the GNU project was a lonely voice in the wilderness; there was no KDE, no Gnome, no OpenOffice, just a few projects that were used by geeks but nobody else.\r\n\r\nIf Richard Stallman wants to claim special credit for GNU as being somehow crucial to the success of Linux, then it works both ways: Linux can also claim special credit for the success of GNU. If it makes sense to change \"Linux\" to \"GNU/Linux\", then it makes sense to change \"GNU\" to \"Linux/GNU\".\r\n\r\nLawrence D'Oliveiro"
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'That doesn''t make sense.'
+    hostname: 165.98.157.37
+    created: '1175223960'
+    body: "<cite>The reason why it's appropriate to refer to most of these Free Software distros as \"Linux\" is because the Linux kernel was the crucial missing piece that started the Free Software movement firing on all cylinders.</cite>\r\n\r\nThat's no good reason to confuse the kernel with the operating system. \r\n\r\n<cite>Before that, the GNU project was a lonely voice in the wilderness; there was no KDE, no Gnome, no OpenOffice, just a few projects that were used by geeks but nobody else.</cite>\r\n\r\nAnd what would Linux be without GNU? This point is moot. Furthermore, KDE, GNOME, etc., have nothing to do with this. They are add ons to the OS to make it, arguably, more functional.\r\n\r\n<cite>If Richard Stallman wants to claim special credit for GNU as being somehow crucial to the success of Linux, then it works both ways: Linux can also claim special credit for the success of GNU.</cite>\r\n \r\nRMS is not trying to get anyone to call Linux the kernel \"GNU/Linux\". He wants people to call GNU and Linux when used together GNU/Linux. If you want to use Linux on its own, he is more than happy for you to call it Linux. If you want to use Linux with some other set of tools then call it \"some other set of tools/Linux\" or just call it \"Linux\" I'm sure he won't care that much.  It is together that they have been and are successful. It should be both names that get used to describe them when they are used together.\r\n\r\n<cite>If it makes sense to change \"Linux\" to \"GNU/Linux\", then it makes sense to change \"GNU\" to \"Linux/GNU\".</cite>\r\n\r\nIt doesn't make sense only if you think people are trying to name the kernel GNU/Linux, which is not the case. Again, we are talking about the operating system not the kernel. The operating system = the kernel (Linux) + the set of tools that make it useful (GNU). Hence, GNU/Linux.\r\n\r\nI'll make a simple analogy for you:\r\n\r\nTables and chairs. These are independent furniture items. It is possible to use them seperately but it is often far more useful to use them together. When you do, you don't collectively call them \"chairs\" or \"a table\". You call them \"a table and chairs\".\r\n\r\nYou might think RMS is egotistical and/or annoying, but that doesn't mean he isn't right in wanting the GNU project to be recognised. Look at those charts up there in Terry's blog entry. They clearly indicate how much of a major distro is made up by Linux and how much it is made up by the GNU set of tools. GNU is the bigger portion. Why should it not be part of the name for the OS as a whole? It's not like he wants you to rename the kernel. It's not like he wants to call it \"RMS\". He just wants GNU to get the recognition it deserves. \r\n\r\nThe operating system is not just Linux. It's GNU + Linux or GNU/Linux. Try using Linux without GNU. Not many people do."
+-
+    name: ''
+    mail: ''
+    subject: 'The names they are a''changin'''
+    hostname: 67.55.10.153
+    created: '1175224100'
+    body: "I agree with Dave Guard.  Gnu and Linux are the essential parts of \"Linux\"; they need each other and everything else depends on them.\r\n\r\nBut it's irrelevant, I think, because I believe the commonly used name, \"Linux\" has stuck and no single group is in the position to rename it.  For that matter, \"Free Software\" is referred to as Open Source, even if that's a less accurate description.\r\n\r\nPart of the cost of having a larger following is the loss of control over things like this.  Gnu/Linux has been given the nic-name, \"Linux\".  I don't think it exalts the kernel over everything else, I just think it's a convenient label slapped on by users who don't even know what an operating system is, much less a kernel.  Just like \"Kleenex\" for paper tissue, or \"Javex\" for bleach, or \"Xerox\" for photocopy, etc..."
+-
+    name: ''
+    mail: ''
+    subject: 'I''m kind of curious about'
+    hostname: 83.227.230.228
+    created: '1175227385'
+    body: 'I''m kind of curious about how projects like Debian GNU/NetBSD and Nexenta Operating System instances relates to "Linux". Are they instances of Linux? If they are, is any Free Unix a Linux?'
+-
+    name: ''
+    mail: ''
+    subject: 'Quantity is not Quality'
+    hostname: 203.118.156.111
+    created: '1175229467'
+    body: "Let me make another analogy: the distro is an arch, and the kernel is the keystone. It's not the biggest or most impressive stone in the arch, but without it, the arch is not an arch.\r\n\r\nAnother point is that Richard Stallman was not a fan of Linux. Look at one crucial piece of software used by most Linux distros: the C run-time library (glibc). For a long time, the GNU folks who looked after this couldn't even be bothered with bug reports or feature requests from the Linux folks--to the point where they eventually forked off their own version in frustration. This fork was not reconciled until about version 2 of glibc.\r\n\r\nLook at Stallman's own attempt to write a kernel--Hurd. He's been working on that for getting close to 20 years now, and he still hasn't created a version fit for general use. Whereas look at the functionally that Linux has achieved, starting from nothing, in somewhat less time. If the kernel were such a minor piece of the puzzle, why has it been so hard for the GNU project to come up with one?\r\n\r\nTo reinforce my point: the GNU project owes at least as much to Linux as Linux does to GNU. If you want one to add the other's name, then it must work both ways.\r\n\r\nLawrence D'Oliveiro"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'People love a fight....'
+    hostname: 68.93.224.4
+    created: '1175242688'
+    body: "I should've known everyone would gravitate to the GNU/Linux debate instead of realizing it was just a segue to the more important issue.\r\n\r\nAh well, into the fray... ;-)\r\n\r\nActually, I personally <em>don't</em> feel strongly about the terms \"GNU/Linux\" versus \"Linux\". Either is entirely sensible, because both are equally <em>nonsensical</em>. What I have a problem with are self-appointed prescriptive grammarians who have decided that society has chosen wrongly to use the abbreviated term \"Linux\" and insist on trying to \"correct\" society (Society, BTW, is not confused -- it calls the operating system \"Linux\" and the Linux kernel, well, the \"Linux Kernel\", shockingly enough. So far this has resulted in little actual confusion).\r\n\r\nYou see I have this thing against people who want to tell other people how to act and talk, the way the FSF likes to do with all their GNU-speak \"recommendations\". I call my radical idea <em>\"Supporting Freedom\"</em>!\r\n\r\nI'm not criticizing anyone for using the expression \"GNU/Linux\".* There's nothing wrong with it in principal, other than being a little harder to say and therefore an unnatural choice for casual speech. I <em>am</em> making fun of the pomposity of thinking that using it somehow makes you superior to other people. ;-P\r\n\r\nGNU can only claim priority by being \"central\", not by being the \"bulk\". But of course, it isn't <em>most</em> central -- Linux is. Therefore by the \"central\" or \"critical\" argument, \"Linux\" (or \"Linux/GNU\") is as sensible as \"GNU/Linux\" and it is far easier to pronounce and remember. Moreover, people already use it. But of course, the FSF argument isn't based on \"centrality\" but on the theory that GNU represented more work than Linux (or specifically that it represents more programs -- though that's a transparently ineffective argument since a kernel is obviously harder to write than any shell or command line utility).\r\n\r\nWhat's more, the GNU packages that are actually needed to run a Linux system are much fewer/smaller than the total I've accumulated under the heading \"GNU\" in the pie charts above. Much of GNU today is, just like most of Debian**, \"application\" software that isn't \"necessary\" for an operating system.\r\n\r\nIn fact, I was able just now to look this up: in Debian, these critical GNU packages are included in a single package, called \"coreutils\", which accounts for a whopping 110,916 SLOC. The Linux kernel is now <em>4.04 MILLION</em> SLOC (both from Debian \"Sarge\"). <em>So for this 2.7% of contributed SLOC (and even smaller amount of effort, because these are orthogonal packages, not one complex system), GNU wants priority?!</em>\r\n\r\n(I only just discovered this, or I would surely have mentioned it).\r\n\r\nOR, they do want to be credited for all that other \"non-essential\" stuff (but somehow NOT count independent developers because their stuff isn't \"essential\"). Uh-huh. Pull the other one.\r\n\r\nIn fact, since membership in the GNU packages list is mainly just a matter of assigning copyright to FSF, it's more like a portfolio of acquired properties than an actual software project. In that sense, GNU is very like Debian -- an aggregator of software rather than a creator. That would suggest that comparing GNU as a collective project to other projects is unfair, since Linux, X, Mozilla, OpenOffice.org and so on are actually driven by single purposes: they can actually claim to be the reason that software gets written, not just a convenient place to store it.\r\n\r\nMost end-users could care less about having massive packages like gcc or emacs, which are primarily of interest to developers (and even many developers don't use emacs -- I'm a vim user myself, for example).\r\n\r\nAnd most would consider merely \"GNU\" + \"Linux\" <em>utterly useless</em>. If you're one of those people with commandline-phobia, then <em>this means you</em>. My Mom couldn't do a thing with it, for example. As far as she is concerned, X, KDE, and Mozilla are just as essential as parts of the operating system as anything in GNU. And of course, this is the standard we get if we look to \"Windows\" as the prototype of a \"desktop operating system\" (and like it or not, the world does see it this way).\r\n\r\nFrom such a PoV, it may be reasonable to reject much of Debian, but not to reduce the system to just GNU and Linux. The result might be dubbed \"Linux/GNU/X/KDE/Mozilla\" in \"onion-skin\" order. Or we could use the attractive acronym LGXKM (feel free to rearrange that to improve pronounceability). Or <em>not</em>!  Nevertheless, it is generally safe to assume that desktop users mean to include all of these programs (and/or alternatives such as Gnome or Konqueror) when they say either \"Linux\" or \"GNU/Linux\".\r\n\r\nClearly, it is <em>ambiguous</em> and <em>inaccurate</em> to call this system \"GNU/Linux\" just as much as it is to call it \"Linux\". \r\n\r\nAt the end of the day, there is ONE reason to say \"GNU/Linux\", and that's that GNU was around before Linux and created the GPL, which presumeably is the reason for Linux's success. OTOH, the X Window System is just as old as GNU (had to look this up -- they started in the same year, 1984). Without Linux (and to some degree, X), GNU would just be a little upstart tinkerer project (HURD would probably be even slower in coming than it has been!) instead of the big success that it is.\r\n\r\nFrom the user's perspective, of course, a more meaningful expression would probably be \"Linux/X\" or \"Linux/KDE\" (or \"Linux/Gnome\"), since these are the programs that provide the most important definition or personality of the O/S they use (most wouldn't even <em>notice</em> if you substituted BusyBox for GNU, for example). Calling what I use \"GNU/Linux\" is not unlike calling Windows \"MS-DOS\", in fact! Note that in these situations, Linux developers have not refused to talk to people just because they opted to call the combination \"Gnome\" or \"KDE\" instead of using slash-abominations.\r\n\r\nPeople are taking this issue <em>way</em> too seriously.\r\n\r\nThe important thing is <em>not</em> what we call it. It's what it <em>IS</em>. And what it <em>IS</em> is the result of the contribution of thousands of developers worldwide, working together to make a better free software system. That was the part that actually interested me enough to write this piece (had I actually wanted to attack the \"GNU/Linux\" position, this comment would've been the blog entry ;-) ).\r\n\r\nThe <em>together</em> part is important. So is the <em>free</em> part. So, let's get together and respect each others' freedoms.\r\n\r\nAnyway, thanks for playing, it's been fun, but I think I'm going to go do something productive now. :-D\r\n\r\n*In fact, I clearly said that <em>both</em> \"Linux\" and \"GNU/Linux\" were inaccurate, so how is it I am only criticized for not supporting \"GNU/Linux\" and not for not supporting \"Linux\"? I think you doth protest too much. ;-)\r\n\r\n**You may notice that when referring to a specific distribution, most people commit the heinous crime of mentioning <em>neither</em> GNU nor Linux, but merely the name of the distribution, such as \"Debian\" or \"Red Hat\". Somehow, this is not regarded as offensive, even though it means that these mere <em>packagers</em> (clearly a lower form of life than the almighty developers) are taking credit for all that work that they didn't do.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: ' "is any Free Unix a Linux?"'
+    hostname: 68.93.224.4
+    created: '1175243374'
+    body: "No.\r\n\r\nBSD Unix was a circa-1977 distribution of Unix (the \"Berkeley Software Distribution\") which was under a non-copyleft free license known as the \"BSD license\". The lack of copyleft is unsurprising, because the concept of copyleft was not invented until about 7 years later with the creation of the GPL in 1984, by Richard Stallman and the GNU project.\r\n\r\nLinux has no direct lineage to Unix (this BTW, is what makes developers giggle at the SCO \"case\" against IBM), but is instead an independent implementation of the \"POSIX\" standard that was itself based on the de facto standard of Unix. (That is, \"POSIX\" is a standard, \"Unix\" is a particular implementation of it -- but POSIX was created after Unix. In fact, it was created as a response to fragmentation of Unix due to commercial forks).\r\n\r\nHURD, by the way, is <em>another</em> independent implementation. Minix is an incomplete implementation of POSIX (IIRC), which exists primarily as an educational tool.\r\n\r\nThe modern FreeBSD and NetBSD distributions, by contrast, are Unix distributions that derive ultimately from the original 1977 BSD."
+-
+    name: ''
+    mail: ''
+    subject: 'Operating system != Distribution'
+    hostname: 217.36.111.190
+    created: '1175254385'
+    body: "Your article and the analysis conflates the operating system (GNU/Linux) with operating system + appplications (Distribution e.g Debian GNU/Linux). \r\nHilarity ensues.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'You guys don''t understand'
+    hostname: 194.73.67.254
+    created: '1175257633'
+    body: "You don't understand. GNU isn't some tools that make it useful. It's the Compiler and the critical toolset required to prep and run the operating system. It's not just some apps like KDE or OpenOffice. You can't replace the GNU toolset. You'd find it easier to replace the kernel!\r\n\r\nTherefore Distributions should call there system a GNU/Linux one.\r\n\r\nThere is more GNU software in your distro than Linux software. Just give these guys the credit they deserve. They don't want your money they just want a thank you for their efforts."
+-
+    name: guydjohnston
+    mail: ''
+    subject: GNU/Linux
+    hostname: 217.17.114.198
+    created: '1175273749'
+    body: "When I first started using the operating system, I called it \"Linux\", as that was the only name I heard of for it, and I hadn't heard any arguments for calling it anything else. However, after reading the various different arguments for different names, I've decided that the most appropriate name for the system is 'GNU/Linux', or maybe that name plus mentions of other less important contributions, such as 'GNU/Linux/X' or 'GNU/Linux/X/KDE', depending on how long a name you're prepared to write, and which parts you're actually using. After reading the arguments on the GNU project website (such as at http://www.gnu.org/gnu/gnu-linux-faq.html), I definitely agree that the contribution of the GNU project to the system is the most important one. I think the main reason for that is that it's the only one of the contributing projects (as far as I know) which has the goal of creating an entire operating system. Therefore, without it, we would just have a collection of useful free (as in freedom) programmes, rather than a complete free operating system, and GNU is the \"framework on which the system was made\". That means that it's not surprising that the GNU project makes up the largest single contribution in terms of size, which I think is another reason why it's the most important one. As I think it's the most important contribution, I think it makes sense to include it in the name of the system, and to mention it first.\r\n\r\nThis debate is made harder by the fact that it's not completely clear what is needed to make an operating system, and what isn't. I seem to remember that this has even been questioned for a proprietary operating system, as it's not necessarily clear whether or not Internet Explorer is an integral part of Windows, which I think was questioned in the anti-trust legal case with Netscape. However, I would definitely say that desktop applications such as OpenOffice.org and Firefox aren't part of the operating system, and are just useful applications to use on top of it.\r\n\r\nWhatever name you choose to call it, I don't think it matters a huge amount. It's helpful that people know how important the role of the ideals of software freedom were in creating their operating system, but whatever name people call it, it still gives us the same freedom, which is the most important thing. I often express my opinion to people that I think that a more appropriate name for it than 'Linux' is 'GNU/Linux', and I suggest that they call it that too, showing them evidence to back up my argument. But if people read all the arguments and still want to call it 'Linux', that doesn't bother me. I can see why people get annoyed when some people in the free software community seem to be constantly trying to aggressively \"correct\" them, to get them to use a name which they present as the only correct one.\r\n\r\nOn another note, a problem I've noticed with the pie chart is that GNOME has its own section, when actually it's part of the GNU project (see http://www.gnome.org/about/), though that doesn't make a big difference as it's quite a small contribution.\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'A bridge isn''t called a keystone'
+    hostname: 165.98.157.37
+    created: '1175275620'
+    body: "<cite>Let me make another analogy: the distro is an arch, and the kernel is the keystone. It's not the biggest or most impressive stone in the arch, but without it, the arch is not an arch.</cite>\r\n\r\nGreat analogy... but I'll carry it into a functional arch - a bridge... \r\n\r\nFirst of all, you don't call a bridge a keystone! Further you can't walk across a river on a keystone alone. The combination of a keystone and the rest of the bridge is called a \"bridge\". So, by this logic, the combination of the Linux kernel (equivalent to the keystone) and GNU (equivalent to the rest of the bridge) should be named after GNU (the rest of the OS). But no one is suggesting we ignore the kernel when naming the OS. On the contrary, those who wish to include GNU in the name want it known as \"GNU/Linux\".\r\n\r\nNo one is arguing that Linux is not a central and integral part of the OS. However, you can't ignore the rest of the OS which is made up mainly by GNU. The other parts like X, KDE, GNOME, etc., simply correlate, in my extension of your analogy, with the choice of surfacing material - wooden planks, cobble stones, bitumen, etc., and the useful add-ons like handrails, traffic lights, painted white lines, cat-eyes, etc. Without these add-ons, you still have a bridge.  \r\n\r\nThe rest of your \"points\" have no weight in the argument of what to name the operating system. How much time RMS has spent on writing Hurd or what he likes and doesn't like is irrelevant. As is whether you like him or agree with his philosophies. Whether GNU owes Linux or vice-versa is also irrelevant and it seems these \"points\" are only raised to muddy the waters and add confusion to the very simple and straight forward argument. \r\n\r\nYou also continue to give the impression that you think we (I include myself in this group) want to call the Linux kernel GNU/Linux, which is not the case. We are trying to give the correct name to the operating system which is made up of GNU and Linux. I'll say it again: we do not want to change the name of the kernel.     \r\n"
+-
+    name: ''
+    mail: ''
+    subject: '"Han", "Cock" or neither...'
+    hostname: 165.98.157.37
+    created: '1175276742'
+    body: 'Your surname is "Hancock" and I''m sure you would argue with anyone who wanted to call you just "Han" or just "Cock" because both parts are necessary to make up your surname. I wouldn''t find it pompous of you to expect other people to use your correct surname. '
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'GNU Hurd'
+    hostname: 217.17.114.198
+    created: '1175281891'
+    body: "I completely agree with Dave's response. Also, the goal of the GNU project is to develop a complete operating system which is free (as in freedom) software. This involves writing some software from scratch, and including some other free software written by other people. The reason the development of the GNU kernel, Hurd, has been so slow is that there's no real reason to develop it. The creation of Linux meant that the Hurd kernel isn't necessary, as Linux is a free software kernel which fits the requirements of the GNU project and can be used instead. At the moment, the main priorities of the GNU project and the free software movement are developing free software for jobs where none exists yet, for example a programme to play the latest Flash videos, and drivers to allow 3D acceleration for a lot of graphics cards. If all of those needs are satisfied in the future, and there's decent free software which can perform all the tasks that proprietary software can, the Hurd kernel will probably become a higher priority, and more work will go into making it better technically.\r\n\r\nAlso, the Hurd kernel isn't \"Stallman's own attempt to write a kernel\". As far as I know, Stallman has never worked on it. If he has, he's definitely not the only person who has. The GNU project and the Free Software Foundation aren't just made up of one person.\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: ''
+    mail: ''
+    subject: 'Actually, you can'
+    hostname: 201.253.133.101
+    created: '1175284644'
+    body: "It's rather easy to replace GNU, actually. \r\n\r\ncoreutils => busybox\r\nglibc => uClibc\r\ngcc => tcc\r\nbash => oksh, dash\r\n\r\nThose are probably GNU's three most important projects. I'm sure there are replacements for others. Sure, they might be suboptimal choices... but then, isn't Linux a suboptimal Hurd replacement?\r\n\r\nIn the end, Linux is a catchier name. It's easier to \"sell\" Linux than GNU/Linux. The average computer user would rather do something with his or her computer than discuss philosophy - not that I don't like philosophy, mind you, but when we try to convince people to sacrifice functionality for freedom, we end up losing them to MSFT."
+-
+    name: ''
+    mail: ''
+    subject: 'you don'' have to be correct'
+    hostname: 165.98.157.37
+    created: '1175286057'
+    body: "you don' have to be correct you can be as wrng as you like.\r\n\r\nyou can also write dry, verbose and uselss blog entries that tak about how GNU/Linux isnt named properly and instead doing something useful you only suggest a name that is more vague and non-specific like \"the free operating system\", which could get confused with the multitude of other free software operating systems out there.\r\n\r\nJust bcause others wantto be right when they name it doesnt mean they are pompous."
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'Summed up perfectly...'
+    hostname: 165.98.157.37
+    created: '1175290418'
+    body: 'If only I could find it funny.'
+-
+    name: ''
+    mail: ''
+    subject: 'Not all of the repository actually gets used!'
+    hostname: 75.34.33.113
+    created: '1175313106'
+    body: 'It would be interesting to weight each project by popcon statistics, to see who makes what actually gets installed.'
+-
+    name: ''
+    mail: ''
+    subject: 'It always amazes me......'
+    hostname: 68.106.218.222
+    created: '1175318802'
+    body: "It always amazes me that:\r\n\r\n1.  Someone could write such a post and not think that this would not be flame bait.  \r\n\r\n2.  That so many electrons are squandered debating it.\r\n\r\nPeople need to understand that the only people that care about this subject are those that love RMS and those how hate RMS.  Everyone else could care less and would rather do something productive with their favorite Linux distro....."
+-
+    name: ''
+    mail: ''
+    subject: 'A GNU/Linux Essay'
+    hostname: 220.233.53.52
+    created: '1175324365'
+    body: "I believe the definition of the term 'Operating System' is the key to understanding the issue of the term 'GNU/Linux'. I was taught that an OS's purpose was to <em>provide the basic platform for other software</em>. I was taught that an OS should have the following functions:\r\n<ol><li>Manage and maintain hardware resources and the interfaces to the hardware</li>\r\n<li>Manage and maintain the processing of software applications (multitasking and memory management) as well as managing the communication between the software applications.</li>\r\n<li>Provide a rudimentary \"generic computing platform\" for software applications to build upon and work with</li></ol>\r\n\r\nThese functions are important for an OS because without all these functions:\r\n<ol><li> each program would be required to provide their own hardware manipulation routines</li>\r\n<li>only one program would be able to operate at a time (this is a general statement and there are exceptions)</li>\r\n<li>it would be really annoying to developers if each software application had to provide its own rudimentary general purpose functions (such as PRINT STATEMENT, OPEN FILE, QUICK SORT LIST).</li></ol>\r\n\r\nLinux is a (POSIX compliant) operating system kernel that manages the end user applications. Together with hardware drivers, Linux also manages and maintains access to the hardware resources. GNU is an almost complete operating system - it is lacking a usable operating system kernel. The GNU libs together with a select number of GNU programs provide the generic computing platform that is required for end user software applications. I consider the rest of GNU to be end user software and not part of the definition of 'operating system'.\r\n\r\nI consider software such as Open Office, KDE, Firefox, ls, top, less and tar to be end user software and not part of the operating system. I don't consider the X windowing system to be a part of the operating system. X is necessary as <em>part of a usable computer system</em> but I don't believe it is the same level as 'the operating system'. I believe that X is the <em>next platform layer above</em> the operating system if you disregard the video drivers (the drivers are part of the operating system).\r\n\r\nLinux + drivers by itself does nothing particularly useful because end user programs aren't able to operate very well. The current GNU operating system implementation is not yet adequate enough to operate as a usable OS platform. GNU and Linux together provides the user with a OS; everything else can be considered as platforms that reside above the OS or end user software. Since Linux is vital part of the GNU/Linux operating system, it deserves a mention. Since GNU existed before Linux, I believe that it should be named first. This is why I prefer not to use \"Linux\" to refer to the GNU/Linux operating system platform."
+-
+    name: ''
+    mail: ''
+    subject: 'Where is the point?'
+    hostname: 24.132.1.111
+    created: '1175336435'
+    body: 'Linux is not known as Lin or ux, so the argument about Han vs cock instead of Hancock is entirely irrelevant.'
+-
+    name: ''
+    mail: ''
+    subject: 'It''s too late'
+    hostname: 156.34.29.45
+    created: '1175339802'
+    body: "I think it's already too late, the \"general\" population already know Linux, if you add GNU to it, it'll just be confusing. Sure they'll ask questions like, what's GNU? but who really wants to spend their time explaining the difference between a kernel and an OS.\r\n\r\nI'm 100% for calling it GNU/Linux, but if the GNU camp and the Linux camp don't start playing together, then there will be no point in calling it anything.\r\n\r\n\r\nmy 2 cents."
+-
+    name: ''
+    mail: ''
+    subject: GINUX
+    hostname: 74.107.192.94
+    created: '1175348707'
+    body: 'Ginux sounds like a good name to me for the OS.  Simply, it is easy to spell, easy to pronounce, easy to remember, credits both Linus and GNU.'
+-
+    name: ''
+    mail: ''
+    subject: 'Another attmept to bolster the argument?'
+    hostname: 59.184.49.199
+    created: '1175356901'
+    body: "Well, I am a newcomer to Linux and am still not in the flame-wars concerning the nomenclature of the OS as yet. Anyway from the stuff I've heard from the die-hard fanatics of GNU/Linux and Linux, I must say they are cribbing over such a mundane issue. Or maybe their life does revolve around such issues. If you'd ask me I prefer the name Linux to GNU/Linux because it's cumbersome to actually utter it every time someone asks you that. May I suggest something like 'Glinux' instead ? [that'll take care of GNU and Linux and it'd be a hell lot easier to pronounce it effortlessly]!\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'What are you talking about?'
+    hostname: 165.98.157.37
+    created: '1175360100'
+    body: "The kernel is known as Linux. But the OS which uses GNU and Linux is also known as Linux when it should be known as GNU/Linux.\r\n\r\nSaying \"Linux\" when you are talking about GNU/Linux is like saying \"Cock\" when you are talking about the author of this blog entry."
+-
+    name: ''
+    mail: ''
+    subject: 'GPL is GNU and the formost for freedom.'
+    hostname: 198.110.32.2
+    created: '1175367279'
+    body: "In my understanding any project and every package licensed under the gpl are all GNU as it were. I do see a whole lot more gpl software than any other in the area of \"Unix like systems\". Clearly the kernel is one of those. Why is this case not closed? Why does it still rage? Are people afraid of freedom?\r\n\r\nCall me a Stallmanite. I do not care. You know I am right. The software ideas pushed foreward by the FSF are the foundation of many open source projects that would not even exist if it were not for this most simple, most important, most forgotten, fact. Further more most of those licenses are watered down versions of the GPL. As for people not caring what the system is called I say that if you do not know the history of something then you do not know what it is.\r\n\r\nBrotherred"
+-
+    name: ''
+    mail: ''
+    subject: 'The View from 50,000 Feet'
+    hostname: 70.187.199.69
+    created: '1175371352'
+    body: 'The naming of things is an interesting topic.  People who are more removed from the process will find names that are more functional and less correct.  One might simplify this current argument as people who are more knowledgeable naming it GNU/Linux, and people less knowledgeable calling it Linux.  Could this be because the less knowledgeable are not using the GNU compiler and GNU tools on a day-to-day basis?  As GNU/Linux gets more and more popular, I think we will be surprised by the name(s) it ultimately called who are even less knowledgeable.  The most popular name may be "Internet", "Word Processor", or "Communicator", matching more closely with Terry''s pie charts percentages.  People will develop a familiar name adopting the concept into their lexicon.  When the it is finally renamed based on purpose, will this argument of GNU/Linux vs. Linux naming even be footnoted in history?'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'GNU is a distribution, too'
+    hostname: 68.93.224.4
+    created: '1175376473'
+    body: "The problem with this objection is that most of <em>GNU</em> is <em>also</em> \"non-essential\" or \"application\" software.\r\n\r\nIf you strip all that away, you're left with the \"core utilities\", and as I have already posted, those are about 111 thousand SLOC, compared to 5.05 <em>million</em> SLOC for Linux. That is 2.7% by SLOC. Or evaluated in terms of <em>effort</em> (because it's easier to write lots of small programs than one large one) about 0.5%.\r\n\r\nThat's right: the actual essential part of GNU that is used to justify giving it priority over Linux in naming the operating system is a mere <em>1/200th</em> of the work.\r\n\r\nAnd that doesn't even take into account the intrinsic increase in difficulty because of reliability requirements, long runtime, or non-deterministic problems due to hardware interfacing. Writing a kernel is a <em>far</em> harder task. Which is the reason why GNU itself never got HURD off the ground. The innovation behind Linux was the \"bazaar\" development approach, which led to much faster development.\r\n\r\n<em>OR</em>, we can be liberal and include all of GNU: but then we should be fair and include everybody else's \"non-essential\" \"application\" software as well. You can't have your cake and eat it too -- and either way, GNU is just icing.\r\n\r\nThe liberal approach (which amounts to what I described in my blog entry), is actually far more favorable to GNU (15% is much thicker icing than 0.5%!). So if you prefer \"GNU/Linux\", you really ought to be thanking me for not applying your definition of what is counted as \"operating system\". Because your version is much more hostile to the GNU claim!\r\n\r\nThe truth is, of course, that \"operating system\" does not have a rigid definition, so it's quite difficult to draw a sharp line around it, and usage varies quite a lot. When most people talk about doing things on \"Linux\" or \"GNU/Linux\", they really <em>are</em> talking about a much larger collection of software than just \"GNU\"+\"Linux\". Admittedly, it may not be the entire Debian distribution, but GNU+Linux still doesn't come close.\r\n\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'There is one good point here...'
+    hostname: 68.93.224.4
+    created: '1175391111'
+    body: "There is one good point here, which is that I have neglected glibc -- I suspect that's a separate package. So it needs to be counted.\r\n\r\n[...doing some grepping on the data set...]\r\n\r\nYeah, that's a much larger package -- about 980 K SLOC. So that makes the \"GNU core\" vs \"Linux\" balance a lot closer (about 20% of the size of Linux).\r\n\r\nI've already commented about the other half of that, which is that quite a lot of GNU would also be ruled out if you rule out \"applications\" or anything else that's not \"integral\" to running programs.\r\n\r\nFair point, though.\r\n\r\nHowever, regarding the \"next platform layer\" talk -- well basically the whole thing is an onion with many layers. That's part of the whole design concept for Unix and Unix-like systems. But where do you draw the line? There's no standard for that.\r\n\r\nAnd it is important to realize that we aren't discuss the computer science jargon usage of the term \"operating system\" -- we're using \"operating system\" to define that vague locus of software that some people call \"Linux\" and some people call \"GNU/Linux\". Do you really think that in popular culture people are making the distinction you make above (and for example, rule out the GUI layer?). I personally doubt that.\r\n\r\nSome people have objected that I'm talking about \"distributions\" -- but honestly, that's what a lot of people mean when they say \"Linux\". Is it really that much more accurate to insist upon \"GNU/Linux\" when describing a distribution?\r\n\r\nOr to put it another way, if people are \"wrong\" for conflating the name \"Linux\" with an operating system, aren't people equally wrong to conflate \"GNU/Linux\" with a distribution?\r\n\r\nYet, the full name of Debian is \"Debian GNU/Linux\" -- somehow it's okay that that doesn't include the whole set of software that Debian represents. Somehow we are demanded to list the <em>two</em> most important pieces of software, and not the <em>one</em> most important piece (but why not three?). I'm saying that a lot of people are getting very hostile about this issue, and it isn't really worthy of that kind of attitude.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: glibc
+    hostname: 68.93.224.4
+    created: '1175397464'
+    body: "I must fairly concede that glibc should be added to the coreutils. That's a pretty big package -- about 980 K, which brings the total for \"core GNU\" to about 1.1 million SLOC. Still smaller, but now about 20%, not 2.7%.\r\n\r\nSo, it's probably a good thing I didn't mention this in my blog entry after all.\r\n\r\nWhat else is \"integral\" \"Core GNU\" stuff?\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Spanky
+    hostname: 76.97.197.94
+    created: '1175400426'
+    body: "Let me clue you in.\r\n\r\nIt is called \"OPEN SOFTWARE\"!\r\n\r\nNow, don't you feel better.\r\n\r\nLive it, use it, be happy.\r\n\r\nPlease, PLEASE, stop with the long; hard to pronounce distribution names!\r\n\r\nOne word; that paints a nice positive image, that's easy to spell (memorable) and we're good to go.\r\n\r\nNow, if we can only get Kubuntu named something less silly than Koo-boon-too.\r\n\r\nhttp://www.kubuntu.com and never feel like you have the wrong distribution.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Free Software'
+    hostname: 217.127.236.41
+    created: '1175454236'
+    body: 'I want freedom for my operating system. No just features. Microsoft Windows already has features. <a href="http://www.gnu.org/philosophy/free-sw.html">Freedom works</a>!'
+-
+    name: ''
+    mail: ''
+    subject: 'Give it a catchy, non-partisan name'
+    hostname: 211.29.0.113
+    created: '1175473742'
+    body: 'Howabout a competition to come up with a name that will market well?'
+-
+    name: ''
+    mail: ''
+    subject: 'Integral "core GNU"'
+    hostname: 201.253.205.48
+    created: '1175479414'
+    body: 'Bash & Glibc?'
+-
+    name: ''
+    mail: ''
+    subject: 'Waste of time'
+    hostname: 203.118.29.174
+    created: '1175497978'
+    body: 'Call it whatever you want, I don''t care, why are even talking about this? Is it because there''s someone out there not getting enough credit? I''m using Ubuntu (GNU/Linux, Linux/GNU, Free OS, whatever) and loving it, and I think this topic is really unnecessary. The more I come across article like this, the more I feel like GNU is a sore loser, which is bad coz it''s not a loser at all but acting like one.'
+-
+    name: ''
+    mail: ''
+    subject: 'Both examples incorrect - should look at the licenses instead'
+    hostname: 213.86.197.188
+    created: '1175503978'
+    body: "Both your examples look at incorrect parameters to determine whether a typical, complete distribution should be called GNU/Linux or Linux or something else.\r\n\r\nIf you want to decide this, you MUST look at the LICENSE under which said software in a typical distribution is distributed. A typical distribution being a 100% unencumbered distribution like Fedora, Mandriva Free or the like.\r\n\r\nI'm sure, if you did that, you'd come up with an outstanding majority of software will come up as GNU GPL.\r\n\r\nThere is no doubt in my mind that any distribution should be called the GNU-OS. Regardless of which kernel it uses.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Flawed analyses'
+    hostname: 213.86.197.188
+    created: '1175504151'
+    body: "Even if anyone were to go by your suggestion, since the single largest copyright holder is the FSF, it should undoubtedly be called the GNU-OS.\r\n\r\nAFAIK, \"Linux\" is the only OS insistent on being named after it's kernel. All other OS's are named by the largest stake-holder in the software.\r\n\r\nGoing by that, the name \"GNU-OS\" seems a perfectly sane choice to me."
+-
+    name: richard_s
+    mail: ''
+    subject: 'another methodology'
+    hostname: 193.242.104.7
+    created: '1175522032'
+    body: "I have the feeling that the wrong thing is being measured. I think that virtually no one has all of Debian installed or would like to... You can't hope to get interesting results if you don't take into account how often are the packages actually used.\r\n\r\nI would be really interested if someone counted SLOC and COCOMO for a “standard” Debian installation... Of course, I have no idea about what really is a standard Debian install, but I guess Debian OUTB could be a good point to start :)"
+-
+    name: Tyler
+    mail: ''
+    subject: 'popularity contest'
+    hostname: 132.206.29.23
+    created: '1175527373'
+    body: "Debian's popularity-contest documents which packages actually get installed and used, so that would be a good place to start. It's also worth noting that there are many different versions of the kernel available, but you're only likely to actually use one, so that could inflate the sloc value for the kernel.\r\n\r\nIt's a shame this blog was framed as a GNU/Linux vs Linux fight. \"Who's writing our software\" is an interesting topic, but the presentation here was almost guaranteed to degrade into a flame-fest.\r\n\r\nty"
+-
+    name: ''
+    mail: ''
+    subject: 'Gnu is hard to say. Period.'
+    hostname: 69.107.249.65
+    created: '1175558772'
+    body: "'Linux' is easy to say. 'Gnu' is confusing. Do I pronounce the G or not? So saying 'Gnu/Linux' is even more awkward, and harder to type. \r\n\r\nIf you want your name to catch on, make it easy, short, and non-confusing. Duh. IMO Gnu and RMS contributed much more to the free software movement both in philosophy and in sheer code, but Linus Torvalds came up with a catchier name. Gnu guys are programming gurus. Marketing geniuses - not so much.\r\n\r\nGnu is further confusing because of the meaning of the word. 'What's that stand for?' 'It stands for 'Gnu's Not Unix.' 'Okay . . . but where did the 'Gnu' come from.' etc. The strange wit of hackers and their 'recursive acronyms' pretty much falls flat outside the geek community.\r\n\r\n"
+-
+    name: 'Kevin Dean'
+    mail: ''
+    subject: Nexenta
+    hostname: 70.17.125.151
+    created: '1175618754'
+    body: "The BSD projects are a tighter collection of software, in general, than \"Linux Distros\". Those projects include a kernel, basic utilities, and \"higher\" level programs.\r\n\r\n\"Linux distros\", on the other hand, are assembled from pieces created in multiple places.\r\n\r\nFreeBSD doesn't use a lot of the GNU tools, but it does use some. Projects like the Debian/kFreeBSD project attempt to use these GNU tools combined with a FreeBSD kernel.\r\n\r\nNexenta is the same basic concept, except that rather than a FreeBSD kernel, it is built around the OpenSolaris kernel, and builds it up using Ubuntu sources.\r\n\r\nThe systems feel a lot like \"Linux\" which is why I've dropped the Linux entirely and begun saying I use GNU. GNU/Linux, GNU/kFreeBSD and GNU/OpenSolaris all feel pretty much the same.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'GPL <> GNU'
+    hostname: 129.223.99.144
+    created: '1175639777'
+    body: "The GNU General Public License is used for a huge number of software projects; but only a small number of those are actually \"GNU Project\" packages.\r\n\r\nFor example, Linux (the kernel, of course) is licensed under the GPL; but no-one thinks for a second that it is a GNU Project program.\r\n\r\nIt's not completely clear to me what *actually* consitiutes a \"GNU Project\" package, there's a directory published from their website http://directory.fsf.org/GNU/ that is probably the complete set.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Functional distributions?'
+    hostname: 129.223.99.144
+    created: '1175640043'
+    body: "As well as considering the complete universe of packages in Debian, how about looking at the default set of installed packages? That's difficult for a distro where you are offered multiple choices at install time, but you could do the equivalent with a live CD ... after all, a live CD represents a \"full working operating system\" branded by a distribution.\r\n\r\nSo, what is the package source split on the Ubuntu Live CD?"
+-
+    name: ''
+    mail: ''
+    subject: 'The (FOSS) world will still spin if GPL doesn''t exist.'
+    hostname: 125.238.80.66
+    created: '1175677198'
+    body: "A lot of people argue that we should put the \"GNU\" back into GNU/Linux because most software packages are using GPL - written by the GNU Project.\r\n\r\nWow. It's amazing how naive people can get.\r\n\r\nI mean, GPL is all great and stuff, but the point is, we will still live without it. Another person/project will still have written the same kind of license, and software projects will just go with that. It's not like GPL is irreplaceable. And it will probably be better because there probably won't a GPL groupie that insists on names, and appears as an eyesore in the FOSS community. *dodges flame*\r\n\r\nNow go out and refresh yourself in a park or something instead of indulging yourself with this useless and pointless debate over a name."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I think you mean to say that'
+    hostname: 68.93.224.4
+    created: '1175734726'
+    body: "I think you mean to say that \"copyleft\" is essential but \"GNU GPL\" is not. This might be true in principle.\r\n\r\nOf course, in practice, the nature of copyleft makes multiple copyleft licenses awkward, so there's a strong motivation to standardize on just one -- and as a practical matter, GNU GPL is it.\r\n\r\nHowever, it's equally silly to suppose that GNU should get credit for everything licensed under the GPL."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'You''re right, and I''m'
+    hostname: 68.93.224.4
+    created: '1175735514'
+    body: "You're right, and I'm regretting it...\r\n\r\nI thought it would raise some interest in the topic to relate it to something that people already like talking about. I figured more people would read it that way. And of course, it does bear on the question.\r\n\r\nBut I was shocked at the violence and lack of civility of some people about this issue. I really thought it would just be a fun segue to the real point -- which is that most free software in a \"GNU/Linux\" distribution is neither \"GNU\" nor \"Linux\", nor even any of the other big name contributors. I think the important lesson is that free software is written by lots of different people.\r\n\r\nI did, however, get some useful comments from this thread, and made some modifications to my scripts. I think I may've found some bugs though, which resulted in overcounting both \"GNU\" and \"Other\".\r\n\r\nI'm still trying to sort out whether the \"Other\" bug was that I was overcounting them before or undercounting them now. It's not huge a difference, but irritating, nonetheless.\r\n\r\nAnyway, the final numbers will be in my book (and <em>without</em> raising the \"GNU/Linux\" naming issue, which I really don't care that much about -- I'm going to be extra-careful about that now).\r\n\r\nPolitics are hell, what can I say?\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'The kernel is not multiply counted'
+    hostname: 68.93.224.4
+    created: '1175735797'
+    body: "The kernel is not multiply counted in this measurement.\r\n\r\nEach source packages was counted just once, and substantial overlaps were eliminated (This isn't my work though, but the work of the \"Libre Software Engineering\" group that generated the original statistics on which my work is based -- they do make this claim, though, and I have personally verified it for the kernel).\r\n\r\nThe popularity contest would be an interesting statistic to collect, I may try that.\r\n\r\nI was interested in the whole field of available software -- that is to say, the amount of effort expended on free software, however, so the numbers I've plotted are the ones I most wanted.\r\n\r\nThe popularity issue might be more closely related to \"value-generated\" though, since you can argue that a package used by 10 people has generated 10X the value of one used only by 1.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Driving the "Facom/Beetle" and using "GNU/Linux"'
+    hostname: 81.247.103.148
+    created: '1175849664'
+    body: "My car was put together with \"Facom\" tools.  Am I driving a \"Facom-Beetle\"?\r\n\r\nI do understand the claim of GNU.  They are right for what concerns the role and weight of GNU.  But is it good or necessary to change the \"common\" use of \"Linux\" to \"GNU/Linux\"?\r\n\r\nIt might be a question of perspective.  Most people involved in the discussion here are programmers or IT people.  They should say it as \"right\" as possible.  They use GNU tools to build their Linux (kernel) and work in this GNU/Linux system or add the X layer to be able to run free desktop software etc.\r\n\r\nEnd users use ... their layer.  They use \"Ubuntu\", \"Suse\", \"Red Hat\" or whatever.  Because that's what they get, buy or download.\r\nEnd users \"use\" KDE or Gnome (it starts with a \"G\"!), because that's the layer they use.  They never use the kernel, let alone the GNU tools.  But we can hope they use Free Software on the desktop (general name? - catchy would be usefull..)\r\n\r\nBut we wouldn't want them to start to use \"GNU/\" in front of all kinds of software that are NOT free.  Which might be the result if they get used to add \"GNU/\" in front of all software names just to get rid of this irritating corrections of people like us.\r\n\r\nputting_out_the_fire_with_gasoline"
+-
+    name: 'Johannes Hutabarat'
+    mail: ''
+    subject: Flashforward
+    hostname: 202.146.241.6
+    created: '1175868876'
+    body: "Thank you for bringing this lively discussion up. I don't think it's useless, so I don't see why you should be regretting it. In fact, I consider this discussion on names quite worth while because it could reveal your attitude and true colors. Anyway, here's my share:\r\n\r\nIt was my understanding (and still is now) that the most acute argument from RMS et al. to use \"GNU/Linux\" (instead of just \"Linux\") was that he and his company were beginning to detect that many of the OS users and programmers were not completely aware of the GNU backbone role and, worse, the history of the making of the OS. Allow me to quote from <a>http://www.gnu.org/gnu/linux-and-gnu.html</a>:\r\n\r\n<dd>\r\nProgrammers generally know that Linux is a kernel. But since they have generally heard the whole system called “Linux” as well, they often envisage a history that would justify naming the whole system after the kernel. For example, many believe that once Linus Torvalds finished writing Linux, the kernel, its users looked around for other free software to go with it, and found that (for no particular reason) most everything necessary to make a Unix-like system was already available.\r\n</dd>\r\n\r\nCombining this with the camp's insistence (or, perhaps strong persuasion?) on using the word \"free\" in all the software produced, I agreed with their argument, changed my attitude accordingly and started calling it \"GNU/Linux\".\r\n\r\nIf someone now asks me what OS I use, I answer \"GNU/Linux\" or, if I'm in a talkative mood, \"Debian GNU/Linux\". I am thoroughly aware that more than 70% of time (at least up until today and some foreseeable future) (and I'm using \"70%\" out of the blue; haven't made a good statistical compilation, sorry) I am bound to respond to an innocent raised-eyebrow such as \"GNU/Linux? Is that the same as 'Linux'?\". However, I am prepared to spend my two minutes nodding my head and uttering reassuring words that a thing called \"GNU\" is indeed inside the OS. By doing this, I am further prepared to lengthen my explanation about GNU project, RMS and his camp, should the inquirer gets interested. That is what I consider to be the least I can do to express my appreciation of using a FREE OS (and perhaps of getting a piece of my freedom back?). Now, I can go at length trying to describe my personal feelings of indescribable excitement of being able to tweak the very software that talks to my hardware like I could in the (g)olden days of DOS (although I haven't had the luxury to start writing anything), but I supppose it be sufficient to say that I highly appreciate what those guys have provided to me, sacrificing their opportunity costs (and perhaps family costs too) in the process. It is not an overstatement to say that I also feel a kind of debt to their efforts; that's why I'm finding ways so that I will be able to be a productive agent in this movement.\r\n\r\nDid I say movement? (Since I'm writing this as quickly as possible due to other errands, Idon't know if this will make a good composition; I just want to blurt out a bit. :) ) Yes, so I think the essence of this OS naming polemic is the movement that is carrying it: the <em>FREE</em> software movement. From historical perspective, this was a BREAKTHROUGH. From philosophical perspective, this was an AWAKENING TO HUMANITY. From technical perspective, this was a LIBERATION. I'm glad I chose to be in it. It was the reason I stuck with Debian when Red Hat seemingly offered the same free-spirited, but more luminously attractive and user-friendly, OS (versions 7 and 8) to little guys like me: I preferred something called \"Debian GNU/Linux\" to \"Red Hat Linux\".  (I use the word \"seemingly\" because we know what happened after RHL 9). And it was the reason I got in FSM because it chose to use the word \"Free\" (and, I hope, it was also this word that got you in). If now I have to explain about GNU, RMS and his camp, I am bound to talk about \"free software\" and its heavy philosophy, which may not be everyone's cup of tea. But it will be their choice not to take up this freedom movement; at the very least, I will have the satisfaction of telling them about it.\r\n\r\nNow, I must admit that I haven't read and studied accounts of FSF guys stopping talking to people who would not go along their demand in calling it \"GNU/Linux\". Nor have I had the fortunate circumstances of talking any of them. But if those accounts are true, then it just shows us that they, too, are real humans, not gods. I would say that it was their human reaction of disappointment in the fact that many of the, to borrow Socrates' phrase, \"beautiful young ones\" were spiritedly contributing (writing) to the movement without realizing its instigators, and perhaps the heavy philosophy behind it and the ubiquitously restricting environment it had to break through. Why couldn't we find this reaction humanly acceptable when we have heard stories of even God's being disappointed?\r\n\r\nSo, what has the post's title got anything to do with the above?\r\n\r\nIt is now a widely accepted philosophical as well as practical paradigm that everything changes. In other words, as someone has put it, the only constant thing is change. When we happily and contently refer to this OS as Linux (the name of the kernel) and one day Linus (the name of the creator, chief maintainer and copyright holder) decides, for whatever reason, that the next version of the kernel will have a more restricted license (not to say commercial), will it not break the OS and create disappointments in many people, to put it in an understatement? Perhaps it will not create disappointments because, to most people, who are ignorant (or be made ignorant), it will most likely be considered as a natural path that the kernel must tread. But we can clearly see now that it will thrust a heavy blow to the movement and we (or perhaps more precisely, those guys) will have to go back to the square where we didn't have a kernel. What a premonition :( (I sincerely hope this won't happen, though, and stand corrected if it is not possible due to previous licenses of the kernel; but my point is that, in order to keep the freedom, we must keep reminding ourselves about earning it.)\r\n\r\nIn conclusion, by using \"GNU/Linux\", I keep reminding at least one lucky individual in this world (out of almost six billion): myself. I keep reminding him that, as a result of the movement, he is a little freer as a heavy computer user and has a brighter next day as someone who lives and makes his living out of using computers."

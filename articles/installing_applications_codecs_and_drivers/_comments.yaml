@@ -1,0 +1,42 @@
+-
+    name: 'Anonymous visitor'
+    mail: adam@adammckaig.com
+    subject: Automatix
+    hostname: 80.229.7.201
+    created: '1186396392'
+    body: "please note that although \"automatix\" scratches a very common itch, it is widely regarded as fundamentally broken - even harmful to the computer on which it is run. the majority of its functions are performed in a very crude fashion, and it is often responsible for borked dist upgrades. so much so, that #ubuntu won't support automatixed systems.\r\n\r\nfor more information about automatix:\r\nhttp://mjg59.livejournal.com/77440.html\r\nhttp://linux.slashdot.org/article.pl?sid=07/08/04/1944211"
+-
+    name: 'Anonymous visitor number two'
+    mail: freeworm@eircom.net
+    subject: 'So... if automatix is what'
+    hostname: 213.94.254.101
+    created: '1186520298'
+    body: 'So... if automatix is what linux needs to give that "itch" (as you call) it a good scratch - then, in the spirit of openness should the fragmented linux "community" not fix it and move on rather than the usual my-distro-is-better-than-yours bitching?'
+-
+    name: 'Anonymous visitor'
+    mail: Anonymous@Anonymous.com
+    subject: Autopackage
+    hostname: 71.123.118.78
+    created: '1190207417'
+    body: 'My experience is that it doesn''t work (at least consistently) in x64 bit distro''s and that development is pretty much stopped.'
+-
+    name: 'Azrael Nightwalker'
+    mail: azrael@viii-lo.krakow.pl
+    subject: Klik
+    hostname: 213.134.181.224
+    created: '1190216366'
+    body: 'Notice that Klik brings a little overhead - every Klik package contains some libraries that normally would be shared and not duplicated.'
+-
+    name: undefined
+    mail: ''
+    subject: 'easy ubuntu'
+    hostname: 192.91.147.35
+    created: '1190401651'
+    body: "yes, automatix was fulfilling a need, and the response has been two-fold: easy ubuntu & ubuntu itself.\r\n\r\ni can't authoritatively say that easy ubuntu was in direct response to automatix, or if it's age equals automatix but it only received attention once automatix was recognized as being fundamentally broken.  either way, easy ubuntu is the recommended alternative to automatix as it works with the distribution's tools (apt, dpkg), not against them or around them.\r\n\r\ncanonical has even added the ability with feisty to install codecs on-demand, which alleviates some of the need for automatix.\r\n\r\nbeing a seasoned debian user, when i installed feisty for my wife i didn't need any helper application: googling for apt repositories was sufficient.  so neither application is necessary to achieve the same level of functionality.\r\n\r\neverything you need to know about avoiding automatix is on its wikipedia page: http://en.wikipedia.org/wiki/Automatix_(software) (specifically the \"Response\" and \"See also\" sections)."
+-
+    name: 'Chris Lees'
+    mail: webmaster@dancepop.zzn.com
+    subject: 'The real solution'
+    hostname: 211.26.45.16
+    created: '1190723187'
+    body: "Not even Click 'n' Run is the real solution, as it still depends on you downloading the package directly from Linspire. Besides, Click 'n' Run isn't actually a packaging format, it's a repository with .debs and .rpms for different systems.\r\n\r\nThe real solution must revolve around source code, as it is the only thing that can work across distributions and even architectures.  Some kind of package format that can include a bog-standard x86 binary and possibly a 64-bit binary; but also include the source code which will automatically be built if the package is used on an unsupported distribution or architecture. This package manager would also be able to link into the distribution's native package manager to grab dependencies and list the newly-built program as a recognised native package.  (like Checkinstall on Debian-based systems).\r\n\r\nI had this idea while ago, and called it \"the BleedingEdge Package Manager\", but so far I have not had a chance to code it up. If anyone in the community wants to take this up as a project, please be my guest!"

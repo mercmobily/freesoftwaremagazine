@@ -1,0 +1,98 @@
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'My Favourite FS'
+    hostname: 61.68.100.159
+    created: '1174263975'
+    body: "If this article hadn't specified 'free' software I would have nominated the M$ OS as my favourite software on the grounds of the old bar line;\r\n\r\n\"How dare you criticise the man/woman who drove me to drink!\"\r\n\r\nCertainly, one has to experience the expensive horrors of an OS written by a bunch of corporate shysters, before they can truly appreciate the joys of free operating systems written by proper code hackers.\r\n\r\nMy favourite free software at present is Kubuntu, of course. It is an ideally placed OS at a time when most computer users have been given a multitude of good reasons to wish to escape the abortionate corporate creation M$ call Vista.\r\n\r\nWhenever an alarmed M$ user complains that they are going to have to buy a new high-end machine, with four gig of ram, just so they can 'update' to Vista, I simply burn off a Kubuntu install CD and say,\r\n\r\n\"Boot up your machine with this in the slot, and your modem running, then press the 'install' icon. In fourty minutes you'll have a free operating system that will beat Vista hands down, complete with a first-class office suite, and everything else that you can imagine. It will be automatically configured to your broadband connection and ready to go. YOU WON'T HAVE TO UPDATE ANY HARDWARE OR PAY OUT ONE SINGLE CENT. It even allows you to keep your current M$ OS, as a partition, if the change makes you feel nervous. It'll work straight out of the box, and anyone who has ever used M$ will have no trouble using it straight away.\"\r\n\r\nWhat other free software OS could you confidently give to someone and make a claim like that?"
+-
+    name: thePanz
+    mail: ''
+    subject: 'Can I call "gentoo" a piece of software?'
+    hostname: 87.2.152.155
+    created: '1174294672'
+    body: "My favorite \"piece of free software\" is called <a href=\"http://www.gentoo.org\">Gentoo</a> (I mean: the Portage system) :)\r\nIt beats others \"software\" 'cause it forces you to really learn how Linux works and, once you get it, you got the power to rule all Linux distributions!\r\nUsing <a href=\"http://www.gentoo.org/doc/en/handbook/handbook-x86.xml?part=2&chap=1\">Portage</a> is really fast and simple IMHO! It let's you decide what and how install and fine tune all of the software your system will run (compiling options, package dependences and software options)!\r\nBye!\r\n\r\n-thePanz-"
+-
+    name: 'Fabio Emilio Costa'
+    mail: ''
+    subject: 'Why OpenOffice.org?'
+    hostname: 161.148.37.72
+    created: '1174307277'
+    body: "Well...\r\n\r\n1-) PDF Export!\r\n\r\n2-) Presentations in Flash!\r\n\r\n3-) ODF support!\r\n\r\n4-) Opens all that pesky .DOC, .XLS and .PPT!\r\n\r\n5-) It's free (as in speech <strong>and</strong> as in beer).\r\n\r\n6-) Linux, Windows, Mac, all of 'em runs OpenOffice.org\r\n\r\n7-) Shooting Microsoft where hurts more!"
+-
+    name: 'shawn grimes'
+    mail: ''
+    subject: 'OpenOffice & Firefox'
+    hostname: 216.251.209.109
+    created: '1174314578'
+    body: "I don't think any piece of software will do/has done more to help the \"digital divide\" than OpenOffice.  It allows family's who could just barely afford last year's e-Machine model to create documents for school, professional looking resumes, etc. without spending a month's salary.  I have family members that are educators that are jubilant that students have a low-cost alternative to MS Works.  \r\n\r\nMy second pick would be Firefox.  What more of an explanation do you need than: it's not IE.  Safer browsing with plenty of customizations.  \r\n\r\n<a href=\"http://claimid.com/shawn\">Shawn Grimes</a>\r\n<a href=\"http://www.shawnsbits.com\">Shawn's Blog</a>\r\n"
+-
+    name: fla_snowman
+    mail: ''
+    subject: 'Favorite Free Software?'
+    hostname: 24.73.98.118
+    created: '1174320805'
+    body: "It's really hard to decide what I would call my favorite free software in Linux. OpenOffice.org, Firefox and Thunderbird are great pieces of software. But then I cannot forget Amarok, K3B and Easytag which I use just about daily. The simple ability to change desktops is also another great feature. KDE, Gnome and Xfce give users the ability to configure their desktop to their needs, try that in Windows.\r\n\r\nCould I call SabayonLinux a piece of software? It uses the power of Gentoo without confusing a new user (to Gentoo), and the Beryl desktop running off a Live CD is proof of Linux' superiority.\r\n\r\nI really can't choose one package as my favorite. I prefer Linux because it simply works, no fuss no muss. When was the last time you installed Windows on a machine and everything worked right out of the box? PCLinuxOS installed on my old laptop and everything worked right away, including the wireless card. \r\n\r\nI guess my favorite software (if you can it that) is: <strong>Linux</strong>"
+-
+    name: novica
+    mail: ''
+    subject: 'copy/paste with mouse'
+    hostname: 85.30.127.73
+    created: '1174338396'
+    body: "Copy/paste with mouse only by selecting text is definitely my favorite when it comes to compare features of free vs. proprietary software. I believe that the X window system is the one that makes this possible.\r\n\r\nIt's faster than doing things with keyboard shortcuts - so it increases productivity when copying some text around. And it does not interfere with the usual <code>ctrl+c/ctrl+v</code> actions. \r\n\r\nJust used it to paste the text here. :)"
+-
+    name: Tyler
+    mail: ''
+    subject: 'The one true editor'
+    hostname: 142.177.144.84
+    created: '1174357964'
+    body: "I'd like to say that Emacs is better than the proprietary alternative, but I can't think of one! \r\n\r\nAs an interface to LaTeX and BibTeX it produces more beautiful documents than Word. With R and ESS it is a more flexible statistics package than SAS. Shell mode offers more power for managing files than the limited options available in Windows Explorer, and you can save a log of your work as a text file. I use Emacs in place of at least ten MS programs, and in every case it provides more features, more power, and more stability. \r\n\r\nTyler"
+-
+    name: desmo
+    mail: ''
+    subject: 'CentOS -  LTSP'
+    hostname: 89.213.1.115
+    created: '1174412369'
+    body: "If CentOS can be classified as a \"Software\" then I think it is my favourite. As an enterprise level server OS it has given me the opportunity to introduce Linux where I work knowing I am offering a stable and reliable product, and when it comes to $$$ free is always considered a good alternative. CentOS because thanks to their knowledgeable community and to the LTSP project, I will finally see some Linux on the desktops in my company.\r\n\r\nCheers\r\nSimone"
+-
+    name: 'Gianluca Pignalberi'
+    mail: ''
+    subject: 'Your compositor’s free choice'
+    hostname: 80.104.247.2
+    created: '1174421359'
+    body: "<p>You know: I’m definitely a TeX and friends’ advocate, when I do promote a typesetting system. In fact it was our EIC’s first choice, instead of, i.e., Scribus.</p>\r\n<p>Why? It’s fully programmable; its macro packages are “CSS-like driven”; every OSs all over the world have a TeX porting. Moreover, it helped defining a <i>de facto</i> standard for (multilanguage, and very large, too) document interchange; it’s daily improved in its capabilities by thousands of users everywhere; it produces the best typeset PostScript/PDF documents, slide presentation, and so on, you’ve ever seen.</p>\r\n<p>A lot of programs export plots, drawings and charts so that their fonts exactly match, and change accordingly, to those used in your documents. And, at last, try to typeset some math with TeX and with XPress, Word, or <i>AcmeSetter</i>, and then compare the result. Peace.</p>"
+-
+    name: herminio
+    mail: ''
+    subject: Songbird
+    hostname: 63.161.169.64
+    created: '1174510248'
+    body: "For people who a really cool media player that does not implement DRM I would recomend Songbird; you can check out the site at http://www.songbirdnest.com. The player lets you download media files off websites. You can search for media using sarch engines like google and dogpile, as well as buy media. You can also import your iTunes files and manage you iPod as well. I love it!\r\n\r\n\r\n\r\nHerminio\r\n\r\nEvil prevails when good men do nothing."
+-
+    name: clievers
+    mail: ''
+    subject: 'My Top 2 Free Software'
+    hostname: 209.89.109.91
+    created: '1174579497'
+    body: "I'm sure that these will probable be a common answer, but Open Office and Firefox are very good open source free software. \r\n\r\nWith Firefox, the immediate advantage I found once I started using it was the tabbed browsing. Not having to have multiple browser windows open was a godsend. Free up space on my task bar (yes, semi-windows user here). The next great thing is the extensions. There are so many of them available. You can get them to check email, assist w/ web design/development, run custom scripts, view link/page in IE (as a last resort, hee hee). A wonderful piece of software. Oh, and of course, it's multi-platform.\r\n\r\nWith Open Office, you get a free version of Microsoft Office. While it's true that there can be some formatting issues, when opening an M.Office document with O.Office, but for the most part I don't have too many problems. Oh, and did you catch that last statement? You can open M.Office documents in O.Office, and save in the formats of M.Office too. Great for if you have to work with Clients still use M.Office. Exporting to PDF as well, out of the box, is also great. This software also being multi-platform gives it another leg up on being a great piece of free software.\r\n\r\nThose are the two big ones for me, I use them everyday and home and at work. At work I also use Thunderbird, a free email application (from the makers of Firefox), and have been getting around to learning The GIMP (like Photoship). And of course, finally, there's linux. I've been also messing around w/ various distro's and it's great as well.\r\n\r\nThank you so much to all of the developers (et al) who put so much hard work and effort into building and maintaining these pieces of software."
+-
+    name: trollzor
+    mail: ''
+    subject: Freemind
+    hostname: 203.214.120.12
+    created: '1174662111'
+    body: 'Freemind is a mind mapping software package licenced under the GPL. It''s an awesome program that allows you to map out ideas and connections between them in various ways with graphics and colours. More than just being an awesome program at what it does, it also does with your data what you want to do with your data - i.e. it''s got a ".mm" mind map format but can export to really impressive javascripted XHTML, to PNGs and OpenOffice.org writer. GPLed, cross-platform, open formats, awesome program - once you have those, what else is there to say?'
+-
+    name: 'elastic taboos'
+    mail: ''
+    subject: Blender
+    hostname: 85.124.4.98
+    created: '1174669129'
+    body: "As I'm preparing this comment in OpenOffice, I choose the two features that I think make Blender much better than Maya and 3ds Max: It is free of charge and easy to use. This helps young students in two ways: They don't have to cough up the last bit of their savings, and more importantly, they can be totally self-taught and still create amazing animations with Blender. No more waiting to afford the next texturing course, but hands on experience so we can contribute sooner.\r\n\r\nNot only is Blender free software, it is free education."
+-
+    name: naveenagg
+    mail: ''
+    subject: 'Openoffice & Fire Fox'
+    hostname: 59.94.103.100
+    created: '1174671822'
+    body: "\r\n\r\nOpenOffice is one of the most useful open source software followed by firefox. I didn't use IE much after I started using firefox. Tabbed browsing is such a nice feature alongwith the popup blocker. Although both of these softwares are little more resource hungry, especially in windows environment but they are worth it. I am using Openoffice in workplace for more than a year now. There is hardly anything which I am not able to do. \r\n"

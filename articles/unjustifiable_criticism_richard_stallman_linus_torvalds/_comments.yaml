@@ -1,0 +1,91 @@
+-
+    name: speedyx
+    mail: ''
+    subject: Motivation
+    hostname: 93.122.233.174
+    created: '1226913085'
+    body: 'Maybe Torvalds promote an opposition to the FSF and Stallman position to gain more donation and sponsors.'
+-
+    name: sepreece
+    mail: ''
+    subject: 'The piece wasn''t about Stallman (but Linus is right there, too)'
+    hostname: 216.145.54.15
+    created: '1226945855'
+    body: "This commentary is amusingly exactly what Linus would probably have predicted. The piece wasn't about Stallman, he was just mentioned as an example of a political style that Linus rejects, but it was completely predictable that a story in FSM would focus on the minor mention of Stallman, rather than the message of the piece, which is about the spirit of collaboration and openness that he sees in Obama and hopes leads to a healthier image and reality in American politics.\r\n\r\nThis is contrasted to Stallman's exclusionary views - if you don't value software freedom above all else, you're the enemy. I think there is continuing danger that Stallman will have the same negative effect on potential uptake of the issues he supports that Nader has. They both have a level of monomania that makes you root for the white whale...\r\n\r\n"
+-
+    name: 'Paul Gaskin'
+    mail: ''
+    subject: 'Wow Terry, thanks for the very detailed and passionate response.'
+    hostname: 24.188.231.232
+    created: '1226946960'
+    body: "GPLv3 is not controversial among those who understand it.\r\n\r\nRegardless of the controversy among those who don't get it, version 3 of the GNU GPL is propagating at a brisk pace.\r\n\r\nNobody I know thinks Richard Stallman is perfect, and neither does Richard Stallman.\r\n\r\nStallman does not owe an \"enormous debt\" to ______ [not sure who you had in mind here], for the existence of the Linux kernel.\r\n\r\nWhat you fail to realize is that Stallman's commitment to software freedom is an achievement regardless of how many people understand the importance of it.\r\n\r\nLuckily, lots of people understand the importance of this commitment to  freedom. Apparently, Linus Torvalds is not one of them.\r\n\r\nBTW, Terry, you might want to trim that beard if you don't want to be mistaken for someone who might be sympathetic to a \"fanatic\" like Richard Stallman."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Torvalds is right'
+    hostname: 68.93.224.4
+    created: '1226962098'
+    body: "Okay, _I'm_ going to take stand: Torvalds was 100% on target in the referenced article.\r\n\r\nTorvalds criticism is (as it has always been) mild and qualified. The message is essentially that Stallman has done some great and good things, but he's imperfect, and following his every footstep is not a good idea. That Torvalds  favors GPLv2 and dislikes GPLv3 is not news, and the truth is that GPLv3 remains fairly controversial among developers.\r\n\r\nSo, what part of this is \"unjustified\" criticism?\r\n\r\nThere's no question that Stallman spends a lot of effort on negative campaigning against proprietary software, and less on promoting the benefits of software freedom. Indeed, when a group of people including Raymond and Perens _did_ form the \"open source\" marketing campaign to promote free software to a much broader community (thereby securing the successful distribution of free software that is responsible for most of Stallman's present day prominence), he _attacked_ them for it on trivial issues like the semantics of the name!\r\n\r\nThe same treatment has been given to Torvalds, who Stallman should owe an enormous debt to for the existence of Linux, without which, Stallman and his GNU project would probably still be anonymously puttering away on an incomplete operating system.\r\n\r\nSo, personally, I think Torvalds is being pretty fair here. Not that there isn't another side to it, but it's all valid criticism, and labeling it \"unfair\" is going pretty far.\r\n"
+-
+    name: 'Paul Gaskin'
+    mail: ''
+    subject: 'You seem very attuned to Linus Torvald''s mind.'
+    hostname: 208.125.30.70
+    created: '1226986482'
+    body: "So much so that you can laugh about what he probably would have predicted.\r\n\r\nMeanwhile, you're so alienated from Richard Stallman that you don't understand him at all.\r\n\r\nApparently you think Stallman isn't fit to lead the movement he started. \r\n\r\nLet me ask you then, who else is keeping their eyes on the horizon? Please consider this: Linus Torvalds is willing to embrace DRM and Richard Stallman is not. Linus Torvalds doesn't like direct confrontation against Microsoft and Richard Stallman never tires of direct confrontation. \r\n\r\nSo who will say these things which Richard Stallman says if he were to retire and mind his own business? I'd be willing to give it my best shot, but it wouldn't be the same. I know that I'd suffer all the same character attacks from the usual suspects.\r\n\r\nRMS is the GNU-Father. Long may he reign."
+-
+    name: ushimitsudoki
+    mail: ''
+    subject: 'Torvalds is sort of right, but...'
+    hostname: 58.88.190.203
+    created: '1226995546'
+    body: "Although I disagree with Torvalds, I don't think his criticism was so much unfair as uncalled for.\r\n\r\nHe could have easily made his point - with no loss of effectiveness - without bringing up Stallman and GPLv3. That's the thing that bothers me, and makes it look like a cheap shot - there's no need to shoehorn Stallman/FSF/GPL politics into a discussion on US Presidential politics.\r\n\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Not an attack, an example.'
+    hostname: 82.108.129.98
+    created: '1227013080'
+    body: "As others have said the article wasn't about Stallman, Torvalds highlighted Stallman's methods and stance as an example of what he didn't like: of what he sees Obama as the opposite of and what he likes about him.\r\n\r\nI don't see this as either \"unjustifiable\" or an \"attack\" on Stallman himself. It's saying \"I don't like this kind of behaviour or attitude and *that's* why I like Obama.\" and when you are describing something it's often helpful to give examples. It's true that he does concentrate on one example and proponent of something he doesn't like (RMS) but it is one that does the job very well and thus more would be distracting.\r\n\r\nYou also said:\r\n\r\n> Through four paragraphs, Linus Torvalds criticizes Richard Stallman, he criticizes GPLv3 in the next paragraph, then Torvalds finishes by endorsing Barack Obama.\r\n\r\nAre you implying there's an imbalance here? He describes behaviours and attitudes he dislikes in the first *five* paragraphs and then speaks of Obama not having those in the next *seven* paragraphs. Sorry, but that sounds like a typical way to introduce your subject in the first half and then move onto your point in the second.\r\n\r\ncheers  \r\nRyan"
+-
+    name: flopper
+    mail: ''
+    subject: 'RMS vs. Linus'
+    hostname: 82.192.230.189
+    created: '1227182640'
+    body: "I think what Linus does not like about RMS is his radical attitude.\r\n\r\nLinus has a right to dislike radical behavior. I disagree with RMS too, but at the same time I support him strongly, because I think free software must be promoted radically. This is a very controversial issue.\r\n\r\nNevertheless, RMS cannot derive an ownership of all software written with the GNU tools. RMS likes Linux to be named GNU/Linux, which is bull. As if the kernel was based on any GNU code (written by the FSF). What you consider the \"system\" is only a point of view, never more. I tend to consider the kernel the system. But if RMS says the kernel without the system is nothing, he has his point, too.\r\n\r\nSometimes, things have to be done radically. George W. Bush defended America in a radical way, and I have a limited sympathy for all those critisizing him for that. The same goes for radically promoting free software. Yes, I compare RMS with GWB (must be an insult for both of them)!\r\n\r\nSo the whole issue is a bit of kindergarten talk. Both sides reveal some immaturity when they go too much into attack mode."
+-
+    name: Kletskous
+    mail: ''
+    subject: 'Please hurry'
+    hostname: 84.105.74.10
+    created: '1227579285'
+    body: "\"Linus begins with this:\r\n\r\n    So I’m pretty well-known for not exactly being a huge fan of the FSF and Richard Stallman, despite the fact that I obviously love the GPLv2 and use it as the license for all my projects that I care about.\"\r\n\r\n\r\nWell I am not exactly a huge fan of Linus Thorvalds, despite the fact that I obviously love Gnu/Linux and use it for all my projects that I care about.\r\n\r\n\r\nThe day I will divorce Linux, will be the day when Hurd is finished, so please hurry!\r\n\r\nCatharina\r\n\r\nhttp://www.open-of-course.org"
+-
+    name: augustofretes
+    mail: ''
+    subject: Actually...
+    hostname: 189.242.112.51
+    created: '1227669217'
+    body: "Linus Torvalds is right. I could speak all day about how stupid, yes, I said stupid, Stallman is. He's, without going into detail (since I could argument why, but you won't listen), a pseudo-philosopher which doesn't know anything about philosophy :)\r\n\r\nNot to mention, by the way, that Linus wasn't speaking of Stallman, it was just the editor vein which exploded because of a little critic, that any person with some truly self thinking can deduce."
+-
+    name: 'Paul Gaskin'
+    mail: ''
+    subject: 'To me, it seems that it was about Stallman and not about Obama.'
+    hostname: 24.188.231.232
+    created: '1227730665'
+    body: "That may be the only time Torvalds ever writes publicly on the subject of Obama. Even so, he didn't waste it - he used it for ammunition in his campaign against RMS. \r\n\r\nThis makes Linus Torvalds look very different from Barack Obama, the man he seeks to identify himself with. \r\n\r\nLinus Torvalds seeks consolidate power through a relentless, negative campaign against the most influential man in the free software community, the most successful man in license propagation of open source projects - Richard Matthew Stallman. \r\n\r\nRegardless of the corporate-sponsored propaganda against RMS, peddled by Torvalds and others, some people can still see the obvious - the \"disruptive technology\" of GNU/Linux is GNU not Linux.\r\n\r\n<a href=\"http://www.itpro.co.uk/604662/linux-a-disruptive-technology\">Linux - a disruptive technology?</a> (ITPro.co.uk)\r\n\r\n\"Linux itself does not represent any great departures from previous technologies...\r\nThe disruptive technology is the license and its distinctive inversion of copyright law. \"\r\n\r\nThat article outlines why Linus Torvalds does not have the stature to be regularly criticizing Richard Stallman. Torvalds ought to stop being such a nuisance and just quietly enjoy riding Richard Stallman's coat tails to fame and fortune."
+-
+    name: FunkyRes
+    mail: ''
+    subject: 'Ho hum'
+    hostname: 68.189.86.17
+    created: '1234655459'
+    body: "So Torvalds doesn't like Stallman.\r\nFreedom to express one self is fundamental.\r\n\r\nIt's been awhile since I've read the kernel devel list, but when I did read the list frequently (2.4 kernel days) Stallman would frequently spam the list with his rants about how it should be called GNU/Linux - really completely unsuitable material for the list.\r\n\r\nI actually like Stallman, I don't agree with all of his philosophies, but I like the guy. I don't however think it is that big of a deal if Linus doesn't like him, nor do I think it is that big of a deal if Linux expresses it, even in the first sentence.\r\n\r\nRichard is a grown man, he can handle it."
+-
+    name: alexa
+    mail: ''
+    subject: 'I mean, I know Linus isnt a'
+    hostname: 89.34.32.217
+    created: '1246431970'
+    body: "I mean, I know Linus isnt a great programmer - he states that himself. Though his organizational accomplishment so far, in fathering Linux, has been amazing. And, I know Linus didnt actually write Linux - it was written by thousands of other people. But, he was the person who got the whole mini-Unix on a PC ball rolling, and kept it on a good track for so long. So, why is Linus Torvalds, apparently, trying so desperately to destroy Linux now?\r\n<a rel=\"follow\" href=\"http://www.breastsuccess.ro/\">marire sani</a>"

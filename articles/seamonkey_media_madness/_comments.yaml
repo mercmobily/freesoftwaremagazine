@@ -1,0 +1,35 @@
+-
+    name: ''
+    mail: ''
+    subject: 'SeaMonkeyBusiness & Commentary'
+    hostname: 71.115.127.87
+    created: '1170006021'
+    body: "You shouldn't tease like that, I'm happy to know what happened to the Mozilla suite (which is really awesome software) but now I'll be wondering why they changed their name until I figure it out.  I'm a Debian Sarge user, that right, I'm a Neanderthal and I happily thumb my nose at all the snobs who look down on me in scornful disgust.  For them, I have but one question, \"Will your [insert spiffy-modern distro name] run on a 233 MHz Pentium?\" and, after a suitable hesitation, add \"My Debian Sarge will, and nicely too.\" nor will I say anything about software choices because the Debian repositories are legendary so my smug little smile says all that needs saying.\r\n\r\nAll of which is entirely beside the point.  Despite my passion for Debian I'm still a virtual newbie and the command line presents a pretty seriously daunting learning curve.  It's so hard to find tutorials that start at the beginning and proceed in small steps, giving old geezers a chance to catch up.  Your tutorial on the command line is a perfect exception to the norm.  I actually understood every word of it.  I just wish you hadn't quit when you were on a roll.\r\n\r\nThank you,\r\n<a href=\"http://www.don-guitar.com\">Don Crowder</a>\r\nAging Geek Candidate (still in training)\r\n"
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: 'Well I didn''t discuss it in the blog. Did I?'
+    hostname: 68.93.224.4
+    created: '1170209416'
+    body: "Thanks for the comments. I will consider a new command-line article.\r\n\r\nAbout the name Seamonkey, I actually confused it with Ice Weasel, Debian's name for Firefox. There was apparently some conflict about how free a trademarked program can be, and so in Debian they have firefox and seamonkey renamed Ice weasel and Ice ape, or so I'm told. Seems a bit of sillyness to me. but go figure."
+-
+    name: ''
+    mail: ''
+    subject: 'I remember Grape Ape, but seriously...'
+    hostname: 71.115.120.63
+    created: '1171928112'
+    body: "Debian Sarge comes with the Mozilla suite but Firefox, per se, is available in the repository so I assume they've resolved the sillyness.  You know, of course, that Sarge comes with older versions which may explain why it's called Mozilla instead of Seamonkey.  The version of Firefox in the repository is 1.0.x (I forget) but you can upgrade to 1.5.0.7 by adding the backports repository to Synaptic.  I've used Mozilla, Firefox and Epiphany alternately for the last few weeks.  I like all three, any of them would suit my needs but each has unique features I like so to choose one means giving up what I like about the other two.  For the time being, I'll just keep using all of them.  Diversity is good.  Best regards to you ma'am and I hope you'll let me know if you write an article on using the command line.\r\n\r\n<a href=\"http://www.don-guitar.com\">Don Crowder</a>\r\nAKA <a href=\"http://www.lockergnome.com/nexus/eldergeek/\">eldergeek</a>\r\n\r\n"
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: 'Back to the Command Line'
+    hostname: 68.93.224.4
+    created: '1180997462'
+    body: "To Don Crowder\r\nIf you are still an Aging Geek Candidate (still in training), you may be interested that I have a new command line article in Issue 15.\r\n\r\nhttp://www.freesoftwaremagazine.com/articles/beginner_intro_cli_part_2\r\n\r\nThis one has even more powerful tools to learn about your computer.\r\n\r\nRosalyn"
+-
+    name: frida
+    mail: ilonchik78@gmail.com
+    subject: 'Flash animation on sites'
+    hostname: 83.69.126.35
+    created: '1185368598'
+    body: "Flash animation on sites sometimes rather irritating thing. Why web developers use it on main page is still obscure to me. They really loose visitors who will not wait flash to download or, like me, will not install flash player as is required.\r\n\r\n"

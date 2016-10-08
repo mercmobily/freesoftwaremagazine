@@ -1,0 +1,14 @@
+-
+    name: 'Anders Jackson'
+    mail: ''
+    subject: J
+    hostname: 130.243.6.21
+    created: '1201024641'
+    body: "Have you tried the command \"sendxmpp\"?  It's a command line client for sending short jabber messages.\r\n\r\nA good way of sending logs and other information to a Jabber chat room.  It's easy to monitor things that happens on your computer/computers.\r\nBe careful though not to send to much messages in a stream.  You will load the server and miss messages, and possible be banned from the server (if it isn't yours).\r\n\r\nSetting up a jabber server is also easy.  I use ejabberd, which also is packed in Debian.  All you need is a computer that has a real Internet address and DNS-name.  Then you have your jabber server and domain up running in no time."
+-
+    name: 'Maurice Cepeda'
+    mail: ''
+    subject: 'Jabbin is dead'
+    hostname: 200.120.187.45
+    created: '1220755537'
+    body: "Have you tried going to the Jabbin home webpage? It's not there. And when it was up, it didn't show any development since 2006 or so.\r\n\r\nI see there is a sourceforge.net page now and its corresponding open discussion thread lists a question, \"Is this project active??? The last release was on 2006. It's the only voip jabber client i know. Please, keep up the good job!\", to which there hasn't been a response.\r\n\r\nJabbin has never stuck me in a good way, in part because of the lack of development, the promise of an OS X port that never materialised, and because Google or Yahoo listed their site as dangerous.\r\n\r\nJabbin is dead. I'd like to be proven wrong.\r\n\r\nMaurice"

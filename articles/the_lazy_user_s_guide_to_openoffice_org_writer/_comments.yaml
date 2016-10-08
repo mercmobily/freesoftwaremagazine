@@ -1,0 +1,84 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Where the printer-friendly pag option?'
+    hostname: 80.60.30.253
+    created: '1170711196'
+    body: 'I really mis the printer-friendly page option. :-( pdf may be dead according to fsm, printing and filing paper for reference certainly isn''t. Can we expect such a ''feature'' in the near future?'
+-
+    name: admin
+    mail: ''
+    subject: Yes!
+    hostname: 203.166.228.127
+    created: '1170712000'
+    body: "Hi,\r\n\r\nYes, we are working on it right now!\r\n\r\nAdmin"
+-
+    name: admin
+    mail: ''
+    subject: 'It''s done!'
+    hostname: 203.59.201.57
+    created: '1170841772'
+    body: "Hi,\r\n\r\nthe requested feature was implemented!\r\n\r\nAdmin"
+-
+    name: HXC
+    mail: ''
+    subject: 'Whoa thats cool! Thank you so much :D'
+    hostname: 80.60.30.253
+    created: '1171060365'
+    body: 'Thanks you so much for adding this feature so fast! (Yes I was the "anonymous coward" who posted the request above). Thanks again and keep up the good work!'
+-
+    name: ''
+    mail: ''
+    subject: 'nice one'
+    hostname: 89.229.172.138
+    created: '1173024636'
+    body: thx
+-
+    name: ''
+    mail: ''
+    subject: 'Delete a page'
+    hostname: 74.15.28.50
+    created: '1174058653'
+    body: "Ok...I have scanned this software ...I'm going crazy,,,so how do i delete pages that I don't want to print..ahhhh\r\n\r\nCan't find delete anywhere...can you?\r\n\r\nDavid"
+-
+    name: ''
+    mail: ''
+    subject: Wrong!
+    hostname: 155.99.159.5
+    created: '1174068520'
+    body: "It's great to write a guide for the lazy as long as the person writing it isn't too lazy to verify the content.\r\n\r\nPage styles must be different for the page numbering styles to be different.  If you use the same page style for the preface as the main body of the document, the page numbering style of the preface will change when you change the page numbering style for the main body of the document.\r\n\r\nAlso, if the title page, preface, and main body of the document all have the same page style, a footer inserted/changed at any point will be reflected everywhere.\r\n\r\nIf someone follows the directions in this article within the same document.  They will end up with a title page that has a centered title (correctly done, but not the easiest/laziest way because the size can be set automatically as well), and a footer with a page #1, a table of contents that is most likely empty since a lot of people don't know how to change a paragraph to \"Heading 1\" style, the preface will start with a page #1 (not i), and a main body starting with a page #1.  Of course, the instructions don't include how to insert the page number field in the footer (or header for that matter).  So, it might not be obvious that the page numbers are there at all or what format they're in.  Also, even if the table of contents weren't empty, there aren't any instructions on how to get hyperlinks to the contents, and even though I have become accustomed to using this feature, it's not very intuitive.\r\n\r\nTo avoid having a footer (with a page number) on the title page, it should be set to a distinct page style (i.e. \"First Page\" or a new page style).  In order to have two different numbering styles the preface should also use a distinct style (probably easiest to create one called \"preface\" or whatever seems good).  And, if you want each chapter to start on a new page, the easiest way to accomplish that is to format the \"Heading 1\" paragraph style to insert a new page before the paragraph (text flow tab).\r\n\r\nI am a big fan of using the built-in features of OOo, and I have often tried to convince others that formatting a document is far easier when using OOo correctly.  Unfortunately, the biggest reason that I have seen people do things the hard way is because being \"lazy\" requires people to stop treating a computer like a glorified typewriter.  Even though people are accustomed to inserting graphics, they just don't want to learn how a word processor is actually designed to be used (which would allow them to really be lazy)."
+-
+    name: ''
+    mail: ''
+    subject: 'Search/Replace punctuation marks'
+    hostname: 142.161.64.31
+    created: '1174446317'
+    body: 'In tagging documents for presentation on a web page, need to start by searching for double para breaks and replacing them with one. In Word, one can search for ^p^p and replace with ^p. Have found that I CAN find double spaces and replace them with singles. Any suggestions?'
+-
+    name: ''
+    mail: ''
+    subject: 'RE: Search/Replace punctuation marks'
+    hostname: 67.161.208.68
+    created: '1174578120'
+    body: "I never use word so I am uncertain if this answers your problem, but try to find empty paragraphs by using ^$ in the find field, leave the replace field blank and check \"Regular expressions\" under \"More options\"\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Adapt pre-existing multiple files to master/sub documents'
+    hostname: 72.67.157.220
+    created: '1175541429'
+    body: "Have you written any articles on the subject of adapting pre-existing multiple files to OpenOffice master/sub documents?  I've got nine separate files that make up one manuscript--I've struggled with pagination and numbering the Table of Contents.  My husband has been helping me, but I want to learn how to make the document myself.  If you haven't written anything addressing this subject, can you please recommend where I can locate comprehensible instructions to guide me through this task of changing my current files to master/sub docs?  Many thanks!\r\n\r\nTeresa Morales, Ph.D.\r\nArt Education\r\n\r\n"
+-
+    name: wim
+    mail: wimkhan@yahoo.com
+    subject: 'Thank You'
+    hostname: 222.124.24.80
+    created: '1178590822'
+    body: 'Just wanna say thanks. this is wonderfull. I read it from Yogyakarta, Indonesia. have you ever visit this city .....'
+-
+    name: 'Daniel Escasa'
+    mail: ''
+    subject: 'Adapt pre-existing multiple files to master/sub documents'
+    hostname: 124.106.209.104
+    created: '1182761645'
+    body: "Hello. Just in case you haven't visited my blog and seen my reply, here's a link to an article that might be helpful: http://searchenterpriselinux.techtarget.com/tip/0,289483,sid39_gci1230368,00.html\r\n\r\nDaniel O. Escasa\r\nIT consultant and writer for hire\r\ncontributor, Free Software Magazine (http://www.freesoftwaremagazine.com)\r\npersonal blog at http://descasa.i.ph"

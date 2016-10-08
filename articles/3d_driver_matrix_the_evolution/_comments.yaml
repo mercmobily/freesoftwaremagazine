@@ -1,0 +1,49 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Hey! He said "GNU/Linux" at'
+    hostname: 59.100.28.70
+    created: '1175331783'
+    body: 'Hey! He said "GNU/Linux" at the end of his article! Awesome!'
+-
+    name: ''
+    mail: ''
+    subject: 'Thank you for the matrix'
+    hostname: 82.79.25.197
+    created: '1175782804'
+    body: 'it might be useful for choosing the right card'
+-
+    name: 'Anonymous visitor'
+    mail: dumper4311@netscape.net
+    subject: 'Be Careful'
+    hostname: 134.197.26.193
+    created: '1176228574'
+    body: "This is a great source of info, thanks much for the info.\r\n\r\nBut as far as the \"GNU/Linux\" label, and the fanboy comment on this subject, please be careful.  It's no more \"GNU/Linux\" than it is \"Xorg/Linux\".  Promoting this irrational and fanatic viewpoint chases away more rational users in the business, education and home markets.  And lets face it, our much vaunted \"freedom\" is worth nothing if this \"free\" code isn't used by anyone but the fringe nuts.\r\n\r\nIt's simple enough to demonstrate the validity of my arguement (truth is, it's not even my arguement).  Check your favorite search engine for terms like GNU not linux, put away your blind devotion to Bill Gate's \"free software\" twin brother (RMS - same means, supposedly different ends), and you'll hopefully realize the ignorance of the \"GNU/Linux\" label."
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'The "irrational" viewpoint of saying ''GNU/Linux'''
+    hostname: 217.17.113.133
+    created: '1176251593'
+    body: "'Anonymous visitor', I'm surprised to see a comment on this site about how \"irrational\" the term 'GNU/Linux' is for that operating system. Most of the articles submitted on this site seem use that term instead of \"Linux\" or anything else, and their authors think it's a perfectly valid term, and generally the best term to use, as I do. There's some pretty good arguments about why that's the best name for it at http://www.gnu.org/gnu/gnu-linux-faq.html. Your argument about using a search engine isn't valid either. Just because a large number of people make a particular mistake or have a particular opinion about something, that doesn't make it the truth.\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Out of subject'
+    hostname: 86.71.28.131
+    created: '1176285538'
+    body: "Please refrain from making comments out of the post's scope.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: azouts
+    mail: ''
+    subject: 'nvidia 100.xx'
+    hostname: 80.76.57.207
+    created: '1184703654'
+    body: 'What about the nvidia 100.xx series? Do they have the same frame buffer problems as the 97.xx?'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: '97.xx and subsequent'
+    hostname: 84.100.56.220
+    created: '1184972898'
+    body: "Yes, the 100.x series driver still has the black window problem. I may add that Compiz also falls victim to the bug - enforcing 'strict' AIGLX copy method under Beryl is the only way to get rid of it (and even then, I've heard that the 100.x driver series actually take away this workaround).\r\nNVIDIA says it is because their implementation of GL_EXT_texture_from_pixmap is buggy; from what I could learn about it, it must come from bad AGP/PCIe <=> VRAM memory mapping.\r\nIn short, GL_EXT_texture_from_pixmap should be able to get data from the AGP memory aperture or from a PCIe instance as well as it does from VRAM, but it currently can't.\r\nTo sum it up, NVIDIA find themselves stuck due to bad video memory management.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."

@@ -1,0 +1,28 @@
+-
+    name: rdtennent
+    mail: ''
+    subject: 'I''m looking for a GUI program that will allow me to ...'
+    hostname: 216.239.79.235
+    created: '1236739439'
+    body: " \r\n+ create boxes around multi-line texts with a uniform margin; the box should fit the text rather than vice versa.\r\n\r\n+ create connectors between boxes that are oriented from box center to box center, not to/from \"connection points\"; the connectors should be \"shadowed\" by the boxes, with an arrow-head exactly at the target box edge.\r\n\r\n+ format text within the boxes arbitrarily (left/right-justified, centered, any fonts, etc.)\r\n\r\n+ move boxes with the connectors to/from them following.\r\n\r\nIs there a *graphical-interface* program that can do these? AFAIK, these capabilities are only possible using LaTeX-based packages such as pstricks and tikz."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Possibly Inkscape with some extensions added'
+    hostname: 68.93.227.150
+    created: '1236822641'
+    body: "Your requirement to connect from \"box center to box center\" surprises me. This is provided by the \"connectors\" option in [Inkscape](http://www.inkscape.org), but it seemed (to me) stylistically less desirable than the connection points approach. I had assumed that the connector approach was limited by the Inkscape/SVG data model rather than being an aesthetic choice.\r\n\r\nIn any case, Inkscape does have that capability, although it will not natively allow for the requirement to \"format text within the boxes arbitrarily\" (assuming you mean to include mixed format within multi-line text -- you can of course change the font for the whole text object).\r\n\r\nI believe there is, however, an extension tool to incorporate TeX or LaTeX content into an Inkscape drawing. I have not tested it out, but it is listed on the Inkscape wiki (a few jumps from the link above). My own TeX experience is so rusty I doubt I would get much use from it.\r\n\r\nSo I suspect you could get what you want (or very nearly) in Inkscape using some extensions.\r\n\r\nI'm not aware of any extension which would \"shrinkwrap\" text with a box, rather than flowing text into an existing frame, but it shouldn't be difficult to write one, assuming you've got a clear idea of what you actually expect it to do (e.g. should it break lines to improve the fit, should it accept line-widths or total text width too large to include in the drawing, etc -- in general how does it degrade when you ask it to do the impossible?).\r\n\r\nGiven that you have such a well-defined need, I'd recommend such an approach. Extensions for Inkscape are pretty simple to write. You have to be able to:\r\n\r\n* accept command switches from the command line\r\n* parse SVG from `stdin`\r\n* apply the transformations that you want on the SVG\r\n* serialize the transformed SVG to `stdout`\r\n\r\nThere is a system in Inkscape to query the user for parameters using a dialog box, which then get passed to your extension via the command line.\r\n\r\nI have some needs I want to fill with Inkscape extensions, too. Perhaps I'll get a chance to write a tutorial on it.\r\n"
+-
+    name: novica
+    mail: ''
+    subject: 'how about economics graphs?'
+    hostname: 79.126.240.161
+    created: '1237401917'
+    body: "Is there a piece of free software that can do the same things as this one for mac?\r\n\r\nhttp://www.graphsketcher.com/demo/economics_640.mov"
+-
+    name: rdtennent
+    mail: ''
+    subject: 'box center vs connector points'
+    hostname: 130.15.1.40
+    created: '1237409145'
+    body: ">Your requirement to connect from “box center to box center” surprises me. This is provided by the “connectors” option in Inkscape, but it seemed (to me) stylistically less desirable than the connection points approach.\r\n\r\nCheck out the examples here:\r\n\r\nhttp://www.cs.queensu.ca/students/undergraduate/prerequisites/\r\n\r\nIt's ultimately a matter of taste of course.\r\n\r\nBob T."

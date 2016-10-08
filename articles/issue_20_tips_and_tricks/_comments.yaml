@@ -1,0 +1,35 @@
+-
+    name: 'Bill White'
+    mail: bill.white@griggsinst.com
+    subject: 'One more example.'
+    hostname: 63.139.189.114
+    created: '1191590455'
+    body: "I use something called yeahconsole, with mrxvt as the terminal program.  The two works pretty well together.  mrxvt is the fastest virtual terminal around.  Yeahconsole is not quite as fancy as yakuake, but it works well.\r\n"
+-
+    name: trinux
+    mail: ''
+    subject: 'Permission to translate'
+    hostname: 217.216.184.6
+    created: '1195943895'
+    body: "Hi Gary Richmond and Andrew Min,\r\n\r\nI am interested in translating his article to my language (Spanish). I hope your permission. I communicate with you primarily to avoid duplicated efforts. If someone else wants to translate his article, please know that someone else is working on the translation. My mail trinux (@) gmail (dot) com.\r\n\r\nThank you, forgive me for my English, but it is enough to make a translation.\r\n\r\nGreetings."
+-
+    name: Ramesh
+    mail: ''
+    subject: 'Great article'
+    hostname: 203.143.159.19
+    created: '1196659982'
+    body: 'Great article. Showed me how even simple unix commands will be helpful when used in appropriate situations. I run a dual boot system (Windows with Ubuntu) and plan to replace Ubuntu with another GNU/Linux flavour, but leave Windows in place). I believe this tip will be useful to me in case if the grub of new GNU/Linux after installation fails to add Windows to the boot menu).'
+-
+    name: trinux
+    mail: ''
+    subject: 'in spanish'
+    hostname: 217.216.184.146
+    created: '1197470667'
+    body: "- How to use Quake-style terminals on GNU/Linux (Andrew)\r\n\r\nhttp://solognu.wordpress.com/2007/11/25/terminal-estilo-quake-en-gnulinux/\r\n\r\n- How to take screenshots with Scrot\r\n\r\nhttp://solognu.wordpress.com/2007/11/25/capturas-de-pantalla-con-scrot-linea-de-comandos/\r\n"
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Great!
+    hostname: 68.197.66.72
+    created: '1197556842'
+    body: "I just sent you an email, thanks so much!\r\n\r\n--\r\nAndrew Min\r\nhttp://andrew.timstown.net/"

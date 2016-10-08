@@ -1,0 +1,91 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Software Evolution'
+    hostname: 62.47.146.116
+    created: '1156011930'
+    body: 'Why do you feel the need to write a program from scratch (aside from the fact that it may be harder to dive into existing projects, depending on code quality) ? Are those existing menstruation trackers really that bad? You can get by as a dev/programmer just fine by doing complementary work instead of replacement work, by fixing bugs or implementing features in existing free software. And no, it didn''t ever make me feel like a second-class citizen to do so ;-)'
+-
+    name: ''
+    mail: ''
+    subject: congrats
+    hostname: 68.12.121.91
+    created: '1156039348'
+    body: "I am a guy and pt would not do me any good, but your effort might\r\ninpire some young girls to go in open source software development.\r\n\"If she can do it so can I.\"\r\n\r\nI think it's great, Rosalyn.\r\n\r\nI am thinking about writing math tutorials for young kids myself.\r\nBut it has to have some fun to keep their interest.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Quite...
+    hostname: 203.173.156.115
+    created: '1156040866'
+    body: "I'm having one of those how-did-people-manage-before-this-sort-of-software-came-along moments...\r\n\r\nLawrence D'Oliveiro"
+-
+    name: 'Anonymous visitor'
+    mail: ''
+    subject: 'Women Programmers'
+    hostname: 24.15.12.41
+    created: '1156053300'
+    body: "Does anyone now the percentage of female programmers in general?  I am too lazy to do a search, but I would suspect that women make up a very small percentage of the the software development industry as a whole, let alone the free software industry.\r\n\r\nRosalyn, I look forward to your next article.  I have never really thought about this topic before, but it would suprise me if you were to run into very many obstacles that men would not.  The actual act of writing code tends to be a something a person does alone.  If you run into difficulty, I would suspect it may be in the area of pre-coding <a href=\"http://www.projectplanning.ws\">project planning</a>, marketing, product distribution, etc as opposed to the the actual coding.  I guess what I am trying to say is that I don't see any barriers that would stop you from actually writing a program. Rather, a few obstacles could stand in your way during the phases of the project that require you to interact with other people.\r\n\r\nBest of Luck!\r\nJason\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Ground-breaking stuff'
+    hostname: 203.22.197.45
+    created: '1156115851'
+    body: "It seems clear from your words that you really are going in from absolute scratch, which (as \"congrats\" said) should be very inspiring for wannabees.\r\n\r\nWell doing, please keep it happening! (-:\r\n\r\nCheers; Leon"
+-
+    name: ''
+    mail: ''
+    subject: 'Be prepared to write the program 3 times, at least'
+    hostname: 69.17.73.250
+    created: '1156121246'
+    body: "Once to get something written.\r\nThe second time to have something that the user can't break\r\nand is more or less usable in the real world.\r\nAnd the third time to to do it right once you see how\r\nyou've done it wrong."
+-
+    name: ''
+    mail: ''
+    subject: 'I''m having one of those'
+    hostname: 68.93.224.4
+    created: '1156179664'
+    body: "I'm having one of those how-did-people-manage-before-this-sort-of-software-came-along moments...\r\n\r\nLawrence D'Oliveiro\r\nÂ»\r\n\r\nThey use paper calendars. Just so you know.\r\n\r\nThe weird thing about programs is that they often are made to do something that people already do some other way now. I always wonder if it's best to use the new program, or do it the old way.\r\n\r\n-rosalyn"
+-
+    name: ''
+    mail: ''
+    subject: 'Whether new or old is best'
+    hostname: 203.173.156.115
+    created: '1156242696'
+    body: ">The weird thing about programs is that they often are made to do something that people already do\r\n>some other way now. I always wonder if it's best to use the new program, or do it the old way.\r\n\r\nThe description I've heard as the rationale (or excuse, if you like) for most free software projects is \"scratching an itch\". That means you have some personal need that no existing package quite satisfies, so you decide to write something to fill your own need.\r\n\r\nFor instance, a while back I was looking for a convenient way of downloading software updates from a bunch of mirror sites, with automatic selection of the fastest mirrors, possibly even parallel downloading from multiple sites. I couldn't quite find anything out there that fitted the bill, so I started developing a script to try to solve the problem. Which was also an excuse to get more familiar with Python.\r\n\r\nOf course, I never quite got it to the point where I thought it fit for anyone else to use, because other, more immediate revenue-generating activities kept getting in the way...\r\n\r\nLawrence D'Oliveiro"
+-
+    name: ''
+    mail: ''
+    subject: 'So cool!'
+    hostname: 65.78.164.108
+    created: '1156275717'
+    body: "Hey this is great!  I'll be sure to follow along on your development saga!\r\n\r\nIt was a little interesting to see how you stereotype free software programmers, though:  Step one, look for other software that does this.  Step two, decide you are smart enough to do it better and therefore go out and start coding.  Some free software programmers might have these motivations but not all.\r\n\r\nSome programmers would start designing or coding before finding the alternatives and by then they'd feel an attachment to their code and ideas and understand how they worked more intimately than having to learn how to use the existing projects' code bases.  Others would have found the existing programs to be lacking in some feature and feel they had to rewrite it from scratch because the program 1) was written in a language they were unfamiliar with or didn't like (Bloody Mary and Mens are in java, KMenCal in C++) 2) was written for a desktop environment that they don't agree with (None of the available programs are GNOME apps) or 3) they really just wanted to play with a new language/technology/programming style and think this project will give them an excuse to do so.\r\n\r\nSometimes ego makes programmers think they should start from scratch but in each of the above cases it's actually an understanding of the programmer's limitations that leads them to create a new piece of software.  "
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Language
+    hostname: 68.93.224.4
+    created: '1156438266'
+    body: "I find that one of the most compelling reasons to start over is often the desire to work in a familiar, more convenient, or otherwise easier programming language.\r\n\r\nThere are a lot of applications in PHP that I like, but generally won't use (as a basis for a new project) because I don't want to program in PHP. Not that I couldn't learn it (I suppose), but that I don't really want to spend the time on it and what I know of it doesn't inspire a lot of confidence.  I'd rather start with something written in Python, even if that means more work. It might wind up being easier for me, even if it is objectively harder.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Women in software'
+    hostname: 68.93.224.4
+    created: '1156440854'
+    body: "Don't shoot me if my memory is inaccurate, but I recall a figure of 16% for the software industry as a whole and 2% for free software developers. Rosalyn has raised a number of questions about how this data was collected, whether it's really accurate, how the categories are defined, etc. But they are ballpark figures.\r\n\r\nI believe the \"industry as a whole\" figures include a lot of marketing and management positions. In my experience, these are <em>more</em> open to women, not less.\r\n\r\nPersonal experience on programming support channels suggests to me that the primary obstacle is social: women must participate in a male-dominated, pissing contest oriented, forums -- full of arrogant 40-yr-old emotionally retarded geek adolescent males (yes, I know 'stereotype!', but too often accurate). Mind you, there do exist arrogant 40-yr-old emotionally retarded geek adolescent females in the world -- or at least females with iron-clad asbestos armor and steely determination to resist the war games (I figure that's where the 2% comes from), but most women are socialized differently, and don't really appreciate this kind of environment (the point is not whether they can \"take it\", but whether they feel like they should bother).\r\n\r\nSo basically, for most women, the only (or most important) source for technical help is socially repulsive. So what's she going to do?\r\n\r\nShe could just go it alone, relying solely on books and website sources. Difficult because there's always some show-stopper that the static sources don't cover.\r\n\r\nShe can just put up with the flames, the low S/N ratio, and the nuisance factor of existing forums. Difficult for reasons above.\r\n\r\nShe can band together with other women in women-exclusive or women-friendly forums. Difficult because the existing 2% of the free software community that is female is not that large a pool of experts and because most of them have opted for the shields-up or one-of-the-guys strategies. Also, there's always going to be some guys who whine about it.\r\n\r\nI fear Rosalyn's personal solution may be more like \"bug her husband to answer the questions or research them\", but that's obviously not a general purpose strategy. ;-)\r\n\r\nNow you can argue that women being treated the same as men is all that society is obligated to, and you might be right. But frankly, women aren't men, and same treatment is not necessarily the most fair or encouraging treatment. The right incubation environment for women to learn and develop their skills is not going to be the same as the one that works for men.\r\n\r\nThe question I have though is this: is all that male geek posturing actually conducive to developing code? If it <em>is</em> a necessary part of programming, then the argument that women should just put up with it and quit whining makes sense. But I don't buy that. ISTM that a more supportive and civil environment would actually improve the efficiency of such forums (for all) not \"spoil\" them.\r\n\r\nI find it a bit repulsive myself that so many people appear to think that programming is somehow an \"unfeminine\" activity. I just can't really see that. ISTM it's (potentially) every bit as feminine as writing, art, or any other creative activity (all of which fields have plenty of prolific women working in them), and I can't imagine any fundamental reason why women shouldn't excel at software too. In fact, the ethos of free software seems ideally suited to traditional female (highly cooperative) temperment. I suspect that after a bit of pioneering, that we will see some kind of breakout as more girls learn the technology.\r\n\r\nOne thing that could really fuel that is if more of the existing 2% made themselves a lot more visible as role models. Women don't often feel the need for that kind of notoriety (how many women even want Stallman' or Torvalds' level of fame?), but they often will stand up if they are convinced there's a good reason for it.\r\n\r\nI also think though that women need different kinds of motivation. It's probably more compelling to talk about \"finding a voice\", \"expressing yourself\", \"empowering yourself\", etc, as opposed to emphasizing traditional \"fame and wealth\" (Raymond, Torvalds, IBM, Novell, etc) or even \"championing a cause\" (Stallman, GNU/FSF, CC, etc). Women are generally more responsive to self-actualization goals than self-aggrandizement goals.\r\n\r\nLoads of generalizations in this comment, of course, but we're talking about populations, not individuals, so I say generalizations are fair game.\r\n"
+-
+    name: marienoelleb
+    mail: ''
+    subject: 'It takes time to learn'
+    hostname: 62.203.231.114
+    created: '1156836766'
+    body: "Altough you do not seem to like Python, I still consider that it is an excellent choice. This language is very expressive and powerful and it is an excellent tool id you want to bring together existing applications. Altough there is a learning curve, it will clearly not be as difficult to master it than mastering Java (with all its environnment) or Ada. Another alternative would have been Scheme (and there is an excellent open source implementation called \"PLT Scheme\") but the environnment of PLT does not seem as rich as the one of Python, although it is well developped.\r\n\r\nNow, you are facing a bigger problem if you never learned programming before. Computer programming languages must be made unambiguous so that a brainless machine is able to understand them. This means that their syntax and semantics are extremely simplified when they are compared with natural languages. This also means that they can be perceived as very bizzare from the point of view of someone who did never program previously.\r\n\r\nWriting programs is not like writing any text. It related with telling to (once again) a completeley brainless machine how to do a given and precise task. This does also mean that programs are written in a very precise way, I mean that one must telle absolutely everything to our machines. This too may look very bizzare for someone who did never program.\r\n\r\nSomeone else suggested you to work with a book called \"Structure and interpretation of computer programs\" if you did never program before. This is not an easy texbook, but it is clearly outstanding and extremely well made. You'll learn a huge amount of things (about the best ways to program a computer) if you did not learn programming before. Well, it may be a very interesting book even for experienced programmers!\r\n\r\nThe last point is that you do not really seem convinced that the topic you chose is the right one. At least, I do not feel that you are totally determined to go until the end of your project. This is understandable if you are not deeply convinced that you need to do it and if you are not convinced that you need the program that you'll create. That's why it may make sense either to look for a more \"academic\" exercices for which you'll find guidance and support or to find a topic for which you are really convinced that achieving your project will be useful for you and maybe for others.\r\n\r\nBest regards\r\n\r\nMarie-NoÃ«lle Baechler\r\nBelmont-sur-lausanne / Suisse\r\n"
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: 'learning to program'
+    hostname: 68.116.159.234
+    created: '1267936651'
+    body: "Thanks for the comments.\r\nI have programmed before in Apple Basic.\r\nThat should tell you how long ago it was.\r\nI'd like more formal training though.\r\n\r\nAt least I think that I would.\r\n:)"

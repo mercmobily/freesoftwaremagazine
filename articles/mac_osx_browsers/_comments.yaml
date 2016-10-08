@@ -1,0 +1,49 @@
+-
+    name: god
+    mail: ''
+    subject: 'Comments from the old system'
+    hostname: 203.59.90.115
+    created: '1143729760'
+    body: "<strong>From</strong>: Mark Rowe \r\n<strong>Url</strong>: http://bdash.net.nz/\r\n<strong>Date</strong>: 2006-01-16\r\n<strong>Subject:</strong> Disappointing review\r\n\r\n\r\nI found this review of \"free and open source browsers\" on OS X to be quite disappointing.  Your article as it stands would be better titled \"Mozilla Browsers for OS X\" as that seems to be its focus.  You bring up two WebKit/WebCore based browsers (Safari and OmniWeb) only to dismiss them for being open source, and yet you fail to cover any WebKit-based browser that *is* open source.  Shiira  (http://hmdt-web.net/shiira/en) is becoming increasingly popular amongst Mac users.  It is an open-source WebKit-based browser similar in feel to Safari yet with more features.\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Wordman \r\n<strong>Url</strong>: http://asteroid.divnull.com\r\n<strong>Date</strong>: 2006-01-17\r\n<strong>Subject:</strong> Neglected features\r\n\r\n\r\nYou didn't spend much time checking one area where these browsers seem to differ a lot: printing. It's been a while since I did the comparison, but when I compared printouts of various pages, all but Camino tended to completly mangle tables. Also, Camino seemed to be the only one that figured out \"print selection only\" is crucial to decent web printing.\r\n\r\n<hr/>\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Howto Print Selection on a Mac'
+    hostname: 67.107.237.39
+    created: '1157328142'
+    body: 'To Print a Selection: Make a selection, Select Print, Click on Copies and Pages, Select Firefox, Check Print Selection Only, Click Print Its that Easy!'
+-
+    name: ''
+    mail: ''
+    subject: 'don''t work'
+    hostname: 81.174.11.2
+    created: '1168187338'
+    body: 'In my Firefox 1.5.0.9 on mac os 10.4.8 "print selection only" is disabled, I can''t enable it, it''s grey.'
+-
+    name: ''
+    mail: ''
+    subject: 'Same here'
+    hostname: 67.182.217.68
+    created: '1168719793'
+    body: 'I have the same problem.  Does anyone have a solution?'
+-
+    name: ''
+    mail: ''
+    subject: 'Solution?'
+    hostname: 84.61.13.107
+    created: '1172659778'
+    body: "I also had the same problem. It seems it is connected to changing the other settings in the Mac OS printing dialogue. After resetting \"Presets\" to \"Standard\", I was able to use \"Print Selection Only\". I have yet to find out what changes prevented it from working. (Version 2.0.0.2)\r\nCheers,\r\nChristian\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: jessica@jazd.com
+    subject: Thanks!
+    hostname: 76.105.218.174
+    created: '1183871139'
+    body: 'Thanks!  '
+-
+    name: Dolcevita
+    mail: dolcevita4us@yahoo.com
+    subject: 'Print selection with Firefox in OS X'
+    hostname: 207.172.84.59
+    created: '1197085405'
+    body: 'Great tip! Thanks a bunch. '

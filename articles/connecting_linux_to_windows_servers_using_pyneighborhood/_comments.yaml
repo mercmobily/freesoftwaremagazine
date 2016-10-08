@@ -1,0 +1,14 @@
+-
+    name: notmebug
+    mail: ''
+    subject: 'KDE has support so smb too'
+    hostname: 82.54.168.236
+    created: '1235178917'
+    body: 'Also kde3 and 4 have samba support. In kde3 you can use konqueor by typing smb:/ in the address bar. Same thing in kde4 with dolphin. 2 ways are better than one, isn''t it?'
+-
+    name: gisham
+    mail: ''
+    subject: Thanks!
+    hostname: 84.254.189.64
+    created: '1235201362'
+    body: "Just wanted to say thanks, Scott. I've been doing things the hard way, (Vista VM, running Live Mesh) to transfer files to/from my Vista laptop, but this makes things much easier, and set-up was a breeze. Thanks again, and keep up the good work!\r\n\r\n--Glen"

@@ -1,0 +1,14 @@
+-
+    name: bdenckla
+    mail: ''
+    subject: 'Something wrong with "pre" block'
+    hostname: 67.165.213.148
+    created: '1229112384'
+    body: 'Something is wrong with one of the "pre" blocks above.  Search for ''<'' (open angle bracket (less than)).'
+-
+    name: hdfssk
+    mail: ''
+    subject: 'Deprecated macro'
+    hostname: 24.193.156.131
+    created: '1385916246'
+    body: 'ACLOCAL_AMFLAGS is deprecated as of automake 1.13, cf. http://lists.gnu.org/archive/html/automake-patches/2012-12/msg00079.html'

@@ -1,0 +1,126 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Thank you!'
+    hostname: 125.212.91.19
+    created: '1157606666'
+    body: "That was really some informative blog, mitch.  Honestly, I was once ignorant about these 3D desktops.  Now that you have filled my mind with information.  I can  say that blogs do make sense!\r\n\r\n\r\nhttp://www.rbsbrookland.com\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Small test, results for Radeon 9500'
+    hostname: 84.97.181.174
+    created: '1157652226'
+    body: "Having run a minimal install of Mandriva cooker on my brother's PC equipped with a Radeon 9500, I can say that:\r\n- using latest fglrx driver, XGL works more or less - but it still crashes and can bring the kernel down with it.\r\n- using Mesa, drm and dri, AIGLX works not too badly: 3D acceleration works very nicely on most windows, and video acceleration still works (however, overlays don't 'twist' with the windows). 3D support however is still incomplete (can't run glxgears!) and several 'hangs' happen (no crashes,but suddenly windows won't move for a little while).\r\nNothing a few months of work won't solve.\r\n\r\nOn the Nvidia side, the nouveau project is on a good roll: a working drm module has been done, and xv and xaa support added to the nv driver. Memory space initialization is on its way, but 3D wise, nothing works - they urgently need as much data about Nvidia hardware as they can get. http://nouveau.freedesktop.org"
+-
+    name: ''
+    mail: ''
+    subject: 'nvidia 4200ti'
+    hostname: 65.202.51.34
+    created: '1157688958'
+    body: "I put XGL/Compiz on an old computer with this card and I must say it runs flawless. I haven't tested it with Gentoo yet, but it was working great with Ubuntu Dapper.\r\n\r\nGood luck everyone :)"
+-
+    name: ''
+    mail: ''
+    subject: 'Have tested XGL on an ATI X700 Pro flawlessly'
+    hostname: 24.207.38.202
+    created: '1157693585'
+    body: "Tested using the oh-so-great Gentoo-based Kororaa Xgl Live CD 0.1 which can be found at the following address. Was a lot easier than ruining my perfectly good configuration plus I could test out multiple computers within an hour, usually without any extraneous configuration. \r\n\r\n\r\nhttp://linuxtracker.org/torrents-details.php?id=1604"
+-
+    name: ''
+    mail: ''
+    subject: 'SIS 650'
+    hostname: 83.7.16.46
+    created: '1157699617'
+    body: "DRI don't exist for those, so AIGLX don't work.\r\n\r\nOnly 300 series from SIS has DRI support, but I didn't tested it. Althought it is open source driver, so should work with AIGLX."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: ti4200
+    hostname: 84.7.162.146
+    created: '1157702274'
+    body: "I have one of those too; it is flawless for basic desktop support, however video is choppy, and acceleration of full-screen apps isn't optimal.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: X700
+    hostname: 84.7.162.146
+    created: '1157702349'
+    body: "Could you please specify if you're using proprietary or free drivers, and give me results of a test with the free driver with AIGLX? Thanks!\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'Windows port'
+    hostname: 85.99.147.187
+    created: '1157706352'
+    body: 'I may sound ingorant but I really wonder if there is anything similar to XGL/AXGL for Windows. '
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'references and sources can be useful...'
+    hostname: 84.7.162.146
+    created: '1157706479'
+    body: "source: http://www.winischhofer.net/sisdri.shtml (Sis driver maintainer's page: Thomas Winischhofer).\r\n\r\nThe SiS 300 series (300, 540, 630, 730) has accelerated 3D support - and probably AIGLX, too. SiS 315/550/650/651/740/661/741/760/330 hve no DRI - meaning no 3D support. At all.\r\n\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: '3D desktop on Windows...'
+    hostname: 84.7.162.146
+    created: '1157707971'
+    body: "...is called Aero Glass, will be included with 'heavy' versions of Vista, and will cost (as upgrade for the Premium version) at least 150 EUR. It will moreover REQUIRE Nvidia GeforeceFX, Ati Radeon 9500 and Intel 975G level hardware to... start. Add to this 2 Gb of RAM and a 2GHz CPU to run without looking like a slideshow (personal test on beta 2). If someone can report what's up with the RC1, I don't want to waste a DVD and 20 Gb of HD space to test it.\r\n\r\nAIGLX/XGL run very well on machines 4 times less powerful: I know for a fact that XGL runs frighteningly fast on a 1.6 GHz Sempron with 512 Mb of RAM and a GeforceFX 5200 off a liveCD. When AIGLX runs, it performs even better than XGL.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'AIGLX and Nvidia'
+    hostname: 198.234.143.222
+    created: '1157718917'
+    body: 'Your wrote RedHat and Nvidia championed AIGLX but your list states that Nvidia cards do not support AIGLX.  Why is that?'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'About Nvidia and AIGLX...'
+    hostname: 84.7.162.146
+    created: '1157729600'
+    body: "Nice question, and the answer is easy. Nvidia didn't like Xgl for good reasons: simply put, it's not very elegant and although it can be used in an incredibly large array of applications, its design leads to compromised speed and prevents 3D rendering over a network connection. AIGLX being integrated with the server (the part of X that draws the images following the client's input: client being an application here), it is (hopefully) able to do 3D rendering even on a distant computer (equipped with a 3D card).\r\nNvidia declared itself in favour of such an extention, which was essentially developed by the Fedora project and adopted by Xorg. However, several technical snags appeared:\r\n- Geforce4 and lower, while still supported, require a different driver development than FX and up do: those older cards providing only fixed shader functions, tricks have to be used to support them. This led to the creation of 2 different drivers at Nvidia's, the latter 7x for Geforce4 and lower, and 8x for FX and higher (having tried the 8x with a GF4, I'm not sure it was sensible, but still...) mainly due to the following point:\r\n- The Xorg ABI has changed with version 7.1, requiring some extensive driver review, so Nvidia developers had their plates full.\r\n- completely unused until now and of little value because of that, the GL_EXT_texture_from_pixmap function is absent from their driver. The function's name seems to describe that a card supporting this extention may be able to grab a construct out of its frame buffer and directly exploit it as a texture. Stability- and security-wise it would be tricky to implement, and since Nvidia doesn't provide beta version of their Linux drivers...\r\n\r\nThe reason why most free 3D drivers already support this extention is because MesaGL already had it included; since Mesa use 3D acceleration when it can and falls back to software rendering when it can't, developers already had a reference rendering that they just needed to accelerate for their own card. Nvidia either use a too old version of Mesa, or just hadn't considered this extention (it's not part of core OpenGL 1.5 functions) until now.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Updated chart'
+    hostname: 84.7.162.146
+    created: '1158083170'
+    body: "<table>\r\n<caption>Chips Manufacturers Comparison</caption>\r\n<tr>\r\n<td>Manu</td>   <td>model</td>                               <td>Xorg 7</td> <td>Manufacturerâ€™s</td> <td>XGL</td> <td>AIGLX</td>\r\n</tr>\r\n<tr>\r\n<td>Intel</td>  <td>i810 to i965</td>                        <td>2D,3D</td>  <td>See Xorg's</td> <td>Useless</td> <td>Yes</td>\r\n</tr>\r\n<tr>\r\n<td>NVIDIA</td> <td>Riva/TnT/Geforce1/2/MX</td>                        <td>2D</td>     <td>2D,3D, closed</td> <td>Yes#</td> <td>No</td>\r\n</tr>\r\n<tr>\r\n<td>NVIDIA</td> <td>GeForce3/4/FX/6/7</td>    <td>2D</td>     <td>2D,3D, closed</td> <td>Yes##</td> <td>No</td>\r\n</tr>\r\n<tr>\r\n<td>ATI</td>    <td>Rage128 to Radeon 9200</td>  <td>2D,3D</td>  <td>obsolete</td><td>Useless</td><td>Yes*</td>\r\n</tr>\r\n<tr>\r\n<td>ATI</td>    <td>Radeon 9500 to X1850</td>   <td>Experimental</td> <td>2D,3D</td><td>Yes</td> <td>Experimental**</td>\r\n</tr>\r\n<tr>\r\n<td>Sis</td>    <td>300,540,630,730</td>                     <td>2D,3D</td>  <td>outdated</td><td>Useless</td> <td>Yes</td>\r\n</tr>\r\n<tr>\r\n<td>Sis</td>    <td>315/550/650/651/740/661/741/760/330</td> <td>2D</td>     <td>none</td> <td>No</td> <td>No</td>\r\n</tr>\r\n</table>\r\n\r\n<p>(#)Tested on a Riva TNT board with 16 Mb of RAM: XGL actually works, but it's slow - useable with 'fast' rendering, no 'wobbly' windows, and Composite extension disabled in X in 800x600x32. TNT2 and higher may be fast enough. They require legacy Nvidia driver (71.82). 'MX' relates to both GF2MX and GF4MX, since both are Geforce2-level.</p>\r\n<p>(##)Tested on Geforce4, FX and 6. Slow video on Geforce4.</p>\r\n<p>(*)Card models named Rage128 were either Mach64 2D chips with added functionalities (those don't have a working DRM module) or 'real' 3D chips. The one I could try out (Rage128 TVout) could load AIGLX, but missed visuals 0x23 to 0x32 - so compiz wouldn't load.</p>\r\n<p>(**)Card models from 9500 to X600 use the R3xx chip family. 3D support is being implemented, and AIGLX is working on R3XX cores (tested 9500, got reports on 9600). R4xx is under heavy development. If the free driver supports 3D, then AIGLX support is practically guaranteed.</p>\r\n\r\n<p>Of note: due to being able to make use of Mesa's fallback software rendering, XGL provides GL_EXT_texture_from_pixmap even on hardware that don't accelerate it due to missing driver functionality, while proprietary usually use an older revision of Mesa (or a complete proprietary implementation) that doesn't provide it.</p>\r\n\r\n<p>'Useless' refers to the fact that there are no working proprietary 3D driver, and that the driver integrated with Xorg is good enough to run AIGLX - which works better than XGL anyway. So while XGL would work, it is of no use except if you use an older version of Xorg or Xfree86.</p>\r\n\r\n<p>After more tries, it seems some cards will accept 3D acceleration in applications through XGL; I managed to run Google Earth 4 under XGL, with full acceleration, on my 6600. It may depend on the card's capabilities though.</p>\r\n<p>---</p>\r\n<p>A computer is like air conditioning: it becomes useless when you open windows.</p>"
+-
+    name: ''
+    mail: ''
+    subject: fafa
+    hostname: 203.153.33.242
+    created: '1158155000'
+    body: 'very good'
+-
+    name: ''
+    mail: ''
+    subject: 'i don''t know abt computers..'
+    hostname: 221.135.250.55
+    created: '1159569501'
+    body: "i don't know abt computers.. I'm asking very stupid question..\r\ni hav 32Mb onboard graphicss/AMD 64 3000+ .. bt no AGP..\r\nso xgl Live will not work then??"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'if you''re not using a GNU/Linux system...'
+    hostname: 84.6.223.188
+    created: '1159802776'
+    body: "...then this article is irrelevant: Windows can't run XGL or AIGLX, plain and simple. \r\n\r\nLearn what is a Linux-based system first.\r\n\r\nAfter that, if you're using onboard graphics, knowing the amount of memory helps none: you need to know the graphics chip's brand and model. If it's Intel, you win; if it's Sis, you have little chance; if it's Ati or Nvidia (which I doubt considering the amount of RAM), then it's possible; check the updated article's chart.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows.\r\n"
+-
+    name: jonnyb13
+    mail: ''
+    subject: 'I never really understood'
+    hostname: 61.247.241.218
+    created: '1163571465'
+    body: 'I never really understood these things till now. Although I admit, I know not a lot, but this enlightened me a little bit more than I have. All I know is that the newer the card, the better. I always use ATI Radeon though. What is the best to use anyway? Overall performance? '
+-
+    name: D-cat
+    mail: dcat_of_fm@hotmail.com
+    subject: 'XGL gets tied up'
+    hostname: 66.30.81.163
+    created: '1184472573'
+    body: "In my limited experimenting, I've found GL to be limited to one concurent client. This basically means that if you're using XGL on the desktop, you will not be able to use hardware accelerated GL for applications (like games). XGL (beryl, compiz) must be turned off and the xserver restarted before any 3D games will be playable. Unfortunately, XGL on/off setting affects all users, so there will be no creating desktop profiles.\r\n\r\nI was very impressed with XGL and the beryl manager. However, sine I like my games too, this is a non-start for me.\r\n\r\n"

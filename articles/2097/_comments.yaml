@@ -1,0 +1,56 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Mine isn''t quite as old'
+    hostname: 198.166.60.64
+    created: '1172636728'
+    body: 'I have my first linux install *CD* --Slackware3.0 CD --with the platypus on the front (there was no Tux back then).  It came with the 1.2.13 kernel and as much software as they could pack onto 2 CD''s.  You still had to make boot floppies.  It was harder then.  The booklet that explained everything LInux came with it --a slim 30 pages.  I had to do quite a bit of research to figure out how to build a new kernel, and add command line paramaters to the install floppy to get the install cd to actually load (interrupt in unexpected places caused more problems back then), and I had to hack the kernel to tell it that my cd''s interrupt was somewhere non-standard.  So my first taste of Linux had to include hacking and building a kernel (which I had never done before either).  Great fun that!  Beside the old disk, I have a copy of ubuntu edgy eft (11 years separates them)!  The old stuff worked though, even X windows (FVWM).'
+-
+    name: ''
+    mail: ''
+    subject: 'Something missing?'
+    hostname: 189.144.19.23
+    created: '1172644155'
+    body: "I downloaded the files and created the disk image, but when I issue:\r\n$ qemu -hda sls-1.05.img -hdb fat:. -fda sls-boot -boot a\r\n\r\nQemu complaints and sends next message:\r\n$ qemu: could not open hard disk image 'fat:.'\r\n\r\nI'm running Debian 3.1 with a 2.6 kernel"
+-
+    name: ''
+    mail: ''
+    subject: 'Not the only extant copy'
+    hostname: 210.246.24.149
+    created: '1172651440'
+    body: "FWLIW, I made an SLS Bochs image and included the installation boot disks with it, in 2002, IIRC.  It's SLS 1.X, running Linux 0.99pl???\r\n\r\nIt's available on Sourceforge, in the Bochs disk images.  qemu-hdd should turn it into a qemu disk image.\r\n\r\nShare and Enjoy!\r\n\r\nWesley Parish"
+-
+    name: ''
+    mail: ''
+    subject: '"I''m running Debian'
+    hostname: 24.98.217.202
+    created: '1172676329'
+    body: "\"I'm running Debian 3.1\"\r\n\r\nWell, in that case, you're already running an ancient operating system.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'how can i copy a qemu img to a partiton that boots from grub?'
+    hostname: 74.238.104.100
+    created: '1173760468'
+    body: "i have a number of iso's that i can install to img files with qemu, and then run them from qemu, following this page's example. so far i only did the freedos install, following some other example from the web. i wanted to boot it straight from grub, for faster performance. so i tried to use partimg and dd naively to install the img to a hdd partition, but this was not booting from grub, and made the partition table unreadable from a variety of programs. so i had to repartition the hdd and start all over. i don't know much about the internals of partitions.\r\n\r\nthis is just to avoid the complications of burning the isos to cdrom, installing directly through qemu instead. \r\n\r\n"
+-
+    name: mattflaschen
+    mail: ''
+    subject: 'Very cool'
+    hostname: 128.61.73.81
+    created: '1173763650'
+    body: 'I got a working system, including e.g. gcc.  I couldn''t get X working, or change the password.  However, it''s great in general to look back like this for some perspective.  Thanks.'
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'Running X'
+    hostname: 24.38.136.234
+    created: '1173887661'
+    body: "To get X11 running, you'll have to edit the XF86Config file. There are still web pages devoted to that.\r\n\r\nThe chipset emulated by qemu is the Cirrus Logic dg5446. Unfortunately, the version of X11 shipped with sls 1.05 doesn't support that chipset. So, you have to use the VGA driver, not the SVGA driver.\r\n\r\nThe password issue is interesting. I just tried to change my password in the emulator, and it refused to authenticate root after that. So: I don't know the answer."
+-
+    name: YellowApple
+    mail: ''
+    subject: 'If you''re more daring, try this on real hardware'
+    hostname: 99.148.184.211
+    created: '1352052899'
+    body: "I'm currently getting SLS to run on a Compaq Presario 1210 - an ancient laptop that has had all kinds of personality disorders as it jumps among Windows 95, Windows 98, Windows 2000, and whatever low-resource uber-legacy Linux distro or Unix flavor I'm in the mood for some week.\r\n\r\nX doesn't work out of the box, which is expected; it's complaining about the X binaries not being present in my current PATH variable, so I'll have to go hunt that down (or maybe X didn't install properly...).  Some tweaking of XF86Config is, I imagine, also going to be necessary.\r\n\r\nWhat I do find very interesting is that Wine is built-in; SLS is the only distro I've encountered that includes Wine.\r\n\r\nI've changed root's password, but I haven't tried logging in after that, so I'll give that a whirl and see if I'm running into the same issue of root not authenticating."

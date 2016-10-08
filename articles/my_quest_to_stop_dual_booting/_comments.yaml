@@ -1,0 +1,112 @@
+-
+    name: 'Raghu Kodali'
+    mail: ''
+    subject: 'I kicked my dualboot habit'
+    hostname: 217.140.104.20
+    created: '1173931649'
+    body: "Almost one & a half year back, when I got my new thinkpad, I had two choices. Dualboot, as I was doing for the past 10 years or kick the dualboot & install only Debian.  I took the second option & installed only Debian on my machine.\r\n\r\nThe main issue what I see before kicking the dual boot habit is that every user will have atleast one Windows App which he feels is necessary. But we have to weigh the options & take a plunge. Once your are fully inside the water you will not feel the cold.\r\n\r\nI never looked back after that & I am now a very happy user with \"ONLY DEBIAN\" on my thinkpad for the last one & a half year."
+-
+    name: ''
+    mail: ''
+    subject: 'Greeting Cards in Openoffice,org'
+    hostname: 74.112.116.206
+    created: '1173944176'
+    body: "I'm sure it's primitive compared to your Hallmark program, but I've used Openoffice.org greeting card templates to pretty good effect.  They open in Draw and you can edit them (also some cd labels and other things here):\r\n\r\n<a href=\"http://ooextras.sourceforge.net/downloads/english/index.php?tab=Draw\">http://ooextras.sourceforge.net/downloads/english/index.php?tab=Draw</a>\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Hallmark?'
+    hostname: 67.93.219.138
+    created: '1173970474'
+    body: "If it helps...\r\n\r\nHallmark's business practices are about as anti-competitive and non-open as you can get. Their ability to churn out imitations of successful indie card designers and swamp greeting card stores with their knockoff products is unparalleled.\r\n\r\nI've had a Hallmark boycott in place since the 80's.\r\n\r\nOh, and I ditched my final Windows partition late last year!"
+-
+    name: ''
+    mail: ''
+    subject: Emulation
+    hostname: 74.140.118.251
+    created: '1173983164'
+    body: "Perhaps have the emulator run on a copy of your existing Windows install? (Maybe after some resizing?) Or even better, emulate  from the partition directly?\r\n\r\nI don't know if VirtualBox can do that or if any can, but it should be plausible, particularly the first choice. Glancing through QEMU's documentation, it seems like it can do it. And QEMU has the kernel accelerator module that's been recently open sourced."
+-
+    name: ''
+    mail: ''
+    subject: Virtualization
+    hostname: 74.140.118.251
+    created: '1173983614'
+    body: "Perhaps have the emulator run on a copy of your existing Windows install? (Maybe after some resizing?) Or even better, emulate  from the partition directly?\r\n\r\nI don't know if VirtualBox can do that or if any can (never played with virtualization), but it should be plausible, particularly the first choice. Glancing through QEMU's documentation, it seems like it can. And QEMU has the kernel accelerator module that's been recently open sourced."
+-
+    name: ''
+    mail: ''
+    subject: 'Hallmark ?'
+    hostname: 150.101.230.195
+    created: '1174018386'
+    body: "Seriously - next time you need to knock out a card (especially for an aniversarry !!!!) - get off the computer entirely, and make something with your own bare hands and ingenuity, and write something original inside it that comes from your own heart.\r\n\r\nNot only will that mean much much much more to the person you are giving it too, but it also gets you past your dual-boot problem !!\r\n\r\nEasy"
+-
+    name: ''
+    mail: ''
+    subject: VMWare!
+    hostname: 202.147.29.77
+    created: '1174020781'
+    body: "VMWare has a free program to convert your physical Windows machine to a virtual image, which you can then run with their free VMWare player.  \r\n\r\nI tried it with VMWare player running in BLAG Linux (a Fedora 6 based distro) and it worked.  I didn't test it extensively as I decided to replace BLAG with another distro (sidux) with which I am trying to do the same thing. Not quite succeeding, though.  If you want the gory details email me : raybaq AT gmail DOT com."
+-
+    name: ''
+    mail: ''
+    subject: 'wine & emulation`'
+    hostname: 62.64.160.226
+    created: '1174040947'
+    body: "Hi\r\n\r\nDo not give up on trying an install because the wine database says no - wine is constantly changing.  In case of problems run installer & then the app from the command line to pick up error messages.  Your solution may be as simple as moving a dll file in your .wine directory.\r\n\r\nHave you got an old copy of win98 somewhere or can you lay your hands on one & does your card program need to be run on XP?  98 runs really well under qemu, is lighter on system requirements & can run many apps.  \r\n\r\nbest wishes\r\n\r\nGuy"
+-
+    name: ''
+    mail: ''
+    subject: 'VMWare Converter'
+    hostname: 62.87.199.10
+    created: '1174068316'
+    body: "That thing is called WMWare Converter: <a href=\"http://www.vmware.com/products/converter/\">http://www.vmware.com/products/converter/</a>\r\n\r\nThe only problem I see may be to get a running copy of your restored Windows installation. It may even involve restoring it to the real laptop's hard drive. Then the conversion could indeed give you a working virtual machine with Windows."
+-
+    name: ''
+    mail: ''
+    subject: 'qemu & kqemu'
+    hostname: 192.91.147.35
+    created: '1174069231'
+    body: "how timely...\r\n\r\nyesterday after my wife's laptop stopped working for a day (only to have it unexpectedly make a comeback last night for no reason) she was ready to give up windows, as every other computer in the house runs linux, except for one budget/finance application.  all her other applications are already cross-platform open-source (firefox, thunderbird, openoffice).\r\n\r\ni won't touch vmware; no closed-source in my linux kernel (but i'm a little less militant in userland with flash and java).  virtualbox's integration on debian is too immature from what i've seen (non-debian-official closed-source deb & open-source version only in svn according to <a href=http://www.debianadmin.com/create-virtual-machines-using-virtualbox-in-debian.html>here</a>).  i don't have the hardware (VT or AMD-V) for windows on xen and even if i did i don't want the administrative overhead & infrastructure of xen.  i want something reasonably simple, self-contained, and approachable by a newbie (maybe requiring one-time set-up by an admin, that's me).\r\n\r\ni had experimented with qemu three or so years ago (where it took four hours to install windows 98), and had heard that kqemu, the kernel-side cpu-instruction execution-agent for qemu, had recently been open-sourced.\r\n\r\nthere's a debian package, kqemu-source, in unstable.  it should work for ubuntu as all you need is kernel headers and the tools to build debs (which should be dependencies of the package).  i built the resulting kqemu-module package on testing/\"etch\" and it compiled and installed fine.\r\n\r\ni set-up and launched qemu as described in the <a href=http://kidsquid.com/cgi-bin/moin.cgi/QuickStartGuide>quick start</a> and had windows 98 installed in 30 minutes.  (very different experience than previously.)  good thing about windows 98: under 300 MB for a minimal installation.  bad thing: 100% cpu utilization for the entire duration of its use (which heats my cpu like cpuburn, though you can find a few programs that issue the cpu HALT command when idle, but then windows 98 stutters and the user experience becomes choppy).\r\n\r\nso i also tried windows 2000 and settled on it.  the minimum install is ~750 MB, but it runs very smoothly with no cpu utilization when idle (after it settles down after booting, just as with a non-virtual desktop) and great performance the rest of the time (for a user-input-limited application).  user experience and cpu utilization is more important to me than a GB of disk space.\r\n\r\nthe command to start it is simply: \"qemu -localtime -hda hd.img -fda fd.img\" (as the floppy image will be used for storing the compressed data files for easy backup apart from the windows installation).  that's simplicity.  i may add network capability, which will require some administrative work on my part, but we don't download QIFs over the internet, so it's not really necessary.  i need to figure out how to print from within qemu, but we hardly need hard copies, so that's not a priority, and we can always print to a postscript file in windows and print it from linux.\r\n\r\nso, after my recent experience (yesterday), may i suggest qemu with kqemu on debian/ubuntu."
+-
+    name: ''
+    mail: ''
+    subject: 'qemu & kqemu'
+    hostname: 65.60.211.114
+    created: '1174089631'
+    body: 'I can also suggest qemu/kqemu + Win98 or Win2000.  Coincidently, I run Win98 on Ubuntu just for an old greeting card program called PrintMasterGold. Win98 can only use qemu without the kqemu accelerator so it is a bit slow/choppy but the install was easy (from Synaptic or ''apt-get install qemu'') and the Win98 disk image was only 200MB. With PrintMaster installed the diskimage is 400MB.  For better performance install Win2000 or WinXP on qemu which can can take advantage of the kqemu accelerator.'
+-
+    name: ''
+    mail: ''
+    subject: 'KQEMU under GPL'
+    hostname: 212.183.60.20
+    created: '1174134831'
+    body: "KQEMU under GPL? Fantastic news!\r\n\r\nI'm not sure whether it's possible to emulate from an existing Windows partition, though. The emulator wouldn't have a problem, but the Windows installation might. The drivers that are installed under Windows won't match the emulated environment. But I haven't tried it. Maybe Windows will boot in safe mode the first time and recover from there???"
+-
+    name: clau85
+    mail: ''
+    subject: 'the need of dual boot'
+    hostname: 132.199.232.169
+    created: '1174432580'
+    body: "I'm an a Computer Science student and I currently have Kubuntu Edgy and XP Professional as dual boot installed. I can proudly say that I haven't booted Windows in months because I didn't need to. As I don't play games under Windows (but a few under Linux ;) ), and I didn't have any projects where I had to use MS-Products, and, thus, Windows, I was quite happy. But now, as the new semester begins, I see that the teachers still tend to be MS-dependent. Visual Studio, Excell, Access, they point on that when they speak of software. To find a really good alternative to Visual Studio is, indeed hard, but not impossible. I would also be more than thrilled to be learn about versioning systems like CVS, Subversion, but that's not even mentioned. I have to find my way in KDevelop, but it's quite difficult at start. \r\nWhat I want to say is that people should really try Open Source as an viable alternative, not to be stuck with MS. I try to do that as much as I can, but it's hard for me to change the minds of others. I am considering to start to ask (more or less) \"rethorical\" questions to the IT people at our university about Open Source products. As of now, they don't even want to install OpenOffice.org!\r\nUntil we (ITs) are forced by the industry and other factors to use MS-Products, I will still have to remain to my dual boot...\r\n\r\nPeace!"
+-
+    name: bhawks
+    mail: ''
+    subject: 'whats the point of not dual booting'
+    hostname: 24.253.43.122
+    created: '1174540531'
+    body: "I don't see the point in not dual booting if you're going to dump another $100 down the drain to get VMware to run Windows. The point of the article is to quit using Windows not keep the crutch... If you already have the Windows license then you might as well run the thing on the physical drive and save your money from something else! VMware is a bad idea... I reckon you know that since you chose to be anonymous anyway! I am not putting VMware down, it has a very legitimate use but not as a crutch and you always know people who have no idea how to do anything, always offer up this utility for this stupid purpose!\r\n\r\nI can't tell this guy how to make cards other than using yahoo or something like that that email them and most people I have sent one to have been kind and seemed to really like them as they always seem to send some back to me. I do also agree with the Hallmark comment below, you can always make one by hand...\r\n\r\nAs for this guy's finance program if he uses Ubuntu, there is a program called Automatix that has a finance program ready for install. Just check it and you're off.\r\n\r\nJust dump the Windows and start looking for what you want... It may take a moment or an hour or some more time, but I guarantee when the programs are found you will be happy. "
+-
+    name: Motin
+    mail: freesoftwaremagazine.com@demomusic.nu
+    subject: 'Re: whats the point of not dual booting'
+    hostname: 84.217.95.31
+    created: '1176643471'
+    body: "1. VMWare is available free of charge\r\n2. The finance program in Automatix2 is GNU Cash which the author mentions"
+-
+    name: DanKegel
+    mail: ''
+    subject: 'Wine supports Hallmark app'
+    hostname: 65.57.245.11
+    created: '1210644473'
+    body: "Shoot, I should have replied a long time ago.\r\nhttp://bugs.winehq.org/show_bug.cgi?id=7764\r\ndescribes the problem I had with the 2005 hallmark demo,\r\nand an easy workaround for it.  Let me know if it works for your app."

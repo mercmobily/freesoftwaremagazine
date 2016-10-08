@@ -1,0 +1,42 @@
+-
+    name: warbo
+    mail: ''
+    subject: 'A programmer''s perspective'
+    hostname: 87.194.139.125
+    created: '1286483323'
+    body: "Firstly I would stop using Identi.ca if it required a captcha to send some messages; not through choice, but because I do all of my interaction via XMPP, which is running on my computer all of the time. I never get in the habit of trawling through Web sites individually when I have an instant messenger, an email client and an RSS reader to give me what I'm after on my terms.\r\n\r\nSecondly, to me a lot of your ideas could be summed up in three words: PageRank for users. In other words, rather than special-casing so many things, have a general metric to judge users against each other. The way Google's PageRank works is to treat hyperlinks as an endorsement of the target from the source. Each page's rank is the sum of its endorsements each multiplied by that source's own rank. A similar thing could be used to judge the validity of users: group posts, direct messages, @replies, favourites, redents, age of the account, etc. would all count towards a user's validity, whilst negatives like flags, dubious keywords (\"sale\", \"buy\", \"cheap\", etc.) would detract from the validity. Those kicking off the spammers just need to keep an eye on the bottom of the rankings, since spam accounts would either drop right down quickly and be spotted, or else they're not annoying enough people to make it down there.\r\n\r\nThe advantages are that 1) the worst offenders are most easily found (right at the bottom), 2) accounts being 'bullied' with flags should have enough positives to not drop all of the way down, 3) since everything's weighted on an account's ranking, generating new accounts to fulfill an agenda (advertising, artificially raising or lowering another account's \"spamminess\", etc.) would be ineffective, since established users (with a much higher confidence level) can overpower such untrusted accounts.\r\n\r\nMay be a bit of a slog to code, but it would be generic enough to solve many problems in one fell swoop."
+-
+    name: 'Chris Watkins'
+    mail: ''
+    subject: 'Excellent point - I'
+    hostname: 222.124.46.21
+    created: '1286677473'
+    body: "Excellent point - I completely missed that problem with CAPTCHA. Implementing it in desktop clients would be difficult (e.g. in Pino, Gwibber, Choqok) to impossible (XMPP, I guess). \r\n\r\nSo, how about sandboxing as a temporary fix, with work on a PageRank for users as a longer term solution?\r\n\r\n--\r\nChris Watkins\r\n<a href=\"appropedia.org\">Appropedia</a> - wiki for sustainability, development, ICT4D."
+-
+    name: 'Chris Watkins'
+    mail: ''
+    subject: 'When to use CAPTCHA'
+    hostname: 222.124.46.21
+    created: '1286708556'
+    body: "Thinking again...\r\n\r\nCAPTCHA might be useful as a very blunt tool for *very* suspicious posts (e.g. a series of very similar posts, with many tags or many \"@\", by an account with a low trust metric*). But it would need to have a very low false positive rate, and maybe only be turned on occasionally when spam is out of control. If it's working properly, you as a legitimate user should never see a CAPTCHA.\r\n\r\nThe CAPTCHA would need to send a message back to those using XMPP or desktop clients, to follow a link to CAPTCHA or wait for x minutes (giving time for previous posts to be tagged on not, and thus assessed as spam or not).\r\n\r\nBut if it can be avoided, all the better.\r\n\r\n--\r\nChris Watkins\r\nAppropedia.org - wiki for sustainability, development, ICT4D."
+-
+    name: joeka
+    mail: ''
+    subject: 'I''ve already seen'
+    hostname: 141.3.211.107
+    created: '1286789287'
+    body: "I've already seen implementations with links to captchas for xmpp MUC group chat rooms.\r\n\r\nThat was only in addition to xmmp CAPTCHA Forms described here: http://xmpp.org/extensions/xep-0158.html\r\nand implemented by some clients like gajim.\r\n\r\nSo, with xmpp this is possible and with the increasing popularity of xmpp, more clients will have to implement this feature to prevent spam in different usage scenarios."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Some good suggestions'
+    hostname: 62.140.212.3
+    created: '1286873318'
+    body: "Some good suggestions there Chris. I think there are two kinds of marketing accounts on Identi.ca - real ones and link-monkeys. The real ones I would have thought would not object to a few extra hurdles if they still reach the right people. The link-monkeys seem only interested in posting as many links as possible - probably in some vain Google PageRank effort.\r\n\r\nThe suggestions you give are reminiscent of greylisting in e-mail (not the challenge response type). That allows genuine corporate senders to pass through while telling the fire-and-forget spammers to take a hike.\r\n\r\nCongrats on a good first post and welcome to FSM!\r\n\r\nRyan\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: srf21c
+    mail: ''
+    subject: implementation
+    hostname: 72.25.101.206
+    created: '1321841408'
+    body: 'Have any of these measures been implemented? Seems like link monkey spam is still a problem.'

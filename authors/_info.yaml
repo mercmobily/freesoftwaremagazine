@@ -1,0 +1,4 @@
+postFilters: layout
+postProcessFilters: template-ejs
+layout: generic.html
+

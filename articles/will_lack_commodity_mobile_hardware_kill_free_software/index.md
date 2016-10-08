@@ -1,0 +1,34 @@
+---
+nid: '3522'
+title: 'Will the lack of commodity mobile hardware kill free software?'
+authors: 'Ryan Cartwright'
+published: '2011-03-23 14:31:08'
+tags: 'open-hardware,hardware,mobile'
+license: verbatim_only
+section: opinions
+listed: 'true'
+
+---
+This magazine has voiced [several](http://fsmsh.com/3371) [concerns](http://fsmsh.com/3219) over the almost de-facto state of vendor lock-in in the mobile market and with good reason. What is the point of free software if the hardware locks your access to it? This premise was one of the driving forces behind v3 of the GPL and as far as I can tell the [OpenPC](http://open-pc.com) project and other open hardware projects. But most of these hardware projects relate to the desktop PC model. Where is the equivalent commodity hardware for the mobile market, the tablet "market" or even the laptop one?
+
+<!--break-->
+
+# The rise of the PC through commodity hardware
+
+When IBM developed the "PC" they made it expandable by design. The design focussed on the principle of a mainboard and plug-in cards which could target specific uses. IBM also allowed people to make "clones" that followed IBM's specifications, creating a huge market. Okay that's an over-simplification, but their decisions enabled commodity hardware to drive features up and -- importantly -- cost down. Indeed it was probably the underestimation of this sub-market that eventually led to the IBM losing their grip on the small computer market. It could be argued that without the availability of commodity PC hardware and associated peripherals we would all have been at the mercy of hardware/software houses like Commodore, Atari, Sinclair and of course Apple which would lock us into an endless upgrade your-hardware-when-we-tell-you cycle (no matter how nostalgic some of those names make us feel). It could also be argued that commodity PC hardware significantly helped the free software revolution. Linus Torvalds created the Linux kernel for 80386 processors: would he have wanted to, had there not been a dearth of cheap and available hardware to build for (and on)? Even through the days of big name PC manufacturers like Dell and HP, the real strength of the desktop PC remains that you can swap bits of it out and upgrade it without replacing the entire box.
+
+=ZOOM=The real strength of the desktop PC remains that you can swap bits of it out and upgrade it without replacing the entire box=
+
+# Commodity devices
+
+In contrast to this we have the mobile and portable markets. Laptops appeared soon after desktop PCs although you'd have needed one heck of lap to balance an early Compaq on it. They were almost as upgrade-able and expandable as their desktop cousins. To this day laptops are reasonably expandable, but it still remains that this is largely restricted to RAM and storage unless you add an external peripheral via USB or (for some years) PCMCIA. But the fact is that if you want to buy the components and assemble your own personal computer, it will most likely be a desktop not a laptop. Some moves are being voiced for modular laptops, particularly the [Bloom](http://www.stanforddaily.com/2010/11/08/1044018/), a joint project by students at the USA's Stanford and Finland's Aalto universities which has aims of recycling but also make laptops more modular by design. There is a video on the project [here](http://www.zdnet.com.au/videos/fighting-e-waste-with-recyclable-laptops-22533805.htm) but sadly it's flash-based.
+
+Mobile hardware is in an even worse state. Practically every device is a black box which comes from a single manufacturer. Be that HTC, Apple, Nokia, Sony/Ericsson or Motorola (or one of the others) the device you buy is pretty much all you get and upgrading means buying a new device. This model has been transferred to the tablet market as well. True, there are some hardware available with free aims such as [OpenMoko's freerunner](http://wiki.openmoko.org/wiki/Neo_FreeRunner) but it hasn't had the impact that it deserves or needs and it's still a black box device.
+
+This commodity device over commodity components situation is important for us free software lovers. As the computing and technology markets (particularly the consumer ones) push ever onward towards the former model we will find ourselves with a tough choice of compromising our freedom values or ending up in a technology ghetto. Proprietary software companies have continued to dominate the consumer PC market despite the emergence of free software; that grip is slipping and for as long as people can build a freedom-supporting PC of their own that grip will loosen. To some extent this overflows to the laptop market, but once hardware manufacturers move people towards the tablets or even hybrid tablet/laptop machines we will find it harder to install only free software on our computers. This may make some of you say "So what?" but even if we are happy to install the odd non-free driver now does that mean we will be happy to install *only* non-free drivers?
+
+Again the mobile market is worse: there is no way for a consumer to buy and build their own mobile or tablet device from commodity parts. On one hand this leads to sleeker devices and everything is made smaller and embedded, but in another way and as mobile devices become even more ubiquitous we will find free software even harder to install and use. This is what I mean by “kill free software” in the title. Free software that is subject to hardware controls that restrict the very freedom it supplies is no longer free software. Unless there is an opportunity for the end-user to use the freedom intended by the software licence, free software on mobiles will become just zero cost and not freedom software. At that point what we call free software dies (on mobiles anyway).
+
+# A call to ...what exactly?
+
+So is this a call to arms? Should we free software users unite and march upon the halls of the hardware makers and demand our commodity hardware? No. I'm not demanding that anyone do anything much other than answer a couple of questions. Is it feasible to have commodity mobile hardware? Should there be a project to source or even create such hardware (I'd prefer free or open of course)? If there were, would we use it? It's interesting to note that for all the advantages to the Bloom laptop, not one manufacturer has shown an interest. I suspect that in truth no matter how much there should or could be commodity components for portable and mobile computing devices, I suspect there never will be. I find this sad and a little worrying but honestly, I don't know what to do about it and I find that the most worrying of all.

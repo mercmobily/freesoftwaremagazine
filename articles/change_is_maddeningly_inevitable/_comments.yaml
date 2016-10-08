@@ -1,0 +1,21 @@
+-
+    name: ''
+    mail: ''
+    subject: question
+    hostname: 86.34.237.177
+    created: '1165141400'
+    body: "Are you advocating the use of binary drivers and about giving up on some of our freedoms for the sake of market share ?\r\nIf you are, just say so."
+-
+    name: 'Chris Mostek'
+    mail: ''
+    subject: Reply
+    hostname: 68.12.165.173
+    created: '1165202440'
+    body: "Not really.  But I do believe the user experience with drivers is an area for improvement.  Binary drivers can be one solution, but there can be other viable solutions too.\r\n\r\nThe point is that the issue of binary drivers may take a lot of trial/error/failures before finding a solution that can meet the Free Software philosophy AND can be easily used by new users.  Like Thomas Edison, we may find a lot of ways to NOT make a light bulb before finding an acceptable path."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Why would you think'
+    hostname: 68.93.224.4
+    created: '1165270365'
+    body: "Why would you think that?\r\n\r\nSeems to me that the argument here is for greater ease of use."

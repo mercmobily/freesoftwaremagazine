@@ -1,0 +1,98 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Learning Forth'
+    hostname: 82.93.44.196
+    created: '1155377222'
+    body: "I'd be happy to learn you Forth. One of my major design objectives when I developed 4tH was to make it easier to learn the language. Take a look at http://www.xs4all.nl/~thebeez/4tH, download 4tH V3.5a for your OS and have a go. It comes with a very sizable tutorial and I'd be happy to answer any questions you might have. You wouldn't be the first one! ;-)\r\n\r\nHans Bezemer\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Software not good enough'
+    hostname: 203.22.197.45
+    created: '1155379551'
+    body: "No software is perfect. Contribute to something, document something, translate something.\r\n\r\nI'm a bloke, but doing just that got my name on some lists. Well... not that I care for fame, but it did/does happen. Some projects are easier to do this for/with than others. 'T'is what my cousin Roslyn would do, if she were interested.\r\n\r\nThe few projects I manage myself... I care about how well you do in real life, not what your gender, race, hair-colour, homeland, car brand etc are."
+-
+    name: ''
+    mail: ''
+    subject: 'Is it as bad as that?'
+    hostname: 71.34.168.232
+    created: '1155383970'
+    body: "\"You aren't really anyone in free software until you write code or contribute a bug fix.\" - Oh, come on, we don't outright *disdain* the user community! Remember that programs include 10-line shell scripts. You can just post them yourself on a page somewhere, collect them over time, they'll grow all by themselves. People who search for and find your script may let you know that it was useful to them.\r\n\r\nAnother way to contribute is through things like writing manuals, submitting sound and graphics, or even just assisting with web hosting. Larry Ewing is world famous throughout Linux, and I'm not aware of a single line of code he's written. But if it weren't for him, we wouldn't have that cuddly Tux logo! I'll never have my picture on the cover of a magazine (unless I publish it myself), but I can rest assured that I've contributed *something*.\r\n\r\nI'm not so different from you: I'll search the web for weeks and even ask in forums for a program with the feature set and functions that I want; but if it's small enough and I know how to do it, I'll write it myself and script it. I post these, but I don't expect them to shatter the world with their brilliance. I'll also modify code that I get in small insignificant ways, but less to fix bugs than to modify it for my own use. I tend to use a program only after most of the heavy-duty bugs have been nailed.\r\n\r\nFinally, with everybody and their dog seeking ways to contribute, it's logical to think that eventually, everything in the world will be written already except cutting edge tech and features nobody has even thought of. It is not necessary to feel like a second class citizen just because you don't have contributions to point to and brag about. After all, there's plenty of free software to go around, and freedom should include the freedom to just lie back and coast!\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Women are actively discouraged?'
+    hostname: 69.22.57.66
+    created: '1155391343'
+    body: "\"...women are actively discouraged from becoming free software developers....\"\r\n\r\nOh, really?  \r\n\r\nNow, I have no idea whether that statement is true or not.  But it's a bit too facile, perhaps because I've been hearing most of my life that women are actively discouraged from this, that or the other activity.  \r\n\r\nI've been reading a lot lately about the steep decline in the percentage of women in computer related professions.  There's a lot of very public hand-wringing over it.  So I don't think women are being discouraged, I think they are opting out despite a great deal of active ENcouragement.  But that only applies to the industry generally, not to free software particularly.   How would free software development be different?\r\n\r\nFree software tends to get developed by loose groups of people who collaborate over the Internet and may never meet in person or know anything about one another except their respective contributions to the software.  So where is the opportunity to discourage women? As I say, I don't know, but I'd need some evidence or argument.  \r\n\r\nFor you personally, it sounds like your own motivation is just not strong enough.  I agree that programming is difficult, and starting to do it again after being away from it can be terrifying, and you might be wasting your time by duplicating someone else's work, and so on. I have those same problems, and I am male.  What does it have to do with being female?"
+-
+    name: ''
+    mail: ''
+    subject: 'Learning how to program, not just a programming language'
+    hostname: 69.17.73.250
+    created: '1155396213'
+    body: "You might consider learning how to program, rather than how to program in a particular language.\r\n\r\nThe <a href=\"http://mitpress.mit.edu/sicp/\">Structure and Interpretation of Computer Programs</a> is one of the best programming textbooks ever.  And it can be read on-line, as can the instructor's manual, assignments, etc.  Written for collage freshman, if you make it through the first 3 of the 5 chapters you'll have a background at least as broad as the average programmer and you'll be able to pickup any programming language you like.  To learn a new language you'll only need to learn the syntax and familiarize yourself with the library of available functions, you'll already understand the concepts and know how to put the pieces together.\r\n\r\nRegards,\r\n\r\nKarl O. Pinc kop atattat meme doddott com\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Why Program?'
+    hostname: 65.78.164.90
+    created: '1155404890'
+    body: "Truly an interesting essay.  Your list of motivations reminds me very strongly of \"The Hacker Ethic\" by Pekka Himanen.  And also this post by Christpher Blizzard on encouraging open source developers in India: http://www.0xdeadbeef.com/weblog/?p=171\r\n\r\nThe reminder comes from what's missing from your list of motivations:  Free software programmers program because they love to program.  Free software programmers seldom make money directly from their programming (it may get them through an interview but it's not what they end up working on at their job.)  Only a few gain fame outside of free software circles.  Chances are good that the free software programmer was actively discouraged from being a programmer by parents (Go outside and play!) or peer pressure or even friends.  And yet they continued to program because it was part of who they were.\r\n\r\nThe motives for being a free software programmer are the same as the motives for being a painter: You do it because you are driven to do it.  You do it because you feel that there is a great, shining, perfect program out there that you've glimpsed in your dreams.  And every time you program you have another chance to let that vision of perfection be born.  And you do it because even though your last attempt didn't come close to that vision, you were closer than you've ever gotten before.\r\n\r\nTwo years ago I learned python and wrote a program in it because I'd heard enough about the language to be intrigued.  I stayed up later than my kids, I hacked on it between calls at my tech support job, I figured out what libraries were already written for gnome, I cursed XML, I figured out sourceforge, I posted my code, I posted again, I rewrote large sections from scratch, I posted again.  In all of this I saw no reward.  No mass of users started using my program.  No one called me up to offer me a job because of it.  I did it because late at night when I'd diagnose a bug or suddenly realized a more intuitive way to structure the code I'd feel... fulfilled.\r\n\r\nIf we dont have more women who are free software programmers then we need to find out why there aren't more women who feel the passion to program, who feel that programming is an intricate piece of who they are.  Is it because they're too busy with family?  Maybe we need to organize more family hacker events where the kids go off with a few adults and the rest of the hackers go to a quiet room to learn and code.  Is it because families don't buy computers for girls at an early age so they can learn to love the keyboard the way a painter loves a brush?  Maybe we need to give them computers with linux installed to take home from school.  That might even keep the other family members from monopolizing the time on the computer :-)\r\n\r\nI don't know where passion comes from or why it isn't driving women to become free software programmers too but maybe you do.  Like you I started progamming in the 1980s with Apple Basic.  But while you were programming a database, I was only looking at other people's code, figuring out what it was doing so I could be better at the game it was implementing.  In college, I didn't like what the instructers were teaching, dropped out, and haven't taken a computer class since.  There are some parallels in your story and mine but I keep on programming because I feel driven to do it.  At some point in your story you stopped feeling that driving need.  If you figure out when that was and what things changed at that time you might discover why you stopped feeling that passion.  And if you figure that out you may figure out how to make a more diverse free software community (not just in male:female ratio, but in social class and nationality as well.)\r\n\r\n-Toshio Kuratomi"
+-
+    name: ''
+    mail: ''
+    subject: 'What''s the problem?'
+    hostname: 203.173.156.115
+    created: '1155436431'
+    body: "I don't understand the point of your article. Are you feeling some sense of inadequacy because you don't have the urge to write software? Do you think you're letting women down in some way?\r\n\r\nWhere are these women who are being \"actively discouraged\" from being software developers, free or otherwise? I'd like to meet one.\r\n\r\nLawrence D'Oliveiro"
+-
+    name: ''
+    mail: ''
+    subject: 'more a community member than me'
+    hostname: 62.253.128.14
+    created: '1155507195'
+    body: "I consider people like you who bother to be testers community members. I consider me to be and the biggest thing I do for FS is advocate it and explain it to every person who listens long enough. It's had some affect.\r\n\r\nI'm even a software engineer by profession and use FS as much as I can. Always intending but never getting around to contributing more directly with my professional skills. (I suppose I deliberately by FSF books from time to time.)"
+-
+    name: ''
+    mail: ''
+    subject: 'Pulsar Pages/ w / holographic dream'
+    hostname: 67.185.9.217
+    created: '1155569860'
+    body: "  Design disappearing shells on page, mouse over, appear, post, type, text, edit, move mouse another shell appears,move away disappears. mouse on, edit, post. Rotate mouse in clock like rotation all windows appear & disappear to be stopped upon and edited.\r\n\r\n  Otherwise design hologram to appear on my desk, I touch my fingers, drawers open links appear in text form or icon form, my fingers execute electrical interference causing signal to go to designated website. Open another drawer my email appears in envelope form flicker with fingers envelope appears to be torn open crunched up and discarded into holographic trash can. I touch letter and read. Open another closet, a holographic woman appears, looking like Kristanna Loken in Viking Form (I touch her) (she looks at me) (slaps my face) and says: (Real Enough yet)?! (Yes)! says I:-)   We leave my desk and home and go to a movie and dinner and get a Hotel room for the weekend. later get tickets to RIO and have the endless honeymoon for long long time? \r\n  by:  jimoer_i_ke"
+-
+    name: ''
+    mail: ''
+    subject: 'How about Python?'
+    hostname: 82.36.234.82
+    created: '1155590565'
+    body: 'Although male, I am also getting <a href="http://python.zeth.net/blog">back into programming</a> with other work and family commitments, Python seems ideal for this. Firstly, it is high-level (more English-like), so quick(ish) to learn and is used everywhere these days, from Games to search engines to Gnome Apps. There are loads of free books online too, so you can do at in any short break where you have a PC, even an MS PC.  '
+-
+    name: marienoelleb
+    mail: ''
+    subject: 'Women are actually and actively discouraged'
+    hostname: 81.62.201.142
+    created: '1155668376'
+    body: "The professor Dianne O'Leary of the university of Maryland at College Park has an excellent description of the way many women are actively discouraged from becoming computer sciencist. You can fin it at the following address: http://www.cs.umd.edu/users/oleary/faculty/whole.html\r\n\r\nAnd even if most communities developping Open Source software do never physically meet physically, they may still carry social values and interaction modes that make most women uncomfortable.\r\n\r\nMarie-NoÃƒÂ«lle Baechler\r\nBelmont-sur-lausanne / Suisse\r\n"
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: 'What does it have to do with being female?'
+    hostname: 68.93.224.4
+    created: '1155740892'
+    body: "Anonymous said:\r\n\"For you personally, it sounds like your own motivation is just not strong enough. I agree that programming is difficult, and starting to do it again after being away from it can be terrifying, and you might be wasting your time by duplicating someone else's work, and so on. I have those same problems, and I am male. What does it have to do with being female?\"\r\n\r\nNothing,\r\nThat's why I'm asking the question.\r\nThe reason for the difference in demographics isn't obvious.\r\n\r\nI've seen so many cases where more males than females do a thing, and other cases where more females than males do a thing. Usually, however, there is an overlap in interest, and if someone doesn't cross that barrier, there is a reason.\r\n\r\nFor example, there are more female preschool and elementary teachers than male ones, yet I have met many men who like young children. There is an overlap in interest, but the inherent distrust that many people have of a man's motivations for spending time with young children taints and discourages men from entering the field even if there are few overt barriers placed in their way.\r\n\r\nThese sort of barriers are probably the cause for the greatly reduced numbers of female programmers.\r\n\r\nIf you feel all the doubts that I do, why is it that you go on to program and I do not?"
+-
+    name: ''
+    mail: ''
+    subject: 'If you want to do it, do it, else stop whining..'
+    hostname: 82.93.44.196
+    created: '1155946141'
+    body: "It is not unlike many scientifically questionable women studies I've seen. Bu there might be a gender issue here. Deborah Tannen has written a good book on the way men and women communicate and tackle issues. I suggest you read it once.\r\n\r\nMen are fascinated by technical gadgets, women by people. Man communicate issues, women to strengthen relations. An anecdote circulates in Holland that there was a female computer club who thought there were too few women in computer science and thought it was a good idea to do something about that. After a year none of the women had acquired any skills, but they still were not done discussing the issue.\r\n\r\nSome women might relate to that situation, but it is incomprehensible to men. Never noticed how your husband or boyfriend never actually LISTENS to your problem, but instead wants to SOLVE it? Same thing.\r\n\r\nFortunately, I have a few female friends in the same line of work and on some issues they are even better workers than men (e.g. where documentation, administration or assistence is required). I don't think women are actually discouraged by men, but they don't abide by the rules. If a guy tells you that is a piece of junk and shows you how it is REALLY done, he is NOT telling you you're no good. He's just telling you this is not the way to do it - in such a way that the message comes across. Note he would do it the same way when another guy was involved.\r\n\r\nIf you expect to be answered in a way your girl friend would do it, you're at the wrong place. They guys are geeks. They like what they do, they live in a meritocracy and I'm sorry to say so, but your feelings are NOT involved. If you can't stand the heat, get away from the fire. If you can, you might learn something and in the end you'll be one of the boys.\r\n\r\nIt might sound harsh, but that is reality. Most geeks I know have no social skills and for you they are not going to acquire them. They'd rather learn Python instead of - gosh - be a kernel developer. In other words, you'd better read Linux Journal, because for your sake they are not going to read Cosmopolitan - not in a lifetime!\r\n\r\nBut if you want I'm always happy to learn you a bit about Forth. That helps our mutual case more than these fruitless discussions ;-)\r\n\r\nHans Bezemer"
+-
+    name: ''
+    mail: ''
+    subject: 'Tried Python, preferred Ruby...'
+    hostname: 203.22.197.45
+    created: '1156120793'
+    body: "...and there are others around, too.\r\n\r\nRuby isn't as, well, anglophile as Python but it does read quite well and flow quite naturally for me; besides, I find it a lot easier to be expressive in.\r\n\r\nNaybe it's just my personal approach but I find an old Ruby program easier to pick up and work with. Even easier than brain-dead-simple ForTran and <strong>much</strong> easier than Apple's tangled BASICs. Yes, I have programmed Apple ][+, //e, //c, /// and others in several BASICs, Pascal & ForTran. And much other stuff (e.g. PDP-11 (RSX) in RatFor, C, BASIC-PLUS-TWO and others).\r\n\r\nI can't comment on the relative femininity of the languages, as femme is one thing I'm definitely not. Sorry about that.\r\n\r\nCheers; Leon"

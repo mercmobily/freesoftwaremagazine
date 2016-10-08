@@ -1,0 +1,63 @@
+-
+    name: Balzac
+    mail: ''
+    subject: 'Very Inspiring.'
+    hostname: 72.229.124.129
+    created: '1213557480'
+    body: "That makes me want to sing.\r\n\r\n[http://www.gnu.org/music/free-software-song.ogg](http://www.gnu.org/music/free-software-song.ogg)\r\n\r\n[http://www.youtube.com/watch?v=9sJUDx7iEJw](http://www.youtube.com/watch?v=9sJUDx7iEJw)"
+-
+    name: jblackhall
+    mail: ''
+    subject: 'what about'
+    hostname: 24.12.175.13
+    created: '1213634519'
+    body: 'I would''ve liked to have seen Matt Mullenweg on this list.  He''s a very strong advocate for free software.  Maybe next time...'
+-
+    name: hunger
+    mail: ''
+    subject: Google
+    hostname: 76.227.13.66
+    created: '1213669165'
+    body: 'I admire and respect Google for much of what they have done and are associated with, including the examples cited in this article. But, this is a company that has actively supported DRM and continues to assist in censorship of the Internet. They do cool things too, sure, but "hero"es? '
+-
+    name: hunger
+    mail: ''
+    subject: and...
+    hostname: 76.227.13.66
+    created: '1213754149'
+    body: '... it''s also worth noting that much of Google''s software (Google Earth, Picasa, Google Talk) is proprietary software (not free software)!'
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'what you mean like this?'
+    hostname: 82.108.129.98
+    created: '1213791420'
+    body: "from TFA (emphasis mine)..\r\n\r\n>**Although Google is not a free software company, and a lot of their software is indeed proprietary**, they still released vast amount of free software and (more importantly) contributed to the creation of free standards that are free software friendly (think of OpenSocial vs. Facebook, or Android vs iPhone/Windows Mobile)."
+-
+    name: hunger
+    mail: ''
+    subject: oops!
+    hostname: 76.227.13.66
+    created: '1213843035'
+    body: 'Ha! I knew there was a reason I didn''t mention that the first time around. Thanks for keeping me in check! '
+-
+    name: maravind
+    mail: ''
+    subject: 'Google??'
+    hostname: 117.196.131.180
+    created: '1213885233'
+    body: "Google is there in the list??\r\n\r\nI'm sure they do tremendous modification for their cluster systems: GFS sorta stuff.  But hardly do one see such things being released.  Also, Picassa, Google earth, and bunch of other google goodies (Google toolbar and desktop widgets <strong>JUST</strong> came to GNU/Linux, but then..)..  Google can't exactly be counted as a FLOSS hero.\r\n\r\nJWZ was also a great FLOSS contributer.. there was Netscape (I know.. not exactly free), XEmacs, and the awesome XScreeSaver!!\r\n\r\nThen there's Jon Johansen (the DeCSS guy).  If BitTorrent is there, then he too should be mentioned.. He brought in the <em>real</em> concept of Freedom to Gnu/Linux world, IMO.\r\n\r\nAnyway, great list.. keep it up!!\r\n\r\n\r\nGNU/Linux is _not_ a free operating system...\r\n...its a _priceless_ operating system!"
+-
+    name: jnareb
+    mail: ''
+    subject: 'Wikipedia is not software, and is GDL / CC-BY-SA licensed'
+    hostname: 83.8.216.38
+    created: '1247515519'
+    body: "<cite><em>Wikipedia’s software is available under a free license (GPL). Yes, that’s the same license created by Richard Stallman (see above). While Wikipedia itself is not free software, [...]</em></cite>\r\n\r\nWikipedia is not a software, period. Saying that it is not a free software can imply that it is proprietary software.\r\n\r\nWikipedia's software (engine) is called MediaWiki, and is GPL licensed, while Wikipedia's content was originally GDL (GNU Documentation License) licensed, but nowadays it is moving to CC-BY-SA 3.0, one of Creative Commons licenses.  Current phrasing might lead to confusion."
+-
+    name: npv
+    mail: ''
+    subject: npv
+    hostname: 122.167.43.55
+    created: '1258436820'
+    body: "Any other software heroes,other than this ?\r\n"

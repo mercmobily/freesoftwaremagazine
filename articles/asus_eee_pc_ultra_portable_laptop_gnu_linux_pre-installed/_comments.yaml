@@ -1,0 +1,21 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Sugar
+    hostname: 68.93.224.4
+    created: '1201859571'
+    body: "Given that these machines have very similar specs to the OLPC laptops, I wonder if one could install Sugar on them and achieve a near-match to the OLPC XO platform (for those who can't get one)?\r\n"
+-
+    name: blaine
+    mail: ''
+    subject: 'Support for other Linux distros'
+    hostname: 74.41.25.203
+    created: '1202583796'
+    body: "Hi Gary.  When do expect to publish part 3 of this series?\r\n\r\nI realize that you'll probably cover this in part 3, but I am really being inhibited by my current laptop so I need to get a new one ASAP.  I see very little about OS support (default or \"other\") on the Asus site.  Could you opine on whether you think OpenSuse would install successfully, esp. for wireless and audio hardware support?  Based on past experience, I fear that the drivers will be only work with the supplied OS.  I've had nothing but trouble with wireless on Linux; and even in 2008, sometimes audio just will not work right.\r\n\r\nDo you know what forms of wireless security are supported, 128 bit WEP, WPA?\r\n\r\nI don't expect detailed answers, since you probably intend to cover this stuff in part 3...  I just want your advice on whether it's worth attempting.  I don't mind digging in and figuring this stuff out, but I don't want to put up $400 if I won't ever be able to get OpenSuse working on it with audio and wireless.  I am handy, but I don't have time to write write my device drivers from scratch."
+-
+    name: 'Gary Richmond'
+    mail: ''
+    subject: 'Asus EeePc Questions'
+    hostname: 90.240.172.168
+    created: '1205618938'
+    body: "Hi Blaine,\r\n\r\nFirstly, sorry about taking so long to get back to you but I have been very busy with other stuff and I tend not to look at my articles again once they are done and dusted! (something about a dog and its vomit).\r\n\r\nYes, I will be covering this all in Parts two and three. In the meantime, as the EeePC comes preinstalled with a customised version of Xandros I can tell you that the wireless card worked \"out of the box\" (and that wasn't the only thing as you will discover in a postscript in Part Two). Getting the wireless card working with other customised versions is important to the hacking future of this little machine. Suffice it to say, a lot of great work has been and is being done out there and most of these customised versions for the EeePc seem to have made that a high priority as well as ensuring that other hardware works too. As they say, stay tuned for all sorts of good news!\r\n\r\nThere will be lots of useful links to help you with both the default (Part Two) and alternatives to Xandros (Part Three). Off the top of my head I think I came across something about installing OpenSuse on the EeePC and I will try and include something about it in the third piece.\r\n\r\nRegards\r\n\r\nGary\r\n\r\n"

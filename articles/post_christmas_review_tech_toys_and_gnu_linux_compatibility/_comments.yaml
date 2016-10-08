@@ -1,0 +1,21 @@
+-
+    name: iss
+    mail: ''
+    subject: 'Rockbox on Sansa'
+    hostname: 83.11.120.27
+    created: '1296638832'
+    body: 'You can put Rockbox - http://www.rockbox.org/ - on your Sansa Clip+ and have almost fully free software DAP. Almost - because original firmware is needed for initial bootloader installation, but then you don''t have to use OF anymore.'
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'nice piece'
+    hostname: 62.140.212.3
+    created: '1296653982'
+    body: "It's good to praise up the successes of using gadgets with free software if only to show how simple is it when the devices are made properly (that is supporting the widest range of computer systems). The only ones that seem to cause me any issues are those which use custom (i.e. proprietary) protocols in an attempt to \"simplify\" the user experience. Usually this means trying to lock me into a web-based photo gallery or proprietary format. \r\n\r\nOn the subject of cameras we have three* in our household including two cheap ones (e.g. of unknown brands) for my children. Removable media is always the way to go with these as you can then also take advantage of not running the batteries down when transferring images by using a card reader. In addition to copying files over in Konqueror/Dolphin using Digikam to import the images is a great experience - particularly if you have users who don't always delete the images from the card afterwards and forget which ones they've already done next time ;).\r\n\r\nI've recently been looking at Android tablets and the ones that instantly catch my eye support mass-driver under USB (which is most of them to be honest) or removable media for the reasons mentioned above.\r\n\r\nNice piece Terry\r\n\r\n* four if you include the Flip video camera\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Removable media'
+    hostname: 68.116.159.234
+    created: '1296798848'
+    body: "Yeah, I really look for devices with standard removable flash modules, because those will almost always be compatible, even if the device itself won't behave properly.\r\n\r\nI had a hard time finding cameras that were durable but used removable media. Most of the cameras with removable cards were \"adult\" cameras with lots of other features and, in particular, a very fragile optical zoom system. We made the mistake of buying one of those before -- it lasted a week before the lens jammed in a collision during some \"experimental photography.\" Ouch!\r\n\r\nThis one is still a little too complicated (lots of menu options and buttons), but it still has relatively few moving parts, and the buttons are very durable."

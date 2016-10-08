@@ -1,0 +1,84 @@
+-
+    name: peter.weyant
+    mail: ''
+    subject: 'Dell fumbles, no buyer here without further review...'
+    hostname: 69.38.122.130
+    created: '1251122382'
+    body: "I was just reviewing going with a Dell standard for my company because of 3 laptops that I thought should function out of the box with a Ubuntu 9.04 load - the Inspiron 10, 13, and 15. I have burned on the two notebooks and was going to move on to the netbook 10 shortly. Will keep you posted, but this does not look good. The reason I went this path was support on the 15n for 8.04 Ubuntu as supplied by Dell. Cannot understand why this is such a science project for one of the major big 4 laptop/desktop folks to move on and correct. And yes, I understand the Borg being Microsoft.  And yes I know netbooks and laptops and consider them the same.\r\n\r\nPeter Weyant\r\nwww.applicationvoice.com"
+-
+    name: 'Marco Marongiu'
+    mail: ''
+    subject: 'Is also Ubuntu to blame?'
+    hostname: 82.85.20.21
+    created: '1251131274'
+    body: "Hi Tony\r\n\r\nThis is scary, to say the least.\r\n\r\nI was researching myself about netbooks that \"just worked\" with Ubuntu. I found the <a href=\"http://www.ubuntu.com/getubuntu/download-netbook\">Ubuntu Netbook Remix distribution</a> in the Ubuntu site, and read \"<i>UNR has been tested on the <a href=\"https://wiki.ubuntu.com/HardwareSupport/Machines/Netbooks\">following popular models</a></i>\". \"WOW!!!\" I thought, \"here we go!\".\r\n\r\nFollowed the link and, guess what?, my best choice was the  <a href=\"https://wiki.ubuntu.com/HardwareSupport/Machines/Netbooks#Dell Mini 10v\">Dell Mini 10v</a>.\r\n\r\nIt's sad to see that, unless you overlooked this information (and I am pretty sure you didn't), we also have Ubuntu to blame, and not only Dell. So sad... And so sad I have to start my research once again.\r\n\r\nCiao\r\n<tt>--bronto</tt>"
+-
+    name: 'Richard Bernier'
+    mail: ''
+    subject: 'Dell Support'
+    hostname: 143.166.226.63
+    created: '1251145644'
+    body: "Mr. Mobily,\r\n\r\nHello, my name is Richard; I am part of Dell's Social Media Group.  We would like to make arrangements to have your Mini 10 brought here to Round Rock, TX and thoroughly check it.  Please contact me when you have the time.  I can easily be contacted via twitter, https://twitter.com/Rich_at_Dell.\r\n\r\nRegards,\r\n\r\nRichard Bernier"
+-
+    name: imbdan01
+    mail: ''
+    subject: 'other vendor with linux installed'
+    hostname: 96.21.192.243
+    created: '1251152362'
+    body: "You may try www.zareason.com or www.system76.com.\r\nUbuntu pre-install AND supported !\r\n\r\nNot affiliated in any way, just very satisfied ! :-)"
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'Chipsets and compatible hw'
+    hostname: 71.254.55.13
+    created: '1251157611'
+    body: "There are a few companies that specifically choose to sell (and presumably properly test) GNU/Linux compatible hardware, such as ZaReason and System76.  It is also possible they (Dell) originally tested on an older model and simply never tested on later production batches which used perhaps slightly different components.  \r\n\r\nVery often I see a manufacturer use the same model # for things that sometimes are very different.  For example, HP I think for awhile had a dv series that often alternated between AMD/Radeon video and Intel/Intel video.  Knowing that at one time something called a \"Dell Mini 10v\" worked does not necessarily guarantee one made and sold now has the exact same version of the exact same chips, and especially when dealing with closed source drivers offered by vendors who have no interest in assuring their hardware works for GNU/Linux, this seems like a formula for trouble if a vendor is irresponsible and does not bother to test what they current make.\r\n\r\nI do not have DELL equipment or any specific knowledge of what they do in this respect, but I simply note this type of issue I have encountered in the past with other vendors.\r\n\r\n"
+-
+    name: GregE
+    mail: ''
+    subject: 'Dell Mini 10'
+    hostname: 114.78.167.19
+    created: '1251157627'
+    body: "@bronto\r\n\r\nThere are two Dell Mini 10 netbooks. The 10v works well with Ubuntu as it does not have the GMA500 video chipset and uses a normal Intel video chip. The products with the GMA500 or Poulsbo video chip are hampered by a very dodgy video driver. The problem is that Intel outsourced the chip to get a very low power usage system. I do not think the drivers are great for Windows either.\r\n\r\nI have a Mini 12 running Ubuntu 9.04 and using the PPA Poulsbo drivers. It is indeed stuck at 2.6.28-14, but everything I need seems to work. xorg.conf must be tweaked to stop random freezes. It needs Option \"DRI\" \"off\" in the Device section. It took half  a day to resolve all the issues. I do want to be able to move up to 2.6.28-15 as it has an important security fix.\r\n\r\nI have no need for the webcam or Skype so i have not even bothered to make them work, but all normal functions operate OK. WiFi and 3G (USB dongle) work flawlessly and the screen is sharp and video plays well enough. Music playback through headphones also works. Compiz 3D effects work, but you have to override the blacklist and start Compiz from Autostarted programs rather than the normal Ubuntu appearances menu.\r\n\r\nThis machine was purchased with XP installed as we have no other option here in Australia. It is meant for my daughter to use for schoolwork, but she turned her nose up at XP and wanted Ubuntu. It is now dual boot, but XP has not been used since Ubuntu was installed. There is a project to hack the Pouslbo driver for Debian that is reported to work with 2.6.30 kernels. The current driver cannot move any further forward due to xorg versions.\r\n\r\nDell's error was to think Intel could supply them with a working driver for this chipset. If they had have opted for a more conventional netbook chipset, as they have in the 10v, all of these issues could have been avoided.\r\n\r\nThe new 11z models should \"just work\" with Ubuntu as they use a proper Intel GMA4500 video chip, but I await evidence from real users before I would consider upgrading.\r\n\r\nFor the time being my Dell Mini 12 is functional with 9.04, but could be way better.\r\n\r\ncheers\r\n\r\n\r\n\r\n\r\n\r\n"
+-
+    name: gweeper64
+    mail: ''
+    subject: 'ok, Dell didn''t cut it'
+    hostname: 15.219.153.79
+    created: '1251234985'
+    body: "Now, how about giving the HP Mini Mi a try? (Linux underneath the TouchSmart-like GUI)\r\n\r\n"
+-
+    name: Hatch
+    mail: ''
+    subject: 'Check before you buy'
+    hostname: 78.54.3.104
+    created: '1251248683'
+    body: "Hi Tony,\r\n\r\nnice letter. Just one thing I want to add in case people wonder what hardware to buy.\r\n\r\nCheck http://www.linux-laptop.net/    &/or     http://tuxmobil.org/     before you order.\r\n\r\nall the best\r\n\r\nHatch"
+-
+    name: kirkland
+    mail: ''
+    subject: 'my experiences have been much better...'
+    hostname: 66.69.254.183
+    created: '1251302713'
+    body: "Just read this article, and I must say that I'm surprised.  My experiences have been much better.\r\n\r\nI have a Mini9 with a stock Ubuntu 8.04 desktop from Dell, which is actually acting as a backup server for me at my parents house.  It has 73d3h of uptime, and has never locked up.\r\n\r\nMy wife uses a Mini10v as her daily machine.  She ran the stock Ubuntu 8.04 for about 2 weeks.  It worked fine, but Ubuntu 9.04 Netbook Remix released about that time, and I upgraded her to that.  It has been extremely reliable for her.  All of the peripherals (except for the microphone) are working like a champ.  It has never locked up.\r\n\r\nI have blogged my experiences in detail about the Dell Mini's here:\r\n<a href=http://blog.dustinkirkland.com/2009/03/wah-your-dell-inspiron-mini9-is-ubuntu.html>http://blog.dustinkirkland.com/2009/03/wah-your-dell-inspiron-mini9-is-ubuntu.html</a>\r\n<a href=http://blog.dustinkirkland.com/2009/07/dell-mini9-server-and-dell-mini10v.html>http://blog.dustinkirkland.com/2009/07/dell-mini9-server-and-dell-mini10v.html</a>\r\n\r\nCheers,\r\n:-Dustin"
+-
+    name: sgbeamer
+    mail: ''
+    subject: 'EeePC Works Great with Ubuntu Netbook Remix'
+    hostname: 208.84.198.34
+    created: '1251970151'
+    body: 'Unfortunate about Dell''s ineptitude.  I bought and EeePC about a year ago and wiped the very slow linux that came with it and replaced with Ubuntu.  I''m running 9.04 now with zero problems.  The EeePC is a great little machine.  It''s like taking a hard back book with you. Good hunting.'
+-
+    name: 'not a happy customer'
+    mail: ''
+    subject: 'I had the same problem'
+    hostname: 138.38.137.66
+    created: '1252500351'
+    body: "Dear Tony,\r\n\r\nI have to tell you that I don't think it is an Ubuntu problem. I ordered my dell mini 10 on the 20th July with Windows XP and had exactly the same problem. It froze on start up and when I asked dell technical support for help they told me to reinstall windows XP about 4 times and I still had the same problem. \r\n\r\nEventually they sent a technician to replace my hard drive and it still froze on start up. It then went to the dell testing centre where they kept it for about a month. At this point I lost my patience and asked for my money back. I am currently waiting for a refund.\r\n\r\nI was very disappointed to receive a faulty mini 10 after having been such a loyal dell customer in the past. Needless to say I shall not be buying another dell computer ever again."
+-
+    name: john.morgan7
+    mail: ''
+    subject: 'Dell Mini 10'
+    hostname: 24.18.73.15
+    created: '1253812220'
+    body: "For the people who bought Dell Mini 10's and had problems, from whom did you buy the PCs?  I own a Dell Mini 10 running XP and have had no issues.  I got it at Best Buy.  \r\n\r\nJust wondering if you may have pirated hardware?  \r\n\r\nJohn P Morgan\r\nBellingham WA"

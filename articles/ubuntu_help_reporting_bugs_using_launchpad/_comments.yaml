@@ -1,0 +1,56 @@
+-
+    name: pravi
+    mail: ''
+    subject: 'Launchpad is not Free Software'
+    hostname: 72.254.4.104
+    created: '1201854585'
+    body: 'I thought Free Software Magazine was about Free Software. You are encouraging people to use non-free software.'
+-
+    name: azrael
+    mail: ''
+    subject: 'So what?'
+    hostname: 213.134.181.224
+    created: '1201868289'
+    body: "Oh come one, Sourceforge and Freshmeat are not free software too, and I don't see anyone complaining about it.\r\nBesides, Launchpad may be free software, even under BSD license, but Canonical is just not distributing it, so they don't distribute the source code.\r\nIn fact, parts of Launchpad are free software - ie. Storm (an object-relational mapper for Python)."
+-
+    name: pravi
+    mail: ''
+    subject: 'Windows Vista and Apple Mac are not free software too'
+    hostname: 72.254.7.230
+    created: '1201932398'
+    body: 'Does that justify advertising non-free software on Free Software Magazine?'
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'This article is about reporting bugs...'
+    hostname: 124.169.167.231
+    created: '1201997580'
+    body: "Hi,\r\n\r\nThis article is about reporting bugs in Ubuntu.\r\n\r\nI don't know, but to me not explaining how to report bugs in Ubuntu because portions of the bug reporting software is not free wouldn't be such a good idea.\r\n\r\nFollowing this rationale, we should never mention \"Search this in Google\", because Google is not free software.\r\n\r\nBye,\r\n\r\nMerc."
+-
+    name: pravi
+    mail: ''
+    subject: 'It is just a shame it''s not a danger to us'
+    hostname: 72.254.51.187
+    created: '1202001115'
+    body: "You can't get a copy of the program that Google runs or Amazon runs either. The difference is Google is not claiming to be a Free Software company. Neither of them is into Free Software Business either. The issue is when some one in the community does not believe in the values that makes this community and has to look for comparison with proprietary companies. Does Red Hat, Debain, Gentoo or any other Free Software project run a proprietary bug tracker?\r\n\r\n\"If a proprietary program is on Amazon's computer, that's Amazon's conscience. Now I would like them to have freedom too. I hope they will want freedom, and they will work with me so that we all get freedom, but it's not directly an attack on you and me if Amazon has a proprietary program on their computer. It's not crucially important to you and me whether Amazon uses a free operating system like GNU plus Linux, or a free web server like Apache. I mean I hope they will, I hope free software will be popular, but if they give up their freedom, that's just a shame it's not a danger to us who want freedom.\"\r\n\r\nIn this case of Canonical, it is even more shameful when their business model depends on Sharing and Free Software. I don't know if Ubuntu community has access to the source code. Debian project servers are maintained by Debian developers, Fedora project servers are maintained by Fedora developers, same for Gentoo and umpteen other distros. Their developers have access to these software and their improvements are shared with the rest of the community because if some one from GNOME project fixes a bug in bugzilla, Fedora project gets the benefit. You can't consider these as just services like Google Search or Amazon because these are the backbone of a GNU/Linux distribution and this is run by a company running Free Software business and these software is similar to own own systems for every Ubuntu developer/contributor. For an Ubuntu user Launchpad may be a service but for every developer/contributor it is just like the web browser software we use on our computer. And I thought every Free Software user is also a Free Software developer.\r\n\r\nMy point is, should we support those who does not give back to the community or should we support those who always showed commitment to Free Software?\r\n\r\nThere is a great discussion going on in FSDaily where the issue is looked from multiple angles and there are many points raised which I don't want to repeat here.\r\n\r\nhttp://www.fsdaily.com/EndUser/Ubuntu_Help_Reporting_bugs_using_Launchpad\r\n\r\nAnd \"search this in google example\" you gave is a shallow argument. In the same way an article about using Google Search or Tips and Tricks of using Amazon.com does not fit to be published in Free Software Magazine an article about Launchpad should not be in Free Software Magazine.\r\n"
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'Are you suggesting...'
+    hostname: 124.169.167.231
+    created: '1202016420'
+    body: "Hi,\r\n\r\nAre you suggesting that we don't tell our readers how to report bugs in Ubuntu (therefore improving a really important free software project) because the bug tracking system is based on non-free software?\r\n\r\nThey are two different issues.\r\n\r\nI will never have a problem explaining people how to report a bug in Ubuntu, even if the bug tracking system is not free.\r\n\r\nI agree that it would be nice if Launchpad were released under a free license. I talked to Mark about it, and he explained why it isn't - his answer made a lot of sense. What he thinks is summarised in the posts in this bug: https://bugs.launchpad.net/launchpad/+bug/50699\r\n\r\nBye,\r\n\r\nMerc."
+-
+    name: pravi
+    mail: ''
+    subject: 'Commitment to the values makes a project important'
+    hostname: 72.254.27.217
+    created: '1202054703'
+    body: "... to the community, not popularity.\r\n\r\nBill Gates could explain why Windows is not Free Software and it would make sense to many, but that is besides the point. If a software is not Free it is non-free. Period.\r\n\r\nThe issue here is about shame and not a danger as someone pointed out in the FSDaily thread. How can we encourage people to use Free Software when we are not using it? How can we tell people to create Free Software when we don't make our software Free?\r\n\r\nCommunity should be supporting those who give back to us and who respects our values rather than take everything we have (we have no problem in that and we are only happy about that) but refuse to give anything they create. When someone believes Free Software is not right for code he writes, how can we ever trust him to be supporting Free Software?\r\n\r\nSo we could talk about reporting bugs to Debian, Fedora, gNewSense or any other distribution which uses a Free Software bug tracker or you can talk about using bugzilla or trac which most upstream project use.\r\n\r\nWhy do we use Blender to edit videos or Gimp for graphics, because they are Free Software. We had to use non-free software when we did not have a choice and we were writing a replacement (early days of GNU project), but that does not justify using non-free software when we have good Free Software replacement for bug trackers.\r\n\r\nRemember bit-keeper?"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Nobody is encouraging other developers to use Launchpad'
+    hostname: 82.108.129.98
+    created: '1202231580'
+    body: "You seem to be making the mistake--both here and over at FSDaily--that this article is somehow praising, supporting or encouraging the deployment of Launchpad. By my reading, it's not.\r\n\r\n> How can we encourage people to use Free Software when we are not using it? How can we tell people to create Free Software when we don't make our software Free?\r\n\r\nSo you don't like the fact that Ubuntu uses a non-free product--okay neither do I nor I suspect do many here. Your complaints about the apparent dichotomy of Ubuntu using Launchpad would be better aimed at Canoncial--wouldn't they?\r\n\r\n> So we could talk about reporting bugs to Debian, Fedora, gNewSense or any other distribution which uses a Free Software bug tracker or you can talk about using bugzilla or trac which most upstream project use.\r\n\r\nIf we want new GNU/Linux users--which it's safe to say will probably be Ubuntu users--to join in, we need to encourage them to do so. Filing (useful) bug reports is part of that. \r\n\r\nYour argument that this piece has no place in FSM (or FSD) might have had a point had this been a review but Andrew is neither reviewing Launchpad nor encouraging other development communities to use it. He is explaining how to file a helpful, useful bug report via the _only_ reporting mechanism available to Ubuntu users.\r\nThis is about the process and helping the developers, not the software that Ubuntu choose to use."

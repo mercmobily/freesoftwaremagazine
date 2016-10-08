@@ -1,0 +1,21 @@
+-
+    name: 'Anonymous visitor'
+    mail: bob@dodgeit.com
+    subject: 'Thanks Mr Wheeler'
+    hostname: 220.233.53.52
+    created: '1176525629'
+    body: "Thank you for making your work available to the world. Your paper has enlightened the world back in 2005. We thank you again for updating the numbers to make the paper relevant for today. \r\n\r\nSigned,\r\nA Free Software advocate"
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: Wow!
+    hostname: 59.101.81.71
+    created: '1176596758'
+    body: "This article demonstrates that Microsoft's market share claims have a bigger credibility gap than a White House press release on Iraq.\r\n\r\nM$: unethical, immoral, anti-social, and power-mad."
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: Sloccount
+    hostname: 212.187.96.118
+    created: '1176718467'
+    body: "Seeing your name on an article gives me an opportunity to say that I am a great fan of your elegantly simple sloccount tool.\r\n\r\nhttp://www.dwheeler.com/sloccount/\r\n"

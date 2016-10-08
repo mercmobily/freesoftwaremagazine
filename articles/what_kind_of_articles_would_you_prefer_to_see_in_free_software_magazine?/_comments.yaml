@@ -1,0 +1,112 @@
+-
+    name: admin
+    mail: ''
+    subject: 'What kind of articles would you prefer?'
+    hostname: 210.84.28.146
+    created: '1168835108'
+    body: 'It would help us in deciding what articles to assign if you can let us know what you want to read. Pick your most preferred article type and, if you''re finding it really hard to decide, write a comment listing your preferences in order.'
+-
+    name: ''
+    mail: ''
+    subject: 'Opinion pieces on free software and politics'
+    hostname: 220.233.53.52
+    created: '1168835825'
+    body: 'I like reading what people want to say about particular pieces free software.'
+-
+    name: LConley
+    mail: ''
+    subject: 'What kind of articles would you prefer?'
+    hostname: 172.194.181.190
+    created: '1168839932'
+    body: 'I find useful information in all the articles Free Software Magazine publishes.'
+-
+    name: 'Jonathan Roberts'
+    mail: ''
+    subject: 'A combination!?'
+    hostname: 88.109.160.81
+    created: '1168852413'
+    body: "I like reading the technical articles and the how-tos but I'd also like to see more opinion pieces and discussions of the politics/ideas behind Free Software. Put \"other\" becuase I didn't want to pick just one...a balance!\r\n\r\nJon"
+-
+    name: Pollywog
+    mail: ''
+    subject: 'technical more than political'
+    hostname: 69.12.173.117
+    created: '1168929301'
+    body: "I have subscribed to two Linux magazines and though I occasionally read the more political articles, I like to read articles that help me make the most of Linux, both sysadmin articles and desktop related articles.\r\n\r\nI think the technical articles are also better for attracting new users to desktop Linux.\r\n\r\nIt would be bad if the articles got too political.  Most people don't care about the politics, they just want to be able to use the software."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'political AND technical'
+    hostname: 82.108.129.98
+    created: '1168952770'
+    body: "<cite>It would be bad if the articles got too political. Most people don't care about the politics...</cite>\r\n\r\nhmm - that's a little subjective isn't it? How do you know most people don't care about the political[1] side? I know plenty of people who are involved in/use free software precisely because of the political side. The free software users I encounter are much less consumers of their software than their proprietary counterparts. Granted not everyone is like this but then neither is it true to say the opposite.\r\n\r\nI voted for comparative pieces because I think the current blogs already provide a wealth of opinion but I think opinion pieces have a big part to play. I think an effect of magazines such as this is to broaden our experience within the subject matter. Opinion pieces do that as well - if not better in some cases - than technical articles. Without opinions (even or especially those we disagree with) we end up just knowing how to use the software without knowing why it does things the way it does. An example would be the choice of document format and adherence to open standards in free software applications.\r\n\r\n<cite>Where there is much desire to learn, there of necessity will be much arguing, much writing, many opinions; for opinions in good men is but knowledge in the making. - John Milton</cite>\r\n\r\ncheers\r\nRyan\r\n\r\n[1] By political I refer to the fact that they are concerned with the socialogical impact of software licencing and related business affairs."
+-
+    name: kivlock
+    mail: ''
+    subject: 'a mix'
+    hostname: 200.20.1.181
+    created: '1168963680'
+    body: 'I agree with Jonathan Roberts, because all are important.'
+-
+    name: beebelo
+    mail: ''
+    subject: 're: a combination'
+    hostname: 158.52.254.238
+    created: '1168969497'
+    body: "I agree with the idea of balance, but I voted for politics/ideas because I want to be sure it's not  excluded!  The most important thing to include in every issue is the idea of <strong>freedom</strong>, and what the movement is up against.  New users/new readers should be reminded of that in every issue.\r\n\r\nLeast favored: HOWTOs/Tutorials.  A waste of bytes, because that kind of content is necessarily brief in a magazine format--too brief to be of value, in my opinion.  \r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: ' What kind of articles would you prefer to see in Free Software'
+    hostname: 71.202.190.203
+    created: '1168989514'
+    body: 'HowtoTutorials on popular free software like GIMP, Blender, Latex, etc.'
+-
+    name: crownabhisek007
+    mail: ''
+    subject: Everything
+    hostname: 59.93.129.45
+    created: '1169015354'
+    body: "I'll prefer all the articles of the world. And you see your site develop rapidly.\r\n\r\n//Powered by Abhisek Pattnaik http://www.mylot.com/?ref=crownabhisek007"
+-
+    name: 'Jerson Michael Perpetua'
+    mail: ''
+    subject: 'The Difference'
+    hostname: 202.133.209.69
+    created: '1169018904'
+    body: "The difference, I think, with Free Software Magazine from other so-called \"[GNU/]Linux Magazines\" is that it is actually not about Open Source Software, Proprietary Software, or even Software as general as it is.  It would be sad to hear of a certain \"Free Software Magazine\" that is so inclined to technicalities that it forgets about its actual <a href=\"http://www.gnu.org/philosophy/free-sw.html\">roots</a>.  The Open Source Movement started as a <a href=\"http://www.gnu.org/philosophy/free-software-for-freedom.html\">fork</a> of the Free Software Movement which aims to teach Free Software to the people because Free Software was so radical.  Now, the Open Source Movement and Free Software Movement disown each other... ;P  I really wouldn't like to hear history repeat itself again.  What we need is to educate people more about Software Freedom, what it is, why it is, etc.\r\n\r\nI have nothing against technical blogs/articles; I just hate to see Free Software Magazine become your usual \"[GNU/]Linux Magazine\".  And yes, that's more political pieces for me!\r\n\r\nLove and Peace (and Freedom too ;)"
+-
+    name: guydjohnston
+    mail: ''
+    subject: Freedom
+    hostname: 80.6.124.25
+    created: '1169074542'
+    body: "I think we have enough 'Linux' magazines. I think there should be a good number of articles about software freedom, as well as general ones (which is what we have at the moment). I 'd hate a magazine called 'Free Software Magazine' to reject the notion of freedom as so many others have. Without it, there'd be no GNU/Linux or 'open source'. My favourite of the other articles are those about desktop applications. I've found out about some useful programmes from those.\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I picked "other"...'
+    hostname: 68.93.224.4
+    created: '1169083046'
+    body: "So I'm obligated to say why. ;-)\r\n\r\nFirst of all, I don't like the idea of restricting \"HOW-TO\" content to \"Desktop oriented stuff\". I don't want to see the desktop underrepresented (sadly it is underrepresented in some magazines, but I think we have a good body of such work here), but there's lots more to learn about: everything from web servers to robotics to development (HOWTOs in general, though, are pretty high on my list -- so that very nearly got my vote).\r\n\r\nI'd like to see more about <em>developing</em> free software, not just using it. To me, developing is the key to getting the most out of free software. Just as capitalism is best enjoyed if you are yourself a capitalist, free licensed open source code is best enjoyed if you actually use that source code.\r\n\r\nFinally, while opinion is certainly nice to read, I like \"analysis\" and \"prediction\" better than simply backing one movement or other. I like philosophy more than politics, and software raises plenty of philosophical questions, as does free licensing. \"Analysis\" is necessarily \"opinion\", of course, but not necessarily rhetoric. So, while that was a strong contender, I was quite comfortable putting my vote on \"opinion pieces on free software and politics\".\r\n\r\nFinally, as someone who wants to be able to dedicate more time to developing free software and free content, the discussion of economics and business models is very personally interesting to me. I like to read innovative approaches to making money creating works, without having to rely on the restrictive practices of \"intellectual property\" culture.\r\n\r\nOverall, though, I'm pretty happy with the existing mix.\r\n"
+-
+    name: marienoelleb
+    mail: ''
+    subject: 'How can this magazine make a difference?'
+    hostname: 145.232.254.21
+    created: '1169123509'
+    body: "It seems to me that there is already a lot of publications around topics lile \"Desktop\", \"HOWTO-like\" or system administration. If these documents alaready have places, does it make sense to create another one?\r\n\r\nBut this magazine can make a real difference, if it is able to attract high quality articles which can convince people, comagnies, administrations to adopt open source software or at least to increase the proportion of open source solutions in their portfolio. This is where articles more centered around reviews and about politics may be important. \r\n\r\nMarie-Noëlle Baechler\r\nBelmont-sur-lausanne / Suisse\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Good point about economics and business models'
+    hostname: 80.6.124.25
+    created: '1169145362'
+    body: 'I think that''s a good point that there should be articles about economics and business models. There are new business models becoming popular for free software and free content (which are also used for partially-free content, e.g. ''no derivatives'' licences), such as the threshold pledge system . This recently worked very successfully to raise funds on the Pledgebank.com for the Nouveau project, to write free software ATI graphics drivers. Advertising also seems to work quite well now. Jamendo seems to be doing pretty well using web adverts with free and partially-free licensed music, and has now started giving a share of the revenue to the artists. I think we need articles about this kind of stuff to show that free software can work well commercially.'
+-
+    name: ''
+    mail: ''
+    subject: 'A mixture'
+    hostname: 81.247.97.104
+    created: '1170191861'
+    body: "-I really like it when completely new software is introduced, such as the Flightgear article. Something not so common like GIS software would fit in that pattern, and there have been some really high quality articles so far in this aspect.\r\n-I like the current how-to's, they always help building up knowledge about open source software, and they often are desktop oriented, so it is excellent to show to non-linux users who think it is still all about the command line. Usability does count (a lot)\r\n-Concerning politics: Why not have an organisation promoting open source having itself introduced in each issue, give them three pages (limit it, to have them focus) to explain what they do, why their work is important and how normal users can help with their activism. This can range from online petitions to fundraising to buy a closed source program (such as the ryzom MMORPG campaign).\r\n-Articles about the economics and the business side of open source ar welcome too, but I don't want some CIO claiming we save thousands of dollars annually by using linux while no actual information is given, I'd rather know how they use open source in their environment, what problems occurred etc. Succesfull migrations from MS exchange to ..., from Oracle to PostgreSQL, the setting up of a Business Intelligence layer using Open Source, reporting tools that can co-exist in current MS only environments, that's what I want to read about when talking business. There is often no chance convincing a company to start all over, it's mostly about co-existance. And companies like the free in free software magazine as much as I do."

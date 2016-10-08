@@ -1,0 +1,14 @@
+-
+    name: admin
+    mail: ''
+    subject: 'It must be hard...'
+    hostname: 124.169.151.114
+    created: '1207736843'
+    body: "Hi,\r\n\r\nIt must be hard being Google nowadays. I wouldn't want to be them.\r\n\r\nDogboi, how does the Google Apps engine work? What do they actually offer, and what do they charge for it? How tied are you to Google if you use that service? What's available in terms of \"competition\"?\r\n\r\nIt would be _great_ if you could write a post which explains exactly these points!\r\n\r\nBye,\r\n\r\nMerc."
+-
+    name: dogboi
+    mail: ''
+    subject: 'It Must be Hard...'
+    hostname: 70.110.105.34
+    created: '1207737160'
+    body: "It's only as hard as them make it on themselves, IMO.\r\n\r\nAs to idea for a post just on Google Apps, alternatives, etc, I think I will indeed do that.  The primary alternative of course, is Amazon Web Services.  Not sure entirely how that works, though I know it's a lot more generic, and doesn't bind you to a specific programming language.  Not sure about the backend database though.  I'll do some research, then post.\r\n\r\n--------------\r\nThose that would give up essential Liberty in order to purchase temporary Safety deserve neither Liberty nor Safety - Benjamin Franklin"

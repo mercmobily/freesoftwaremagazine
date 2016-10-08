@@ -1,0 +1,14 @@
+-
+    name: mjjzf
+    mail: ''
+    subject: 'Perpetually puzzled'
+    hostname: 85.218.164.32
+    created: '1239781652'
+    body: "I still fail completely to understand why applications which simply makes it possible to install non-free elements are unacceptable. How is it any different from a GNU/Linux system making it possible to run a binary installer?\r\nThe fact that you CAN have a binary repository means exactly nothing; what matters is whether you have a free system as an offering. \r\nOf course it would be nice if the browser only looked at an all-free repo of extensions - maybe Firefox could include a license filter? - but it has to be the user's responsibility to clean the system.\r\n__\r\nFSF member no. 6426"
+-
+    name: admin
+    mail: ''
+    subject: 'From the author...'
+    hostname: 203.171.199.41
+    created: '1240889200'
+    body: "From the author...\r\n-------------------\r\n\r\nHello,\r\n\r\nyou do not seem to have read the article properly.\r\n\r\nFirstly, I do not talk about the distribution of software in binary form. Distribution of binaries is in accordance with the GPL, as long as the source can be obtained, and the essential freedoms are granted. gNewSense packages come in binary format.\r\n\r\nSecondly, the article explains that neither Debian nor Ubuntu let you choose to have a free operating system - even if you only choose their \"free\" repositories. There are non-free files in both their standard linux kernels, which are kept in their \"free\" repositories. If you want to have a free Debian system, you need to replace their linux package by a kernel you compiled yourself.\r\n\r\nSo the main reason why the mentioned distros are not to be considered free is NOT the hosting of non-free software in special repos, but is the distribution of non-free software in their main repos."

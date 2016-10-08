@@ -1,0 +1,21 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Nice analysis'
+    hostname: 192.193.221.141
+    created: '1161363038'
+    body: 'Thanks!  Need more clear thinking like this attached to voices that can be heard.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"By-SA w/ parallel distribution allowance"'
+    hostname: 68.93.224.4
+    created: '1161461284'
+    body: "I just read a reference to this where it was apparently misunderstood that CCPLv3, \"SA\" with a \"parallel distribution allowance\" is a <em>hypothetical</em> license.\r\n\r\nThat hypothetical license does not exist, because CCPLv3 does not (at least yet) contain a \"parallel distribution allowance\".  Greg's \"DRM Dave\" scenario shows why such an allowance is a bad idea, because it demonstrates how it can be abused to break copyleft.\r\n\r\nSo, this scenario cannot legally happen with the CCPLv3-SA as it is currently written (August 9th, 2006 draft)."
+-
+    name: ''
+    mail: ''
+    subject: 'Another opinion in support'
+    hostname: 83.142.20.210
+    created: '1165417752'
+    body: "I had the boldness to write the following opinion:\r\n\r\nhttp://www.gatchev.info/articles/en/TPM.html\r\n\r\nIn short: \r\n\r\nIt appears to me that DRM / TPM is fundamentally incompatible with most free licenses. And that giving a free license to something designated for TPM platform and/or format means automatically violating the free license.\r\n\r\nIt also appears to me that the idea for a free license for a TPMed content (or program) is a logical perpetuum mobile. The question is not if this or that specific attempt will be able to build one, by why it will fail. The \"exploit\" of Greg London shows this for one specific kind of this perpetuum mobile. Other kinds may have different \"exploits\", and some may prove very hard to refute. However, all of them will be eventually refuted, due to a simple principle: you cannot give freedom over a non-free platform or format, if you are not the entity that controls this platform / format.\r\n\r\nGrigor Gatchev"

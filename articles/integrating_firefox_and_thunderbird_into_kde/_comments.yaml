@@ -1,0 +1,56 @@
+-
+    name: notthistime
+    mail: notthistime@mytrashmail.com
+    subject: 'Kwallet?'
+    hostname: 141.35.185.149
+    created: '1180867761'
+    body: "Nice article! Have you ever managed to integrate kwalletmanager with Firefox?\r\nI know Firefox has its own way of storing passwords, but I prefer kwalletmanager - also because it already has tons of passwords saved..."
+-
+    name: Sak
+    mail: m_sakallah@hotmail.com
+    subject: 'One more thing needed for KPrinter integration...'
+    hostname: 67.76.204.243
+    created: '1180876056'
+    body: "You may also want to add one other option in about:config for KPrinter. If you install a printer through CUPS, it will default to that printer and start printing to it without confirmation if you enable the silent flag! You can get around that by disabling CUPS in Firefox / Thunderbird, but you'll still have the option to print a CUPS printer once KPrinter comes up. Add the following boolean and set it to \"False\":\r\n\r\nprint.postscript.cups.enabled\r\n\r\nWith those 3 flags set, everytime you hit Print it'll automatically launch KPrinter and you'll have your CUPS printers as well as the defaults (PDF, fax, etc.).\r\n\r\nThis only sets it for the current user's profile though. If you want to set it as a default for all future new profiles created for all users, you have to edit the main prefs.js file."
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Eventually...
+    hostname: 68.197.66.72
+    created: '1180900543'
+    body: "I tried, but I couldn't.  The good news is, Mozilla is working on this (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=278343\">Bug 278343</a>).  Who knows when it will be added, but at least they're working on it.\r\n\r\n--\r\nAndrew Min"
+-
+    name: 'Anonymous visitor'
+    mail: blah@blah.com
+    subject: 'I added this to digg'
+    hostname: 165.98.157.37
+    created: '1180904040'
+    body: '<a href="http://digg.com/linux_unix/Integrating_Firefox_and_Thunderbird_into_KDE">Digg it here</a>'
+-
+    name: tbutka
+    mail: ''
+    subject: 'Thank You'
+    hostname: 76.173.243.49
+    created: '1181142115'
+    body: "As a linux newbie, one of my big gripes with Open SUSE 10.2 was that while it did install Firefox as a browser, it didn't install Thunderbird, and neither app played nicely with KDE.  You have solved my problem, and now I am happily using Thunderbird in a shared environment (small vfat partition between XP Pro x64 and SUSE), and using Foxmarks to synch my bookmarks between theFirefox on the two partitions.\r\n\r\nThis is very important to me in order to transition from Windows to SUSE, as I can use my two most frequently used programs (e-mail client & browser) seamlessly and synched, while I explore the mysteries of the linux command line & lampp on the two platforms.  It will also help me show friends that operating systems are less important when key apps work in any number of platforms without having to relearn basics.\r\n\r\nkudos"
+-
+    name: Gromada
+    mail: gromada.online.remove@gmail.com
+    subject: 'ui.allow_platform_file_picker doesn''t exists'
+    hostname: 89.201.130.144
+    created: '1189887925'
+    body: 'ui.allow_platform_file_picker doesn''t exists in my about:config neither config editor.'
+-
+    name: 'Graeme P'
+    mail: graeme@investment-analysis.com
+    subject: 'Opening files with external apps'
+    hostname: 124.43.223.199
+    created: '1189924361'
+    body: "Is there any way of getting a KDE dialogue, or using the KDE list of apps when a file needs to be opened in an external app?\r\n\r\nIncidentally, setting ui.allow_platform_file_picker to false does not use a KDE file picker, it uses a Mozilla one instead of a Gnome one. If you have a KDE look-alike theme installed it looks like the KDE dialogue, but it does not work like one. I want the FUNCTIONALITY of the KDE dialogue."
+-
+    name: DerekS
+    mail: derek@bisi.ca
+    subject: 'still can''t open firefox by clicking on a link in tbird '
+    hostname: 24.68.128.143
+    created: '1195856572'
+    body: "I just (6 days) moved from win2k to a slackware 12 box running kde.  I've been using mozilla since it was netscape 1.x ;-).  \r\n\r\nAnyway, I've followed the steps here and greatly appreciate the smoother integration, but the most important items still don't work.\r\n\r\nSpecifically if I have a link in an email like: \r\nhttp://www.freesoftwaremagazine.com/blogs/integrating_firefox_and_thunderbird_into_kde, when I click on the link in tbird, nothing happens (despite making the changes noted in kcontrol). Not even Konqueror comes up.\r\n\r\nAnd the \"inverse\" is true.  If I right click on a page in firefox and choose \"send link\" -- again, nothing.  Not even Kmail (or whatever it's called).\r\n\r\nI've upgraded to ff and tb 2.0.0.9.\r\n\r\nAny clues where else to look to get this working  better?\r\n\r\nThanks again for the article (nice to have kget)\r\n\r\n@Sak about editing prefs.js -- it's easier an way more repeatable to create a user.js file and just drop it into your profile directory.  I use it extensively in my windows-based clients to make the cache directory store on a local hard drive, and the mail and other parts of the profile store on a network share (where it gets backed up).  I also use a user.js with tbird for some imap mumbo-jumbo."

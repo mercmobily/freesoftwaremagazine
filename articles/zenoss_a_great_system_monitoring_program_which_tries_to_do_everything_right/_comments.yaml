@@ -1,0 +1,28 @@
+-
+    name: Anthony_K
+    mail: tylervancehome@gmail.com
+    subject: 'More monitoring products'
+    hostname: 92.113.16.98
+    created: '1197697200'
+    body: "It is possible that you will find the monitoring product you need here, Tony: http://********** All of them are easily to purchase and have trial version, moreover the comparison table will help you to find out which one to choose.\r\n\r\n[Edit: taken spam address away]"
+-
+    name: 'Mark Hinkle'
+    mail: mrhinkle@zenoss.com
+    subject: 'Thank You '
+    hostname: 70.144.190.187
+    created: '1197842027'
+    body: "Thanks for the positive review Tony. Just to clarify a few points. Zenoss Core is pretty fully featured the enterprise edition is a support offering combined with some instrumentation, though a savvy administrator could  develop the same. The global dashboard is something that enterprises looking to scale into the tens of thousands are likely interested in which allows you to collate multiple instances of Zenoss into a single dashboard. Also we have many users who have a variety of backgrounds some use Zenoss Core to monitor 50 devices others use Zenoss Core to monitor thousands. Once again thanks for your kind words and thank you for using Zenoss. \r\n\r\nRegards,\r\nMark Hinkle\r\nVP of Community\r\nZenoss"
+-
+    name: 'Rusty Wilson'
+    mail: rusty@zenoss.com
+    subject: 'Community ZenPacks'
+    hostname: 74.93.194.86
+    created: '1197907667'
+    body: "Hi Tony,\r\n\r\nJust want to quickly respond to a comment in your post. When discussing community contributions you said:\r\n\r\n---\r\nThe real question is: will the community develop a \"free global dashboard\" module? (It’s only Python code after all…). If a member of the community does, will it step on Zenoss toes? What if somebody clones all the \"commercial pack\" features? I guess time will tell.\r\n---\r\n\r\nI don't know if the community will develop a community version of the global dashboard or not, but as for stepping our toes - no way! We actively encourage our community contributions. We've had some \"mechanical\" issues with the collaborative elements of our site, but fortunately we have an awesome community who provides us with constructive feedback on how we can improve.\r\n\r\nAs for the community ZenPacks cloning our enterprise ZenPacks - that's already happening. You can see from the list here: http://www.zenoss.com/community/projects/zenpacks/ that \"netdata\" has already submitted a ZenPack for VMware ESX monitoring. Of course this will work fine for some (many?) users, but there is a lot of value to many organizations in obtaining an officially supported and tested ZenPack as part of an enterprise subscription.\r\n\r\nThanks again for the review - both the good and constructive points. Feel free to drop by our forums anytime in join in the (very active) discussion.\r\n\r\nSincerely,\r\nRusty Wilson\r\nDirector of IT\r\nZenoss\r\n\r\n "
+-
+    name: chicoman98
+    mail: ''
+    subject: 'You should try Hyperic''s monitoring product'
+    hostname: 66.7.254.75
+    created: '1212610795'
+    body: "Hyperic actually provides a much better solution that Zenoss so I'd recommend trying them out as well. \r\n\r\nThen you could write a side-by-side comparison of the two products and provide the key differences to your readers.\r\n\r\nI see Hyperic as the clear leader in this space though.\r\n\r\nhttp://www.hyperic.com\r\n\r\nDavid "

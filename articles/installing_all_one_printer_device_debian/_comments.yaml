@@ -1,0 +1,112 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Penguin on the box'
+    hostname: 68.93.224.4
+    created: '1209962077'
+    body: "This really is a very frustrating problem. I'm not sure what the real reason for it is. It's certainly true, though: many products which have Linux support simply don't mention it anywhere in their packaging (sometimes going as far as saying it is _NOT_ supported).\r\n\r\nI think possibly it is simply that GNU/Linux has a reputation as being \"for experts\". After all, a company generally expects to pay more for someone who knows Linux (or Unix)  than for a Windows user. So, they imagine that we don't need instructions, we'll \"just know\".\r\n\r\nOf course, it's self-reinforcing, because the fact that they refuse to provide identification and/or support means you have to be more of an expert to use it.\r\n\r\nAnother possibility is that they're afraid they'll have to pay more for support staff who know how to install their product on a Linux system.\r\n\r\nOr perhaps they are relying on the Windows monoculture to protect them from complexities (but I don't think that's necessarily a safe bet -- most problems have to do with hardware differences, in my experience, and there are enough different varieties and/or versions of Windows to make their \"one platform\" assumption break down).\r\n\r\n"
+-
+    name: rogun
+    mail: ''
+    subject: 'I may be wrong'
+    hostname: 71.143.178.38
+    created: '1210058445'
+    body: "but I don't think that HP officially supports GNU/Linux, which is why there is no mention of it on the boxes. I wish they did too, but am still thankful that they've provided enough information for me to get my AIO to work *ALMOST* perfectly (it's still missing a few features, such as transferring images from the card reader, which actually works, but is painfully slow with the HPLIP drivers.)\r\n\r\nGood thing for HP too, because I'd never buy a printer that didn't work with GNU/Linux."
+-
+    name: tracyanne
+    mail: ''
+    subject: 'installing an all in one printing device in Mandriva'
+    hostname: 122.148.187.219
+    created: '1210064569'
+    body: 'Upack the printer in this case a HP C5180, connect printer to power, connect printer to computer via USB2 cable, load printer with paper. Power printer on. Wait while Mandriva recognises printer, wait while Mandriva installs printer drivers, wait while Mandriva prints test page. Open document in OO.o select print, wait while document is printed. Boring.'
+-
+    name: 'Michael Crider'
+    mail: ''
+    subject: 'Advertising Linux support'
+    hostname: 75.121.30.181
+    created: '1210072564'
+    body: "If they don't include Linux drivers on the CD, or include directions on installing it in Linux, they can't really advertise Linux support. With so many distros and so many different ways to install the drivers, it would be very complex to say they support Linux. A more correct statement would be that Linux supports them, even if it is with drivers they provide. I know from talking to a close friend (a Linux newbie) that if you call HP tech support for help installing a printer in Ubuntu, it takes 4 hand-offs before you get someone who has heard of Ubuntu. He could only point my friend to hplip.sourceforge.net, and then went on to ask several questions about Ubuntu and why my friend was running it. It would be nice if HP could pick a few of the top distros, get their devices working out of the box in those distros, and include directions for installing, or at least advertise that they are supported in those distros. Then again, with frequent version changes of distros such as Ubuntu, the directions may need modified more frequently. With Windows, supporting two versions (XP and Vista) will cover everything that has been available for over 6 years, and probably 90% of Windows in use today.\r\nI'm not trying to give HP a total out, just pointing out that it is probably simpler for them, like Dell, to point people to their distro's tech support for software issues."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Linux support'
+    hostname: 82.108.129.98
+    created: '1210074669'
+    body: "HP do [officially support GNU/Linux](http://opensource.hp.com/) and they have written and released many [printer drivers](http://hplip.sourceforge.net) under free licences. For example the device I bought  is one of many supported under HPLIP and it works excellently.\r\n\r\nAs to inclusion of drivers on CD--well actually I don't think they should do so. In fact I think this is the way manufacturers should go. Imagine if you buy a device (any device) and there's no *need* for a driver CD because the driver is included--or easily available--as part of your OS.  HP have worked to ensure that HPLIP/HPIJS is available as a package under most GNU/Linux distros so there is no need for HP to worry themselves with CD installation programs and the like. They have space for documentation at [http://hplip.sourceforge.net/](http://hplip.sourceforge.net/) but it's very incomplete. So what they should do is: \r\n \r\n* complete the documentation\r\n* engage the community to write some howto's for various distributions (Wiki/collaborate with LinuxPrinting.org etc.)\r\n* advertise their GNU/Linux support on product packaging and in the computer press.\r\n\r\nBTW, the HPLIP pages are pretty good (where they don't have holes!) and I recommend them if you are considering an HP printer. For example here is the page detailing [support of the PhotoSmart C5180](http://hplip.sourceforge.net/models/photosmart/photosmart_c5100_series.html). It tells me that this printer will work under Debian 2.2 (Potato)--a system released in 2000. Compare that to the minimum Windows requirement of Windows 2000 SP3 (released 2002) or Mac OS X 10.2 (again 2002). And still people say Linux doesn't have good hardware support!\r\n\r\nBut, I digress..\r\n\r\nWhat I am really after here is some kind of acknowledgement of GNU/Linux users as a customer base. I think that HP are well poised to gain a lot of sales from Ubuntu users and the \"escape from Vista\" crowd but they are missing the boat. If a new Ubuntu users walks into a computer store and looks at the printer boxes, \"Linux support\" on the side would be a huge selling point.\r\n\r\nBTW : the network scanning option worked fine under Debian on the simple tests I gave it--as expected.\r\n\r\ncheers\r\nRyan"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Perhaps I should have elaborated'
+    hostname: 212.159.106.192
+    created: '1210103441'
+    body: "Perhaps I should have elaborated on my setup. This is a -- deliberately -- minimal install Lenny system. I did not install the desktop task which would have resulted in GNOME/KDE with the same kind of autodetect scripts that your Mandriva system uses. I've previously had a similar experience to you running KDE under Debian with all sorts of printers.\r\n\r\nI should also mention that the printer was detected automatically when I plugged the USB cable in. It's just that on my minimal install the hplip/hpijs drivers were not installed and therefore not loaded. The main reason for this post was for people for whom the autodetect didn't work. It's all well and good having these Windows-esque we'll-do-it-all-for-you type autodetect systems but in my experience if you rely on them too much you are dead stuck when it doesn't work. Besides that, one reason I started using GNU/Linux (and Debian in particular) is because I actually *like* twiddling and doing it myself. I prefer to know what my system has on it and why.\r\n\r\nSo perhaps I should have named this \"Installing an all-in-one printing device in Debian Lenny with a minimal XFCE4 system whilst getting my hands dirty and do it manually\" :o)\r\n\r\nTo answer your question on LXer as well -- sorry can't be bothered to sign up to every site I come across -- I didn't choose Debian to test this out but rather it is the system I use on a daily basis.\r\n\r\nthanks  \r\nRyan"
+-
+    name: tracyanne
+    mail: ''
+    subject: apology
+    hostname: 122.148.187.219
+    created: '1210108816'
+    body: "<em>I should also mention that the printer was detected automatically when I plugged the USB cable in. It’s just that on my minimal install the hplip/hpijs drivers were not installed and therefore not loaded. The main reason for this post was for people for whom the autodetect didn’t work. It’s all well and good having these Windows-esque we’ll-do-it-all-for-you type autodetect systems but in my experience if you rely on them too much you are dead stuck when it doesn’t work. Besides that, one reason I started using GNU/Linux (and Debian in particular) is because I actually like twiddling and doing it myself. I prefer to know what my system has on it and why</em>\r\n\r\nI apologise, I misunderstood. I use Mandriva for three reasons, \r\n\r\n1 I'm lazy and I like it, and Mandriva has worked without problems of almost all of the hardware I've tried it on, I can't say that of many other distros, even the much touted Ubuntu hasn't had that record for me, and if I can't guarantee that for the benefit of reason 2, I won't use it. \r\n\r\n2 It's what I sell, primarily to middle aged and elderly women. They like it because it just works. Many of those women have had at least some experience with Windows (and opted for Linux because of viruses and fragmented file systems slowing everything down, in the main they are not interested in twiddling, they want to be able to web surf, play music, watch the occasional rented movie on DVD, write text documents, play the odd mindless game of solitaire. I can provide them with that experience with Mandriva quickly and easily, and they can do it all safely. In some cases my Mandriva systems are the first computer they've actually managed to do anything useful on.\r\n\r\n3 I need to understand Mandriva, so I can be sure, if they have problems I can sort them out.\r\n\r\nI guess I reacted because there have recently been so many Linux is not ready for the desktop blogs going around of late."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'apology not required'
+    hostname: 212.159.106.192
+    created: '1210112034'
+    body: "No need to apolgise, your post just highlighted how easy it is to use GNU/Linux. As it happens I am inherently lazy as well but every now and then I get it into my head to \"play\".\r\n\r\nYour reasons for using Mandriva are perfectly valid - for what it's worth I started on RedHat, moved to Mandrake (as it was called then) and migrated to Debian. But this highlights the real beauty of free software: it gives you and me (and your users and mine) the opportunity to have a stable, secure system which \"works\" in the way we want, how we want.\r\n\r\n> I guess I reacted because there have recently been so many Linux is not ready for the desktop blogs going around of late.\r\n\r\nI guess you must be new round here then? :o)\r\n\r\ncheers\r\nRyan"
+-
+    name: rogun
+    mail: ''
+    subject: Hmm
+    hostname: 70.232.40.102
+    created: '1210119812'
+    body: 'Though I''m unable to find it now, I seem to remember a disclaimer from HP, on it''s website, that explicitly stated that it didn''t officially support GNU/Linux, despite the support given for the HPLIP drivers. I know this sounds odd, which is the only reason I think I remember it, but then again, I don''t trust my own memory much these days, so I don''t know why anyone else would.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"officially support"'
+    hostname: 68.93.224.4
+    created: '1210127290'
+    body: "\"I don't think that HP officially supports GNU/Linux\"\r\n\r\nThis is actually why I'm annoyed: why is GNU/Linux always treated like the mistress instead of the wife?\r\n\r\nNo one expects them to dedicate extra resources to supporting Linux. It's perfectly reasonable for them to rely on community support mechanisms (after all, it's what we expect and want in our free software culture -- it's a better system).\r\n\r\nBut is it too much to ask that they _acknowledge_ this sort of support in their packaging and advertising? Are they _ashamed_ of supporting Linux? What's that about? \r\n\r\nWhatever the answer is, I don't think it can be good.\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'What does "support" mean?'
+    hostname: 82.108.129.98
+    created: '1210146374'
+    body: "It all depends on what we mean by support. For you and me that's probably providing drivers, giving advice and help on installing them and saying so on the box wouldn't hurt either.\r\n\r\nTheir [All-in-one/Linux support page](http://h10025.www1.hp.com/ewfrf/wc/document?docname=bpu00658&product=1832917&dlc=en&lc=en&cc=uk)  says:\r\n\r\n> ## Linux support\r\n> The primary means of communication for the Linux community is via sourceforge.net. Linux support will not be listed on the printer box. In addition, Linux support is not delivered via standard means for our Windows and Mac customers (for example, the driver is only available via the Web, not in the box.) There will currently be no phone support. HP Customer Care will direct HP Linux customers to http://hpinkjet.sourceforge.net. There will be instructions for installing and using the driver there, as well as support resources through FAQs, Web documents, and feedback forms.\r\n\r\n( hpinkjet.sourceforge.net redirects you to hplip.sourceforge.net BTW. )\r\n\r\nSo it seems they _do_ provide most of what we want -- via community resources. But it seems that they are prepared to stand by their decision to not advertise this on the box, and like you I would like to know why? I can only assume they are concerned that a GNU/Linux using consumer who bought such a product might have a valid claim for support on a par with Windows/Mac.\r\n\r\nPerhaps we can start a campaign here: \"Would you like to see printer manufacturers in general and HP in particular advertise their Linux support on the packaging?\" - Tony any ideas?\r\n\r\nRyan"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'More on network/web scanning'
+    hostname: 82.108.129.98
+    created: '1210231225'
+    body: "I've now used the web interface scanning option with some vigour and I have to say it's... okay. It works very well but the feature-set is very limited and quite frankly SANE is a better option.\r\n\r\nTo use the web scanning option you point a browser on your LAN at the IP address of the C5180 and click the Scan link under Applications. Here you can pick the size of your scanned image -- from a select few options -- and get a preview. From there you click scan and your image will appear in a new browser window for you to save[1]. You can't choose a smaller section of the document to scan from the preview and the options for resolution, colour etc. are very limited.\r\n\r\nSo the web interface is very limited but has some uses if you want a simple interface for any user on your LAN without installing client software. Beyond that you'll need something more fit for purpose.\r\n\r\ncheers  \r\nRyan\r\n\r\n[1] If your browser blocks popups by default you must allow them for this \"site\" or the final scanned image will not be available to you."
+-
+    name: rjray
+    mail: ''
+    subject: 'Best spellchecker-proof typo in ages...'
+    hostname: 64.105.89.27
+    created: '1210274748'
+    body: '<cite>but <strong>doe snot</strong> mention GNU/Linux at all</cite>'
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Glad you liked it'
+    hostname: 82.108.129.98
+    created: '1210329780'
+    body: "I spotted that one - typically - _after_ the piece was published and once that happens only admin can edit them. It seemed a) too trivial and b) too humourous[1] to bother Tony with.\r\n\r\nOddly I mentioned it in a comment on another column on FSM yesterday.\r\n\r\nI guess it'll teach me to post straight into the web form at two in the morning! I normally compose off-line and copy and paste it.\r\n\r\n[1] In my defence I get so many queries over perfectly acceptable British spelling from Firefox that I tend to ignore the red dotted lines in there now. \"Humourous\" is one of them. But let's not go there. The British English dictionary add-on is not always \"compatible\" with my Sid-based versions of IceWeasel either so I tend not to bother with that.\r\n\r\nRyan  \r\nPS I've just noticed it got corrected after your comment."
+-
+    name: admin
+    mail: ''
+    subject: 'I did correct it...'
+    hostname: 124.169.56.254
+    created: '1210390158'
+    body: "Hi,\r\n\r\nI corrected it, and yes, I did find it immensely funny :-D\r\n\r\nMerc."
+-
+    name: andmalc
+    mail: ''
+    subject: 'Easier way to setup'
+    hostname: 24.226.115.146
+    created: '1211631522'
+    body: 'Run hp-setup to add the printer and to register the model under hplip for scanning and image transfer.  Several other utilities are available i.e. for command line scanning or image transfer - they all start with ''hp-''.'

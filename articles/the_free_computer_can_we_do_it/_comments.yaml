@@ -1,0 +1,420 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Great idea!'
+    hostname: 59.154.24.148
+    created: '1166075593'
+    body: 'This is one of the major problems that I am having with the previous two Dell machines that I''ve owned, first a desktop and currently a laptop. I am quite nervous about adding linux not because of the quality of the software, but rather the compatibility issues that are inherent because of those deterrants that large corporations have put in place. It is more than a little frustrating. The idea of dictating terms rather than being dictating them to these companies is going to be a rough ride but unless people band together, then nothing can be achieved. '
+-
+    name: ''
+    mail: ''
+    subject: "hear! hear!\n"
+    hostname: 84.203.45.201
+    created: '1166093119'
+    body: 'hear! hear!'
+-
+    name: ceasarrr
+    mail: ''
+    subject: Delinx
+    hostname: 83.180.28.209
+    created: '1166093283'
+    body: "I told Dell, when they asked wat I would like  them to shange.\r\n\r\n Delinx.... No M........W......Oem (I sayed) That is not even a real Os. It is an speciallmade Osdrivsotware for Dell (as HP/Compac PBell have)\r\n Just the same as with aple/macOsX Made for the hardware inside. But they are one HwareSware made fore egother.\r\n PC brands and M...W... are not one. Only M..W.. is  very big. So PC brands  opens for M..W.. To get that OEM. (only Witsh Hardware is inside?) Shange the mainbord.... OEMps not open for you enymore..\r\n\r\n Think Dell is the mosed closed laptop there is, but maybe that is  why they are the one to open. My experions whit Dell is the best till now, hp, pBell, and an other few,  were not so closed but helpdesk...aaahhhh!!. \r\n \r\nA dell came to me and opend no mather wath, even after fu..ing her up, by giving her a linux that dit not work for her. She opend to tell me: \"Call the center, they will help\" And they did. \r\nSend me the oem and no problems. \r\n When you have a Dell just ask for the cd they have for your Laptop. So you can do wat you want. If it goes bad.You do not even have to wait for the oem. You have it.\r\n \r\n I?... Dreaming....Delinx  ..    Open. "
+-
+    name: ''
+    mail: ''
+    subject: 'Devil''s Advocate'
+    hostname: 74.92.75.226
+    created: '1166109492'
+    body: "I'm a big fan of open source and have been using Linux and FreeBSD for quite some time.  Needless to say this idea seems promising, but there are certain aspects that seem to be unrealistic.  First, who's going to shell out the millions necessary to fund the mass production of hardware?  The community?  Ok, but how many of them are going to want some standardized machine?  It would cost several million dollars (maybe more) to fulfill the needs of the open source community and three months after it's built something new will come out and people will stray.  The reason Linux is so successful is for the compatibility of x86 architecture, once this becomes proprietary then the allure is gone.  Granted, Linux will still be available for x86 and probably won't loose support, but I am curious how many die-hards will support the development process for a limited system (hardware).  \r\n\r\nI understand the idea of stripping OS costs, but if someone is that concerned about it all they have to do is 1. build the machine themselves (takes a couple of hours) or 2. go to a retailer that builds them for you.  In either case you can obtain a computer without an OS.  \r\n\r\nIs this an idea to place one of these \"Open Architecture\" computers in every Be$t Buy, Circuit City, Wal-Mart, and whatever other evil empire you can think of?  If it is, well then... I don't think these companies like associating with businesses that don't turn profits.  So you pretty much screwed there, unless of course you are thinking that this could be a money making opportunity by undercutting the prices of M$ and Apple to obtain profits, in which case it's not really \"open\" anymore is it?\r\n\r\nThis is sort of the idea that you are talking about\r\nhttp://schestowitz.com/Weblog/archives/2005/11/15/open-source-laptop/\r\n\r\nThis was an attempt at a video game console\r\nhttp://www.newbreedsoftware.com/bill/indrema/\r\n\r\n\r\n-------------\r\n\r\nPlease don't get me wrong, I am always looking for new and innovative products of open source and I would probably jump on board if some well thought out stucture was implimented.\r\n\r\n-o\r\n"
+-
+    name: ''
+    mail: ''
+    subject: opencores
+    hostname: 65.190.194.75
+    created: '1166109497'
+    body: "http://www.opencores.org/ has been hosting open hardware for quite a while.  Just buy an FPGA and burn your open hardware onto a chip (or pay millions for silicon).\r\n\r\nOpen hardware is quite doable, in fact, it's already in use by many.\r\n\r\nThe tough part is actually coming up with the manufacturing.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'its happening'
+    hostname: 72.88.43.79
+    created: '1166109777'
+    body: 'Check out www.system76.com and a search shows there are a few other companies building with linux in mind'
+-
+    name: ''
+    mail: ''
+    subject: 'I would have to agree'
+    hostname: 68.32.58.122
+    created: '1166110500'
+    body: "I think this is a wonderful idea, having more hardware \"standards\" free and open would truly make a world of difference (especially for device driver developers).  However, I can imagine getting this implemented will be, well... quite difficult.  In contrast to software, where it is entirely virtual and be modified, re-compiled, and installed very easily, hardware is quite different.  This is not a problem, but something that needs to be kept in mind.  If we could get hardware designers (and more importantly, their management) to see and agree with the true benefits of \"open source\", it would make our job much easier.\r\n\r\nIf a project such as this were to take off, I envision it being something of a \"slow-n-steady\" type of deal, I believe it will take a long time before we would actually see the fruits of our labor paying off in regards to solving the problems previously mentioned.  This is certainly not a reason to not try and start such a task, but I suppose the main question on my mind is...  where do you begin???\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Sortof done already.'
+    hostname: 172.143.26.151
+    created: '1166110789'
+    body: 'http://system76.com build laptops that run Ubuntu, and nothing else. Although I have a sneaky suspicion non-free software comes with these machines, maybe they can be convinced to install gNewSense as an option? :-)'
+-
+    name: ''
+    mail: ''
+    subject: 'Open source... chips?'
+    hostname: 64.40.239.22
+    created: '1166110941'
+    body: "It seems to me that to have open source hardware you'll need a good open source \"bios\" - perhaps even flashing the Linux kernal.\r\n\r\nWith the majority of hardware compatablility issues occuring with implementation hacks by the hardware designer - to have a true open source hardware; the motherboard would need to be desinged by someone unwilling to cut corners; and work with established hardware standards. \r\n\r\nIt would never be cutting edge, and that would ultimately make it an unprofitable business venture. and you need those profits to keep producing hardware. "
+-
+    name: ''
+    mail: ''
+    subject: 'Do some research'
+    hostname: 67.163.42.135
+    created: '1166111027'
+    body: "<i>\"I would like to hear everybody's thoughts on the matter and let’s see if we can get something to happen....\"</i>\r\n\r\nI think that if you'd done a bit of research first, you could have written a more useful article. Please allow me to bootstrap your efforts:\r\n\r\n<a href=\"http://www.opencores.org/\">OpenCores</a>\r\n<a href=\"http://www.opensparc.org/\">OpenSparc</a>\r\n<a href=\"http://en.wikipedia.org/wiki/Open_source_hardware\">Wikipedia Entry on OSS Hardware</a>\r\n<a href=\"http://wiki.duskglow.com/tiki-index.php?page=Open-Graphics\">OpenGraphics</a>\r\n\r\nAt those links, you can find everything from designs for USB controllers to mainboards to 3D GPUs to high performance CPUs. In some cases the designs can be realized on FPGAs or ASICs, while others require the use of a cutting edge chip-fab. \r\n\r\nThe OSS community has been pursuing this dream for several years now. What it needs is *not* unfocused calls to action, but more exposure of the efforts already underway.  \r\n\r\n--<a href=\"http://www.intelligentblogger.com\">AKAImBatman</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'It''s already being done'
+    hostname: 198.103.109.141
+    created: '1166112170'
+    body: "You can order IBM laptops with Redhat on them.  HP does the same.  Dell does it as well.  Plus lots of little vendors do tyhe exact same thing.  All you have to do is ask.  You would be surprised that you don't live in 1995 anymore.  Windows tax isn't anymore extra cost than 20 bucks per PC btw.  You probably spent more on coffee last week and all you got back was urine from that investment.\r\n\r\nOr here's a novel thought.  Buy a mom and pop PC with nothing but the hardware itself and install whatever you want.  It's not rocket science.\r\n\r\nHere's a question for you, why does your wife have four laptops?  Is it because the Mac tends to date itself really quickly, because you have almost have no choice but to upgrade the entire system rather than bits and pieces.  Anyhoo, four laptops if that doesn't stink of dumb american consumer I don't know what doesn't.  "
+-
+    name: ''
+    mail: ''
+    subject: 'OpenSPARC - start from here...'
+    hostname: 76.175.141.190
+    created: '1166112378'
+    body: "You can start here, a full processor specification under GPL\r\n\r\nhttp://en.wikipedia.org/wiki/OpenSPARC\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: arduino
+    hostname: 24.45.11.45
+    created: '1166112579'
+    body: "If you are interested in free hardware, you should check out the <a href=\"http://arduino.cc\" target=\"_blank\">Arduino</a> project.  The Arduino is the free computer that you describe in the article, albeit a very small one.  It is based around a 16MHz Atmel AVR ATMEGA8 microcontroller.  It only has a USB connection and a bunch of analog and digital I/O pins.\r\n\r\nBut this thing has more processing power than the first computer my family owned in 1986.  That one cost almost US$5000, the Arduino costs US$30.  You can build one yourself for less than US$10.  The whole development environment and libraries are free software, available under the GNU GPLv2 (now that Sun released Java under that license [<a href=\"http://www.sun.com/2006-1113/feature/\" target=\"_blank\">source</a>]\r\n\r\nYes, its a small start, but there are some very important lessons being learned here.  First off, how to create a manufacturing and supply chain for free hardware.  That's already working, you can buy the Arduino readily in North America and Europe.  More work is being done along these lines in Colombia, South Korea, and other places.\r\n\r\nAlso, just like free software is architected and built in a very different manor than proprietary software from giant companies, free hardware is developed in a very different manor than hardware designed and built by giant companies.    So that means we should not be purely thinking of imitating the models we see in the proprietary hardware world.  Instead we need to find which models work best for free hardware.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'A point'
+    hostname: 62.23.212.62
+    created: '1166113695'
+    body: "Should I raise a point ?\r\nWith regards to software engineering, you pay the IPR and the hours spent on the project only. You can easily release both for free.\r\nBut hardware is made of chips and wires...\r\nSo do you want to provide for free the engineering part (under any GNU licence) and release plans which would be built by who ?\r\nOr, going further, do you want to engineer CPU, GPU ?!\r\n\r\n(english grammar should be also under free licence to let me improve it... \r\na french guy)"
+-
+    name: ''
+    mail: ''
+    subject: 'Small steps?'
+    hostname: 212.85.1.5
+    created: '1166114990'
+    body: "As a lot of the other people who have dugg this story (http://digg.com/linux_unix/OK_we_have_free_software_How_about_some_free_hardware) have commented, it would be very difficult to compete against the big beasts of industry such as Intel or AMD. \r\n\r\nIt is a great idea, but would it not be better to start smaller and expand from there. Starting with individual components? I for one would buy an open source sound card or network card if I knew it would offer greater compatibility with my OS. At present I have to wrestle in with compiling ALSA in order to get any of the newer sound cards working, or more often than not have to buy older legacy hardware."
+-
+    name: ''
+    mail: ''
+    subject: 'I''d be interested as well'
+    hostname: 209.0.50.17
+    created: '1166115040'
+    body: 'I''ll be graduating with a BS in computer engineering this Spring and I''d definitely like to get in on a project like this. I have experience in system design and low level software. I have already created my own 8086 microcomputer ;) I will keep a lookout for this project and would like to contribute!'
+-
+    name: ''
+    mail: ''
+    subject: 'Time for a Hardware Co-op'
+    hostname: 24.69.166.91
+    created: '1166115333'
+    body: "I agree this is a good idea. \r\n\r\nIs there anything like this already?  Are there any companies running co-op model business for computer hardware, where the users can pool resources to support existing hardware manufacturers that are working with open standards (open drivers, open designs, etc. no sense in reinventing the wheel!) and then create/commission new designs where there exists a lack in the market (video cards come to mind).\r\n\r\nIt would definitely be the next big step in freeing information to have some sort of patent (GPL for hardware) that allows people open access to the hardware designs and allows them to build on and improve those designs provided that the design of their improved product remains open.\r\n\r\nI think it is a job for a co-op or non profit.  Wall Street isn't going to be too keen.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Agree on best hardware'
+    hostname: 66.240.21.10
+    created: '1166115547'
+    body: 'Very good idea.  I think we should agree on what hardware to use.  Have a list of hardware components that are popular that we agree will definately work no matter what.  Just a list of all the different components, a high-end brand and a budget/value brand.  If we come together and tell the hardware manufacturers that the whole Linux community will recommend this hardware for those building or buying systems, I think they''ll listen, especially if you have corporations that use Linux that support us.  Corporations using Linux don''t want to worry about hardware issues.  Then we, when we build our systems, know which components to pick from and not worry about hardware compatibility issues.  But just like the author said, unity is what is needed.  There has to be a central list of hardware components that go on a website and are GUARENTEED by manufacturers to be open and by the kernel Linux developers to work without compatibiliy issues.  You''ll see a ton of people go to that website and depend on it when building a system.'
+-
+    name: ''
+    mail: ''
+    subject: 'Great idea, uh....who has the money?'
+    hostname: 206.176.252.22
+    created: '1166116837'
+    body: "Sounds great! We open source users just need to pony up the hundreds of thousands of dollars for assembly plants, hire workers, comply with environmental laws, etc. Anyone have a couple million lying around they're not doing anything with?\r\n\r\nThe idea with software is that it costs intellectual time, but it doesn't require any capital. Programmers can write the software but they don't have to fund the production of the software, they just do it themselves. But with hardware you actually need to pay for materials, hire workers, etc. Anybody want to do hardware guarantees for cards they didn't solder? Any takers?\r\n\r\nDon't mean to be too sarcastic, but the wall between software and hardware should be apparent."
+-
+    name: ''
+    mail: ''
+    subject: 'I have thought this for a'
+    hostname: 75.72.170.58
+    created: '1166117077'
+    body: "I have thought this for a long time.  You are absolutely correct about controlling the hardware.  Linux is never going to get ahead of the component curve and the acceptance curve until it works with the components on the system.  \r\n\r\nMy idea would be to setup an organization which gets together as many of the open components as possibly.  Then once those pieces of hardware are found we go to the manufacturers and get them to open up any of the other pieces of hardware we need.  The best thing you could do is get pledges from people to buy the completed systems.  Then you could go to the hardware companies and work with specific numbers for the order.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'I''ve actually been thinking about this lately ...'
+    hostname: 66.90.130.225
+    created: '1166117102'
+    body: "With so much technology available today, I see know reason why this cannot be accomplished.\r\n\r\nPlease keep me posted, I'd be willing to help as my schedule permits.\r\n\r\n\r\nThanks,\r\nBill Wood\r\nbill dot wood at corp dot grandecom dot com\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'It''s a start, but...'
+    hostname: 167.127.24.69
+    created: '1166118224'
+    body: "It's a great idea, and it could go places, but there are some fundamental issues that would need to be dealt with before any planning could be done...\r\n\r\nThe biggest one is what makes open source so great (in my mind anyway), and that is the varied user base.  You say that \"we\" should work together to build this, and I agree, but that is where the problem starts.  Apple can do it because they are a company united towards a common goal.  They have people who argue back and forth about certain pieces of hardware, just like us, but they also have someone who can step in and say \"just pick one already\", whereas we don't.  Should we use this part, or that part?  Without someone to moderate, the argument could go on forever.  For examples, look at all the forks we have now, because two people (or groups) wanted to do something two different ways...\r\n\r\nNow, I know I sounded kinda down there, but I really DO see it as a positive; the more different ways to do something, the better.  It just becomes a problem when trying to design a unified system.\r\n\r\nThere are other, smaller problems, but why worry about those until the elephant has been cleared from the room???\r\n\r\nI have seen more companies in the last year start offering systems with Linux installed and configured, and quite a few of them even give you a choice between a few different distros.  Sadly, most of the places are smaller companies, so they can't offer the huge array and discounts that, say, a company like Dell can.  Even still, it is a step in the right direction, and I wouldn't be surprised to see \"big box\" stores like Best Buy and Walmart offering computers with Linux preconfigured within 10 years or so..."
+-
+    name: ''
+    mail: ''
+    subject: 'I''m in'
+    hostname: 12.105.180.175
+    created: '1166118348'
+    body: "Here's a suggestion for you.  To get some fast results, go to Newegg and pick the following items:\r\n\r\nTwo desktop cases, one cheap and one a little higher-end.\r\n\r\nTwo motherboards, one that supports Intel procs and one AMD.\r\n\r\nOne popular brand of sata hard drives.\r\n\r\nFour video cards, one cheap and one expensive, one from ATI and one from NVIDIA.\r\n\r\nPost the results and use that as a starting point, give the linux community 3 or 6 months to argue, and then get to work forking your favorite distribution to work perfectly with the hardware you've chosen.  The new dist should not even be compatible with anything but the selected hardware.\r\n\r\nThis is an idea who's time has come."
+-
+    name: ''
+    mail: ''
+    subject: "ceasarrr,\nWhat?  I can't"
+    hostname: 132.235.241.141
+    created: '1166118847'
+    body: "ceasarrr,\r\n\r\nWhat?  I can't understand what you wrote."
+-
+    name: ''
+    mail: ''
+    subject: Great!
+    hostname: 76.169.76.94
+    created: '1166120050'
+    body: 'I''d buy an open laptop if it existed.'
+-
+    name: ''
+    mail: ''
+    subject: 'Damn son!'
+    hostname: 209.232.116.100
+    created: '1166121337'
+    body: "The idea sounds great, but economic and buisness side seem faulty, but I'd love to get it going!\r\nEmail me at ndumas1@gmail.com if you're like, calling for volunteers or someting!"
+-
+    name: ''
+    mail: ''
+    subject: 'Good eye'
+    hostname: 67.79.42.254
+    created: '1166121370'
+    body: 'Im in. Just contact me.'
+-
+    name: ''
+    mail: ''
+    subject: 'This is brilliant.'
+    hostname: 172.190.24.98
+    created: '1166122712'
+    body: "PURSUE THIS. With the proliferation of ever more devious DRM schemes, political pushing to restrict \"\"\"innapropriate\"\"\" content, and the increasing cephalization of global information control, the danger of an Orwellian Total Information Awareness state looms menacingly upon the minds of all but the most trusting wage slaves.\r\n\r\nHowever, be careful.\r\n\r\n As the impossibility of software-based control becomes evident, the, ahem, Powers that Be will be soon looking to control information based on what they've always been best at controlling- the means of production. Why encode DRM into MP3's when you can have a parallel system running in the heart of every machine, affirming the \"\"\"validity\"\"\" of everything done on the system (at least while online...). If these conspiratorial fears at all mirror the actual intentions of the souleaters, you'd do best to take a very cautious and strategic approach to this. \r\n\r\n(another)However- Do not have fear. Fear is the mind killer. You must do this. Even if it isn't the only hope for humanity, it would massively advance the state of popular computing, allowing for unprecedented control over the technological implements we allow to consume our reality. \r\n\r\nWith the twin insanities of consumerism and planned obsolescence turning our world into a giant heroin addiction where the smack is torn from our own bodies, something like this could light a flare of autopoeisis in the structure of tool-making and use, a flare that could, through shining efficiency, expose the illusion of growth in ways people have not yet learned to ignore. \r\n\r\nPlease. Your soul will be truly blessed if you make this your life's work. I will help how I can.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Yes!
+    hostname: 38.116.136.215
+    created: '1166122869'
+    body: 'I agree.  This is a great idea!'
+-
+    name: ''
+    mail: ''
+    subject: "Here's a start?\n"
+    hostname: 24.46.143.219
+    created: '1166123364'
+    body: '<a href="http://wiki.duskglow.com/tiki-index.php?page=Open-Graphics">Here''s</a> a start?'
+-
+    name: ''
+    mail: ''
+    subject: 'Design by consensus? I''m skeptical.'
+    hostname: 216.57.200.50
+    created: '1166124034'
+    body: "An incredible idea, in theory. One I would love to see, but I'm skeptical.\r\n\r\nThe big challenge for something like this would be resolving the religious battles over the various trade-offs involved. Software is a slightly different proposition, for which the source is malleable, and readily forked to suit. Designing a notebook computer that is similarly flexible would be an industrial design nightmare -- you'd either have to piss of a lot of people (i.e. no consensus) OR you'd have a hideous mess of a machine.\r\n\r\nOne of the reasons that Apple can pull this off is that somebody, somewhere is deciding. Now, sure, they can be wrong sometimes (and sometimes they are) but they're also measuring \"right\" and \"wrong\" by measuring the market. By and large, open source software measures \"right\" and \"wrong\" according to the religious beliefs of whichever group of developers happens to be in power, and it's usually to serve their bleeding-edge geek preferences.\r\n\r\nThe working group would probably spin their wheels for months simply debating the license under which to release the specification.\r\n\r\nNow, if you took the Dave Winer/RSS approach, and had one or two smart people come up with the spec, take limited feedback, give the spec away out of the goodness of your heart and then evangelize the hell out of it, you might have something. You'll piss a lot of people off in the process (like Dave), but then, so do Apple/Dell."
+-
+    name: ''
+    mail: ''
+    subject: 'Free hardware is a great'
+    hostname: 24.77.219.72
+    created: '1166125093'
+    body: 'Free hardware is a great idea.  I wonder though...  you mentioned Apple contracts out the computer manufacture to the "Far East and elsewhere", but I would hope that a project sharing the ideals of the FOSS movement would not "buy in bulk" from sweatshop operations.'
+-
+    name: kevindalvi
+    mail: ''
+    subject: 'I''d definitely be interested.'
+    hostname: 24.61.42.226
+    created: '1166129067'
+    body: "Dale,\r\n\r\nI love your idea and I would definitely like to support it. I think it's possible to do it if we can get enough people interested. Let me know how I can get involved. You can email me at kevindalvi at gmail dot com. \r\n\r\nKevin Dalvi\r\n<a href=\"http://www.reelnow.com\">www.reelnow.com</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'Open Source Designs'
+    hostname: 137.99.176.156
+    created: '1166129974'
+    body: 'This is a fantastic idea. For those of us unqualified to design hardware, we can vote with our wallets. We can choose to buy hardware that avoids blobs and runs without issue.'
+-
+    name: ''
+    mail: ''
+    subject: 'This is a fascinating idea'
+    hostname: 72.1.219.5
+    created: '1166135723'
+    body: 'I would definitely be interested in this sort of idea.  This has been my major hurdle towards adopting Linux on a full-time basis.'
+-
+    name: ''
+    mail: ''
+    subject: 'There is lots of hardware'
+    hostname: 69.166.28.137
+    created: '1166144350'
+    body: "There is lots of hardware that works perfectly fine with Linux (ie: http://www.linux.org/hardware/).. There is also companies that sells Linux compatible computers (http://www.linux.org/vendor/system/desktop.html).\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Intersting,,,,'
+    hostname: 59.93.32.226
+    created: '1166144894'
+    body: "i've heard about this for a long time...\r\nbut the fact is who will control the purchase of items?\r\n\r\nhow can you ensure that it doesnt turn out to be the next microsoft with the kind of integration one can?\r\ncant they?\r\n\r\nsuddenly the green twitch in the eye for greed turns out in whoever controls this and turn it against the consumer vendors\r\n\r\nsandeep\r\nhttp://snazzed.blogspot.com"
+-
+    name: ''
+    mail: ''
+    subject: 'New addons'
+    hostname: 58.166.151.186
+    created: '1166153787'
+    body: "When one thinks of the installed base of 800M MS end user systems out there, it is pretty obvious that any manufacturer creating a new bit of add on hardware is going to go for the MS market first, the MAC market second and the Linux desktop last if at all because of open drivers.\r\n\r\nLaptops, like Internet mobile phones are consumer devices, which means they are high priced and need to be replaced by the latest new feature model.\r\n\r\nFor a world market, it would make sense to standardise on a Taiwanesse/Chinese clone, using a consortium of Linux box makers to give the manufacturer a large market.\r\n\r\nThe main problem with the IBM PC design, is that it is old. circa early 80's, and has restrictions in its architecture that make it impossible to take full advantage of today's interface and media advances, let alone future innovations. Linux has gone a long way to ameliorating the shortcomings of the design, but can only do so much.\r\n\r\nSince Linux is at its 15 year cusp, where acceptance is increasing exponentially, box sellers may be better off focusing their efforts on hardware that has been designed with Linux or UNIX in mind. This would give the add on manufacturers a defined market for non Windows hardware, making the possibility of open drivers a more achievable objective.\r\n\r\nIt would also fit in with people's desire to have the next best thing, and for them to see Windows as old hat. Something we in the know have been saying for years.\r\n\r\nI suggest we focus on lobbying IBM to build us an inexpensive Cell architecture laptop, use the existing PS3 as our desktop, and Cell blades as our server of choice.\r\n\r\nThis strategy will give us all a far better computing platform than the outdated IBM PC, and rapidly allow us to move to a much higher level of computing where 3D, natural Language, and handwriting recognition and response, are sustainable goals.\r\n\r\nKind regards\r\nStomfi, Australia"
+-
+    name: 'kim brand'
+    mail: ''
+    subject: 'You CAN get the hardware free'
+    hostname: 216.37.37.16
+    created: '1166158112'
+    body: "We make FileEngine, a Linux based file server designed for small businesses. We give the server away when a customer subscribes to a service contract. It's about $8/day. Unlimited users, 100 DVDs (for backup) and a UPS are included. So is shipping, installation, integration, monitoring, disaster recovery and replacement (if it breaks.)\r\n\r\nKim Brand\r\nManaging Partner\r\nServer Partners, LLC\r\nwww.FileEngine.com\r\n888-LINUX-RX"
+-
+    name: ''
+    mail: ''
+    subject: 'Not that hard a project, just lots of startup cash needed'
+    hostname: 67.32.157.206
+    created: '1166162187'
+    body: "This isn't a hard problem.  Asian contract manufacturers will build anything you ask them to.  For money they will help you design it too.\r\n\r\nIf the goal is a laptop that runs Linux correctly the path is fairly simple.  Design a generic laptop by picking off the shelf subsystems known to have zero compatibility issues.  Ask the subsystem maintainers which chipset has the most stable support at the moment in the popular distributions and spec those parts, i.e. WiFi, ethernet, sound, video, etc.  Make a couple of simple variations in display, weight, battery, etc and have some boxes built.  Get a firm commitment that no component substituitions will happen without going back and ensuring compatibility.\r\n\r\nBuy some ads and sell some boxes.\r\n\r\nProfit.  Hopefully.\r\n\r\nIt doesn't have to be some \"Open Design\" debated for years by 'the community' who wouldn't be able to pony up the money to have a run made anyway, it needs an investor to see a market and sell a product into it.\r\n\r\nAny of the established design/marketing houses could do the exact same thing, but of course they won't for fear of Microsoft.  It means there is a market (small but probably large enough to support a lean outfit) that none of the established competitors can enter just waiting for someone to tap it.\r\n\r\nOutfits like Emperor do what they can with the stuff others make but they tend to end up loaded with proprietary crap that makes them brittle when upgrading or switching to a different distro.  Only a machine designed from the start to support Linux is going to do it trouble free.  But by the same token since ALL off the shelf components already support 'Doze a linux laptop would still have the option of dual booting.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'OLPC is the way to the Free Computer'
+    hostname: 213.86.197.188
+    created: '1166184454'
+    body: "The very reason for this culture of closed hardware is Microsoft uses this to pressurise OEMs to deny entry to competing products.\r\n\r\nCase in point - IBM OS/2. Why did it fail? Exactly 2 reasons:\r\n1. Drivers for hardware were hard to come by. You had to wait for IBM to write drivers because no vendor supplied native OS/2 drivers with their hardware. Why did this happen? Because Microsoft pressurised all hardware vendors to not build OS/2 drivers at the cost of losing the ability to write Windows 95 drivers.\r\n2. The IBM PC division suffered great losses in time to market because Microsoft refused to provide comparatively priced OEM copies of Windows 95. The impasse caused IBM to pay Microsoft huge fines and, despite this, receive OEM copies way after all other OEMs were shipping with Windows 95. Net result: IBM had to take huge losses.\r\n\r\nThe Free Software community should expect exactly this to happen. It is one way to raise the barrier to adoption and ensure that Microsoft Windows is what the typical OEM preinstalls on all shipped PCs.\r\n\r\nThere will be hardware that is designed around open specifications and standards of course. Network cards, USB mass storage devices etc. will remain supported because of they are built to open specifications and standards. However, there will also be hardware for which no standards exist. Support for these will always have to be reverse-engineered.\r\n\r\nThere are no easy ways around this. The Free Software community will have to continue reverse-engineering hardware after-the-fact and introduce support considerably later than Microsoft supports such hardware.\r\n\r\nThe OLPC is a huge move towards making a free computer a reality. The OLPC is also one platform that is, and will hopefully remain, free from Microsoft monopoly. Expect Microsoft to attack every country and educational organisation who adopts this. Expect Microsoft to throw all kinds of hurdles in the way of OLPC to slow/deter adoption. Even at this very moment Microsoft is working hard to get Windows to work on the OLPC.\r\n\r\nBecause what the OLPC means is a new generation of individuals no longer constrained by the Microsoft monopoly. These individuals will have grown up on Free Software, open standards and will have no Microsoft legacy to overcome. The OLPC is the ultimate weapon with the Free Software community.\r\n\r\nSupport OLPC with all you've got.\r\n\r\nSimply because our status-quo today has been cleverly engineered by a monopoly."
+-
+    name: ''
+    mail: ''
+    subject: '"unless of course you are'
+    hostname: 144.51.178.212
+    created: '1166189272'
+    body: "\"unless of course you are thinking that this could be a money making opportunity by undercutting the prices of M$ and Apple to obtain profits, in which case it's not really \"open\" anymore is it?\"\r\n\r\nMaking money doesn't make hardware or software open.  The FSF is adament about this.  Also re:  SuSe, Red Hat, Ubuntu (soon)"
+-
+    name: ''
+    mail: ''
+    subject: 'Don''t dream, act.'
+    hostname: 66.31.71.197
+    created: '1166197905'
+    body: "<p>   Opportunities are at hand for anyone who wants to help bring open design, open standard hardware to life.  All of the problems mentioned here are being worked on.  We can always use more help.</p>\r\n\r\n<p>   At the Open Graphics Project, we are now testing prototypes of our first real hardware product: the OGD1P Open Graphics Development board.  Want an FPGA-based board on which a production-ready graphics engine can be developed?  This is is it.  Leaders who can get noisy project members to bring their debate to a conclusion and settle on a decision?  We have grown them, as every successful open source project has had to.  License terms to balance the interests of the volunteer contributors with the businesses necessary to manufacture and distribute the products?  We think we have acceptable compromises that will do until someone devises something better.</p>\r\n\r\n<p>   Open hardware is in somewhat the same position as the GNU project was before the Linux kernel came along.  We have pieces, but not a complete set of pieces that can build a complete computer capable of running on its own.  That is the key milestone we must direct our efforts at.</p>\r\n\r\n<p>   At OGP, we know we can't solve all the problems ourselves, but we can contribute best by focusing all our attention on the task we've carved out, so that we can deliver a mature piece, ready for integration with the rest of the system -- whether the system is partly proprietary (for now) or fully open (when that becomes possible).</p>\r\n\r\n<p>   To anyone who wants open hardware, and isn't already working on it, I say join us, or join some other project that better suits your preferences and talents, or start a project for some important piece of the system that isn't already being worked on.  You don't even have to work on hardware; you can write the associated drivers and debuggers, you can write manuals and standards, you can research user needs, you can line up suppliers and manufacturers, you can maintain web sites and CVS trees, you can help figure out what license terms would work best for open-design hardware, you can get people to reach consensus and keep the project on track.  Wherever you decide to take a hand, you'll be helping all of us.</p>\r\n\r\n\r\n\r\n<p>Jack Carroll</p>\r\n\r\n<p>Member, Open Graphics Project</p>\r\n\r\n<p>www.opengraphics.org</p>"
+-
+    name: ''
+    mail: ''
+    subject: 'Linux Laptops'
+    hostname: 71.156.85.140
+    created: '1166200652'
+    body: "Goto Google and search for \"Linux Laptops\"\r\nI think you will find that their out there, finding them is the problem.\r\n\r\nJim"
+-
+    name: ''
+    mail: ''
+    subject: 'Nice idea, but...'
+    hostname: 204.176.13.6
+    created: '1166203967'
+    body: "The big issue isn't so much specifying things, it's getting a chip vendor to step up to the plate and support the product under Linux in addition to Windows.  Apple gets to do what they're doing because they get access to the critical programmer information for the parts or have the vendor supply drivers for them.  The biggest impediment in the case of laptops (and even desktops) is that they won't give out information or drivers to us.  Broadcom's a BIG offender in this realm, citing FCC requirements because of the software controlled radio modem.  This, is BOGUS, considering that we've got all kinds of open source drivers for Atheros, Ralink, and ZyDas WiFi chipsets- and they have the same concerns and they're open sourced.  And, don't get me started on 3D support or WinModems...\r\n\r\nIt boils down to you're going to need to get them to wake up or come up with your own silicon- which is easier said than done.  I'm not going to tell you you shouldn't try to do this (because this might just be the thing to wake up vendors...) but don't be surprised if it's not all one big uphill fight all the way to the first couple of product designs."
+-
+    name: kevindalvi
+    mail: ''
+    subject: 'Let''s make a list of people who are interested.'
+    hostname: 63.144.114.11
+    created: '1166208059'
+    body: "How about we make a list of people who are interested and get the ball rolling.\r\n\r\nPlease reply to kevindalvi at gmail dot com or just reply to THIS post if you are interested.\r\n\r\nOnce we have the list, we can proceed to the next step which would be determining exactly what needs to be done followed by research and reality checks. \r\n\r\nLook forward to hearing from all of you!\r\n\r\nKevin Dalvi\r\n<a href=\"http://www.reelnow.com\">www.reelnow.com</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'Self-build kits'
+    hostname: 86.139.123.55
+    created: '1166251066'
+    body: "Perhaps many would like to build our own Linux PCs but would like to be sure that they will work before buying the components and may not have the time or knowhow to research the compatibility of each item for ourselves. So I suggest some standardised designs and possibly enough organisation to allow some bulk purchasing of components to bring the prices down. I think community projects working with young people - getting them into work and so on - might pick up on it - small scale assembly of PCs for community and individual use, learning some skills and so on.\r\n\r\nThanks for raising the subject - have been thinking about this for a while. Andrew"
+-
+    name: ''
+    mail: ''
+    subject: 'Free wheels'
+    hostname: 72.177.34.169
+    created: '1166293830'
+    body: 'After the free computer I would like to have a free car.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Manufacturing services'
+    hostname: 68.93.224.4
+    created: '1166329151'
+    body: "There is a common myth that \"hardware can't be free because it's not zero-cost to replicate\", but the truth is that this confuses two issues which can be separated: the engineering design process (which certainly can be free, since <em>designs</em> are software) and the manufacturing process, which does indeed have costs, but they are much lower than the monopoly-based pricing of non-free designs.\r\n\r\nIn fact, the processes that manufacture consumer electronic components are essentially printing processes: lithography and etching (for both chips and PCBs), and assembly is highly automated with pick-and-place robots and oven-based soldering (for surface mount components). In fact, much of the cost savings associated with SMT manufacturing is precisely that it is easier to do with automated equipment (than \"through-hole\" PCB assembly).\r\n\r\nThe critical question for free-hardware manufacturers to ask is simply this: how much does it cost to tool-up for a run of parts? This translates to the impact on your margin for short runs, as you will expect with a product which initially reaches only a small market. Or in other words, it tells you how much of a premium you're going to have to charge customers for the short run; or how many customers you need to have lined up in order to make a run profitable at a given price.\r\n\r\nThis is a <em>very</em> different question from what it costs to <em>engineer</em> a new product, and that cost is substantially reduced (possibly to zero) by commons-based peer production, facillitated by free-licensing the design.\r\n\r\nThe impact of hardware replication cost on <em>engineering</em> comes down to this question: \"what will I have to spend on the manufacturing costs of engineering prototypes in order to test my design?\" For well-understood technologies such as computer equipment, where the principle concern is the complexity of the design, rather than fundamental unknowns in the technology, the answer is \"not much\", because good simulators exist which can be relied on to thoroughly predict the behavior of important categories of equipment.\r\n\r\nIt's more of a problem for emerging technologies and \"big hardware\". E.g. it will be a considerable problem for a new airplane or spacecraft design, because you're going to have to actually build and fly prototypes that may cost anywhere from $100,000 to $100,000,000 to build.\r\n\r\nBut for computers? It's not so bad. For the Open Graphics project, the group has decided to build a series of boards with FPGA (Field-Programmable Gate Arrays -- this is sort of like a flash memory that encodes a working logic circuit instead of data) chips on them, that they can use to implement their gate-array design for the graphics processor. They are getting a short run of these made, and the individual cost will be approximately $1000.\r\n\r\nOnce this stage is complete, they expect to do a much larger run of ASIC (Application Specific Integrated Circuit -- a fixed logic circuit that can be easily customized for short run replication, but can't be re-programmed after manufacture. It's possible and common to have an ASIC implement a circuit prototyped in an FPGA) chips, and manufacture boards for consumer sales. These will be much more competitively priced (in principle, they could be cheaper than proprietary competitors, though in practice the premium due to manufacturing in short-runs will probably drive the cost higher).\r\n\r\nThere's no reason to believe that the situation will be very different for any other subsystem you commonly find in computers. Everything from motherboards to hard drives is subject to pretty much the same kinds of manufacturing considerations.\r\n\r\nAs with software, you will find a number of motivations for people to be involved in the engineering process of these product designs. One factor is customer-participation (\"I need it, therefore I will help design it\") or \"scratching an itch\". Another is the potential to make money from the manufactured components (even with free design, manufacturers involved in the engineering process will have a market advantage). Yet another comes from talented people who want to demonstrate their skill or who feel a desire to see the technology liberated.\r\n\r\nOnce the design is available, though, manufacturing is a no-brainer. It's obviously cheaper to manufacture an existing design, especially if there are no licensing fees, and so the short-run issue is really your only problem. As the manufacturing technology becomes more flexible, it becomes increasingly profitable and as the tooling costs drop, there will be more potential manufacturers. So, at some point, it's inevitable that we'll see open hardware based on free-licensed designs marketed and sold.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Wow!
+    hostname: 203.211.151.251
+    created: '1166405102'
+    body: 'The idea in this article is exactly what I have in mind on solving the nagging issues of compatibility. I also understand the concerns some of the writers above wrote on the cost of producing hardware. But I think it possible to reduce the cost if we can get enough demand. I feel that any hardware manufacturer can be persuaded to produce open-hardware if the community can put down a pre-order big enough to convince it of a market.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Irony or not?'
+    hostname: 68.93.224.4
+    created: '1166467210'
+    body: "I can't tell whether you were trying to be sarcastic, but the truth is that a free car is quite a feasible goal. This may be important in breaking through some of the obstacles that exist in innovating newer, greener, more efficient cars.\r\n\r\nUnfortunately, due to regulatory considerations and the corporate politics of existing auto manufacturers, there is extremely little innovation going on in automotive design, despite the fact that our present technology is far behind where we need to be to encourage more sustainable development.\r\n\r\nIn some parts of the world, people can simply forgo cars, but I live in a part of the USA where that's just not realistic. Some kind of independent transportation is essential, and I think the answer isn't ‘no cars’, but rather ‘better cars’ (meaning safer, more fuel efficient, and non-polluting). I also think it's technically possible, but it's unlikely to happen in the next 50 years if mass-market auto manufacturers are the only ones supporting innovation.\r\n\r\nAnyway, I'm digressing a bit. The point is that, unlike spaceships or airplanes, prototype cars are generally cheap enough to build that upper-middle class individuals or small groups of lower-middle class individuals (e.g. students or club members) could build them. There are plenty of racing teams in Texas (where I live) that have all the necessary skills, equipment, and materials to do it.\r\n\r\nYou just need to find one interested in open hardware.\r\n\r\n[EDIT: I should just add that I do not mean zero-cost cars. Free cars will probably cost a bit more than proprietary ones for quite some time, even once they become available. The cost to build issue is relevant to engineering a free design, because you must build prototypes]\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Controlled hardware doesn''t have to mean open hardware.'
+    hostname: 82.112.148.167
+    created: '1166484403'
+    body: "You can gain the benefits of controlled hardware by simply controlling the buyers choice of hardware (voluntarily of course).  If you limit the choice to mass-produced Windows compatible hardware then you keep the price down too.  This is exactly what Apple have done during the move to Intel CPUs.  \r\n\r\nIt would be interesting to ask Asus (who I think make the MacBook) if they have an exclusivity agreement with Apple.  If they don't then we could try asking for the full hardware documentation, or at least some assistance perfecting open source drivers, so they could sell more Laptops. \r\n\r\nA fully open hardware architecture would be nice but as all those already working on open hardware (and BIOS etc.) will tell you, that's a long way off. \r\n\r\nGetting good open source drivers for the excellent Apple hardware achieves everything we need today and if you can buy that same hardware direct from the manufacturer then it should be a lot cheaper than the equivalent Mac model.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Open source bios ..'
+    hostname: 171.21.80.126
+    created: '1166538266'
+    body: "An OSS bios .. Like linuxbios you mean?\r\n\r\nhttp://www.linuxbios.org/Products\r\n\r\n:-)\r\n\r\nAs for the 'unwilling to cut corners' bit - I'm unconvinced that is the problem. Stories I've heard in other places suggest it's the fact that (embedded) manufacturers have lawyers skittish of OSS development practices and a (misplaced) sense of proprietary software giving them a business edge that is causing a lot of hardware to have proprietary bits attached to them."
+-
+    name: teotwawki
+    mail: ''
+    subject: 'Controlled hardware doesn''t have to mean open hardware'
+    hostname: 213.167.69.132
+    created: '1166626781'
+    body: "The above was me - no longer an \"Anonymous coward\".\r\n\r\nWhatever you do will be insignificant, but it is very important that you do it. Change will happen. Gradually, then suddenly.  (Gandhi/Hemingway)"
+-
+    name: ''
+    mail: ''
+    subject: 'Couldn''t we just do a specification'
+    hostname: 68.160.245.60
+    created: '1166817404'
+    body: "Instead of actually manufacturing the Open Desktops, couldn't we just write up a specification?  List out the parts and call it Open Desktop Specification 1.0, and then let the many thousands of PC venders sell it?\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Great
+    hostname: 200.97.218.247
+    created: '1167342904'
+    body: 'It is a great oportunity to enhance the quality of harsware also. There are some terrible hardwares on market.'
+-
+    name: cantormath
+    mail: ''
+    subject: 'Dont blame *NIX for your laptop not working'
+    hostname: 68.111.49.87
+    created: '1169964440'
+    body: "The reason your laptop does not work is because the hardware companies refuse to support Linux.  This is a simple task that companies like ATI refuse to take upon themselves.  ATI actually provides drivers for their hardware that will not work properly under linux.  ATI recommends you not use their drivers, for their own hardware, when using linux, unless there is no other choice. \r\n\r\nIf you use linux, you need new hardware less often, if you use Vista, you need to go out and buy a new computer.\r\n\r\nhere is the new approach..\r\nhttp://en.wikipedia.org/wiki/Open_hardware\r\n\r\nEither use open source hardware or buy from hardware folks that support linux(NVIDIA).  This is the most important issue having to do with linux today in regard to Linux becoming the main Desktop platform.\r\n-- \r\n\"As we open our newspapers or watch our television screens, we seem to be continually assaulted by the fruits of Mankind's stupidity.\"\r\n-Roger Penrose"
+-
+    name: ''
+    mail: ''
+    subject: 'Open Hardware Conference-Camp'
+    hostname: 169.232.212.227
+    created: '1170976568'
+    body: "Hej,\r\n\r\nthis is a pre-call for an open hardware conference-camp to happen in Zaragoza, Spain, in Novemeber later this year. The Society for Free Cultural Innovation - Gohan, will host this event that will invite designers, engineers, etc to team up and build up computers together. We expect to have two different development lines:\r\n\r\n- microprocessor based computers\r\n\r\n- FPGA based computers\r\n\r\nFollow <a href=\"www.gohan.cc\">www.gohan.cc</a> in the following weeks or send an email to <strong>info [at] gohan.cc</strong> if you want to get further information as soon as we have it available.\r\n\r\n/David@gohan"
+-
+    name: ''
+    mail: ''
+    subject: 'this is new'
+    hostname: 61.1.221.230
+    created: '1175446409'
+    body: 'it is good to know about softwares and its usage'
+-
+    name: ceasarrr
+    mail: ''
+    subject: Delinx
+    hostname: 90.128.243.21
+    created: '1180428856'
+    body: "Well??? \r\nIts not Free. And not Open.\r\nBut most Linux people seem to be pleased,now Dell is taking the step to sell Linux preinstaled computers. \r\n And sure, fore Dell it will be to make profit out of it. But the standard computer user now can profit from Dell. OK again you have to pay something for the extra suport. Only this suport you can realy call on the moment you are haveing a problem. You do not have to sit and wait for some help. \r\n This can be a big step. With more people useing Linux the bigger the comunity can grow. Right now Linux can use Dell, to grow. And then.......O no I am dreaming again....Delinx.\r\n  Where did I see that???\r\n \r\n http://linux.dell.com/        \r\nyep,I know its a Dell page. Well....:\r\n\r\n http://www.ubuntulinux.org/   \r\nThat one is not.\r\n\r\n NotOpenNotFreeMaybe THE Beginning?\r\n "

@@ -1,0 +1,14 @@
+-
+    name: kornelix
+    mail: ''
+    subject: 'Your Review of Fotoxx'
+    hostname: 217.87.202.228
+    created: '1432628334'
+    body: "This is from the author of Fotoxx.\r\n\r\nThanks for the review, even though some of it was quite critical. I have long sought to improve the user interface and can use all the feedback I can get. The Fotoxx UI seems to provoke two kinds of response: love it or hate it. I think the bad reactions are caused by the following: (1) Fotoxx is unconventional and does not behave like users expect. (2) Users do not RTFM and instead plunge in without a clue. (3) Real interface design problems caused by me. I believe the program functions well when the user understands how to use it (i.e. overcomes my design problems via RTFM). The solutions that you suggested would ruin the program as it was designed to be used. There is a video tutorial on the Fotoxx home page that would hopefully clarify this (google \"fotoxx\").\r\n\r\nThere are certainly many things that can be improved, including the file indexing function that frustrated you (the confusing dialog text will be improved in the June release). You complained that the indexing process was not monitored, but that is not correct. The total image file count is output at the start, and the count of completed images is updated continuously. If you kill this process the program terminates because Fotoxx is useless if this process does not complete (the gallery pages will be very slow and the image search functions will not work at all). Fotoxx is not only an image editor, but also a collection manager, with extensive functionality to organize and search photos by all conceivable criteria. You can generally find all images meeting your criteria in a few seconds. That is why the indexing is there. \r\n\r\nThe undo/redo button has a popup text that clearly states that undo is left click and redo is right click - one of many unconventional quirks a user must get used to. \r\n\r\nYou mentioned a crash when trying to use the maps function (presumably the optional maps were not installed). This should not happen of course, and I have not been able to make it happen, so any details of what you did would be appreciated. \r\n\r\n"
+-
+    name: admin
+    mail: ''
+    subject: Thanks!
+    hostname: 151.76.244.97
+    created: '1433077246'
+    body: "Hi there,\r\n\r\nFirst of all, thank you so much for the response!\r\nI got in touch with you by email. Richard Miller, one of your users, encouraged me to get in touch and tell you what I thought was necessary, as you are very responsive.\r\nSo, I spent a couple of hours working with the program, and writing an initial list of things -- in my opinion the biggest ones -- that create problems to start with.\r\n\r\nLet me know!\r\n\r\nMerc."

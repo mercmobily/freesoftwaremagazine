@@ -1,0 +1,14 @@
+-
+    name: ''
+    mail: ''
+    subject: 'add this to the GNU website'
+    hostname: 66.151.227.20
+    created: '1168371900'
+    body: "Hi,\r\n\r\nThe GNU website hosts many transcripts of RMS's speaches.  This would be a nice addition!\r\n\r\nplease consider writing to webmasters@gnu.org to get this included.\r\n\r\n"
+-
+    name: 'Ciaran O’Riordan'
+    mail: ''
+    subject: 'already working on it, in the mean time, see...'
+    hostname: 83.217.158.46
+    created: '1168427135'
+    body: "<p>I'm working with the GNU webmasters to update and improve the listings of recordings and transcripts.<p>\r\n\r\n<p>In the mean time, here's the list I've been maintaining:<br />\r\n<a href=\"http://ciaran.compsoc.com/texts/\">http://ciaran.compsoc.com/texts/</a></p>\r\n\r\n<a href=\"http://fsfeurope.org/projects/gplv3/\">GPLv3 - strengthening free software</a>"

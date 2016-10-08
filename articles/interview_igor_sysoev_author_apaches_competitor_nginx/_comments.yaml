@@ -1,0 +1,7 @@
+-
+    name: petermolnar
+    mail: ''
+    subject: nginx2
+    hostname: 80.98.18.112
+    created: '1325885326'
+    body: "It was interesting to read, but I really wouldn't like to see mod_php for nginx. \r\nI think PHP-FPM cannot be beaten and it is also going to be the part of PHP6. \r\n\r\nAs for the sake of god, please don't change the syntax of the configs, this is one of the most easier to config softwares in the jungle :)\r\n\r\nI'm really looking forward for SPDY and websockets."

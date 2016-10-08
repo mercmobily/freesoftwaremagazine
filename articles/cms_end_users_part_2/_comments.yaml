@@ -1,0 +1,14 @@
+-
+    name: ''
+    mail: ''
+    subject: '"How do I choose the CMS?"  My answer: cmsmatrix.org/'
+    hostname: 75.71.250.126
+    created: '1167590766'
+    body: '"CM Pros, a community of content management professionals, is developing a database of CMSs and their features to help narrow down the search, but ..." vaporware doesn''t help today.  A free comparator is now available at http://www.cmsmatrix.org/'
+-
+    name: marienoelleb
+    mail: ''
+    subject: 'Technical problems are not the most important ones'
+    hostname: 81.221.195.112
+    created: '1167690508'
+    body: "Selecting a WCMS for a company, an administration, an non governmental organization or a smaller associative group is fundamentally a computer projet as many others. The main problems are around the objectives and priorities of the project, about the business requirements, about the team managaging the project, about the budget and the deadlines.\r\n\r\nIt is fundamentally important to clearly understand what type of content an organization wants to communicate, which style of communication it is using and then to determine what ressources are available for the project. Having a plan very clear at this level is absolutely essential. If it is the case, it is possible to rely on existing evaluations, like the one of cmsmatrix in order to shorten the selection of an appropriate solution. If the initial plan is clear and solid, then it is likely that an appropriate solution will be selected. Then, technical problems will have solutions. \r\n\r\nI am however a bit surprized by the WCMS quoted by the author of this article. The WCMS module of Alfresco is not yet released, and it is clearly aimed at electronic commerce (from an oral comment of John Powell who visited my employer), which means that it is quite specialized, at least for the next 12 months. OpenCMS, which is a very powerful J2EE based WCMS (and which has been used, for example by EADS) is listed on the same category than Joomla and Mambo. A very popular entreprise WCMS like TYPO3 is not even mentionned. \r\n\r\nThere is another aspect of the problematic which is not even mentionned by the author. Organizations are progressively integrating their various content management solutions into an Entreprise Content Management facility. Content published trough a WCMS is certainly part of this evolution. This is why the integration between the WCMS of an organization and its Electonic Content Management solution is becoming increasingly important. Although it is not yet mature, this may be a reason why Alfresco will become a very significant actor in this domain in 2008-2009.\r\n\r\nMarie-Noëlle Baechler\r\nBelmont-sur-lausanne / Suisse\r\n"

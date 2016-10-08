@@ -1,0 +1,21 @@
+-
+    name: Alexwebs
+    mail: info@freedownloadpadfileurlsitesubmit
+    subject: 'Thank you so much for your help and for your efforts.'
+    hostname: 69.250.17.183
+    created: '1192063500'
+    body: "Actually one of my friends first read this article and asked me to visit this page. This article has very useful information, it will be helpful for many. It’s really amazing to read this description of this article. Thank you so much for your help and for your efforts.\r\n\r\nThanks,\r\nAlex\r\n\r\n"
+-
+    name: 'Gary Trickett'
+    mail: tricketg@uk.ibm.com
+    subject: 'Thanks muchly'
+    hostname: 212.139.95.142
+    created: '1196430534'
+    body: "Ubuntu 7.10 Gutsy\r\n\r\nIBM T43p Mobility FireGL V3200 \r\nCompiz no joy with Restricted Driver (aka ATI), composite extension unavailable - too slow and prone to lock ups with default driver.\r\nbut... \r\ninstall restricted driver (I had it installed with no desktop effects)\r\nreboot\r\ninstall xserver-xgl with Synaptic Package Manager.\r\nMessage from package manager saying on restart new xserver will be used\r\nNOTE I performed no other modifications to the system, re shell scripts or configs\r\n\r\nreboot or restart X server, enable desktop effects\r\nHey Presto...\r\n\r\nit works...fast, no lock ups - the biz.\r\n\r\nThanks again..\r\n\r\n"
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'Ah well....'
+    hostname: 68.197.66.72
+    created: '1197556676'
+    body: "Ah, but you used the new Gutsy, which has that nice little feature. In Feisty, it wouldn't work.\r\n\r\n--\r\nAndrew Min\r\nhttp://andrew.timstown.net/"

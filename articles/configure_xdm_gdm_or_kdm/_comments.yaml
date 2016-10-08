@@ -1,0 +1,35 @@
+-
+    name: mjjzf
+    mail: ''
+    subject: SLiM!
+    hostname: 195.50.35.4
+    created: '1205486160'
+    body: "One might consider playing with SLiM:  \r\n=> [http://slim.berlios.de/](http://slim.berlios.de/)\r\n\r\nIt is very easy to set up the way you'd want to. The homepage features documentation on making themes, but the theme files are human-readable and rather straightforward to edit.\r\n\r\n[Edited to make link live)"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'KDM and default environments'
+    hostname: 217.28.34.132
+    created: '1207595856'
+    body: "Great post Terry.\r\n\r\n> There are some faults, of course: kdm, unlike gdm does not give you a choice of default desktop environments to bring up—you’re stuck with KDE, though you can still switch the environment on each login.\r\n\r\nYou might like to have a look at KDM themes. With these you usually get a session menu which allows you to choose an environment (which can be set to be \"sticky\".\r\n\r\nKDM themes are a little trickier to create but - in true KDE fashion - you can customise pretty much everything including the splash you get while KDE loads. If I get a moment I'll post a piece on creating one. In the meantime check out the [KDM theme manager](http://www.kde-apps.org/content/show.php?content=22120). Don't install from there though: there are Debian packages for it (kdmtheme) and KDM themes (kde-kdm-themes).\r\n\r\ncheers\r\nRyan"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Desktop environments, not themes'
+    hostname: 68.93.224.4
+    created: '1208145397'
+    body: "I was referring to the ability to set the manager to log into a \"desktop environment\" (e.g. \"Gnome\", \"KDE\", \"XFCE\", etc), not a particular theme within KDE.\r\n\r\nKDM (v3.5.5 anyway) always defaults to KDE, although you can switch to Gnome on each login if you want.\r\n\r\nBy contrast, GDM Is agnostic -- you can set its default to whichever environment you want. As I mentioned, this is a non-issue for me, since I do want KDE to be the default, but obviously Gnome users would find it annoying."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: '*KDM* themes not KDE themes'
+    hostname: 212.159.106.192
+    created: '1208203819'
+    body: "I was also referring to desktop environments but also to _KDM_ themes not KDE ones.\r\n\r\nKDM themes are more than just window dressing for the standard KDM login dialog. They enable you to completely define what is shown and what it does. Some of them have controls for setting the defaukt environment (IIRC).\r\n\r\nIf you want to take a look, install the kdmthemes package and have a look at /etc/kde3/kdmrc. In there you can enable themes and set your chosen one. You'll see that it overrides what is defined in KControl. The kdmtheme-manager is a KControl plugin from which you can set a theme for KDM.\r\n\r\nBTW: My default Debian install of KDM will keep the previously chosen desktop environment (KDE, XFCE, GNOME, IceWm etc.) as the one to use next time. I'm using it with XFCE on this machine, although IceWm is installed as well. Does yours not do this then?"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Hmm.
+    hostname: 68.93.224.4
+    created: '1208386655'
+    body: 'Okay. I may have to do some tests with it, then.'

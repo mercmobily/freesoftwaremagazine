@@ -1,0 +1,28 @@
+-
+    name: Papa
+    mail: ''
+    subject: 'The First Step'
+    hostname: 63.238.104.170
+    created: '1168979725'
+    body: "Anyone who reads the Free Software Magazine knows _where_ the journey is headed.  I believe the stumbling point is more a matter of 'how to take the first step'.  It is all too easy for experienced GNU/Linux hands to say, \"Just get yourself some [Distro of Choice] and start saving a bundle of money, not to mention trees and dying PCs.\"\r\n\r\nWell, that just ain't so, as we say here in the wilds of western Kentucky.  Follow the intricately interwoven plan to see how one instance of GNU/Linux was supported by Management...\r\n\r\n 1.) Demonstrate the need to upgrade an existing SQL server.\r\n 2.) Acknowledge that hardware costs are a constant (Server class machine, RAID 5 storage.)\r\n 3.) Acknowledge that Redhat Linux and Postgresql are very cost effective alternatives.\r\n 4.) Acknowledge that \"we\" can always pay full price for the BigNameSoftware (BNS) version of Server and SQL Server.\r\n 5.) Suggest that if the very low cost GNU/Linux alternative actually doesn't work then it is a simple matter to put BNS software on the same hardware and just 'pay the price'.  (Special Note: Management is willing to take risks _if_ they can be assured that an iron-clad fall-back position is guaranteed.)\r\n 6.) Implement the GNU/Linux and Postgresql solution.\r\n 7.) Remind Management (gently) how really cost effective this solution is.\r\n\r\nPractically demonstrating cost-effectiveness while maintaining a 'traditional' fall-back position is the key to convincing Management of the value of FLOSS.  Let's face it, todays business environment is not resistant to change.  It is however, very uncomfortable with the prospect of failure.\r\n\r\nMy next big 'problem' is getting Management to cut the 'voluntary donation' check to cover programming essentials (Pizza & Beer) for the good folks at Postgresql.\r\n\r\nWilliam \"Papa\" Meloney\r\n\r\nShameless plug: http://pa-2-linux.blogspot.com\r\n"
+-
+    name: dfego
+    mail: ''
+    subject: 'Not GNU/Linux Per Se...'
+    hostname: 161.253.8.223
+    created: '1169004511'
+    body: 'I think that perhaps the savior in this situation isn''t really GNU/Linux itself, but rather computer users who are technically savvy or have a desire to learn a bit more about computers.  Sure, LiveCDs make it easy to make it all happen, but really, that old hardware finds itself being used by someone who had use for it (and who would be seeking it out) anyway.  So yes, indirectly, GNU/Linux''s increasing ease of use can help extend the lives of computers otherwise left for dead, but it''s still going to be those people willing to go the extra mile that make it happen, and the percentage of those who both have the will and corresponding motivation to get it done are probably rather low.'
+-
+    name: ''
+    mail: ''
+    subject: 'Apology accepted'
+    hostname: 142.58.74.185
+    created: '1169192658'
+    body: "Beowulf is actually pretty cool.\r\nEspecially if you don't think of it as \"literature\".\r\nI mean, come on, it's about where this monster is coming and killing people every night and it's, like, immune to weapons so it keeps on terrorizing the place for ten years until this hero comes and *wrestles* it, and he rips its arm off!\r\nAnd then when the hero is way older and he's a king, someone steals something from a dragon's treasure, so the dragon gets pissed off and comes burning everything in sight.  And so the hero (being older and a bit more careful and wily) figures that if he goes after it straight he'll get burned to a crisp--so he has a special big heavy all-metal shield made that he can hide behind.  And so he goes with his top guys to kill it--but he tells them to stay back, because as the king it's his problem.  And most of them do, they're like scared spitless of the dragon.  But one of them says hey, I'm supposed to be this guy's warrior and protect him, no way am I going to hide while he gets himself killed.  So he goes in there and helps out, and between the two of them they do in the dragon, but the king gets killed.  The guy with guts enough to help inherits the kingdom.  The end.\r\nIt's like a blockbuster ultraviolent movie from the ninth century.  Sure, maybe the critics turned out to like it in the end too, but basically it's about totally kickass guys wrestling monsters."
+-
+    name: ''
+    mail: ''
+    subject: 'Hey! I liked Beowulf too!'
+    hostname: 63.203.90.194
+    created: '1169265180'
+    body: "Read it in the Seamas Heaney translation (actually, by the middle I was reading it in the Olde English-- even though it initially seems even more foreign than Latin). I'm looking forward to the <em>upcoming</em> movie version, written by Sandman's Neil Gaiman.\r\n\r\n"

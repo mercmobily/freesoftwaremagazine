@@ -1,0 +1,105 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'It''s the desktop'
+    hostname: 68.116.159.234
+    created: '1264616135'
+    body: "As more people use Linux for \"desktop\" and \"workstation\" applications, more of them are going to care about \"features and safety\" than about \"reliability and efficiency\".\r\n\r\nI use GNU/Linux primarily as a desktop (or a workstation -- the distinction is kind of subtle). Most of the time, I don't really care if I have to reboot once in awhile. I know we razz Windows for this problem, but is it really that much trouble?\r\n\r\nIt's not if I'm the only one using it. And if ferreting out whatever has actually gone wrong is going to take more time than rebooting, I'll sometimes just hit the power button and wait through all of the obligatory filesystem repair work that has to go on in the next boot. So what? You never lose files that weren't open anyway (well, hardly ever, anyway).\r\n\r\nOn the other hand, if I can't get my graphics card or sound card to work right, I'm totally screwed. My worries are over things like finding an OpenGL-capable 3D-accelerated graphics card that will work adequately with free-licensed drivers. That's not just because I'm ideologically opposed to closed source drivers (though I am), it's also because they're just so much of a pain  in the neck to install -- and some of them, like NVidia's, are notably buggy and cause my system to crash frequently enough to be really annoying.\r\n\r\nOf course, there will continue to be GNU/Linux distributions optimized for servers, and there are always the various versions of BSD Unix to choose instead.\r\n\r\nSo, I'm not entirely sure this is a bad trend. GNU/Linux is starting to look a little more like Windows and Mac, because it's trying to do the same things. And like them, GNU/Linux can stand some bloat for these kinds of applications.\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'A precision on nice'
+    hostname: 86.76.74.203
+    created: '1264668430'
+    body: "It seems a comment/addendum I tried to do yesterday got scrapped. So I'll repeat it.\r\n\r\n'nice' defines how high the priority of a Linux process: the lower 'nice' is, the higher the process' priority. 'nice' means how nice a process is to others. I didn't make that distinction explicit in the post, so here it is.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'That''s the point'
+    hostname: 86.76.74.203
+    created: '1264669126'
+    body: "I also use GNU/Linux full time: workstation, entertainment, and gaming (I use Wine). And it can, indeed, happen that the system hangs due to driver errors.\r\n\r\nMost of there errors can be tracked back to the only non-Free driver I use: AMD's fglrx. It's been a long time since any ALSA driver got wonky (I did say ALSA, not PulseAudio, which is another matter), and I won't mention the network driver: ever since Nvidia decided to directly support forcedeth, I've been network-related problems free, be it on AMD, Intel or Nvidia hardware. USB problems also disappeared since the last USB stack rewrite. I have yet to test the 1394 driver, but I've heard nothing but good stuff about it.\r\n\r\nWhen it doesn't downright crash, I find it faster and safer to switch to init 1 (single user mode, all services stopped) and rmmod fglrx (it worked when I had nvidia, too) then go back to init 5.\r\n\r\nNo, what's left are, as you said, graphics drivers. And I can't wait and test Gallium3D drivers for Nvidia and AMD!\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Ctrl-Alt-Backspace
+    hostname: 68.116.159.234
+    created: '1264702907'
+    body: "Actually, I find most graphics hangups will get fixed by just resetting the X server (which has \"Ctrl-Alt-Backspace\" as a hot key combination on my Debian system).\r\n\r\nThe cold boot approach is only for when that doesn't work, which does occasionally happen."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Hmm - not by humans'
+    hostname: 62.140.212.3
+    created: '1264758155'
+    body: "As an established user your comments should go through withotu approval so the scrapping wasn't done by a human. is it possible you clicked Preview and then navigated away (thus not submitting the comment)? I've done that a few times.\r\n\r\nRyan\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Yes, a human: me!'
+    hostname: 86.76.74.203
+    created: '1264761136'
+    body: "Just as you said, I probably merely hit 'preview'. So it got scrapped - by me. Sigh.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Indeed, but sometimes it needs a harder nudge'
+    hostname: 86.76.74.203
+    created: '1264762348'
+    body: "This is true for FOSS drivers and proprietary ones alike: sometimes, the kernel module gets its bits in a knot, and needs unloading (something that ctrl-alt-backspace, or a Xorg restart) doesn't cause. And it sometimes complains that it is still in use, so I may need to switch to single user mode and unload most processes in order to unload it.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Ah man, I knew I was forgetting something...'
+    hostname: 84.100.56.158
+    created: '1264786992'
+    body: "Why is it that I mentioned ext4, and ended up mentioning NTFS-3G instead? Simply because ext4 wasn't the most counterproductive example I could find, and I tested its latest build while I wrote that piece - and forgot to come back and correct it.\r\n\r\nStill, what I intended to say is, recently ext4 got a bad performance regression - one that related to a problem that is also susceptible to happen on ext3, and which may cause corruption at inopportune times. Barriers.\r\n\r\nOn Linux, barriers are used to prevent any data from being sent to the disk drive while it is flushing - as in, committing every operation it has been sent. The reason why is because, with more drives using NCQ, there is a chance that the journal could be written to disk, data would be too, and the journal closed (data committed) - but if the drive reordered its operation, putting the actual data's commit AFTER the journal has been closed, and the disk crashed before that was actually the case, then the journal wouldn't match what is actually on the drive! for more information on barriers, read this rather old, but very relevant, piece: http://lwn.net/Articles/283161/\r\n\r\next3's default behavior is to mount with barriers disabled; on ext4, due to it very recent, that behaviour was changed recently so that it defaulted to enabled. Resulting on a huge performance drop on intensive, small writes requiring many sync() - such as databases (PostGreSQL got a 82% performance drop!).\r\n\r\nRight now, developers work at reducing that huge performance loss (by making barrier calls less necessary), but this is indeed an illustration as to how reduced performance may actually come from improved reliability.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'And in other news...'
+    hostname: 86.76.74.241
+    created: '1267437454'
+    body: "[Phoronix](http://www.phoronix.com/scan.php?page=article&item=linux_2624_2633) just ran a series on benchmarks on all kernel versions since 2.6.24 to 2.6.33 (meaning, on 2 1/2 years of kernel releases).\r\n\r\nIt appears that several regressions were fixed in 2.6.33, and performance actually got BETTER across the board - or didn't change, except in database-based scenarii. Pure CPU-based benches either stayed stable or improved some - or greatly.\r\n\r\nIt would seem that barriers were enabled one ext3/4 file systems, resulting in very slow commits. However, caching seems vastly improved.\r\n\r\nLinux might be getting bloated, but it seems performance isn't a problem yet.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: Pantherman
+    mail: ''
+    subject: 'Being a Debian user myself,'
+    hostname: 68.73.214.65
+    created: '1267638235'
+    body: "Being a Debian user myself, I've not encountered that many problems with the OS itself. I still think that it is more stable than XP. (I was getting the BSOD on a regular basis in the end). \r\n\r\nI'm willing to put up with some \"slowness\" of the system as long as it remains a stable system. I'm just a \"typical\" end user, I do no programming or anything special with Linux aside from internet use and e-mail and the like. I tried re-compiling the kernel a few times to see if I could make it faster and just reverted back to the normal kernel mostly because I didn't really see any improvement, and I lost some functionality in one instance. \r\n\r\nI however, can't attest to the longevity of my computer's up-time. Per the family's request all computers are shut off at night when not in use. "
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"can''t attest to the longevity of my computer''s up-time"'
+    hostname: 68.116.159.234
+    created: '1268718823'
+    body: "I can.\r\n\r\nMy desktop system has run for as much as several months without rebooting before, under moderate use.\r\n\r\nNow I have had to reset the X-server a few times during that time, and there have been some dicey times with particular pieces of equipment or software that caused me to have to reboot multiple times in a few days, but under normal use, uptimes of multiple months are common.\r\n\r\nFrankly my electricity is less reliable than my operating system. ;-)\r\n\r\nSo when we're talking about decreased reliability, we're talking about \"compared to server Linux or Unix systems\" not \"other desktop operating systems like Windows or Mac\".  In other words, we're really spoiled. :-)"
+-
+    name: sam_tuke
+    mail: ''
+    subject: 'implementation agnosticism'
+    hostname: 78.33.217.161
+    created: '1269269913'
+    body: "My understanding of the kernel is limited, however it seems to me that the kernel must remain independent of the needs of specific implementations of it in order to continue to  fulfill its myriad of roles. That is to say that the kernel is a critical part of any GNU/Linux OS and so its important that it does not reflect the needs of one particular type of implementation, such as workstations rather than servers or embedded devices, but rather remains agnostic to any given type of implementation. As I understand it, the legendary scalability of GNU/Linux was not built upon technical decisions made to reflect one particular deployment environment.\r\n\r\nIf the trend is currently that the kernel is moving to reflect desktop needs rather than server or embedded needs, then it does seem to me that we have a serious problem on our hands that is likely to develop into a time bomb (as this doesn't seem like the kind of trend that will easily reverse itself, particularly as GNU/Linux is currently seeing most growth in desktop/workstation markets).\r\n\r\nSo to the experts I put the question: is the Linux kernel becoming less lean and efficient because of a trend towards desktop hardware compatibility over server stability and efficiency, as this article seems to suggest? I don't see that the recent phronix testing sheds any light on this issue as it is purely comparative and does not isolate kernel specific performance."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Modules
+    hostname: 68.116.159.234
+    created: '1270048703'
+    body: "I think we're mostly talking about the effect of various collections of modules. Since these generally aren't used in server or embedded applications they don't have much impact on those uses.\r\n\r\nIOW, I think we're talking about the characteristics of the delivered builds of Linux as included in distributions, not Linux itself."
+-
+    name: Pantherman
+    mail: ''
+    subject: 'Linux Kernel'
+    hostname: 70.226.121.73
+    created: '1270058658'
+    body: 'Really? because I too got the impression that the kernel itself was what was being called "bloated", rather than the distributions. '
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Modules and kernel'
+    hostname: 86.76.74.211
+    created: '1272637192'
+    body: "Modules are part of the kernel, inasmuch as they ship with it. Distros may add some modules not included in 'vanilla', or include 'staging' drivers, but a module is part of the kernel in any case. And distributions will, by default, ship with most modules compiled and ready for loading.\r\n\r\nWhen you do a kernel build yourself, you can disable most modules and options you don't need, and get a much smaller kernel.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."

@@ -1,0 +1,84 @@
+-
+    name: 'Anonymous visitor'
+    mail: bill.gates@microsoft.com
+    subject: AWESOME!!!
+    hostname: 69.228.150.108
+    created: '1181028632'
+    body: 'Very nice article!  I''ve never heard of PDL, though I do computational math (not numerical) everyday.  I''m definitely going to find a use for it now.'
+-
+    name: mWo
+    mail: ''
+    subject: 'Matalb and Octave code'
+    hostname: 130.95.52.71
+    created: '1181037730'
+    body: "Last line in MATLAB and Octave code, i.e., 'exit' causes that Matlab exits; hence, it is not possible to look at this fractal image.\r\nmWo\r\n"
+-
+    name: 'Dan S.'
+    mail: dan+freesoftwaremagazine@shoutis.org
+    subject: 'It helps to know the problem you''re solving a bit better.'
+    hostname: 67.176.49.253
+    created: '1181058797'
+    body: "Let me preface this by saying that PDL looks neat. But,\r\n\r\nYou're iterating over the whole image with every iteration, doing gobs of work for pixels/locations that have diverged. I don't believe that there is any useful information retained by your clamping-to-5 step. (It is pretty, though!) With Mandelbrot, if the distance from the origin is > 2 then divergence to infinity is inevitable. The Mandelbrot set itself is defined as those starting values which never diverge to infinity; I think but am not sure that your clamping makes it impossible to tell even what is in/out of the set.\r\n\r\n(( I believe the canonical/typical coloring is based on #-of-iterations-before-divergence for those pixels that diverge and black for those that don't. ))\r\n\r\nHere is a patch (sorry about lost whitespace/indenting):\r\n\r\n37,39c37,39\r\n<   for(k=0;k < niter;k++){\r\n<     for (i=0;i < NPTS;i++) {\r\n<       for (j=0;j < NPTS;j++) {\r\n---\r\n>   for (i=0;i < NPTS;i++) {\r\n>     for (j=0;j < NPTS;j++) {\r\n>       for(k=0;k < niter;k++){\r\n\r\n48,52c48,51\r\n<       if (zRe[i][j] < -5.) zRe[i][j]=-5.;\r\n<       if (zRe[i][j] > 5.) zRe[i][j]=5.;\r\n<       if (zIm[i][j] < -5.) zIm[i][j]=-5.;\r\n<       if (zIm[i][j] > 5.) zIm[i][j]=5.;\r\n---\r\n>       if (zRe[i][j]* zRe[i][j] + zIm[i][j]*zIm[i][j] > 4.) // Divergence criteria\r\n>         break;\r\n\r\nHow much improvement? 2000x2000 array of points, 1000 iterations, my laptop/gcc 4.1.2 (Note: I had to add 'static' to the local arrays to make it work):\r\n- Old: 4m46.654s\r\n- New: 0m16.373s\r\n\r\nC wins again! ;)\r\n\r\nI don't know how to get this speedup effect in any of the \"whole-array\" approaches/languages. (Probably because I don't know them well at all.) It seems hard to get any effect other than foreach(iteration) { foreach(location in image) { /*..do something.. */ } } ; with this order of operations there's no way to bail out of iterations early at diverging locations.\r\n\r\nI would speculate that, for this problem, plain old perl would be faster than your PDL approach... ;)"
+-
+    name: 'David Bateman'
+    mail: dbateman@free.fr
+    subject: 'Poor matlab/octave implementation'
+    hostname: 81.57.137.98
+    created: '1181075724'
+    body: "If you replace the lines like\r\n\r\n    qgtfive= find(qRe > 5.);\r\n    zRe(qgtfive)=5.;\r\n\r\nwith\r\n\r\n    zRe(qRe>5)=5\r\n\r\nat least in Octave the code is about twice as fast. I believe the same indexing trick can be used in recent versions of matlab as well. You are basically getting your speed improvement from the PDL clip function.\r\n\r\nD.\r\n"
+-
+    name: 'David Bateman'
+    mail: dbateman@free.fr
+    subject: "Dan,\nSomething like"
+    hostname: 81.57.137.98
+    created: '1181076717'
+    body: "Dan,\r\n\r\nSomething like \r\n\r\nfunction z = mandel\r\n  npts=1000;\r\n  niter=51;\r\n  z=zeros(npts,npts);\r\n  [kRe,kIm] = meshgrid(linspace(-1.5,.5,npts),linspace(-1,1,npts));\r\n  k = kRe + 1i*kIm;\r\n  idx = [1:npts*npts];\r\n  while (niter)\r\n    z(idx) = z(idx).^ 2 + k(idx);\r\n    idx(abs(z(idx))>2) = [];\r\n    niter = niter - 1;\r\n  end\r\nend\r\n\r\nwill do it for Octave/Matlab. However, at least in Octave the above indexed assignment can be quite expensive, and so the above is actually slower for this example. It might be faster with matlab...\r\n\r\nD."
+-
+    name: 'Alexander Barth'
+    mail: barth.alexander@gmail.com
+    subject: 'indexed assignment'
+    hostname: 71.122.204.15
+    created: '1181080868'
+    body: "Hi David and Dan,\r\n\r\nHere too, you can avoid indexed assignment by using a logical mask which is much faster in octave.\r\n\r\nCheers,\r\nAlex\r\n\r\noctave:7> tic; z=mandel(); toc;\r\nElapsed time is 43.521179 seconds.\r\noctave:8> tic; z2=mandel2(); toc;\r\nElapsed time is 24.081490 seconds.\r\noctave:9> max(abs(z(:)-z2(:)))\r\nans = 0\r\n\r\n\r\nfunction z = mandel2\r\nnpts=1000;\r\nniter=51;\r\nz=zeros(npts,npts);\r\n[kRe,kIm] = meshgrid(linspace(-1.5,.5,npts),linspace(-1,1,npts));\r\nk = kRe + 1i*kIm;\r\n\r\nwhile (niter)\r\n  mask = abs(z) < 2;\r\n  z(mask) = z(mask).^ 2 + k(mask);\r\n\r\n  niter = niter - 1;\r\nend\r\n"
+-
+    name: 'Dan S.'
+    mail: dan+freesoftwaremagazine@shoutis.org
+    subject: 'David,'
+    hostname: 71.33.237.102
+    created: '1181083166'
+    body: 'That looks like it might work. Do octave/matlab have a way to apply a function to each element of a 2d array? Then the solution becomes very nice and clear, just creating a per-pixel ''mandelbrot'' function and then applying it to each element of the (complex) image matrix.'
+-
+    name: 'Anonymous visitor'
+    mail: sbdpumbaa@blueyonder.co.uk
+    subject: 'Fortran 95 is a huge improvement over Fortran 77'
+    hostname: 82.46.99.184
+    created: '1181087637'
+    body: 'gcc 4.x now provides for Fortran 90/95, which has a syntax similar to Matlab/Octave. A good Fortran 95 compiler should provide the ease of development of Matlab, with the speed quoted for Fortran 77. While you have the claim that Fortran is not rich in IO & maths functions you omit that there is more maths code in Fortran than in any other language - Netlib and Statlib being two of the best examples. I agree that Fortran is not terribly good for graphical IO.'
+-
+    name: 'Rafael Verduzco'
+    mail: ''
+    subject: 'I think C wins'
+    hostname: 200.65.145.52
+    created: '1181096435'
+    body: "Personally, i think C wins. I have to be honest and say that as a first approach to explore the problem I use the Matlab that my university provides me, but when it comes to flexibility, control, speed of execution and the ability to share code with my peers at the university, then C is the choice. Needless to say that there are available free paralelization tools to Fortran and C, and even though they need high computer skills, let's face it: if you are coping with mathematical, numerical computation software, high chances are that you are computer skilled.\r\nI know, there's a lot of people (biologists, finance people, etc.) But you should look at the present in science, sneak into the current research journals and note that there's a tendency to people get more and more skilled in performing in silico simulations, coming from very different fields, not only math or computer science.\r\nNah!, IMHO, C (Fortran, if you like it better) win."
+-
+    name: 'Brandon Andrews'
+    mail: bsa@hexel.ath.cx
+    subject: 'A different c implementation.'
+    hostname: 206.174.73.69
+    created: '1181188348'
+    body: "Compile with: gcc -lm -lpng mandlebrot.c .I used gcc 4.2.0.\r\n#include &lt;stdio.h&gt;\r\n#include &lt;math.h&gt;\r\n#include &lt;png.h&gt;\r\n#define NPTS 1000 //=width=height\r\npng_uint_16 img[NPTS][NPTS][3];\r\nvoid genImg();\r\nvoid addPixel();\r\nvoid writePng();\r\nint main(void){ genImg(); writePng(); return 0; }\r\nvoid genImg() {\r\n\tint i,j,k,niter;\r\n\tdouble zRe, zIm, kRe, kIm, qRe, qIm;\r\n\tniter=51; // Number of iterations \r\n\tfor (i=0;i&lt;NPTS;i++) {\r\n\t\tfor (j=0;j&lt;NPTS;j++) {\r\n\t\t\t// Generating z = 0 (real and imaginary part)\r\n\t\t\tzRe=0.;\r\n\t\t\tzIm=0.;\r\n\t\t\t// Generating the constant k (real and imaginary part)\r\n\t\t\tkRe=(double)i*2.0/((double)NPTS-1.)-1.5;\r\n\t\t\tkIm=(double)j*2.0/((double)NPTS-1.)-1.;\r\n\t\t\t//Iterating\r\n\t\t\tfor (k=0;k&lt;niter;k++){\r\n\t\t\t\t// Calculating q = z*z + k in complex space\r\n\t\t\t\t// q is a temporary variable to store the result\r\n\t\t\t\tqRe=zRe*zRe-zIm*zIm+kRe;\r\n\t\t\t\tqIm=2.*zRe*zIm+kIm;\r\n\t\t\t\t// Assigning the q values to z constraining between\r\n\t\t\t\t// -10 and 10 to avoid numerical divergences\r\n\t\t\t\tzRe=qRe;\r\n\t\t\t\tzIm=qIm;\r\n\t\t\t\tif (zRe &lt; -10.) zRe=-10.; if (zRe &gt; 10.) zRe=10.; if (zIm &lt; -10.) zIm=-10.; if (zIm &gt; 10.) zIm=10.;\r\n\t\t\t}\r\n\t\t\taddPixel(i,j,zRe,zIm);\r\n\t\t}\r\n\t}\r\n}\r\nvoid addPixel(int i, int j, double zRe, double zIm){\r\n\timg[i][j][0] = (png_uint_16)(sin(log( sqrt(zRe*zRe+zIm*zIm)))*65536);\r\n\timg[i][j][1] = (png_uint_16)(cos(log( sqrt(zRe*zRe+zIm*zIm)))*65536);\r\n\timg[i][j][2] = (png_uint_16)(log( sqrt(zRe*zRe+zIm*zIm))*65536);\r\n}\r\nvoid writePng(){\r\n\tFILE *fp = fopen(\"mandle.png\", \"wb\");\r\n\tpng_structp png_ptr = png_create_write_struct(PNG_LIBPNG_VER_STRING, (png_voidp)NULL, NULL, NULL);\r\n\tpng_infop info_ptr = png_create_info_struct(png_ptr);\r\n\tpng_set_IHDR(png_ptr, info_ptr, NPTS, NPTS, 16,  PNG_COLOR_TYPE_RGB, PNG_INTERLACE_NONE, PNG_COMPRESSION_TYPE_DEFAULT, PNG_FILTER_TYPE_DEFAULT);\r\n\tpng_init_io(png_ptr, fp);\r\n\tpng_write_info(png_ptr, info_ptr);\r\n\tpng_set_swap(png_ptr); //big -&gt; little endian\r\n\tint i; for (i=0;i&lt;NPTS;i++){ png_write_row(png_ptr, (png_bytep)img[i]); }\r\n\tpng_write_end(png_ptr,info_ptr);\r\n\tpng_destroy_write_struct(&amp;png_ptr, &amp;info_ptr);\r\n}"
+-
+    name: Fzzy
+    mail: ''
+    subject: 'Other useful linux fractal resources'
+    hostname: 196.30.245.149
+    created: '1185883339'
+    body: "Well, i know nothing of all this math. How do i get up my brownie points? Here are some interesting Linux fractal resources:\r\n\r\n1. A cool open source screensaver which also uses fractal math to do it's thing. (http://electricsheep.org/)\r\n\r\n2. Gnofract. The author says he think's it's the best fractal package currently available for Linux. Test it and decide for yourself (http://gnofract4d.sourceforge.net/)\r\n\r\n3. For the purists, fractals are about math. For the arty, here's some fun fractal stuff you can do in GIMP (http://gentoo-wiki.com/TIP_GIMP_Fractal_Backgrounds)\r\n\r\n4. Fyre is a tool for producing computational artwork based on histograms of iterated chaotic functions. Source is included on the site. (http://fyre.navi.cx/)\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: no@no.no
+    subject: 'Some Remarks'
+    hostname: 130.183.136.226
+    created: '1185889300'
+    body: "Fortran has a complex data type which would be appropriate here.\r\nAlso there is a FOSS implementation of IDL called GNUDL.\r\nAn finally R is a very interesting language that has not been looked at in this\r\ncomparison."

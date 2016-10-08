@@ -1,0 +1,42 @@
+-
+    name: craigTFD
+    mail: ''
+    subject: 'iTunes is free'
+    hostname: 24.117.228.210
+    created: '1219856303'
+    body: "So if you believe in Free Software, you believe in iTunes. iTunes can actually sync (probably the next version of Amarok will too). Free software and open source software are two different things. There is free software that has no source. There is probably an example of open source that isn't free, but it just confuses my brain to ponder such a thing. Oh, and iTunes runs on 95% of the worlds hardware/software platforms, while Amarok only runs on less than 3%.\r\n\r\nLets hope with continued advancement, like we see in the newer versions of Amarok, that small, feeble percentage will grow to the massively popular market share it really should have, and to have all the features we want."
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'Free Software'
+    hostname: 68.197.66.72
+    created: '1219858238'
+    body: "Hi,\r\nThere's been, unfortunately, a <strong>lot</strong> of confusion regarding free software. Free software, by FSM's definition, is software that you can do whatever you want with. Pirate, edit, resell, etc. Open source, however, is not necessarily the same. Many times, you can view the code, but often you must pay. Sometimes, you also can't redistribute it. Free<strong>ware</strong> is software that you don't pay for but you may not be able to do much with.\r\n\r\n--\r\nAndrew Min\r\nhttp://andrewmin.com/"
+-
+    name: trombonechamp
+    mail: ''
+    subject: 'Free Software'
+    hostname: 75.161.220.77
+    created: '1219936197'
+    body: "@craigTFD\r\nThe \"Free Software\" referred to in this article (and in all of Free Software Magazine) is \"Free Software\" as in \"Not Proprietary Software\".  \"Free Software\" and \"Open Source\" are similar, though not exactly the same.  See the Free Software definition to learn more about Free Software, and its relationship to Open Source: http://www.gnu.org/philosophy/free-sw.html\r\n\r\nP.S. - I have heard nothing but complaints about iTunes' sync feature.  In one specific case, a father's player was filled with Hannah Montana songs, and his daughter's was filled with Miles Davis.\r\n\r\nP.P.S. - Amarok 2 has both a Windows and a Mac port.  "
+-
+    name: craigTFD
+    mail: ''
+    subject: 'Freedom isn''t free'
+    hostname: 24.117.228.210
+    created: '1219940645'
+    body: "And neither is free software. You cannot legally make a derivative work and sell it as your own, without abiding by the terms of the license agreement. Is there any software with no GPL or other license restrictions?\r\n\r\nUntil then, there is NO software that meets FSM's definition of free software.\r\n\r\nSee Progress Software Corp. v. MySQL AB @ http://library.findlaw.com/2003/Jun/16/132811.html\r\n\r\nKudos on the Kubuntu penguin!"
+-
+    name: admin
+    mail: ''
+    subject: 'If there was any doubt...'
+    hostname: 87.6.179.139
+    created: '1220038560'
+    body: "Hi,\r\n\r\nWe can play with semantics all we like.\r\nHowever, this is how aI decide if a piece of software is free or not:\r\n\r\nhttp://www.gnu.org/philosophy/free-sw.html\r\n\r\nMerc."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'no licensing requirements'
+    hostname: 68.93.224.4
+    created: '1220053528'
+    body: "> Is there any software with no GPL or other license restrictions?\r\n\r\nUm, why yes there is. You really should read up on [FreeBSD](http://www.freebsd.org/) for example.\r\n\r\nI don't have time at the moment, but perhaps I will post a recommended reading list for folks interested in the subject of freedom, copyleft, and software licensing. We should really should make that easier.\r\n"

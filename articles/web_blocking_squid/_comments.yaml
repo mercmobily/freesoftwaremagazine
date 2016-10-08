@@ -1,0 +1,112 @@
+-
+    name: god
+    mail: ''
+    subject: Proxy
+    hostname: 203.59.90.115
+    created: '1143631691'
+    body: "<strong>From</strong>: DaJoMu \r\n<strong>Url</strong>: ?\r\n<strong>Date</strong>: 2005-06-29\r\n<strong>Subject:</strong> Proxy\r\n\r\n\r\ni have to admit that I've never used squid, but most proxy servers ned to be set up in transpartent mode at least or one can bypass the proxy by changing the original proxy setting with i.e. 207.248.240.118:80\r\n\r\n\r\n\r\nMaybe this will work even if the proxy is in transparent mode. "
+-
+    name: ''
+    mail: ''
+    subject: Squid.
+    hostname: 196.2.69.10
+    created: '1159898217'
+    body: 'I have doen exactly that and nothing seeems to be blocked. What now?'
+-
+    name: ''
+    mail: ''
+    subject: blocking
+    hostname: 72.16.62.72
+    created: '1164745495'
+    body: 'i would like to block all of zangys my space.com and all of the other ones'
+-
+    name: ''
+    mail: ''
+    subject: 'i need help'
+    hostname: 167.102.161.90
+    created: '1167833398'
+    body: 'Thomas Stone High School has a problem with not letting students that are done their work to play games. I think they are a little over the edge and need to chill out a bit. Can your website block other websites that block websites that have games. '
+-
+    name: ''
+    mail: ''
+    subject: 'Squid Configuration'
+    hostname: 124.43.102.48
+    created: '1171072811'
+    body: "I was installed SQUID 2 Stable 5 version, and Configured it as Child Porxy in hirarchi,but anyway i can not access form pages like gmail login\r\n\r\nWhat can I do..?\r\n\r\nNipuna Perera\r\nhttp://nipunap.blogspot.com"
+-
+    name: ''
+    mail: ''
+    subject: 'Another Blocking software'
+    hostname: 203.115.153.42
+    created: '1172031364'
+    body: 'You may try Dansguardian its pretty more easy to configure.'
+-
+    name: ''
+    mail: ''
+    subject: 'Here is a way around'
+    hostname: 69.162.216.85
+    created: '1173065270'
+    body: "You can always try a site like: bypass.thezerogroup.com\r\nI use it to get to myspace while at work"
+-
+    name: ''
+    mail: ''
+    subject: "I was tried \nnever_redirect"
+    hostname: 220.247.209.210
+    created: '1173162811'
+    body: "I was tried \r\n\r\nnever_redirect ALL \r\n\r\nIt was worked\r\n"
+-
+    name: 'AKASH PANCHAL'
+    mail: AKASH7585@HOTMAIL.COM
+    subject: 'I WANT A PARTICULAR SITE BLOCK IN INTERNET EXPLORER '
+    hostname: 202.149.212.65
+    created: '1179367037'
+    body: " DEAR SIR ,\r\n\r\nI WANT A PARTICULAR SITE BLOCK IN INTERNET EXPLORER ,ITS\r\nPOSSIBLE, HOW?\r\n\r\nPLS REPLAY,AS SOON AS POSSIBLE\r\n\r\nI WAIT YOUR SUGGESTION"
+-
+    name: 'MRS G'
+    mail: mr-mrs-g@hotmail.com
+    subject: 'blocking spcific sites'
+    hostname: 86.148.254.38
+    created: '1183897262'
+    body: "I WANT A PARTICULAR SITE BLOCK IN INTERNET EXPLORER ,ITS\r\nPOSSIBLE? IF SO, HOW?"
+-
+    name: BMW20000
+    mail: BMW2000007@hotmail.com
+    subject: 'squid Blocking  All urls else allow some '
+    hostname: 195.229.241.181
+    created: '1184411912'
+    body: "dear \r\nanyone can help how we can block all urls else some specific sites allow to visit them \r\n\r\nThanks "
+-
+    name: 'Roy Penfold'
+    mail: royp@roypenfold.co.uk
+    subject: 'Using a whitelist (Blocking all but a few URLs)'
+    hostname: 80.229.85.15
+    created: '1190908068'
+    body: "Create the access list (whitelist) as normal, then for your rule line use http_access deny !whitelist\r\n\r\nThis will deny access to any site that isnt on the whitelist."
+-
+    name: 'Cesar D. Rodas'
+    mail: saddor@gmail.com
+    subject: 'Block pages'
+    hostname: 200.10.228.138
+    created: '1191356205'
+    body: "Is there a way to block pages but read the rules from a database? \r\n\r\n\r\nI was reading something about squid helpers to do that... right? I basically I need to build an program for add and remove the access to some pages using squid and squidguard.\r\n\r\n \r\n\r\nIt is not mandatory to block to a group of users but if there is a way, this will be cool if there is not it is ok.\r\n\r\n \r\n\r\nThanks..."
+-
+    name: 'The real Proxy'
+    mail: ronald.allan.mojica@gmail.com
+    subject: How
+    hostname: 202.164.176.70
+    created: '1191383239'
+    body: 'hello can i ask how to block proxy sites? is there an easy way?'
+-
+    name: Kamran
+    mail: urkamran@yahoo.com
+    subject: 'softwares 4 stricted web sites'
+    hostname: 212.71.37.71
+    created: '1194087932'
+    body: 'i need to open stricted web site in saudia arabia'
+-
+    name: 'Anonymous visitor'
+    mail: saha.sandipan@gmail.com
+    subject: 'The suggesion failed'
+    hostname: 210.212.5.209
+    created: '1194177372'
+    body: "I have tried fut failed to restrict orkut.com.........\r\n\r\ncan any one suggest me anything more other than that????????\r\n\r\n\r\n\r\n"

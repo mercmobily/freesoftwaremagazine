@@ -1,0 +1,469 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Nice try but..'
+    hostname: 71.125.51.154
+    created: '1163616704'
+    body: "Your completely wrong.. basically, the 'activation service' your complaining about isnt necessary and is just a pretty point and click guide to set your computer up.\r\n\r\nthe only thing the technician does after hooking the service up is calling the CO and getting them to turn it on for you. the tech might run a speed-test to make sure its working ( http://ciseweb100.cise-nsf.gov:7123/ is the link that you might be thinking of ) but that's not necessary for the internet to work and only takes place after the internet's up and running."
+-
+    name: ''
+    mail: ''
+    subject: 'are you serious?'
+    hostname: 71.126.183.233
+    created: '1163637471'
+    body: 'Linux works fine on my FIOS service without any additional code wrangling.'
+-
+    name: ''
+    mail: ''
+    subject: hmmmm
+    hostname: 68.241.31.158
+    created: '1163637739'
+    body: 'i have fios and they didn''t do any of this.'
+-
+    name: ''
+    mail: ''
+    subject: Comcast
+    hostname: 138.234.94.7
+    created: '1163639654'
+    body: 'I recently got switched from Adelphia to Comcast, they were merged. Adelphia worked fine but Comcast requires that I use windows or mac os, I use Ubuntu. Comcast requires that I run an installation wizard to use their service. I''ve called a few times and basically been told I need windows. I find this very annoying and quite strange. Even at my parents house we have a cable modem that requires none of this stuff. Is there anyone that knows anything about this? I find it very annoying because I was forced into the Comcast subscribtion and it is causing me a lot of hassle.'
+-
+    name: ''
+    mail: ''
+    subject: 'Interesting, this was not the experience I had'
+    hostname: 71.127.253.170
+    created: '1163644571'
+    body: 'I''m also in NJ. Admittedly, I ordered their business service for static IPs, but left their router boxed, installed my own M0n0wall firewall and all works extremely well. I''ve got 2 Linux boxes, 1 OS X and 1 windows machine setup. I tried to return the Verizon router, but they wouldn''t take it back and told me I''d need it for their TV service it I wanted to order it.  '
+-
+    name: ''
+    mail: ''
+    subject: 'Well written'
+    hostname: 140.142.2.9
+    created: '1163644920'
+    body: 'Great post! It would be really helpful to know what that URL is, so as to avoid even having to call Verizon to activate the service. Could you check your browser''s history and post it?'
+-
+    name: ''
+    mail: ''
+    subject: 'Fantastic article'
+    hostname: 66.30.180.94
+    created: '1163645366'
+    body: 'Thank you. Thank you. Thank you.  I''ve been waiting for FIOS to be "officially" offered in my area (cables installed now we''re waiting for Town Hall to work out Verizon agreement).  I was thinking I would dump Comcast and go with Verizon.  Now that I know they want to install a bunch of junk, I''ll present them with a Linux machine and tell them that''s all I have.  Great information.  Thanks again.'
+-
+    name: ''
+    mail: ''
+    subject: 'Ask the Tech...'
+    hostname: 71.244.116.222
+    created: '1163648760'
+    body: 'I just asked my FiOS installer to run it on her toughbook, and she gladly obliged.'
+-
+    name: ''
+    mail: ''
+    subject: 'Fiber vs. copper'
+    hostname: 4.155.198.49
+    created: '1163652866'
+    body: "Note that Verizon is required to permit other ISPs to offer DSL over their copper, but is not required to allow others to offer service over their fiber.  If you order FIOS, Verizon will cut the copper line to your premises and leave you with only a fiber link, thus locking you in to their offerings.  I have heard from some that if you demand it, they will leave the copper in place, but don't know if there is a hard-and-fast policy on this.\r\n\r\nVance"
+-
+    name: ''
+    mail: ''
+    subject: 'On Comcast...'
+    hostname: 68.46.186.107
+    created: '1163654911'
+    body: 'Get a Comcast service technician to come to your house and call Comcast''s headquarters to activate your service. The guy who came to replace my cable modem tried to have me install the software on my Mac, but I wouldn''t let him touch that beauty with a ten foot pole. So, he called Comcast directly, and gave his technician number, etc... I got a call back on the number listed on my account (my cell phone), and they just confirmed that they''d activated the modem.'
+-
+    name: ''
+    mail: ''
+    subject: 'Comcast & Linux'
+    hostname: 67.174.125.222
+    created: '1163655010'
+    body: "When I signed-up for their cable service I was clear that I run only Linux (I captured & printed their on-line \"chat\" sign-up session so the installers could not say \"I didn't know\", which they tried). On the day of the install I helped them pull their cable through the conduits I had installed. They first balked at terminating inside a POD (point of demarcation) box I had provided. I insisted that their cable stay outside my residence and they relented and hooked up to my cable modem. Then came the activation! \"here is a disk with a program for you to run on all computers connedted to the modem\" ( i really wish I had grabed the thing to se what made it tick later). I refused to run their program because 1) I only run programs for which I have the source code for security and 2) I only run Linux or BSD (they had heard of Linux but I got a blank stare on BSD). Finally after showing them the copy of the sign-up logs they brought out their own laptop and \"activated\" my service.\r\nBe clear on what you will allow them to do to YOUR hardware and document everything.\r\nBe willing to tell them to go away if you are not satisified that YOUR security is intact.\r\nRemember it's YOUR computer and you are allowing them to serve you."
+-
+    name: ''
+    mail: ''
+    subject: 'This article is dependent on your location'
+    hostname: 71.246.198.71
+    created: '1163655345'
+    body: 'I''ve had FIOS for a year now in Northern Virginia and I have never had to contact Verizon to get a computer hooked up to their service.  All I''ve had to do is configure a PPPoE connection.  So far I''ve hooked up a Linksys TA adapter provided by AT&T (VOIP), a reflashed Linksys WRT54G running OpenWRT and a MacOSX laptop.  None of which required a call or install of any special software.'
+-
+    name: ''
+    mail: ''
+    subject: 'How to talk to verizon'
+    hostname: 65.96.171.240
+    created: '1163659942'
+    body: "\"I don't run windows or MacOS, please escalate me to a regional tech to activate my service.\"\r\n\r\nkeep calling until they escalate you. They knowledgable guys are auctually pretty cool. The monkeys just want to go on break."
+-
+    name: ''
+    mail: ''
+    subject: 'Not in Tampa, FL'
+    hostname: 72.184.140.45
+    created: '1163666798'
+    body: "I've installed ~20 FIOS connections here in Tampa, FL as a Geek Squad Agent, and we rarely (if ever) used the Verizon disk. While it was necessary to visit the FSC site to set up an email address, no software was required to run in the background to get a computer on the net.\r\n\r\nIn fact, we once set up a FIOS connection where there was no computer present to run a script; the customer wanted us to install his Slingbox so that he could see TV on the road from his company laptop. The laptop connected via Sprint's aircard service, and we didn't need to do anything to get his Slingbox going.\r\n\r\nUnfortunately, I live in St. Petersburg, and we won't get FIOS for another year or so. "
+-
+    name: ''
+    mail: ''
+    subject: 'Many cable services register a MAC address'
+    hostname: 62.99.211.15
+    created: '1163671590'
+    body: "I have noticed that many cable services (comcast, Chello, etc) use the MAC address of your system to register you to their service.  This is norally accomplished via one of the following methods.\r\n\r\n1:  You browse to an internal web site that registers the mac address\r\n2:  You use the software utility provided which does the same as #1 in the background\r\n3:  The tech \"calls in\" the mac address.\r\n\r\nWhat I usually do is bring home a winders laptop from work.  I register with the MAC on the laptop, let the tech do his thing without inturruption.  I then clone the MAC onto my WRT/firewall and I am set to go.\r\n\r\nThis way, there is no techie retraining, no mess to clean up, and you don't get hasseled for being a linux user.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'I think there''s another way to do it'
+    hostname: 24.47.116.3
+    created: '1163677330'
+    body: "I had similar situation with Optimum Online internet cable service. They also appear to have some kind of software to do set up of mail address, toolbars, etc.\r\n\r\n<strong>What you do is tell the technician that you are running GNU/Linux and his software setup program simply will not work and you will cancel the service if you can't use it with GNU/Linux.</strong> After that he'll make a call to the service center and your service will be fully functional without all the spyware/adware/crap that they bundle with it. Later you can setup the email account yourself, if you need one.\r\n\r\nFWIW, it worked for me.\r\n"
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'Yes, their tv service...'
+    hostname: 12.161.228.66
+    created: '1163679336'
+    body: "a rather big \"if\"...I do not watch TV anyway.\r\n"
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'It may be based on location'
+    hostname: 12.161.228.66
+    created: '1163679567'
+    body: 'That is the process they put me and other people in my area through.  I learned much about how they handle windows and mac''s both from the things they tried to get me to do on my GNU/Linux box ;), and from other people that also had it installed locally.'
+-
+    name: ''
+    mail: ''
+    subject: 'Grammar Nazi Alert'
+    hostname: 130.76.32.145
+    created: '1163695633'
+    body: "It's \"you're\" not \"your\"! \"You're\" is a contraction meaning \"You are\". \"Your\" is a pronoun defining ownership or possession.\r\n\r\nExample: \"Your house is nice.\"\r\nExample: \"You're a very good hacker.\""
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'Probably is regional'
+    hostname: 12.161.228.66
+    created: '1163699795'
+    body: 'In NJ, they expect the technician to do initial account activation on site, and normally by having the user run a service activation application at the time of installation.  The pppoe information is preconfigured on their router and they do not offer what it is setup with, although all their routers are preconfigured with the same shared pppoe userid (verizonfios) rather than with individual customer pppoe account id''s.  This is why I think they only use pppoe to negotiate ip addressing rather than associate it with billing and service control.'
+-
+    name: ''
+    mail: ''
+    subject: 'what?'
+    hostname: 209.212.28.62
+    created: '1163701082'
+    body: " \r\nI have had FIOS running for over a year, and use Windows, MAC OS X and Linux\r\non my network. It does not require any extra software. Yes they use PPPOE,\r\nbut the configs are done on the router only. Where did you get this info?\r\nWe have had fios in NYC for over a year, and I never heard of anything\r\nlike this. You guys need to read on DSLreports.com, they have a thread\r\ndedicated to FIOS which will answer your questions."
+-
+    name: ''
+    mail: ''
+    subject: 'This must be location specific'
+    hostname: 71.251.230.6
+    created: '1163703246'
+    body: "I have FiOS. It terminates to a cat5 jack. I can plug anything into that jack and get connectivity with out any software or PPOE.\r\n\r\nWhen it was installed I refused their router and had them connect to my IPcop box. Never had to do anything special to the box other than plug in my static IPs. Then I swapped IPcop out for a PFsense install...again, didn't have to do anything.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Verizon FIOS in North Texas'
+    hostname: 66.136.76.241
+    created: '1163703325'
+    body: "The tech that came out and installed my FIOS didn't even know how to do anything with the data side of it; he was only familiar with the televison side of things.  He just plugged in the DLink Wireless Router that he had with him and told me to see if I could get online.\r\n\r\nIt wouldn't have mattered if I was running Linux, OSX, or Windows.  The default settings on the DLink router assigned my computer an ip address and I was immediately online - no activation required.  In fact, I had already logged into the wireless router and chaged the admin password, turned on WPA, etc before the tech mentioned that I should do just that. :)\r\n\r\nI did have a Verizon DSL connection in place prior to the install, but even that was a self-install where I simply logged into the Verizon-provided Westell DSL modem and turned off NAT, installed my own broadband router, and (again) got online w/o the help of any activation software.\r\n\r\nLooking at my router - the WAN side is setup for Dynamic IP - *no* PPPoE.  Go figure.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Use a router'
+    hostname: 69.243.117.230
+    created: '1163710489'
+    body: "I don't use Comcast's cable modem, I have my own Linksys modem, and it is connected to a Linksys router.  I had the service installed shortly after I moved in, and hadn't finished running the Cat5, so I convinced the technician to just leave the cable for internet service coiled up near where I was going to put the cable moden.  I installed all hardware and software myself with no problems.  There are 3 issues that make technicians believe you have to have a Mac or PC:\r\n\r\n1) DHCP: They don't provide static IPs to residential users.  Occasionally, they reassign your IP address with DHCP.  Apparently, most technicians don't know that it is a network standard.\r\n\r\n2) DNS: In Maryland, they are using MS Active Directory to provide dynamic DNS.  I simply found some alternate DNS servers and set my /etc/resolv.conf files to point at about 6 of them.  For my daughter's PC, I had to wade thru a dozen screens, but finally found the window that allows you to define 3 name servers.\r\n\r\n3) Email: Of course they want you to use all the bells and whistles from their site so they can ratchet up your bill, and some of those require MS ActiveX applications on your PC.  I have had to leave ActiveX enabled on my daughter's PC so we can get security updates (not so many, because most of her applications are FOSS), but I have specifically forbidden her to download any application that requires ActiveX.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Not "D-Mark", either'
+    hostname: 72.40.156.239
+    created: '1163711056'
+    body: 'What you''re referring to is the <strong>demarc</strong>ation line between what is the telco''s responsibility and what is the customer''s responsibility.'
+-
+    name: ''
+    mail: ''
+    subject: 'FISO    loss of power'
+    hostname: 70.22.117.177
+    created: '1163770374'
+    body: 'Has anyone experienced the problem of lossing AC power to the box for an extended amount of time. Say greater then 5hrs. Do you lose phone dial tone?'
+-
+    name: ''
+    mail: ''
+    subject: 'Comcast works fine here'
+    hostname: 67.189.237.195
+    created: '1163775584'
+    body: "When I first signed up for cable modem here, I told the salesperson directly that I would be running Linux.  All she said was \"no problem, we already have people running Linux\".  Of course, it was RCN at the time (Carmel NY division, which got sold to Suscom, then Comcast).  The only suggestion she made was to have a wireless router, but that may have been because I was setting up a house we were refurbishing (I already had a router since the DSL in my apartment had changed to a 2-connection-only, by MAC address, system).\r\n\r\nI might have gone with Verizon DSL instead, except for their salesperson's determined insistence that it was Windows (and perhaps Macintosh) only.  Perhaps they were wrong, but their sales department definitely lost them *that* sale.\r\n"
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'I would imagine so'
+    hostname: 12.161.228.66
+    created: '1163777706'
+    body: "It was interesting that they put the box on the outside wall of my garage, but hooked their ups to the inside one :).  I should have mentioned that; given there is no power transmitted on a optical fibre, and anyway even traditional phone system copper would probably be inadaquate to run the box, yes, I presume 5 hours and it is dead, including of course the pstn ports.  I have already experianced at least one power outage of that duration this year alone.  One presumes that when power is restored, the box can recover.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'FiOS Much Ado About Nothing'
+    hostname: 65.202.26.177
+    created: '1163787330'
+    body: "They only say they <strong>support</strong> Windows and Mac, not that other OS' won't work.  They don't want their tech support to have to deal with many flavors of OS, and considering the cost would be likely passed on to customers (most of whom run Win or Mac) I can't blame them.\r\n\r\nDue to plenty of time to do research, I had prepped very well for FiOS install. The install team had only about a month's experience doing installs.  I activated using the tech's supplied URI via my laptop and sandboxed their install process (try <a href=\"http://www.sandboxie.com\">Sandboxie</a>). I did not use their fancy ActionTec router.  I plugged the WAN side wire from my Linksys WRTG54 into the ONT and it came up fine.\r\n\r\nWish I had let them install their router, now I want to use some of its features and when I install it it won't grab an IP address.  Maybe it thinks it still has to do the PPOE thing.  Haven't tried tech support yet, but in all other respects love FiOS.\r\n\r\nStreamed a movie from Shoutcast TV @ 500m with no stutters or freezes - other than a bit of contrast banding due to compression it looked just as good as the DVD.  Glad to say goodbye to Adelphia, who were more reliable before Time-Warner took over but never have been rock solid, and has been more degraded as more people in my neighborhood hooked up and shared the bandwidth.\r\n\r\nVerizon thinks of itself as clever marketers and tries to shove a huge pile of largely useless software on the unsuspecting but you don't have to take any of it and can remove it if you change your mind.  It does offer a security suit based on the CA products apparently included in the price of service and loadable on all your computers (though it has a problem on my AMD 64 (Win-XP Pro 32) system).\r\n\r\nOh and their email is Yahoo! based, which if you already pay for as a Yahoo! customer causes some cookie-related grief as you try to switch among accounts.  I just decided to forward all Verizon mail to the original Yahoo! account and never go to their email.  They delete your email after 30 days if you don't download it, which is a worse deal than straight paid-for Yahoo! that lets you keep up to 2 gig indefinitely.  Verizon's websites suck too, very heavy on the flash and difficult to navigate (more sizzle, little steak).  And the FiOS site is just plain useless.  If they'd just stick to delivering bandwidth - that's all I want to pay them for.  They seem to be good at it - so far."
+-
+    name: ''
+    mail: ''
+    subject: BBU
+    hostname: 65.202.26.176
+    created: '1163787750'
+    body: "The battery backup in the ONT will supply dial tone for 4h officially, and probably more depending on how old the battery is at the time.  At install I asked the tech if I could put the whole shebang on a UPS and he said it would work, and could also be run from a generator; thus I'd have phone and internet during extended outages (like the 2.5 days we were powerless recently).\r\nThe standard install runs the telephone only portion on the battery backup."
+-
+    name: ''
+    mail: ''
+    subject: 'FiOS + Linux ? No Problem'
+    hostname: 71.167.171.52
+    created: '1164057881'
+    body: "I just had FiOS installed here. When I called to place the order the Verizon salesperson asked me what operating systems I am using. I told him I use Linux. He said Linux will work fine there is no problem. I told him I do have XP available as well if needed.  2 days later the tech came in and installed it. He attached the ONT to the building, installed the phone service and then made up a few ethernet patch cords and ran them from the ONT to the basement where the Verizon supplied router was to be installed. I had it installed in the basement because that is where the ethernet cable terminates that runs to my upstairs hard wired network so it was the most conveniant spot. \r\n\r\nWhen trhe time came he plugged in the Verizon (Actiontec) wireless router and plugged the cat 5 leading to my upstairs network cable into one of several ports on the back of the router   I let him use my laptop as my  \"main computer\" via wireless connection to the router to perform the initial \"setup\". He told me he is more comfortable working via Windows so I booted it into XP for him. While he was doing that I ran upstairs  and fired up  my Linux box and noticed I immediately got an IP address from the Verizon router. A few small changes to the routing table via the \"route\" command and I was already connected via Linux. How bout that... I had my Linux box up and running and online on FiOS even before the tech downstairs had the Windows laptop online.\r\n\r\nThen I ran back down to the basement to join the VZ tech. The whole big \"setup\" of your main computer (that Verizon makes a fuss about when you talk to them on the phone) only involves establishing a connection to your router, logging into the Verizon website and having you chose a username and a password for your email/ customer account, i.e. billing, tech support,  etc. As far as the MSN and Yahoo software goes the tech didn't even bother installing it on the laptop. He said the  majority of customers opt not to have it installed,  besides you can download and install it on your own anytime. Before leaving he ran a speed test and we were getting slightly over 20 mbps download and 4 - 5  mbps upload. At that point his job was done. He cleaned up the empty router and cable boxes, wire insulation etc. Incidentally, throughout the whole installation process the VZ tech was very polite and accommodating in as far as setting things up whichever way I preferred and left me an abundant length of cable in the event I want  to move the connection elsewhere. Before he left he gave me some information packages about the service and the router and left.\r\n\r\nAt that point all that was left to do was some reconfiguration and rerouting of my local network. The Verizon wireless router is on the network  192.168.1.x and my local network is on 192.168.2.x I have my Linux box that operates as a server/router/firewall attached to the Verizon router. It  may sound a bit archaic to run my Linux router behind another router but it works fine, it's still blazing fast, and it gives me a bit of redundancy which can be helpful. .Plus I have 2 wireless access points, one upstairs on 192.168.2.x and downstairs on 192.168.1.x.  From what I understand  you can also bypass the Verizon supplied router and use other routers or, connect your Linux box directly via PPPoE but I haven't tried that  yet. \r\n\r\nIf you have been hesitating to get FiOS because of fears of Linux incompatibilities all I can say is ...relax.  Verizon is using standard protocols and it should easily  work with any common networking OS, i.e. Linux, Unix, Windows, mac, etc. Be nice to your tech, he is there to make  it work for you and probably appreciates the things he learns from different customers with diverse needs.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Fios routers and ichat camera'
+    hostname: 71.117.213.116
+    created: '1164493651'
+    body: "Installed Fios with Actiontech router.  15 people later and they are still coming out to fix the problem.  Can't use ichat camera for video chat.  The Actiontech absoultly won't work with the camera.  Tried different settings, lowering security.  Nothing.  Then tried a D link router, worked only if you turn off, plug in play, in settings. Worked for four days then crashed and wouldn't work again.  They came out again and manage to get the D link to work again but not the actiontech and can't give me a reason.  The D link quality is not  great. Sometimes delays in chatting and jerky picture.  Was totally happy with DSL had zero problems.  Nothing but headaches with the Fio's I don't know why I should pay more for a crap product.  My Uniden phones don't work either with the Fios.  But they don't tell you any of this until after you have it installed.  The sound quality is awful!  Does anyone have any infomation on why the routers won't work with ichat. I am on two \\G4's with X safari. I have had this product for a month and it has work about 7 days on and off.\r\nAnd yes I agree that Verizon techs have no clue, they are not trained to handle these problems.  And boy are they cramming this product into everyones face!"
+-
+    name: ''
+    mail: ''
+    subject: 'fiber vs. copper'
+    hostname: 70.16.217.159
+    created: '1164754550'
+    body: 'Vance, The copper can always be put back up if you order service from another ISP. You shouldn''t give people misleading infomation. After all it is mandated by the FCC that local Bells do this. It doesn''t lock you into the fiber. Thats only if you stay with a verizon service.'
+-
+    name: ''
+    mail: ''
+    subject: 'Web address for Verizon Activation'
+    hostname: 71.177.129.71
+    created: '1165051502'
+    body: "Here's the address you all have been looking for so you don't have to load all the bundled crap:\r\n\r\nhttps://activatemyfios.verizon.net\r\n\r\nYou will need your order number.  Put \"icog\" in front of it.  So if your order number is 1234567 you type in \"icog1234567\" where it asks for order number.  Second filed asks for your zip code.  For some idiotic reason you can not just hit \"enter\" after putting this in... you actually have to click the \"GO\" button.  :)\r\n\r\nHope that helps...\r\n\r\nOh, yeah... the customer service folks in the call center have little to no idea about what having this service actually installed requires.  From what I've directly experienced (and read in reviews)the sales guys that come to the door are ok (and usually pretty honest about what they do not know), the installers are very accommodating  and proficient in regard to the actual installation but their technical expertise varies widely... the call center folks however are plain clueless all around.  "
+-
+    name: ''
+    mail: ''
+    subject: 'Want DSL, forced into FIOS'
+    hostname: 64.12.116.73
+    created: '1166061158'
+    body: "Starting a business w/a home office in PA, just across the river from NJ.  I was supposed to have my personal dial-up line converted to a business line w/DSL. I was told it would work with my Mac OS and that DSL is available, even though FIOS is now available in my neighborhood. The day before the conversion, a Verizon Webtell modem arrived at my doorstep via UPS. Later that day, a Verizon Rep. called to say that because I can get FIOS, DSL is not available.  In order to use FIOS, I would have to upgrade to a newer version Mac OS as well.\r\n\r\nDoes this make any sense?  I can't get DSL because FIOS is here?  What about the DSL lines that already existed before FIOS?  Did they all get converted over?  Does anyone know anything about this?\r\n\r\nAlso, how can they cut the copper if I have two \"regular\" phone lines which are paired up on one piece of copper cable?  How complicated & expensive can this potentially get?\r\n\r\nI just want a faster connection w/o tying up the phone.  At this point, I'm thinking how much money Verizon is saving me by throwing a wrench in my plans, considering how much they charge for everything "
+-
+    name: ''
+    mail: ''
+    subject: 'Daisy Chaining Actiontec Router under WRT54'
+    hostname: 72.74.92.216
+    created: '1166714321'
+    body: "We have had Verizon FIOS internet (and telco) for a couple of months.  Just upgraded to FIOS TV.  No one at Verizon said that we would have to replace the WRT54 we were using.\r\n\r\nSo now this tall Actiontec 424WR is our connection to the internet.  I don't like that because it's slowed down ping times and takes about 10% off the upload speed (1.8Mbs instead 2.0Mbs in my case).  \r\n\r\nThe Verizon tech that did the Fios TV install was very sharp and answered my many questions.  Here's what I learned from him about how this set up works.\r\n\r\nThe ActionTec is used by Verizon TV to provide the real time TV Guide and services like OnDemand.  It does this by using part of the fiber bandwidth to get Guide Info from a Verizon website.  The ActionTec has a coax cable connection on the back and the Motorola set top boxes have an ip address.  The Actiontec passes Guide and OnDemand  requests to the Verizon site and relays responses to the requesting STB.\r\n\r\nWhat I don't like is having a Verizon controlled router between me and the internet.  Without being too paranoid, it's easy to see that the router could collect site visited information for marketing purposes.  It's virtually impossible to do that at a DNS without bogging it down, so what they've done is put an observatory in my home network.\r\n\r\nThe Verizon tech said that I could daisy chain the WRT54 underneath the Actiontec.  \r\n\r\nMy question is it possible to set my home net up with the WRT54 as the connection to the Verizon cat 5 to fiber link and put the Actiontec under the WRT?\r\n\r\nComments or suggestions much appreciated."
+-
+    name: ''
+    mail: ''
+    subject: 'Making Comcast High Speed work with Linux(Ubuntu)'
+    hostname: 71.206.220.216
+    created: '1166927847'
+    body: 'I am currently using my Ubuntu box with Comcast High Speed internet. I did use a windows boxen too install it but I also know that it was not necessary you just need to set your Ubuntu box to dhcp. Basically you need to tell comcast support to treat it like you are connecting with xbox or some other "unsupported" system. Then you should be good to go.'
+-
+    name: ''
+    mail: ''
+    subject: 'I had pretty much the same'
+    hostname: 71.167.171.52
+    created: '1168293787'
+    body: "I had pretty much the same experience. When I asked my sales person if I can use Linux with FIOS he said, \"sure, that is not a problem\". My installer was quite honest with me. He admitted that he is primarily a lineman and not much of a computer geek. He also admitted he was not familiar with Linux but was very accommodating in letting me test the connection under Linux while he was there.\r\nHe didn't even bother installing the bundled junk an even told me that  many customers opt not to have it installed. \"Why waste the hard drive space if you're not gonna use it ?\" was his opinion. He did an A1 job getting me set up and neatly installing the ONT and all the gadgets. He told me he learns a great deal from the customers.  I was really impressed with the professionalism, accomodating atitude and courtest of the installation tech."
+-
+    name: ''
+    mail: ''
+    subject: 'In all liklihood FIOS will'
+    hostname: 71.167.171.52
+    created: '1168294604'
+    body: "In all liklihood FIOS will be faster than DSL. What they do is replace the existing copper with fiber. Then they attach the ONT which converts the light signals to electrical signals. Part of the ONT is for the internet and connects to the router. The other part services your existing phone connection. If you have multiple lines (i.e. multiple numbers) they will operate through the same fiber cable. No longer a need to string an extra cable for each number. All you should wind up paying for is the FIOS internet. Your existing phone service, billing rates, etc should stay the same. The only difference is that it will be going out over Fiber instead of copper. Of course you will have a very fast Internet connection and be able to use your phone simultaneously.\r\n\r\nOf course talk to your Verizon representative to get the final word on billing, how much it will cost, how you'll be billed,etc. \r\n\r\nAs far as having to upgrade that is probably to accomodate the bundled software they give you. You might be able  to opt for them not to install it. FIOS works fine with Windows, Linux, and MacOS. You should have no problems.\r\n\r\n\r\n\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'FIOS in St. Petersburg'
+    hostname: 65.35.151.186
+    created: '1168535588'
+    body: "Not in Tampa, FL-\r\n\r\nFIOS in St. Petersburg in a year or so? Is that an actual fact or your estimate. I would love a sound date as to when it is coming so I can look forward to it but have only heard that it will come in the future. Where did you hear a date? \r\n\r\nSecondly... you work for Geek Squad. Why? Start your own service doing the same thing and be your own boss. I made well over $60K last year and have the advantage of tax deductions for being self employed. Why work for somebody else? Do Geek Squad agents make that kind of money? "
+-
+    name: ''
+    mail: ''
+    subject: 'Re:fios'
+    hostname: 12.25.104.6
+    created: '1168897440'
+    body: 'How do we get to the GUI? Is it through 192.168.1.1?'
+-
+    name: ''
+    mail: ''
+    subject: 'FIOS in St. Petersburg'
+    hostname: 141.153.146.119
+    created: '1168993588'
+    body: 'I had my own business. I had a store/repair shop and could not make enough money to keep the doors open.  How do you find customers?  Geek Squad spends millions on advertising.  I would love to stop working for someone else and go back into business for myself.  '
+-
+    name: ''
+    mail: ''
+    subject: 'Question Fios and Palm One are they compatable?'
+    hostname: 71.177.75.189
+    created: '1169602119'
+    body: 'Does anyone out there know if I can connect my palm one with Fios?'
+-
+    name: ''
+    mail: ''
+    subject: 'Requesting some help with Ubuntu Linux and Verizon Fios'
+    hostname: 71.174.67.141
+    created: '1171071718'
+    body: "Hi there,\r\nI have a Ubuntu Live CD, and a Knoppix Live CD and would like to connect to the net.\r\n\r\nI'm also running WinXP which is also connected by way of Verizon FIOS and works just fine. I'm trying to get away from MS Windows.\r\n\r\nI'm new to Linux...What is the step by step process to connect using Linux and Verizon FIOS ?\r\nI am computer literate, however networking is not one of my stronger points.\r\n\r\nI have a fairly new computer with an Actiontec MI424WR Router and a Westell 802.11G USB Adapter.\r\n\r\nThank you.\r\nSincerely, Ernest Bazzinotti\r\nebazz@yahoo.com"
+-
+    name: ''
+    mail: ''
+    subject: 'Fios will work with anything, in fact the Actiontec runs Linux!!'
+    hostname: 71.113.81.253
+    created: '1172372863'
+    body: 'enable telnet under remote admin in the web i/f, telnet into the router, then enter the command "shell" - brings up the busybox linux shell...  flash openwrt to the router: http://openwrt.org'
+-
+    name: ''
+    mail: ''
+    subject: 'on demand rentals'
+    hostname: 72.78.102.246
+    created: '1174101029'
+    body: 'does anyone know how to delete on demand rentals for fios'
+-
+    name: ''
+    mail: ''
+    subject: deleting
+    hostname: 72.78.102.246
+    created: '1174101311'
+    body: 'how can you delete stuff from your on demand after you watch them'
+-
+    name: 'Anonymous visitor'
+    mail: stapnir@hotmail.com
+    subject: 'FIOS Against Our Will! Were We Screwed?'
+    hostname: 209.163.102.13
+    created: '1181030129'
+    body: "We were overseas for 3 years and rented out our home while we were gone (so we could\r\nafford to have a place to come back to!)\r\n\r\nThe doctors who rented our house, had Verizon yank our cable and put in FIOS. They didn't tell us or the property manager, and they left the box unplugged when they left so we were without phone service for the first week back and I went round and round with Verizon about why my phone didn't work.  It was a mess because Verizon assumed that we \"knew\" we had FIOS. They kept trying to sell me expensive services and couldn't understand why I didn't want them.\r\n\r\nAnyway, we don't own a business, only want the cheapest services, have always used satellite for TV, and are perfectly happy with dial-up Internet. My view is that exchanging expensive copper for cheap optical fiber is a gyp!  I feel we were screwed by the tenants.  The property manager still has their deposit so we are wondering if we should insist that the tenants have the copper cable put back. Any thoughts?  "
+-
+    name: Bork
+    mail: rberkman@gmail.com
+    subject: 'iChat and Actiontec Router on FIOS'
+    hostname: 71.248.174.66
+    created: '1181186368'
+    body: 'Did you solve this yet? I just opened up all the ports they tell you to on the Actiontec and i have no success - seems I still need to set up each computer on my network with a static IP, will get to that tomorrow....but looking for anyone who has solved the iChat on Fios with Actiontec - or I''ll take DLink 624 as well.'
+-
+    name: 'Anonymous visitor'
+    mail: ssundown@lehman.com
+    subject: 'getting IP address off of Actiontech '
+    hostname: 192.147.58.6
+    created: '1182525846'
+    body: "how do i get the ip address of the Actiontech fios router?\r\n "
+-
+    name: rsp
+    mail: puzio1@excite.com
+    subject: 'Web address for Verizon Activation'
+    hostname: 70.111.247.140
+    created: '1183580482'
+    body: "This doesn't look too good.  When I clicked on the\r\nadress provided, I got the following error message:\r\n\r\n\"We're sorry, but we detected you are using an unsupported operating system.\r\n....\r\nTo proceed with the installation, please upgrade your operating system or use an alternate computer that meets the minimum system requirements.\"\r\n\r\nand an \"exit\" button.  Needless to say, there was no place to type in\r\nan order number or anything of the sort.\r\n                                          "
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'It uses dhcp'
+    hostname: 71.187.64.222
+    created: '1184004661'
+    body: "So you should only need to setup dhcp. \r\n"
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 're: Video services'
+    hostname: 71.187.64.222
+    created: '1184004733'
+    body: 'I did not buy or try their video services.'
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'I think so'
+    hostname: 71.187.64.222
+    created: '1184005222'
+    body: "I see no reason why you could not do so.  Just use a different subnet range for the WRTG (perhaps 192.168.2.x) so that you can still access the other router by it's local address (192.168.1.1 by default) if you need to.  I think you could also use the dyndns service in the WRTG (or OpenRT) even behind the Verizon router, since that simply looks at the final public appearing address.  You will want to disable the wireless on the Verizon router, of course.  This can be done directly from it's html UI.\r\n\r\nIn theory you could use the WRTG in place of the Verizon router, at least if your not using their video services.  The Verizon router uses ppoe, so you would only need to know the password they set for ppoe.  Rather amusingly, it looks like the user id is a default user id (and hence also password) that they likely use on all their routers.\r\n"
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'Yes'
+    hostname: 71.187.64.222
+    created: '1184005285'
+    body: "It works fine from firefox.  http://192.168.1.1.\r\n\r\n"
+-
+    name: 'Markus Greiner'
+    mail: greiner@physics.harvard.edu
+    subject: 'did you find a solution to the ichat problem?'
+    hostname: 71.174.89.12
+    created: '1184867096'
+    body: "did you find a solution to the ichat problem? I would appreciate any info.\r\n\r\nBest,\r\nMarkus"
+-
+    name: 'Anonymous visitor'
+    mail: vatsan_madabushi@yahoo.com
+    subject: 'Yes, I run Inter radio off'
+    hostname: 72.91.154.142
+    created: '1190605196'
+    body: 'Yes, I run Inter radio off my palm thro the Actiontec router over Fios.'
+-
+    name: 'Anonymous visitor'
+    mail: vatsan_madabushi@yahoo.com
+    subject: 'I have a Belkin wireles'
+    hostname: 72.91.154.142
+    created: '1190605469'
+    body: 'I have a Belkin wireles router that I want to daisy chain (usuign teh wireless) to the actiontec router.  The Belkin router will not connect to teh innternet usign teh Actiontec.  Any help is appreciated.  I want to run the Actiontec for my computers and te belkin on my Xbox 360 (its in another room).'
+-
+    name: Cormega
+    mail: puff@inbox.com
+    subject: '2nd computer on FiOS'
+    hostname: 72.77.247.248
+    created: '1191501781'
+    body: 'I just had fios installed and have one computer sits by the router then I have another comuter in another room, which gets horrible connection and download speeds, is the a configuration on the router I need to do to make the 2nd machine use it full bandwidth?'
+-
+    name: 'Anonymous visitor'
+    mail: chowyuka@sbcglobal.net
+    subject: help
+    hostname: 72.67.13.228
+    created: '1192078208'
+    body: 'verizon just installed DVR in my house,and I wasn''t home so they didn''t re-reconnected my dvd player and my speakers that were connected to my tv. i had tried every way to make it but nothing so far. is it there anyone who can help me how to reconnect my speakers and make it work. the dvr is connected to video 2. and the tv has 3 more video connection.'
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 're: dvr'
+    hostname: 71.255.18.162
+    created: '1192104967'
+    body: "I never saw or used their DVR offerings.  Well I would be deeply concerned about using any non-free software based media processing system and whatever digital restrictions management it might include, and actually I generally do not watch TV anyway, but maybe someone else here might know.\r\n"
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'wired or wireless?'
+    hostname: 71.255.18.162
+    created: '1192105145'
+    body: 'I believe that QoS can be applied to individual ports on the device.  Certainly my old Linksys had this feature even with the default firmware, and certainly had it after I reflashed it.  But I would be surprised if it were configured that way by default.'
+-
+    name: 'Anonymous visitor'
+    mail: chris_gianni@yahoo.com
+    subject: 'hook the action tec up, call'
+    hostname: 72.40.83.37
+    created: '1192998332'
+    body: "hook the action tec up, call support, tell the m to do a dhcp break on ont, the ont stores old routers mac address and lease need to be broken manually to allow another router to connect, \r\n\r\n\r\nFios install tech"
+-
+    name: HCS
+    mail: alfastriker1@yahoo.com
+    subject: 'stupid fios'
+    hostname: 72.86.124.84
+    created: '1194979834'
+    body: 'after reading everyones blogs i now know what hole i''m in and how deep..lol. i have the verizon fios and there crappy router, i know the ip to the setup page but i don''t know the user name or password. any ideas on how to hack this p.o.s. lol to get in. i do alot of downloading and i know this thing is limiting me so i want to open more ports in it, but i''m unable to get in and to ask them is like pulling teeth from a lion. i tryed to use a linksys in it''s place and it wouldn''t work i even used a d-link witch was there before. i know these other routers work i use them in other places besides here at home. i''m a bewbie at this networking but i''m learning real quick. i am a pc tech i just need to learn networking. anyone have any ideas as what to use or how to use my other routers, i''m sure verizon is the reason i can''t just hook them up and use them can someone show me the way to get around that so i can use them? thanx for the help'
+-
+    name: 'Anonymous visitor'
+    mail: sozekizer@charter.net
+    subject: all
+    hostname: 71.8.119.240
+    created: '1195857283'
+    body: "anyone know why linux and unix-based os's are not supported? this oughtta be an easy one. There are simply too many flavors and customizations out there than can be taught. as a freebsd user, i am well aware of the differences and know that i could not easily work w/, for example, unbuntu, for the differences between the two. activatemyfios.verizon.net should work just fine. failing that, try contacting the fios billing center for a manual registration. \r\nregarding the mac upgrade -- dsl supports any os 8.6-9.2.2 and all versions of X; fios provides support for all versions of OS X. this is not to say the classic versions would not work but that they are trying to come current in their support. remember, even microsoft has ceased support of their own 9x series.\r\nin all cases, it is not the os that matters. all os's w/ any of the necessary internet protocols - tcp/ip - can connect to the internet via verizon. it is a matter of what platforms are supported by the verizon-specific software. \r\nregarding the request for the actiontec ip address. depends on your operating system:\r\nwin 9x ->start>run>winipcfg ->hit enter. \r\nwin 2k, xp, vista ->start>run>cmd>ipconfig.\r\nos 8.6-9.2.2 ->apple>control panels>tcp/ip\r\nos x - x.5.1->apple>system preferences>network. \r\nThe IP should be 192.168.1.1\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: freesoftwaremagazine@socosystems.com
+    subject: 'I''ve been troubleshooting'
+    hostname: 76.233.39.238
+    created: '1197505729'
+    body: 'I''ve been troubleshooting ichat issues on a completely different VoIP carrier/system (which FIOS technically is) and the problem is that ichat wants to use port 5060, which happens to be the same ports used for VoIP. The router treats the traffic as TA, even when you manually set a forward to the computer. This could be your issue. Unfortunately the only solution we found for our client was to use different routers, and multiple IPs. '
+-
+    name: charlie3333
+    mail: ''
+    subject: 'I want to upgrade to this'
+    hostname: 24.248.96.82
+    created: '1282940700'
+    body: 'I want to upgrade to this pretty bad, but of course there''s no fiber optic coverage in my area. It''s ridiculous how these big telecommunications companies won''t go into more rural areas because they won''t make enough money off of it. America''s brand of capitalism has reached the point of ridiculousness - I live in Evergreen, CO, and the high speed internet providers in my area is like the pirates of the carribean ride at disneyland.  You wait for forever and then once you''re finally on you get kicked off after about 5 minutes.'

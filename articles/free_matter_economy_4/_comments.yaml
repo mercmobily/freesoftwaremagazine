@@ -1,0 +1,14 @@
+-
+    name: god
+    mail: ''
+    subject: 'Comments from the old system'
+    hostname: 203.59.90.115
+    created: '1143729048'
+    body: "<strong>From</strong>: chuck \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2006-02-19\r\n<strong>Subject:</strong> linux cad link page\r\n\r\n\r\nMaybe I'm missing something but I can't find an edit button on the Wikki page.\r\n\r\n\r\n\r\nHere's a page that lists a lot of linux cad links:\r\n\r\n\r\n\r\nhttp://www.tech-edv.co.at/lunix/CADlinks.html\r\n\r\n\r\n\r\nOne project they don't lis is BRLCad:\r\n\r\n\r\n\r\nhttp://www.brlcad.org/\r\n\r\n\r\n\r\nch\r\n\r\n<hr/>\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'long-term stability of open-source projects'
+    hostname: 75.30.115.111
+    created: '1157303336'
+    body: 'The abundance of half-finished projects is due mainly to the lack of monetary resources available to the bazaar.  Cathedrals have money!  It took me a good ten years of work to beat XCircuit into a schematic capture system competitive with the expensive commercial alternatives.  That was roughly ten staff-years, with minor input from the open-source community.  A cathedral-type business knows the value of time-to-market and can compress the development into half a year by allocating the necessary staff resources to the project.  Consequently, the expenditure has to be recovered by charging "big bucks" for the software, no matter how incompentently executed it was.  But, I sense a change in the air.  Software is not what it once was.  There are a number of technical programs that have proven to be much longer-lived than the conventional wisdom would suggest was possible.  Some stability has come to the world of operating systems, and so software no longer needs to be completely re-written from scratch every few years.  For a while, software vendors will depend on tricking customers into believing that old software is obsolete if it doesn''t make use of the latest set of GUI widgets, but the engineers and designers who use the software will eventually understand that it''s the underlying algorithms that make the tool, not the GUI gewgaws, which are easy to update on a well-written piece of software.  Those open-source programmers who slowly plug away at their favorite projects will eventually catch up to the commercial vendors.'

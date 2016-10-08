@@ -1,0 +1,77 @@
+-
+    name: Tyler
+    mail: ''
+    subject: 'There''s more than one definition of ''Free Software'''
+    hostname: 132.206.91.45
+    created: '1174924510'
+    body: "I use Debian, and I have no moral issues with using the non-free repositories. This is because what Debian considers Free is not the same as what I consider Free.\r\n\r\nThe most glaring difference is in the GNU documentation, which use the GFDL which was designed specifically for use with free manuals. Because this license allows for invariant sections, bits that can't be altered, the Debian crew have branded it non-free. The consequence is that a good deal of important free documentation, in the GNU/FSF sense, is in the Debian non-free repository. This includes such important information as the docs for Bash, Emacs, gcc, make etc.\r\n\r\nI respect the Debian stance on this issue, but I do not agree with it. It has the unfortunate consequence of lumping good free documentation in with truly proprietary, closed-source programs, muddying the waters around the issue.\r\n\r\nOther programs are in the non-free repository because they explicitly forbid redistribution as part of a product that is sold for a profit. Again, this doesn't satisfy any definition of 'Free Software', but I don't considered this to be damaging to the Free Software movement in the same way as proprietary, closed-source code. I can still read the code, modify it as needed, and run it for any purpose. I can accept the authors wish to restrict me from profiting financially from their work in exchange for providing a tool that is otherwise unavailable in the 'Free Software' world.\r\n\r\nSo, in short, I think the branding of software as either free or non-free has become somewhat subjective, and it's up to each user to decide what is and is not acceptable to them.\r\n\r\nTyler\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Pragmatism
+    hostname: 201.252.7.2
+    created: '1174930409'
+    body: "Would you rather have people with systems that are 95% free and 5% proprietary, or the other way around? That's the difference between, say, an Ubuntu user who installs proprietary drivers, firmware, and apps like the Opera browser and Google Earth, and a Windows user who installs Firefox, OpenOffice and Gaim.\r\n\r\nProprietary software isn't inherently evil. I favor the free alternative whenever possible, but I know that I'm never going to exercise most of those freedoms. I'm not an engineer. I study law, and happen to like computers. I'm fighting an old K5 someone discarded to get it to run Linux, just because I don't want to install Windows 95. But I understand people who prefer proprietary alternatives sometimes. For example, I don't really mind my proprietary drivers - I bought my video card a few years ago when I used XP, I'm NOT going to stop using it or buy a new one. \r\n\r\nAlso, we should keep in mind that some advocates of freedom aren't 100% honest. The GPL and the GFDL are both copyrighted by the FSF. You can't make a derived license without infringing their copyright. That's a serious contradiction, in my view. I'd prefer a Mozilla-style clause that prevents me from using the names of the licenses if I want to make my own derived version."
+-
+    name: ''
+    mail: ''
+    subject: 'Twisted minds'
+    hostname: 87.66.48.115
+    created: '1174940153'
+    body: "As an open source proponent I sometimes have difficulties following the twisted mind of the free software followers; especially when they start to argue that excluding access to certain software improves the choice of the users.\r\nIf free or open source software can only survive by forbidding other software then let it die. I believe in the strength of open source software so that it doesn't need such rules.\r\n\r\ngreets,\r\nStaf.\r\n"
+-
+    name: dbdkmezz
+    mail: ''
+    subject: 'A little non-free can increase overall freedom'
+    hostname: 82.36.96.75
+    created: '1174948707'
+    body: "I think Ubuntu's position on non-free drivers makes a lot of sense, they have a policy \"of including proprietary drivers where these are required to enable essential hardware functionality.\" And define essential hardware as \"functionality which exists widely and for which there are free software applications that are broadly useful, that we wish to include in Ubuntu’s default install, and which require full use of that hardware\". And at the same time they are actively supporting efforts to create free software drivers so that the non-free ones may be soon replaced.\r\nhttp://www.markshuttleworth.com/archives/95\r\n\r\nSpot on, in my opinion. \r\n"
+-
+    name: Tyler
+    mail: ''
+    subject: 'branding and free software licenses'
+    hostname: 132.206.29.23
+    created: '1174948807'
+    body: "<em>Also, we should keep in mind that some advocates of freedom aren't 100% honest. The GPL and the GFDL are both copyrighted by the FSF. You can't make a derived license without infringing their copyright. That's a serious contradiction, in my view.</em>\r\n\r\nThat's more than a little harsh. The GPL and GFDL would be meaningless if you could alter them. The whole point of the licenses is to enshrine certain rights, and communicate them in a consistent way. And besides, in practice, you could make a 'derivative' license if you wanted to - you'd just have to start from scratch and select the bits you like and the bits you don't, rewritten and renamed. That would be onerous for a project like OpenOffice or Firefox, but for a license that is only a few pages long it is almost trivial.\r\n\r\nI think the GPL concept of Free Software is a great idea *for software*. I don't think we need to apply the same concept to licenses and trademarks - the role they play requires limiting modifications.\r\n\r\nTyler"
+-
+    name: ''
+    mail: ''
+    subject: 'GFDL?'
+    hostname: 201.253.244.48
+    created: '1174957320'
+    body: "What about the GFDL, then? It doesn't apply to software. What if I want to write documentation under a free license similar to the GFDL, <em>by some other name</em>. \r\n\r\nAnd there are uses for licenses derived from the GPL, LGPL and GFDL. The Affero GPL is good example. However, I don't understand why the FSF has to permit those uses: It would be more logical to permit modification, as long as you use some other name to avoid confusion."
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'The GNU licences shouldn''t be proprietary'
+    hostname: 217.17.120.42
+    created: '1175013696'
+    body: "I completely agree. I think it would be much better to allow derivative licences as long as the name is changed to show its not endorsed by the FSF or the GNU project, and maybe requiring a notice that it's based on the particular licence. The FSF say themselves that they think all functional works should be free as in freedom (or at least I've heard Richard Stallman say that in speeches), and a copyright licence is a functional work, which is used to allow certain freedoms with a particular creative work. I suppose they could argue that restricting derivatives of licences might be more effective at allowing computer users more freedom in general, as it reduces the problems caused by licence profileration, and it makes it more likely that people using free software will learn about the ideals of free software, as more people are likely to use licences which include the preambles written by the FSF.\r\n\r\nI don't agree with Tyler that \"The GPL and GFDL would be meaningless if you could alter them\". We're not saying that people should be allowed to modify the licences and give them the same names, or to remove the copyleft provisions of the licences by licencing their derivative works under a different licence. The existence of other licences based on the GNU ones also doesn't stop anyone using the original GNU licences to allow other people freedom.\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: ''
+    mail: ''
+    subject: 'they start to argue that'
+    hostname: 220.233.53.52
+    created: '1175158401'
+    body: "<cite>they start to argue that excluding access to certain software improves the choice of the users.</cite>\r\n\r\nIt's not about increasing the number of choices available to the user, it's about letting the user know about the freedom that they have with free software and the user-subjugating nature of non-free software. With free software, the users are free to empower themselves; the user is allowed to share the software with other interested people and the user is allowed to tinker with software without being subject to a particular vendor. This does not happen with non-free software; the user is not allowed to share software and/or is not allowed to tinker their software for their own requirements. Dependence upon non-free software can be avoided or minimised by funding the development of free software."
+-
+    name: 'Abdur Rahman Morgan'
+    mail: ''
+    subject: 'Re:Non-free repositories!?'
+    hostname: 24.48.38.235
+    created: '1176188606'
+    body: "The use of non-free repositories undermines the ideology of Free Software(as defined by the GPL). Comprimising our freedom, by using non-free repositories does not increase our overall Freedom, nor does a higher percentage of Free Software in a system that contains non-free repositories make it free for the people who are using it.\r\n\r\nFor users migrating to GNU/Linux, they have the right to know what it means to have the Freedoms defined under the GPL by having those repositories excluded to learn about Free Software. Most new users to GNU/Linux or many who have been using it, do not understand that they are using Free and non-free software and by not including the repositiories it eliminates the possibility of them using it. \r\n\r\nUbuntu, Gentoo, Fedora! Distributions, widely known, do not support the Freedoms fully by including the non-free repositories, which subjugate those Freedoms that we should have. Though they have contributed in adoption of Linux, it is GNU/Linux which we are promoting which includes, \"the users' freedom to run, copy, distribute, study, change and improve the software\", regardless of their skill level. It is important for people to have the capability to change and improve the software, even if they only are able to run because they may contribute their own knowledge in the future. That is in the spirit of who we are as a people, within the Free Software community and should try to be in our own. \r\n\r\nThere are alternatives to those distributions at http://www.gnu.org/links/links.html#FreeGNULinuxDistributions. We can promote: gNewSense, Ututo, BLAG and press upon larger distros to preserve the those values they are trying to uphold. Their ability not to include non-free repositories, is a conscious choice that assist us in staying firm with what we should inherently want to promote.\r\n\r\nFor advanced users that feel that the inclusion of non-free repositiories assist with the configuration of essential hardware, demand that vendors provide free software drivers (with source code)or provide hardware without restrictions and free software (with source code). The community has the potential to improve on it and make it better. That is what Freedom has allowed us to do all along and it only has a greater benefit by sharing between each other."
+-
+    name: 'Samir Chopra'
+    mail: samirchopra1@yahoo.com
+    subject: 'Whats the word on the totally free repositories'
+    hostname: 24.188.137.121
+    created: '1176571781'
+    body: "Whats the current take on distros like Blag, Ututo, gnewsense etc? How are these doing in terms of usability etc? (that is, has the problem of proprietary drivers become so onerous that it effectively means no totally-free distro is really a serious, usable system?)\r\n\r\n"
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'gNewSense works fine'
+    hostname: 217.17.119.160
+    created: '1176752011'
+    body: "I'm using gNewSense 1.1 at the moment, and it works really well. I definitely recommend downloading the live CD and trying it out. There's nothing I can't do with it that I couldn't with Ubuntu (unless I really wanted to download the proprietary ATI driver in Ubuntu Dapper, which let me have 3D acceleration but caused various other problems). I did buy a new wireless card (the Linkysys WUSB54G v4) so it would work well with gNewSense using 100% free software, without any proprietary firmware. To get my old one working with Ubuntu I had to download and compile the driver anyway (which contained proprietary firmware), and it worked terribly. This one works fine out of the box in gNewSense and Ubuntu.\r\n\r\nI haven't tried the other fully free distros such as Ututo, but I've heard they don't work as well. Judging by gNewSense though, I expect that's because of factors other than a lack of proprietary drivers.\r\n\r\n--\r\nGNU - free as in freedom"

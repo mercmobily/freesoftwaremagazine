@@ -1,0 +1,7 @@
+-
+    name: god
+    mail: ''
+    subject: 'See also'
+    hostname: 203.59.90.115
+    created: '1143701405'
+    body: "<strong>From</strong>: anon \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-09-22\r\n<strong>Subject:</strong> See also\r\n\r\n\r\nSee also\r\n\r\n\r\n\r\n[Perl regular expressions]\r\n\r\n\r\n\r\n$ perldoc perlre\r\n\r\n\r\n\r\nhttp://perldoc.perl.org/perlre.html\r\n\r\n\r\n\r\n[POSIX BASE and POSIX EXTENDED regular expressions]\r\n\r\n\r\n\r\n$ man 7 regex\r\n\r\n\r\n\r\nhttp://www.opengroup.org/onlinepubs/009695399/basedefs/xbd_chap09.html"

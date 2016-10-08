@@ -1,0 +1,196 @@
+-
+    name: admin
+    mail: ''
+    subject: 'Why ask?'
+    hostname: 124.168.86.117
+    created: '1164639021'
+    body: 'We decided that it would be interesting and useful to see what distros our readers use. Sorry if your distro is not shown... you know we can''t show them all. We have listed the top ten distros from <a href="http://www.distrowatch.com">DistroWatch.com</a> in no particular order. We may use this info to decide on what distros to focus on for future issues and articles.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Whoa, first vote'
+    hostname: 68.93.224.4
+    created: '1164639687'
+    body: "I'm still a Debian user, despite my whining about some recent policy decisions. It's the biggest distribution and one of the most purely produced by a community process. I have a strong belief that you should truth-test your values, and using Debian is a matter of practicing what I preach. If community-based production is your primary consideration, it's hard to do better than Debian (though I believe some other distributions such as Fedora are catching up in this respect).\r\n\r\nCommunity-based has a downside in that Debian tends to lack some professional polish, and it's certainly lacking in marketing panache (unless possibly we consider the strength of Debian's \"community-based\" image, which is well-established), but the upside is that it's a very thorough and well thought out system. It also tends to be a little out of date compared to distributions developed on a commercial basis.\r\n\r\nI do also realize that my choice, once made, tends to be pretty permanent. I'm just too lazy to learn how a new distribution works, unless it has an awful lot to offer beyond what Debian can do.\r\n\r\nDebian retains a very strong feeling of community participation, and I think that may be the most important reason for choosing it. At least with Debian, I know that it was designed \"by users for users\".\r\n\r\n"
+-
+    name: ivranos
+    mail: ''
+    subject: 'Red Hat Enterprise Linux derived distributions'
+    hostname: 194.219.214.15
+    created: '1164675957'
+    body: "There are GNU/Linux distributions that are derived from Red Hat Enterprise Linux (http://www.redhat.com/rhel), that is, recompiled from source.\r\n\r\nTwo of them are Scientific Linux (http://www.scientificlinux.org) and CentOS (http://www.centos.org). They are rock solid, with Enterprise-level stability."
+-
+    name: atlantia
+    mail: ''
+    subject: '1 vote gets 3%'
+    hostname: 67.165.118.79
+    created: '1164691693'
+    body: "Yeah, that would be my vote for Mepis.\r\n\r\nWhile I love ubuntu's depositories, I am a kde person - and Warren's distro rocks for everything I like about linux.\r\n\r\n"
+-
+    name: leonpmu
+    mail: ''
+    subject: 'Do you bundle Suse Linux with OpenSuse??'
+    hostname: 196.192.66.22
+    created: '1164696623'
+    body: 'If so then maybe change the infor to openSuse / Suse Linux or simply state any version of Suse.'
+-
+    name: admin
+    mail: ''
+    subject: 'Fair enough'
+    hostname: 124.168.86.117
+    created: '1164700057'
+    body: 'We''ve added any version to Ubuntu as well to cover X/Ed/K/Ubuntu.'
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: 'Give me out of the box  graphical effects and apt'
+    hostname: 145.18.144.17
+    created: '1164703040'
+    body: 'I like Fedora core 6 because of the extra out of the box graphical effects (child that I am), but prefer apt to yum, therefore I voted for Ubuntu.'
+-
+    name: ''
+    mail: ''
+    subject: Mandriva
+    hostname: 198.16.0.200
+    created: '1164716924'
+    body: 'Years of satisfied use with virtually no problems, other than self inflicted during the learning process. This one really works for me.'
+-
+    name: yong66sheng
+    mail: ''
+    subject: 'I like Fedora 1-5.'
+    hostname: 222.240.65.145
+    created: '1164727261'
+    body: 'I like Fedora 1-5.'
+-
+    name: mohamed_hagag
+    mail: ''
+    subject: 'gentoo fullfills my whole'
+    hostname: 196.218.177.191
+    created: '1164728735'
+    body: 'gentoo fullfills my whole life & it''s my forever love :) .'
+-
+    name: ashokan
+    mail: ''
+    subject: 'ubuntu fits my needs'
+    hostname: 202.83.54.38
+    created: '1164733442'
+    body: 'ubuntu has all the things which i wanted in a distro  it is simply the best.'
+-
+    name: ''
+    mail: ''
+    subject: 'Ubuntu enshrines the spirit of Linux'
+    hostname: 70.242.226.175
+    created: '1164738245'
+    body: 'Ubuntu is truly a community of caring folks.  The distribution installs on anything and everything and is complete.  It meets all of my needs.   Living out ubuntu would help this old world of ours!'
+-
+    name: 'Anders Jackson'
+    mail: ''
+    subject: Ubuntu/Debian
+    hostname: 81.224.169.37
+    created: '1165115270'
+    body: "Well, Ubuntu is based on Debian/testing.\r\nSo that means that Debian is the largest distribution here :)"
+-
+    name: Miark
+    mail: ''
+    subject: 'Mandriva is just plain excellent'
+    hostname: 69.247.20.184
+    created: '1165116523'
+    body: 'I''ve been using Mandriva for more than half a dozen versions. I tried Fedora Core 6 recently and, although I was impressed with the integration of SELinux, I was disappointed with the partitioning tool, the lack of "official" support for non-ext3 filesystems, and once I was set up, I concluded that Mandriva''s urpmi is a better package tool than yum. Fedora is probably excellent for running servers, but on the desktop, you can''t beat Mandriva.'
+-
+    name: 'Elaina Technophile'
+    mail: ''
+    subject: 'Mandriva 2006 was good and'
+    hostname: 210.212.162.140
+    created: '1165125053'
+    body: 'Mandriva 2006 was good and Mandriva 2007 is even better. KDE loads faster now. I''ve been using Mandriva for both Desktop and server and haven''t encountered any problems so far which weren''t caused due to my own ignorance. I''ve tried other distributions too, including Ubuntu, but I want to be able to play multimedia out of the box and not many other distros provide this. '
+-
+    name: 'gary larlee'
+    mail: ''
+    subject: 'Which Distro:'
+    hostname: 205.209.95.131
+    created: '1165133211'
+    body: "Archlinux,cause its the best,and the year i settled on Archlinux,i tested between 30 and 35 of distrowatch's best.Great community,wiki,chat channel and of cource developers:)),hands down Archlinux is the best i686 binary distro there is! I have used Archlinux since version 0.7 and am currently running 0.7.2 (Gimmick).\r\n"
+-
+    name: 'Nishant Desai'
+    mail: ''
+    subject: 'Red Hat 9.0'
+    hostname: 203.77.202.90
+    created: '1165215115'
+    body: 'Red Hat is a nice one to operate but it is somewhat complex for the kernel programming, becasue it by default contains teh different version of gcc and different version of running kernel which always makes the externel modules programming difficult.'
+-
+    name: beebelo
+    mail: ''
+    subject: 'I voted for Ubuntu since'
+    hostname: 158.52.254.237
+    created: '1165325956'
+    body: 'I voted for Ubuntu since I''ve used it the longest (since Hoary).  It''s the one distro that you''ll always find on my system.  I prefer Debian-based distros.  Debian itself complicated to set up in some areas.  Lately my distro for experimenting is Arch Linux.  It gives the administrator total control, but provides a nice package system--kind of a cross between Slack and Debian.  Works well and is fast, too. '
+-
+    name: JaDy
+    mail: ''
+    subject: 'other distros'
+    hostname: 68.80.33.5
+    created: '1165330852'
+    body: 'Please collect names of other distros and make our own "top ten" distro list.'
+-
+    name: samharun
+    mail: ''
+    subject: 'I Like Ubuntu'
+    hostname: 202.84.41.129
+    created: '1165481450'
+    body: "I like it. Ubuntu is very user friendly.\r\n\r\nS.A.M Harun"
+-
+    name: mohshami
+    mail: ''
+    subject: 'Once you go Gentoo, you never go back'
+    hostname: 194.165.129.242
+    created: '1165486482'
+    body: "Gentoo is the best distro I've ever used, I've installed kubuntu once, after all the stuff I read about it online, removed it after 3 hours and went back to my trust worthy Gentoo, you are able to configure your system you want it, not how someone wants.\r\n\r\nMohShami"
+-
+    name: 'Kenneth Cate'
+    mail: ''
+    subject: '1 vote for Puppy Linux'
+    hostname: 146.165.59.37
+    created: '1165518399'
+    body: 'I''ll put in a vote for Slackware based Puppy Linux.'
+-
+    name: peterle
+    mail: ''
+    subject: 'Debian: who needs anything else?'
+    hostname: 82.48.222.91
+    created: '1165677956'
+    body: "Debian is the more stable and powerfull distro, no doubt on that.\r\n\r\nUbuntu also is a good distro.... BUT... uppsala!... it's only another Debian's son...\r\n\r\n\r\n\"GOD SAVE, BUT BUDDHA MAKE INCREMENTAL BACKUP\""
+-
+    name: 'Wouter Verhelst'
+    mail: ''
+    subject: 'Well, not really'
+    hostname: 81.82.136.107
+    created: '1165830314'
+    body: 'Ubuntu is more and more diverging from Debian. I believe that within a few years, it will no longer be based upon it that much.'
+-
+    name: 'Raghu Kodali'
+    mail: ''
+    subject: 'I bow to Debian'
+    hostname: 125.22.84.243
+    created: '1165942375'
+    body: 'Shifted from Slackware to RH to Debian in 10 years. No intention of even seeing anything else.'
+-
+    name: ''
+    mail: ''
+    subject: 'PCLinuxOS: the only way to go for hardware'
+    hostname: 198.76.92.74
+    created: '1165952770'
+    body: 'Shifted from Ubuntu to PCLinuxOS: it''s truly remarkable. I haven''t seen this kind of hardware detection since Knoppix. It even found my wireless printer adapter without me having to lift a finger!'
+-
+    name: ''
+    mail: ''
+    subject: Opensuse
+    hostname: 83.201.227.67
+    created: '1171556423'
+    body: "Slackware user, need efficient Sonypi kernel patcj for my laptop, so now my Vaio VGN-BX194* (BX504 for US)  is under OpenSuse10.2, the faster peripherics detection ever, even if it's a RedHat-like but it's a fun distro.\r\nI relly mean that now it's is a good compromise for thoses you want easy hardware install and enougth advanced use of Linux (i can't use ubuntu after Salck for exemple).\r\n\r\nFor the specials WarXing week-end, i'm still using slack-based live CD...\r\n\r\nThe most important for linux i think is that now we don't need no more two weeks for install all stuff in a laptop (wifi cards, acpi...) and we can use it like a MAC OS or like a Windows, it's not so Geek but for working, my boss prefer see me programming than compiling my Kernel during office hours..."
+-
+    name: ''
+    mail: ''
+    subject: 'No *BSD''s ?'
+    hostname: 68.166.253.196
+    created: '1171860983'
+    body: "Well, if I don't have a choice of *BSD's; it would be Debian or a derivative of Debian. \r\n"

@@ -1,0 +1,63 @@
+-
+    name: feranick
+    mail: ''
+    subject: 'Not just javascript.'
+    hostname: 69.236.108.65
+    created: '1260492737'
+    body: 'The scenario described in this article is somewhat restrictive, as it gives full credit to JavaScript. It is however the combination of JavaScript, HTML and CSS that makes sites like Google Docs what they are. The role of HTML will be even greater as HTML 5 will gain shares in the market. You cannot easily replace Flash and Silverlight only with JavaScript. But you easily can with HTML 5. '
+-
+    name: AmyRose
+    mail: ''
+    subject: 'Whiskey Tango Foxtrot'
+    hostname: 69.81.118.102
+    created: '1260604425'
+    body: 'Here we go again. No, the cloud is NOT taking away the need for desktop applications. Most people want to store their documents locally, not on some random company''s servers. I don''t know of anyone who would use a website like Google Documents to do most of their work. Yeah, sure, it has some advantages, but most people I know don''t use it for anything. Of course, we also have games. And stop with this "everybody develops for the web. Nobody develops for the desktop anymore." It''s BS and you know it. Last I checked, Free desktop applications were continuing to be developed actively, like Empathy, Rhythmbox, Pidgin, OpenOffice.org, AbiWord, GIMP, Inkscape, etc. There are also some newer FOSS applications out there.'
+-
+    name: Ingotian
+    mail: ''
+    subject: 'Javascript in schools'
+    hostname: 87.194.18.229
+    created: '1260615637'
+    body: "This is why we have a strategy to teach Javascript in schools.\r\n\r\n1. Schools have a real problem installing software because of network\r\nsecurity. Teaching and using Javascript avoids that\r\n2. Javascript code is immediately available by viewing the source in\r\nthe browser. We can show a small program and how it works\r\n3. Javascript programming demonstrates Open Source instantly\r\n4. Students can work on their Javascript projects at school or at home.\r\n5. Students can learn by modifying small web based puzzles and games to produce new ones for their friends.\r\n\r\nHere are some examples in development.\r\n\r\nhttp://www.theingots.org/Ottos_club/\r\nhttp://www.euro-face.cz/javascript/pexeso/pexeso.htm\r\nhttp://www.euro-face.cz/javascript/puzzle/start.htm\r\nhttp://www.euro-face.cz/javascript/catch/catch.htm\r\n\r\nTake a puzzle change it and share it.\r\n\r\nAnyone wants to take part feel free.\r\n\r\nIan"
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: Interesting
+    hostname: 72.75.150.180
+    created: '1260798176'
+    body: "In some ways, Javascript became what Java originally was envisioned to do (for those that remember Java applets...), that is deliver a universal/platform agnostic client side experience in a browser.  In truth, it has been much harder to do so portably with Javascript because of broken document models and compatibility issues in certain browsers, yet it largely has happened despite even these fundimental flaws, so it is very valid to reflect on what this means going forward.  Another interesting place for Javascript in the future is entirely off the browser, as a platform/native client scripting language.\r\n\r\n"
+-
+    name: Ingotian
+    mail: ''
+    subject: Future
+    hostname: 87.194.18.229
+    created: '1260799268'
+    body: "If browsers become increasingly standards compliant which seems likely, Javascript will get used more and more with increasing support as more and more libraries and routines spring up. I can see a time where Visual Javascript or something similar makes it very easy to develop quite sophisticated applications without installing anything special. Extending this off browser would be a natural and logical development. \r\n\r\nIan"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Agree mostly, but Tony has a point'
+    hostname: 68.116.159.234
+    created: '1260938539'
+    body: "While I'm not certain that Tony was seriously trying to tell us that free software apps on  local CPUs are obsolete, I have to agree that it is emphatically not true -- at least for serious computer users.\r\n\r\nFor the core computer users, there's no substitute for having your data right here and right now. I already get burned from using my gmail account -- whenever there's an outage, I can't even read my old mail (fortunately, I don't keep a lot of important data there!).\r\n\r\nAlso, internet applications really only work for low-data-rate applications. Even the best broadband available is a far cry from the bus speeds on the inside of your computer! So for graphics and multimedia applications, I'm afraid the ribbon still goes to native apps.\r\n\r\nWhat happens to the masses who don't really know they are using a computer, is another story. The heyday of the PC may indeed be passing, in favor of more compact, more specialized devices like \"smartphones\" or \"netbooks\". And in those cases, distributed \"cloud\" computing may be more important so that the device itself is less important.\r\n\r\nThat creates some threat for free software -- which I think may be Tony's point. Because those apps are not distributed (but merely provided \"as a service\"), they don't need to publish their source code, even if they are based on copylefted software. This is kind of old news, but it also explains why Richard Stallman is so down on \"cloud computing\" -- too much reliance on it is a danger to \"user freedoms\".\r\n\r\nI think the importance you and I place on keeping our apps local is basically just an expression of our own greater concern with holding onto those \"user freedoms\", though we may express this in more pragmatic terms."
+-
+    name: Ingotian
+    mail: ''
+    subject: 'Water flows down hill'
+    hostname: 87.194.18.229
+    created: '1260953879'
+    body: "This is about trends not absolutes. For most people, web based applications have the capacity to do all the things they need to do get to facebook, send e-mail write notes and messages, handle their photos. For some people that might not be the case for a long time. Not too long ago unix was only available on minicomputers, now it runs on cell phones. Not long ago a 56k internet connection was considered fast. Water flows down hill even if it gets temporarily diverted from time to time. The rate varies but nevertheless it gets to the sea. \r\n\r\nChange takes time - that is why there are still a vast majority of Windows users. There will definitely be a persistent desktop market for a long time to come, and a lot of that will stick with what it knows, after all some people still use typewriters and we still spend a disproportionate amount of time teaching hand writing in schools and not keyboard skills when most kids are going to type a lot more than they write by hand.\r\n\r\nIn my own company we are moving more and more to the web. I put most documents on Drupal pages not in OOo, I share business plans using Google's on-line spreadsheet, we are evaluating Ubuntu One to get rid of the need for a local server. Why? Its simply more convenient. we have several 3G broad band connections as well as the main cable one so the internet going down is not really an issue (and outages are rare these days). We have two independent web hosts so we can back up between then and they back up everything 4 times a day for us in any case. So it's actually less expensive and less hassle. So while I currently have a desktop computer, a netbook and a smartphone I can see a time when the Smartphone internet combination with a decent size screen and keyboard is good enough. If it does the job and is less expensive it will take off particularly if the Windows lock-in is broken. Where does free software fit? Well the web servers have to run an OS, my Smart phone is Android based, Javascript has already been mentioned and no doubt popular apps will get repurposed for the web so you will be able to choose either a desk based or web version. May providers can support cloud computing - we use both Canonical and Google. I don't see the same lock-in problems as with Windows because Open Standards are becoming more and more mandated and the cloud is likely o be an interoperating environment where there is at least some choice of providers even if a big one like Google becomes dominant.\r\n\r\nIan"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'centralization is not inevitable (and humans aren''t just water)'
+    hostname: 68.116.159.234
+    created: '1260983204'
+    body: "Your post suggests that centralization is an unavoidable trend, but I don't think that's true. Technology allows both centralization and de-centralization, and both trends can be seen in the history of computing.\r\n\r\nCentralization is as much about politics as it is about the technology: who do you want to have control over your data? On the one hand, you can manage it yourself, with the caveat that you'll only have yourself to blame if you fumble and lose it. On the other hand, you can trust it to a corporation who is probably more reliable in principle, but has no sense of loyalty or personal motivation to protect your rights or needs.\r\n\r\nA lot of us would rather take the chance on our own abilities than to take the risk of being subject to someone else's agenda.\r\n\r\n"
+-
+    name: Ingotian
+    mail: ''
+    subject: Centralisation
+    hostname: 149.254.182.128
+    created: '1260986978'
+    body: "People have been shown to have the characteristics of sheep, Windows is the evidence :-) We are talking mass market here. Most people that use technology already use centralised technologies, Cell phone providers, MSN, YouTube, wikipedia, Googlemaps, AOL, etc etc. There will always be individuals who don't conform to these trends - 1.5 million SMEs in the UK have no web site but even that is changing. When you say a lot of us, you mean a diminishing minority when compared to the whole population, But choice is good and I don't see choice ending.\r\n\r\nIan"

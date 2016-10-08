@@ -1,0 +1,105 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Very well thought out and I'
+    hostname: 149.135.49.19
+    created: '1162600362'
+    body: "Very well thought out and I agree fully with your comments.\r\nMicrosoft is not going to give anything away unless theres mega dollars or power and control to them.\r\nUnfortunately the modern technology war, is not fought with innovation but more so with lawyers, legal loop holes and backdoor agreements.  \r\nUnfortunately Microsoft is one of the companies that forces many limitations to modern technology rather than promote it.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Greek *correct* quote'
+    hostname: 81.57.142.11
+    created: '1162623120'
+    body: "I thoroughly enjoyed the article: M$ as the Golden Agamemnon and his hordes and Novell as the warning-uttering Laocoon ; most of all, the correct translation of the quote, which illustrates the use of ET as a replacement for ETIAM ( \"even\" ).\r\nHate to say there's a typo though in the original quote: it's ferent<strong>E</strong>s (male accusative plural, related to Danaos) , not ferent<strong>I</strong>s.   "
+-
+    name: ''
+    mail: ''
+    subject: 'One minor "complaint" I'
+    hostname: 58.69.93.212
+    created: '1162660704'
+    body: 'One minor "complaint" I might have is the author''s use of "closed" to refer to proprietary software. Other than than, well thought out.'
+-
+    name: Fay
+    mail: ''
+    subject: 'Well reasoned and logical'
+    hostname: 82.71.8.109
+    created: '1162666971'
+    body: 'Thank you for sharing this well-reasoned and logical discussion of the issues. The wording and tone level makes it accessible to anyone. I would be happy to link to this. Please keep it up.'
+-
+    name: ''
+    mail: ''
+    subject: 'as always, the noob is confused'
+    hostname: 24.60.153.84
+    created: '1162702236'
+    body: 'so basically novell signed up with microsoft, and in exchange for microsoft pushing the use to some degree of the usage of suse, novell has put itself in the position where microsoft can basically destroy them as well as a bunch of getting to be really successful and competitive software such as open office? companies are stupid, but often not THAT stupid. what you said in the article sincerely seems totally plausible, but the line that i sorta relate to, the line that i see in ur article that was the most important, was the part about how everything is done behind the scenes and with lawyers. its cool and smart to speculate about what might happen. hopefully someone working at suse will read this and give it to the higher up powers in the company to mull over. until then, i''m not gonna be talkin about how its the end for linux, or at least things like suse, anyway. '
+-
+    name: ''
+    mail: ''
+    subject: 'Oracle and Red Hat Will Both Win'
+    hostname: 209.242.58.130
+    created: '1162703501'
+    body: 'One of the drawbacks to Linux in the enterprise has always been the single source of support when using either Red Hat or Novell.  The fact that Oracle is now another source for supporting Red Hat will only expand the market for both companies as more IT managers will get that warm and fuzzy support feeling when thinking about new Linux servers.  People like to have choices and the competition is good for everyone in the long run.'
+-
+    name: ''
+    mail: ''
+    subject: 'You misread the Sender-ID non-assertion pledge'
+    hostname: 24.16.182.129
+    created: '1162715571'
+    body: 'It says that their promise of non-assertion against you for implementing Sender ID does not hold if you assert a patent against them over <strong>their implementation</strong> of Sender ID.'
+-
+    name: 'Edward Macnaghten'
+    mail: ''
+    subject: 'You are correct.... (Apologies to all)'
+    hostname: 62.253.128.14
+    created: '1162760883'
+    body: "You are correct, and on that basis I owe an apology to Microsoft for that.  Details can be found at <a href=\"http://www.microsoft.com/interop/osp/default.mspx\">Microsoft's page</a>. \r\n\r\nThe place I read about Sender-ID did not mention this (I cannot remember where that was, unfortunately).  I usually check further before writing, I did not this time, that will teach me to do so in future.  On the same note, however, I still personally think Microsoft are promoting Sender-ID to control the technology more than to improve life for all, anything that helps stop Spam I am for, but why did not Microsoft join with standards already in place (ie SPF)?  There is obviously something in it for them for controlling this standard.\r\n\r\nEven though the Microsoft pledge was not the monster I first thought, in fact seems quite reasonable to me, I still am against letting the Sender-ID horse through the gates of the city."
+-
+    name: ''
+    mail: ''
+    subject: 'Re: Greek *correct* quote'
+    hostname: 4.155.93.206
+    created: '1162767735'
+    body: 'Romanes eunt domus!'
+-
+    name: ''
+    mail: ''
+    subject: 'Dona ferentis'
+    hostname: 24.144.132.86
+    created: '1162768553'
+    body: 'Isn''t that in the singular? (My two years of Latin were many years ago!) If so, the translation would be, "I fear the Greeks, even bearing a gift."'
+-
+    name: ''
+    mail: ''
+    subject: 'Greek *correct* quote'
+    hostname: 155.207.69.73
+    created: '1162824517'
+    body: "I concur.\r\n\r\nTo the learnt parent of this thread:\r\nAhh, at last! I found you! There are geeks proficient in the Classics!\r\nThe \"Golden\" Agamemnon and the \"warning-uttering\" Laocoon _and_ knowledge of Latin grammar.\r\nCongrats, mate! ;-)\r\n\r\nTo other readers, who might find this helpful:\r\nThe quote is from Virgil's Aeneid, which is the story of Aeneas of Troy escaping his now burnt and sacked city to find a new home, that will become Rome. It is much like Homer's Odyssey, which is the story of Odysseus the King of Ithaca returning home after the expedition to Troy. Odysseus was he who devised the plan involving the wooden horse. Both stories follow what happened after the War of Troy, covered in Homer's Iliad. \"Iliad\" is the area where Troy stood.\r\n\r\nTo the author of the original article:\r\nI am Greek and no offense taken. But we have to give credit to Odysseus, he was a cunning git and without him the War might have lasted another 10 years... \r\nAs for wars in general... sigh :-(\r\n\r\nCheers,\r\nK."
+-
+    name: ''
+    mail: ''
+    subject: 'I''m with you; no Sender-ID for me'
+    hostname: 68.167.146.78
+    created: '1162834904'
+    body: "If Microsoft really wanted to make life easier for folks, they would simply grant unrestricted use of the patent...or better yet, not have bothered to patent it in the first place.  TCP/IP is not patent-encumbered, nor is HTTP, FTP, or Secure Shell.  The CARP router redundancy protocol by OpenBSD is not patented.  All of these are great boons for the entire Internet.\r\n\r\nMicrosoft follow de jure standards only when they feel that they absolutely have to.  That's the only reason they adopted TCP/IP.  Even when they do adopt standards, look at what they're trying to do with HTTP (CraptiveX, broken HTTP implementations, VBScript).  There's a reason that we don't put bank robbers, especially repeat ones, in positions at financial institutions; it's because their past history shows that they'll likely do it again.  The same is true of Microsoft; their past history, along with their current behaviour, has shown that they will do it again...and again...and again....\r\n\r\nTrusting Microsoft is thus about the riskiest IT business proposition that you can consider.  Novell made a big mistake here.  It'll be interesting to see how long they last."
+-
+    name: 'Bruce Miller'
+    mail: ''
+    subject: 'Dona ferentes'
+    hostname: 72.138.231.202
+    created: '1162837630'
+    body: 'Speaking as a would-be geek, but one with two degrees in Classics, "et dona ferentes" is correct. Donum singular, dona plural. Think of stadium, stadia, datum, data.'
+-
+    name: strikesagain
+    mail: ''
+    subject: 'What about the Novell-v-SCO Suit ?'
+    hostname: 209.204.185.133
+    created: '1162858616'
+    body: "Does this mean that the suit filed by Novell against SCO which essentially throws a wrench in SCO-v-IBM wheelworks ?  Could this be a part of the deal ?\r\n\r\nRemember that Microsoft paid an amount of monies to SCO for IP that SCO should in turn handed over to Novell.  Does this deal remove that wrench giving SCO some leeway in their puruit of IBM deep pockets ?\r\n\r\nTalking about Greek, with all this tangled web of stabbings and back-stabbings and circular deals, does this scenario in technology world look anywhere like those fabled Greek operas where there is this whole maze of murders and in the end there is a sole character grieving for everybody ?  I would compare this scenario to one of Quentin Tarantio movies, however, QT's stories have more sense and logic to them."
+-
+    name: Jackie01
+    mail: ''
+    subject: ', “Timeo Danaos et dona'
+    hostname: 125.60.243.75
+    created: '1226481120'
+    body: ", “Timeo Danaos et dona ferentis”, which is usually mistranslated into the phrase “Beware of Greeks bearing gifts” is indeed not true.In fact Greeks have good gift suggestions. They can even  make handmade gifts.\r\n\r\n[Edited to remove non-free software related URL/advertising]"

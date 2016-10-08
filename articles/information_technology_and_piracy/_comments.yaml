@@ -1,0 +1,35 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Neil Armstrong picture is PD (or "Copyright Free")'
+    hostname: 68.93.224.4
+    created: '1191565559'
+    body: "By the way, the image of Neil Armstrong in the article is public domain (or \"copyright free\"), because it was produced by the US government (the camera was part of the Apollo 11 payload, of course, and its operation was controlled by government personnel -- in fact, IIRC, by Armstrong himself, by pulling a cord on the LM before descending the ladder).\r\n\r\nWorks directly produced by the US government are not copyrightable under US law, and thus go immediately into the public domain. Which is really cool -- especially for all those NASA solar system exploration images that are out there.\r\n\r\nThere is a loophole to watch out for, though: it turns out that if the government contracts a company to do work for it and the contractor produces the images, then copyright may be assigned to that contractor (I'm uncertain of the exact terms that govern this distinction). Fortunately, very few space probe images have this encumberance.\r\n\r\nOf course, there are also some other (non-copyright) stipulations about NASA images -- for example you still have to get permissions to use an image as a commercial endorsement.\r\n\r\nWhat's scary is the possibility of new \"broadcast rights\". Under these, a news agency would get a copyright-like right in such an image just because they relayed it from NASA to the viewing public. (!)  And of course, the \"broadcast flag\" would be used to lock such transmissions down with DRM encoding in transmitted video. I really hope we can avoid such abominations -- we've already got too many abuses of the system in the DMCA and the various copyright extension acts. It's time to start taking back the public domain!\r\n"
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'Broadcasting DRM'
+    hostname: 81.62.166.215
+    created: '1191574796'
+    body: "Yes, I know about NASA works being in the public domain. (Although I always wondered how exactly that photo had been taken - thanks for explaining! :D) My point was just that..\r\n<cite>If the footage of the landing on the moon had been broadcasted with DRM in place, you couldn’t reuse one second of the clip...</cite>\r\nI guess you are aiming at the same threat: Digital TV broadcasted with DRM encryption in place and some nasty broadcast flags turned on. I just freshed up my mind about 'Broadcast flag' on Wikipedia and they say the FCC tried to mandate DRM on all DTV devices. Furtunately a court ruled this was outside the FCC's authority, but a higher court could rule otherwise or the congress could give the FCC more authorities..."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Yeah, I don''t think the'
+    hostname: 68.93.224.4
+    created: '1192048209'
+    body: "Yeah, I don't think the broadcast flag fight is over. Another issue is that the WIPO wants to get a treaty established to create a new \"broadcast right\" which gives you a copyright-like monopoly over content you broadcast, regardless of its original copyright status. This would legitimize the broadcast flag DRM under law!\r\n\r\nObviously, we don't want to live in that world, so these things need to be resisted.\r\n"
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'Once the FCC mandates it,'
+    hostname: 85.0.33.48
+    created: '1192102305'
+    body: "Once the FCC mandates it, the other way it gets even written in the law.. :S I wouldn't like either ways.\r\n\r\nI'm really wondering how thinks will develop over the next decade or so. The best thing would probably be if artists themselves found out about the possibilities of the internet and created a serious alternative to the Mass Media. Then I wouldn't care about a broadcast-flag that much anymore. \r\nBut to get an independent strong free culture production really started, I think a major piece missing is a trustworthy, cheap micro-payments transaction system. Artists need to get payed somehow for creating free content. We still need to figure out how..."
+-
+    name: 'Anon Cust'
+    mail: vifhl@basicisp.net
+    subject: 'Current DRM trend'
+    hostname: 4.242.60.211
+    created: '1194770871'
+    body: "When the DRM advocates came up and implemented HDCP (still in progress), they crossed the criminal line themselves, ...conspiring to engage collusion and extortion of customers and manufacturers to pay for the DRM in software and HARDWARE that is unwanted.  It is also a clear conspiracy to interfere with free trade(the hardware design and operation), a fact recognized by numerous countries not currently under the DRM media moguls control. As a similar example, modern customers would probably revolt en masse if a gasoline brand was made to only work in one brand of vehicle or a certain food digestible only if you paid for the specific antidote in advance.\r\n\r\nIf I was a jurist or on a jury and the media was suing a DRM copyright violater, I would favor either outright dismissal or a very small sum, ie 1 cent, under the Clean Hands Doctrine which the DRM promoters no longer qualify due to the more criminal, extensive, and damaging aspects of their DRM schemes such as HDCP."

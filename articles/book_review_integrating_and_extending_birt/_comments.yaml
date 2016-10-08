@@ -1,0 +1,14 @@
+-
+    name: 'a not registered Daniel'
+    mail: gustav.gans@hallo.de
+    subject: 'which version of birt does'
+    hostname: 194.8.61.5
+    created: '1186061304'
+    body: "which version of birt does this book refer to?\r\n\r\ndoes it refer to version 2.2 (the newest one)?\r\ndue to the poor documentation of birt 2.2 on the web i am looking for a book discribing how to implement and extend birt 2.2.\r\n\r\ncheers\r\nDaniel"
+-
+    name: Serge
+    mail: serge@softarea51.com
+    subject: 'BIRT adoption'
+    hostname: 86.106.92.251
+    created: '1186619317'
+    body: "I have analyzed recently a few open source reporting and business intelligence solutions and BIRT managed to impress me. It's a powerful report designer that I would compare to Microsoft Reporting Services designer capabilities. A good documentation may help BIRT spreading and adoption.\r\n"

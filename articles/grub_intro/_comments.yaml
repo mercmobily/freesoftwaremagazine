@@ -1,0 +1,147 @@
+-
+    name: god
+    mail: ''
+    subject: 'Comments from the old system'
+    hostname: 203.59.90.115
+    created: '1143729818'
+    body: "<strong>From</strong>: pierre laplante  <b>(SUBSCRIBER!)</b>\r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2006-01-29\r\n<strong>Subject:</strong> files\r\n\r\n\r\nDo you have a places where we can find all the files. So it would be easier to test.\r\n\r\n\r\n\r\nthanks\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Matt \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2006-01-30\r\n<strong>Subject:</strong> Typo\r\n\r\n\r\n4th sentance, 1st paragraph. \"short-sided\" => \"short-sighted\"\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Dave Guard  <b>(SUBSCRIBER!)</b>\r\n<strong>Url</strong>: www.freesoftwaremagazine.com\r\n<strong>Date</strong>: 2006-01-31\r\n<strong>Subject:</strong> Typo - fixed.\r\n\r\n\r\nThanks for spotting that. Somehow, everyone in the editing process missed it. It must be because it doesn't look like a typo.\r\n\r\n\r\n\r\nThanks again and thanks for reading. \r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Stuart Guthrie \r\n<strong>Url</strong>: http://www.polonious.com.au\r\n<strong>Date</strong>: 2006-02-09\r\n<strong>Subject:</strong> Can you boot from a disk.iso?\r\n\r\n\r\nIs there a way to boot from a disk version of an iso? ie to cut-out the step where you burn a CD. This would be most handy..\r\n\r\n<hr/>\r\n\r\n"
+-
+    name: 'Jan Macek'
+    mail: ''
+    subject: 'Sidebar 1: Contents of menu.lst'
+    hostname: 213.220.244.86
+    created: '1144960712'
+    body: '<code>knoppix_dir=/boot/images</code> instead of <code>knoppix_dir=images</code> for correct DSL booting. Really nicely written and useful article. '
+-
+    name: 'Jeremy Turner'
+    mail: ''
+    subject: 'Booting from iso'
+    hostname: 65.64.97.1
+    created: '1145970498'
+    body: "Hi Stuart,\r\n\r\nNo, I was not able to find a way to boot directly from an iso image.  But it was also not the intended goal.  Since grub works independently of the kernel and disk image, I can copy the compressed-cloop file (usually KNOPPIX or such), along with the kernel and minirt file, save it to my flash drive, and it would work great.  Some distributions, like DamnSmallLinux rarely ever change kernels (DSL 2.3 still uses 2.4.26), I don't even need to copy over those files.\r\n\r\nAlthough not much, copying the entire iso would take up a little more space.  Not only are there extra files on the iso image, but there's the properties of the iso image files (Joliet and RockRidge extension information) that would all need to be saved on my flash drive.   This is probably not much, but I'm working with a 256 MB drive.\r\n\r\nSo the short answer is no.  But let me know if you come across a way to do it!"
+-
+    name: ''
+    mail: ''
+    subject: "very nice article...!\n"
+    hostname: 220.225.35.210
+    created: '1156529196'
+    body: 'very nice article...!'
+-
+    name: ''
+    mail: ''
+    subject: 'boot from iso image'
+    hostname: 200.208.42.25
+    created: '1156535003'
+    body: "I'm searching for a way to boot from iso images... \r\n\r\nI found the avlgo to boot iso, but this don't work very well, don't support linux live cd and the compression type is incompatible for linux boot cds testeds...\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'awesome :) Thanks'
+    hostname: 219.90.255.59
+    created: '1159189083'
+    body: 'Works perfectly and so easy & simple. Thank you.'
+-
+    name: ''
+    mail: ''
+    subject: 'The short answer is yes :).'
+    hostname: 158.132.12.80
+    created: '1159947359'
+    body: "The short answer is yes :). I just spent the past two days to find out how.\r\n\r\nuse grub for dos (http://grub.blogeden.cn/post/23308/2412 - it's in chinese though)\r\n\r\nIf you just want to do something like in linux live cd, i.e., the iso file is used to host the systems files, it's easy and straightforward to use iso.\r\n\r\nIf you want to boot from a iso file on a harddisk, do something in menu.lst like\r\n\r\ntitle Boot from iso on a harddisk\r\nmap (hdX,Y)/your.iso (hdZ)\r\nmap --rehook\r\nchainloader (hdZ)+1\r\nrootnoverify (hdZ)\r\nboot\r\n\r\nThe iso file must be in one chunk - contig from sysinternal http://www.sysinternals.com/Utilities/Contig.html may come handy. It's a good idea to use fat32 to host the iso file.\r\n\r\nAlso check out\r\nhttp://www.911cd.net/forums//index.phpshowtopic=15617&st=20&p=101928&#entry101928 \r\nand \r\nhttp://www.911cd.net/forums//index.php?showtopic=18045\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Freeze :('
+    hostname: 85.68.63.35
+    created: '1161090953'
+    body: "Boot simply freezes on my machine juste before grub is loaded (or just when it loads ?). BIOS says it has found the USB mbr and will boot on it, then nothing. I must switch off my computer.\r\nHave searched for reasons but found nothing. If someone has hints..."
+-
+    name: ''
+    mail: ''
+    subject: 'Grub install'
+    hostname: 204.249.107.254
+    created: '1163719833'
+    body: "When installing grub you were able to find your boot device by:\r\n# grub\r\ngrub> find /boot/grub/stage1\r\n (hd0,1)\r\n (hd2,0)\r\n\r\nMine only shows shows my main hard disk. I am using Fedora Core 5 I have been trying to install Grub directly to the devices but it gives me a wierd error about my BIOS. My drive is a 2G noname brand. Any tips?"
+-
+    name: ''
+    mail: ''
+    subject: 'Few corrections'
+    hostname: 66.244.182.244
+    created: '1168296641'
+    body: "First, the latest version of grub I've got on FC6 actually looks for grub.conf NOT menu.lst.  So you might have to rename that file.\r\n\r\nSecond, the error mentioned above is huge...the path for knoppix_dir is absolute, not relative, so it has to be /boot/images as mentioned.\r\n\r\nThird, for the last poster on the Grub install...I've noticed that sometimes grub doesn't find the drive.  I think if you do a bad search it can get confused.  Quit and restart doing the commands in order.  I also think that tabbing can confuse it.  Took me a few tries but it worked.\r\n\r\nAnyway, thanks for the article, it really helped!"
+-
+    name: ''
+    mail: ''
+    subject: 'run as root'
+    hostname: 200.247.157.202
+    created: '1169067622'
+    body: "Be sure to run the grub command as root.\r\n\r\nOn Ubuntu if I run as user it will only list hd0,0 but if I do 'sudo grub' it finds all disks."
+-
+    name: ''
+    mail: ''
+    subject: 'IT FREEZES, PLEASE HELP'
+    hostname: 201.217.160.113
+    created: '1171469867'
+    body: 'I can load GRUB, but when i choose DSL, it starts loading, then it says "cheking for USB devices" and freezes. I am using a centrino Toshiba laptop with 4 USB ports. Can anyone give some hints? Thanks.'
+-
+    name: ''
+    mail: ''
+    subject: 'It appears the short answer is not yet but soon!'
+    hostname: 71.247.19.42
+    created: '1172515264'
+    body: 'http://sarovar.org/forum/forum.php?thread_id=1767&forum_id=1099'
+-
+    name: ''
+    mail: ''
+    subject: Relativity
+    hostname: 64.123.190.79
+    created: '1173174823'
+    body: 'How could the resulting USB stick work on any computer, if the disk location is hard-coded into menu.lst?'
+-
+    name: ''
+    mail: ''
+    subject: 'It appears the short answer is not yet but maybe soon!'
+    hostname: 150.244.250.90
+    created: '1175160300'
+    body: "I'm not sure if grub4dos will work with linux iso images. As it is said in the URL you posted, the work of grub4dos in this item may be followed in the same way it is at ISOEMU (by Gandalf).\r\n\r\nI've taked a look at:\r\n<a href=\"http://www.supinfo-projects.com/en/2005/vd_boot_multi_os/2/\">http://www.supinfo-projects.com/en/2005/vd_boot_multi_os/2/</a>\r\n\r\nI've donloaded ISOEMU\r\n<a href=\"http://sysoft.zdwx.com/isoemu/bin/isoemu_109_eng.zip\">http://sysoft.zdwx.com/isoemu/bin/isoemu_109_eng.zip</a>\r\n... and even when I read the following at the README, I tried. Not too hard because of this:\r\n\r\n<code>\r\nKnown Limitation\r\n\r\n=================\r\n\r\n\r\n\r\n* Support FAT32/NTFS partition only;\r\n\r\n\r\n\r\n* Works on x86's RealMode only(so this app cannot be used to boot Windows PE, \r\n\r\n           OR, WinNT based OS), `cause it hooks INT13h;\r\n\r\n\r\n\r\n* Support 8.3 file format only;\r\n\r\n</code>\r\n\r\nso.... will it work with linux? I think not at the moment.\r\n<a href=http://en.wikipedia.org/wiki/Protected_mode>http://en.wikipedia.org/wiki/Protected_mode</a>"
+-
+    name: Ixian
+    mail: darkrain90@gmail.com
+    subject: 'It isnt hardcoded into'
+    hostname: 24.86.210.243
+    created: '1178790453'
+    body: "It isnt hardcoded into menu.lst.\r\nit uses hd0,0 which is what the USB stick becomes when you boot from it."
+-
+    name: 'Anonymous visitor'
+    mail: qedqubit@gmail.com
+    subject: 'hello there i''m trying to'
+    hostname: 86.87.87.20
+    created: '1196386647'
+    body: "hello there i'm trying to boot *.iso files from my bootdirectory\r\n\r\nhowever its not accepted when edit \r\n\r\nchainloader (hd0,1)/knoppix.iso\r\n\r\ninto grub.conf, it says it doest know the file system, but iso966- is in /grub.\r\n\r\nit says version 0.97, is this too old ?this came with my gentoo install cd\r\n\r\ncan anyone give us their grub.conf with some working isos in it ?\r\n\r\nthanx,\r\nqedqubit"
+-
+    name: amsterdamharu
+    mail: ''
+    subject: 'Could not find kernel image'
+    hostname: 124.225.211.117
+    created: '1223032361'
+    body: "Are you sure after running the setup it works? All I get when booting is \"could not find kernel image linux\". Grub is not even starting at all because I cannot use any of the grub commands.\r\n\r\nFound many sites that say you have to format the drive and use grub-install. Trying that on a fedora 9 machine does not seem to work either: (fedora mounted the usb as TRIP and hd1 is the what I get when using find in grub  (hd1,0)\r\n# grub-install --root-directory=/media/TRIP hd1\r\n/dev/sdb1 does not have any corresponding BIOS drive\r\n\r\nHope anyone can help me out here.\r\n"
+-
+    name: amsterdamharu
+    mail: ''
+    subject: 'Are you sure grub installs this way?'
+    hostname: 124.225.211.117
+    created: '1223032738'
+    body: "I am using fedora 9 and all I get when rebooting is: \r\n\"Could not find kernel image: linux\"\r\nGrub has not started I think because I cannot use any of the grub commands, the only thing is typing a location for the kernel image and even that won't help\r\n/boot/kernels/dsl-linux24\r\n\r\nCould it be that the usb is not hd0,0? There is one hd in my computer and one cd so tried hd1,0 and hd2,0 but no luck."
+-
+    name: dankexie
+    mail: ''
+    subject: 'Support of ext2/3 partitions and legacy BIOS'
+    hostname: 199.106.103.248
+    created: '1274995997'
+    body: "Known Limitation\r\n\r\n=================\r\n\r\n* Support FAT32/NTFS partition only;\r\n\r\n* Works on x86's RealMode only(so this app cannot be used to boot Windows PE,\r\n\r\nOR, WinNT based OS), `cause it hooks INT13h;\r\n\r\n* Support 8.3 file format only;\r\n\r\n=================\r\n\r\nIn GRUB 0.97, you can use any file system it supports (FAT, ext2/3, etc). If GRUB doesn't boot up because BIOS doesn't recognize the USB drive correctly, there is a script to fix GRUB to run on these legacy BIOS: \r\n\r\nhttp://bootloader.wikidot.com/linux:boot:usb-grub\r\n\r\nhttp://bootloader.wikidot.com/linux:boot:usb"
+-
+    name: fred3
+    mail: ''
+    subject: 'GRUB2?'
+    hostname: 207.118.85.243
+    created: '1318820365'
+    body: "What might the instructions be now for GRUB2?\r\n?"

@@ -1,0 +1,63 @@
+-
+    name: mattflaschen
+    mail: ''
+    subject: 'Build environments'
+    hostname: 128.61.73.81
+    created: '1172359125'
+    body: 'It''s really inaccurate to say that free software/open source hasn''t considered build environments.  Why do you think the free software developers created make, automake, autoconf, ant, etc.?  These are all tools for just the problem you described.  The GPL even requires source for modified verisons include "the scripts used to control compilation and installation of the executable."'
+-
+    name: ''
+    mail: ''
+    subject: 'RE: Build environments'
+    hostname: 86.34.237.177
+    created: '1172368754'
+    body: "The tools you mention are too complex to learn, although you can start with just a ./configure && make && make install\r\nAnd add to that the complexity of tools needed to build distro specific packages.\r\n\r\nGetting into developing free software on GNU/Linux is not very user friendly unless you use something like Python ;)\r\nAlthough Java helped with the latest and greatest Java IDEs is a close second ... so I really hope to see Java also running on top of OLPC, especially now since it will be GPLed."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'You misunderstood the criticism'
+    hostname: 68.93.224.4
+    created: '1172385025'
+    body: "Ivan was not criticizing the community for not creating build systems. He was saying that the build systems are hard to use, and that distribution leaves that problem up to the user. Many users simply aren't up to the task (even if they might be up to the programming itself).\r\n\r\nThe point is, we are talking about a six to ten year old child.\r\n\r\nI'm not sure <em>I</em> understand autoconf, I'm certainly not going to have much luck explaining it to my school age kids.\r\n\r\nOn the other hand, Python (or any interpreted language) makes \"modifying and running\" quite transparent, even for kids.\r\n\r\n"
+-
+    name: 'Geoffrey Lehr'
+    mail: ''
+    subject: 'Truly Subversive'
+    hostname: 38.116.136.215
+    created: '1172428838'
+    body: "Indeed, this project has the potential to be truly subversive, IF the children aren't mentally shackled by the likes of Microsoft et al.  If they are welcomed into the community and aided and made to feel worthwhile so they don't turn to MS.  Of course, there's the potential for them to completely develop their _own_ community, especially with the mesh network, which could be a very interesting occurrence.\r\n\r\nOTOH (using your numbers), if a mere 0.01% become script kiddies, that's 10,000 new script kiddies to deal with, though fortunately they won't have the 'benefit' of working with Windows to learn their mad skillz."
+-
+    name: ''
+    mail: ''
+    subject: '> if a mere 0.01% become'
+    hostname: 89.120.158.118
+    created: '1172487588'
+    body: "> <i>if a mere 0.01% become script kiddies, that's 10,000 new script kiddies to deal with</i>\r\n\r\nActually that's also a good thing.\r\nIt will help demonstrate that security by obscurity is nonsense.\r\n\r\nToo many companies are not thinking enough about security or are under the impression that Free Software is insecure because the source code is available.\r\n\r\nScript kiddies contribute to making the security systems more harder to crack ... its natural evolution that just works.\r\nAnd it gets harder and harder to become a good cracker ;)"
+-
+    name: 'Geoffrey Lehr'
+    mail: ''
+    subject: True...
+    hostname: 38.116.136.215
+    created: '1172504289'
+    body: 'True ''nuff, I hadn''t considered that! :-)'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Going to happen anyway...'
+    hostname: 68.93.224.4
+    created: '1172506962'
+    body: "I think we're going to see \"10,000 new script kiddies\" no matter what happens. In fact, I'd wager the impact of new OLPC users entering those ranks will be negligible.\r\n\r\nThis also has to do with the way that the numbers work. 10,000 new script kiddies is just a linear increase in internet attacks. An O(N) phenomenon.\r\n\r\nBut free software value is highly aglomerative or self-amplifying. It probably does at least O(NlogN) or O(N^2) growth (N being the number of developers). My reasoning on that is that, the more free software there is, the more material there is for a new programmer to pick up and work with. That means more free software gets created, and so on (it's a positive feedback loop).\r\n\r\nThere <em>are</em> limiting factors as well. As individual coding projects get more complex, the system runs into combinatorial explosion problems, resulting in an increased effort to maintain.\r\n\r\nPretty much the entire discipline of computer science (structured programming, object-oriented, functional, aspect-orient, very-high-level languages, etc. etc.) is dedicated to orthogonalizing programming problems to reduce the impact of such combinatorial explosion—by converting large interlocked projects into thousands of tiny quasi-independent projects.\r\n\r\nTaking those two factors into account, and basing itself on historical empirical evidence, the COCOMO I model (which was used for the Debian \"replacement cost\" estimate above) uses a power law, with alpha=1.05 for that (IOW, \"O(N^1.05)).\r\n\r\nSo, increasing growth requires also a constant improvement in software engineering techniques -- constantly organizing and simplifying the organization of code.\r\n\r\nFrom the evidence I've seen, corporate proprietary development entities are hitting a complexity wall at which their abilities cap out. (E.g. evidence suggests that Microsoft is running into a combinatorial wall with Windows Vista so the project is in a runaway to unmaintainability). That is to say, we are reaching the limits of what monolithic corporate capitalism can achieve in software development.\r\n\r\nOTOH, free software teams constantly divide as a natural behavior, so they stay in small, highly orthogonal groups, and the resulting combinatorial problems are solved. The evidence suggests that free software production, taken collectively, is NO WHERE NEAR any kind of productivity limit and can be expected to continue near-exponential growth for years to come.\r\n\r\nAnd of course, that codebase is working against the \"script kiddies\" to produce software quality. You can of course, accept the \"tiger team\" view of crackers -- they keep us strong because we constantly have to fight them. In which case, the \"script kiddies\" are actually contributing to the quality of software.\r\n\r\nTthough this is suspiciously close to the \"broken window\" fallacy in economics. After all, what \"script kiddies\" primarily do is to make software more proof against script kiddies.\r\n\r\nThat's kind of like how the main reason you need a lawyer is to protect you from other lawyers (or the main reason you need a military is to protect you from other countries' militaries). In both cases, it might actually be better for society to reduce the total number of crackers/lawyers/militaries. But which actor within the society actually has the power and motivation to initiate such an action?\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Great article'
+    hostname: 62.167.21.231
+    created: '1172584670'
+    body: "A really great article, covering many topics around the OLPC. We have featured it on\r\n\r\n<a href=\"http://olpc.com\">olpc.com</a>\r\n"
+-
+    name: 'Laptop hq'
+    mail: akhiljbp21@gmail.com
+    subject: 'I think we''re going to see'
+    hostname: 122.168.13.255
+    created: '1180521974'
+    body: 'I think we''re going to see "10,000 new script kiddies" no matter what happens. In fact, I''d wager the impact of new OLPC users entering those ranks will be negligible.'

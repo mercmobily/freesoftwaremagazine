@@ -1,0 +1,35 @@
+-
+    name: ''
+    mail: ''
+    subject: '  Thanks for the tutorial'
+    hostname: 198.54.202.234
+    created: '1171392441'
+    body: "   Great.  Thanks for the explanation. I'll have to practise that one. GIMP is one of my interests but I'm very new at it.\r\n\r\n   Rodney."
+-
+    name: 'larry ravitz  '
+    mail: larryr1@centurytel.net
+    subject: 'digital image resizing with the gimp article'
+    hostname: 72.161.24.136
+    created: '1194901864'
+    body: "thanks for the very informative article, however tried to print it and get over-print of side adds. Could you please email me a complete copy of this article for my reference use.   Thanks again.\r\nIssue 15"
+-
+    name: 'Gianluca Pignalberi'
+    mail: ''
+    subject: 'Email address missing'
+    hostname: 80.104.237.198
+    created: '1199909715'
+    body: "Hi Larry,\r\nI just read your post: I apologize for reading it too late. Please, send me an email I can send the article to: I don't find your address."
+-
+    name: deliaresizer
+    mail: ''
+    subject: 'Hello, Thank you for the'
+    hostname: 89.137.101.254
+    created: '1209673197'
+    body: 'Hello, Thank you for the tutorial. Actually it is the first time I heard about GIMP. I am using a resizing tool right now called Reshade and I am stunned by the high quality results that I get but GIMP caught my attention so I am looking forward for further articles on this.'
+-
+    name: BlueEchidna
+    mail: ''
+    subject: 'Great article, but not quite enough.. help wanted'
+    hostname: 75.163.180.14
+    created: '1223081705'
+    body: "Could anyone help a nearly complete newby? I trying out GIMP again on a hardware able to handle it, but having trouble printing.  My backup is to do it in MS powerpoint, but I'd really like to get GIMP going...\r\n\r\nI've always wanted to learn GIMP, so I started using it for my passport photos.  After almost an hour of playing with image scale, and print size in GIMP, plus image settings on the print dialog, and printer properties (aka preferences), and reading this article, I'm still out a loss as to how to get a print image 2\" by 2\". Here's what \r\n\r\nI have: \r\n\r\nGimp 2.4.6 for windows:\r\na ~1950x~1950 pixel file in GIMP\r\nprint size 1\" by 1\" (1872 pixel/in)\r\nimage settings size:2\" by 2\" (on the print dialog)\r\nLexmark 2500 properties:quality:photo, letter, portrait.\r\nI get a full page print containing about 1/4 the photo.\r\n\r\nwhat has no effect: \r\n-downsampling in GIMP via Image scale (144x144 pix image: huge result, low quality)\r\nprint size in GIMP 1\" or 2\" or 0.29\" - same output\r\n\r\nwhat helps:\r\nimage setting on the print dialog 2nd tab: this has an effect, but even 1\"x1\" is 4 sheets huge.\r\n\r\nDoes GIMP do some kind of negotiation with the print driver?  It's as if the driver always prints to 4 sheets big.  Has anyone else had problems using the Lexmark 2500 with GIMP?"

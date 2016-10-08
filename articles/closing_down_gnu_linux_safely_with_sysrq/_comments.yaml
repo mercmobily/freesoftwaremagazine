@@ -1,0 +1,63 @@
+-
+    name: sonoftheclayr
+    mail: sonoftheclayr@gmail.com
+    subject: 'Problem with SysRq key'
+    hostname: 59.101.248.73
+    created: '1183783086'
+    body: 'I found this article very useful as I sometimes find myself in a situation such as this and am forced to turn the computer off manually. I have on problem though. On my laptop SysRq is a function key and there is no key on my laptop to lock the function key down, if that makes sense. Is there some way I can change the combination or another solution?'
+-
+    name: mark541
+    mail: pinjoh541@sbcglobal.net
+    subject: 'RE: Problem with SysRq key'
+    hostname: 68.75.177.2
+    created: '1184000588'
+    body: "I've got a laptop with the same limitation. I've found that you can do it with the Function key with a little experimentation (and very flexible fingers). On my laptop I did it with this combination:\r\n\r\nAlt + Function + SysRq + x (where x is one of R S E I U B etc.)\r\n\r\nYou may need to experiment if, for example, your laptop prefers it to be entered as:\r\n\r\nFunction + SysRq + Alt + x\r\n\r\nI don't have my laptop with me at the moment, so I'm not sure if it works both ways (When it worked the first way, I didn't try the other).\r\n\r\n"
+-
+    name: 'Felipe Alvarez'
+    mail: felipe.alvarez@gmail.com
+    subject: 'did not work for me - opensuse 10.2'
+    hostname: 206.248.171.94
+    created: '1184040407'
+    body: 'I use a HP laptop (nx7400) with opensuse 10.2 My keyboard has PRTSC, SYSRQ, Fn (function) and of course the letters. The only thing that usually comes up is "HELP" menu in Firefox (alt + Fn + sysrq + H) or ksnapshot (K desktop). I tried it on my desktop PC with same OS and KDE, and only ksnapshot opens up. Any ideas?'
+-
+    name: 'John Beisley'
+    mail: greatred@gmail.com
+    subject: 'If you enter the following'
+    hostname: 82.2.89.112
+    created: '1184271120'
+    body: "If you enter the following into a terminal after you've done an Alt-SysRq-S, for example, you should see that in fact it *has* done something (well, it does for me):\r\n\r\n$ dmesg | tail -n2\r\n[ 4065.874162] SysRq : Emergency Sync\r\n[ 4066.451217] Emergency Sync complete\r\n\r\nAlthough in my case it also brings up the GNOME screenshot program, but the kernel *also* catches the SysRq, and does what is required."
+-
+    name: Gonz
+    mail: gonzoznog@nfnty.org
+    subject: 'Somebody''s on crack'
+    hostname: 147.133.0.169
+    created: '1184720639'
+    body: 'Somebody''s on crack ALT+SyRq+AnyKey will give you a nice screen shot and thats about it.'
+-
+    name: 'Anonymous visitor'
+    mail: rdlee@acm.org
+    subject: 'Laptop ''soft keypad'' overrides useful keys'
+    hostname: 75.36.187.106
+    created: '1185139447'
+    body: "Sadly, on my laptop, the kernel sysreq handler seems to interpret all the UIOPJKL;M,./ keys as part of the number pad, so this mostly just changes the log level. (more complex than that, because I use dvorak, so these keys are actually GCRLHTNSMWVZ).\r\n\r\nBtw, to turn off the screen capture, you just need to edit your key bindings in X windows.  Makes it much easier to test.  Do a tail -f /var/log/messages to see what its doing."
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Great!
+    hostname: 68.197.66.72
+    created: '1185207778'
+    body: "I for one am thrilled.  Kubuntu occasionally freezes, and I've just been holding down on the power button.  Now, I finally can avoid that!\r\n\r\n--\r\nAndrew Min\r\nhttp://andrew.timstown.net/dock.htm"
+-
+    name: 'Anonymous visitor'
+    mail: anon@gmail.com
+    subject: 'Incorrect. Press one of the'
+    hostname: 76.169.136.252
+    created: '1189468714'
+    body: "Incorrect. Press one of the desired screens and then read your dmesg output (as pointed out above). Try ALT+SysRQ+H for example. \r\nYour dmesg should put out something like this:\r\n\r\nSysRq : HELP : loglevel0-8 reBoot Crashdump tErm Full kIll saK showMem Nice powerOff showPc unRaw Sync showTasks Unmount shoW-blocked-tasks\r\n\r\nWorks fine, but it does take a screenshot as well (or at least open up the dialog box)\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: mail@robert-jaemmrich.de
+    subject: 'If the numeric keypad as'
+    hostname: 77.5.32.185
+    created: '1193997558'
+    body: 'If the numeric keypad as well as the SysRq key is accessed by pressing a ''Fn'' key, try to release the ''Fn'' key (while holding Alt/AltGr) after you have pressed the SysRq key. And - AltGr instead of Alt doesn''t give me a screenshot ... :-)'

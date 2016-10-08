@@ -1,0 +1,44 @@
+_Briefly_ introduce the subject covered by the book. If it's appropriate, introduce the book's authors (bio, previous books, etc.) and the publisher (link). **Please try to remember that this first paragraph of the article will appear in the table of contents for the reviews page and on the home page**.
+
+=IMAGE=cover.jpg=The book's cover =
+
+Give the first impressions of the book
+
+=ZOOM=Put at least one “zoom” in the article=
+
+# The contents
+
+Describe: 1) The book's size in pages; 2) The book's structure and contents (NOT a list of chapters); and 3) the topics covered by the book.
+
+# Who's this book for?
+
+Describe the book's ideal audience: who will find this book most useful?
+
+# Relevance to free software
+
+Describe how weighted the book is toward free software; whether the book promotes proprietary software; and the ways in which the book is relevant to users of free software.
+
+=ZOOM=The review should be 700 to 800 words=
+
+# Pros
+
+Why people should buy it
+
+# Cons
+
+Why people shouldn't buy it
+
+Book          |
+--------------|--------
+Title         |  
+Author        | 
+Publisher     | 
+ISBN          | _No dashes or spaces please._ 
+Year          | 
+Pages         | 
+CD included   | Yes/No 
+FS Oriented   | (1 to 10) 
+Overall score | (1 to 10) 
+
+=TABLE_CAPTION=In short=
+

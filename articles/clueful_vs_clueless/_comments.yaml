@@ -1,0 +1,210 @@
+-
+    name: ''
+    mail: ''
+    subject: '"Just ask" sometimes doesn''t work'
+    hostname: 201.78.82.153
+    created: '1164385239'
+    body: "You must be quite knowledgeable abou Linux already. I've moved to a Linux-only environment now, and on my own, but it took time. As a newbie, one of the most difficult things for me was to get someone to answer a question on the forums without being shouted at and RTFM'ed out of them. And I asked my questions AFTER SEARCHING the forum about the subjects.\r\n\r\nSo, maybe, Linux advocates don't realize what a rabid, angry and uncooperative crowd the \"linux people\" can be. And when it comes to \"little people\" contacting open source developers about their products, the usual reaction, at least in my experience, is to treat the user as a parasite that's taking advantage of their art. Not good.\r\n\r\nIn terms of support, I preferred the indifference of Microsoft to the anger of open source. We have a VERY, VERY LONG way to go in this regard.\r\n\r\n"
+-
+    name: morleron
+    mail: ''
+    subject: 'Re: Cluefull vs. clueless'
+    hostname: 71.115.168.63
+    created: '1164390888'
+    body: "In general I agree with your comments.  However, the problem goes beyond the IT world.  It has been my experience that many of the failures of IT projects can be traced to IT burn-out caused by having to deal with brain-dead lusers in other departments.  Eventually, most IT people, who have to deal with users outside the IT world, end up feeling as though they are repeatedly banging their heads against a wall and simply go through the motions of project implementation instead of trying to actually solve the problems that crop up.  I can't say that I blame them for reaching this point.\r\n\r\nI know of no other profession in which the practioner is supposed to learn everything there is to know about someone else's job, so as to be able to help that person do his job better, while the person receiving the help is allowed to believe that they shouldn't be required to learn or do anything new.  There were too many times in my career when I ran up against this.  End-users seem to believe that they shouldn't be required to know anything about how to use the tools that IT gives them.  It's as though they expect to instinctively know how to use any complex tool or perform any task more complicated than opening their mouths to eat.  \r\n\r\nI think that IT departments need to recognize this phenomenon and develop some sort of rotation system to reduce the day-to-day stress of dealing with stupid end-lusers.  Perhaps something akin to a baseball team's bull-pen should be put in place wherein any given developer/analyst/prograammer is only required to directly talk to end-lusers once a week.  It's my experience that most IT people do want ot expand their knowledge, increase their ability to solve problems, and genuinely want to help others.  It's the continual exposure to end-lusers who can't be bothered to learn that the data they see resides somewhere other than on their PC, or won't learn that randomly deleting files \"because I don't know what they are\" is a bad idea, or who won't understand that email sent from home won't be in their \"sent-mail\" folder at work, etc. that eventually drives most IT people to despair.  Personally, I think it says a lot for the intelligence and restraint, of most IT people that we don't frequently hear of programmers running amok and LARTing every end-luser they can find.\r\n\r\nNow, none of this is to dispute your contention that IT management can often be extraordinarily bad.  I put a lot of the blame for that on the business schools of this nation which teach, by and large, that you don't have to understand anything about technology in order to be able to \"manage people\".  The number of IT managers with MBAs who have no clue about what they're supposed to be running is far too large.  It's those managers, who seem to think that people are little identical \"functional blocks\" that can be plugged in and out of projects without affecting the outcome, that need to be weeded out and sent into the darkness where there is \"wailing and gnashing of teeth\".  IT managers who have come up from the ranks, provided they have the necessary inter-personal skills to deal with others, seem to be the most effective.  \r\n\r\nIt's the MBAs who parachute in from outside an organization, have no knowledge of the corporate culture, no regard for the individuals whom they manage, and view their current position only as a stepping-stone to bigger things, that are one of the prime problems with IT today.  They're the ones, with the grandiose visions of \"let's integrate everything using MS IIS, SQLServer, and Access\", that cause the problems - because they don't understand the technology.  This lack of understanding makes them easy marks for the glitzy sales presentations, the opinions of the Rob Enderle's of the world, and the FUD that MS puts out about any competitor.  It's these types that cause the biggest morale problems among IT departments because of the hare-brained decisions they make in the vacuum caused by their lack of knowledge and the echo chamber of their egos.\r\n\r\nIf IT is ever to be truly useful then business must make an effort to do three things.  First, require that all end-lusers go through some sort of educational process that will teach them the basics of the technology they need to use to get their jobs done.  They don't need to be experts, but they do need to know that the CD drive is not a frigging cup-holder, that unplugging network connections will cause their applications to fail, and that there is no \"Any\" key.  Next, businesses must make an effort to relieve the stress caused from IT people having to deal day-in and day-out with lusers.  This may require, gasp, staff increases - it's unreasonable to expect that IT people can continue to absorb new tasks and responsibilities with every staff cut or change in technology.  IT professional burn-out is a serious problem and needs to be dealt with.  I wonder if anyone has ever done a study of how much it costs to continually bring in new IT people to replace the ones, with experience in an organization, who have burned-out and left?  My gut tells me the costs are significant not only monetarily, but also from loss of knowledge and the inefficiencies that result because the new people need to re-learn the skills the veterans took with them when they left.  Finally, businesses need to develop career-paths within their IT organizations that will retain experienced people and allow for the development of IT managers from within the ranks of those who actually know what the they are doing with technology.  If the necessary management people cannot be found in an organization then that organization needs to make a serious attempt to hire outsiders who have actual hands-on technical knowledge and not be content with hiring an MBA \"because they'll be managing people, not machines\".\r\n\r\nJust my $.02,\r\nRon\r\n\r\nThe problem with the U.S. is that the people fear the government\r\nmore than the government fears the people. - Me\r\nGnuPG key available at: pgp.mit.edu"
+-
+    name: ''
+    mail: ''
+    subject: 'Eliteism sucks.'
+    hostname: 159.53.78.141
+    created: '1164402802'
+    body: "Do you really thing that referring to people who \"don't get it\" as dolts and lusers helps your case?\r\n\r\nThink about this as Linux continues to not make any serious inroads into the desktop market."
+-
+    name: ''
+    mail: ''
+    subject: 'Get off your high horse'
+    hostname: 24.80.166.213
+    created: '1164404129'
+    body: "I find Linux very nice and useful, but...\r\n\r\nWhen I can't get my sound card to work, I am told to read the how-to which goes in great detail about esoteric system stuff.  And then I usually still don't have a working sound card.  If, God forbid, I voice the opinion that perhaps more user friendliness would be useful, I get called all sorts of angry names, usually having to do with me performing unnatural acts with Bill Gates.\r\n\r\nI am an application programmer, not a system programmer or sysadmin.  I also use open source software, quite a bit.  I know Windows better than 90% of my colleagues, but most of this knowledge is nice-to-know, not need-to-know.  On Linux, it seems like I need to devote much energy learning system-level stuff, while I really care about application-level stuff.  Yes, apt-get and the like are much easier to deal with, but the gist of my remarks still hold - you have to know/tweak too much stuff for the average user.  Not for the average sysadmin mind you.\r\n\r\nThinking that other people who aren't up to speed on Linux are idiots, as your post indicates, is symptomatic of why Linux on the desktop is not happening yet, despite its impressive capabilities.  And also hints at why I know a number of open source programmers who prefer Macs.  Most of the non-Linux users are not interested in dealing with system-level issues.  Telling people that \"they just need to get a clue\" is patronizing - vinegar is not a well-know fly-catching lure, honey is.\r\n\r\nCheers\r\n\r\nJean-Luc"
+-
+    name: ''
+    mail: ''
+    subject: 'What a load of pompous'
+    hostname: 81.157.104.45
+    created: '1164406919'
+    body: 'What a load of pompous nonsense. Your article shows you to be the typical over-arrogant Linux administrator. '
+-
+    name: ''
+    mail: ''
+    subject: 'Good observations!'
+    hostname: 24.78.172.174
+    created: '1164407582'
+    body: "Very well stated, both to the previous comment and to the OP.  I've been encountering a lot of this kind of stuff recently.  My observations on corporate IT couldn't be any better explained.\r\n\r\nThere is a lot of high level garbage going on and too much of a departure towards the cost-saving business edge of things.  Some day soon, IT will reclaim itself from the accountants."
+-
+    name: ''
+    mail: ''
+    subject: politics
+    hostname: 82.34.33.119
+    created: '1164408931'
+    body: "Well said that man :) Your analysis of the situation is quite good, but i think you've forgotten one important thing - politics. \r\n\r\nGenerally speaking, all the 'good' IT guys that i've ever met (and i'm including myself in that category) seem to be lacking in people skills. Which basically means the 'clueless' (which you described) are the ones who shout the loudest, play the political game - and then they take the credit, and the hard work of the talented goes un-noticed and un-rewarded. Also, they may make it difficult for newcomers (with a clue) by denying them the essential knowledge they need to get the job done for which they have been hired.\r\n\r\nWhilst you may know everything about a particular programming language / framework / application / network service / networking stack (or could pick it up overnight, given the opportunity), there are those who don't (who you have quite rightly branded the 'clueless'). These people are apt to feel their position threatened by those with a clue - which is kind stupid in itself, as management are almost always in the worse position to judge who is worthwhile, and who is full of BS. Management, in a fit of ignorance, may judge this person as under-performing.\r\n\r\nWhat's even worse though, is that if a talented person leaves, most of the time the project carries on 'as normal' until something gets forgotten about, and it's only then that people start saying \"we need so-and-so to do this\". Then, of course, in come the expensive contractors.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Clueful Birmingham'
+    hostname: 82.71.89.10
+    created: '1164409510'
+    body: "So Birmingham's open source project crops up again. I was at a presentation given to South Birmingham LUG by the development team and I can say that the team DID seek out help as needed from the community, Google and consultants. I am sure the team would resent the \"clueless\" tag in the article written by someone clueless himself not to find out more facts about the project.\r\n\r\nAlso someone with more clue about how local government financing for projects works would know, if a project is given £500k, it will have to spend £500k, if the project had been given £100k, that's how much would have been spent. Also someone with more clue about local govt management would realise the amounts wasted in ensuring not even £1 was \"misappropriated\", whilst missing the irony of the excercise.\r\nSo £535,000 to setup 200 desktop PC’s is a lot, but blame the accountants, not the developers.\r\nAt least Brum has got off it's bum and done something positive in trying to implement Linux.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Clueless are the vast majority'
+    hostname: 206.188.70.163
+    created: '1164422617'
+    body: "In our organization my cohorts and I find that about 90% of our IT peers are clueless. \r\n\r\nInstead of us taking about 20 minutes yesterday to deploy our application, it took the illustrious \"configuration manager\" and \"database administrator\" 2 whole days and it still ain't right. And they had the support of one of our team members. Most of the deployment is automated. You have to really try to make it not work.\r\n\r\nThey did everything you could do wrong, wrong. Any manual steps were fully documented, but that doesn't help when the people who are doing the work don't read the documentation. Now people from my group are going to have to get called on the weekend to help. \r\n\r\nIt's totally insane.\r\n\r\nAnd the dumb people keep getting paid. If I turned dumb tomorrow I'd get fired, but apparently if you've been dumb since day one, you can just keep on givin`er. \r\n\r\nArrrrrrgh..."
+-
+    name: ''
+    mail: ''
+    subject: 'Elitism sucks, but stupidity will destroy the world'
+    hostname: 67.35.76.89
+    created: '1164430047'
+    body: "Yes, elitism sucks, but stupidity is worse!\r\n\r\nStupidity is destructive and annoying. It costs companies a fortune, and usually drives the good employees away. There's nothing more infuriating than having a clueless boss, or a clueless coworker making more money than you do. To further the insult, clueless people are usually lazy by nature, and tend to blame their failures on the company and coworkers. \r\n\r\nI can still remember one of our \"technical experts\" struggling to install an old version of RedHat Linux on a brand new server. The said server required a special boot disk to support its controllers, but the aforementioned \"expert\" spent a whole day nagging about how \"expensive open source is in the long run\", as opposed to spending 5 minutes burning the ISO image (which I sent to him in an email).\r\n\r\nFor this and other reasons, I have absolutely zero sympathy for stupid and lazy people. If you are in the right position, get rid of them as soon as you can. You'll be doing all people in your company a big favor.\r\n"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'To Know or Not to Know'
+    hostname: 69.180.163.110
+    created: '1164435155'
+    body: "I'm more or less in the same boat.  While I'd like to know things at a low level, I don't want to invest so much time in that area right now.  I want to use and program at the application level. (<a href=\"http://www.movingtofreedom.org/2006/11/11/how-was-your-round-of-gnu-linux-part-1/\">e.g.</a>)\r\n\r\nIt's tough to say how much we should expect people to know.  On the one hand, I  don't think everyone should have to know how every nut and bolt is fastened, but on the other, why shouldn't people be expected to learn something about the sophisticated tool they are using?\r\n\r\nThinking of computer knowledge as the literacy of the information age.  If we compare to the invention of the printing press and the beginning of widespread literacy, it would be as if people didn't really want to read on their own.  As if they wanted others to continue to do it for them.  (But what if the book itself could read to you?  The analogy isn't very strong.)\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'you''re one of the clueless people.'
+    hostname: 68.160.245.60
+    created: '1164437924'
+    body: "How do you list \"Debian\" as something that only clueless people don't underastand?  I've build successful enterprise applications, webmastered large scale sites.  I've been coding for 10 years.  Debian is easy? Debian is absurd.  It's like a cult.  Oh well, I guess dumb people don't know we're dumb, right?\r\n\r\nAnd how do you list \"man pages\" as something recent?  \"In this day of..... man pages ....\"  Man pages have been around for 20 years man.\r\n  \r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Incompetence as a mandate'
+    hostname: 189.128.68.178
+    created: '1164567206'
+    body: "I posted the following on the Birmingham article.\r\n\r\n###\r\nThis wasn't about Linux v. Windows. There is no competition there among the competent.\r\n\r\nThis was about incompetent leadership.  In the early 80's, I attended a Mensa meeting  in Iowa. The man who helped found Parson's Technology came out of curiosity. He told us something about the computer industry.\r\n\r\nLater, a national company, by memory Westinghouse but I may be wrong, made a big change to its national finance computer, which meant they had to frantically hire a lot of temp programmers, who told  us the same thing.\r\n\r\nIf you take the computer programmer who can write and document the minimum number of lines a day, and set that number equal to 1, the best programmers are 25's. That is, the best programmers can do as much in one day as the worst can in nearly a month.\r\n\r\nHere are two strange things connected with this.\r\n\r\n1.  Almost all supervisors of programmers are 3's.\r\n\r\n2.  No one over a 10 can keep his job working for a 3. They either become temp programmers and come in when the nincompoops fail and fix things. Or, they start their own companies. Or they tend bar. But, they don't work in large organizations.\r\n\r\nClearly, that was the case at Birmingham, proved by their failure even to google for help.\r\n\r\nThey could have had a good system rapidly and free, by simply contacting the Computer Club at the local high school and asked for help from the smart kids there.\r\n\r\n###\r\n\r\nAs far as Linux being hard, there are different distros. Any newbie who starts out with Debian deserves everything bad which happens. I am here right now with Puppy 2.10. It is a small live CD, and runs in RAM with only 71MB size. I can watch videos, listen to audio feeds.\r\n\r\nAnother problem is, people buy their Windows computers pre-installed, all set up by the vendor team. Then, when they try to install a Linux distro on that same computer, they say, \"Gosh, it's harder to install an entire distro than to turn a switch to ON.\" Yeah, I suppose so.\r\n\r\nThe real problem is not with Linx technically, but the market. Most really good apps aren't ported to Linux simply because the demand is small, because the good apps aren't ported to Linux, ad infinitum, ad nauseum.\r\n\r\nMost comments on the future of Linux are related to the English speaking rich nations, as if they were the only users in the world.  Increasingly, poor nations are moving, albeit slowly, to Open Source, as a matter of resistance to seeing billions of dollars flowing to the US, and their young people having no programming jobs at home.\r\n\r\nThere will be more, and as a result, either good apps will be written for Linux by those nations, OR the vendors of good apps will be economically forced to port.\r\n\r\nAs far as rude and surly Linux people, the answer to most newbie questions will get hundreds of thousands of hits via google.  Yet, day after day, newbies come on forums with the same exact questions:  How do I install my tar.gz file?  How do I shut my computer down?  I am very patient, and when I have time, I will answer the same question a hundred times, which is why before I retired, I spent a lot of time at work teaching assembly operators, almost all their first contact with a computer, basic computer usage. As long as I got paid, I could repeat myself all day...\r\n\r\nAnd, there are forums who are nicer. But, most have Stickies at top, telling newbies how to search first, and how to post. It is much faster to read a google hit, than for another person to spend fifteen minutes typing in letter at a time, the same information just for you.\r\n\r\nTry a live CD first. Ubuntu or Kubuntu or Pclinuxos are real popular for newbies right now.  When they become stable, Freespire will be a really good alternative.\r\n\r\nThough competent people can save a lot of money with Linux, the real advantages are: virus free (not because no one writes v. for Linux, they have written 800, they just can't get past the permissions); trojan free; no licensing or auditing problems;no restrictions on free speech (your MS license prohibits you from making comments about benchmark comparisons with other OS unless you run their approved tests!!!!!!! Look it up.)\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Intention
+    hostname: 203.78.209.141
+    created: '1164616515'
+    body: "Well, I am really not sure about the INTENTION behind this article. Still, I believe it's more than just about WINDOWS Vs. LINUX, and it's about, if we can learn and use Windows the way we use (and say, oh boy! it's so easy to use) even without getting any formal training(mark my words, even I didn't get any formal training and whatever I know about Windows today is by all the helps available, whether it's Google, Windows Help, friends and so on), why we can't use Linux and why we say uhhh..Linux is hard to use. I think we have hell lot of help available online as well as with Linux and if we apply a little bit of our mind, we can be master of it :). Frankly speaking I really don't want to go in this so called WAR of Windows Vs. Linux or MS Vs. Free Software. I use both as per my requirement and I know their pros and cons. People are not fool that they use Windows, there are certain reasons behind it and plz accept it. \r\n\r\nI see this article in perspective of how we IT professionals perform our day-to-day activities. Let me promise you, organizations are full of clueless people and few clueful people like me :) are so frustrated sometime, I really can't express here. And that's the reason why I believe; in IT industry the most important skill required is COMMON SENSE which is very uncommon. People know that there is a support site or knowledge base where 90% chance is that they will get the solution; still they will ask the same question again and again. And, let me tell you, it's not easy to fire them, then who else you will keep in organization.\r\n\r\n-Braj"
+-
+    name: ''
+    mail: ''
+    subject: 'Hello from Birmingham'
+    hostname: 147.188.192.41
+    created: '1164623408'
+    body: "I've met some of the people who were involved with this project and they definitely had some clued up linux people who are active on the local LUG list (http://sb.lug.org.uk). I'm not sure what went wrong, i've not had the opportunity to ask yet, but I think there is a lot more to this than meets the eye.\r\n\r\nTim W SBLUG LugMaster"
+-
+    name: 'Christian Fernandez'
+    mail: ''
+    subject: 'true ture'
+    hostname: 71.243.17.181
+    created: '1164685257'
+    body: "I have to agree on 90% of what you say...\r\nalso notes people that likes to work under support contracts in GNU/Linux instead of doing it them self...(very possible with GNU/Linux having 90% of drivers and code at our leisure) cause that way they can *blame* the vendor... I have very close people working in my department that keep always asking for this, I am like why? as long the hardware is working there is no need to call anyone. have a support contract under GNU/Linux means:\r\n0-IT is lazy\r\n1-IT don't really know how to handle the System, prob come from Windows world or been on the job cause they got they microsoft certifications  :-) (sorry)\r\n2-again read is 0.\r\n\r\n\r\nhttp://www.binaryfreedom.info\r\nhttp://www.gnewsense.org"
+-
+    name: ''
+    mail: ''
+    subject: 'Depends what you first learned'
+    hostname: 220.245.180.130
+    created: '1164685904'
+    body: "I learned UNIX when it was System 3 version 7 and the IBM PC was in a development laboratory. I used \"learn\" to learn \"vi\", \"awk\", the \"cshell\", and \"nroff\".\r\n\r\n\r\nAfter 2 weeks I wrote a word processor with wysiwyg nroff screen output prior to re-editing or printing. It was easy and a lot of fun as I am a dumb user who had never programmed a computer before.\r\n\r\n\r\nThen I used a SUN 3 with GUI and Ethernet and could get my shell scripts to use GUI windows and widgets.\r\n\r\n\r\nIt wasn't until 1988/9 I had to use Windows on a 386 with 3.1. I couldn't get it to do anything I wanted, so I installed the MKS toolkit. I still couldn't get it to use the GUI stuff, and still can't even on Win2k.\r\n\r\n\r\nMy biggest headache was that I couldn't get the output from one program to automatically be the input of another, something that is usually no problem with *Nix even if you have to pipe through a filter.\r\n\r\n\r\nLinux is easy, logical, and fun for me. I use the proprietary Revolution Transcript \"dumb user\" IDE to interface my shell scripts with the Windowing system. I can get it to do anything I want as a relatively dumb user who knows what he wants these dumb machines to do.\r\n\r\n\r\nThe thing I like most about *Nixes is the cron table, as I use this with my shell scripts to do 100% of my repetitive work automagically.\r\n\r\n\r\nI used to write about my creations for end users on Novell Cool Solutions where I also used to answer questions from dumb users like me. I expect you can still read them by looking for \"Stomfi\"."
+-
+    name: ''
+    mail: ''
+    subject: 'Most clueless people aren''t stupid'
+    hostname: 172.161.102.18
+    created: '1164711529'
+    body: "They are just lazy! Linux confuses them, because their only frame of reference is Windows, and they are too lazy to grow a new point of view. Or they are too timid to admit they don't know something and ask a question. There are a lot of nice, helpful people who will patiently answer the newbie questions.\r\n\r\nYou can 1) help yourself, or 2) ask for help-- but wtf business do you have complaining if you refuse to do either?"
+-
+    name: ''
+    mail: ''
+    subject: 'Welcome to the real world'
+    hostname: 83.135.148.136
+    created: '1164713895'
+    body: "Any device or method that requires a modicum of intelligence to operate will lose out in normal deployment situations against one that does not.\r\n\r\nYou don't put twitchy race horses before a brewery cart or even under a police officer.  The purpose of IT in administration is not to make people learn IT, but to get their job done.  Any additional requirement of intelligence is going to cost productivity, and severely so.\r\n\r\nStupid rules.  Nobody else would run for Office."
+-
+    name: ''
+    mail: ''
+    subject: 'Unfriendly Forums'
+    hostname: 194.201.191.131
+    created: '1164719311'
+    body: "I keep hearing this about RTFM unfriendly responses etc.\r\n\r\nI have never come across this in nearly eight years of using Linux. (and I have my share of idiotic questions)\r\n\r\nIts all about choosing the right forum.\r\n\r\nYou dont ask eg: wheres my panel gone in LKML\r\n\r\nRedtux"
+-
+    name: 'Steven Goodwin'
+    mail: ''
+    subject: 'Linux zealots'
+    hostname: 82.69.24.170
+    created: '1164721174'
+    body: "I agree with your point, and know only too well how off-putting and uncooperative members of the Free software community can be :( But I still believe asking is the way forward. Sometimes we ask the wrong people, ask in the wrong way, or in the wrong place, but we generally get there.\r\n\r\nIf, on the other hand, we ask something on a products own forums, and get abuse despite our best efforts to read the faq etc, then it's not a piece of software I'd want to be associated with.\r\n"
+-
+    name: 'Steven Goodwin'
+    mail: ''
+    subject: 'I''m actually a software'
+    hostname: 82.69.24.170
+    created: '1164721372'
+    body: "I'm actually a software engineer... ;)\r\n"
+-
+    name: ''
+    mail: ''
+    subject: "$.02 x 2\nAgreed.\n"
+    hostname: 216.226.179.229
+    created: '1164722068'
+    body: "$.02 x 2\r\n\r\nAgreed.\r\n"
+-
+    name: 'Steven Goodwin'
+    mail: ''
+    subject: 'Tim - if you find out what'
+    hostname: 82.69.24.170
+    created: '1164722210'
+    body: "Tim - if you find out what happened could you let me/us know. Thanks.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'smile :-)'
+    hostname: 165.230.95.124
+    created: '1164731816'
+    body: "This article and the commentary with it was very interesting.  I would agree that IT is in a bit of a bad state especially given the fact that I have had to repair everything at my location due to 10 years or more of neglect and the hiring of individuals who had no clue what they were doing.  I am currently seeking employment however every single job requests certain qualifications aka MSCE or some such nonsense which is the biggest joke I have ever seen.  I interviewed for one position with a supposed fortune 100 company that could not even figure out how to network their printers and had purchased a software aka cups and samba that was not working.  This corporation had a ton of IT people yet they could not figure out how to add a network printer or use cups, at present they are still working on the problem.  The best part are the recruiters and the interview process, clueless would be an understatement, how can someone who has no idea about IT be in charge or interviewing for an IT position.  In agreement with a previous comment the individual who can talk a big game is often the one what does not know what the hell they are doing needless to say most IT individuals especially in an elevated position have an extremely minute understanding of what systems they have or how to operate them.  In my previous position I have had to literally chew out every single management individual because they had no clue about what to do when a problem presented itself.  I often sit at my office and go through the myriad of proposals to outsource this and that, or buy this and that, not once have I approved any of these purchases or even given them the time of day.  I prefer to describe the IT landscape as extremely ubiquitous, the majority of  IT agents are drones and the truly gifted individuals who actually can think outside the box are often reprimanded rather than given the tools they require to innovate.  It takes innovation and critical thinking to come up with new ways of doing things and to also create wonderful things that is of course the nature of the open source world.  The majority of individuals never being satisfied with the banality of the normal world have endeavored to create something different which requires that individuals apply themselves and LEARN new things instead of the constant repetition.  The key word in this equation is one's ability to learn, if  you cannot learn from your mistakes or do not wish to better yourself then yes \"linux\" aka *nix can therefore be considered hard.    You may critique this distro from that distro, however in the final analysis the failure and success of your learning endeavor solely rests on your own shoulders.  If an individual chooses to remain in the dark and refuses to LEARN then they are inevitably doomed to their faith.  I personally could not imagine my life if I just sat at my desk being happy with the status quo, say what you will about the open source community, good or bad, I love the fact that we can have these debates and do the most important thing in the world which is to COMMUNICATE.  Agree, disagree, it is all good, just remember to be thankful that we are afforded the opportunity to express ourselves and that we all have a choice in life.\r\n\r\nDoppelGanger"
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'Knowing how to find information is knowledge too!'
+    hostname: 85.1.97.36
+    created: '1164736175'
+    body: "About different people always asking the same questions over and over again. It was said they should better google their way to the answer so not other people would have to spend a lot of time writing the same answers. \r\n\r\nBut unfortunately, If you don't know the right terms to google it can be difficult to get to the right page. I think it would be nice if there existed a more central, generally acknowledged, database for most of the computer/GNU/Linux questions. I kind of a wikipedia on how to use GNU/Linux and other common free software. It could be edited by anyone and the guys who know would write the info only once.\r\n\r\nBecause knowing how to find information is knowledge too. Let's make it easy."
+-
+    name: ''
+    mail: ''
+    subject: 'Then stick to Windows'
+    hostname: 24.91.80.56
+    created: '1164769884'
+    body: 'Linux is not meant for the ''marketshare'' or ''desktop user experience'' - there are companies that focus on that, but that''s not what it''s for - just keep using Windows and stop complaining FFS.'
+-
+    name: ''
+    mail: ''
+    subject: 'Using Linux products'
+    hostname: 202.93.178.71
+    created: '1164792211'
+    body: "I've worked in specialised fields; one example being bankruptcy.  Not making people bankrupt but helping to sort out the mess after the event.  The law is arcane and the terminology very different from everyday language.  Yet it is not necessary for the law to be expounded upon at length nor is it necessary to insist on specialised vocabulary in order to explain someone's rights and duties, to assess a claim, or sell an asset.  Presumably I am a fool.  I have also worked on selection committees for a wide variety of jobs.  Again, procedures and terminology might be glorified or good sense may be applied.  I must be a fool.\r\nthe Toad, not anonymous just one ordinary person with one name, Toad Sheehan"
+-
+    name: ''
+    mail: ''
+    subject: 'You guys have it easy...'
+    hostname: 203.131.190.118
+    created: '1165204201'
+    body: 'tshhh... you guys have it easy. MY boss can''t even be bothered to learn to use GMAIL!!!'
+-
+    name: ''
+    mail: ''
+    subject: 'Why should I not complain?'
+    hostname: 24.81.57.143
+    created: '1165217005'
+    body: "Linux fans don't mind complaining about Windoze, do they?  I mean, that is the exact point of this article, _complaining_ that us poor idiots are too stupid to understand.  So don't mind if I complain.\r\n\r\nI wish Linux well personally and I am no great fan of Windows.  As far as I remember there are a lot of nice folks who would like Mr. Average Computer User to use Linux.  The system is in many ways already there.  \r\n\r\n\"Linux is not meant for the desktop user experience\" is kinda stupid and makes you wonder what all the poor chumps @ KDE, Gnome, Ubuntu, etc... are working for.  Maybe you should share your oh-so-useful opinion with them?\r\n\r\nFolks like you are part of the problem, not part of any solution, FFS\r\n\r\nJLuc\r\n"

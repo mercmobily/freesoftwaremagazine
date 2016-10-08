@@ -1,0 +1,14 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Hmmph, AbiWord ...'
+    hostname: 68.93.224.4
+    created: '1151308136'
+    body: "We've had really bad luck with AbiWord. I don't know what the problem is, but it doesn't print correctly (cuts off the last couple of pages most of the time). It has font problems and the printed output never matches the preview. Images screw everything up.  Occasionally it hangs or crashes unexpectedly.\r\n\r\nI'd assume it was just an early version, but upgrades don't seem to have solved anything."
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: 'Must be luck'
+    hostname: 213.93.190.31
+    created: '1151313852'
+    body: 'I have had no problems with Abiword yet. As you have said it sounds like bad luck.'

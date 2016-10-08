@@ -1,0 +1,126 @@
+-
+    name: 'Michael Reed'
+    mail: ''
+    subject: 'Well done'
+    hostname: 84.64.117.32
+    created: '1200739006'
+    body: "Well done on getting some FOSS into the office of a UK charity. When I volunteered for one of the big charities, I had difficulty getting computers into the office ;-)\r\n\r\nYou make good points about styles and their use. It's no fun deciphering someone's else's micro-formating after the fact.\r\n\r\nI would have thought that the main problem with replacing MS Office with Open Office in most charity setups is that the OO needs a fairly powerful machine. \r\n\r\nhttp://www.unmusic.co.uk/ - music, writing and other geekdom."
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'I had a portfolio'
+    hostname: 66.41.0.95
+    created: '1200775560'
+    body: "I had a portfolio spreadsheet in Excel for doing some investment performance analysis.  It was fairly simple, although had a lot of VBA macro code.  I've moved this to Calc and OO.o Basic with pretty good results.  There were a few things I couldn't figure out how to do.  I think they are possible, but I didn't want to invest a lot of time figuring them out when they weren't showstoppers.  I think it's easier to write code in Excel since the editor has \"hinting\" -- you type a dot and it shows you what is available.  Much quicker to figure out what is available and muddle your way through.  But OO.o Basic does the job, and we can hope the editor improves.  (I'm still using 2.2, so don't know what the latest editor is like.)\r\n\r\nI read on a forum once where someone complained about Calc's performance with charts on large datasets, giving the example of a 2000 row spreadsheet with 2 data sets.  (Let's say dates in col A, and the data sets in col B and C.  You could just put random numbers or incrementing numbers in there.)  I tried -- in 2.2 -- to make a chart for this, and it is abysmally slow, where in Excel it is instantaneous.  I also tried in Gnumeric, which handled it fine.  But the problem for a business of just about any size is that you're not going to want to support multiple solutions depending on the situation.\r\n\r\nFor me at least, OO.o is fine for home use.  I think it would also be good for 96.3% of my work needs, if my company allowed it.\r\n\r\n----\r\nhttp://www.movingtofreedom.org/"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Well done on getting some'
+    hostname: 212.159.106.192
+    created: '1200783286'
+    body: "> Well done on getting some FOSS into the office of a UK charity. When I volunteered\r\n> for one of the big charities, I had difficulty getting computers into the office ;-)\r\n\r\nIt gives you a bit of an advantage if you're the IT Manager. :o)\r\n\r\nWe've been using Free software for a while now - see here for more [http://www.cafamily.org.uk/oss](http://www.cafamily.org.uk/oss)\r\n\r\n> I would have thought that the main problem with replacing MS Office with\r\n> Open Office in most charity setups is that the OO needs a fairly powerful machine.\r\n\r\nActually the later versions of MS Office need a higher spec than OOo.\r\ne.g. Office 2007 requires Windows XP-SP2 with a published min of 256MB Ram.\r\nOOo 2 will run on Win98 and up and 128MB Ram.\r\n\r\nOf course the truth is neither will actually run very fast on those minimum specs but MS Office 2007 has a higher spec to start with. Older versions of MS Office ( we use 2002 for example) pretty much crawl on 128MB Ram so OOo is probably a good replacement.\r\n\r\nAlso don't fall into the trap of thinking that charity automatically means low spec kit. Our lowest spec machine is Win 2000 running on PIII 800 with 256 MB Ram - that'll run OOo quite happily."
+-
+    name: Steve_McNeil
+    mail: ''
+    subject: OO.o
+    hostname: 78.146.172.178
+    created: '1200786496'
+    body: "I've been using OO.o for the last year on a laptop running XP Pro. \r\n\r\nThe reason is that i was recommended to me, (And also MS Office XP Pro is over priced and over rated)\r\nI have found that that it is a lot easier to use for day to day work,(Writer & Impress) I will admit that I still save 90% of my work in either MS .Doc or .PPS .PPT formats as most of my fellow colleagues still use MS Office.\r\n\r\nThe one draw back is that OO.o haven't developed the equivalent of MS Visio, which I have to use for producing plans of the buildings (I know that i could use a CAD package, but haven't got either the money or time to learn AutoCAD). \r\n\r\nIf asked to give either MS Office or OO.o marks out of 10 I'd give OO.o 9.5 and Office 2. \r\n\r\n    "
+-
+    name: 'John Locke'
+    mail: ''
+    subject: 'Another problem with Mail Merge'
+    hostname: 216.231.62.127
+    created: '1200861270'
+    body: "You've hit on what I've found to be the single missing feature from OpenOffice: mail merge. However, what's really missing here is the ability to send all the merged output to a single document.\r\n\r\nMail merges of the type Word calls \"catalog\" were one of the biggest tricks I used to use to manage data. It's a simple, non-programming way to generate all sorts of repeating data.\r\n\r\nFor example, say you're migrating data from one database to another that has a completely different schema. You export the original data as a CSV file, import it as a spreadsheet, do any manipulation/cleanup you need to do.\r\n\r\nThen, open up Word, create a simple template for what to do with the data: insert this column in one table, insert the next column in a different table. Create a template of SQL statements that represent what you need to do to convert to the new schema. Run the merge, outputting to a catalog, and presto! You've got a script you can feed straight into the new database.\r\n\r\nOr, make a template of HTML for a quick way of building a web page list of items in your spreadsheet. In fact, this is what I was doing when I came up with the technique--building lists of new record albums and artists for a music web site, back in the days of IE 2 and Netscape 2, long before I knew anything about server-side programming. I was actually working at a temp job for Microsoft on their Music Central web site (anybody remember that?), and cutting and pasting artists and albums was supposed to be about 6 hours of my job every week. The first week I spent an hour figuring out how to make mail merge do the trick, and from then on it was 10 minutes a week.\r\n\r\nSure, there's lots of other ways you can do this, writing simple programs or macros. But for me this was a very fast technique I used all the time to convert data. And you can't do it in OpenOffice--it insists on creating a new document for every record.\r\n\r\nCheers,\r\n-- \r\nJohn Locke\r\nFreelock Computing, http://www.freelock.com\r\nThe Open Source for Business Solutions"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: Visio
+    hostname: 212.159.106.192
+    created: '1200871903'
+    body: "> The one draw back is that OO.o haven't developed the equivalent of MS Visio\r\n\r\nYou're right in that you should probably be looking at a CAD program rather than an office suite for complex drawings but for simpler stuff OOo does provide an answer in Draw.\r\n\r\nIt doesn't have all the objects that Visio has but pretty much any image can be inserted into a Draw document and you can then add connectors to its handles.\r\n\r\nAs a simple example figure 1 in my [article on server setups](http://www.freesoftwaremagazine.com/articles/the_perfect_network_server) was created in the way I've just described.\r\n\r\ncheers\r\nRyan"
+-
+    name: mecrider
+    mail: ''
+    subject: 'Mail merge tips'
+    hostname: 69.29.130.249
+    created: '1200891967'
+    body: "Our office migrated to OOo at 1.1, so I have helped our receptionist work through many mail merge tricks. I believe the wizards in 2.x are totally useless. The best route I have found is to save your data in dbf (dBase) format. If you won't use very many databases, or will rarely use one twice, save them all in a single folder. Create a database manually that points to the folder for the dBase files. From this point on you can add, remove and replace files in that folder, and they will automatically update in the tables list for that data source.\r\nAfter trying both methods, our receptionist prefers \"Insert -> Fields -> Other -> Database -> Mail merge fields\" to \"F4 -> drag and drop\". She can put her cursor where she wants the field, then click on it and click Insert. She can also format the way the data  will appear (currency, dates, etc.) At this point the letter can be printed normally, and OOo will ask if you want to include the data or just print the letter with field names.\r\nBypassing the wizard does mean a little more complexity when it comes to hiding empty lines (there are lots of howtos about doing it manually - but it would be nice if OOo could do this the way Word 97 did), but you have a lot more control over the finished project.\r\nJohn Locke, I am not sure I followed everything you said, but if it helps I know that  you can use \"Insert -> Fields -> Other -> Database -> Next record\" to start a new record within a single document. This is how OOo does labels.\r\nI'd be happy to answer any other questions about mail merge that I can, especially if they don't involve the wizards. I am always happy to help somebody overcome hurdles to upgrading to the best and cheapest office suite around.\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: thanks!
+    hostname: 82.108.129.98
+    created: '1200916280'
+    body: "> The best route I have found is to save your data in dbf (dBase) format. If you won't\r\n> use very many databases, or will rarely use one twice, save them all in a single \r\n> folder. Create a database manually that points to the folder for the dBase files. \r\n> From this point on you can add, remove and replace files in that folder, and they \r\n> will automatically update in the tables list for that data source.\r\n\r\nYou know that occurred to me when I was trying something the other day but I hadn't fully tried it yet. Our data will nearly always be as CSV but - having just tried it - this method works equally well with that format as well. I hadn't realised about the printing bit either. So many thanks - you've saved me a few headaches!\r\n\r\nRyan"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Can be done - if I understand you correctly.'
+    hostname: 82.108.129.98
+    created: '1200916743'
+    body: "I'm not sure I've ever heard of somebody actually using a word processor to create SQL injection scripts! Sounds a little over the top to me but if it works for you then who am I to stop you.\r\n\r\nAnyway as mecrider says you can insert a Next Record field in a document as OOo does for labels. Once you've done that you can save the merged document as a single document rather than individual ones.\r\nIf you follow the mail merge wizard the final step gives you this option.\r\n\r\nActually this brings me to an advantage that Writer has over Word (at least over 2002). When you merge to a single document and save it. Word creates separate sections for each letter so you can't print pages 3 - 5 without using the print mail merge options. Writer produces a new page for each letter so you can open a saved merged document and print pages 3 - 5 in the same way you would anything else.\r\nWhilst the Word way is not hard is does break from the convention it uses to print page ranges on multi-page documents and IME most users have no clue what a section is anyway.\r\n\r\nAgain another example of the Writer way doing it \"properly\".\r\n\r\ncheers\r\nRyan"
+-
+    name: 'John Locke'
+    mail: ''
+    subject: 'Hmm... can''t seem to get'
+    hostname: 216.231.62.127
+    created: '1200935044'
+    body: "Hmm... can't seem to get this to work properly. I just tried, and found the Next Record field but couldn't seem to insert it. Strange. And when I generate the document, I am getting a single document output, but each record on its own page--a bit of a pain for later using elsewhere.\r\n\r\nIn any case, these days I just use xslt, phpMyAdmin, or a simple PHP script to do equivalent tasks. Or if I feel like a challenge I try to get awk to do it... (I started as a writer, not a Unix admin!)\r\n\r\nI've used OpenOffice.org for years, wrote a book in it in 2003. I'm much more comfortable in it than Office, haven't touched Office in years. But since I had used Word for over a decade, that was one trick I really missed being able to do when I switched to Linux. The other thing I really liked in Word was its Outline view. The little outline in the Navigation panel just isn't the same.\r\n\r\nBut I love OOo's styles, and the Draw program is close enough to Visio to meet my needs--not quite as easy, but using connectors you can get the job done. I agree that tables are much better done--it's pretty cool to be able to insert a formula into a normal table cell and have it calculate for you.\r\n\r\n-- \r\nFreelock Computing, http://www.freelock.com\r\nThe Open Source for Business Solutions"
+-
+    name: unmukt
+    mail: ''
+    subject: 'You are right most users'
+    hostname: 220.226.32.96
+    created: '1201086325'
+    body: 'You are right most users need will be met by OpenOffice.org writer. I have been using it with last five years and never considered using any other word processor. '
+-
+    name: mecrider
+    mail: ''
+    subject: 'CSV vs dBASE'
+    hostname: 72.161.213.214
+    created: '1201092784'
+    body: 'I had never tried using CSV files as a data source. One potential advantage to using dBASE files is that CSV files are opened read-only, while dBASE files you can edit live from the merge document (View Data Sources). Of course, if you aren''t supposed to be editing the data for any reason, that can be a disadvantage. Also, it is pretty simple to open the CSV in OOo Calc and save it as a dBASE file if that is the route you decide to go.'
+-
+    name: fsando
+    mail: ''
+    subject: 'OOO developers need to fix mail merge'
+    hostname: 87.61.53.234
+    created: '1201139285'
+    body: "I think you are absolutely right. Mail merge should be easy and straight forward. I've had my own unpleasant experiences with exactly that. I even filed a bug report/feature request years ago, which I believe is still sitting there untouched.\r\n\r\nIn my view a good mail merge function would let you point the wizard to any reasonably formatted table (html table, csv table, a range in a spreadsheet, or even a table in your active writer document) The table would then automatically and transparently be converted into a temporary table and used for the merge. The program could in the end ask if you want to save it for later or discard it.\r\n\r\nI've used OOO since 0.9x and am especially pleased with its stability with large documents containing lots of illustrations and tables. I have lost 1 (one) document since 2002 from real document errors. This has been a frequent ocurrens with Word."
+-
+    name: fsando
+    mail: ''
+    subject: 'Related: pdf slides from presentations'
+    hostname: 87.61.53.234
+    created: '1201140725'
+    body: "Just come to think of another irritant you may want to check out:\r\nI make presentations once in a while that has to be printed together with other material. The only practical way is to export as pdf and have the relevant office or customer print the material.\r\n\r\nThe problem is that Presentation will not let you export the 'print' format (for example 3 slides per page for attendees to write down notes) as pdf file.\r\n\r\nYou can choose between various print formats and print but not export to pdf.\r\n\r\nYou can export the Presentation as pdf-presentation which is not what I want or need.\r\n\r\nTo me it seems so simple that when you've chosen the right print format you simply press the pdf button and get the current view rather than the presentation version."
+-
+    name: sitor
+    mail: ''
+    subject: 'Visio replacement'
+    hostname: 81.246.20.164
+    created: '1201511121'
+    body: "Did you have a look at Dia? You can find it here: http://www.gnome.org/projects/dia/\r\nDoes most what Visio does. The only problem is that you cannot exchange your results properly with Visio users (the Visio document format being completely closed, so impossible for the developers to create a converter).\r\n\r\nCiao,\r\n\r\nSitor"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Errr... what?'
+    hostname: 84.100.54.206
+    created: '1204731556'
+    body: "\"You've hit on what I've found to be the single missing feature from OpenOffice: mail merge. However, what's really missing here is the ability to send all the merged output to a single document.\" - eeexcuse me? Once you reach the end of the wizard, you have a choice: save modified template, save as independent documents, save as one big document - I guess the latter is the one you're looking for.\r\n\r\nNo, what I find annoying with OOo's mail merge, is how slow it is as soon as you go past 30 generated documents: sometimes I have to generate 2000 merged documents, and while OOo doesn't crash it really takes its sweet time (like, hours). Word is slightly better in this area, as it'll either generate the document quite rapidly - or crash right away.\r\n\r\nThe wizard's interface could also get a face lift so as to be slightly easier to understand. It is logical, flexible and powerful (something a MS wizard usually isn't), but it's a bit hard to read sometimes.\r\n\r\nIn short, it is indeed done right from the start but needs some polish.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Errr... this.'
+    hostname: 82.108.129.98
+    created: '1204732868'
+    body: "> _\"You've hit on what I've found to be the single missing feature from OpenOffice: mail merge. However, what's really missing here is the ability to send all the merged output to a single document.\"_ - eeexcuse me? Once you reach the end of the wizard, you have a choice: save modified template, save as independent documents, save as one big document - I guess the latter is the one you're looking for\r\n\r\nI think what they were looking for was the ability to put all the records on one page rather than one per page - which is what you are referring to. As already suggested the solution is to insert a Next Record field.\r\n\r\n>No, what I find annoying with OOo's mail merge, is how slow it is\r\n\r\nAgreed - the limit varies for me - depending upon system resources - but it still gets slow on reasonably low numbers of records.\r\n\r\ncheers\r\nRyan"
+-
+    name: daveleh
+    mail: ''
+    subject: 'Open Office Training Website'
+    hostname: 195.226.142.77
+    created: '1210537612'
+    body: "Hi, have just read the above post and noted your last comments:\r\n\r\nI plan to raise this as an issue/enhancement request on the OpenOffice.org website but I’ll wait to see if there’s someone more knowledgeable here who can show me what I’ve missed (if anything) first.\r\n\r\nHave you by any chance come across the following website:\r\n\r\nwww.getopenoffice.org\r\n\r\nIts run by a lady called Solveig Haugland, an OpenOffice trainer. She gives lots of helpful tips and solutions in her blog.\r\n\r\nRegards\r\n\r\nDave Le Huray\r\nGuernsey"

@@ -1,0 +1,39 @@
+
+<!-- This loops through the paginated posts -->
+
+<div class="horizontal layout wrap article-list article-<%=info.pagerData.listName%>">
+
+  <% info.pagerData.elementsInThisPage.forEach( function( article ) { %>
+   <%-include( 'articleCard', { article: article } ); %>
+  <% }); %>
+</div>
+
+
+
+
+<% if( info.pagerData && info.pagerData.totalPages && info.pagerData.totalPages != 1 ) { %>
+<!-- This loops through the paginated posts -->
+<div class="pager horizontal layout center-justified">
+
+  <% if(info.pagerData.prevPageName){ %>
+     <a href="<%=info.pagerData.prevPageName%><%=system.fileExt%>"><paper-button raised>&lt;&lt;</paper-button></a>
+  <% } else { %>
+     <paper-button disabled raised>&lt;</paper-button>
+  <% } %>
+
+  <% info.pagerData.pager.forEach( function( page ) { %>
+    <% if( page.thisPage ) { %>
+      <paper-button raised disabled elevation="1"><%=page.pageNumber%></paper-button>
+    <% } else { %>
+      <a href="<%=page.pageName%><%=system.fileExt%>"><paper-button raised elevation="4"><%=page.pageNumber%></paper-button></a>
+    <% } %>
+  <% }); %>
+
+  <% if(info.pagerData.nextPageName){ %>
+     <a href="<%=info.pagerData.nextPageName%><%=system.fileExt%>"><paper-button raised>&gt;&gt;</paper-button></a>
+  <% } else { %>
+     <paper-button disabled raised>&gt;</paper-button>
+  <% } %>
+</div>
+
+<% } %>

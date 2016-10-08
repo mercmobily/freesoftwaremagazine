@@ -1,0 +1,41 @@
+---
+postProcessFilters: template-ejs
+delayPostProcess: true
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Free Software Magazine</title>
+  <link>http://www.freesoftwaremagazine.com/</link>
+  <description>The magazine for the free software world</description>
+  <language>en</language>
+
+<% for( var i=0; i < 50; i++ ){ 
+  var a = info.fullList[ i ];
+%>
+
+
+<% if( a ){ %>
+  <item>
+    <title><%=a.info.title%></title>
+    <link>http://www.freesoftwaremagazine.com/<%=a.system.filePath%>/</link>
+    <putDate><%=a.info.published ? a.info.published.substr(0,10) : ''%></pubDate>
+    <description><%=a.info.summary%></description>
+    <author><%=a.info.authors%></author>
+    <category><%=a.info.section ? a.info.section.replace('_',' ') : ''%></category>
+  </item>
+<% }; %>
+
+
+
+<% }; %>
+
+</channel>
+
+</rss>
+
+
+
+
+

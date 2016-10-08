@@ -1,0 +1,77 @@
+-
+    name: 'Edmundo Carmona'
+    mail: ''
+    subject: 'Ajax calls?'
+    hostname: 190.146.238.239
+    created: '1217463645'
+    body: 'And that is in case you''re not using a wrapper like sajax that almost removes completely the "burden" of learning ajax stuff (as a matter of fact, www.dondeestara.net, one project of mine, uses ajax... and I barely know the name of the ajax functions that make it work.. thanks to sajax).'
+-
+    name: BenForta
+    mail: ''
+    subject: 'You want free and open source Flex? You''ve got it!'
+    hostname: 192.150.10.200
+    created: '1217525515'
+    body: "Tony,\r\n\r\nSome important corrections relative to Flash/Flex ...\r\n\r\n>> Flex is outrageously expensive.\r\n\r\nActually, nope. Flex Builder is a commercial Eclipse plug-in (although it is not outrageously expensive). But Flex itself, the Flex SDK, is not. It's free, and open source. In other words you can build and deploy Flex apps completely free of charge.\r\n\r\n>> If ... Flex was released under a free license\r\n\r\nIt has been, for some time already. Flex SDK is released under Mozilla Public License, version 1.1.\r\n\r\nSounds like you need to visit http://opensource.adobe.com/wiki/display/flexsdk/Flex+SDK to learn more about the Flex SDK.\r\n\r\nBottom line, you want free and open source Flex development? You've already got it!\r\n\r\nBen Forta\r\nAdobe Systems, Inc."
+-
+    name: admin
+    mail: ''
+    subject: Ok...
+    hostname: 79.31.36.142
+    created: '1217552160'
+    body: "Hi Ben,\r\n\r\nFirst of all, thank you for taking the time to create an account and add a comment.\r\nOK, let's see...\r\n\r\n1) Price. While Flex Builder is not very expensive ($700, or $250 I believe for the lesser version of it), I thought the Flex server was priced $15000. So... developers might be able to develop Flex applications, but what about deployment?\r\n\r\n2) I wasn't aware that you guys actually _did_ release codee under the MPL. Encouraging! However, the \"open source\" version of the SDK doesn't include the advanced font encoding libraries (OK, fair enough), Adobe Flash Player (see my next point), Adobe AIR (which is used to create desktop-like applications, which is very interesting). And no, \"free as in gratis\" doesn't mean \"free as in freedom\" :-D\r\n\r\n3) The Flash player! It's still proprietary, and there is no real competition in the free software world. As far as I know, the Gnash people are going insane trying to work things out. The player should be the _first_ thing Adobe should release... as well as turning it into a peoper standard.\r\n\r\nSo, the SDK (although only the \"lesser\" version) is released under the MPL, but then the server is something arounf $15000 per CPU, the player is still very much proprietary... ugh!\r\n\r\nBUT! Ben, I LOVE IT when I am proved wrong, and I will openly admit it when I am. So, if I wrote anything that is not correct in my comment, PLEASE let me know.\r\n\r\nThanks!\r\n\r\nMerc."
+-
+    name: BenForta
+    mail: ''
+    subject: 'Some clarifications ...'
+    hostname: 192.150.10.200
+    created: '1217560860'
+    body: "Ok, some more details ...\r\n\r\n1) Flex Server is not needed for deployment. Actually, no server is needed. Any server that can serve content via HTTP can serve Flex applications. Flex Builder, or the free open source Flex SDK, compiles code into binary SWF files, and those get posted to a server and can then be requested by a browser and then played by the Flash Player. If that Flex application running in the Flash Player needs to talk to back end servers, then it has several options. It can make straight HTTP calls, nothing special needed on the server and no cost involved. It can make SOAP calls, again nothing special needed and no cost involved. It can make AMF (Flash Remoting) calls, and for that something is indeed needed on the server. If the server is running Java then you can download the free open source BlazeDS and you'll get AMF support (and more). If the server is running ColdFusion then AMF is built right in. If the server is running PHP then there are several community projects that provide AMF PHP support, and Adobe is working with Zend to add AMF support there. And so on. So no, no cost for deployment at all. Now, there is a server component to Flex, it used to be called Flex Data Services and is now called LiveCycle Data Services, and that does indeed cost thousands of dollars. It provides data management services and more, and organizations that need that functionality can/should look at that server solution. But it is not required at all. Bottom line, most Flex users buy Flex Builder and nothing more, and that's all they need to developer and deploy Flex and AIR apps. No per server pricing and no per CPU pricing, in fact, no runtime pricing whatsoever.\r\n\r\n2) You are correct, we've open sourced parts of the Flex SDK, enough for most apps actually. There are 3rd party IDEs, like Aptana, that already use the free open source SDK giving users an IDE experience other than our own Flex Builder. But there are parts that we have not done so, not yet. It's a work in progress. Along the way we also open sourced the Flex messaging layer, that's the BlazeDS project. More will follow. And on a side note, Adobe is involved in numerous open source projects, starting with Tamarin which will be used by Mozilla in the next generation of SpiderMonkey, WebKit, SQLite, and more.\r\n\r\n3) You are correct on this one, the Flash Player is not open sourced. There are some very real hurdles to doing so, the least of which is that the player includes licensed OEM code that we'd not be able to distribute. I can't comment on future plans, but I can tell you that it is something that we discuss frequently.\r\n\r\nBottom line, cost is absolutely NOT an obstacle to Flex adoption. Way back in Flex 1 days that was indeed the case, but we fixed that in Flex 2 several years ago, and since then the Flex developer base is growing incredibly. You said that Flex is absolutely fantastic, and as price was your primary concern, now that you know that price is not an obstacle I hope you get the chance to experience fantastic Flex for yourself.\r\n\r\nBen Forta\r\nAdobe Systems, Inc."
+-
+    name: admin
+    mail: ''
+    subject: 'OK, good points'
+    hostname: 79.47.176.59
+    created: '1217582804'
+    body: "Hi,\r\n\r\nI did some good research, and you are right. I have actually talked to a developer who doesn't use the Flex server at all.\r\n\r\nI am fixing the article accordingly -- sorry about missing out on important fact-checking. I should have known better.\r\n\r\nBut! I still feel that the proprietary nature of the Flash player will scare a _lot_ of developers away from it. I might be wrong on this one. I don't have hard numbers on Flash's adoption, and besides, I am obviously biased. However... I have to be honest, I would never develop a piece of software knowing that a single company basically has the power to decide who, how and when people can execute my program. And I am not talking about Adobe *today*, but Adobe in 10 YEARS, when [Random evil company] has bought Adobe out and decides that the Flash player is only released for particular platforms.\r\n\r\nIf you are talking about it, I *urge* you to talk about it more.\r\n\r\nI am also sadly convinced that today, this would be a Flash world if Flash had been opened up (and made it into a standard) 4 years ago. I don't think we would have even heard of AJAX. And, I also wonder (again, with sadness) if it's not too late for Flash today...\r\n\r\nThanks again for the clarifications. I fixed the article accordingly.\r\n\r\nMerc."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: Encouraging
+    hostname: 82.108.129.98
+    created: '1217602478'
+    body: "> ...the Flash Player is not open sourced. There are some very real hurdles to doing so, the least of which is that the player includes licensed OEM code that we'd not be able to distribute. I can't comment on future plans, but I can tell you that it is something that we discuss frequently.\r\n\r\nI also find it encouraging to see people from Adobe at least considering opening up flash player abd for somebody from Adobe to be engaging with the free software community like this, so thanks.\r\n\r\nIf I can just echo Tony's sentiments that if you are discussing this, discuss it more. In addition, opening up Acrobat Reader would be another useful step - if only if it might lead to the Windows and Linux versions of both having comparable version numbers.\r\n\r\nmany thanks  \r\nRyan"
+-
+    name: cyberpython
+    mail: ''
+    subject: 'About Loosers'
+    hostname: 79.166.16.42
+    created: '1217611093'
+    body: "Well, as far as Flash and Silverlight are concerned, I agree with the author.\r\nI also agree about AJAX, Javascript and XHTML+CSS being the big winner.\r\nOn the other hand, Java may have not managed to become the king of the web but I believe this is mainly due to MS not including a JVM with IE. Also, it is far easier to develop applications in a \"traditional\" programming language than in JS and XML. And there is where GWT (Google Web Toolkit) comes in and saves the day by bridging the Java language with AJAX, with a compiler that takes Java code and produces the corresponding html and javascript code! In my opinion, there is nothing better than being able to use Eclipse to develop web-apps!"
+-
+    name: admin
+    mail: ''
+    subject: 'GWT?'
+    hostname: 79.47.176.59
+    created: '1217632866'
+    body: "Hi,\r\n\r\nFunny you talked about the GWT...\r\nI have always considered it complete insanity. But, by reading your post... well, I might well be wrong!\r\n\r\nBut I think Yahoo's YUI is a much better approach than GWT (although I don't know GWT enough to make an informed comparison. And no, I never will, since I am not a Java programmer...)\r\n\r\nMerc."
+-
+    name: kakoskin
+    mail: ''
+    subject: 'about silverlight'
+    hostname: 192.100.124.219
+    created: '1217849250'
+    body: "It's way too early to say anything about silverlight since silverlight 2 is not yet released. Say you want to do some multithreading on you web page, it's pretty hard with AJAX isn't it ? With silverlight 2 it is trivial! Silverlight can expose functionality to javascript, also it's easy to call javascript from silverlight,\r\ntake a look at [this video](http://silverlight.net/learn/learnvideo.aspx?video=65683) if you don't believe."
+-
+    name: szurcher
+    mail: ''
+    subject: 'Flash Player'
+    hostname: 24.25.252.217
+    created: '1218503364'
+    body: "It's 50/50 odds on any webpage with flash I go to whether the player object will render or not (and instead produce a rectangle in a lovely shade of gray).  Yes, this is in Linux.  However, there isn't a single AJAX application I've run into yet that has such problems.  In any case, it won't matter how wonderful Flex is if it produces objects my browser (Firefox) can't display.\r\n\r\nThe other benefit of AJAX is indeed that there is absolutely nothing \"new\" to be learned.  It's a combination of existing web technologies completely supported by all modern browsers natively that we've been working with for years.  Download a library and make a few extra calls to functions you don't have to learn anything about if you don't want.  Can even Flex really compete with that?"
+-
+    name: mikese
+    mail: ''
+    subject: 'I guess thats one way to put'
+    hostname: 24.184.97.254
+    created: '1237917745'
+    body: 'I guess thats one way to put it that AJAX and Javascript moped the floor with Java they have taken off with php and AJAX walking hand in hand now. There are some ok java apps [java diameter](http://www.traffixsystems.com/site/content/Java_diameter.html) being one but still nothing near the flexibility that you get with AJAX.'

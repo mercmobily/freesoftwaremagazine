@@ -1,0 +1,77 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Subject to viruses'
+    hostname: 86.129.251.106
+    created: '1168245081'
+    body: "The main reason why it's vulnerable to viruses is because it's the #1 O/S.  The majority of people use it so viruses have the most impact on it.\r\n\r\nI dare-say if Linux was the most used system in the world the story might be a little different.  Just a thought."
+-
+    name: 'Wouter Verhelst'
+    mail: ''
+    subject: 'Don''t buy it'
+    hostname: 81.165.16.76
+    created: '1168270292'
+    body: "There are many people who claim this, but I don't buy it.\r\n\r\nThere is only one system where the default installation also gives the user who's created during this installation full administration rights, and that's Windows; no wonder viruses can wreak havoc there. MacOS does give you administration rights, but only <em>after</em> you enter a password. Most GNU/Linux distributions act similar.\r\n\r\nAdditionally, techniques such as NSA's SE Linux can help enourmously in fighting viruses, if enabled and used properly."
+-
+    name: ''
+    mail: ''
+    subject: upgrade
+    hostname: 85.0.47.211
+    created: '1168273061'
+    body: 'Maybe Microsoft is trying to keep Windows unstable, so customers have reason to upgrade to the next one in hope of slight improvement... ($$$) - just a thougt.'
+-
+    name: ''
+    mail: ''
+    subject: 'I buy it'
+    hostname: 71.226.237.140
+    created: '1168273863'
+    body: "I do. Not because I have an anti-Linux agenda, just because I am a bit realistic.\r\n1- Some Linux distros include Anti-virus software, so maintainers do allow such a possibility.\r\n2- As Linux desktop becomes more popular, more people try it (including newbs like myself) who don't know much about it. More 3rd party applications would be available as separate downloads. At this point Linux Desktop can become a more attractive target.\r\n3- I did install several RPM packages that did not come with the distro. The instruction was to launch Root Shell, install... Then there is instruction how to run the program from command line. If I did not verify integrity of the package, did not logged off root shell. and started that program -> there is a chance of some harm...\r\n\r\n#2 is the one to watch, as Linux becoming easier to install...\r\nI am not saying it would happened all the time and not claiming that harm would be as destructive as it can be in Windows...."
+-
+    name: ''
+    mail: ''
+    subject: 'Viruses and the most popular OS'
+    hostname: 131.161.71.130
+    created: '1168280414'
+    body: "The only problem with this argument is that Linux and open source software are already over 40%, which is higher than MS software (in other words, more servers on the Internet run Linux than MS software and the number is higher if you include Unix/Unix variants).\r\n\r\nHow come MS software/servers are the only ones with this problem if Linux (and Unix) servers are already the most popular software/OS combination in the world of running the Internet?\r\n"
+-
+    name: 'Raghu Kodali'
+    mail: ''
+    subject: 'Just some Humour regarding Linux & Viruses'
+    hostname: 217.140.104.20
+    created: '1168316020'
+    body: "http://www.gnu.org/fun/jokes/evilmalware.html\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'GNU/Linux virus scanner'
+    hostname: 212.183.59.239
+    created: '1168378583'
+    body: "One of the uses that I am aware of of a GNU/Linux virus scanner is for a server (for example, a mail server) that serves Windows clients. So, these virus scanners detect Windows viruses, not GNU/Linux viruses.\r\n\r\n(I don't know whether a virus scanner exists that detects GNU/Linux viruses only, and if one exists, how many viruses are in its database...)\r\n\r\nApart from that, it might be easier to <em>keep</em> GNU/Linux safe (which I think it is today, <strong>whatever</strong> the reason) than to <em>make</em> Windows safe. It seems, even GNU/Linux \"newbs\" are aware of the implications of being \"root\" during an RPM install. Many Windows users don't know what \"Administrator\" is."
+-
+    name: ''
+    mail: ''
+    subject: 'How can you?'
+    hostname: 84.148.113.12
+    created: '1168414237'
+    body: "Wait a minute! This is a very serious thing you say. \r\n\r\nI mean, it's Microsoft we're talking about. They wouldn't do something that mean, would they?\r\n\r\n[/cynism]"
+-
+    name: uslacker
+    mail: ''
+    subject: 'Why MS'
+    hostname: 67.98.88.81
+    created: '1168442705'
+    body: "Curious as to why you find the problem is with MS and not with the security camera s/w vendor?  Cannot a bad driver or bad applicaiton make the system unusable regardless of thw OS?  Have you tried just killing the app or process associated with the app?  \r\n\r\nAs for scheduling the reboot itself, surely the Scheduled task tools is easier to use than cron.  Please - unless you use cron every month, you have to hit the man page to figure out that arcane syntax.\r\n\r\nAnd as for Monad - does every tool you use on Linux come with the distro - or did you have to install them yourself?  How many did you actually have to compile?\r\n\r\nMy friend - <em>Linux</em> will move forward when its evangelists start discussing its' virtues for their own merit - not for how it is better than <em>Windows</em> or worse yet - why MS sucks. \r\n\r\n\\\\USlacker "
+-
+    name: 'Ken Leyba'
+    mail: ''
+    subject: 'Becuase it is MS.'
+    hostname: 155.135.55.200
+    created: '1168454675'
+    body: "As noted in the post three different applications, all on Windows, have a similar issue.  One is security camera software, second is user login statistics package and the last is Intrusion Detection.  The common thread, Windows.  Could all three be badly programmed applications?  Sure, but MS can't always rely on this answer like they similarly did with Anti-virus vendors.\r\n\r\nScheduled Task was easy to setup, it just didn't work.  The only solution that we could come up with is to join the machine to a domain, which we were able to make work.  It seemed silly to join a domain on a standalone machine, and shouldn't be required.\r\n\r\nBash and cron are standard on most if not all Linux distributions.  This is similar to Task Scheduler and the Windows XP command language.  This also goes along with Perl and Python, distrubutions commonly use these programming languages in their distributions tools.\r\n\r\nI am not an Linux evangelist, as I support both Windows servers and desktops, as well as Linux servers and desktops.  Becasue of Linux's \"own merit\" is why I am migrating as many services as I can to Linux.\r\n\r\nThanks for reading and the comments.\r\nKen\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: ' The solution to your problem....'
+    hostname: 84.148.123.22
+    created: '1168500665'
+    body: "Since i know one or the other Windows Hack (out of Necessity) i could have told you how to do it:\r\n\r\nWrite a batch script named \"restart.bat\"\r\n\r\nwhich has only this one line:\r\n\r\nshutdown -r\r\n\r\nThen you can use the Task planner to schedule this script to be executed weekly.\r\n\r\nIt should have worked your way too, i admit that. But there IS a possibility for elegant solutions on Windows. Now and then."

@@ -1,0 +1,21 @@
+-
+    name: bignellrp
+    mail: ''
+    subject: 'Can i use the above as a'
+    hostname: 212.74.112.53
+    created: '1228945062'
+    body: "Can i use the above as a global spam filter for virtual mysql users?\r\n\r\nE.G\r\n\r\n# Exim filter\r\nif $h_subject: contains \"{SPAM?}\"\r\nthen\r\nsave /var/mail/${domain}/${local_part}/.Junk\\ E-mail/cur/\r\nfinish\r\nendif\r\n\r\n\r\n...to work with my transport below.\r\n\r\n\r\nlocal_mysql_delivery:\r\n  driver = appendfile\r\n  directory = /var/mail/${domain}/${local_part}/\r\n  maildir_format\r\n  delivery_date_add\r\n  envelope_to_add\r\n  return_path_add\r\n  user = mail\r\n  group = mail\r\n  mode = 0660"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'yes but maybe not as you think'
+    hostname: 82.108.129.98
+    created: '1229020565'
+    body: "In Exim a global filter (one that is applied to every inbound message) is called a system filter. The one you've shown above would work if placed in a system filter file and you called it using the system filter directive as shown on page 3 of my article. (It would also work if placed in a .forward file but then only for that one user).\r\n\r\nAs your filter checks the domain and local_part of the recipient envelope (calculated from the \"To:\" header of the message), the fact that the account is a virtual one is irrelevant. The transport is irrelevant too as the save command won't use it. It uses the appendfile driver but independently of the transport.\r\n\r\nA couple of things about your filter though. It will save any message with that string in the subject into the junk folder. This includes ones that perhaps got inadvertently flagged by some other companies' mail system (with the same string) and they've since replied to you. In my expereince it's better to add a header to indicate that *your* server thinks it's spam and detect that, rather than do your detection on an arbitrary string in the subject. This is what I do in the article, it's just the resulting action that differs.\r\n\r\nSecondly you'll probably confuse matter saving to the \"cur\" folder below .Junk\\ Email as it'll show up as a directory in the user's mail folders. If this is an Imap store then I'd save it to \".Junk\\ Email/\" and be done with it. If it's POP then don't even bother saving it to t separate folder if you want the user to see it, let the POP client do that bit.\r\n\r\nHope this helps  \r\nRyan\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: bignellrp
+    mail: ''
+    subject: 'Thanks for such a quick reply....'
+    hostname: 79.65.139.225
+    created: '1229021812'
+    body: "That does help explain things. But at the moment:\r\n\r\n# Exim filter\r\nif $h_subject: contains \"{SPAM?}\"\r\nthen\r\nsave /var/mail/${domain}/${local_part}/.Junk\\ E-mail/\r\nfinish\r\nendif\r\n\r\ndoesnt work.  Firstly it complained at the space between .Junk\\ Email\r\n\r\nthen when i changed to .Junk it didnt seem to do anything with this spam mail.  Could it be that my spamassassin isnt tagging the mail until after my system_filter is called?  Or am i doing something else wrong?"

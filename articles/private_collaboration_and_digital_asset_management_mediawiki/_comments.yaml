@@ -1,0 +1,7 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Erratum for Debian Squeeze'
+    hostname: 68.116.159.234
+    created: '1287623197'
+    body: "I'm installing Mediawiki now on a new machine running \"Squeeze\" (the current Debian \"testing\" distribution).\r\n\r\nOn this system, the Mediawiki web configuration is not automatically installed the way it's described in the article.\r\n\r\nYou have to uncomment a line in `/etc/apache2/conf.d/mediawiki.conf` to create the alias assumed by the rest of the above article:\r\n\r\nBefore:\r\n=CODE_START=\r\n# Uncomment this to add an alias.\r\n# This does not work properly with virtual hosts..\r\n#Alias /mediawiki /var/lib/mediawiki\r\n...\r\n=CODE_END=\r\n\r\nAfter:\r\n=CODE_START=\r\n# Uncomment this to add an alias.\r\n# This does not work properly with virtual hosts..\r\nAlias /mediawiki /var/lib/mediawiki\r\n=CODE_END=\r\n\r\nI'll post additional errata here if I find any.\r\n"

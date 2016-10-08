@@ -1,0 +1,14 @@
+-
+    name: mark.jarvin
+    mail: ''
+    subject: Corrections
+    hostname: 76.64.192.239
+    created: '1200663221'
+    body: "Just a couple of corrections:\r\n\r\n1) The XC3S4000 isn't among the largest FPGAs, not by a long shot.  It is among the larger *budget* FPGAs, but the (much more expensive) Virtex 5 LX330 is about 5x larger.  \r\n2) Xilinx's tools *are* available for Linux for free (http://www.xilinx.com/support/download/i92linwp.htm).  Admittedly, the same can't be said for Altera or Lattice."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Responses
+    hostname: 68.93.224.4
+    created: '1201532647'
+    body: "About your first point, that was obviously a poor choice of expression on my part. I should've just said \"very large\" (because there's always going to be something bigger). The XC3S4000 is \"one of the largest\" in the datasheets that I looked at from Xilinx, but those were no doubt limited to a particular product line.\r\n\r\nI passed the second point on to the Open Graphics mailing list, and the responses there were that:\r\n\r\n* Yes, there is a native zero-cost Linux product.\r\n\r\nhowever...\r\n\r\n* The ISE/webpack software you link to doesn't support larger FPGAs like the XC3S4000 (XC3S1500 is the highest).\r\n\r\n* The software may be difficult or impossible to install on up-to-date GNU/Linux distributions (it may be necessary to install it on an older version of Red Hat?)\r\n"

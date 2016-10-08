@@ -1,0 +1,14 @@
+-
+    name: ''
+    mail: ''
+    subject: 'first comment ??'
+    hostname: 190.49.79.88
+    created: '1172204745'
+    body: "<cite>The criticism about speed and being “interpreted” is particularly amusing when it comes from Java programmers. It turns out that in almost all import respects, Java and Python are identical in how they are interpreted. Both actually use just-in-time compilation strategies and interpret “bytecode” on a “virtual machine”</cite>\r\n\r\nAre you sure about that, I've recently trying to find if CPython does just-in-time-compilation, but nothing.\r\n\r\n<cite>There are lots of battles over which syntax for representing a certain idea should make it into the language, and occasionally syntax which was “considered harmful” will get pulled. The important thing though, is not the specific design decisions, but rather the criteria used to distinguish them:\r\n\r\n*  Do they make the language clearer for the reader to understand?\r\n* Do they demonstrate a clear “best practice” (“one obvious way to do it”) so that a plethora of competing and confusing alternatives don't get in the reader or programmer’s way?\r\n* Do they allow you to get the job done, without cluttering up your code or making it harder to understand?\r\n* Do they avoid encouraging bad coding habits which will get in the way of someone trying to modify your code?</cite>\r\n\r\nThat is in part our (programmers) job too, it's a 50% and 50% thing I believe.\r\n\r\ncheers\r\n\r\nArkaino\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"Just In Time" compiling'
+    hostname: 68.93.224.4
+    created: '1172297508'
+    body: "This is a little complicated to answer. CPython decides when to compile source code to byte code, and interprets the latter. It does not interpret the actual source text, except on the first pass after it has been edited. Full compilation (to native machine code) is not done by the current CPython interpreter.\r\n\r\nSo yeah, I may be using the term too broadly. However, there are tools like Psyco that do provide some compilation to native code, and the new “Python in Python” (PyPy) implementation will do true JIT compilation.\r\n"

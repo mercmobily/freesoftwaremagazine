@@ -1,0 +1,161 @@
+-
+    name: kenthomson799
+    mail: ''
+    subject: comment
+    hostname: 59.95.229.14
+    created: '1176013414'
+    body: "Namaste!\r\n\r\ni like the article;\r\nbut it flew over the entire scenario without going into the details like an expert would do!\r\ni am not talking about dictating options like select-this and select-that but a general detailed overview of the various services/daemons, typical-scenarious is way better than a sweeping view of everything!\r\nKeep up the good work"
+-
+    name: clievers
+    mail: ''
+    subject: 'Debian, hmmm...'
+    hostname: 209.89.109.91
+    created: '1176151682'
+    body: 'As soon as I think of building this server, I think of other articles I''ve read online. Most of the articles mention the use of Suse or Ubuntu. My experience (very little) has been with Ubuntu, for the Server method. I like the looks of this Debian software selection, to specifically choose Web and/or Print and/or File Server, etc. Seems like any easy way to get things up and running. Setting up mail seems a little difficult, and perhaps the majority of people wouldn''t need this option (maybe just me ?). For the backups, I''m currently using rsnapshot, it seems to work well. But nice intro article. Thanks.'
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'if only there was room'
+    hostname: 82.108.129.98
+    created: '1176378114'
+    body: "I'd have loved to include more detail on the daemon's etc. but it simply of a case of not enough room. The main purpose was to give a hint as to what is possible with free software. Also I wanted very much to compare the two ways of approaching it rather than explain how to specifically do either. Again this was mostly a space restriction.\r\n\r\nFWIW I am currently updating my HOWTO for tldp which was written in 2000 and last update about four years ago. I'll be doing it based on the stuff I've written about here, with more detail on the Debian rather than the SME Server side of things.\r\n\r\nBut okay - let's throw this out then. A recent poll here suggested people wanted more HOWTO type articles. So how many people are interested in the idea of a more detailed \"How to setup a LAN server using Debian\" article? Assuming I use the setup described here as a basis what else would you want included?\r\n\r\nPost your comments here.\r\n\r\nRyan"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Other distro''s'
+    hostname: 82.108.129.98
+    created: '1176379029'
+    body: "I've used SuSE in the past but find the package update process in Debian much better. A particular tip is to install apt-listbugs ( <code>apt-get install apt-listbugs</code>) which retrieves and display brief details of bugs listed for the packages you want to install. Really useful if you are running testing (or unstable if not on a server).\r\n\r\nI looked at Ubuntu for this but found it added little to the Debian way I was used to.\r\n\r\nSetting up mail can be tricky regardless of how you do it and there is an argument which says that is for good reason. It is made easier by the install guide shown which really comes down to understanding the options shown. This is turn requires a little more understanding of MTAs in general - never a bad thing if you are deploying one. Of course if your server is not serving mail to anyone then you can probably install smail ( <code>apt-get install smail</code> ) which makes it trivial to just forward non-local mail to your SMTP relay of choice.\r\n\r\ncheers\r\nRyan"
+-
+    name: 'George Miller'
+    mail: ggmiller@3rivers.net
+    subject: 'More detailed how-to would be great'
+    hostname: 65.19.225.244
+    created: '1176491657'
+    body: "Nice article!\r\nI would be very interested in a more detailed how to setup article, if possible.\r\n\r\nI am new to Linux and wish to learn as much as possible.\r\n\r\nthanks,\r\nGeorge"
+-
+    name: GaryS
+    mail: admin@garyshood.com
+    subject: FreeBSD
+    hostname: 71.201.165.10
+    created: '1177043760'
+    body: 'FreeBSD is way better for a server like this :)'
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: '...because?'
+    hostname: 82.108.129.98
+    created: '1177074326'
+    body: "<cite>FreeBSD is way better for a server like this :)</cite>\r\n\r\nbecause?\r\n\r\nAppreciate the presence of the smiley but you can't make a statement like that and leave it at that. I've never used FreeBSD - generate some discussion - convince me."
+-
+    name: JeanNarH
+    mail: jeannarh@hotmail.com
+    subject: Server
+    hostname: 24.68.128.41
+    created: '1177090110'
+    body: "U want an all purpose server? Cheap as, reliable and multi-puropse for mid ranged company?\r\n\r\nGo with a Sun Fire X2200 M2.  Cheap, and with Gentoo (or whatever), you can do whatever you want with it, add raid 0 (unfortunately soft).  It's a perfect DNS srv, DHCP, Postfix, web (clusterized or not), mysql standalone or whatever else, for like 2.5K US for dual core dual cpu.\r\n\r\nI love that thing :)\r\n\r\nJNH"
+-
+    name: 'Mike Dub'
+    mail: mike@fullduplex.org
+    subject: 'I was surprised to see you'
+    hostname: 198.164.252.44
+    created: '1177099877'
+    body: 'I was surprised to see you had suggested installing Debian. Kudos to you for picking the "best" distro!'
+-
+    name: GaryS
+    mail: admin@garyshood.com
+    subject: FreeBSD
+    hostname: 71.201.165.10
+    created: '1177104246'
+    body: "FreeBSD is about a 15 minute install. It uses sysinstall which is one of the easiest to work with. Once setup, the following commands as root and the server you have listed here is online.\r\n\r\npkg_add -r samba\r\necho smbd_enabled=\"YES\" >> /etc/rc.conf\r\necho nmbd_enabled=\"YES\" >> /etc/rc.conf\r\nnmdb -D\r\nsmdb -D\r\n\r\nfrom there, you can connect to a GUI for samba that is very intuitive, you can create users and shares easily at the address 127.0.0.1:901 Also the samba pkg_add will automatically install all dependencies like CUPS or what not.\r\n\r\nsendmail is installed by default, so no worry about that. frankly it comes down to this. FreeBSD packages and ports are updated within two days or less on the updates of the most popular applications. apt-get is nice, but I remember having to compile PHP by source because they weren't exactly planning on adding the updated package for it anytime soon. and unlike debian, ALL the packages are stored on the FreeBSD server, I never have to add repositories like I had to on Debian to install some applications. every application I've ever needed has been ported over from linux to FreeBSD, and it also has linux 2.6 binary compatibility in the -CURRENT release."
+-
+    name: 'Stella Roy'
+    mail: stella_ry@yahoo.com
+    subject: 'well written'
+    hostname: 221.128.143.134
+    created: '1177167633'
+    body: "hey this is one of well written article I read after many days. keep it up\r\n\r\n-Stella Roy\r\nhttp://rahul-stella.blogspot.com"
+-
+    name: 'Chris Hawkins'
+    mail: cgkh.webservices@gmail.com
+    subject: 'The perfect network server'
+    hostname: 213.205.69.113
+    created: '1177167966'
+    body: "I'm chuckling because I was asked to exactly excute the scenario you outlined above two week ago for a small business client.\r\n\r\nI set up ubuntu 6.04 LTS server on a surplus AMD 1200 MHZ with 750 MB RAM. Topped it off with a coating of Xbuntu so those that were \"Terminally\" challenged could still access it!\r\n\r\nGrabbed a Dynamic-assigned domain from DYNDns and set up Apache.\r\n\r\nSet up Samba to allow the rest of the XP challenged office to access file shares.\r\n\r\nWorked perfectly the fisrt time. Took about 5 hours but as it was the first time I had set up a server was very pleased with the result, as was the client.\r\n\r\n\r\n"
+-
+    name: patrics
+    mail: patrics@o2.pl
+    subject: 'File Server Efficiency (Disks and RAM)'
+    hostname: 82.37.241.55
+    created: '1177168396'
+    body: 'I use Fileserver for 5 clients. Disks are mounted to clients by nfs. Configuration is PentiumIII 1000MHz, 512MB RAM, two IDE/ATA hard disks, not RAID but working in some way parallel. I want to briefly share my experience. The processor is fast enough. Network have to be 1Gbit/s. Because of /home is shared by nfs it should be SCSI with very low access time. And as much RAM as possible (for disk cache). Of course too much RAM costs too much. However 2 - 16 GB I think is reasonable choice. Also you need to thing about how you place data on disks.'
+-
+    name: 'John Dean'
+    mail: dino@jed.id.au
+    subject: 'VMWare Server'
+    hostname: 203.0.171.82
+    created: '1177294765'
+    body: "I'm currently using VMWare server to host SME and a web server  using unbuntu as the host and guest (for the web server). \r\n\r\nFor a small site I find this very useful. Backups are easy, just zip the files for the virtual server. If the main machines goes down, then getting the virtual server up and running on another machine is easy, takes 5 minutes.\r\n\r\nRunning the server on a dual pentium 4 2.8Ghz, with 1 gig of ram. "
+-
+    name: bswitzer
+    mail: ''
+    subject: 'GUIs always needed.'
+    hostname: 209.183.141.104
+    created: '1177613640'
+    body: "\"Contrary to what certain software companies believe, running a GUI is a waste of resources for a server\"\r\n\r\nBS!\r\n\r\nThis presumes:\r\n- the admin is 100% completely able to solve any problem, any time. Without the need to reference _any_ outside resources. Now and in the future. Forever.\r\n- no outside connectivity is needed.\r\n\r\nI'm not saying:\r\n- it has to run all the time.\r\n- it has to be significant. xfce?\r\n- it has to be fast.\r\n\r\nBut it has to be there:\r\n- when trouble happens you have to be able to use web resources and read documents, e.g. .pdf, to solve the problem. Especially if the machine has a problem particular to its configuration that you can't easily duplicate on a spare test machine.\r\n- lynx just won't do it all the time.\r\n\r\nBetter to have it in and solid up front at install time, than in an emergency where (a) you may not have network connectivity to be able to install it, (b) you can never tell if installation is going to impact or change the situation of the current emergency problem.\r\n\r\nYou cannot presume up front that a GUI will never be needed, ever. To do so is just foolhardy. Better to have it there, up front, just in case, so you know when problems arise that it is not part of the problem.\r\n\r\nYes, Windows needs it, because not everything is configurable from the command line. But it's getting better. [Better, even now, to have a second partition with a minimal windows install, so you can boot into it and affect the production install, when you have to do so but can't due to files open, registry, or whatever, from the production OS partition.]\r\n\r\nWhen you're in an emergency / down situation, that is not the time to have to think about how to get in place the resources you need to investigate and examine the problem, before you can actually get to the problem.\r\n\r\nParticularly if, as the target audience of this article is, you're a new Linux admin."
+-
+    name: Seraphim_72
+    mail: seraphim_72@yahoo.com
+    subject: 'Well if you would like ideas'
+    hostname: 134.29.180.101
+    created: '1177619757'
+    body: 'Well if you would like ideas I would love to see an article about setting up single sign and a domain for your home using a debian based distro. '
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'I stand by what I said'
+    hostname: 82.108.129.98
+    created: '1178200769'
+    body: "<cite>BS!</cite>\r\n\r\nI assure you it is not. :o)\r\n\r\n<cite>This presumes:\r\n- the admin is 100% completely able to solve any problem, any time. Without the need to reference _any_ outside resources. Now and in the future. Forever.</cite>\r\n\r\nIt does not presume that the admin must be 100% completely able to... - that would be foolish. I run servers without GUIs all the time  - always, every day. Never needed a GUI yet.\r\nWhat I do not presume is that the admin needs to be sitting in front of the server to administer it and I should have said this.\r\nI do all my administration via ssh (Secure Shell) with RSA keys. Rarely do I need to sit in front of the server and rarely do I therefore need to access web pages from within it for configuration issues.\r\nShould I need to access _any_ outside resources I do - on the same machine I am connecting from.\r\n\r\n<cite>- no outside connectivity is needed.</cite>\r\nWhy would you need a GUI to connect to or from the outside? We run several remote servers sitting behind firewall devices which permit access via ssh. These servers do not have _any_ GUI installed and they never will have. \r\n\r\nAgain - running a GUI on an this kind of server is a waste of resources. Why use up RAM and processing power keeping a GUI loaded (regardless of it's footprint) when you don't need it. Even having one installed and starting it when required seems a waste when it can be done via command line or web front-end.\r\n\r\n<cite>Better to have it in and solid up front at install time, than in an emergency where (a) you may not have network connectivity to be able to install it, (b) you can never tell if installation is going to impact or change the situation of the current emergency problem.</cite>\r\n\r\na) Why would I need to install it?\r\nb) Installation of the GUI? Then don't install it. If you mean a package update or installation then I suggest you have not used Debian's apt system very much. You are told exactly what will be updated, what will be newly installed and what will be removed. You can even haev it report open bugs for you before you proceed. Not that I'd expect any significant ones in a Debian stable system. SME Server requires full server unavailability when updating the whole distribution by CD.\r\n\r\nI have re-read what you say but I still cannot see how any of this is an argument for needing a GUI - honestly. So far you have not laid out a reason to have a GUI installed other than \"it might come in handy\". Handy for what? Configuration? Troubleshooting? I can do these by command line, remotely and quickly. Please explain what tasks on a server specifically require a GUI.\r\n\r\n<cite>You cannot presume up front that a GUI will never be needed, ever. To do so is just foolhardy. Better to have it there, up front, just in case, so you know when problems arise that it is not part of the problem.</cite>\r\n\r\nI can and do presume it. I do not presume it lightly, however. It is based upon years of doing this without a GUI. I have never ( repeat _never_ ) found myself needing or wanting a GUI when troubleshooting a server. Indeed when the problem is your graphics driver or mouse, becoming dependant upon a GUI will just create a bigger headache. A command-line interface is the lowest common denominator here. \r\n\r\n<cite>Yes, Windows needs it, because not everything is configurable from the command line.</cite>\r\n\r\nOf course Windows needs it - this was my point. A Windows based server will require a GUI and the associated resources to run it. A Free software based server ( running Debian, SME Server, FreeBSD whatever ) does NOT require a GUI. When I said \"Contrary to what certain software companies believe, running a GUI is a waste of resources for a server\", the software company was of course Microsoft. The argument I am making is that just because we are told by Microsoft that a GUI is needed does not mean ALL servers need one. Indeed beyond configuration I would doubt the GUI is needed for a Windows server (that is day to day serving files or mail does not a GUI). Which may explain why I have seen so many with a 17\" monitor switched off and sitting above them. So therefore running a full GUI on a server when you only need it if something goes wrong is a waste of resources.\r\n\r\n<cite>When you're in an emergency / down situation, that is not the time to have to think about how to get in place the resources you need to investigate and examine the problem, before you can actually get to the problem.</cite>\r\n\r\nI agree but I fail to see what this has to do with a GUI. Troubleshooting via log files, command-line feedback etc. is all possible and often more informative than GUI flashing lights and dialog boxes. When a machine is down and I really need to be in front of it I can put a dusty old 14\" CRT monitor on it if I want to and then I can use it. Using a GUI requires additional resources - some of them inside the server some of them plugged into it.\r\n\r\n<cite>Particularly if, as the target audience of this article is, you're a new Linux admin.</cite>\r\n\r\nAgain I agree and again I see no reason for this to result in installing a GUI. SME Server as mentioned in the article has a remotely accessed web interface which enables you to administer your server without touching the command line. For new (by which I take it you mean beginner) Linux admins\r\n I would recommend that but it still does not run a GUI. X is not installed at all.\r\n\r\ncheers\r\nRyan"
+-
+    name: bswitzer
+    mail: ''
+    subject: 'As do I. (I stand by what I said)'
+    hostname: 209.183.141.104
+    created: '1178203852'
+    body: "> I assure you it is not. :o)\r\n\r\nI disagree. I assure you it is.\r\n\r\n> I run servers without GUIs all the time\r\n\r\nOK. YOU do. But this article is intended for those who have no experience, and have never dealt with such servers. And YOU won't be around for every reader who goes and implements what the article suggests.\r\n\r\nYou are falling into a few traps that I see repeatedly. They are typical of vendors: _I_ know what I'm doing, and _my_ implementation will never change. This is not a shot, just my experience. Inevitably I have had to come along afterwards and blow up (expand) their nice, neat, tidy, installations, because the unexpected has happened, or is suddenly required, and what I'm familiar with, or think I need, to solve a problem, isn't there. From a long term maintenance perspective. Sometimes bringing that install up to 'my standards', including installing things I might not need now, but I sure want in place just in case, breaks things - because the original installer had tunnel vision.\r\n\r\nChange _always_ happens, eventually, and, just as _eventually_ it will be done by someone else.\r\n\r\nThroughout your response you say _I_ this and that. When you get hit by a bus, what about the next guy, who may know nothing?\r\n\r\n> Should I need to access _any_ outside resources I do - on the same machine I am connecting from.\r\n\r\nYou presume you have access to outside resources, to get into the machine in the first place. You also presume that the next emergency problem solver has your level of competence to be able to solve the problem, and that solving the problem won't involve sucking up an external fixit utility to work directly on the problem machine, because that's how the newbie who has to fix it _right now_ knows, or can find, how to deal with it.\r\n\r\nThe article deals with new installations by new people. People who if not actually uncomfortable with the command line, certainly won't have a breadth of knowledge necessary to deal with the problem in the environment you suggest.\r\n\r\n> These servers do not have _any_ GUI installed and they never will have.\r\n\r\nBecause the company has decided to implement things that way, and, more importantly, the company has decided to maintain a staff with the necessary expertise to maintain those installations. This is not whom the article is directed to. Such a company wouldn't even read this article. They are already well beyond it.\r\n\r\n> It is based upon years of doing this without a GUI.\r\n\r\nHardware is cheaper than people. Peace of mind has a cost. I didn't say run X, merely make sure it is there. In a down situation, resource consumption is your last concern, having in place any possible resource you, the new guy, might need, is the first concern.\r\n\r\nThis article is an introduction for new people never having done this before. I don't disagree with your comments in the context of experienced admins., however, how was that experience gained? I would guess, given your comments, in an environment where you had similar machines already, to examine and as a basis of confidence as to how to go forward. I would also guess that you had people around you with expertise to draw upon as you worked to figure things out.\r\n\r\nThe point of the article is for those who have never done such, have nobody around, and have only the web to draw upon. No outside dollars for consultants. Typically, their test machine is their live environment. It has to be solved, _here_, _now_. The article reader doesn't know how - they will have to, at least, browse the web. From that machine.\r\n\r\nI don't say the _next_ machine they do will need it. Only the first one. As their expertise and confidence grows, they will need less and less.\r\n\r\nBut for that first one - hardware is cheap, and software seldom really pushes it to the max. For, at most, a few MB of memory (in this age of GB memory), a few MB of disk space (in this age of TB disks), a few MHz of CPU (in this age of GHz CPU), save yourself some aggravation and irritation up front - put in a GUI. Maybe you'll never need it, for no big loss. But for you, the new user, even if only for a comfort pillow, put it in.\r\n\r\nYou'll be glad you did. This time. Maybe not the next."
+-
+    name: 'Anonymous visitor'
+    mail: marcelosz@gmail.com
+    subject: 'Tool used for network diagram'
+    hostname: 201.22.128.23
+    created: '1178563031'
+    body: "Could you please tell me which tool you used for the network diagram on the first page (http://www.freesoftwaremagazine.com/files/www.freesoftwaremagazine.com/nodes/1774/ss/figure1.jpg)?\r\n\r\nI liked the network icons and would be glad if you could share them.\r\n\r\nThanks!"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Why I have presented two options'
+    hostname: 82.108.129.98
+    created: '1178725702'
+    body: "I have deliberately presented two options here.\r\n\r\nThe first, Debian, one requires command-line  knowledge and, shall we say, an enthusiasm for it would help as would a knowledge of what you are doing. So if you have no idea what BIND is I would suggest configuring it manually is going to take longer.\r\nThe second, SME-server does not require any[1] command-line work at all. Everything can be done via a web interface from a local machine OR from a text, curses-based console at the server itself.\r\n\r\nNeither of these install X. It's also worth noting that the Ubuntu server does not include X by default and many custom server GNU/Linux distro's do not either. It would seem I am not alone not using GUIs on servers and on a small scale one (say 128MB RAM) I would still not recommend one.\r\n\r\nIf the admin has an allergic reaction to the command line (and what GUI user  doesn't when they first encounter it) then I suggest SME-server or similar.\r\n\r\nRyan\r\n[1] Okay - you have to be able to type an admin username and password when prompted to."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'free software of course :o)'
+    hostname: 82.108.129.98
+    created: '1178727148'
+    body: "I used OpenOffice Draw to create the diagram. The images came from the OpenClipart library. <a href=\"http://www.openclipart.org\">http://www.openclipart.org</a> but the site was down for maintenance when I wrote this. I got it by installing the Debian package (openclipart_openoffice.org)\r\n\r\ncheers\r\nRyan"
+-
+    name: bswitzer
+    mail: ''
+    subject: 'I hear you.'
+    hostname: 209.183.141.104
+    created: '1178735312'
+    body: "OK. I hear you.\r\n\r\nBut - I would bet money that people are far more likely to install Ubuntu (non-server), Kubuntu (non-server) even more likely, play, and add services, than load a server distro.\r\n\r\nYou have not addressed any of my points with respect to the audience to whom the article is addressed to.\r\n\r\nYou still presume network connectivity to be able to run a web client (GUI) on another machine, to read pages from a machine that may not be able to communicate to you.\r\n\r\nYour points are all valid - just not for, IMO, the target audience of the article."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'okay then...'
+    hostname: 82.108.129.98
+    created: '1178801887'
+    body: "<cite>You have not addressed any of my points with respect to the audience to whom the article is addressed to.</cite>\r\n\r\nI was going to then I realised my reply was far too long so I cut it down a little :o)\r\nFWIW when I proposed/wrote this piece I had a particular set of users in mind - with two distinct subsets.\r\n\r\nFirstly, they would not be absolute beginners. It is wise to have a certain understanding of network technologies (even if it's knowing that those technologies exist and what they do). This is why the article is the the Hacker's code section and labelled Intermediate. These people would have maybe used or fiddled with proprietary servers before - or deployed a peer-to-peer desktop PC as a \"server\". Bottom line:  terms like POP, SMTP, DNS etc. would not be foreign to them.\r\n\r\nSecondly, they would be looking to see if their server needs could be fulfilled by Free Software and what types of Free Software server solutions were out there.\r\n\r\nThat gives us our general set of users. Within that I was hoping to address two groups:\r\na) those who had installed GNU/Linux a few times and were familiar with the command line but just had never done a server because it seemed too complex.\r\nb) those who had used GNU/LInux/Free Software at Desktop level and were happy with installing - say - Windows from a CD. They had not installed GNU/Linux from scratch before but understand what partitions, RAM and DNS etc. are.\r\n\r\nThe Debian option was aimed at group a), the SME-server at group b).\r\n\r\n<cite>You still presume network connectivity to be able to run a web client (GUI) on another machine, to read pages from a machine that may not be able to communicate to you.</cite>\r\nYes I do but then so do you if you are expecting to browse the web from the server - as you mentioned. In addition many of the packages used within a server environment are unlikely to have desktop-based help pages. You are more likely to have to wade through.\r\nFinally - have a look at the typical network diagram shown. The Internet connectivity is supplied via an ADSL Modem/Router and not the server. I would expect the server and PCs on the LAN to gain access to the web via that. Granted the server could provide gateway and DNS services but for simplicity in smaller environments I have tended to use router/modems.\r\n\r\nWhile I am here, you have also said this...\r\n\r\n<cite>You are falling into a few traps that I see repeatedly. They are typical of vendors: _I_ know what I'm doing, and _my_ implementation will never change. This is not a shot, just my experience. Inevitably I have had to come along afterwards and blow up (expand) their nice, neat, tidy, installations, because the unexpected has happened, or is suddenly required, and what I'm familiar with, or think I need, to solve a problem, isn't there.</cite>\r\n\r\nFirstly, by placing expectations of a GUI on the system you are also saying \"your\" implementation is what is \"required\".\r\n\r\nSecondly, there is a reason I use SME-server and Debian.\r\n\r\nSME-server can be administered by people less confident/skilled/experienced than myself with a few simple instructions on how to access it. It really can. I usually deploy this where it is unlikely the organisation is going to be able to (or have the funds to) replace me if I go. Updates, configuration,  administration are all done in the standard recommended way for SME-server. Anyone unfamiliar with it (but familiar with networking and server terminologies/technologies) can quite easily configure an SME-server. If they don't pick it up from the easy-to-follow web interface then they can browse the host of good documentation on the website. Yes this expects a web connection but so does a lot of documentation these days.\r\n\r\nFor the Debian installs I use standard Debian packages, configured in the standard Debian way and locations, If I install Exim4 it is done via apt and the config files are in /etc/exim4 . In this way not only can someone who has configured/administered Debian before carry on where I left off with minimal learning curve, they can also apply package updates knowing that I have done nothing out of the ordinary which the update might break.\r\n\r\nThirdly - when I install a server I make very sure the people there either, have the skills to carry on after me (that I will train people to add users via the SME web interface) or I make sure they are able to acquire the services of someone who can. It is on that basis that I decide which option to roll out.\r\n\r\nCheers\r\nRyan"

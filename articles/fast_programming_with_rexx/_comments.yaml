@@ -1,0 +1,21 @@
+-
+    name: 'Lawrence D''Oliveiro'
+    mail: from-free-sw@geek-central.gen.nz
+    subject: 'Needless work?'
+    hostname: 203.118.156.111
+    created: '1189661850'
+    body: 'If all you needed to do was extract the printable strings from the file, why didn''t you just use the standard Unix/Linux "strings" command?'
+-
+    name: 'Anonymous visitor'
+    mail: anon@aol.com
+    subject: 'Article Says He''s on Windows'
+    hostname: 68.251.33.63
+    created: '1192115371'
+    body: 'The article says he''s on Windows.  Yet another reason to switch to free software like Linux!'
+-
+    name: MikRom
+    mail: ''
+    subject: 'Very Nice Article About REXX'
+    hostname: 217.75.89.85
+    created: '1208325318'
+    body: "Thank you Howard for this very nice and clear article about REXX.\r\n\r\nHowever the script in \"Finishing the job\" is limited to list the email addresses ending with \".com\" only. Therefore I would suggest to use instead of the <strong>pos('.com', string)</strong> rather\r\n<code><strong>\r\nPARSE VALUE .. WITH ..\r\n</strong></code>\r\nor \r\n<code><strong>\r\nPARSE VAR ..\r\n</strong></code>\r\n\r\ne.g. like this:\r\n\r\n<code>\r\n/****************************************************************/\r\n/*  Display the Names and Email Addresses from an old           */\r\n/*  Compuserve address book.                                    */\r\n/*                                                              */\r\n/****************************************************************/\r\n                                                    \r\nstring = linein('addrbooklist.txt')      /* Read the input file */\r\n\r\ndo while  pos('INTERNET:', string) > 0   /* Process each Entry  */\r\n   parse var string name_part 'INTERNET:' email_part\r\n\r\n   /* Extract the first and last names as:   Last, First        */\r\n   name_part    = reverse(name_part)\r\n   name         = word(name_part,2) || ' ,' || word(name_part,1)\r\n   name         = reverse(name) \r\n   name         = left(name,20)            /* Left-justify name */\r\n\r\n   /* Extract email address    */\r\n   email = word(email_part, 1)\r\n\r\n   /* Display the Name and Email Address  */\r\n   say   name  email\r\n\r\n   string = delword(email_part, 1, 1)  /* Adjust the string */\r\nend\r\n</code>"

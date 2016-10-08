@@ -1,0 +1,14 @@
+-
+    name: Tyler
+    mail: ''
+    subject: 'No need to modify the code...'
+    hostname: 142.177.144.84
+    created: '1174353494'
+    body: "\"this software can be distributed under the terms of the GPL, or, at your option, you can blah blah blah...\"\r\n\r\n\"At your option\" is addressed to the recipient of the code, not the author. It's up to the recipient to decide if they want to pass on the additional permissions if and when they redistribute the code. It has nothing to do with whether or not they modify the code in any way.\r\n\r\nTyler\r\n"
+-
+    name: 'Ciaran O’Riordan'
+    mail: ''
+    subject: 'I think that''s a different situation'
+    hostname: 212.55.194.154
+    created: '1174493691'
+    body: "<p>\r\nThe licensing statement is indeed addressed to the recipient, and it says thay can distribute this way or that way.  Whichever way they distribute, the licensing statement is unaltered, so the follow on recipient will also have the choice of distributing this way or that way.\r\n</p>\r\n\r\n<p>\r\nI think the situation your describing is a different one where an author publishes two versions of the work, one with one licence, the other with another licence.  This is not the same as publishing one version of the work that gives a choice to each downstream recipient.\r\n</p>\r\n\r\n<p>\r\nIn <a href=\"http://fsfeurope.org/projects/gplv3/barcelona-moglen-transcript.en.html#q6-lgpl-and-others\">Eben Moglen's barcelona GPLv3 talk</a> he said that additional permissions are removable, but I think he was talking about GPLv3.\r\n</p>\r\n\r\n<p>\r\nThat said, IANAL, so if you have a good argument, or a link to a lawyer explaining why additional permissions are always removable, I'd be very interested.\r\n</p>\r\n\r\n<a href=\"http://fsfeurope.org/projects/gplv3/\">GPLv3 - strengthening free software</a>"

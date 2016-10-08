@@ -1,0 +1,126 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Glad to be a thorn in your side...'
+    hostname: 68.93.224.4
+    created: '1162228250'
+    body: "So glad I could help you out. ;-)\r\n\r\nOf course, the irony is that the people arguing to allow DRM (i.e. who object to the \"corresponding source key\" requirement in the GPLv3 and the \"anti-TPM clause\" in the CCPL3) are doing so for idealogical reasons. They argue that these provisions excessively restrict \"user freedoms\".\r\n\r\nThe pragmatic argument can be made too, but it's always an adjunct.\r\n\r\nFundamentally these are questions of \"allowable copyleft\". The FSF wants a stronger copyleft, because some groups have found a loophole that allows them to effectively defeat copyleft.\r\n\r\nHowever, this conflicts with the one genuine difference between the \"free software definition\" and the \"open source definition\", which is that the open source definition permits a slightly stronger copyleft: a requirement that forces changes to be published. This, of course, was an earlier suggestion to defeat an earlier loophole used to defeat copyleft (the one used by Google: they don't have to publish their changes, because they don't \"distribute\" the software, they just let you use it on their site—forced publication would require those changes to be published anyway).\r\n\r\nTrying to rectify that as a \"principalled\" argument requires some pretty serious logical gymnastics. The truth is that you just have different people adopting different nuanced positions in the big fuzzy gray space, ultimately in service to the same goal. There's no bright lines to cross here, just some hand-placed chalk marks upon a wide-open field that happen to disagree a little bit about exactly where the foul line is.\r\n\r\n"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'Gray areas'
+    hostname: 69.180.163.110
+    created: '1162252834'
+    body: "Thanks for your comments, Terry.  I really did appreciate your views in the other discussion, and I agree that some approaches can be less helpful.  In this entry here I decided to take more of a straight advocacy approach because I really do believe in the idea of spreading the message and the debate provides that opportunity, even at the risk of alienating some people.\r\n\r\nThe question of how to treat code like Google's is an interesting one.  Crosbie Fitch over at <a href=\"http://www.digitalproductions.co.uk/\">Digital Productions</a> has some interesting things to say about this.  I share his interests in privacy, but there are also all these gray area challenges.  I don't want to force people to publish their private modifications, but as technology evolves and the methods of distributing software change, I'd hate for there to be ways around copyleft.\r\n\r\n<em>(EDIT: Durnit -- I hate it when I don't attach the reply to the comment.)</em>"
+-
+    name: ''
+    mail: ''
+    subject: 'yes for FREE SOFTWARE'
+    hostname: 70.22.251.3
+    created: '1162267782'
+    body: "I been using GNU/Linux since 1994 when I found out about it in my university in alicante, Spain.\r\nwhen I start it using it, it was not cause it worked better but for the ideas behind it.. now I see a lot of people don't care about the ideas but just that \"it works\", everyone to his own.. but well that said, remember that even if you dont agree with the FSF, some of us do and mostly we are the ones who started this and been using it for some time, if you dont agree with the ideals fine.. but don't step over them, just respect them.\r\nmy english is rusty but I hope to make a point here.\r\nI vote for Free Software over anything."
+-
+    name: ''
+    mail: ''
+    subject: 'Great article'
+    hostname: 70.22.251.3
+    created: '1162268393'
+    body: "I have to say Thank you for your blog, our members former GNU/Linux Boston user group now named binaryfreedom( http://www.binaryfreedom.info ) much apreciate this magazine and the articles and content you bring us, most of the times we print them and give them to our members in meetings and such.\r\nPlease keep the Free Software spirit alive.\r\n\r\nChris Fernandez\r\nPS: BTW how can I become a member or help we will be glad to do so."
+-
+    name: ''
+    mail: ''
+    subject: 'Free Software Tastes Annoying'
+    hostname: 66.92.54.220
+    created: '1162276513'
+    body: "I've actually always thought of Free Software as a subset of Open Source, since you can open the source code without hailing the four great freedoms of whatever.  But it we must lump them together, one point of contention may be the fact that the Free Software nerds are a bit aggressive on how the word freedom is used.  Stallman only pushes \"freedom\" if it fits into his 4 part vision.  For people like me, Open Source contains other freedoms that \"Free Software\" does not.  Like the freedom to actually do whatever you want with the code (like sell it and not give away your modifications).  Or the freedom to include binary NVIDIA drivers that dont suck.  Or the freedom to at least attempt to prevent your customers from screwing around with your hardware.  Or the freedom use trademarked artwork.  Or the freedom to use terms like \"linux operating system\" or \"intellectual property\" without getting an irrelevant and unwanted lecture by a language hippie on why we must talk different.\r\n\r\nSome people like ideologies.  Some people need a techy religion/school of thought.  But some people just want cool stuff for free, preferably cool stuff that uses open protocols and patent-free formats and maybe even lets them pretend they are somehow fighting the man--a.k.a. Microsoft.  Free, for these people, has nothing to do with the legendary fixing of printer drivers."
+-
+    name: ''
+    mail: ''
+    subject: 'Package Management, Big Repositories'
+    hostname: 70.191.144.29
+    created: '1162279440'
+    body: "I like tools like synaptic package manager.\r\nhttp://www.nongnu.org/synaptic/action.html\r\n\r\nSynaptic comes pre-linked to 19,000+ (free) software packages.\r\nYou basically just check the packages you want and click apply.\r\n\r\nSynaptic also does security updates.\r\n"
+-
+    name: fhulleman
+    mail: ''
+    subject: 'It''s not only about your freedom'
+    hostname: 195.73.44.186
+    created: '1162293457'
+    body: "By not giving away your modifications to the source code, you are denying your customers <strong>their</strong> freedom to modify the software.\r\nSimilarly, <cite>customers screwing around with your hardware</cite> may just be exercising their freedom to adapt it to their own needs. \r\n\r\nWith DRM one can also take away that freedom. With DRM, after the slightest modification, software may simply not work anymore. \r\n\r\nThe other point you seem to miss is that free software is not about money.\r\n\r\n\r\n \r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Annoying indeed'
+    hostname: 141.129.1.98
+    created: '1162300515'
+    body: "<em>Or the freedom to at least attempt to prevent your customers from screwing around with your hardware.</em>\r\n\r\nExcuse me, but if I am your customer and <strong>purchase</strong> your hardware, then the bit of hardware I purchased belongs to me.  It's now <strong>mine.</strong>  I'll do what I damn well please with it - and if the seller suggests that I cannot <em>screw around</em> with my property - that is what is <strong>really f***ing annoying!</strong>"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Your perception of "open source" is skewed'
+    hostname: 68.93.224.4
+    created: '1162304897'
+    body: "The Free Software Foundation is the one responsible for this definition of \"Open Source\".\r\n\r\nYour perception that Open Source doesn't include the four freedoms is in direct conflict with the \"Open Source Definition\" to precisely the same degree that the idea that \"Free Software\" can not have source available is (i.e. what the FSF calls \"non-free\" software).\r\n\r\nLikewise, the illusion that Open Source includes non-copyleft license, but Free Software does not.\r\n\r\nThese are the result of misinformation deliberately spread by the Free Software Foundation. None of them has ever been advocated or claimed by the people using the term \"Open Source Software\".\r\n\r\nAlways pay attention to the sources of information.\r\n\r\nOn the whole, I respect the Free Software Foundation, but this deliberate attack campaign is a truly unworthy activity.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Fancy words, little substance'
+    hostname: 172.148.239.151
+    created: '1162310787'
+    body: "\"Fundamentally these are questions of 'allowable copyleft'.\" - Fundamentally, it's about the freedom to run modified versions, which the intention of the GPL. If I can get the source code, but don't have the freedom to modify it and use it on my hardware, what good is it?\r\n\r\nWhen I use Google, I am definitely <em>not</em> using their software-- I am using the output of their software. That's a very important distinction.\r\n\r\nBeing able to modify free software for my own personal use without being forced to redistribute my changes is a nice, business-friendly feature, not a bug. Besides, any provision to force redistribution in that case would be unenforceable, and thus pointless.\r\n\r\nDont' forget, the term \"copyleft\" is just a play on words. Every so-called  copyleft license is based on, and worthless without, copyright law."
+-
+    name: ''
+    mail: ''
+    subject: 'Agreed, his perception of'
+    hostname: 142.58.211.55
+    created: '1162322687'
+    body: "Agreed, his perception of open source is skewed.  But he clearly is not the sort of person who's been paying any attention to anything the Free Software Foundation says, and his conception of them seems at least equally skewed.  I think it's pretty repugnant for you to be smearing the FSF as responsible for his poor information.\r\nIf nothing else, he's basically claiming that the FSF would regard the BSD license as not Free software, which is clearly a smear on the FSF (and which I don't see you doing anything to dispel).  They certainly say they prefer the GPL and copylefted licenses in general, but they've never said the BSD is nonfree.\r\nNow, the original poster seems basically just not to know anything more about Free Software or Open Source than misleading slogans, presumably gathered from the mainstream media, so it's hard to blame him for his position.  But you are apparently a knowledgeable person--you should be ashamed."
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'Hi!  Your English makes the'
+    hostname: 69.180.163.110
+    created: '1162330459'
+    body: "Hi!  Your English makes the point just fine.  Thanks for commenting -- it's good to hear from people who share this view.  For my own part, I believe strongly in the ideology behind free software, but now I need to get to work actually *using* it.\r\n"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: ...
+    hostname: 69.180.163.110
+    created: '1162331316'
+    body: "Thank you, Chris.  I have a long way to go technically with using GNU/Linux and contributing to development of free projects as I'd like to do, but I do what I can with my writing to promote it.  It's good to see web sites like yours -- do you have an RSS feed or plans to add one?\r\n\r\nAs far as helping out, I'm sure FSM would appreciate whatever you are able to offer, whether that is donations, articles, or comments on entries.  I think comments are great and help to continue building the community here.  (And promoting articles on social sites like digg that you think merit wider reading is great for sending more people our way :-)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'We seem to agree'
+    hostname: 68.93.224.4
+    created: '1162411044'
+    body: "\"Fundamentally, it's about the freedom to run modified versions, which the intention of the GPL. If I can get the source code, but don't have the freedom to modify it and use it on my hardware, what good is it?\"\r\n\r\nYep. That's the case for both FSD and OSD licenses.\r\n\r\n\"When I use Google, I am definitely not using their software-- I am using the output of their software. That's a very important distinction.\"\r\n\r\nSort of. It's a matter of point of view (by this definition, you aren't using your browser software either, you're just interacting with it. Why the distinction? Is it because you own the CPU? Are you using software you run on someone else's computer? If I install software on a remote sever and use it through SSH, am I \"not using\" it?)\r\n\r\nBut of course, it can be claimed to be a stronger ideological value to share that work back to the community that created it (as easily as not). This is just the principle of \"copyleft\" at work: sharing improvements back to the community that created the work (you can think of this as a kind of \"payment\" for the work).\r\n\r\nMy point though isn't that Google should be forced to share, but that some people think they should. And categorizing those people as \"more pragmatic / less idealistic\" than the people who think they shouldn't is a massive misrepresentation. Obviously both sides are making arguments based on both principled and pragmatic reasons.\r\n\r\n\"Being able to modify free software for my own personal use without being forced to redistribute my changes is a nice, business-friendly feature, not a bug. Besides, any provision to force redistribution in that case would be unenforceable, and thus pointless.\"\r\n\r\nThis argues for the difference being trivial, not an all-important ideological distinction. Which again, is my point. There <em>is no</em> all-important ideological distinction. It's a picky little detail. More importantly, the difference does not hinge on this mythical \"pragmatic / ideological\" dividing line: pragmatic and ideological arguments can be (and have been) made for both sides of the issue.\r\n\r\nBear in mind that most open source licenses do <em>not</em> have this requirement, and it is regarded as \"bad practice\" by both \"free software\" and \"open source software\" advocates. It's just a matter of a line being drawn to circumscribe allowed behavior. And the difference between \"forced publication if used\" and \"forced distribution to anyone to whom the binary is distributed\" is subtle. In the vast majority of cases, they amount to the same requirement (e.g. if I put the binary on my website, I need to put the source there too).\r\n\r\n\"Dont' forget, the term \"copyleft\" is just a play on words. Every so-called copyleft license is based on, and worthless without, copyright law.\"\r\n\r\nBy and large correct.\r\n\r\nHowever, just FYI, this statement depends on jurisdiction and license. In some jurisdictions and for some licenses, the license <em>is</em> a contract (\"license\" not being a distinct legal concept in those jurisdictions, or the license being actually a EULA).\r\n\r\nA contract or \"license agreement\" <em>can</em> remove \"fair use\"/\"fair dealing\" rights. I don't like the idea any more than you do, but it's the law. That's why the Creative Commons licenses explicitly grant \"fair use/fair dealing\" permission (because despite what the legally obsolete preamble to the GPL says, these rights <em>can</em> be taken away by the \"license\". IIRC, GPLv3 will be fixing this problem as one of its many <em>un</em>controversial changes).\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'One need look no further'
+    hostname: 68.93.224.4
+    created: '1162416247'
+    body: "One need look no further than the direct quotes from Richard Stallman appearing in this article to see examples which refute your position. But of course, there are many more on mailing lists, articles, and FSF  blogs.\r\n\r\nThe FSF deliberately spreads several myths, the main one being that \"open source software\" is conceptually or ideologically different from \"free software\". This alone does enormous damage because it causes casual observers to flail about looking for what this distinction is: unsurprisingly they latch onto genuine community divisions such as \"copyleft status\", \"GPL compatibility\", \"availability of source code\", or \"license to modify source code\", but none of these distinctions actually applies.\r\n\r\nMore subtlely, they encourage particular misinterpretations. Broadly (and metaphorically wrongly) slamming \"open source software\" as \"free beer\" (I can attest to personal experience with this behavior by FSF partisans) which encourages conflation of the \"availability of source\" or \"license to modify source\" issues.\r\n\r\nThey talk about \"ideological\" or \"ethical\" bases in contrast to \"pragmatic\" issues, in a specific context of discussing the copyleft principle and/or the importance of what FSF calls the \"four freedoms\".\r\n\r\nBoth practices lend credence to the idea that the Open Source Definition somehow does not encourage copyleft or that it permits licenses which violate the \"four freedoms\".\r\n\r\nThese kinds of communications are what <em>cause</em> the erroneous press reporting that you refer to, and are thus the ultimate source of the misinformation that this poster is repeating.\r\n"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: ...
+    hostname: 69.180.163.110
+    created: '1162420527'
+    body: "I think one of the things that highlights the real difference between the terms is that people will promote things that are not free as \"open source\" and hope to gain the cachet of FOSS, even if they're only OSS.  For example, there is an open source Jitterbit integration product that looks very interesting, and it is based on the MPL license, but as far as I can tell, it is not free.\r\n\r\nI commented about it on an <a href=\"http://www.oreillynet.com/onlamp/blog/2006/05/jitterbit_userdriven_integrati.html\">On Lamp article about the product</a> and it drew a response from someone over at Jitterbit, but he didn't follow up on my reply.  I'm still left with the impression that it is not free in a key way.  But the source is open, so \"open source\" is certainly an accurate way to promote the product.\r\n\r\nI think this is one of the things that will happen if people \"freely\" use an alternative term that doesn't suggest <i>freedom</i> and all that it implies.\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: blytheworks
+    mail: ''
+    subject: 'FOSS by any other name ...'
+    hostname: 24.23.70.124
+    created: '1162432364'
+    body: "I have only been around GNU/Linux for a few years and I really never thought of Free and Open Source Software as being two different things.  To me, it seems like Open Source Software is like a car:\r\n\r\nSomeone creates it (new)\r\nSomeone acquires (in the case of cars - buys) & uses it\r\nThere are possible modifications: new paint, better stereo system, new tires, engine overhaul (you get the idea) but it is still a car\r\nAfter modifications, that person sells it (or gives it away, it is up to them anyway because they own that version now)\r\nThe new user repeats the modification steps to meet their own desires\r\nThe car is then traded, sold, given away or discarded after many repeats of the above cycle.\r\n\r\nThe creator isn't concerned with the cycle as long as they get credit for the original work. A Ford is still a Ford, a Porsche is still a Porsche, etc.  No amount of modification short of utter destruction, can change that.\r\n\r\nFree (as in \"free beer\") allows everyone to enter the above cycle without shelling out a dime to do so (no purchase necessary) AND it supports and encourages the users' right to participate fully in the above cycle (\"freedom\").\r\n\r\nTo me, Free and Open Source co-exist peacefully in the advancement of Software design and implementation. Freedom 1 - The freedom to study how the program works, and adapt it to your needs (in which case, the source code is required for this) ensures that the program is Open Source.  I think all too often we have confused \"free\" with \"free beer\" instead of using it in the context of \"free speech\".\r\n\r\nIf a program is modified and those modifications are sold along with the original source code, then that does not stop the next user (there really are no 'end' users where open source softwre is concerned) from using or further modifying the code to meet their needs.  All it did was cause that user to spend money (a little or a lot) but in no way does that violate any of the four freedoms as long as ALL the source code is available WITH the purchase.\r\n\r\nBy definition and design \"Free\" software is \"Open Source\" software."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Yeah, but...'
+    hostname: 68.93.224.4
+    created: '1162671632'
+    body: "By <em>FAR</em> the more common error is to promote non-open, zero-cost software as \"free software\".\r\n\r\nBoth are misconstructions of the meaning given by the promoting organizations. \"Open source\" is abused <em>far less</em> than \"free software\", so which is the better term?\r\n\r\nOf course, neither is a complete definition, so both are subject to some misinterpretation, which is why we get beasts like \"free-licensed open-source software\" or \"FLOSS\". This at least has the advantage of being sufficiently complete when spelled out as to leave no doubt and being sufficiently unique when abbreviated that you can search for a definition. OTOH, it does sound like something you should clean your teeth with.\r\n\r\nWRT to Jitterbit, BTW, the JPL <em>is</em> a \"free\" license.\r\n\r\nI re-read the FAQ and the response to your post. What the authors are trying to express (albeit clumsily) is that you cannot <em>take the code proprietary</em> if you make changes to the JPL-covered code. They are actually opening up the copyleft to allow for separate, proprietary-licensed <em>plugins</em>, called \"Jitterpaks\" which may be  run-time linked with the Jitterbit code.\r\n\r\nThis makes the license similar to the LGPL in intent (it may be linked with code that is not JPL-licensed, but the code itself must conform to the license).\r\n\r\nThe authors' error was in equating \"sell\" to \"make proprietary\" (which is an altogether different conflation that neither \"open source\" nor \"free software\" makes clear!)\r\n"

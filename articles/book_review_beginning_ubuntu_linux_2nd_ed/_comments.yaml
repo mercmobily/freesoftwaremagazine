@@ -1,0 +1,42 @@
+-
+    name: clievers
+    mail: ''
+    subject: 'Sounds great'
+    hostname: 68.145.109.51
+    created: '1180391765'
+    body: "This book definitely sounds great. When I started with Linux, I was told to start with Gentoo as you would really \"learn\" what's going on. Well, from my experience, please do not start with Gentoo. It was very difficult. I've done a bit of playing around with Ubuntu and it definitely seems to be my distro of choise now.\r\n\r\n------\r\nlet's all play nice!"
+-
+    name: 'Anonymous visitor'
+    mail: cacioppo@iname.com
+    subject: 'There is more to linux than *buntu'
+    hostname: 72.64.130.111
+    created: '1180400690'
+    body: "Appreciate the review of the book BUT there are other more revelant distros like Suse, Red HAt, Mandriva and others \r\nthan have more to offer than this distro."
+-
+    name: 'Grumpy User'
+    mail: tjmcculloch@mail.com
+    subject: 'Is there? .....'
+    hostname: 192.220.139.149
+    created: '1180473795'
+    body: 'While many distros exist and all have good and bad points the one point that will stand out is user acceptance.  Unbuntu has created a user feel that allows users to feel secure about moving away from Windows.  Yes I agree that Unbuntu falls short in some areas but all in all it is possibly the best place for a new GNU/Linux user to start  especially if they are an average user and not a power user.'
+-
+    name: quagee
+    mail: freshubuntu@gmail.com
+    subject: 'I agree'
+    hostname: 65.102.35.208
+    created: '1180497124'
+    body: 'you are absolutely right,  The ubuntu community does make one feel accepted right from the beginning whether you are a newbie or an experienced linux user.  It is one of the main reasons why I made the switch.  Great community support that is gentle to the new people and a distro that is easy to install and for the most part operate.'
+-
+    name: 'Anonymous visitor'
+    mail: jason@apress.com
+    subject: 'Relevant distros?'
+    hostname: 65.24.150.117
+    created: '1180549080'
+    body: "While I'm not sure what your qualifications are in terms of distro \"relevance\", I would like to point out that <a href=\"http://www.amazon.com/Beginning-SUSE-Linux-Novice-Professional/dp/1590596749/\">a SUSE version</a> of this book is also available. <a href=\"http://www.amazon.com/Beginning-Fedora-Novice-Professional/dp/1590598555/\">A Fedora version</a> will be available in August.\r\n\r\nGreat review!\r\n\r\nJason\r\n\r\nJason Gilmore\r\nApress Open Source Editor"
+-
+    name: 'Brian Masinick'
+    mail: masinick@yahoo.com
+    subject: 'Right on the mark!'
+    hostname: 192.223.243.6
+    created: '1180973660'
+    body: "I find that books like this one are necessary - and it is necessary for the first time beginner that the book or resource specifically targets and covers a specific system or application.  I believe this book does this well - at the expense, of course, that information peculiar to this release is not 100% applicable to all distributions, nor is it 100% applicable to all versions of Ubuntu.  The reviewer points this out clearly, and also indicates that it is possible to upgrade the software described in the book to the latest and greatest release.\r\n\r\nIt is nice to have various specific versions of books that help introduce specific systems.  These books are not for everyone, though they do contain some relevant information that can be used in a general way once the specifics are taken into account.\r\n\r\nUbuntu, whether individuals prefer it or some other alternative, certainly has been engaging to the community and has provided a fresh breath of what community involvement and openness is all about.  This book does a good job of explaining about Ubuntu and the community.  It is a good book for newbies, decent for intermediate users, but probably not for advanced users unless you lack reference material, in which case it might be an option, though probably not the best one.\r\n\r\nI would recommend O'Reilly books as subject matter references and books like this one for beginners wanting to try out a specific system.  Ubuntu is a good system for beginners to try out, and this book is helpful for beginners.\r\n"

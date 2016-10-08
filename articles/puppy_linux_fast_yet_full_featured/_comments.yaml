@@ -1,0 +1,63 @@
+-
+    name: Anon
+    mail: christopher_b85281@yahoo.com
+    subject: 'Multisession Puppy DVD/CD'
+    hostname: 65.101.27.66
+    created: '1186460507'
+    body: "Holy moly, now that's a review! Excellent job. You only missed mentioning one trick of Puppy's, but it's something that no other OS I know can do: operate from a multisession CD or DVD. That's right, Puppy can boot from a CD or DVD, then save to that same CD or DVD when you shut down (or sooner, on command.) All your changes will be loaded the next time you boot. \r\n\r\nI recommend either at least 256 MB of RAM, or a swap partition on a hard disk drive that is accessible to Puppy at boot, for running multisession. I have run Puppy from multisession DVDs for over a year in a computer without a hard disk drive. Multisession Puppy will run from any kind of CD or DVD (+ or -, and RW; I use cheapo DVD+RW disks.) Multisession seems to work more reliably on DVDs than CDs, especially with laptops. \r\n\r\nIf you want to give multisession a try, use Puppy's Burniso2cd to burn the multisession disk. Most other burning programs can't do it right."
+-
+    name: 'Anonymous visitor'
+    mail: jgvg9@bigpond.com
+    subject: "Hello Reviewer,\nI believe"
+    hostname: 202.161.76.90
+    created: '1186484609'
+    body: "Hello Reviewer,\r\nI believe that the \"Seamonkey Web Browser\" is included as the default browser and not dillo which is also included.\r\n\r\nOnce you experience Puppy Linux and experiment with what it can do, you'll never go back.\r\n\r\nWriting this to you from TEENpup Linux (A version of Puppy Linux for Teenagers)\r\n\r\nPuppy's user base just keeps growing."
+-
+    name: 'Anonymous visitor'
+    mail: wwfloyd@bellsouth.net
+    subject: 'Pretty fair review. A note on browsers...'
+    hostname: 68.219.26.109
+    created: '1186490027'
+    body: 'Puppy does come with SeaMonkey already installed. And, I believe Dillo was recently dropped in favor of another ultralight browser.'
+-
+    name: 'Scott Thomas'
+    mail: chemikalguy@yahoo.com
+    subject: 'Blazing Fast'
+    hostname: 216.136.6.8
+    created: '1186518124'
+    body: "I ran the live CD on my PIII 550 last night, and the longest it took to load anything (the web browser) was 3 seconds. Other programs like the spreadsheet and word processing programs loaded in less than 2.\r\n\r\nMy system has 448MB of RAM, and has SimplyMEPIS installed on a 6.4GB hard drive. I ran the live CD, and mounted the hard drive, messed around with music files, and then saved my configuration to the drive - something that is REALLY cool.\r\n\r\nI might start using this with SeaMonkey for my day-to-day web surfing as it's much faster than firefox on this PC. I hadn't ever used Puppy, but I've very impressed with it."
+-
+    name: 'The author'
+    mail: hfosdick@compuserve.com
+    subject: 'Thank you for browser comments'
+    hostname: 75.31.235.137
+    created: '1186813174'
+    body: "Thank you to several readers for their comments pointing out that the SeaMonkey browser is now included in recent Puppy releases.  And thanks, too, for mentioning the multisesson capabilities of Puppy -- a key feature that, AFAIK, few other Linuxes support.\r\n\r\nHoward Fosdick"
+-
+    name: miscos
+    mail: pisreport@gmail.com
+    subject: 'I would add another'
+    hostname: 61.17.98.150
+    created: '1186836643'
+    body: "I would add another direction to Puppy's versatility. If you are new to Linux and have low-end systems ( may be with high-end systems also), just start from Puppy and you will end in Puppy afterwords. This is a secret, I have found.(re-invented wheel? -I do not know) It has all the flavours in favour of a linux new user and technically challenged like me. Cool..\r\nMishra"
+-
+    name: catweasel
+    mail: ''
+    subject: 'Works on aging laptop'
+    hostname: 81.144.199.140
+    created: '1189250012'
+    body: "As an unreconstructed cat-lover, Puppy is definitely my favourite canine.\r\nI recently got it installed on a 9yo Time laptop - 475MHz K6-2 processor, 2.5 GB hdd - you get the picture!\r\nI boosted the SODIMM RAM from 32MB to 96MB and created a 200MB swap partition on the hdd. Then installed Puppy.\r\nGoes like a dream!"
+-
+    name: 'Anonymous visitor'
+    mail: abuse@mickymouse.com
+    subject: 'puppy on 75mhz with 40 megs of EDO RAM '
+    hostname: 75.100.144.43
+    created: '1190104740'
+    body: "http://www.murga-linux.com/puppy/viewtopic.php?p=101137#101137\r\n\r\nworks even better with 3.0"
+-
+    name: 'Anonymous visitor'
+    mail: geoff@whitbourn.me.uk
+    subject: 'Rescues NTFS data too...'
+    hostname: 213.162.100.172
+    created: '1190705823'
+    body: 'Anyone involved in rescuing foul-ups with that other ubiquitous system needs this distro in their toolbox. Fast, simple and hasn''t let me down yet on reads or writes.'

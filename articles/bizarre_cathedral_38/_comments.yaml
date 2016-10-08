@@ -1,0 +1,14 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Lenny
+    hostname: 68.93.227.150
+    created: '1233601090'
+    body: "So far, Lenny seems pretty solid. I'm not sure what the release bugs are, but it must not be stuff we use a lot.\r\n\r\nWe're currently running it on three machines (including the one I'm on), and I'm thinking about moving all of them to it.\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'I''ve been using it for some time'
+    hostname: 212.159.106.192
+    created: '1233604141'
+    body: "The only machine I don't have using Lenny is a laptop currently on sid. This includes some servers (which are not public-facing). \r\n\r\nI have encountered some packages for which an upgrade breaks something: fglrx for one. But that's more to do with me not reading the release notes than anything else.\r\n\r\ncheers\r\nRyan\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"

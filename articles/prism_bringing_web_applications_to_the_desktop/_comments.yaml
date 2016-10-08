@@ -1,0 +1,14 @@
+-
+    name: feranick
+    mail: ''
+    subject: 'in ubuntu 8.04 repositories'
+    hostname: 69.236.87.43
+    created: '1215501384'
+    body: 'It can be installed from the standard repositories along with the main Google applications.'
+-
+    name: 'Scott Nesbitt'
+    mail: ''
+    subject: 'An older version is in the repository'
+    hostname: 99.231.110.92
+    created: '1215742825'
+    body: 'When I last checked, the Ubuntu 8.04 repositories contained version 0.8. Version 0.9 has been out for a while (a couple of weeks before this article was published). The newer version is a lot more stable and has a few more features than 0.8.'

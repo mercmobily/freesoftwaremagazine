@@ -1,0 +1,56 @@
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'Very nice'
+    hostname: 68.197.66.72
+    created: '1181075291'
+    body: "Thanks for the comment.  I'll remember that next time someone asks me how to install Kubuntu while keeping Windows.\r\n\r\nThe one advantage of formatting is that it cleans up Windows (for when you need to use it).  I would recommend periodic reformatting to all Windows users (even those not interested in Kubuntu).\r\n\r\n--\r\nAndrew Min"
+-
+    name: Shannon_VanWagner
+    mail: ''
+    subject: 'Suggestion: "Shrink" Windows partition to make room for Linux'
+    hostname: 70.103.219.100
+    created: '1181242500'
+    body: "Have a lot of free space on your hard drive? If so, instead of formatting and losing your Windows installation, why not \"Shrink\" the Windows Partition to make room for the Linux installation. See how to do this below.\r\n\r\nDisclaimer: As a safeguard you should always perform a backup of your system to an external source prior to performing any changes such as outlined below. I am not responsible for any data-loss or other issues you may experience when using the information below to install Linux.\r\n\r\nAbout GParted: The GParted utility is an easy-to-use yet very powerful graphical Open-Source partition editor that is available in \"LiveCD\" format(meaning that it boots from CDROM).\r\n\r\nTo use a \"LiveCD, download the *.iso file and then use your favorite cd-burning software to burn the .iso image to a cdrom disk (My favorite cd-burning app for Windows is DeepBurner Free 1.8 from http://deepburner.com/?r=download for Linux use K3B).\r\n\r\nHere are the steps that I used to \"Shrink\" my Windows partition with a nifty utility called \"Gparted\". I was then able to install KUbuntu 7.04 in the free space that was left over.\r\n\r\n1.) Download and burn to cdrom the free Gparted Partition Editor Utility in LiveCD format http://gparted.sourceforge.net/download.php (direct link to the gparted-livecd-0.3.4-7.iso file: http://tinyurl.com/24ph7r)\r\n\r\n2.) Boot into Windows, perform a full disk cleanup (checkout www.ccleaner.com for a good cleanup utility for this), then run a full defragmentation of your Windows drive(s) to move all the physical data on your hard drive and provide room to \"Shrink\" the Windows partition.\r\n\r\n3.) Boot up your computer to the GParted LiveCD (from Step #1 above). Upon booting into Gparted, try pushing Enter to accept the defaults at each of the configuration screens - this will get you into the GParted graphical utility, which is very simple to use.\r\n\r\n4.) To \"Shrink\" your Windows partition, simply right-click it from within the GParted graphical utility, then select \"resize\". From the resize dialog simply use the slidebar to adjust the size of your Windows partition to a smaller size (slide to the left or enter a number). Be sure to leave some free space for Windows (4GB or more would be great)to avoid Windows performance problems. For Kubuntu you can set aside 4GB of free space for the install. I suggest that you free up 20GB or more to have plenty of space for using Kubuntu.\r\n\r\n5.) Click \"Apply Changes\" and watch the magic of the GParted as it performs a \"Shrink\" of your Windows partition. Note: GParted may not work properly if you have any type of RAID array, so you're on your own for testing that.\r\n\r\n6.) After all changes are applied, reboot the machine without the GParted disk in the drive. Windows will then perform a \"chkdsk\" - this is normal, let it complete. Note: Be sure to let the chkdsk fully complete and then login to Windows to test to see that everything changed properly. If you look in \"My Computer\" it should show that your Windows partition is now smaller. If you were to run Start>Run>diskmgmt.msc , you would see that your drive now has the free space you created in steps 4 & 5 from above.\r\n\r\n7.) Reboot with the Kubuntu LiveCD in your drive, once you get to the point where you can install Kubuntu you can install the linux partitions (swap, and / (e.g. ext3 root)) in the free space you created. Kubuntu will automatically detect your Windows partition and will add it as a selection for the GRUB Boot loader.\r\n\r\nHave fun using Kubuntu - I use it on all my computers and I think it's great!!\r\n\r\nShannon VanWagner\r\n"
+-
+    name: 'Michael Fötsch'
+    mail: ''
+    subject: 'I have no idea why the'
+    hostname: 212.183.71.134
+    created: '1181844073'
+    body: "I have no idea why the article says that it \"does not cover how to install Kubuntu on an existing Windows machine preserving your Windows installation.\" Isn't this exactly what you're doing? You install Windows, then Kubuntu, then Windows still works. What am I missing?\r\n\r\nAbout GParted: I've seen the GParted Live CD mentioned several times in various places. I just don't know why it's useful. Can it do anything better than the partitioner that's built into the Ubuntu installer (\"manually edit partition table\")? I used the built-in partitioner several times and have successfully installed a quadruple-boot system with it -- no need for a GParted Live CD for me, so far.\r\n\r\nI wrote an article describing the installation of gNewSense (same as Ubuntu's) the way I think it's easiest and most succinct: <strong>http://wiki.binaryfreedom.info/index.php/Installing_gNewSense</strong>\r\n\r\n"
+-
+    name: 'Lopo Lencastre de Almeida'
+    mail: ''
+    subject: 'What?!?!?!?'
+    hostname: 89.181.226.209
+    created: '1182870463'
+    body: "Sorry but this is a completely silly article and with a completely misleading title \"Dual-booting Kubuntu and Windows\r\nThe step-by-step method to installing Kubuntu and Windows for people without any technical experience\"\r\n\r\nWhat the heck was the editor thinking when let this became published?\r\n\r\nThe two following replies do a much better job than the article it self.\r\n\r\nI have Windows XP and Ubuntu Feisty in this same laptop and installed it without a blink or any external application. Is it different from Kubuntu? I doubt.\r\n\r\nAnd if it is just install Ubuntu and afterwards install KDE if you want it.\r\n\r\nWhat a wayste of my time."
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'The reason...'
+    hostname: 203.59.87.10
+    created: '1182909120'
+    body: "Hi,\r\n\r\nThis article went through quite a bit of editing/thinking. The problem is that just so many things can go wrong... if you're a newbie, then you need very careful instructions. And, there is always the chance that 1) Windows won't start anymore (I had that one recently) 2) Linux won't boot 3) You format your windows partition accidentally\r\n\r\nIt's easy for most of us. But for the newbie... hummmmm... no.\r\n\r\nMerc."
+-
+    name: ancientofdays
+    mail: ''
+    subject: 'Before you wipe out an existing windows install'
+    hostname: 207.135.146.168
+    created: '1183383322'
+    body: "One of the things I can never understand in these articles about \"how to reformat your hard-drive\" is that they suggest people get help by going online...but if you've completely destroyed your OS, how are you to get online to get help?\r\n\r\nBesides \"use someone else's computer\", there's an option that is frequently not covered very well. Before you try installing new stuff, I suggest getting yourself a \"Live CD\" of your OS of choice, and making sure that you can REACH said help-systems (forums, IRC, mailing lists, etc.) using it. A \"Live CD\" is where the entire operating system runs off the CD. Again, <strong>BEFORE</strong> you start, make sure you can get to the suggested \"Support Fora\".\r\n\r\nhttp://www.nu2.nu/pebuilder/ can help you build a Windows Live CD.\r\nhttp://www.frozentech.com/content/livecd.php contains a list of different linux-based Live CD images.\r\nhttp://livecd.sourceforge.net/ is a project to create FreeBSD live CD's\r\n\r\nI have not been able to find an OS X live CD that works, as of yet. Perhaps someone who has will post a pointer here."
+-
+    name: skypjack
+    mail: ''
+    subject: 'Of course'
+    hostname: 79.9.127.43
+    created: '1184704291'
+    body: 'I think newbies need article that explain them how to create Windows-Linux dual boot system, not Kubuntu-Windows dual boot system. Of course, article is ok, but maybe newbies want to know how retrieve lost Linux partitions after Windows re-installation (as instance, using grub shell), how to configure boot loaders like grub or lilo and so on ... Don''t you think so?'
+-
+    name: skypjack
+    mail: ''
+    subject: 'Only one?'
+    hostname: 82.51.61.99
+    created: '1185204767'
+    body: "I agree with you, but my question is: do you have only one pc at hand?\r\nIn my house there are four computer, so if one of them is KO I can use another one to ask help on-line!\r\nHowever, for newbies get a LiveCD before reformat the hard-drive and test it is a good idea!\r\nI give you a present for your comment ... :-)"

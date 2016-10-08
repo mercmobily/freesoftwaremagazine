@@ -1,0 +1,28 @@
+-
+    name: cwwitt
+    mail: ''
+    subject: nice
+    hostname: 202.81.214.219
+    created: '1214331408'
+    body: 'This is the first article I ever voted for.'
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'it was going so well until...'
+    hostname: 82.108.129.98
+    created: '1216209325'
+    body: "I was catching up on some old posts and I thought this sounded really interesting. Until I read...\r\n\r\n> Just type cd /etc and hit the return key. You’re in for your first pleasant surprise. Normally, that command will simply change your directory and if you want to see the contents you would have to follow it up with ls (and any additional arguments). With Hotwire you have killed two birds with one stone. The cd command not only changed directory, it also automatically listed the contents of etc\r\n\r\nAnd my brain ran away screaming \"Noooooooo - take it away!\". If I want to ls the contents of a directory I don't usually cd to it first I usually cd when I want to do something in there so -- and I know this is a personal preference -- the idea that typing cd /etc would change to and list the contects of /etc would be annoying to the nth degree. Shame it was going so well until then.\r\n\r\nNice article though - where do you dig up these gems?\r\n\r\ncheers  \r\nRyan\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Why is that annoying?'
+    hostname: 68.93.224.4
+    created: '1216228867'
+    body: "Why is that a problem? I can't see how showing the listing of the contents of the directory would interfere with doing something in that directory.\r\n\r\nAre you possibly confusing it with the reverse idea? I.e. that typing \"ls\" would take you into the directory before listing it?\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: because...
+    hostname: 82.108.129.98
+    created: '1216389210'
+    body: "It would be annoying because I don't _want or need_ it to happen. I don't want to sit and wait (for however many milliseconds) for the directory listing to come up. I sometimes want to see the stuff I've just done prior to changing to that directory.\r\n\r\n> Are you possibly confusing it with the reverse idea? I.e. that typing \"ls\" would take you into the directory before listing it?\r\n\r\nNot at all. I am talking about cd listing the contents after it has changed to that directory. As said if I want to list the contents of a directory I am not in, I do \"ls /directory\". If I want to change to it I usually don't want to list the entire contents. My /etc/ directory has 298 items in it I know the sort of things that are in there and I very much doubt I'll need to ls them. The same applies to countless other directories on my system. What would happen if you did \"cd /usr/bin\"? Do I really need to list all 2700-odd items in there whenever I change to it?"

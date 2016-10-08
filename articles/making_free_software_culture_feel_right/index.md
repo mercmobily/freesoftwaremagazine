@@ -1,0 +1,37 @@
+---
+nid: '2827'
+title: 'Making free software culture feel right'
+authors: 'Mauro Bieg'
+published: '2008-04-12 21:48:36'
+tags: 'free-culture,advocacy,interfaces,graphics,creative'
+license: verbatim_only
+section: opinions
+listed: 'true'
+
+---
+_Why it should be a lot more about feeling, rather than knowing, that free software and free culture is right._
+
+Over the last ten years or so, free software has grown from being just a geek-phenomena. GNU/Linux has become a serious force in the business and server market with major companies now throwing their weight behind it. But on the consumer side of the market, things look still quite a bit different. Although GNU/Linux adoption has made some progress on the desktop too, it's still largely absent, Windows comes pre-installed on almost all new machines sold and you see even die-hard free software advocates using Mac OS X on their personal machine. Why is that?
+
+<!--break-->
+
+I'll argue that it is because GNU/Linux just doesn't feel right on the desktop for the majority of users – neither ergonomically nor psychologically. Because as much as we love to think about ourselves as rational human beings, I'm convinced that a lot of our decision-making is greatly influenced by our unconscious emotions.
+
+So, why doesn't it feel right ergonomically? What I mean with this is basically the graphical user interface (GUI) which is what most people use to interact with their computer every day. You hear people admitting that Mac OS X's slick and friendly user interface 'just works' while X11 still 'kinda sucks'. We could now start arguing that X11's network-based design has other advantages and that it's often the fault of poorly written graphics drivers rather than the GNU/Linux system itself that make the graphical user experience 'suck'. But the point is that (too) many people feel it sucks, for whatever reasons. A GUI that feels right has to be responsive, intuitive, effective, consistent around major applications, and last but not least: it should look nice. We need such a GUI so people feel comfortable when interacting with their computer. A GUI should offer 'normal' users the same elegance and simplicity that hackers see in using beautifully designed command line tools. 
+The overwhelming majority of users don't find those qualities in the GUIs of every part of the GNU/Linux system they might otherwise choose to use. People complain that OpenOffice.org is a beast and that GIMP (for example compared to the proprietary Photoshop) has too many buttons and independent windows. While it's perfectly possible to work with GNU/Linux on the desktop, I just think we should do more to make it feel better. It should be fun to work with data and applications on a computer, in the same way that I hear hackers talking about that it should be fun to program.
+
+And now, why doesn't it feel right psychologically? The usual arguments pop into my mind: "A 1000$ program is bound to be better than a free one!" – we are used to pay for valuable things. "Everybody else uses Windows!" – herd behavior is still a very compelling argument for our sub-consciousness. "All the professionals use proprietary program X and not the free Z!" – It actually makes sense to think that the program professionals use is the most powerful available, and we like to think that we're working with the most powerful tools available. GNU/Linux is still being mainly associated with geeks and tinkerers rather than solid mainstream professionals that just want to get their job done. Most people like to feel secure and trust is a major factor when it comes to choosing the platform that's going to store all my personal photos and my whole music library. While many bigger businesses have overcome this emotional bias with solid studies and have internal workers to solve computer problems readily, small businesses and home consumers just feel more comfortable using the proprietary platform that everybody else in their sector uses.
+
+I think, what we need is a sound marketing strategy. Let's have a look at the four Ps. 
+Product: there is a lot of great free software out there, some of it needs to improve (I already pointed out that I consider user interfaces important). 
+Pricing: well, you can't say much against zero dollars. 
+Placement: The internet and packet managers work beautifully. 
+That leaves us with promotion. 
+
+I think we should really tackle that one harder. We should really start promoting free software, rather than just advocating it. You advocate on behalf of issues, ideas or people that can't speak for themselves. You advocate ideologies in need of support. Yes, that's important too (so people value their freedoms). But if we want free software really to take off in the consumer market, we need to not only advocate it, but promote it. And I think the best promotion strategy is to make it feel right. Nowadays, you don't sell an SUV as a car, you sell it as the freedom and the power to go everywhere. You don't sell clothes as something that keeps you warm in the winter, you sell it as fashion. And although it's rare to do such a thing in the technology sector, Apple proved that it works. They don't sell mp3-players, they sell a thousand songs in your pocket. They sell the freedom to carry all your personal music with you all the time. They sell a lifestyle. If you have an iPod, you are cool. 
+
+We need to do the same thing with free software and maybe more generally with free culture. We need to sell the freedom to decide for yourself what you do with your computer, the freedom to have your data under full control, safely saved in an open format and not locked down by DRM, the freedom to have every tool you'll ever need right at your finger tips. And we need to get this across as a feeling, not as a thought. We need ordinary computer users to feel empowered and not scared by free software, we need them to feel secure about it, to trust in the system of sharing code. 
+Applied to the broader subject of free culture, we need them to feel that information is power and that information shared is information doubled. Because it IS really cool to browse the Internet Archive or Wikimedia Commons, knowing that you are free to use all these media to create something of your own, using free applications, and share the result freely with all the world again. We need people to feel great about sharing and we need people to feel robbed if they can't download a clip from YouTube. Because that clip is part of their culture and thus they rightly should be able to download it. We need free culture to be a lifestyle.
+
+I know that it's not easy to realize these suggestions. And I guess it's true that it's easier to make people feel strongly about this if they know in advance about the free software/culture philosophy, and the problematics that proprietary approaches embody. But nonetheless, I don't think it's enough that they know about the problematic, it's crucial they feel that way. And for this to happen, we need more creative people. It's not enough to have Richard Stallman's plain text files explaining this stuff. We need images, music, videos to transport these feelings. And that's where the art of free creative culture and the art of free software meet. They need each other. Free software needs free culture to promote this lifestyle and free artists need free software as their tools to work.
+

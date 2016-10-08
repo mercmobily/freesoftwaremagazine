@@ -1,0 +1,63 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'You''re right to focus on tools'
+    hostname: 68.93.224.4
+    created: '1154325877'
+    body: "All too often, discussion of spam in the popular press leads to the conclusion that \"It ought to be illegal!\", but most of the spam I receive is probably already illegal (at least in the US).\r\n\r\nAnyway, IMHO, it's clear that technology will be the best way to solve the problem, even if that's not an easy thing to do. I've generally concentrated on filtering solutions. Bayesian filtering in Thunderbird is pretty good, although I'd like to move the stuff to the trash automatically instead of just marking it (haven't figured out how you do that yet).\r\n\r\nI used to manage spam filters manually, but for awhile, things were so screwed up and I had so many false positives that I got in the habit of reading my trash folder first. Things are definitely better now!\r\n\r\nI distrust the approach of automatically reporting spammers to their ISPs. Previous attempts at this have been foiled by smarter and smarter techniques to hide spammers' tracks and forge their origins. I've received a number of complaints myself from people who clearly got spam forged from my account (at least I sure hope I was not running an open mail relay somewhere -- I guess you can never absolutely know).  However, the idea of a \"honeypot\" that screws up the spammers' <em>modus operandi</em> does sound like a good idea.\r\n"
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: 'Make them pay'
+    hostname: 80.57.214.250
+    created: '1154332189'
+    body: "We should look at any disruptive approach that affects the economics of spamming. If we force down the profit margins then the spamming volume should follow.\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Nice idea but it may not have the desired effect'
+    hostname: 82.108.129.98
+    created: '1154353491'
+    body: "Attacking the bots sounds a good idea but surely it only works if the spammers are concerned over the number of genuine addresses they have on their lists. Also it won't stop my address getting onto the lists via another server.\r\n\r\nI used to think spammers were like the people who send free catalogues and brochures but that's wrong. Spammers use an entirely fire and forget process. When they send a message they use a spoofed reply-to and to header (Terry this is probably what's happening to you) so that it is not them who gets the bounces.\r\n\r\nPerhaps there is one way in which the spammers and the catalogue people do work the same. Maybe they work by carpet bombing: send one message to 10 million \"addresses\", of which 2 million end up in a real inbox, of which 50000 actually get read, of which 100 follow-up on the links. Those 100 may not buy the product but they will see the advertising on the site and they will have confirmed their address as being one of the gullible people - which will move them up a level on the spammers lists.\r\n\r\nI don't think that abuse reports work. If they did then I wouldn't still be receiving spam via open-relays within popular ISP address ranges.\r\n\r\nMy preferred method is spam filters but at SMTP level (not yet deployed bt will be soon). Using something like Exiscan within Exim means that my server doesn't even handle the spam bounces. Okay the sending server therefore has to handle it but because it's a reject rather than bounce, it means the - spoofed - \"sending\" address isn't plagued with bounce message for mail they didn't send. The sending server would therefore have to be more efficient in stopping spammers sending mail through their system. If the spammer is using their own smtp then they would eventually get fed up of the rejection messages."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Junk -> Trash in Thunderbird'
+    hostname: 82.108.129.98
+    created: '1154353611'
+    body: "<cite>Bayesian filtering in Thunderbird is pretty good, although I'd like to move the stuff to the trash automatically instead of just marking it (haven't figured out how you do that yet).</cite>\r\n\r\nYou'd have probably worked it out but to save you the time...\r\nTools->Junk Mail Controls\r\nUnder the Settings tab change the settings below \"Handling\"."
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: 'Defense in depth'
+    hostname: 80.57.214.250
+    created: '1154355585'
+    body: 'I believe in defense in depth. Making a targeted Linux distribution may build that depth via a series of tools and server types. Start by targeting the Spambots then the spammers by distributed analysis. Make the distribution easy enough and then given a fair wind, the rest may follow.'
+-
+    name: ns2048
+    mail: ''
+    subject: '3-stage filtering is quite effective'
+    hostname: 24.7.118.65
+    created: '1154723470'
+    body: 'I''ve seen fairly good results (from ~400 spams/week down to ~12) by using a combination of iptables (geo-blocking/filtered port 25) + DNS blacklist (i.e., Spamhaus, DSBL) + DSpam (dspam.nuclearelephant.com). The list of IPs blocked by iptables is generated daily based on analysis of Postfix logs and DSpam results.'
+-
+    name: 'Kirk Strauser'
+    mail: ''
+    subject: 'I wrote an article last year'
+    hostname: 208.162.254.122
+    created: '1155005122'
+    body: "I wrote <a href=\"http://www.freesoftwaremagazine.com/articles/focus_spam_postfix/\">an article</a> last year for FSM.  Check it out and use it if you can.  Although my real email address is plastered all over the place, I typically get a spam every other day or so.\r\n\r\nGood luck!"
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: "Yep,\nWhat an excellent"
+    hostname: 80.57.214.250
+    created: '1155049945'
+    body: "Yep,\r\n\r\nWhat an excellent article.\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: tyler@earthsociety.org
+    subject: 'spam economics'
+    hostname: 144.134.252.208
+    created: '1177687178'
+    body: 'If we could create false email addresses, and then have an automatic system for generating and sending thousands of messages to the spammers of those addresses in order to clog up their systems. I don''t know if this could result in a DOS for them, but regardless, it would eat up their bandwidth and cost them more $$.  Could such a little program be written up and put out on torrents and spread around freely? If everyone had something like this running in the background on their computers, spammers would be toast.'

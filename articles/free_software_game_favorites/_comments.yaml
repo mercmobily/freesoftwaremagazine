@@ -1,0 +1,28 @@
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: 'I want to edit too'
+    hostname: 68.93.224.4
+    created: '1150932311'
+    body: "I occasionally play planet penguin racer. I edited it once, but they have updated the version since I last did. It was an interesting game to edit, although when you make your own levels it is possible to make unplayable ones.\r\n\r\nThe best levels, I think are the ones were you spend most of the time flying. I noticed that there is now a Gimp plug-in to make it easier to edit levels. I can't wait to try it out with the new version of the game which has yellow and black stripped extra-slippery areas.\r\n\r\nGood job Terry. I enjoyed reading this."
+-
+    name: 'Matt Barton'
+    mail: ''
+    subject: 'Wow, great reviews, Terry!'
+    hostname: 67.133.89.167
+    created: '1151023871'
+    body: 'Thanks for writing up such a great piece, Terry. I''ve posted about it over at <a href="http://armchairarcade.com/neo/node/488">Armchair Arcade</a>. I plan to try some of these games myself soon--though I wonder if they''ll run on my rather limited hardware. Here''s hoping! That pinball-type game looks especially interesting, and "Atomic Tanks" looks suspiciously like an old favorite of mine for the Amiga, "Scorched Tanks." '
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Hardware
+    hostname: 68.93.224.4
+    created: '1151255360'
+    body: "The only hardware problem you're likely to have is getting OpenGL to work. I had the best results with an ATI 9200 card (though that's getting harder to find) and the free software drivers included in Debian. nVidia may be technically superior, but because the drivers are closed-source, they are a much bigger pain to install.\r\n\r\nFor that reason, I do not have them installed on this machine, even though I have an nVidia card in it.  What a waste!  I will never buy another video card unless and until I see free drivers for it first.  In fact, that's why I started using the ATI 9200s. I felt really betrayed by nVidia because they made a fuss over supporting 'Linux', and I assumed they'd be open-source, because what's the point of closing the source to a <i>hardware driver</i>! (!?)\r\n\r\nWell, since then, I've learned the reasons, of course, but I still think it's a dumb idea.\r\n\r\nThe only problem I've seen with the ATIs are those artifacts I mentioned in TuxKart, which don't give me a problem in other games (TuxKart uses a different 3D engine than the others, if I am not mistaken).  I have no idea if these go away with the non-free ATI drivers, because I refuse to mess with them -- I have better things to do with my time.\r\n\r\nUnfortunately, both ATI and nVidia have clammed up on their card specs, starving the developer community of the necessary information to provide drivers. Check out <a href=\"http://opengraphics.org\">Open Graphics Project</a> for where the future might be going with that. I know I'm signed up.\r\n\r\nSound is trivial if you have a 2.6+ kernel, because ALSA is integrated into it (no more kernel-compiling to get sound, yea!). ALSA supports a stunning array of sound hardware. (Also, there are a number of cheap supported soundcards if you happen to have a closed chipset that isn't supported -- it's much less of a problem than with 3D video).\r\n\r\nAlso, of course, quite a few of these games are 2D -- and those'll work with just about anything (even framebuffer video and no sound).  If you can get X to run on them, you're set.\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Reprint Notice'
+    hostname: 68.93.224.4
+    created: '1153526750'
+    body: "My blog entries at Free Software Magazine may be reprinted with this notice:\r\nCopyright (C)2004-2006 Terry Hancock / License CC-By-SA 2.5+<br/>\r\nhttp://creativecommons.org/licenses/by-sa/2.5<br/>\r\nOriginally at http://www.FreeSoftwareMagazine.com<br/>"

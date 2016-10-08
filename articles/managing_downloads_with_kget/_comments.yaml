@@ -1,0 +1,14 @@
+-
+    name: speedygeo
+    mail: speedygeo@email.it
+    subject: 'I can''t download with KGET on my Kubuntu.'
+    hostname: 62.217.245.97
+    created: '1191903780'
+    body: 'I can''t download with KGET on my Kubuntu. Can be a firewall issue? I have Guarddog. KGET can''t reach any URL!! This is the reason that I use the download manager built in Firefox. But with FF I can''t suspend a download, shutdown, and redo. Can you help me?'
+-
+    name: paranoid.tiberiumlabs
+    mail: paranoid.tiberiumlabs@gmail.com
+    subject: 'Try one more manager ;)'
+    hostname: 195.245.253.6
+    created: '1194355720'
+    body: 'just because KGet is not enough for us, we developed out own download manager in Java. http://lailaps.googlecode.com give it try!'

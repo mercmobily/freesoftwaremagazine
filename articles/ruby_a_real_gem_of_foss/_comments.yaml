@@ -1,0 +1,21 @@
+-
+    name: ''
+    mail: ''
+    subject: ...
+    hostname: 194.95.108.104
+    created: '1169046951'
+    body: 'I can''t imagine how a ruby program would be faster than a c++ program, since ruby is interpreted and c++ is compiled. This is however dependant on the complexity of the program. And I may be biased, because I''m a computer science student. '
+-
+    name: plh
+    mail: ''
+    subject: 'Beauty etc. /and/ speed...'
+    hostname: 86.128.98.61
+    created: '1169117584'
+    body: "...have been sitting under FOSS developer noses for years.\r\n\r\n\"That's why I encourage you programmers to learn Ruby now, for it is about to be a major force in FOSS.\"\r\n\r\nNo doubt. And it'll be yet another lost opportunity and pythonish diversion on the road to Lisptopia. I'll know we're there when OpenOffice has been largely rewritten in Common Lisp or Guile Scheme ;-)"
+-
+    name: 'Anonymous visitor'
+    mail: cithambaram@gmail.com
+    subject: "I dnt Know abt Ruby,\nSo"
+    hostname: 61.11.81.165
+    created: '1197806812'
+    body: "I dnt Know abt Ruby,\r\nSo could u tell What is ruby?\r\nwhat is the use of it?\r\n"

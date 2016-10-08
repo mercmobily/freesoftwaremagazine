@@ -1,0 +1,595 @@
+-
+    name: Greatred
+    mail: ''
+    subject: 'ISO 8601'
+    hostname: 80.1.224.8
+    created: '1172923776'
+    body: 'I may be misunderstanding ISO 8601, as I''ve only touched upon it in the past, but the example given in this article <code>"2007-28-02"</code> simply looks like a reversed USA date format. If I remember rightly this would be written 2007-02-28 in ISO 8601.'
+-
+    name: 'Edward Macnaghten'
+    mail: ''
+    subject: 're ISO 8601'
+    hostname: 62.253.128.14
+    created: '1172927022'
+    body: 'You are correct.  It is a "typo", sorry.'
+-
+    name: ''
+    mail: ''
+    subject: 'Two thumbs up'
+    hostname: 212.183.56.62
+    created: '1172927307'
+    body: 'Excellent discussion of the topic. This is of tremendous help when trying to educate people about the concerns the free software community has with OOXML.'
+-
+    name: ''
+    mail: ''
+    subject: 'Wow!  Too much time on your hands.'
+    hostname: 24.22.195.27
+    created: '1172946093'
+    body: "Who cares, as you said people without Microsoft Word can read the format anyway.  It's become a standard because everyone uses it, a \"standards body\" is only needed when this doesn't happen and everyone has different formats.\r\n\r\nIt used to be Wordperfect, if someone comes along with something better and everyone starts buying it something new can be the standard.\r\n\r\nSure we could go to ODF and then the millions of people using old Microsoft Word would have problems.\r\n\r\nThere are much better discussions to have."
+-
+    name: ''
+    mail: ''
+    subject: '39 days'
+    hostname: 64.252.177.106
+    created: '1172946230'
+    body: 'I don''t know why you complain about reviewing the standard in 30 days when the timeline for a fast track submission is 6 months.'
+-
+    name: ''
+    mail: ''
+    subject: 'OH MY GOD'
+    hostname: 70.189.123.1
+    created: '1172946329'
+    body: 'I am anonymous, and I have no idea who you are, either. This reminds me of the amazing effort on Wikipedia. You know the guy who mapped all the timelines as they winked in and out of existence through the course of all the Back to the Future movies? Yeah. That. Wow. Just so much concentrated stuff here!'
+-
+    name: ''
+    mail: ''
+    subject: 'A the usual ODF good, OOXML bad article'
+    hostname: 87.52.74.131
+    created: '1172952150'
+    body: "How about highlighting the horrors in ODF as well. The standard as a whole is basically a dump of OOo internals, in important areas it's dangerously weak, like the fact that the entire Spreadsheet spec is depending on your method of counting 4-10 pages. Nobody can implement a spreadsheet from that.. nobody.\r\n\r\nODF is a horrible standard, compared to it OOXML even with it's own horror looks like a work of art. But that just goes to show the type of honesty found in the ODF camp, proponents are entirely unwilling to acknowledge shortcomings of their standard while all to willing to point out flaws in opposing standards.\r\n\r\nInstead we should seek to build one truly good standard, an extensively described standard because neither is currently good enough, though as a long time Linux user I hate to admit that in this case Microsoft hit way closer to the mark than we did. They did an extensive standard, suitably verbose but with ugly spots.. I'd take ugly over missing - at least I can implement ugly, there is no way I can sanely implement missing stuff without doing guesswork which will lead to errors and thus bad user experiences, broken documents and assorted pain."
+-
+    name: ''
+    mail: ''
+    subject: 'What''s next'
+    hostname: 74.116.110.180
+    created: '1172955900'
+    body: "This is indeed an excellent summary of the issues, including the legitimate contradictions and the ECMA whitewashing of same.  What I would like to know is, what now?  Will the substance of this article be used to formulate an appropriate reply to ECMA by parties with the appropriate position and influence?  If not, I fear that even a well-thought-out argument like this one will ultimately go no where.\r\n\r\nSo, what *is* next?  Will you be working to proactively lobby your government and, through international proxies, others to reply to the ECMA spin?"
+-
+    name: ''
+    mail: ''
+    subject: 'What a zealot style arguments'
+    hostname: 71.112.104.243
+    created: '1172957342'
+    body: "you do. Most of your arguments are lame because you hate Microsoft. You are letting the hate cloud your judgement. I loved your really stupid argument:\r\n\r\nODF lets any application define meta tags and stuff them in the document whereas Microsoft uses only for few applications. Well go figure who is better. To me as long as i don't use those special applications, all documents created with OOXML are better. OTOH ODF applications may create 100s of different incompatible ODF documents.\r\n\r\nAnd then your argument on why there shouldn't be two standard. My question is why not? Why is there not a single OS? Why is there not a single application itself?\r\n\r\nWhy not have two standards that compete to be better? Why you want standards monopoly?\r\n\r\nMost of your arguments i find are pretty bad. I wouldn't go in the details of each as i will let other readers see that through.\r\n\r\nBtw If you are trying to promote ODF then you are doing a dis-service to them. If you were a lawyer, i am sure people would have stripped you off your degree.\r\n\r\nFirst take your biases away and then argue..."
+-
+    name: ''
+    mail: ''
+    subject: 'MS OOXML'
+    hostname: 216.223.146.73
+    created: '1172964413'
+    body: 'I agree that open standards are best, but ODF has major shortcomings in it''s spreadsheet format. MS XML has won it''s raison d''etre fair and square. ODF will have to improve it''s spreadsheet before they can truly make MS irrelevant.'
+-
+    name: 'Edward Macnaghten'
+    mail: ''
+    subject: 'For the usual OOXML advocate'
+    hostname: 62.253.128.14
+    created: '1172967489'
+    body: "I will rise to this comment - I assume you are not a troll.\r\n\r\nI have some familiarity with the internals of OOo, and more than some familiarity with the ODF spec.  I can assure you there is no way ODF is an internal dump of OOo.  Remember OOo's \"native\" format was originally \"SXW\" files, but they adopted ODF after it was developped with others.\r\n\r\nAlthough there are about ten pages EXCLUSIVELY devoted to spreadsheets in the ODF spec there are hundreds of pages relevant to spreadsheets.  The entire table, formatting, styles, charting, base settings and the bulk of the other functionality are shared with other parts of the office specification and are not included in those \"10 pages\".  The entire thing fits together well and is well planned.\r\n\r\nNo one claims that ODF is perfect, as can be deduced that ODF version 1,1 is on it's way, however it is based on sane XML and existing standards.  OOXML is not, nor do Microsoft pretend that it is.  They justify their peculiar XML naming structure as required for \"performance\", and they almost admit that THAT IS an XML-ization of the .doc,.xls and .ppt files.  In fact they promote that as an advantage for tham.  Interoperability is not on their main agenda.\r\n\r\nI have analysed ODFand OOXML, and although ODF is not perfect I believe it is a \"truly good standard\".  It is vendor neutral and well thought out.  I am not a Microsoft hater, nor do I think users of MS Office should switch.  I believe microsoft should stop playing the bully and adopt ODF for document interoperability.  As I said in the article, it is not as though they cannot do so...\r\n\r\nYours\r\n\r\nEddy\r\n\r\n\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Get the Sun ODF plug-in  for MS Office'
+    hostname: 62.253.128.14
+    created: '1172970934'
+    body: "Get the Sun ODF plug-in  for MS Office, and you can save MS Office documents in a format that everyone can read for all time. Try reading some  of the  older MS Office and MS Write formats with current MS Office products and you have problems.\r\n\r\nSet Microsoft Office to save as ODF as default, and MS Office users can kiss goodbye to forced upgrade cycles through planned  incompatibility  in file formats. That is why Microsoft and it's trolls are so violently opposed to ODF, and why Microsoft uses XML to wrap proprietary, undocumented binary blobs that makes it impossible for anybody except Microsoft to properly implement OOXML.  The truth is that come the next version of Microsoft Office after 2007, Microsoft yet another  new set  of incompatible binary blobs, to create yet another OOXML format incompatible with the current one to force a user upgrade. That  is after all the whole basis of  Microsoft's business model, and the  reason why Microsoft is refusing point blank to  implement ODF filters in MS Office.\r\n\r\nI accept your argument that Microsoft through it's abusing control of bundling office suite software into OEM Windows has eliminated competitors like Wordperfect to  achieve a market monopoly.  Hovever I cannot see how this can be used as an  argument for OOXML to be made a ISO standard. What is the point after all in an ISO \"standard\" that only one company (which already has products compliant products) can implement, other than to  confuse  the  public  into not adopting  a genuine vendor neutral and universally adoptable standard, namely ODF? I mean why does OOXML need to be given an ISO number if only Microsoft can  implement it? Even the name Office Open XML is expressly chosen to confuse people with the OpenOffice suite which is one of many products  implementing the ODF standard.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Archival Documents'
+    hostname: 70.122.7.171
+    created: '1172971709'
+    body: "Nice article. I learned quite a bit from it.\r\n\r\nOne thing that could be addressed more is the need for interoperability over time, not just interoperability from one currently-available application to another but to posterity's available applications. You hint at this with your mention of reliance on undocumented internals of older (and currently unsupported) applications. When looking to the future this becomes more important as more and more vital data is stored electronically.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Corporate politics'
+    hostname: 62.253.128.14
+    created: '1172972384'
+    body: "Now put your corporate hat on, and think about how you would influence the market. Certainly Microsoft, like any other corporation has to think this way. \r\n\r\n- If I control the data format, I control a key point: nobody can be 100% compatible with me, and I only need to introduce the fear that your documents will break if you use the non-native software. Plus, I can rely on a steady income stream as I force people to upgrade their software to maintain compatibility with their \r\n\r\n- As a consequence of the first point, I will do everything I can to keep the data format under my control. It's ABSOLUTELY key to my future revenue. (And remember in this case, the MS future revenue is $ billions.)\r\n\r\n- I will not open the document format as standard. That would damage my future revenue. However..\r\n\r\n- If I am forced by the market to open the data format, I'll work very hard to make sure that the open format is closely tied to my product. It's not quite the same as having complete control, but if the standard is tied to my product then I can establish  variations in later products which break the standard, but become the de-facto standard over time. And voila, I'm back where I started! You won't be able to use the standard without my software.\r\n\r\n- If a competitor standard is available, I will not implement it. Or, if forced to implement by the market, I'll implement it in a broken way. Under no circumstances do I want a document format which is not under my control to take hold in the market. (Remember that future revenue?) I won't ever support the most current version of a standard.\r\n\r\n- If a competitor standard is available and taking hold in the market, I'll do all the mudslinging I can. (Oh wait, look at the previous comment!)\r\n\r\n- I will whereever possible look for ways to break standards. That includes outputting badly formatted documents; incorporating bugs in my software which crash my software when the format is used; or which corrupts the data subtly. \r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'I''d suggest trying to understand an argument before opposing it'
+    hostname: 64.128.31.220
+    created: '1172979136'
+    body: "...as otherwise one sounds like just the sort of zealot one is attempting to paint one's opponent as.\r\n\r\nWith regard to the application-specific config tags, for instance -- these are intended for <em>application-specific</em> configuration, ie. information tangenial to the document content itself. The content is still readable and renderable by all compliant implementations -- but if an application is designed such that some piece of user configuration is stored with the document, it's free to do that. Further, any vendor interested in reading another vendor's app-specific configuration (should they in fact have a comparable switch) is of course free to do so.\r\n\r\nAs for your \"why not?\" regarding multiple standards, one might as well ask what the point to standardization is at all. Why not let competing railroads use incompatible widths for their tracks? Why would you want railroad track width monopoly?\r\n\r\nIf any of 'yall folks arguing the Microsoft position are in the Austin area, I wouldn't mind getting together for coffee some time; I really would like a chance to meet and chat with you face-to-face. I'm charles at dyfis dot net."
+-
+    name: ''
+    mail: ''
+    subject: yeahhh
+    hostname: 68.81.97.189
+    created: '1172979631'
+    body: "wow, what a great article, i agree with everything you said, \r\n\r\nMS scumbags are trying to keep the monopoly on the office apps by making up their own standards, \r\nthere shouldn't be more than one way for doing something, as if there are, none of them is a \"standard\", if a new standard is needed, then the previous standard should be improved to accommodate the needs,\r\n\r\nto the MS-fanboy above:\r\nits called a \"standard\" for a reason you moron, its not designed to compete against microsoft standard wannabes,\r\n\r\nMS is anti OPEN anything, not integrating the ODF into their office apps is a clear proof of that.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Re: What a zealot style arguments'
+    hostname: 211.30.164.170
+    created: '1172980885'
+    body: "Your argument is whimsical and emotional at best. Its very clear you are in bias of Microsoft's side yourself.\r\n\r\nYou took the easy way out saying <strong>\"i will let other readers see that through\"</strong>, which translates to \"I'll let someone else provide the evidence\", when you clearly have NONE. At best, you went on a personal attack with <strong>\"If you were a lawyer, i am sure people would have stripped you off your degree.\"</strong>\r\n\r\nThat's just typical behaviour of someone who has NO CLUE of either OOXML or ODF standards. I bet, that you are using MS Office 2007, and you have fallen in love with the interface.\r\n\r\n\r\nLet me give you an example why its a bad idea to have 2 standards.\r\nIf you do engineering, you have to study both the Metric and Imperial systems for length, weight, etc.\r\n\r\nThat is, in Australia, UK, etc, we use kilograms, metres, etc.\r\nIn USA and anyone else who uses the Imperial system, they use pounds, miles, inches, etc.\r\n\r\nSo what happens when you do a group project from people around the world?\r\n\r\nYou get an accident or a potential problem waiting to happen because not everyone is clear on which standard they should be using. And this confusion DOES happen in real life, not just in theory.\r\n\r\nNASA has experienced this very issue, and it has resulted in a loss of a few million dollars of US taxpayer money...Flushed down the toilet.\r\n\r\nSo you want the entire world to waste time and money converting docs back and forth between two standards? (Time IS money)\r\n\r\n\r\nYou speak of \"standards monopoly\", when the only company that is trying to avoid an international standard that is ODF, is the very company that is known for monopolistic practices! That's right, MICROSOFT. They developed OOXML because they knew they'll lose control!\r\n\r\nThey could've adopted ODF, and NO ONE was forcing them not to. They chose NOT to accept ODF on their own accord. Why? Because the whole point is about control. CONTROL = PROFIT.\r\n\r\nMicrosoft controls documents standards in an effort to corner everyone to use MS Office. They will NEVER release ALL the details of their document formats, and you will be forever needing MS Office to achieve 100% accuracy in reading doc. This is why when you try to open a doc file in OpenOffice, Abiword, etc, you will always get some issue with the layout. Microsoft knows that the average user will never accept other office applications when it cannot read their files correctly. This is how they keep their dominance. They make it so that you need them, and there's the feeling that you cannot leave them. \r\n\r\nThe point of ODF is to allow EVERYONE (including Microsoft) to agree on one document standard that the WHOLE WORLD can adopt. It frees everyone the need to specifically use MS Office. They can use whatever office suite or application they choose. And that's the point. NO ONE is tied down to Windows and MS Office. NO ONE is cornered into paying for a copy (license) of MS Office. (which is what MS does NOT want).\r\n\r\nThis is a point you've COMPLETELY fail to understand. I can tell its completely over your head.\r\n\r\nYOU ARE doing are MAJOR dis-service for OOXML by putting YOUR personal opinion into it. Your personal opinion has NOTHING to do with the document standards.\r\n\r\nOOXML isn't a completely open standard. It has proprietary or vendor specific functions that you need to know in order to get it 100%, if you were to implement a word processing application yourself. \r\n\r\nSuch functions include:\r\n\r\nSection: 2.15.3.6\r\nautoSpaceLikeWord95 (Emulate Word 95 Full-Width Character Spacing) \r\n\r\nSection: 2.15.3.26 \r\nfootnoteLayoutLikeWW8 (Emulate Word 6.x/95/97 Footnote Placement) \r\n\r\nSection: 2.15.3.32 \r\nmwSmallCaps (Emulate Word 5.x for the Macintosh Small Caps Formatting) \r\n\r\nSection: 2.15.3.51 \r\nsuppressTopSpacingWP (Emulate WordPerfect 5.x Line Spacing) \r\n\r\nSo don't pull this nonsense about bias. Its bloody obvious who's bias here.\r\n\r\n\r\nMicrosoft talks about \"interoperability\", but do they really do it on their own accord? OR is this all a farce because the EU's anti-trust case is pushing them into it?\r\n\r\nSeriously, if MS wants interoperability, all they had to do is completely open their formats. Then there will be NO NEED for both ODF and OOXML in the first place!\r\n\r\nThey won't, because the ultimate goal for them is to profit on a massive scale. To profit, you need to control and corner your customers into playing your game, under your rules. In the tv show, 24, Jack Bauer calls this kind of thing: \"leverage\".\r\n\r\nAnd that's the key issue. OOXML only exists because ODF exists. ODF exists, because Microsoft won't COMPLETELY open their existing formats to the world. This is all because they want you to be completely dependent on a specific application or product they happen to be selling...That is, MS Office. "
+-
+    name: ''
+    mail: ''
+    subject: 'dates and times'
+    hostname: 24.110.145.57
+    created: '1172981545'
+    body: "The 1900/1904 distinction is needed. These dates get used in spreadsheets. People actually put dates into spreadsheets AS INTEGER VALUES. No joke. There are business-critical spreadsheets that compare dates against literal integer values. I mean \"123456\" and such.\r\n\r\nThe 1900/1904 distinction changes the numbers in use. Spreadsheets are wrong if the wrong values get used.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Bitmaps, Enhanced Meta Files (EMF) and (any other)'
+    hostname: 24.110.145.57
+    created: '1172982369'
+    body: "This is how GDI+ (gdiplus) works.\r\n\r\nAn EMF can be old-style plain GDI, pure GDI+ (embedded in \"comment\" blocks in the EMF!), or a hybrid that can be rendered via either GDI or GDI+.\r\n\r\nSo within an EMF, you have comments. Within the comments, spanning them in fact because comment size is limited to 8 kB, there is an EMF+. The EMF+ is composed of many records. One type of record is the \"Object\". There are different types of Object, including \"Image\". An Image Object can be a Bitmap, EMF, or other.\r\n\r\nNote the recursion. The Image Object containing an EMF may in turn contain an EMF+. Also, the \"other\" could be HTML (IE7) or OOXML or Windows Media Player data or whatever.\r\n\r\nObviously this can and will be abused; the plan is clear. That said, a document format ought to allow embedding anything and everything. One might even embed OpenDocument, LaTeX, *roff, XCF (Gimp), Adobe Illustrator, or Postscript data.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'To be or not to be... standard'
+    hostname: 64.237.254.97
+    created: '1172986964'
+    body: "\"I understand how people can see it as a standard.\r\n\r\nExcept it is not.\" \r\n\r\nStandards: De facto or De jure.\r\nOffice's format may not be the de jure standard since it hasn't been established by law but like it or not due to its high market penetration it is a de facto standard or standard in \"practice\".  Which one is best?  That's open to argument but tt is important that people recognize the difference before really make assertions about which is more legitimate."
+-
+    name: ''
+    mail: ''
+    subject: 'I find it very amusing...'
+    hostname: 64.228.192.200
+    created: '1172990015'
+    body: '... that 95% of the arguments for OOXML simply trumpet the same arguments, always put forth without evidence by various Microsoft shills and PR guys.  Have people really lost the ability to think?'
+-
+    name: ''
+    mail: ''
+    subject: 'What a zealot style arguments'
+    hostname: 200.26.177.30
+    created: '1172990718'
+    body: "<cite>Why not have two standards that compete to be better? Why you want standards monopoly?</cite>\r\n\r\n<strong>Why a Standard Monopoly?</strong>\r\n\r\nThere is absolutly no reason not to have a standard monopoly. Monopolies are good when held by standards, but they are terrible when held by companies like MSFT.\r\n\r\nIf there is a standard that has the monopoly, if anyone wants to make a program to break that standard, that program will fail in the market. If a single company has a monopoly, only that single company can make programs.\r\n\r\n<strong>Why not 2 Competing Standards?</strong>\r\n\r\nIf standard monopolies are good, competing standards are bad. What is a standard? A way of doing things agreed upon by all. With that in mind, there can be no such a thing as \"competinng standards\", unless one is declared the winner and the other exterminated.\r\n\r\nHaving 2 standards only leads to one of two things: confusion and/or wasted development resources (which will come with an increased number of sickening insects). <cite>Gee, there are two standard ways to implement the feature I want to code, which do I implement. Or do I need to implement both?</cite>\r\n\r\nExtermination is exactly what MSFT wants to do with ODF. It has no intentions of competing with it. If OpenXML becomes a \"standard\", it will win this fight not because of technnical merits but beause of installed base. If MSFT looses in this fight, many governments (worst case) worldwide will no lonnger be able to use their format, which will mean that people will want to use ODT atleast for comunication with their government, which will mean that they will be introduced to a differrent format than theirs, which will mean that they'll demand good support for itt of their office suit, which will mean that cuite a few will choose (rather than be forced to choose) the ODT format, which will mean that MSFT will loose their hard-stolen monopoly powers, which is something that they definetly do not want.\r\n\r\nSo which are we going to have, a standard office suite format, or the current propietary non-standard?\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'The reason for this is...'
+    hostname: 72.87.134.44
+    created: '1172994391'
+    body: "...that a single-instance sort, upon the date field alone, will yield a chronological ordering of documents or items--without confusion.  Simultaneous date field hits are resolved by time field ordering within any given date.\r\n\r\nThis is a logical foundation for file name prefixes."
+-
+    name: ''
+    mail: ''
+    subject: '"anti-<favored one>" and "<favored one>-hating"'
+    hostname: 210.246.27.109
+    created: '1173004727'
+    body: "arguments, I've found in a lifetime of defending what I believe in, are signs that someone has not done their homework.\r\n\r\nCould you please define what you mean when you say \"<cite>because you hate Microsoft</cite>\"?\r\n\r\nWhat part of Microsoft are you defending?  What behaviour of Microsoft are you defending?  Who are you defending in Microsoft's \"<cite>hallowed halls</cite>\"?  What division?  What part of Microsoft do you claim is under attack?  For what reason?\r\n\r\nIn short, I find your arguments unconvincing and shallow.\r\n\r\nFor my part, I remember only too well the constant refrain of anguish in computer mags every time Microsoft released a new MS Office version, as people found, much to their dismay, that old, well-loved (or at least -tolerated) file formats, etc, were not fully supported in the new versions, and the people complaining had lost some important part of their documents' formatting.  And that was from people who used MS Office professionally.\r\n\r\nGiven such a track record, I think it wise to look such a gift horse in the mouth - it's not guaranteed to have any teeth."
+-
+    name: 'Edward Macnaghten'
+    mail: ''
+    subject: 'Dates and times conversions'
+    hostname: 62.253.128.14
+    created: '1173009070'
+    body: "There is no reason for the date to be stored as an integer in the saved tranferable file.  The conversion between dates and numbers - however they are entered or what formula is used - should be done in the applications themselves.  A date should be saved to file and transferred as a date regardless of how it is created and manipulated in the application itself.\r\n\r\nEddy"
+-
+    name: 'Edward Macnaghten'
+    mail: ''
+    subject: 'Enhanced/Windows Metafiles and Bitmaps'
+    hostname: 62.253.128.14
+    created: '1173010707'
+    body: "<p>\r\nThe \"ST_OLELinkType\" type is only used as part of the LinkType element (6.2.2.16).  There it includes the following:\r\n</p>\r\n<blockquote>\r\n[Note: The formats available may vary based on the type of embedded object - this information is typically\r\nqueried from the embedded object's application before it is stored. This setting may be omitted, and is usually\r\nstored for performance reasons, so it is not queried on each update of the linked object. end note]\r\n</blockquote>\r\n<p>\r\nAs the only types defined in the OOXML specification are Microsoft ones it enhances my point that the specification is designed by Microsoft for Microsoft and not for open use by all applications,\r\n</p>\r\n<p>\r\nEddy\r\n</p>"
+-
+    name: ''
+    mail: ''
+    subject: 'Lot of opinion, little content'
+    hostname: 86.84.111.211
+    created: '1173015093'
+    body: "Your document is one big container of opinions that have little to do with reality.\r\n\r\nWhere were you when ODF was ratified trough ISO.\r\nODF standard is not ideal either. \r\n\r\nAn example. \r\nYou state: Why is there a special enumeration type for meta files or bitmaps. So why has ODF special embedding objects for java applets and other embedding for other objects ??\r\n\r\nSo why is ODF as an interoperable format not supporting ISO 216 standard paper sizes but has it in stead flexible printer paper sizes which are not really interoperable unless they happen to conform to a standard which means that standardization is implementation defined in stead of format defined. \r\nYou are also suggesting that a converting stringtype percentage to a numeric is hardly more demanding than converting a decimal number. firstly you should understand that a decimal point is hardly a standard. I use a decimal comma. For a name that requires stringlike verification anyways thatis not a problem but for a value it is actually is. Storing decimal numerics without a decimal point is actually more standard than using a decimal point or a decimal comma. \r\n\r\nYou state that Microsoft should store their unique quirks in a generic \"config\" tag or similar rather than on the main name-space. Reading your article I will now state that if they would have done you would now have written about the evil Microsoft hiding Office setting in config setting that are actually completly non interoperable by design. ODF's config setting items are a huge implementation nightmare. Only an ODF fan would suggest they are a solution. Even the custom tags in OOXML are far better as at least they require custom schema validation and are unique because of the XML custom namespace use.\r\n\r\nYour oppinions are noted but seems like you based it purely on onesides very limited research and knowledge of format issues with OOXML while you seem to support ODF which has also lot's of it's own issues. \r\n\r\nA big issue of ODF is that this standard made for interoperability does not know any two interoperable implementations yet.\r\n\r\nIs OOOXML an ideal standard ? No. \r\nBut actually fasttracking standards never are because they are standarsds derived from existing technology.\r\nIt is easy to hammer on OOXML for it's compatibility issues which aren't always the optimal solutions but frankly this whole article feels like you would not have minded the same issues if they just would have been in a format that was used by OpenOffice !!!!\r\n\r\nThe Wraith\r\n<a href=\"http://ooxmlhoaxes.blogspot.com>http://ooxmlhoaxes.blogspot.com/</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'ODF petition'
+    hostname: 84.66.47.126
+    created: '1173017070'
+    body: '<p>Could I point out that there is a petition <a href="http://petitions.pm.gov.uk/OpenDocument/">here</a>, set up by me, to persuade the UK government to standadise on ODF</p>'
+-
+    name: ''
+    mail: ''
+    subject: 'Standards: De facto or De jure.'
+    hostname: 86.53.35.159
+    created: '1173020606'
+    body: "Except that Microsoft keep changing the \"de facto standard\" so you have to keep upgrading you copy of Office. \r\n:-("
+-
+    name: ''
+    mail: ''
+    subject: 'I prefer seeing the whites of their eyes'
+    hostname: 67.170.97.175
+    created: '1173023685'
+    body: "Charles, I wish I was in Austin, we'd be having that cup of coffee today.  I doubt we'd convince one another of anything, but I've found it difficult to locate people willing to debate these issues in person.\r\n\r\nCheers,\r\nDoug\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Dates and times conversions'
+    hostname: 80.177.11.178
+    created: '1173032412'
+    body: "You could justify the use of an integer format if the aim was to make your dates independent of any particular calendar system.  I don't know whether the concept of a Julian day number has ever made it into an ISO standard, but it is an important and well established one.\r\n\r\nOf course, what's much more difficult to justify is a time scale which is almost but not /quite/ linear, with a discontinuity chosen to suit the agenda of a particular company with monopolistic tendencies.\r\n"
+-
+    name: 'Edward Macnaghten'
+    mail: ''
+    subject: 'Content and Opinion'
+    hostname: 62.253.128.14
+    created: '1173034363'
+    body: "The Wraith:\r\n\r\nThank you very much for your comments.\r\n\r\nI agree with you that ODF is not perfect, I never claimed it was, but after examining both ODF and OOXML I would say ODF was miles ahead as a candidate for a standard, in fact I think OOXML does not meet the basic criteria to become one.\r\n\r\nI agree with you on the ISO 216 and ODF - it should support it instead of just storing the page widths and heights despite it is easy for an application to extrapolate the ISO 216 name from the sizes.  What ODF should not be changed to do is make up it's own non-standard cryptic page names which is what OOXML has done.\r\n\r\nAs for your arguments on the \"config\" tag I think you have missed the point of it.  Microsodt Office has unique configuration settings only relevant to it, so does OpenOffice.org, so does KWord, so does AbiWord, so does Lotus Notes, so do every other office suite in existance.  At the moment I can create a file in KWord then load it in OpenOffice.org and then in AbiWord.  Each presents and can manipulate the content satisfactorily and pass it on.  Although some configuration option changes were not transferred because they were unique to the previous application does not effect interoperability.  To limit the \"config\" options to those of one application simply is limmiting the format to that one application locking out use by all others, some would say that is Microsoft's goal.\r\n\r\nFor instance, when using OOXML it is possible to specify formatting quirks unique to MS Word 2003, but not possible to state the ones unique to KOffice.  That means that MS-Word can save and load the file without problems, but Koffice cannot as settings would be lost in the interim making the format impossible to use with Koffice.  However, both Koffice and Word can use ODF satisfactorily (or could if MS were not so negative about it).  Although unique application settings could be lost when passing the document from a user of MS-Word and KOffice, and I agree that is not perfect, it is a million miles better than simply ignoring KOffice and all other non Microsoft office programs exist.\r\n\r\nHopefully in the future applications can store and pass on \"config\" settings not applicable to it in a manner similar to the \"about:config\" screen in Firefox.  However, the lack of this in current applications is the fault of the applications, not the format.\r\n\r\nMost configuration settings define some precise operation and rendering quirks.  Operation quirks are not relevant to inter-operability and to transfer a precise representation of a rendered document you should use a standard like PDF, not an editable document format, which is really for work-in-progress transfers.\r\n\r\nAs for accusing me of criticizing Microsoft if they tried to improve relationships with other office suite vendors, you have me very wrong.  I would be singing their praises if they did that, but unfortunately they are not.\r\n\r\nAs for the JAVA Applet point.  JAVA is not an ISO standard, however it is on the verge of becoming an open source project and is run by the Java Community through the Java Community Process and it's APIs are published, also the APPLET tag was taken straight out of HTML4.  Although this does not make the APPLET tag ideal again it is a million miles better than including closed proprietary formats in what is supposed to be an open specification.\r\n\r\nAm I one-sided?  Maybe I am, but that is AFTER I analyzed both ODF and OOXML specs.  I came to each spec with an open mind.  ODF is not perfect as a standard, but OOXML is unacceptable as one.\r\n\r\nODF IS interoperable, and being used as such.  OOXML limits functionality to that of Microsoft Office.  It would be nice if Microsoft joins the rest of the world in supporting ODF properly, such us including it in the Save/Open dialogs and being able to make it the default format, then these arguments and articles will all become moot and we can move on happily exchanging documents with EVERYBODY.\r\n\r\n\r\nEddy"
+-
+    name: ''
+    mail: ''
+    subject: 'Date conversion is not evident'
+    hostname: 86.84.111.211
+    created: '1173035900'
+    body: "There is no realiable way to convert simple numeric date types into complex ISO dates. Numeric dates have severly limitations in interpretation. However this makes them very usefull for calculations. \r\nYou can actually use date information fields in normal spreadsheets to multiply with. For this use ISO dates are useless.\r\nHoever converting from numeric to ISO and back requires interpretation of the context of the spreadsheet. This is in general beyond the scope of spreadsheets. We will have to wait and see what the ODf implementations and the OpenFormula's committee comes up with. \r\n\r\nSuggesting that numeric dates can be converted to ISO dates and back is however not evident and no 100% reliable measure for conversion them in spreadsheets has been found. \r\nThis means that spreadsheets for 100% reliablity should also use a complex internal date format that is equivilent wiht ISO dates and also that they not be 100% reliable with legacy spreadsheets.\r\n\r\nThe whole date issue is much more complex than beats the eye. I am amazed that serious ICT expert think that using ISO dates in spreadsheet is a good solution. A much better solution would have been to use ANSI's date1600 format in both ODF and OOXML spreadsheets and then have the date1900 and date1904 formats only for deprecated legacy use in OOXML.\r\n\r\nThe Wraith\r\n<a>http://ooxmlhoaxes.blogspot.com/<a>\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'ODF and long term access'
+    hostname: 210.48.101.106
+    created: '1173039071'
+    body: "Excellent article. \r\n\r\nMy one comment is that your brother should consider long term access to his documents. Has he ever tried opening Word documents from a few years ago? \r\n\r\nOnly an open standard remains accessible into the forseeable future... even if the software to load your document is no longer available, the fact that the standard is open ensures that you could (in a worst case scenario) consider writing custom code to load your old document. \r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'More than 6 months'
+    hostname: 86.84.111.211
+    created: '1173042677'
+    body: "A fasttracking  proces in ISO takes a minimum of 8,5 months and most likely close to a year. \r\nThe even faster PAS proces in ISO standardisation used by OASIS for ODF is about 2 months shorter.\r\n\r\nThe Wraith"
+-
+    name: ''
+    mail: ''
+    subject: 'Forget the Sun plugin'
+    hostname: 86.84.111.211
+    created: '1173043349'
+    body: "I downloaded it and it does not work with MS Office 2007 and it is useless without MS Office anyways.\r\n\r\nIn stead use the Office Open XML plugin for OpenOffice created by Novell:\r\nhttp://download.novell.com/SummaryFree.jsp?buildid=ESrjfdE4U58~\r\n(also provides OOXML support on linux I presume)\r\nor the opensource translator made for Microsoft: \r\nhttp://sourceforge.net/projects/odf-converter\r\n\r\nThe Wraith\r\nhttp://ooxmlhoaxes.blogspot.com/\r\n"
+-
+    name: 'Edward Macnaghten'
+    mail: ''
+    subject: 'Date conversionss.....'
+    hostname: 62.253.128.14
+    created: '1173053450'
+    body: "<p>\r\nHi The Wraith\r\n</p>\r\n<blockquote>\r\nThere is no realiable way to convert simple numeric date types into complex ISO dates. Numeric dates have severly limitations in interpretation.\r\n</blockquote>\r\n<p>\r\nYes there is.  I am a programmer and I find no difficulty doing so, neither does it appear do the programmers of MS-Excel as they display and print the dates as dates.  What I am sugesting is that they perform the same conversion when saving/loading the file.  Not difficult.  What is the problem here?\r\n</p>\r\n<p>\r\nHowever MS Excel stores and manipulates the dates internally is up to MS Excel, I am simply saying that when dates are saved to an \"open\" format they should be stored as dates in the file.\r\n</p>\r\n<p>\r\nEddy\r\n</p>"
+-
+    name: ''
+    mail: ''
+    subject: 'No there isn''t'
+    hostname: 86.84.111.211
+    created: '1173080060'
+    body: "I have been a programmer and a programs designer for more than ten years. It is fairly easy to show combinations of date files you can't reliably convert to ISO dates. \r\nYou suggest Excel can but I often have to tell Excel to display certain fields as date format manually. \r\nThe fact that you think there is 100% reliable conversion possible shows that you still do not fully understand complexity. "
+-
+    name: ''
+    mail: ''
+    subject: 'Referral from Groklaw'
+    hostname: 62.58.36.59
+    created: '1173091844'
+    body: "I was referred to this page via Groklaw on saturday. I also commented on Groklaw. However Groklaw removed just about all of my comments from this page:\r\nhttp://www.groklaw.net/article.php?story=2007030308154032#comments\r\n\r\nIt is sad that anti-OOXML sentiments leads to removing of comments on what once was an open site. The same for comments made on the grokdoc objections discussion page \r\nhttp://www.grokdoc.net/index.php/Talk:EOOXML_objections (points 22-31) which are ignored because they are not in line with groklaw's anti-ooxml policy. \r\n\r\nI notice that many of the objections mentioned by opponents of ooxml (including a lot by the national bodies and on this site) refer to the objections found on the Grokdoc/Groklaw discussions. It should be worth mentioning that those objections are based on a policy of removing ony opposing  oppinions. \r\n\r\nThe Wraith. \r\n(quite shocked by Groklaw's comments removal policies...)"
+-
+    name: 'Edward Macnaghten'
+    mail: ''
+    subject: 'Oh yes there ....'
+    hostname: 62.253.128.14
+    created: '1173094517'
+    body: "ISO 8601:2004 represents dates as YYYY-MM-DD.  This is unambiguous.\r\n\r\nEddy"
+-
+    name: ''
+    mail: ''
+    subject: 'I think you misunderstand the 30 days...'
+    hostname: 192.171.10.24
+    created: '1173116222'
+    body: "The 30 days is to decide _IF_ MS-Office XML will be placed on fast-track in the first place, not the fast-track process itself.  Those opposed to the ECMA MS-Office XML as an ISO standard only have the 30 days to review the 6000 pages before deciding on whether or not to fast-track it in ISO, and to detail their reasons.  The argument at this point is not even if ISO should ultimately approve it, just whether they should fast-track it.\r\n\r\nI personally do not want to see the ECMA standard fast-tracked by ISO, and ultimately hope it fails to get ISO approval at all.\r\n"
+-
+    name: 'Geoffrey Lehr'
+    mail: ''
+    subject: 'Prove it'
+    hostname: 38.116.136.215
+    created: '1173120722'
+    body: 'Care to give an example or two of dates that can''t be converted?'
+-
+    name: ''
+    mail: ''
+    subject: 'An example'
+    hostname: 86.84.111.211
+    created: '1173133011'
+    body: "I'll try\r\nI have several numeric fields in that are in a single hidden reference column but formatted as dates. They contain values 39083.00; 7; 12; 28; 30; 31; 365; 366.\r\nOnly the first one is really ment as a date the others are just poorly formatted as a date when the whole column was formatted\r\nSomewhere else on the visible spreadsheet part are other date formatted fields that are a combination of these fields based on whether you want monthly or weekly paychecks. How to store these fields in your ISO format and get the same results the original spreadsheet did?\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'MCAN Plugin?  You Must Be Joking!'
+    hostname: 71.105.171.147
+    created: '1173135501'
+    body: "The MCAN plugin (Microsoft, Clever Age, Novell) is not useful.  The quality of the conversion is such that you are almost better off hand-typing the document in the other office product.  Or even better, using the old binary Microsoft formats that are handled 85 to 95% accurately by OpenOffice.org.\r\n\r\nAmong the things not supported: named styles, so most of your formatting changes are lost."
+-
+    name: 'Edward Macnaghten'
+    mail: ''
+    subject: 'Weird coding?'
+    hostname: 62.253.128.14
+    created: '1173145101'
+    body: "It seems you have written non-portable macro code that uses a feature almost exclusive to Excel. As a programmer I would suggest the cells should be \"formatted\" correctly to reflect what they contain.  I would suggest this has nothing to do with interoperability but coding practices.\r\n\r\nEddy"
+-
+    name: ''
+    mail: ''
+    subject: 'Standards Debate'
+    hostname: 71.42.4.247
+    created: '1173155307'
+    body: "For those of you arguing the need for a SINGLE, OPEN STANDARD, how would you be arguing this point, or doing anything on the WWW, without a single, open standard, called TCP/IP. \r\n\r\nThat's right. Single OPEN standards create growth, collaboration, entertainment, financial opportunities, education, and so many  wonderful things (porn included). Without standardizing on a SINGLE, OPEN STANDARD, we would not be communicating. Novell would speak IPX, Microsoft would speak non-routable NetBUI, and the only people on the Internet would be the Net BSD folks. \r\n\r\nSo stop bringing up petty arguments for why 'there should be more than one standard', 'de-facto standard', or 'who cares if Microsoft uses proprietary extensions' crap. If you feel there should be more than one 'standard', turn on NetBUI (you will have to add it, unless you are running Vista, because Microsft stopped supporting it, just like all the other MS de-facto standards you buy), and get off of our SINGLE, OPEN STANDARDs based TCP/IP network.\r\n\r\nBrick"
+-
+    name: ''
+    mail: ''
+    subject: 'no macro'
+    hostname: 62.58.36.59
+    created: '1173173983'
+    body: "It appears you agree that the suggested spreadsheet cannot be reliably converted using iso dates. \r\nThe suggested example has nothing to do with macro's but is an example of poor formattting by the spreadsheet user. For 15 years all kind of spreadsheet users of have at will mixed numeric and date fields and combine them into formula's and references. \r\n\r\nThe basic problem in conversion of spreadsheets with numeric date fields to iso date field is that there is no reliable way to determine if a numeric vualue is ment to be a real date or just a numeric value. A real user can probably easily determine that because such a field might have a big label above it stating \"Employed since\" but an automatic program cannot interprete that kind of extra info. \r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Hah! Another Bill Gates crony....'
+    hostname: 213.86.197.188
+    created: '1173179392'
+    body: "[QUOTE]ODF is a horrible standard, compared to it OOXML...[/QUOTE]\r\n\r\nYou've just proven you don't even know how to spell XML. You're the last person in the world to comment on the quality on an XML format."
+-
+    name: ''
+    mail: ''
+    subject: 'Date formats'
+    hostname: 217.8.61.133
+    created: '1173189682'
+    body: "The date formats reminded me immediately of \"Office Space\" movie. \r\n\r\nIOW, I think, EOOXML is good for industry: we would need to hire more people to convert year from \"two digits\" to something human readable!"
+-
+    name: ''
+    mail: ''
+    subject: 'Detailed URLs'
+    hostname: 71.128.189.190
+    created: '1173219704'
+    body: "For anyone following along at home: \r\nHere is a diff of the edits Mr. Wraith, (trading under the name HAI at grokdoc, apparently), added:\r\n<a href=\"http://www.grokdoc.net/index.php?title=EOOXML_Objections_Clearinghouse&diff=6706&oldid=6699\">EOOXML_Objections_Clearinghouse&diff=6706&oldid=6699</a>\r\n\r\nand here is the edit in which they were removed: <a href=\"http://www.grokdoc.net/index.php?title=EOOXML_Objections_Clearinghouse&diff=6719&oldid=6716\">diff=6719&oldid=6716</a>\r\n\r\nAs far as I can tell in reading the history, NO comments by HAI/The Wraith were removed from any Talk pages, contrary to what e claims above, however, comments were removed from the EOOXML Objections Clearinghouse page, per the claim that they were not objections to EOOXML, which they wern't -- they were discussions about the objections, which were addressed and discussed on the talk page.\r\n\r\nI can't comment on the claimed removal of comments at groklaw.net, as it lacks a public history review  function.\r\n\r\n-- An otherwise uninvolved reader."
+-
+    name: ''
+    mail: ''
+    subject: 'Aren''t this numerical values?'
+    hostname: 85.126.25.35
+    created: '1173227187'
+    body: "I fail to see the problem.\r\nThe values are interpreted as dates at runtime and stored \"as is\" in the file as numeric data. No need to convert to or from dates, they aren't dates, they are just treated like ones when loaded."
+-
+    name: ''
+    mail: ''
+    subject: 'Actually ODF also supports OLE embedding and linking'
+    hostname: 149.9.0.27
+    created: '1173250374'
+    body: "ODF has created a special object for OLE linkings and embedding.\r\nYou refer in OOXML to just a type value but on the other hand you think creating a special embedding method for it in ODF is ok ?\r\nThis is much weirder in ODF as they are supposed to only create interoperable documents and it now has OLE linking and embedding in it's specifications which is not on available on all platforms."
+-
+    name: ''
+    mail: ''
+    subject: 'It seems like you had violated Groklaw''s posting policy'
+    hostname: 83.226.123.189
+    created: '1173268843'
+    body: "That's why the blog host trapped you; if you are indeed the same Anonymous person referred to in\r\n<a href=\"\r\nhttp://www.groklaw.net/comment.php?mode=display&sid=2007030308154032&title=%27ODF%20not%20as%20open%20as%20you%20think%27%20comment%20removed.&type=article&order=&hideanonymous=0&pid=542934#c542947\"> this response</a> to a similar lament there. \r\n\r\nHonest opinion is always welcome on Groklaw. Not so dishonesty, personal attacks or bad language. All this is made perfectly clear on the very page where postings are authored, and it has been the subject of countless discussions over the years. Fact is, since we are only guests we have to abide by the house rules. \r\n\r\nI never saw your many postings, I think; according to PJ, not many others ever did either.\r\n\r\n-Roland"
+-
+    name: ''
+    mail: ''
+    subject: 'If MS buys into ODF, the games REALLY begin'
+    hostname: 128.32.251.77
+    created: '1173289393'
+    body: "[anonymous *coward*? no, just too lazy to remember yet another login . . .]\r\n\r\nIf MS should abandon OOXML and adopt ODF, we know from experience how they work with standards. As they did with HTML. They soon tack on their own \"enhancements\" that only run under Windows (as they did with Java as well). Surely the standards folks won't mind if MS just throws in an *extension* saying if this document is opened under MS Office you'll see the formatting, but if you open it in OOo you'll just see plain text? Throw in enough enhancements, \"certify\" enough MS techs in corporate IT departments so they get a real warm and fuzzy feeling about implementing the MS Office extras, and MS can develop widespread reliance on its \"enhancements\" to ODF. We wouldn't want standards to stand in the way of great new features, would we? \r\n\r\nEven if the EU really held MS's feet to the fire and forced them to fully disclose the details of the enhancements, MS would make them complicated enough that they could keep rolling out new ones faster than open source folks could implement them.\r\n\r\nOpen source folks have the competive disadvantage that they are developing in an open, transparent system, where MS engineers can immediately pick up on anything valuable in progress and duplicate or enhance it, releasing it simultaneously, and make it interoperate better with their own (under this scenario) ODF enhancements. But MS, even if forced to eventually disclose the code or APIs of such ODF enhancements, does all its development behind closed doors, making it as hard as possible for open source folks to develop equivalents until late, when MS is already preparing to release the next version of the enhancement. So MS can continue to parasitize the works of open source developers, while keeping the world tithing on what it develops. A cycle that will continue until people really add up the costs of using that next incremental goodie from MS.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'To underscore your last'
+    hostname: 212.183.50.128
+    created: '1173296071'
+    body: "To underscore your last point: Microsoft and standards: <a href=\"http://www.groklaw.net/articlebasic.php?story=20070108020408557\">Expert Testimony of Ronald Alepin in Comes v. Microsoft - Embrace, Extend, Extinguish</a>\r\n\r\n(There was a wealth of very enlightening material on the web site for the trial. The web site is down but the exhibits are <a href=\"http://www.groklaw.net/articlebasic.php?story=20070220083801959\">still around</a>.)\r\n\r\nMy favorite bit from Exhibit 3096 (\"Evangelism is war\"), from a company-internal presentation to Microsoft evangelists:\r\n\r\n\"We must earn the support of ISV's ... We work hard to help our ISV's succeed! ... So, We're Just Here to Help Developers, Right? ... <strong>We're Here to Help Microsoft!</strong> Microsoft pays our wages. Microsoft provides our stock options. Microsoft pays our expenses. We're Here to Help Microsoft By  helping those developers That can best help Microsoft Achieve Microsoft's objectives. Did anyone miss the point here?\"\r\n\r\nIt might be the case that by standardizing OOXML, Microsoft doesn't try to help its customers or the developers of free software Office alternatives as much as it tries to help Microsoft.\r\n\r\nThat's the concern. Maybe Microsoft's intentions are all good this time (yeah, right!), but it might not be clever to trust in that.\r\n"
+-
+    name: 'Edward Macnaghten'
+    mail: ''
+    subject: 'Both support it, but...'
+    hostname: 62.253.128.14
+    created: '1173303092'
+    body: "Both ODF and OOXML support OLE linking/embedding - OOXML however specifically treats MS proprietary closed formats as special.\r\n\r\nEddy"
+-
+    name: ''
+    mail: ''
+    subject: 'That is an embarrassing'
+    hostname: 62.58.36.59
+    created: '1173346267'
+    body: "That is an embarrassing reply.\r\nFirstly because ODF also has special embedding for Sun's java applets as well so it is not just something from MS that get special treatment in ODF.\r\nSecondly because OLE linking and embedding is not limited to embedding of propriety Microsoft formats or closed formats what you are suggesting. You can also OLE embed ODF files in OOXML and OLE embed OOXML in ODF. \r\nThirdly you mention a special enumeration type for OLE embedding as an issue/problem in the OOXML spec but when it comes to ODF special exemptions in the specs it is suddenly ok ???\r\n\r\nIt look like watching at the different specs with a double standard.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'That is exactly what OOXML suggests you do !!!'
+    hostname: 62.58.36.59
+    created: '1173346533'
+    body: "Wow, you are exactly describing the exact properties of the date1900 formats in OOXML.\r\nStoring them in a file as numeric, no need to convert and interpreting as date them on runtime. \r\nAmazing...\r\nThat is exactly what OOXML suggests you do.\r\nYou just gone from someone against that date format now describing it as a solution.\r\n\r\n\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Date format issue not about readability'
+    hostname: 62.58.36.59
+    created: '1173365687'
+    body: "What has human readabiltiy to do with storage of dates in an spreadsheet file in a zip package.\r\n\r\nShowing a date to a user in a spreadsheet is determined by the included formatting and the implementing application. \r\n\r\nActyally we still have to wait and see how ODF inplementations will deal with showing dates according to their timezones. Will spreadsheets convert to the timezone of the reader or show the date in the timezone of the maker ? How will those spreadsheets deal with files created in ne timezone and editted in another timezone. Remember that in spreadsheets in general dates are generalle inserted without with a timezone so that it is up to the implementation to apply a timezone. Enjoy the hell that is ISO dates when using spreadsheets globally within a company.\r\n\r\nAt most ISO 8601 should be an alternative storage format for dates in spreadsheet cells. However the complexity of such a format is startling and people do not understand that it is MUCH MUCH more difficult for spreadsheets interpretation than a numeric format. Having build a small spreadsheet once the idea of ISO dates alone is just giving me headaches"
+-
+    name: 'Edward Macnaghten'
+    mail: ''
+    subject: 'To embarrassed...'
+    hostname: 62.253.128.14
+    created: '1173370845'
+    body: "See <a href=\"http://www.freesoftwaremagazine.com/node/2110#comment-65123\">this comment</a>.\r\n\r\nEddy"
+-
+    name: ''
+    mail: ''
+    subject: 'Groklaw, not grokdoc'
+    hostname: 86.84.111.211
+    created: '1173422563'
+    body: "Most of my comments were made in this article http://www.groklaw.net/article.php?story=2007030308154032#comments\r\nand sever articles in the weeks before that:\r\n\r\nOf course you won't find them anymore as they were removed. \r\nTry adding in a article positif on OOXML or nagatif on ODF and it is gone in a few minutes\r\n\r\nThe Wraith.\r\nhttp://ooxmlhoaxes.blogspot.com/\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'I think honest opinion is'
+    hostname: 86.84.111.211
+    created: '1173422786'
+    body: "I think honest opinion is only welcome on Groklaw if it supports the views of the site. \r\n\r\nThe Wraith\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Open XML - A confusing name'
+    hostname: 216.226.42.78
+    created: '1173454485'
+    body: "Open XML is a confusing name. XML is a standard and it is already open. true or not?\r\n\r\nEOOXML is simply cryptic. \r\n\r\nNone of the two names indicate the usefulness of the standard, unlike ODF (Open Document Format). There is no  needs to put XML in the name just because the format use it. Why not simply call it OOD (Office Open Document) or better MS-OOD (Microsoft Own Our Documents)?\r\n\r\nIt is true that the other naming convension aren't meaningful either (IEEE-1394, ISO-639), but they are related to the standardization process and they are used because they implicitly say they are a standard and where to get the description.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Standard names'
+    hostname: 86.84.111.211
+    created: '1173517309'
+    body: "Actually ODF used to be called Open Office XML format when it started it's life in the OASIS technical committee. However they changed the name that related to much to OpenOffice to match the fictive name (Open Document format) mentioned in some government report on standard for documents (not sure if it was an EU or a US report though).\r\n\r\nThe Wraith"
+-
+    name: ''
+    mail: ''
+    subject: ODF/ODA
+    hostname: 209.6.214.238
+    created: '1173579733'
+    body: "I suspect the \"fictive\" name was \"ODA\" (which IIRC had several expansions during the decade around 1990.  Seems to me one was \"Open Document Architecture\".  There was a big standards fight between ODA and SGML (which itself might be considered a predecessor of XML), which was effectively won by SGML and the ODA community essentially dissolved.\r\n\r\nDeepOne"
+-
+    name: ''
+    mail: ''
+    subject: 'Take a look at the compatiblity tab in word options'
+    hostname: 65.110.29.243
+    created: '1173586790'
+    body: 'Take a look at the compatiblity tab in word options. All of the options like footnoteLayoutLikeWW8 are because Word need to store these options.'
+-
+    name: ''
+    mail: ''
+    subject: 'Visit www.anyofficesuite.org'
+    hostname: 212.130.128.111
+    created: '1173644232'
+    body: 'Take a stand. Support ODF. Visit http://www.anyofficesuite.org .'
+-
+    name: 'Geoffrey Lehr'
+    mail: ''
+    subject: 'Not at all'
+    hostname: 38.116.136.215
+    created: '1173725684'
+    body: "Except for the first one, they look like date differentials or definitions to me (a week's worth of days, a year's worth of months, etc), so without a baseline date (which I presume the first one is), they can't (shouldn't) result in dates.  They could just as easily be a bunch's worth of bananas, or a carton's worth of eggs, so, yes, since <strong>they're not dates</strong>, they should be stored as numbers, and converted to a date if/when they need to be made permanent.  The first one, however, should be stored as an ISO date (whatever that date's value is; I don't know or care, but I <em>would</em> know if it were ISO).\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Numeric date'
+    hostname: 86.84.111.211
+    created: '1173738486'
+    body: "They look like is a good description. I picked numbers that might have some meaning to people. However a conversion program cannot distingish between numbers in that way. Also we stil have no idea how ODF will solve things like subtracting dates which can have different time-zones, how ODF will deal with iso 8601 periods in formula's and lots more. \r\nI think that when ODF finally shows up with a formula's languages they will probably have reduced the ISO date format to a subset that can be represented by numerics completly dropping timezones and periods and anything that gives iso dates more value as a format above a numeric format. Else it just would be to hard to implement for every software builder.\r\n\r\nA ISO date is just a complex representation of a continuous timeline. A numeric date is a simple representation of a continuous timeline. For use in spreadsheets, ISO dates are overly complex and will need to be toned down dramatically so they are not much more than a formatted numeric date. "
+-
+    name: ''
+    mail: ''
+    subject: 'Sorry but it does matter'
+    hostname: 24.61.19.69
+    created: '1173790456'
+    body: "Sorry, but it does matter!\r\n\r\nWhy? Documents are not only interchanged at this point in time. They are stored, archived and retrieved.\r\n\r\nIn order to retrieve an archived document you must have software that is the original or compatible. However, commercial vendors and their proprietary formats tend to drop compatibility, once they have eliminated a competitive product. That means you can't access your document any more.\r\n\r\nWhy is that different with an open standard? Well, because it is not a secrete and you are legally able to write any conversion to a new format that may have superseded it. And surely when many applications support the same (agreed upon) format then chances are much higher that compatible software will survive.\r\n\r\nWhy is that important? Imagine you need the document in your divorce or to proof your inheritance. Image it is a document that proofs your claim to a piece of land or that you are innocent of a crime?\r\n\r\nK&lt;o&gt;\r\nBusy, <a href=\"http://openoffice.screencast-tutorials.com/\" title=\"professional software support for non technical users\">documenting OpenOffice.org with screencasts</a> "
+-
+    name: 'Geoffrey Lehr'
+    mail: ''
+    subject: ...
+    hostname: 38.116.136.215
+    created: '1173798361'
+    body: "No, a conversion program can't recognize the meaning of different numbers, which is the entire problem of using the 1900/1904-based integer in the first place!\r\n\r\nIf the timezone is specified in the ISO date, there's no problem whatsoever with any manipulation, and if not, well, a user has the same problem anyway when entering dates: are they entering the current timezone? Universal? Something else?  Not a unique problem.\r\n\r\nI think that you underestimate software builders, and overestimate the difficulty of implementing ISO 8601, but time will tell."
+-
+    name: ''
+    mail: ''
+    subject: 'ISO format would be a good choice if...'
+    hostname: 62.58.36.59
+    created: '1173976525'
+    body: "Using the ISO 8601 format would be a valid ch=oice is there was a need for the more advanced features this format has. \r\nSo if there is a requirement for timezones or datetimeperiods to be stored in spreadsheets cell (and I must say I have never seen anybody even remotely suggest such a requirement) then the ISO format would be a good choice. \r\nBut at the moment date storage requirements suggest that a low level numeric date field is still a logical choice.\r\nAlso in the OOXML spec a subset of ISO 8601 dates for spreadsheet cell storage would be be easy to add in a future version (allthough not nescesarily easy to implement).  \r\n\r\nThe Wraith\r\nhttp://ooxmlhoaxes.blogspot.com/"
+-
+    name: ''
+    mail: ''
+    subject: Stupid
+    hostname: 81.153.250.8
+    created: '1174082491'
+    body: "...apart from the fact that, being an open standard, it's fully documented, therefore relatively straightforward to apply. D'OH!\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'We say about open format...'
+    hostname: 89.249.129.254
+    created: '1174145122'
+    body: "Sorry for my english :[\r\nConvert datetime to numeric is very easy, and nobody has question about this. \r\nBut all discussion about converting numeric to datetime.\r\nI have done one test in OpenOffice Calc: set cell A1 = 1980.01.01, set cell A2 = 1 and A3 = A1+A2. After that, I have formated cell A3 to DateTime (dd.mm.yyyy) and have got display result = 02.01.1980. Then save file and have seen that OpenOffice write into file. What do I see? First cell have value = 1980.01.01, next cell = 1 and last cell have formula. It is very clear.\r\nBut if first cell have value like Open XML that I have seen value = 29221. And if I don't correct use base date (1900 or 1904) I will have error, but I never have error with OpenOffice format.\r\n\r\nWhen we use open format we must know how convert value to date\r\n\r\nSergey"
+-
+    name: ''
+    mail: ''
+    subject: 'The only reason you guys'
+    hostname: 24.30.230.131
+    created: '1175039858'
+    body: 'The only reason you guys rail against the standards process is because the only lame argument is that the format used by the most people is not technically a standard. lol. intellectual dishonesty.'
+-
+    name: ''
+    mail: ''
+    subject: 'Wow! You have too little time to save your life!'
+    hostname: 131.111.135.146
+    created: '1175099063'
+    body: "Say, if you buy a freezer and start using it. However, the freezer is so designed that once you put your food inside you cannot transfer it to another freezer of a different make, because its incompatible anymore. Would you accept that?\r\n\r\nWhy then do you want to lock your data/intellectual thought/hardwork/whatever in a document format (eg., MS Word's .doc fromat) that would be reliably readble only by a single vendor's product (eg., MS Word)? \r\n\r\nEven worse, imagine if you would need the exact same model in the freezer example, as is often the case with documents–you often need the same exact version of the software for complete reliablity."
+-
+    name: ''
+    mail: ''
+    subject: 'Thank you'
+    hostname: 70.251.17.144
+    created: '1175149380'
+    body: "Ed,\r\n\r\nI read your soliloquy with interest.\r\n\r\nHowever, I find myself torn.\r\n\r\nIn general, I believe standards are good. However, I have found what I consider counter-examples... Cases in which standards, rigidly observed, render the subject of the standard more complex, burdensome, and opaque than necessary. None of my examples target Office products, so I beg your indulgence...\r\n\r\nIn the programming world there are language standards. One of those standards is <em>ISO/IEC 7185 Pascal</em>. Per the section 6.8.3.5 <strong>\"Case-statements\"</strong> states <cite>\"One of the case-constants shall be equal to the value of the case-index upon entry to the case-statement; otherwise, it shall be an error.\"</cite>\r\n\r\nVarious Pascal vendors have --in my opinion-- properly violated the standard by providing a vender-supplied-violation to section 6.8.3.5, namely a \"catch-all\" statement (usually implemented as <strong>otherwise</strong> or <strong>else</strong>). Alas, there is no syntactic standard for the \"catch-all\". Therefore, porting code from one compiler implementing a \"catch-all\" to another implementing a \"catch-all\" requires some minor text changes. On the other hand, writing code that strictly adheres to the standard results in code which in my experience (a) is more complex, (b) has reduced readability, and (c) has increased maintenance costs.\r\n\r\nMany other areas in the (Pascal) standard are also deficient... to the point the standard is pretty much irrelevant. While I find those details sufficiently annoying that I would not willingly use a product that implemented only the standard, those details are not relevant to the point I am trying (probably unsuccessfully) to make... that while official standards are generally good:<ul>\r\n<li>they are never perfect;\r\n<li>they are out-of-date as soon as published because innovation, fortunately, does not stop;\r\n<li>the standards process may be hijacked by parties with political agendas, which results in standards that are of limited use to anyone else.\r\n</ul>\r\n\r\nI have no good solution to the problem...  Other than my old man's general caveat:\r\n<strong>\"Scrutinize everything, trust no-one.\"</strong>\r\n\r\nKeith\r\nFull disclosure: I own stock in MSFT & SUNW. I use MSFT and Sun products. I have been programming for 30+ years. And have worked on O/S and hardware platforms that no longer exist (thank goodness!). I've written applications in many dialects of Pascal (many of which also no longer exist), as well as Fortran, Lisp, Prolog, PL1, Java, JavaScript, HTML, ColdFusion, C, Basic, Ada, assembly and as well as other languages which are fortunately extinct. I've written various kinds of language translators, successful commercial applications, federal government applications, robot, space-shuttle and accident simulations, data manipulators, etc. None of which means anything and all of which sounds more impressive than is true in reality.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Common sense wisdom ... "Scrutinize..."'
+    hostname: 206.222.219.9
+    created: '1175285287'
+    body: "<cite>Scrutinize everything, trust no-one.</cite>\r\n\r\nMy grandfather had a saying he liked to use: \"Figures don't lie, but liars sure do figure.\"\r\n"
+-
+    name: johny9
+    mail: oksd55@hotmail.com
+    subject: wow
+    hostname: 41.249.50.122
+    created: '1185323011'
+    body: 'this is the best article that iv read in my life, thanks for everyone who posted.'
+-
+    name: 'Alexei A. Korolev'
+    mail: alexei.korolev@gmail.com
+    subject: 'Too young'
+    hostname: 87.119.239.100
+    created: '1186651096'
+    body: 'I think OOXML is too young to be a standart, it requeire time for stable.'
+-
+    name: engineers
+    mail: koko@kokolo.com
+    subject: 'not that perfect.'
+    hostname: 82.77.18.136
+    created: '1189611535'
+    body: 'OOXML is supposed to be a standard for document interchange that uses XML but sometimes nothing can be perfect. Before a company starts to ship programs they put <a rel=follow href="http://www.usacitiesonline.com/meba.html">engineers</a> to the test. Sometimes flaws can get unnoticed i guess.'
+-
+    name: 'Anonymous visitor'
+    mail: dsgff@yaho.com
+    subject: 'agree that open standards'
+    hostname: 81.9.16.72
+    created: '1190653380'
+    body: "agree that open standards are best, but ODF has major shortcomings in it's spreadsheet format. \r\n<strong>SIG</strong>\r\n----\r\n\r\n\r\n\r\n"
+-
+    name: 'Barry Jomeneos'
+    mail: ''
+    subject: 'I think if it''s not ready'
+    hostname: 70.121.155.7
+    created: '1223085940'
+    body: "I think if it's not ready yet, MAYBE like 6-12 more months. IMO it's ready now, but some people, such as yourself, disagree.\r\n\r\nIs there something specific you're waiting for or looking for to make it official?\r\n\r\n-------------\r\n<a href=\"http://www.uploadscript.com/scripts/ajaxuploadscript.php\">Ajax Upload Script</a>"
+-
+    name: samuelstanislas
+    mail: ''
+    subject: 'We always choose the'
+    hostname: 89.41.221.4
+    created: '1244501598'
+    body: "We always choose the simplest path possible. I guess this is why we prefer using Microsoft Office for our documents. This way we're pretty sure that everyone who needs to receive them will be able to open them. M.O. has become a standard when dealing with documents. Some of us here feel the need to use other, perhaps better, applications that suit our needs but that aren't compatible with other people's habits.\r\n"
+-
+    name: TrisT
+    mail: ''
+    subject: wow..
+    hostname: 88.234.94.118
+    created: '1250438348'
+    body: "Who cares, as you said people without Microsoft Word can read the format anyway. It's become a standard because everyone uses it, a \"standards body\" is only needed when this doesn't happen and everyone has different formats.\r\n\r\n\r\n<a href=\"http://www.kartus.web.tr\" rel=\"external\">kartuş</a>"

@@ -1,0 +1,28 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'We used Knoppix for teaching'
+    hostname: 66.118.56.214
+    created: '1149071851'
+    body: "We wanted to teach a class on basic Linux use with computers at our local CompUSA, but we weren't allowed to replace the operating systems on the computers in their computer lab. So we just printed up a collection of Knoppix CDs, and booted all the computers with that. It worked beautifully.\r\n\r\nUnfortunately, the class didn't attract many students, so it was a short-lived experiment. But the technology worked great.\r\n"
+-
+    name: 'Hans Juergen Godau'
+    mail: ''
+    subject: 'Consider SIDUX, TOO!'
+    hostname: 89.245.252.37
+    created: '1181056554'
+    body: "I have successfully usede the Knoppix-derivatiev Sidux (http://www.sidux.com) for setting up new Laptops and Desktops. The nice thing about sidux is you get a \"bleeding-edge\" but Debian-unstable based Linux-System. After installing to hard-disk, you can use standard debian utilities for upgrading and installing of additional packages. The standard CD-image contiains KDE + OpenOffice+everything needed for multimedia/Web-Browsing!!!\r\n\r\n<strong>Very Warm recommendation</strong>\r\n"
+-
+    name: 'Anand B Mane'
+    mail: unix_anand@yahoo.com
+    subject: 'Knoppix CD'
+    hostname: 202.177.254.204
+    created: '1183359863'
+    body: "Hi,\r\n\r\nI am working on Sun Solaris and RHEL4 platforms. I really impressed with knoppix, this looks different from RH. Can I get one copy of knoppix Linux if possible.\r\n\r\nThanks and regards,\r\n\r\nAnand B Mane.\r\n"
+-
+    name: 'daniel fox'
+    mail: mechanicfox@gmail.com
+    subject: 'RE: knoppix CD'
+    hostname: 89.43.83.185
+    created: '1187801050'
+    body: "Hi,\r\nyes it is possible to download directly the iso image from the official \r\nsite, burn it on a CD, and install the OS from it, or to install it from a clone CD from someone.\r\nPlease give me an e-mail with your postal address to send you a copy of\r\nknoppix 5.1 CD.\r\nFREE LINUX FOR FREE MEN!!!!"

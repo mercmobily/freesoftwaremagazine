@@ -1,0 +1,56 @@
+-
+    name: 'Anonymous visitor'
+    mail: nospam@dev.null
+    subject: 'w3m is another text based'
+    hostname: 75.205.251.12
+    created: '1192668703'
+    body: 'w3m is another text based browser. http://w3m.sourceforge.net/'
+-
+    name: 'Anonymous visitor'
+    mail: nutter78@gmail.com
+    subject: 'Web Based Browser'
+    hostname: 196.25.255.218
+    created: '1195023937'
+    body: "Try elinks - much better than lynx ;P\r\n\r\n"
+-
+    name: Wolfric
+    mail: wolfric@xnet.co.nz
+    subject: 'nice article'
+    hostname: 219.88.101.63
+    created: '1195507586'
+    body: "I use a lot of CLI apps in conjunction with ssh and screen.\r\n\r\nI also recommend ncftp for ftp transfers and irssi for irc.  And for IM I use bitlbee inside irssi :)\r\n\r\nDo elinks or w3m support https?  As that is an issue for me with links.\r\n\r\nCheers"
+-
+    name: jhenkins
+    mail: jan.henkins@gmail.com
+    subject: 'Graphical browsing on CLI'
+    hostname: 81.178.36.84
+    created: '1195597558'
+    body: "Nice article!\r\n\r\nBy the way, being in CLI mode does not mean one has to forgo all creature comforts like a browser with inline graphics, links is your best bet. OK, not as \"complete\" as GUI browsers, but it supports SSL, frames, Javascript and most sensible graphics types. For it's graphical layer it can use X, DirectFB, framebuffer and SVGAlib."
+-
+    name: 'Chris Lees'
+    mail: webmaster@dancepop.zzn.com
+    subject: 'Another good browser'
+    hostname: 58.179.210.68
+    created: '1195611458'
+    body: 'Links2 can work, with text only or *including images*, in an Xterm or even on the framebuffer! Well worth checking out.'
+-
+    name: pvdg
+    mail: ''
+    subject: 'pvdg@laptop:~$ thank you'
+    hostname: 80.172.42.65
+    created: '1196902793'
+    body: 'The more I learn about it, the more I like the command line. Thanks for the excellent tips! You could add mp3blaster for playing music.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: w3m
+    hostname: 68.93.224.4
+    created: '1197389315'
+    body: "I also use w3m. As far as I am concerned it completely obsoletes Lynx. The thing is, Lynx has always had the limitation that it does a lousy job of formatting tables, but w3m handles them easily. Most web pages, even ones that are not specially designed for text browsing, are entirely usable with w3m.\r\n\r\nw3m can also do a lot of other tricks, like correctly handling cookies, that few text browsers can do. It's also a nice paging program for on-disk browsing.\r\n\r\nI consider it an essential shell program on any system I use.\r\n\r\nNow, it's not stream-based, you do need to have curses (I don't know whether that's true of Lynx or not).\r\n"
+-
+    name: kevin22
+    mail: ''
+    subject: 'Here’s how you can install'
+    hostname: 85.140.195.81
+    created: '1264085280'
+    body: "Here's how you can install lynx on OsX:\r\n\r\nwget http://lynx.isc.org/lynx-2.8.3/lynx2.8.3.tar.gz  \r\ntar zxvf lynx2.8.3.tar.gz  \r\ncd lynx2-8-3  \r\ncp /usr/libexec/config.guess .  \r\n./configure  \r\nmake  \r\nsu  \r\nmake install  \r\n"

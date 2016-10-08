@@ -1,0 +1,21 @@
+-
+    name: tinker
+    mail: ''
+    subject: 'Been there several times, got'
+    hostname: 88.210.170.230
+    created: '1337281680'
+    body: "Been there several times, got the T-shirts to prove it. \r\n\r\nI now operate a policy of never purchasing an ebook with drm, and I inform the seller(s) that I am not buying from them due to drm. The step that most people will disagre with is, if I cannot find a drm free copy of whatever ebook I am looking for then I find it somewhere on the dark web for free and I inform the seller(s) that I have d/l an illegal copy as they cannot provide me with a none drm copy and ask them to sue me if they want. \r\n\r\nI have so far never been sued."
+-
+    name: gnimsh
+    mail: ''
+    subject: 'epub drm removal in linux'
+    hostname: 209.6.53.59
+    created: '1337288940'
+    body: "I've gone through this myself but am fully devoted to not doing it in windows.\r\n\r\nThe process is a bit complicated but I've written up a guide for Reddit's DRMRemoval subreddit which I hope you'll find helpful.\r\n\r\nSave the ACSM file. Run adobe digital editions in wine. I've found it to be fickle and sometimes won't open the file from file>open, but often just dragging and dropping the acsm file into DE does the trick.\r\n\r\nInstall python and pycrypto under wine. Then install adobe digital editions under wine [manual install link:](http://kb2.adobe.com/cps/403/kb403051/attachments/setup.exe) for manual install since their flash installer is crap).  Remove the DRM from the book using the scripts provided (this will be done from the python program entry in wine).  You need to do this to get the decryption key file, but it only needs to be done once.\r\n\r\nDownload the calibre plugins from [my dropbox](https://dl.dropbox.com/u/126575/CalibrePlugins.zip) and install the adobe inept plugins. Go to the folder where the key for the DRM removal was created (this is wherever the book is saved when you ran it through the python script) and copy the file. Find your calibre config dir (preferences>miscellaneous>Open calibre configuration directory.  Drop the key into this folder. From now on you'll need to do is drag these files from wherever you downloaded them to calibre and the DRM will be removed automagically."
+-
+    name: gnimsh
+    mail: ''
+    subject: 'No DRM removal software needed'
+    hostname: 209.6.53.59
+    created: '1337289360'
+    body: 'Please also request a refund for that DRM removal software you purchased. According to [teleread](http://www.teleread.com/drm/commercial-e-book-drm-cracking-apps-charge-for-what-is-freely-available-on-line/) it is most likely charging for the scripts freely available as standalone python scripts or part of the calibre DRM removal plugins.'

@@ -1,0 +1,154 @@
+-
+    name: alex2echo
+    mail: aaa@aaa.com
+    subject: 'It would have been more fair'
+    hostname: 86.34.13.13
+    created: '1176412073'
+    body: "It would have been more fair to try Windows XP, not 2000.\r\nOther than that I totally understand your pain ... FAT32 is such a piece of crap file system that I feel sick just hearing about it.\r\nBut unfortunately it is a standard used by lots of devices.\r\n\r\nBTW ... you can install in windows a driver to make windows recognize ext3 partitions.\r\nFrom a quick search I found this: http://www.fs-driver.org\r\n\r\nYou are right, Debian is a stable and mature system, and it deserves some credits.\r\nDon't give up on it :)"
+-
+    name: 'Anonymous visitor'
+    mail: abc@123.com
+    subject: 'Why weren''t you using'
+    hostname: 64.85.238.50
+    created: '1176414373'
+    body: "Why weren't you using Windows XP? You wouldn't have had so many problems if you would just gone with the Windows OS that has the most driver support and larger userbase. \r\n\r\nShame on you for distorting the truth."
+-
+    name: 'Jeffery Hudson'
+    mail: ''
+    subject: 'welcome to the world of windows...'
+    hostname: 144.38.130.54
+    created: '1176416087'
+    body: "My friend, I would love you to tell you that you just had an unlucky week, but I'd be lying to you if I told you that. :)\r\n\r\nHow do normal people cope?  They don't.  If they are lucky, they call a friend/family who is computer literate and let them try to handle the mess.  If they are unlucky they do one of three things.\r\n\r\n1.  They take the machine to a shop to be 'fixed'.  It doesn't matter that the machine may or may not be broken, it needs to be 'fixed'.  For this privilege they end up spending a few hundred dollars.  By the time the machine is returned to them they could have a great down payment on a new machine.\r\n\r\n2.  Those few smart one's who realize that getting the machine 'fixed' is a waste of time just go out and get a new machine.    Then the process starts all over. :)\r\n\r\n3.  They just give up and do NOTHING with the computer.  They live in a world of fear.  They know the computer is hopelessly broken but they are too afraid of losing 'valuable' data (like the solitare game that came with that copy of windows) to actually let anyone fix it.\r\n\r\nNormal people hate computers.  They don't find the same joy in computing that 'geeks' do.  It's all to complicated and confusing for them.  Every task is a monumental challenge.  There is real fear to do anything new.  Once past email, word processing, internet, and solitaire the computer world is a truly frightening place.  And this is BEFORE trying to get them to run adware/virus protection.\r\n\r\nI teach computers for a living.  I'm amazed there is a computer industry sometimes.  I've been lucky enough to convince a handful of people to try linux and NONE of them have moved back to windows once they have made the full switch.  People truly want an alternative to the current computer world but they are to afraid of changing.\r\n\r\nYour article points out exaclty why.  "
+-
+    name: 'Stephan Gromer'
+    mail: ''
+    subject: Well
+    hostname: 84.56.244.62
+    created: '1176417680'
+    body: "First just for the records, I'd like to point out that while writing this I am actually removing my remaining Windows partition (in fact I removed the complete drive) - I don't like Microsoft and I like their politics even less.\r\n\r\nHowever, comparing a Windows 2000 system with a (presumably) rather recent Debian (or $FAVOURIT*ix) is simply comparing apples and beans.\r\nEven WinXP is now >6 years (oct-2001 in germany) old and 2000 (sep-1997) is even older.\r\nMost of the hardware I used worked fine with Windows XP and in general I had more trouble getting it to work under Linux.\r\nThe big advantage is, that - once you HAVE GPL (or other truely FOSS) drivers you are no longer in the vendor trap.\r\nIn our laboratory we have e.g. a HPLC-system which runs under Windows NT. It has two proprietary ISA-cards required for comunication with the HPLC. Now, the PC is about to die.\r\nGetting a PC with ISA-slots is already difficult. But unfortunately, the (you guessed it - proprietary) software does not run under Windows XP and only with difficulties under 2000. More recent mainboards do, however, not often work together with Windows NT. Windows NT is not an option as security updates are no longer provided. I was thinking about a virtual machine - but the ISA-cards prevent that. I was thinking about an ISA2USB-converter (which I found), but NT doesn't support USB. So in the end we had to buy a new network box to connect the HPLC via TCP/IP for \"only\" 2000 Euro. Note that we do not get *any* improvement from a users perspective (if not a deterioration: a network problem is far more difficult to track down) - it is all about updates (software -> security, hardware -> replace brolen parts).\r\nIf  all the stuff was written as OS we could have adapted the driver to the new machine simply by recompiling ...."
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'M$: Software''s Trabant'
+    hostname: 59.101.81.71
+    created: '1176422383'
+    body: "I recently had a similar reaction after using XP for a few weeks. The wry laughter begins to take on the hard edge of hysteria, as images of M$ executives, hanging from lamp posts, begin to blot out the endless error messages displayed on the screen.\r\n\r\nM$ aspires to being a world monopoly, and like every other monopoly it fails all attempts at innovation and treats its customers with complete contempt, by selling them overpriced garbage.\r\n\r\nCompare M$ operating systems with the state monopoly Soviet Union's attempts to produce cars.\r\n\r\nFor years, the non-innovative Soviet Union monopoly simply made poor copies of ancient Italian designs, before inflicting on its long-suffering customers its final overpriced masterpiece; the Trabant. \r\n\r\nNon-monopoly Italy, meanwhile, was producing the Ferrari.\r\n\r\nFor years now, the non-innovative M$ monopoly has been making poor copies of other people's software and selling it as an overpriced, unreliable OS. Now it has inflicted its overpriced masterpiece on its long-suffering customers, that Trabant of operating systems, with the grand title of Vista."
+-
+    name: 'Anonymous visitor'
+    mail: a@a.com
+    subject: 'Wrong title?'
+    hostname: 151.9.87.195
+    created: '1176451895'
+    body: "\"A week with an obsolete OS, even more obsolete fs and buggy hardware\" would maybe have been a more fair title.\r\nA year 2000 Linux distro with ext2 would be a more or less comparable choice, still good for working on stable and aged hardware, but neither good to deal with big files nor to have good chances with problemathic hardware.\r\nYou should have used a 2006/2007 Linux distro on ext3 or ReiserFS as you should have used XP SP2 on NTFS, both OSes with latest patches and drivers."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Fair, unfair...'
+    hostname: 86.71.28.131
+    created: '1176454187'
+    body: "Using Windows 2000 as a comparison piece is unfair compared with using Windows XP SP2 on a few points:\r\n- XP SP2's kernel makes better use of virtual IRQs; for sound hardware, that's actually much better\r\n- Windows 2000 doesn't deal well with recent ACPI revisions (see above problem).\r\nHowever, on the whole, the two OSes are pretty much equivalent except there's no DRM crap in Windows 2000. As such, you'd have gotten pretty much as many problems with an XP machine, if not more.\r\nYou may have solved your burner troubles by installing the Adaptec SCSI drivers. Yes, you gotta know about that trick.\r\nYou may have solved your sound problems with disabling ACPI: setting the kernel as 'Standard PC' disables the use of virtual IRQs, most often source of sound/graphics problems and BSODs with IRQ_NOT_LESS_OR_EQUAL.\r\nThe ext3 win32 driver works better with NT5 (Win2k) than NT5.1 (WinXP); it doesn't however work as well as under Linux (no journaling, fragmentation appears faster).\r\nSeveral softwares use 32-bit addressing to size their output; the file system as such doesn't matter much, as you've seen.\r\nNTFS isn't terra incognita for Linux anymore: a working, final, read/write driver came out a few months ago.\r\nNero has gotten huge and bloated; get CDburnerXP instead. It looks a lot like k3b.\r\n\r\nHowever, if you can do all your stuff on GNU/Linux, stay there. I did.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Steven Goodwin'
+    mail: ''
+    subject: 'Why 2000 over XP?'
+    hostname: 82.69.78.105
+    created: '1176478757'
+    body: "Since this has come up a couple of times I feel I'd better clarify.\r\n\r\nI have a legal copy of 2000. I do not own a copy of XP, legal or otherwise. I will not purchase something for the sake of a blog article (sorry, I'm not that rich!), nor will I purchase something that doesn't fit my needs. In the case of XP, this is due to restrictions placed through DRM. If Bill Gates wants a follow-up article putting XP on trial, then I'm willing to accept a copy!\r\n\r\nI should also clarify that I'm not comparing W2K with my up-to-date Debian box, per se. (I've had many problems with Debian over the years, but none that seemed as braindead as the ones I noted above.) This is merely to reference the issues I had while using W2K. No truth distortion is present, or should be inferred."
+-
+    name: leonpmu
+    mail: ''
+    subject: 'Some people don''t seem to read'
+    hostname: 196.192.66.5
+    created: '1176690873'
+    body: "You guys are all bleating about XP, the writer has re-iterated that he does not have alegally paid for copy of XP, and will not pay to do so, just for the hell of it.BTW windows 2000 is not circa 97, it is circa '99.  As for windows XP being the b all and end all of woes, I am a PC tech, who even has enough hell with my wife's machine running XP adn just for no apparent reason not finding the wireless network after a reboot.  Requiring another reboot and more downtime.\r\n\r\nI feel your pain, but then, there is no perfect OS.  I will say though, that Linux gives awesome log files, so that you generally know what is going wrong.  Whereas windows likes to pretend that there is no problem whatsoever.  \r\n\r\nMy only question to our intrepid writer is - did you install service pack 4 for windows 2000?"
+-
+    name: 'Steven Goodwin'
+    mail: ''
+    subject: 'My only question to our'
+    hostname: 82.69.78.105
+    created: '1176709121'
+    body: "<cite>My only question to our intrepid writer is - did you install service pack 4 for windows 2000? </cite>\r\nYep. SP4 is running on both Windows machines.\r\n\r\nAs for Windows pretending there is no problem - agreed 100% I wish I'd mentioned that in the article!\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: a@a.com
+    subject: '"You guys are all bleating'
+    hostname: 151.9.87.195
+    created: '1176795406'
+    body: "\"You guys are all bleating about XP...\"\r\n\"BTW windows 2000 is not circa 97, it is circa '99\"\r\n\"I will say though, that Linux gives awesome log files, so that you generally know what is going wrong.\"\r\nSo, to be fair, please install a 1999 Linux distro, using with EXT2 to be comparable with FAT32, and try to accomplish the same tasks on the same hardware, and if you manage to get it better in that week, spend the rest of the time tracking the marvellous error logs to know exactly what went wrong and why...\r\nOr else, install an up to date Linux or BSD or Solaris or OSX or Windows system, place the data on a decent FS (ReiserFS, EXT3 or even NTFS), spend some bucks to replace buggy hardware, and do the same job in a douple of day, with the remaining day spent to do some other job which will full payback the bucks spent for decent hardware and for a well supported distro (even Suse and RedHat developers eat!)"
+-
+    name: ' wordspeake'
+    mail: wordspeake@verizon.net
+    subject: 'A Week With Windows'
+    hostname: 71.188.2.27
+    created: '1176845039'
+    body: ' My first OS ever--in fact, my first computer ever-- had the pre-installed nightmare called Windows XP. Four years later,the cd player still won''t let go of whatever it read before,--reboot--then it screws up Nero--I put that in trying to end the control of the clutching monster--  I constantly have to "re-install" bits of MS Word that mysteriously vanish--always when I need to use it--when else? and having been forced by the DSL IP to install some spyware program--an adware trojan, fortunately picked up by ZA-- that only registers the router and service using IE and active X, I have to boot the piece of MicroSwiss so I can reboot--this time to a sane piece of software, Ubuntu 6.06-- with the connection made. This leaves out all the horrors of backdoor trojans let in by their crappy firewall, two solid days of not being able to work on an important project deadline, trying to recover from the effects of the "Genuine Windows Advantage" that overrode MY Admin rights, disengaged Zone Alarm firewall,(the MS "tech support" dutifully warned me about "third party software" while they put me through the standard MS pablum "fixes") and brought up that ugly blue E browser, which somehow felt it should run no matter how many times I disabled it. Have you ever tried to follow a Microsoft bulletin to anywhere it makes an enlightening,informative,definitive statement?  Try doing it as a new computer user. They''re so helpful within the system as well--"XML files are of type XML"  One enlightening thing XP did for me: It made me look for something else--and in so doing, I realized Microsoft for what they really are.'
+-
+    name: 'Anonymous visitor'
+    mail: av@mailinator.com
+    subject: 'Not just Windoze problems'
+    hostname: 82.29.140.49
+    created: '1177010269'
+    body: "My Linksys WRK54G router doesnt hold a connection for more than a day when I have a Windoze machine plugged into it, so think yourself lucky! It's probably more Linksys fault than Windoze, but I don't know. PLus the Netgear SC101 *IS* crap - everyone knows it. why did you buy one?\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Oh dear'
+    hostname: 82.108.129.98
+    created: '1177073925'
+    body: "<cite>My first OS ever--in fact, my first computer ever-- had the pre-installed nightmare called Windows XP.</cite>\r\n\r\nBoy do I feel old now!"
+-
+    name: wordspeake
+    mail: wordspeake@verizon.net
+    subject: '"Boy do I feel old now".'
+    hostname: 71.168.204.135
+    created: '1177220737'
+    body: 'Don''t sweat it Ryan--would you believe my 20 year old daughter had to first show me the intricate operations of how to use a mouse? What''s a mouse?", said I. I resisted learning anything about these diabolical machines until I HAD TO get an email address. Now the hardest thing for me is to admit I was so stubborn. Bet I''m older than you.'
+-
+    name: Guy_P
+    mail: g_platts@hotmail.com
+    subject: 'I run have windows at work'
+    hostname: 62.64.202.135
+    created: '1177342146'
+    body: "I run have windows at work but Ubuntu & PCLinuxOS at home.  Give me Linux any day.  I have actually just had to use a live Knoppix disc to rescue the XP machine as it is a Dell & doesn't come with the intsall disc that has the 'recovery console' (what a joke that is after a Linux command prompt!).  \r\n\r\nBTW knoppix worked beautifully on the NTFS file system :0)\r\n"
+-
+    name: 'Chris Lees'
+    mail: webmaster@dancepop.zzn.com
+    subject: 'It was a fair test'
+    hostname: 58.178.217.49
+    created: '1177412166'
+    body: "Whenever there is a poll of \"What was the best version of Windows\", Win 2000 always comes out on top; with people citing its stability, comparative lack of troubles, etc.\r\n\r\nWindows 2000 is still supported by the vast majority of software and hardware, and XP is really just some extensions to 2000; so this is really a fair test."
+-
+    name: 'James Brickley'
+    mail: stottm@cox.net
+    subject: Feedback
+    hostname: 71.234.179.15
+    created: '1177418548'
+    body: "I support tens of thousands of Windows systems for a living.  I run a mix of Solaris/BSD/Linux and Mac OS X at home because I simply don't want to have to deal with Windows problems at home!  I've got one PC running Vista Ultimate merely because I have to learn it and become familiar with it.  Personal opinion?  Vista is horrid... You're gonna need top of the line hardware just to run it efficiently.  Seriously, 1GB of RAM is no longer enough, better to have 3GB's of RAM.   There are a few things I like, for example changing \"\\Documents and Settings\" to \"\\Users\" which only makes it more Unix like.  The file search is a rip off of Mac OS X Spotlight but is a welcome addition. There are enough serious compatibility problems that Circuit City & FireDog in conjunction with Microsoft are now giving out VirtualPC with a WinXP MSIE6 or WinXP MISE7 virtual image to allow users to run the virtual machine for those applications and websites that do not work with Vista yet.\r\n\r\nYour experience is far from unusual even with using the very old Win2k \"legal\" installation.  i.e. I've seen it all.  I have to jump through virtual flaming hoops of fire every single day just to accomplish basic tasks.  Murphy's Law is enhanced by adding \"\"Whatever can go wrong will go wrong, and at the worst possible time\"!  I eat, live, and breath Murphy's Law!  It rules Windows like a dark shadowy overlord of evil.  \r\n\r\nIf I could obtain a job paying similar rates to work on Unix/Linux/MacOSX instead of Windows I would jump in a heartbeat! Trouble is, Windows is so very horrible people are willing to pay me enormous amounts of money to fix their broken systems.  So I swallow my pride and fix the systems, get paid and laugh all the way to the bank and subsequently the Mercedes dealership.\r\n\r\nI have found a variety of open source tools to actually make life much easier.  \r\n\r\n1. GPartEd - Gnome Partition Editor - Bootable ISO CD image.  Supports NTFS, FAT32, EXT3, HFS+, etc., etc., etc.  - Does 90% of what Partition Magic can do for free.  Create and Resize partitions.  Latest build even has Intel Mac support.  \r\n\r\n2. BartPE - Bootable CD mini-WinXP on a RAM disk.  Fantastic for booting a dead system or to get access to the hard disk and have a network connection for backup, etc. .  BartPE is a clone of WinPE on steroids.  It's much better then WinPE and is free.  It comes with a utility to customize your boot cd with the tools of choice.  Ton's of plugin tools available, some free some not.  It does require having a legal copy of WinXP. \r\n\r\n3. DBAN - Derrick's Boot & Nuke - Fantastic secure disk wipe tool.   Available as a bootable CD ISO or even a floppy image.  Supports DoD 7 Pass wipe and greater. \r\n\r\nI wish there were more tools of this caliber that were either free or completely open source.  I've got my little bag of tricks which contains a whole lot more but much of it is neither free nor cheap.  "
+-
+    name: mykeyspace
+    mail: ''
+    subject: 'No reinstall?'
+    hostname: 213.219.158.41
+    created: '1177496340'
+    body: "One week with Windows and you didn't have to reinstall the operating system, or MS Office for that matter? Nice one!\r\n\r\nPlease don't talk to me about Windows. My nightmares (BSOD's and Fisher Price looks all over the place) were just about over...\r\n\r\n\r\nBTW: Microsoft still issues patches for Win2000, it's still officially supported and has all the latest software. So how is that not fair comparing it to a Debian system?"
+-
+    name: 'Cap''n Kernel'
+    mail: mikechege@myway.com
+    subject: 'BSOD in Win2K'
+    hostname: 62.24.114.70
+    created: '1177657304'
+    body: 'Clearly Win2K gave you a lot of problems with your hardware. But what I''d be more interested to know is whether you consider it to be an unstable system. I used Win98 and WinME before I tried out Win2K, and I found Win2K to be incredibly stable, at any rate when compared to those other two disasters. I never once experienced the BSOD in Win2K (though some people claim that it exists) whereas this was a twice or thrice-daily occurrence in Win98 and WinME. I have no desire or reason to go back to Windows, but in the interests of fairness, I think it should be admitted that Win2K and WinXP are actually quite stable systems (or else, the 3 billion that Microsoft claims it puts in R&D every year would have to be some kind of tax dodge).'
+-
+    name: 'Anonymous visitor'
+    mail: hyperspherian@mac.com
+    subject: agreed
+    hostname: 69.76.227.167
+    created: '1192683397'
+    body: 'I agree to the extent that I can say nothing else. Except... cheers!'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Linux was pretty usable in 99'
+    hostname: 68.93.224.4
+    created: '1193070383'
+    body: "Actually, I was using Debian Linux in late 1999 and early 2000. It was pretty usable.\r\n\r\nMore to the point, however, seeing as it is 2007, I <em>can legally install</em> the very latest Debian Etch system, whereas the last Windows I have legal title to is Windows 98SE (and that only because it was a gift -- I switched to Linux as soon as I saw Windows 95).\r\n\r\nI don't think it's \"unfair\" to notice this difference, since the organic way in which Linux grows and is supported is one of its many advantages. Part of the problem with Windows is that, unless you are quite wealthy and/or lucky, you are <em>always</em> installing an out-of-date version of it."

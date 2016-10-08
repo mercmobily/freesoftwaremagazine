@@ -1,0 +1,56 @@
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: Interesting
+    hostname: 69.180.163.110
+    created: '1172098282'
+    body: "Thanks, Chris.  This is <a href=\"http://www.movingtofreedom.org/2006/12/23/moving-from-microsoft-money-to-gnucash/\">a subject of much interest to me</a> also.  I've been using MS Money since 1995 and expect it to be quite a project to get moved over to GnuCash.  I like the reports in Money and suspect I'll be doing without some of the things I really like to see.  I'm also curious how the import will work with classifications.\r\n\r\nLooking forward to more installments in this series!\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: ''
+    mail: ''
+    subject: '? an alternative'
+    hostname: 194.176.105.46
+    created: '1172140892'
+    body: "Thanks also Chris. I've been using MS Money since the early 1990's and it is the one only MS program I can't do without :o(  However MS Money 2 will run well under Wine but only (in my experience) 2005 versions. I can supply more details if reqd.\r\n\r\nRegards\r\n\r\nStephen Riley"
+-
+    name: ''
+    mail: ''
+    subject: 'Card Studio'
+    hostname: 130.20.73.210
+    created: '1172167758'
+    body: 'You should try running Hallmark Card Studio on Wine.  The new version seems pretty robust.  I just started fiddling with it, but haven''t gotten around to Card Studio yet.  But a couple of things that failed in previous versions of Wine work fine now.'
+-
+    name: ''
+    mail: ''
+    subject: 'Run MS Money on Linux'
+    hostname: 65.222.219.2
+    created: '1172170476'
+    body: "I would give up dual boot to directly run on MS Money on Linux. It's fast and with the right tools very easy:\r\n\r\n<a href=\"http://mriou.wordpress.com/2007/01/04/linux-is-beautiful-especially-with-windows-software/\">http://mriou.wordpress.com/2007/01/04/linux-is-beautiful-especially-with-windows-software/</a>\r\n\r\nAlternatively you can run your stuff in <a href=\"http://www.parallels.com/\">Parallels</a>, you can run everything in it (it's a Windows VM for Linux), it's just a bit more heavyweight.:"
+-
+    name: ''
+    mail: ''
+    subject: 'You might want'
+    hostname: 139.177.224.71
+    created: '1172190947'
+    body: 'You might want to try moneydance.  I am using this and I like it very much compared to Quicken which is what I have used in the past.  Since it is a Java version you can run it on Mac, Windows, and of course Linux.'
+-
+    name: ''
+    mail: ''
+    subject: Moneydance
+    hostname: 199.46.200.234
+    created: '1172191585'
+    body: "Hello, I face the same dilemma and found out about another app called Moneydance (moneydance.com) that seems pretty good.  I installed it and imported my .qif export from MS Money.  Sorry to say that I haven't tested it beyond that.  Maybe someday..  Btw, Moneydance is not free (there's a trial period however).  But, if it works well then I have no problem in buying the software.\r\n\r\nCheers,\r\n\"Anonymous coward\"\r\nwhatever..\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Try Ledger'
+    hostname: 69.251.244.146
+    created: '1172490863'
+    body: "I too was wedded to MS Money. I did not really like any of the GUI Linux alternatives. I dual-booted for awhile just to use Money. Eventually I hated dual-booting enough to switch to GnuCash. But then I found Ledger. It's CLI, which is a completely different paradigm, but I actually like it even more than MS Money and now you couldn't pry Ledger out of my hands.\r\n\r\nhttp://www.newartisans.com/ledger.html"
+-
+    name: 'Derek Tattersall'
+    mail: ''
+    subject: Gnucash
+    hostname: 70.55.135.122
+    created: '1172521272'
+    body: 'I''ve been using gnucash for going on 6 years, and it just gets better and better.  If anyone tried it even a year or two ago, I would suggest giving it another try. I''ve studied in finance, and done bookkeeping, and I really love Gnucash.  There are a few gtk GUI oddities if using it in KDE, but I barely notice them anymore.'

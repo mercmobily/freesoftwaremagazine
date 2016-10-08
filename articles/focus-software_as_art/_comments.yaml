@@ -1,0 +1,14 @@
+-
+    name: god
+    mail: ''
+    subject: 'I want a code-poem'
+    hostname: 203.59.90.115
+    created: '1143696893'
+    body: "<strong>From</strong>: Mahthieu \r\n<strong>Url</strong>: epzactivist@hotmail.com\r\n<strong>Date</strong>: 2005-10-08\r\n<strong>Subject:</strong> I want a code-poem\r\n\r\n\r\nHi.  Very interesting read.  I would appreciate an example of great code poetry.  Thank you.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'I want a code-poem'
+    hostname: 207.30.5.14
+    created: '1158508792'
+    body: 'gcc -pedantic -Wall -o life life.c; ./life > k.eml; mail -f k.eml you'

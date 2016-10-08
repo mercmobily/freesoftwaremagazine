@@ -1,0 +1,42 @@
+-
+    name: 'http://phayes.myopenid.com/'
+    mail: ''
+    subject: 'Where to go'
+    hostname: 86.165.84.165
+    created: '1222299569'
+    body: "“Where can a new programmer go to have someone hold their hand?”\r\n\r\nMy advice to a learner (and I wish it had been the way I'd got started) would be to get a copy of GNU Emacs and hang out in #emacs on the freenode IRC network. Emacs, apart from being an Aladdin's Cave of useful and fun stuff, is enchanted: you won't need to 'learn' programming and you'll never get bored or lack a source of motivation - it'll just happen naturally :)"
+-
+    name: ezsurfer
+    mail: ''
+    subject: Learning
+    hostname: 155.109.5.23
+    created: '1222434518'
+    body: "I guess I was extremely lucky in life.  When PC's were fledglings, during my stint in the US Navy, an ex-IBM programmer came to our department.  3 years later a large core of us left very computer literate and fairly tech savvy.\r\n\r\nSo, literally, yes, someone held our hands during the learning process.\r\n\r\nWe all actually learn more by doing, and often the most painful mistakes teach us valuable lessons.  Who hasn't learned NOT to access the working copy of a database or just how valuable a backup can be????  \r\n\r\nAnyway, luckily for newbies, computer classes in local community colleges exist, and are rather mature at this point.  The skill set I see coming from these ranks is often nothing short of amazing.  So I would point to the local colleges.  Hours spent in peer study groups and lab time should pay huge dividends in the future.\r\n\r\n "
+-
+    name: pachelbel
+    mail: ''
+    subject: 'Getting by...'
+    hostname: 200.54.71.227
+    created: '1222439077'
+    body: "Hi Rosalyn,\r\n\r\nwell, first, congratulation for your new challenge. When you ask where we started studying: I did in a class and am happy about it. Having a teacher explaining you what mindset you have to adopt is definitely a plus and there are tons of mistakes that one makes at the beginning that you want to solve quickly. Going from newbie to expert takes a long time and a lot of mistakes. Having guidance is a safe route.\r\n\r\nOn the other hand, I happen to be on MentorNet and have a \"protégé\" as they call them. He's learning off text books and, poor thing, I don't wish anyone to go through the same experience. The tough bit about books is to make sure you select the correct one and it's not his case. To choose a good book takes a lot of experience... that you do not have when you just start so you usually end up with whatever the seller wants you to buy.\r\n\r\nIf your husband is willing to spend time with you to teach you, do not think twice and take the offer: he may be changing his mind and you would be the looser :-) Being a relative, try to separate studies from emotions: that's probably the biggest threat in your case but if he is patient enough, it's not a big deal.\r\n\r\nGood luck and let us know how you go\r\nCheers\r\nOlivier"
+-
+    name: Jose_X
+    mail: ''
+    subject: 'Share you "weakness"'
+    hostname: 98.64.49.135
+    created: '1222632959'
+    body: "Everything is hard until it's easy.\r\n\r\nI started with BASIC. I did not do much programming for a long time afterwards however.\r\n\r\nThe key is to have an itch. All programming (and most things really) that I have learned have been learned to gain something that really interested me (or itched). This includes learning speaking, reading, 'riting, and 'rithmatic, I suppose. So the key is to have a comfortable environment where learning X will mean to acquire a new power. Carrot to be preferred over stick. Glass half full rather than half empty. I tend to use stick when I already have found the motivation but am faced with some other obstacle.\r\n\r\nI like the combination of javascript and html/css because the html/css is declarative in nature and is visual and accessible from common web browsers. The javascript becomes the logic the builds the majority of the program.\r\n\r\nTurn your program code into javascript and then put it into a webpage. You might for example, have options open up (or become highlighted or enabled) as you add restraints or new information. You can even use pics next to words as necessary. But, this won't be easy to learn to do by yourself in a very short time.\r\n\r\nHow about you post some code here of what you already have and maybe we can help you get started on js/html/css? Maybe even add in a visual description of what you might like to achieve visually. *Glance* at http://en.wikipedia.org/wiki/Event-driven_programming (that wikipedia page is horrible for a beginner to understand.. and googling some more didn't help). The javascript/html model makes doing this easier than in those examples because the looping code is implicit. The nutshell is that when the user clicks or selects something, we recompute based on that selection and the current state. Then we redisplay the new state.\r\n\r\nFrom http://nerds.unl.edu/Pages/preser/sec/skills/dkeys.html example, one possibility is to have all the end results visible, and then selectively erase them as you progress along the steps. This is rather easy to do (without bells and whistles) on a webpage. You may even have the noise made by that organism (eg, if it's a farm animal) sound out when it has been determined uniquely (ie, at the end). Or maybe have it flash and then open up a page with a full description of that organism. You can also try to construct some sort of progress (0-100%) meter.\r\n\r\nSome sort of online group with your students may even help out more. Coming up with a program *alongside* of them (so that they savor the journey) may motivate them to the subject more than will motivate them simply using your example at the end without having taken part. The best might be to get the point across with a simple example and then invite them to improve it. [That's probably what you are doing or were considering or would eventually do anyway.]\r\n\r\nProgramming is not for \"computer programmers\". Programming is for anyone that can use a computer as a tool and wants to take control.\r\n"
+-
+    name: alandmoore
+    mail: ''
+    subject: 'What most of us are missing....'
+    hostname: 68.19.218.220
+    created: '1222644172'
+    body: "I have spent years reading books on languages and APIs, taking classes at community college and reading online tutorials.  I know \"hello world\" in ten languages.  But I don't consider myself a programmer, really.\r\n\r\nI think the hardest thing for a new programmer to find is a good project -- one that's not too hard, but challenging enough to stretch you.  One where you thoroughly understand the problem and the logic that needs to be done.  \r\n\r\nBeing a programmer is a lot like being a writer.  You can learn how to put words together, but you can't be a writer until you have something to write about.  And you can't be a good writer until you're knowledgeable about what you're writing about.  \r\n\r\nAnd maybe that's where mentoring really comes in.  Your husband probably doesn't know a lot about identifying organisms with dichotomous keys.  But you did, and since he was there to help you with the programming, a program was born.  Without his grasp of Python and your grasp of the problem domain, there would be no program.  "
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: 'Thanks everyone'
+    hostname: 68.93.224.4
+    created: '1224636784'
+    body: "Thank you everyone for such kind and thoughtful responses to my post.\r\n\r\nLearning is a slow process, and it takes lots of effort and thought to figure out what to do. It's nice to know that there are others willing to lend a hand when it gets confusing and hard."

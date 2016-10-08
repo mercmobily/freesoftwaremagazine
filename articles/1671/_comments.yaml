@@ -1,0 +1,42 @@
+-
+    name: vach
+    mail: ''
+    subject: 'You have no clue what you''re talking about'
+    hostname: 216.41.24.2
+    created: '1152726108'
+    body: 'CALEA does not provide free all-hands backstage passes for law enforcement.  In the U.S. the same processes hold true--the LEA provides a hardcopy of a warrant (typically a fax) and the service provider executes the warrant.  No differently than is done today.  There is not a single point in this article that seems to have been researched effectively--rather, you''re pointing to other people''s blogs (read:opinions) on CALEA.  Try going to the source and reading a bit, hell, you provided a link to <a href=http://www.askcalea.net/>http://www.askcalea.net/</a>, how''s about reading what''s there.'
+-
+    name: Othello
+    mail: ''
+    subject: 'I think you missed the point...'
+    hostname: 207.237.129.187
+    created: '1152769900'
+    body: 'First of all he''s not wrong, it does make it easier to wiretap, especially on a large scale. Second of all the main point seems to be the large gaping security holes that CAELA opens up. Remember kids, reading is FUNdamental!'
+-
+    name: ''
+    mail: ''
+    subject: 'The government''s backdoor'
+    hostname: 69.254.95.67
+    created: '1164985872'
+    body: 'The government''s backdoor operates on UDP ports 1025-1031.  The key to this backdoor is disguised as MS IM spam.'
+-
+    name: ''
+    mail: ''
+    subject: 'actually the first person realy did get it right...'
+    hostname: 67.53.21.122
+    created: '1165114184'
+    body: "speaking as someone who has had to babysit a dms-250 CO switch for sprint\r\nI did* get shown where the wiretap access was :)  It was implemented as \r\na conference bridge with one set of wires cut (duh) they could dial in\r\nand IF THEY HAD AUTHORIZATION could identify who was on and listion in.\r\nactually anyone on the console can log in and find out where a cell phone is (ok, on what sector of what cell site) and even listion in on a conversation if they felt like it.  You of course have to have a few passwords to do this but if your authorized to be at a console terminal, you generally have the passwords to do that.\r\nalso there was some hardware by that terminal to let me listion in/talk if\r\nI felt like it. \r\nmorals to the story:\r\nIf big brother wanted to listion in, he would have to have a way to get the audio back to home base (ie the phone lines where they dialed in).\r\nthe ability to set up that conference bridge to monitor is behind a password or two, that means that they eather have to give it to big brother or they have to set it up.\r\nI have no idea what the case is, personally I suspect big brother just has the password and they have a computer monitor whos on and pull what they are interisted in. just monitoring any and all conversations would\r\nrequire a lot* of people listioning in and very little to show for it.\r\nwait a minute, isnt that what echalon is for?\r\nnever mind...\r\n\r\ncaviets:\r\n  it was a number of years ago (ie more than 10) since I did this and i only have expierience on one model of CO switch.\r\n"
+-
+    name: adamparkar
+    mail: ''
+    subject: 'The key question becomes,'
+    hostname: 72.18.192.236
+    created: '1235995369'
+    body: "The key question becomes, does Microsoft really need Novell anymore, or is it ready to try its luck with Linux directly?\r\nAnyways i have made some <a href=\"http://www.infinitylogodesign.com/Design/Stationery-Design/\">stationery logo design</a> & <a href=\"http://www.infinitylogodesign.com/Web-Design/\">website logo</a> so i can better understand the main problems of this issue.\r\n"
+-
+    name: robertfalco
+    mail: ''
+    subject: 'The central'
+    hostname: 202.70.156.215
+    created: '1241599314'
+    body: "The central question turns, causes Microsoft truly want Novell anymore, or is it quick to try its luck with Linux immediately?\r\nAnyways I've attained a few <a href=\"http://www.logobench.com\">stationery logo design & website logo </a>so i could better empathise the important problems of this issue."

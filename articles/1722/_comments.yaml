@@ -1,0 +1,112 @@
+-
+    name: ''
+    mail: ''
+    subject: 'How about a sponsered project'
+    hostname: 129.206.53.69
+    created: '1155892277'
+    body: "I was thinking about the following.\r\nReverse engineering is legal at least in some countries.\r\nHow about collecting money to finance a small group of competent people to analyze the Nvidia and ATI CS-drivers there and publish the specs gathered from that.\r\nThen we finance a group that writes a driver from these specs.\r\nI guess that we should be able to collect sufficient money for that given that most people have a card from one of these two companies build in (apart from business people who mostly have intel-chips).\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Strange comment'
+    hostname: 81.26.253.124
+    created: '1156000190'
+    body: '"That NVIDIA was the way to go"..? A bizarre comment, considering Nvidia is the only hardware maker which IS NOT at all supported by free software. Older ATI cards and Intel cards are supported. Which one is best I don''t know.'
+-
+    name: ''
+    mail: ''
+    subject: 'Version?'
+    hostname: 24.81.223.201
+    created: '1156046787'
+    body: "What version of Mandriva are you running? The last stable release, 2006.0, included X.org 6.9, not 7.1, and doesn't have AIGLX or Xgl. Current Cooker has (and therefore 2007 will have, when it's released) both AIGLX and Xgl.\r\n\r\n-Adam Williamson, Mandriva"
+-
+    name: ''
+    mail: ''
+    subject: 'There is an nvidia open source project...'
+    hostname: 84.218.55.136
+    created: '1156068579'
+    body: "http://nouveau.freedesktop.org/wiki/\r\n\r\nIt used to be located at sourceforge but they have moved to freedesktop.org. Seems like they haven't configured the wiki correctly yet...\r\n\r\nBest regards\r\n\r\nPeter K"
+-
+    name: ''
+    mail: ''
+    subject: 'Forget it'
+    hostname: 88.107.171.179
+    created: '1156071435'
+    body: "The whole of X is a titantic screw up.\r\n\r\nI have a Matrox G550 -- which used to be one of the best supported cards, sicne it was well-documented and had excellent free software drivers for both 2d and 3d.\r\n\r\nBut not anymore. If you made a choice to get a card with free software drivers, you've been royally screwed, since NVIDIA and ATI are the only ones who get any real attention from the X monkeys.\r\n\r\nSince modular X and GTK2.6+, my Matrox has gotten so slow compared to Windows (I dual boot) that it is a humiliating experience showing it to anyone -- and no, it's not a configuration screw-up... it's just that the code has gotten slower. \r\n\r\nDespite the Matrox G400+ being popular cards, with capable 3d support (my g550 can run Q3 at a good resultion with a decent framerate with high detail), AIGLX doesn't support it, and neither does XGL.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'one may be tempted to try and get it working on his own system..'
+    hostname: 64.86.64.90
+    created: '1156132851'
+    body: 'Just for reference getting to run XGL and Compiz in Ubuntu 6.06 LTS is really easy, I followed the steps in this howto: http://www.ubuntuforums.org/showthread.php?t=222034'
+-
+    name: ''
+    mail: ''
+    subject: 'too many parallel devs wasting resources'
+    hostname: 60.227.154.180
+    created: '1156161416'
+    body: "Why does there have to be two 3D technologies (GLX and AIGLX)? What a waste of resources.\r\n\r\nNvidia supposedly supports AIGLX over GLX, but their support is confined to words - there is no driver. What sort of support is that?\r\n\r\nThe open source 3D software DRI is dead in the water - no open source drivers for any hardware this side of the year 2000. So either get a time machine or you are stuck with proprietry drivers. An open source framework that depends on proprietry drivers is far from ideal. RMS cannot be pleased. Somewhat of a joke in fact (but only Nvidia and ATI are laughing).\r\n\r\nApparently Intel is opening up its current drivers and is about to release their graphics chip on a card. Not the fastest 3D but probably good enough for the desktop. This might be the best thing on the horizon. Lets hope they get the texture-from-bitmap support to enable AIGLX.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'depends?'
+    hostname: 193.67.179.20
+    created: '1156173645'
+    body: "<cite>An open source framework that depends on proprietry drivers is far from ideal.</cite>\r\n\r\nBIOSes are closed source, yet the OS depends on them. Should we therefor abandon Linux and the BSD's? GLX doesn't depend on closed source drivers. It relies on any driver that has proper OpenGL support. The fact that most of these drivers are closed source is an unrelated, if unfortunate matter."
+-
+    name: ''
+    mail: ''
+    subject: '"...Reverse engineering is legal at least in some countries."NOT'
+    hostname: 87.116.177.186
+    created: '1156336020'
+    body: "read this here http://www.nvidia.com/object/nv_swlicense.html\r\nyou obligate not to do any reverse engineering, can you imagine? You should not buy nvidia if you have a choice."
+-
+    name: ''
+    mail: ''
+    subject: 'About the Mandriva version...'
+    hostname: 84.7.162.146
+    created: '1156777978'
+    body: 'Yup, I run Cooker. And I hope the AIGLX and XGL packages will be ported to x86-64, because right now Cooker doesn''t have them. But this isn''t a Mandriva mailing list.'
+-
+    name: ''
+    mail: ''
+    subject: 'Nvidia was the way to go - still is, in part'
+    hostname: 84.7.162.146
+    created: '1156778314'
+    body: "Nvidia OpenGL drivers are, right now, the most efficient OpenGL drivers for the most powerful GPUs under GNU/Linux (Ati drivers usually lag a LOOONG time after their hardware comes to market, and usually cause mor eproblems to run and install, and Intel hardware is just not powerful enough). Moreover, the free nv driver included with Xorg (starting form xfree86) was provided by... Nvidia.\r\n\r\nIt is true however that Nvidia keeps mum about their hardware specs, making developing a free 3D driver difficult (right now, the Utah-GLX driver badly supports Geforce2-level hardware; interesting hardware acceleration started with Geforce3, then Geforce 5)."
+-
+    name: ''
+    mail: ''
+    subject: 'I''m not complaining about a particular distro...'
+    hostname: 84.7.162.146
+    created: '1156779268'
+    body: "...but about the fact that hardware and software supports are so fragmented that right now, making your GNU/Linux desktop run in 3D accelerated mode, you either need a ground up Xorg replacement (XGL) or to possess a very specific piece of hardware (recent Intel IGP or pre 9xx0 Ati card) to run the most recent Xorg's extension (AIGLX).\r\n\r\nI know that you can run XGL in Ubuntu; you can do so under SuSE 10.1 too, and the i586 version of Mandriva's cooker; Fedora Core 6 should be able to do so too.\r\n\r\nIt doesn't help."
+-
+    name: ''
+    mail: ''
+    subject: 'stealing a page from ReactOS'' book...'
+    hostname: 84.7.162.146
+    created: '1156779586'
+    body: "As far as I know, this 'reverse engineering' refers to dirty reverse engineering: decompiling the driver to analyse it. Hardware reverse engineering isn't forbidden (it cannot be, since you are entitled to talk however you want with your hardware; it may just void the warranty), and is what is used right now to fuel the NouVeau project: intercept commands coming from a working driver, analyse them and reimplement them in a free driver - when there is a lack of documentation available (as is the case).\r\n\r\nThey're looking for a Quadro 1 card, by the way. Any volunteers? I only have an old TnT1 in stock right now... (I will keep my GF 6600, I need it thank you very much)"
+-
+    name: ''
+    mail: ''
+    subject: 'At least under European law...'
+    hostname: 80.171.48.7
+    created: '1157334171'
+    body: '...provisions like that are null and void. Same with all the EULA business.'
+-
+    name: ''
+    mail: ''
+    subject: 'they say the matrox g550'
+    hostname: 88.73.13.49
+    created: '1157517914'
+    body: "they say the matrox g550 works with aiglx after a driver update:\r\n\r\nhttp://fedoraproject.org/wiki/RenderingProject/aiglx#head-aacf511f90cf03723059ec336a6023be33787f3e"
+-
+    name: ''
+    mail: ''
+    subject: 'RE: AIGLX, XGL, DRI, MesaGL... sort it out'
+    hostname: 70.240.235.17
+    created: '1173100680'
+    body: "I guess that we should be able to collect sufficient money for that given that most people have a card from one of these two companies build in \r\nGary"

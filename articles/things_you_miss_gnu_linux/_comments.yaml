@@ -1,0 +1,91 @@
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: UAC
+    hostname: 68.197.66.72
+    created: '1209670613'
+    body: "Also, it remembers your password for a certain amount of time, so you don't have to keep entering it in.\r\n\r\n--\r\nAndrew Min\r\nhttp://andrewmin.com/"
+-
+    name: endbegin
+    mail: ''
+    subject: nothing
+    hostname: 98.26.36.113
+    created: '1209730528'
+    body: 'I really don''t miss anything. In fact I have to use a Windows laptop for work, and I wish I didn''t have to. As far as I am concerned, you are preaching to the choir.'
+-
+    name: melinko2003
+    mail: ''
+    subject: 'What do i miss'
+    hostname: 198.115.32.5
+    created: '1209896924'
+    body: "I miss windows games that use almost 100% of the resources on my machine. LOL. Nah i think i just miss going to the store on release day and getting my reserved Copy of what ever and sitting down for a frag fest. I know its unreasonable to expect it from Linux but its just something that windows does for me. What linux does for me is it gives abit more cool playability down the line for those games if/when they are supported.. So what do i do?\r\n\r\nI dual boot and just keep a base WinXp image in case i need to reload Xp. Have Fedora installed with a self-compiled Kernel with accouple experimental kernels (patched with Bloat + patch w/o Bloat) and a bloat kernel.\r\n\r\nTypically I dont use Linux for my work from home PC either. I hate to say it but Microsoft is still very unfriendly esp. when my company's programmers create very difficult properitary software, and Nortel VPN's. Plus with strict policies as to what you can and cannot load \"Non-Production\" software has been requested to stay at a minimum.  \r\n\r\nPeople recommend using Wine or VM's .. While the idea is novel i find that the speed is a noticable problem with VM's and Wine doesn't support 70%+ the \"Extra\" structures my company creates.\r\n\r\nAsk them to create open packages? Ha, Simply put not enough people in the company use linux for them to bother allocating the resources. \r\n\r\nSo yes, the problem is resolved by dual booting. \r\n\r\nThough what does linux offer as a leg up? Alot actually... mainly alot of arm related distro's and App's. Im one of those people who owns a N800 and really enjoys working with it. Im also one of those people who likes to tinker with Solid state solutions such as SAS/CF/SD to see what kinds of projects can be made and whats really viable vs a waste.\r\n\r\nId love to think that linux is a viable solution for everything but.. Until it can do a few things better I think im still going to be dual booting. \r\n\r\nUbuntu is a good direction but I still see most things a few years aways for it to really shine with the General public... Early Bird Converts of today will most likely be the Guru's of it later on and hopefully they will be better teachers then some of us in the past who were zealots. Heh \r\n\r\n"
+-
+    name: rogun
+    mail: ''
+    subject: 'Hardware compatibility and Adobe Photoshop'
+    hostname: 71.143.178.38
+    created: '1210057654'
+    body: "That's about it and I only mention Photoshop because I'm more familiar with it. As for the hardware, I haven't really had any serious hardware issues in a while, but we all know that GNU/Linux is still lacking some in this area and I do miss the simplicity of syncing my PDA in Windows.\r\n\r\nI only boot into windows a few times a year (I'm talking one hand, finger counting), so I really do miss very little. If I had to sum it all up using one term, I guess that I'd use \"Lack of standard corporate support\", because that best sums up the majority of frustrations involving GNU/Linux."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Not much'
+    hostname: 68.93.224.4
+    created: '1210128915'
+    body: "Other than the sort of low-end consumer compatibility issues I mentioned in my [broken toys](http://www.freesoftwaremagazine.com/columns/free_software_and_gadgets_world_beautiful_broken_toys)\r\npost, there's not much I miss.\r\n\r\nIn fact, what I mostly notice nowadays is the stuff that I miss when I try, for whatever reason, to use a Windows machine: things like Mozilla, Inkscape, Gimp, etc. I especially miss applications that _work for me_ instead of acting as toadies to some outside party, intentionally getting in my way when I want to do things, or trying to hold extra functionality hostage.\r\n\r\nWindows is cheap if you don't expect to do much with it, but if you're a serious user who pushes your system to its limits (and I am, because I want to do a lot, or do unusual things, or because, not being able to afford to buy a new computer every couple of years, I'm often running with limited system resources).\r\n\r\nFor me, Windows (plus the huge list of proprietary applications I would have to buy for equivalence to what I run on my Debian system) would be outrageously expensive (including graphics, multimedia, desktop publishing, and development tools, at least $6000—and about $2000/yr to stay up to date), and as a result it would effectively shut me out of many endeavors I want to take part in.\r\n\r\nGNU/Linux, on the other hand, costs me very nearly zero in cash outlays (I do have to pay something for CD-ROMs and/or ISP time to download files), lets me use all kinds of software including advanced research- or commercial-grade workstation tools that are hard to even find for Windows, and the only cost is that I have to figure out how to use them...\r\n\r\n...which in practice, I would have to do for Windows anyway! Because there are basically _no_ Windows users trying to do the stuff I do on my system, and even where there are, they certainly aren't getting supported by Microsoft. They're learning from other users, exactly as we do with GNU/Linux.\r\n\r\nNot only that, but having the O/S constantly try to second-guess you and/or talk down to you (the downside of \"avoiding jargon\" is a loss of technical clarity) just gets in the way of experienced users.\r\n\r\n\r\n"
+-
+    name: pachelbel
+    mail: ''
+    subject: 'Web pages compatibility'
+    hostname: 200.54.71.227
+    created: '1210270234'
+    body: "As a FreeBSD user at home and MS Windows user at work, I must confess that my major pain on free systems is browsing the web on MS-only sites. Microsoft just keeps on saying that \"the great thing about standards is that everyone can define his own\", which is nonsense... unless your name is Microsoft.\r\n\r\nAnother strength of Windows is the backward compatibility: I can take nearly any installer of applications, even a 10-year old archive, and load it on my current machine in the office. On the contrary, I tried to exchange some documents with a friend, who was not able to install the relevant version of the editor on his Debian laptop (he had a Debian Etch and upgrading the app would mean upgrading the whole machine with all the libraries). The same app on my Windows machine at work could be downgraded without any problem. Now, this backward compatibility strongly affects the system security, as many malware exploit this fact. The ever changing libraries of Linux or FreeBSD help protect the systems to some extent - at least, the resurgence of a 2-year old virus would probably die away on its own.\r\n\r\nTo answer Terry Hancock's post about the cost of buying the Windows version of all the apps he's using, most of them have counterparts under Windows under GPL or other free license so the library would not necessarily be as expensive as you mentioned - it really depends on what you need to run. And I do use Mozilla, Gimp and Dia without any problem under Windows (these are my de-facto editors and browser).\r\n\r\nI started working on a column for this magazine - it will be somewhat controversial for this site :-) but I try to focus on the aspects that affect a wider use of Linux or *BSD in the professional world (the tone is not quite \"I'm a journalist, I grabbed a CD and installed it\" :-) ). I'll come back soon. Cheers."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Using just free apps on Windows'
+    hostname: 68.93.224.4
+    created: '1210337193'
+    body: "\"most of them have counterparts under Windows under GPL\"\r\n\r\nOf course they do.\r\n\r\nBut the point is \"why would I do that?\" All of those apps run just fine (better, really) on my Debian system, so why would I run Windows?\r\n\r\nISTM, the only reason I would do that is to run proprietary applications that are only available for Windows, and as I said, that would generally not be cost effective (in terms of licenses or effort) compared to using the free alternatives.\r\n\r\nWhat I pay in effort to deal with the occasional awkward install on Debian is nothing compared to what I would have to do to keep a Windows system going. And even then, I'd have to pay for the privilege.\r\n"
+-
+    name: pachelbel
+    mail: ''
+    subject: 'Platform of choice'
+    hostname: 200.54.71.227
+    created: '1210339461'
+    body: "Terry, I got your point.\r\n\r\n\"But the point is \"why would I do that?\" All of those apps run just fine (better, really) on my Debian system, so why would I run Windows?\"\r\n\r\nI'm sure they do, although they made significant progress in the last few years under Windows. If you work in an office dedicated to Microsoft, you basically have no choice: the decision is taken at a board of director's meeting and no one can object. The arguments are compatibility of Microsoft Office (here is the paying package you referred to) and availability of support contracts (no flame, I am my own, non-corporate view on this too).\r\n\r\nFor the rest, I have a bunch of free applications (GPL and others) for my day to day job: as I don't have a Visio license, I use Dia; for emergencies, I have a PostgreSQL server (when MS SQL causes problems). Plus Cygwin and a few others. If you want to push free systems in the office, you have to show first that the applications do the job and having a Windows version is a good way of demonstrating it. If you want to make a U-turn, you pull the steering wheel and progressively turn around. Engaging the reverse gear may be a dangerous and inefficient alternative :-)\r\n\r\n\r\n\"What I pay in effort to deal with the occasional awkward install on Debian is nothing compared to what I would have to do to keep a Windows system going. And even then, I'd have to pay for the privilege.\"\r\n\r\nI came across some applications that are definitely more stable under Windows than Linux - in particular some CAD programs for electronics design, which happen to be free to use. I think the picture is not black and white and the more experience you have with Linux, the more forgiving you are.\r\n\r\nNow, I remember a Windows app at my previous job that we ran on a RedHat 9 machine under Wine because it was 30% faster that under Windows NT - supposedly the native host! I still try to push this argument when I can.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Sometimes you have to use Windows'
+    hostname: 68.93.224.4
+    created: '1210373665'
+    body: "Yeah, I know that circumstances sometimes force you to use Windows (as in your example, where your choice of O/S was made by your employer). Clearly, if you must, then you learn to make the best of it.\r\n\r\nI'm lucky in that I can make these decisions for myself.\r\n"
+-
+    name: spartan2276
+    mail: ''
+    subject: 'Not a thing'
+    hostname: 76.18.44.22
+    created: '1210390040'
+    body: "Windows does not offer me anything that Ubuntu/linux does not. I have every application that I need to use on a daily basis and yes they are as good as the proprietary ones, Open Office, the GIMP, inkscape and raw studio(Aperture2 Clone) work very well and if I need to use anything like flash I run it under WINE. So ever since I switched I actually have more fun using my PC on a daily basis. I mean with Ubuntu for example you get everything you can think of to use your PC straight out of the box without any trials or OEM ads, also the community and support is great.\r\n\r\nYes I had a printer issue and input device(Art Tablet) issue due to hardware drivers, but doing a google search usually solves this problem or just downloading the software from Synaptics Package Manager(an actual Add/Remove Software repository). I'm sorry but you just can't beat that. For those of you who think that in order to get something good/quality you have to pay for it, you are 100% wrong. Open Source is here to stay. Woot Open Solaris!\r\n\r\nSpartan2276\r\nIT Consultant/Web Developer\r\nhttp://florida.ubuntu-us.org/"
+-
+    name: Bizurke
+    mail: ''
+    subject: 'Not very much'
+    hostname: 75.167.220.96
+    created: '1210487565'
+    body: 'When I first started using GNU/Linux as my only OS I would occasionally miss things or need things from Windows. Over the years it really just never comes up. When using other peoples windows there is an ridiculously long list of things I miss from my Debian desktop, but while using Debian I can''t even think of the last time I truly missed something. '
+-
+    name: 'Rambo Tribble'
+    mail: ''
+    subject: 'Autorun, of course!'
+    hostname: 75.175.76.229
+    created: '1211143634'
+    body: 'Who doesn''t thrill to the prospect of loading a CD into their machine and having it take over? How can you live without having software you don''t want automatically installed, your registry corrupted and more without so much as the press of a single button? Linux has a long way to go before it can claim to giving us the ease of use that allows people we don''t even know to have more control over our machines than we do. Next thing you know they''ll be giving Linux away for free. Listen, if people wanted control over their lives would George Bush be in the White House?'
+-
+    name: stoobers
+    mail: ''
+    subject: 'What I miss...'
+    hostname: 65.116.253.10
+    created: '1211564353'
+    body: "I do not miss:\r\nviruses\r\nstupid system restores\r\ncrapware\r\nlong-winded upgrade and reformat procedures\r\n\r\n\r\nI miss:\r\nmy old DOS games (though now I am running SCUMMVM)\r\nthe new games.  When is someone going to release a 3d scripting game virtual machine?\r\nThe polish, fit and finish and consistency that winXP gui provides (though KDE is close).\r\nfast web browser (ie or firefox are both WAY faster on windows XP, hands down.)\r\n\r\n\r\nAnd, ironically, I miss having to buy new hardware.  Under windows, I always had to buy new hardware to run something new.  One time, I bought a wireless mouse and had to upgrade to XP to use the mouse (microsoft mouse!)  Under Linux, you never really NEED to upgrade.  Nothing ever really slows down.  Older hardware seems to work just fine.  I save tons of money.  But before, I would buy new computer equipment every 2 years.  Now I have the same old hardware, running as efficiently as ever.  Cost effective, but a little dull:  What kind of Christmas present shall I buy myself this year?  That's right - nothing!  Because I don't need anything.\r\n\r\nThere is rumor of an \"open-source\" graphic card.  So if I buy that, I will never really need to upgrade my graphic card again (as the only reason I upgraded my old card was because ATI doesn't make XP/Linux drivers for it any more :( )\r\n\r\nAnd I hear KDE4.0 will be faster than KDE3.5.  That means my computer will actually speed up upon upgrade.  At this rate, I am going to have to downgrade to a Pentium3.  But I am looking forward to the up/downgrade to tiny little green computer that runs more slowly, using less power, but runs tighter, faster, cleaner and more reliable software more quickly than ever.  That way, I can just leave it on all the time and have it always at hand.\r\n\r\nAnd no, I am never going back to Windows.  Never.  Ever.\r\n\r\nThanks for reading!\r\n:)"

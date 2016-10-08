@@ -1,0 +1,14 @@
+-
+    name: Lennie
+    mail: ''
+    subject: 'Those tools are not foolproof'
+    hostname: 194.213.15.37
+    created: '1228329203'
+    body: "When you try to overwrite a part of a modern harddisk or SSD and it fails to write to a segment it will write your data to an other place. You could overwrite it there as many times as you like, but the original data will still be on in it's original location and possible readable as well and you wouldn't notice a thing (maybe if you checked the SMART-information of your disk, the disk would report it relocated some parts).\r\n\r\nIf you want people to not be able to read your data, encrypt it, it's the only useful way. I think Ubuntu has an installation option to setup encrypted filesystems.\r\n\r\nHope that was helpful to you."
+-
+    name: malcarada
+    mail: ''
+    subject: 'USB thumbdrives a different case.'
+    hostname: 66.90.118.12
+    created: '1231388442'
+    body: "I agree with that SSD disks and USB thumb drives will not work with wiping tools because of the wear levelling technology.\r\n\r\nBut Shred and Wipe are still excellent tools for deleting conventional HD, and I would also reccomend BCWipe which I use a lot and allows you specify wiping patterns and number of passes."

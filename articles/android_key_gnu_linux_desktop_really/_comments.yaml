@@ -1,0 +1,14 @@
+-
+    name: ArtInvent
+    mail: ''
+    subject: 'A Shotgun Marriage'
+    hostname: 69.108.153.198
+    created: '1244845517'
+    body: "This is pretty much what I have been musing on myself. Ubuntu + Android. I had not considered \"a not-so-clear separation between end user applications, support libraries and system libraries\" to be a key problem, but I think you're really on to something. \r\n\r\nBut the real thing that may tie Linux to Android is that Android is being pushed by a behemoth company, and it looks like it actually will gain a very good foothill in a fairly green field, mobile phone. Thus Android conceivably have more users in two years than Linux desktop does. Next is that Android looks like it may have a shot on netbooks and nettops, where Linux seems to have had it's shot and (for the time being) failed.\r\n\r\nYou point out the drawbacks to Android and I would agree, the dependence on Java is pretty difficult. I would think that either Android would have to evolve and change somewhat to get past the limitations of this approach, or that a more traditional, wide open, full Linux distro might actually be a natural segue. In that sense, Ubuntu's approach seems to be pretty intelligent.\r\n\r\nAt any rate, I think that Android's success would be a win for Linux in general and a furtherance of the cause, even though it's maybe not exactly the way many of us would have wanted it.\r\n\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Android cannot be a desktop OS'
+    hostname: 62.140.212.3
+    created: '1245071256'
+    body: ".. at least not in the sense you describe here (installing OpenOffice etc.).\r\n\r\nThe problem is that the defintion of \"netbook\" is too loose these days. When the EeePC kicked it all off we were looking at small devices with minimal storage and a browser. These days a \"netbook\" could well have a 12\" screen and 160Gb HDD - that's a small form-factor laptop!\r\n\r\nIf you put Android on the latter - you will encounter the problems you discuss here. Put it on something with say a 9\" screen, 8Gb solid state and 1Gb RAM and you might be getting somewhere. Add in a permanent net-connection and you will defnitely be doing so. On such a device office-type functions would probably go the way of e-mail (web-based). On such a device apps would need to be small and neat, not behemoth-like such as OOo.\r\n\r\nAs for Ubuntu running Android apps - I think they're just thinking that some nice apps will come about through Android and it would be a boon to both parties for Android apps to run on Ubuntu.\r\n\r\nOh and one of the downsides of having installation-methods like the ones you describe for the Mac is the size of the package. Libraries would surely have to be included within it wouldn't they? How does the Mac handle dependencies? I don't know because I've never used one.\r\n\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"

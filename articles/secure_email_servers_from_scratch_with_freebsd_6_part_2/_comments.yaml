@@ -1,0 +1,133 @@
+-
+    name: ''
+    mail: ''
+    subject: 'i thing there is an error'
+    hostname: 213.240.225.50
+    created: '1165068012'
+    body: "i thing there is an error in the manual.\r\nactualy i was expecting part two with great impatience\r\nnow i am testing it and so far i am at the mysql query part\r\nhere i am:\r\n\r\nGrant privileges\r\n###\r\nRun the following command:\r\n\r\nGRANT SELECT on mail.* to mail_admin identified by password ('mail_admin_password');\r\n###\r\n(it is from inside of mysql)\r\nbut i get syntax error on this step\r\n\"ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '('mail_admin_password')' at line 1\"\r\n\r\ni am not a mysql specialist, but i tried some variations of that command, but still i got errors\r\n\r\ni thing that there is something missing, i dont see where in mysql the user mail_admin is created, and may be this is the reason this command to fail.\r\nforgive me if i am wrong, but please fix it :))"
+-
+    name: ''
+    mail: ''
+    subject: 'GRANT SELECT on mail.* to'
+    hostname: 213.240.225.50
+    created: '1165068796'
+    body: "GRANT SELECT on mail.* to mail_admin identified by password ('mail_admin_password');\r\n\r\nshould be\r\nGRANT SELECT on mail.* to mail_admin identified by 'mail_admin_password';\r\n\r\nand there will be no errors :))"
+-
+    name: ''
+    mail: ''
+    subject: '.pdf or printable version?'
+    hostname: 153.39.146.245
+    created: '1167777035'
+    body: "Can we please have a .pdf or at least a printable version of this article?\r\n\r\nThanks a lot :)"
+-
+    name: ''
+    mail: ''
+    subject: 'printable version!!!'
+    hostname: 150.254.204.47
+    created: '1168261851'
+    body: '+1 for the printable version of this article.'
+-
+    name: ''
+    mail: ''
+    subject: 'Suggestion & printable version'
+    hostname: 212.104.150.9
+    created: '1168944331'
+    body: "+1 for the printable version also (metoo... Feh)\r\n\r\nAlso, given the FreeBSD project themselves now recommending using portsnap rather than cvsup to keep your ports tree up-to-date (and speaking personally, it's a whole lot easier to work than cvsup) might it be worth mentioning it?"
+-
+    name: 'Yousef Ourabi'
+    mail: ''
+    subject: 'viz Portsnap'
+    hostname: 69.228.173.201
+    created: '1169083609'
+    body: "The problem as I see it with portsnap is that you can't upgrade your src tree -- and seamless upgrading from release to release via make buildworld && make buildkernel is one of FreeBSD's strongest points -- and with one extra line to the cvsup config file it (cvsup) can pull down source and documents -- so it's still more attractive in my eyes\r\n\r\nThough there are strong advantages to portsnap: faster update, no portsdb -Uu after pulling down the ports tree, more secure (signed with keys...etc)\r\n\r\n-Yousef Ourabi"
+-
+    name: ''
+    mail: ''
+    subject: 'Nice Article'
+    hostname: 134.147.116.22
+    created: '1169214844'
+    body: '... but what makes this mailserver secure now?'
+-
+    name: ''
+    mail: ''
+    subject: 'A lot of things are left out in this doc'
+    hostname: 68.206.192.226
+    created: '1169363806'
+    body: "This doc is by no means even close to a beginners document. there are all kinds of steps left out and missing parts that a newbie would totally screw a system up... So tread lightly and research everything first by looking at other sources especially with the Kernel Make. Its a hopeless mess....\r\n\r\nDraco"
+-
+    name: ''
+    mail: ''
+    subject: Anonymous
+    hostname: 80.167.175.87
+    created: '1169404048'
+    body: "Not that it's of weighing importance, but one should take notice of the error in the filename of the certificate (`main.cf', page #1 of the tutorial). It says `smtpd.cert', whilst the certificate created is named `smtpd.crt'. Naturally, one would stumble across this even at first go, but then again, it might serve well changing it if one wanted a spotless and correct version for print.\r\n\r\nGood day to all, and thank you Yousef for your great article.:)"
+-
+    name: admin
+    mail: ''
+    subject: Fixed
+    hostname: 203.59.176.178
+    created: '1169517625'
+    body: "Good pick up.\r\n\r\nThanks"
+-
+    name: ''
+    mail: ''
+    subject: 'SASL daemon'
+    hostname: 212.251.43.218
+    created: '1169545437'
+    body: "In a configuration like that is the saslauthd need to be started also, or it is not necessary.\r\nI am confused because I found many posts starting the saslauthd and others not.\r\nIs the following variables needed smtpd_sasl_application_name, smtpd_sasl_type."
+-
+    name: ''
+    mail: ''
+    subject: 'maildir ... directory or file'
+    hostname: 71.70.167.67
+    created: '1169789415'
+    body: "If the maildir field in the MySQL data base is a directory Postfix complains:\r\n\r\nJan 26 00:13:35 web postfix/virtual[1190]: 24A635C9: to=<xxx@yyy.zzz>, relay=virtual, delay=0.41, delays=0.12/0.18/0/0.11, dsn=4.2.0, status=deferred (delivery failed to mailbox /usr/local/virtual/jennifer: cannot open file: Is a directory)\r\n\r\nIf the maildir field in the data base is a file IMAP complains:\r\n\r\nJan 26 00:17:51 web imapd-ssl: chdir jennifer: Not a directory\r\n\r\nAny thoughts?"
+-
+    name: 'Yousef Ourabi'
+    mail: ''
+    subject: 're: maildir'
+    hostname: 66.92.17.113
+    created: '1170067748'
+    body: "Hey:\r\nif you do a mysql \"select maildir from mailbox\", do the directories have a trailing / -- if not that's probably the cause. \r\n\r\n-Yousef"
+-
+    name: ''
+    mail: ''
+    subject: 'Thanks ... one more'
+    hostname: 71.70.167.67
+    created: '1170545564'
+    body: "Thanks for the pointer on the maildir above.  I am having some issues with squirrelmail I keep getting the following error when trying to navigate to the web page:\r\n\r\n/libexec/ld-elf.so.1: /usr/local/lib/php/20020429/gettext.so: Undefined symbol \"php_realpath\"\r\n\r\nNote I am running PHP 4, I don't know if this is related.\r\n\r\nThanks again,\r\nAaron"
+-
+    name: ''
+    mail: ''
+    subject: 'Looks like squirrelmail does reuire PHP5'
+    hostname: 71.70.167.67
+    created: '1170612478'
+    body: "Since my web server was already running PHP4 and I didn't feel up to trying to load both modules into apache I ended up using sqwebmail.  Very intuitive and simple in its configuration.\r\n\r\nThanks again,\r\nAaron"
+-
+    name: ''
+    mail: ''
+    subject: 'what about rc.conf?'
+    hostname: 193.95.199.132
+    created: '1171905734'
+    body: "i was just wondering what do i have to add to rc.conf to start all of this apps... I've installed them exactly as it's guided...\r\nthx"
+-
+    name: ''
+    mail: ''
+    subject: 'what about rc.conf?'
+    hostname: 193.95.199.132
+    created: '1171906180'
+    body: 'what to add in rc.conf? i mean how to start all these programs?'
+-
+    name: ''
+    mail: ''
+    subject: 'Help Needed'
+    hostname: 68.37.249.180
+    created: '1173538641'
+    body: "Hello all - I am a complete newbie to FreeBSD and any Unix/Linux based systems.  My company has been a Windows only shop until a change in management.  I followed this article to the \"T\" and am having problems.  When I start Postfix, I get an error that it cannot perform a lookup using the mysql_virtual_aliases_maps.cf file.  I was thinking that maybe the SELECT statement within that file is causing the problem?  I do know that I had to insert my own mail_admin password, which has been done.\r\n\r\nI am fairly certain that the other components are working.  Squirrelmail's \"configtest.php\" comes back stating that the system is working fine.  I can also telnet to amavisd and issue an EHLO command, which returns data, making it seem as though it is working.\r\n\r\nOne last item - can you give some examples of what data actually goes into the database \"mail\"?  I have added users, a virtual domain and aliases.  But some examples would give me a starting point of what the syntax actaully is.  Not the INSERT string to add data to the database, but the actaul way the data is setup to be read.  For example:  if I have a user that has a username of \"jdoe1\" what would his alias be?  And, if the server is currently \"server1.mydomain.com\" which IS the domain that I am looking to receive mail on, what is the virtual domain?\r\n\r\nThe ultimate goal of this server is to make it an external smarthost for an internal Microsoft Exchange box.  I would appreciate anyone willing to give me some pointers there too once the mail system is actually up and running.  I've seen that there are ways to actually pull the AD information using OpenLDAP."
+-
+    name: 'Anonymous visitor'
+    mail: snaut@snaut.ru
+    subject: 'error :('
+    hostname: 81.176.138.44
+    created: '1187940691'
+    body: "Hi.. I have error:\r\nhost 127.0.0.1[127.0.0.1] said: 451 4.5.0 Error in processing, id=71084-02, parts_decode_ext FAILED: Unix utility file(1) not available, but is needed at (eval 70) line 113. (in reply to end of DATA command))\r\n\r\nHelp?"

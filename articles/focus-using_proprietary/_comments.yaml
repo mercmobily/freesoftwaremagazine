@@ -1,0 +1,7 @@
+-
+    name: god
+    mail: ''
+    subject: 'TurboTax 2002 installation rewrote boot sector'
+    hostname: 203.59.90.115
+    created: '1143614100'
+    body: "<strong>From</strong>: Mike O'Donnell \r\n<strong>Url</strong>: http://people.cs.uchicago.edu/~odonnell/\r\n<strong>Date</strong>: 2005-06-22\r\n<strong>Subject:</strong> TurboTax 2002 installation rewrote boot sector\r\n\r\n\r\nIntuit's TurboTax 2002 deserves a mention near the top of the list of badly behaved proprietary software. Its license control mechanism wrote to the boot sector. I discovered this because I ran Windows NT under VMWare, with the boot sector unwritable. My TurboTax installation failed, but registered itself across the network as a successful install. The implementors apparently neglected the possibility that the attempt to write the boot sector would fail.\r\n\r\n\r\n\r\nAllowing unvetted software to write the boot sector constitutes almost the broadest security hole imaginable. Intuit was immensely presumptuous to expose customers to such risk with no warning.\r\n\r\n\r\n\r\nTo Intuit's credit (or at least to diminish the discredit), they provided a refund without challenging my claim that I had no installation, in spite of a registration asserting that I did. They also responded to public outcry against their attempt at copy control by releasing a revised version without the copy control, and presumably without compromise of the boot sector.\r\n"

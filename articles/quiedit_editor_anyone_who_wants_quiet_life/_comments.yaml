@@ -1,0 +1,21 @@
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: Pandoc
+    hostname: 129.132.149.9
+    created: '1337939976'
+    body: "If you want to write your stuff in Markdown and then convert to a hoist of other formats (including HTML, LaTeX, PDF) I can only recommend [Pandoc](http://johnmacfarlane.net/pandoc).\r\n\r\nIt can also convert from HTML into any other format, so you can stil use QuiEdit ;)"
+-
+    name: mjjzf
+    mail: ''
+    subject: 'Other options'
+    hostname: 85.218.140.165
+    created: '1338020919'
+    body: "This looks quite a lot like PyRoom.\r\nI use Focuswriter (http://gottcode.org/focuswriter) for this, write all my articles in it - it supports basic formatting and will export to RTF and ODT."
+-
+    name: jwdb
+    mail: ''
+    subject: 'Whats wrong with the command line?'
+    hostname: 213.93.70.87
+    created: '1338105836'
+    body: "Try going to another virtual terminal (CTRL+ALT+F2), then login, then try one of these commands:\r\n\r\nnano\r\nvim\r\nemacs\r\ned\r\n\r\nThere you go, a distraction free writer. "

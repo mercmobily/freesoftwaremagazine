@@ -1,0 +1,105 @@
+-
+    name: 'mark a. ross'
+    mail: mark.ross@oi.com.br
+    subject: 'lindows, linspire,'
+    hostname: 201.19.50.104
+    created: '1187829069'
+    body: 'lindows, linspire, limpspire, or whatever name you want to give it..this distro is about as interesting as washing the laundry. xandros is not far behind.'
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'Freespire''s on the road to nowhere'
+    hostname: 59.101.71.200
+    created: '1187843546'
+    body: "Mate, by a curious coincidence, around the time this article was being posted, I was behaving like a Benedict Arnold in preparing to sneak a disk of Freespire into a perfectly normal Kubuntu box.\r\n\r\nThis had been suggested as a solution to Kubuntu's refusal to mount a particular Ipod even though it claims to do this automatically.\r\n\r\nI went straight to install rather than wait for it to run as a 'live' CD first.\r\n\r\nOff it went, then got about half-way along the first progress bar, and stopped.\r\n\r\nI went to the toot while I was waiting for it to get started again, but ten minutes later it was still sitting where I had left it, so plan 2 was to run it as a 'live' disk first.\r\n\r\nIt managed to load itself OK this time, but insisted that I set up the time and other things that you don't normally have to do when running a Linux 'live' CD. Then it swept me straight on to setting up this so-called CNR package manager. I went along with it until it tried to force me to 'register' with the package site even though the OS wasn't installed on the computer.\r\n\r\nI gave CNR the flick and went back to the desktop and clicked on the 'install' icon.\r\n\r\nA long time later it finally decided to proceed with this suggestion to restart, but made me remove the CD before it would continue. This meant I had to take the CD out, hit 'enter', then get the CD drive open again to replace the CD as soon as the splash screen appeared a couple of seconds later. Only Microsoft could dream up something as silly as that.\r\n\r\nThis time the OS actually installed in a surprisingly rapid ten minutes. I later found out that this was because it had only loaded the OS and precious little else.\r\n\r\nYou're right about the lack of disk partition information. I just went with the whole disk option, but it didn't tell me anything about what it did, or even what sort of file system it had installed.\r\n\r\nI had to go through the normal setup information again that the 'live' Cd had just demanded, then it took me straight back to the CNR rego bit which I completed this time. There was also a box full of legal gobbledegook that looked suspiciously like a Microsoft EULA that had to be signed before it would allow me to proceed any further.\r\n\r\nIn fact, the whole setup was more Microsoft than Linux, with continual coercion to do what the OS wanted to do and not what I wanted.\r\n\r\nI then continued with CNR to try to get some essential software downloaded.\r\n\r\nFor the life of me I can't imagine why they would want to boast about this disorganised excuse for a package manager. It's the sort of software that would be better left unmentioned until they manage to get it working properly.\r\n\r\nParts of it look like they were re-cycled out of the XP SP2 spare-parts bin and it doesn't work harmoniously as a well sorted piece of software.\r\n\r\nSome of the items are marked as free while other Microsoft items have the prices attached alongside.\r\n\r\nMany of the things I downloaded failed to subsequently appear in the menu listing.\r\n\r\nMy whole impression, so far, was more of Microsoft than Linux and the whole thing is hardly in the spirit of Free Software.\r\n\r\nIf this is the sort of thing that gets produced by collaborating with the likes of Microsoft, then leave me out.\r\n\r\nMicrosoft is simply trying to re-make Free Software in their own image.\r\n\r\nYour conclusions regarding the future of Linspire are entirely correct. "
+-
+    name: 'Joe Webb'
+    mail: drjoewebb@yahoo.com
+    subject: 'Linspire, Xandros'
+    hostname: 70.183.172.221
+    created: '1187875689'
+    body: "Linspire just seems lost, like they're trying to save their business by selling products online and not making a huge effort at their own distribution any more. They've been Ubuntu'd into submission as they realized they were gaining no market traction. Might as well use PCLinuxOS or Kubuntu instead. Good think the computer I tried Freespire on was not a dual boot system. Their installation choices and instructions were not exactly the best if you wanted to do that.\r\n\r\nAs far as Xandros is concerned, I use it on my desktop for business work, and it's been rock solid. So what if it's not cutting edge: I'm getting my work done, and it saved me from an absolute disaster of a Windows crash. I've written about it at http://members.whattheythink.com/allsearch/articleerc.cfm?id=30033 . Xandros' install for dual boot setup was excellent. It was worth paying for.\r\n\r\nI run my notebook on Ubuntu 7.04, and it is dual boot with XP. I am anxious for 7.10 to come out to buy a new notebook with everything optimized for it. Ubuntu has been quite impressive, though its forums don't live up to their reputation. The Xandros forums are far better, with much better answers and discussion, and the company does a good job of monitoring them and responding as well."
+-
+    name: Bigdawg
+    mail: geekydude@verizon.net
+    subject: 'The distro that rose from the ashes of Linspire & Xandros...'
+    hostname: 70.104.248.238
+    created: '1187929186'
+    body: "I absolutely agree with this post and the post immediately following.\r\n\r\nWhen those distros turned on their loyal user base, their users have been leaving those distros in droves.\r\nWhere did they go?\r\nSome went to PCLinuxOS, some to Kubuntu and other distros, but a significant contingent started a new distro that's in alpha testing right now. KlikIt-Linux and its community was created mainly by a group of former Linspire and Xandros users who left after the Microsoft patent deals. They have also received a great deal of help from a group of PCLinuxOS users.\r\n\r\nKlikIt-Linux is based on Kubuntu Feisty, and then they put their own touch to it.\r\nIt's already an amazing distro already, even as an alpha that's not even feature locked yet!\r\n\r\nAccording to their site: http://www.klikit.org/\r\n\r\n--------------------------------------------------------------------------------------------------------------------\r\n\r\n \"Klikit-Linux is a non-formal project oriented on developing a modern, free, user-friendly and fun Linux desktop.  It uses the well known, award winning KDE environment.\r\nKlikit-Linux can run as a LIVE-CD on practically any PC (x86), and can be installed to your hard drive in just a few minutes.\r\n\r\n Klikit-Linux is based on the latest release of Kubuntu, taking advantages of many of its best features, and then adds its own touch, depending on the desires of the community. The release dates of Klikit-Linux will depend on the stability of the latest Kubuntu packages.\r\n\r\n Klikit-Linux comes with a collection of applications that will meet most of your daily computer needs, such as office, graphic, multimedia, and  internet work.\r\n\r\n Klikit-Linux is a true community-driven project. You and the community are,  and will always be,  the main voice behind any decision.\r\n\r\n Klikit-Linux is and always will be completely free, You will be able to use it, modify it, distribute it and do whatever you want with it. You will always have the freedom of choice.\"\r\n\r\n---------------------------------------------------------------------------------------------------------------------\r\n\r\nKlikit also has something new to compete with CNR.\r\nIt's called the KlikIt StoreHouse: http://www.klikit.org/storehouse-first.html\r\nAnd it's FREE as in beer!\r\n\r\nIt's not fully built yet, but you can see the parts that are enabled, and it already looks great.\r\nOne-click install/uninstall of applications. It's very well laid out. Myself, I can't wait to give a try when it's up and ready to go! \r\n\r\nI've read many of their posts in the KlikIt forums, and this looks like a top notch and extremely friendly community.\r\nThey say they are a distro for friends, by friends, and from what I've seen so far, I'd have to agree.\r\nTheir community is very active and very friendly.\r\n\r\nKlikIt-Linux might just be able to give many of the top distros a run for their money in terms of stability, ease of use, beauty of the interface, functionality, and over 20,000+ packages in their repositories!\r\n\r\nAll I can say is: If Klikit-Linux is this good now, what will it be like when they are done?!\r\n\r\n"
+-
+    name: Winter231
+    mail: winter231@gmail.com
+    subject: 'Must not have looked at a current Version'
+    hostname: 206.169.193.40
+    created: '1187969088'
+    body: "I take issue with some of these points, first lets look at this statement. \r\n\r\n\"Linspire announced that Debian, Fedora, SuSE, and Ubuntu users will have access to CNR (more operating systems will come soon). So what’s going to set it apart from the hundreds of other GNU/Linux distributions?\" CNR has the potential of becoming the first universal package manager for linux.  If Linspire can get CNR to interoperate accross all package types, .deb and RPM, then this would certainly set Linspire as a company apart from the others.  Although the OS may take a back seat to what LS is doing w/ CNR the OS is easy to navigate from the average home user perspective, especially those dumping M$. \r\n\r\nUnholy alliance with Microsoft - On this point I pretty much agree with Andrew, if the gain was to increase interoperability with MS apps and extensions, the loss was in how it alienated many in the Linux community. \r\n\r\nInstaller - \"The Linspire/Freespire live/install CD doesn’t let you test drive and install it at the same time.\"  The version that must have been tested must not have been the latest version.  Version 5.X and Freespire 1.X versions did not offer this capability, however Freespire 2.0 does allow you to run live test drive and then install while running in the Live mode, and I am sure that Linspire 6.0 will have the same feature as they are more than likely to be the same version with different branding.  \r\n\r\nThe disk partitioner is horrible too. It doesn’t even mention the sizes of the partitions! Do you really want to risk installing Linspire over your main Linux install?\"  This is also untrue in the latest version of Freespire 2.0.  It has g-parted and does display your partition size.  I resized an older Linspire version and installed Freespire 2.0 without any issues.  It was a marked inprovement from prior versions. \r\n\r\nConclusion - \"All I can say is, good luck. You’re going to need it. People have almost no positives to running Linspire/Freespire, several negatives, and the possibility of being looked upon as a jerk by other geek heads. Take your pick.\" \r\n\r\nI agree that there are some not so positive things happening in the Linspire camp.  I feel the OS is not as bad as you make it out to be, and that the real gem over at LS is CNR.  If they can make it work as a universal package manger for all Linux Distros then the OS will end up taking a back seat and you will have your choice of distro to use with a simple way to deliver your packages to it.  \r\n\r\n\r\n"
+-
+    name: 'Darth Chaos'
+    mail: darthchaosofrspw@gmail.com
+    subject: 'Linspire and Xandros are sell-outs'
+    hostname: 63.23.17.131
+    created: '1188023550'
+    body: 'Linspire and Xandros sold out on the principles on which they were founded. That''s the type of backstabbing that their past customers, present customers, and potential customers will remember for a long time. I have personally witnessed the Xandros user base plummet with the many comments on the Xandros forums, and the same with the Linspire/Freespire communities. These companies are destined to fail in a big way, and once they are officially dead, Microsoft will be there to buy up the liquidated assets.'
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'Bye bye Freespire'
+    hostname: 59.101.71.200
+    created: '1188080830'
+    body: "Further to my comment above, I'm just about to replace Freespire with Kubuntu again, on that machine.\r\n\r\nK3b never worked properly in that Freespire 2.0 edition, and now, CNR seems to have vanished and refuses to load anymore.\r\n\r\nLinspire have taken Microsoft on at their own game and failed. Sure, they have succeeded in producing an OS which is buggy, unreliable and infuriating, like Microsoft, but they can't provoke that true red mist of utter fury that Microsoft does with such complete ease.\r\n\r\nMaybe Linspire should ask their Microsoft buddies if they can borrow that witless little animated paper clip thingo? That might do the trick."
+-
+    name: Pardus
+    mail: marzelancho@yahoo.com
+    subject: 'Forget about'
+    hostname: 87.126.108.44
+    created: '1188136150'
+    body: "Forget about Linspire/Freespire. I am sick and tired of waiting the release of Linspire 6 (2 years).\r\nNow I use Pardus which is free, has great package manager(pisi) and out-of-the-box multimedia support."
+-
+    name: 'Bill Hedrick'
+    mail: bhedrick@chof.net
+    subject: 'I have to echo the good'
+    hostname: 65.240.61.194
+    created: '1188311703'
+    body: 'I have to echo the good words about Klikit. I started using Freespire at 1.013b and upgraded a few time. It was... ok... But it''s not seemed to live up to it''s promise and has been passed by several other distros. Klikit at an alpha state is better for me than Freespire ever was. Also Chris, the developer, is very open to suggestion and is incorporating our recommendations into the distro. Already it''s been described as Kubuntu on Steroids. It''s my daily OS and I''d reccommend it to anyone.'
+-
+    name: 'registered user'
+    mail: george_f_rice@hotmail.com
+    subject: 'Unable to install'
+    hostname: 66.141.186.107
+    created: '1188843289'
+    body: "I decided to try for myself, and downloaded the Freespire 2.0 ISO. I targeted my test machine, on which I'd just finished testing Ubuntu 7.10 Tribe 1 rather successfully.\r\n\r\nIt failed to run in Live CD mode at all, stopping just after the \"loading non-free drivers...\" message (apropos?). After about 30 minutes, I gave up.\r\n\r\nBeing a glutton for punishment, I then attempted a hard drive install directly. The machine got stuck at 17% (that is, the \"elapsed time\" and \"time remaining\" continued to update, but after 10 hours no further progress had been made and I turned off the machine).\r\n\r\nThis is a fairly generic home-brew machine, on which I've tested literally dozens of distros. I've never had one fail to install (though a few have had non-trivial issues once running). \r\n\r\nOne instance does not a trend make - but as my first data point, it doesn't bode well for Linspire's future."
+-
+    name: 'Anonymous visitor'
+    mail: bernhard.gegler@arcor.de
+    subject: 'Freespire 2.0.3 sucks just as much'
+    hostname: 83.171.151.100
+    created: '1192433158'
+    body: "After installing PCLinuxOS, i was fairly happy with my PC. But still i tried Freespire 2.0.3 as a Live CD.\r\n\r\nIt started. Well, that was about all it did. I know that wifi is sometimes an issue with my card, and didn't expect it to work at first, but Freespire didn't even get my Graphics Card to run. It was all in 320x200, you would maybe get the fixed-size \"change resolution\" window on screen at very long last, but what good is that if you can't even reach the OK button? What a waste of a good CD-r..."
+-
+    name: 'Anonymous visitor'
+    mail: preacherman@mail.vu
+    subject: 'Not all true.'
+    hostname: 72.66.237.52
+    created: '1197790428'
+    body: 'You have many good points; however, if it weren''t for Lindows 4.5, I wouldn''t be using Linux at all.  Even though you couldn''t partition with Linspire(I couldn''t with any Linux if I wanted to), it was a truly easy to use system.  CNR is one of its greatest options available.  How many distros could you download a software program and have it installed automatically for you?  Not Fedora.  Fedora is always missing dependencies.  Ubuntu loses drivers.  And the Ubuntu 7.1 is a very flawed download.  Linspire 5.0 recognized my wifi out of the box.  No, and I mean NO other distro did that!  You obviously have never used Linspire.  It was the easiest to install and use.  The only reason I dumped them is because of the Microsoft deal.  I choose Linux because I choose not to use Microshaft.  YOU, my friend need to use something before you comment on it.  You obviously know nothing about Linspire.  I used them for over two years.  I bragged about them and boasted about them!  I was let down with their deal; but they were truly the best for non-users!  My advice is:  try before you brag!  Other wise you make yourself into an idiot!  I have recently dumped them for Mandriva One.  If, and only if they truly dump, or are dumped my Microshaft, will I go back and help them.  I USED THEM FOR TWO YEARS!  I KNOW WHAT THEY ARE!  YOU DO NOT!!!!! KNOW WHAT YOU ARE TALKING ABOUT BEFORE YOU OPEN YOU BIG FAT MOUTH AND USE YOUR KEYBOARD!!!!!!!!!!'
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'And my prediction...'
+    hostname: 68.197.66.72
+    created: '1218661192'
+    body: "...was 100% accurate.\r\n\r\nFrom <a href=\"http://www.linux.com/feature/144307\">http://www.linux.com/feature/144307</a>:\r\n\r\n<cite>Linspire, the distribution originally launched as Lindows, is no more, says Xandros CEO Andreas Typaldos.</cite>\r\n\r\n--\r\nAndrew Min\r\nhttp://andrewmin.com/"
+-
+    name: admin
+    mail: ''
+    subject: 'Definition of "fanboy"'
+    hostname: 87.6.178.181
+    created: '1218788530'
+    body: "Hi,\r\n\r\nIf anybody wants to know what a \"fanboy\" is, read the comment above!\r\n\r\nMerc."
+-
+    name: aSiLord
+    mail: ''
+    subject: 'I started using Freespire at'
+    hostname: 88.238.145.206
+    created: '1263419520'
+    body: "I started using Freespire at 1.013b and upgraded a few time. It was... ok... But it's not seemed to live up to it's promise and has been passed by several other distros. Klikit at an alpha state is better for me than Freespire ever was. Also Chris, the developer, is very open to suggestion and is incorporating our recommendations into the distro. Already it's been described as Kubuntu on Steroids. It's my daily OS and I'd reccommend it to anyone.\r\n"

@@ -1,0 +1,28 @@
+-
+    name: 'Tom Kent'
+    mail: ''
+    subject: 'Pictures don''t compress well'
+    hostname: 69.153.175.3
+    created: '1211395827'
+    body: 'Any possibility of converting the pictures to a format better for graphics like that...like PNG?'
+-
+    name: 'John Calcote'
+    mail: ''
+    subject: 'Graphics format...'
+    hostname: 137.65.149.4
+    created: '1212098677'
+    body: 'I''ve converted the graphics to PNG, as per your request. A good one, by the way. I didn''t even think of it till you mentioned it. The original choice of JPG was arbitrary. Thanks!'
+-
+    name: 'Ahmet Engin Karahan'
+    mail: ''
+    subject: 'Update suggestion'
+    hostname: 81.214.84.125
+    created: '1269327928'
+    body: "aek\r\nYou wrote: \"The original reasons for using GNU tools to build Windows software were that GNU tools were free, and Microsoft tools were expensive. This reason is no longer valid, as Microsoft makes the better part of their tools available for free download today.\"\r\n\r\nI thinks your comment above is no longer valid since the Fedora cross-compiler project."
+-
+    name: rdtennent
+    mail: ''
+    subject: Graphics
+    hostname: 130.15.1.40
+    created: '1277476326'
+    body: 'They''re still unreadable in PNG.  Please use a vector-graphic format so they can be zoomed without losing resolution. '

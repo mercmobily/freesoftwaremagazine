@@ -1,0 +1,14 @@
+-
+    name: theorysavage
+    mail: ''
+    subject: 'Are these interval examples incorrect?'
+    hostname: 71.244.113.5
+    created: '1367005065'
+    body: "interval        daily   30\r\ninterval        weekly  52\r\ninterval        monthly 120\r\n\r\nWouldnt this mean that the weekly.0 would only come into rotation after daily.29 exists, and the first monthly could only happen after 52 weekly rotations?"
+-
+    name: Beivieve1955
+    mail: ''
+    subject: datestamp_backups.py
+    hostname: 82.208.239.165
+    created: '1420820814'
+    body: "Hi!\r\n\r\nGreat tutorial, but I have one problem. When I run the datestamp_backups.py, I get:\r\n\r\nTraceback (most recent call last):\r\n  File \"/usr/local/sbin/datestamp_backups_wd.py\", line 34, in <module>\r\n    os.remove(os.path.join(RSNAP_ROOT, 'daily.0', 'DATE'))\r\nOSError: [Errno 2] No such file or directory: '/media/WD/Backup/daily.0/DATE'\r\n\r\nI've changed RSNAP_ROOT, that is alright, but because it is the first time I run datestamp_backups.py, I really don't have the DATE directory under my daily.0 dir, there is just localhost.\r\n\r\nWhat should I do?\r\n\r\nThanks in advance."

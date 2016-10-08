@@ -1,0 +1,119 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Keep it up Ros, you may finish in time for your menopause...'
+    hostname: 82.168.158.90
+    created: '1158216371'
+    body: "Sorry, my non-PC side got the better of me there.\r\n\r\nI'm totally confident you can achieve all the steps you listed for your program. As long as you break everything down to simple steps (and it looks like that's what you're doing) you can't go wrong. \r\nSometimes it can help to do a little mini project like a proof of concept or something on the side, so jou don't get bogged down too much. I know it helps me when working on long projects. Nothing motivates like success.\r\n\r\nDennis"
+-
+    name: ''
+    mail: ''
+    subject: 'you''ll get through'
+    hostname: 125.212.91.19
+    created: '1158307717'
+    body: "that was something! I would have to wish you luck.  I know that you will get to succeed on this.  Just be patient enough and you will perfect everything .\r\nhttp://www.ayboston.com"
+-
+    name: ''
+    mail: ''
+    subject: 'You will learn more than you think'
+    hostname: 141.197.4.99
+    created: '1158326778'
+    body: "Setting yourself challenges is a great way to approach life in general.  You will be amazed at what you can achieve.  When you try to learn a computer language you will also learn a lot of other things.  For one thing, you will gain a deeper understanding of how your computer works.  It will also help you to think problems through in a logical manner.\r\n\r\nI didn't know how to do this either, so you inspired me to experiment.  Here is my result.\r\n\r\nimport datetime\r\n\r\nk = datetime.date(2000, 3, 17)\r\nl = datetime.date(2002, 7, 4)\r\nprint l - k\r\n\r\nNow, how about a program that calculates how many shopping days until Christmas? <grin>  Happy programming!\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'subracting dates'
+    hostname: 209.234.74.28
+    created: '1158333065'
+    body: 'You might wish to look into converting to/from Julian date. Julian date is a day numbering (starts at noon officially, because it was invented by an astronomer :), so that you don''t have to worry about month boundaries...just subtract.'
+-
+    name: admin
+    mail: ''
+    subject: 'COMMENTS WIPED DUE TO BUG'
+    hostname: 203.59.12.51
+    created: '1158391860'
+    body: "Unfortunately, about 13 comments on this blog entry were lost due to a bug in Drupal. The bug is currently being investigated. \r\n\r\nIf you commented on this post yesterday and cannot see your comment now, please accept out apologies and post your comment again.\r\n\r\nApologies also to Rosalyn.\r\n\r\nThanks\r\n\r\n- FSM Staff"
+-
+    name: ''
+    mail: ''
+    subject: 'Kindred spirit'
+    hostname: 64.39.136.30
+    created: '1158472156'
+    body: "I've never met a female programmer. I feel I'm in it alone. I'm not patient at all and hate to read documentation. So I can completely relate. I want to learn it all....Perl/CGI, PHP, C++, .Net (Lord knows why...I just know I need to keep up with everything and not just stick with unix based languages). I've gotten side tracked due to work but I'm in the position now that I may have a lot of free time on my hands during part of the week. I have a few complicated projects lined up. Nothing that I need to rush on....just projects that I want to see if I can code. Trying to decide on the best language.....thinking of perl.\r\n\r\nGood luck with this. \r\n\r\nTonya"
+-
+    name: ''
+    mail: ''
+    subject: 'Gotta be kidding apout perl'
+    hostname: 128.6.30.208
+    created: '1158527676'
+    body: "> Trying to decide on the best language.....thinking of perl.\r\n\r\nIf there was the slightest hint that you were joking I'd let that go, but as you seem to be serious about it... FOR THE LOVE OF GOD DON'T DO IT! Perl is a horrible hack that happens to work mostly ok for one-liners or throwaway little scripts, but will suck your brain and make you regret the moment you decided to write your first over-hundred-lines program. You know, programs are read far more often than written and perl has been fairly described as \"write-only\" language. Trust me on this, you don't want to decipher a non-trivial 3-months-old perl script, even if you wrote it (let alone someone else).\r\n\r\nSame holds at a lesser degree with PHP since it's more or less a dumbed-down version of perl aimed at web \"programming\". It's the easiest to learn compared to the alternatives if you want to hack a few dynamic pages here and there but as a language is inherently flawed, ignoring all modern language design principles and leaving with you a mess of program logic entangled with presentation (html).\r\n\r\nIf you're looking for a language that keeps a healthy balance between elegance and practicality, learn Python and/or Ruby. Both languages are fairly high level and have more  commonalities than differences; most people's preference to one or the other usually comes down to personal taste. Ruby seems to be somewhat more orthogonal and elegant, Python is currently faster and has much larger standard and 3rd party libraries (though the gap may shrink in the coming years after the hype around Ruby on Rails). My personal preference is python (love the clean syntax and the included batteries) but I'd certainly consider Ruby as a reasonable alternative should I decide to leave python behind sometime in the future.\r\n\r\nHope this helps,\r\nGeorge\r\n"
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: 'Comments my comments?'
+    hostname: 68.93.224.4
+    created: '1158542106'
+    body: "Is it possible that only posts by annonymous cowards are being allowed here? I watched my husband type in a comment that never appeared. Let's get that Drupal bug fixed!!\r\n\r\n-Rosalyn"
+-
+    name: ''
+    mail: ''
+    subject: 'Matter of statistics'
+    hostname: 203.118.159.171
+    created: '1158545398'
+    body: "Not only do you have to calculate the average interval, but you should also calculate the standard deviation as well. This is because biology does not run on clockwork (who am I to tell you this? you know it already), so there will be some drift, and your predictions will get less and less accurate further out.\r\n\r\nIt would also help if, instead of calculating the average from all your records right back to whenever, that you only kept a \"running average\", going back say, a year or two at most. That way your calculation will adapt better to drift, and your prediction for a particular date in the future will become more accurate as it gets closer.\r\n\r\nLawrence D'Oliveiro"
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'Test comment'
+    hostname: 82.53.113.62
+    created: '1158583721'
+    body: "Hello,\r\n\r\nThis is a test comment, to see if it appears and if it's owned my Merc!\r\n"
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'Probably lost due to the bug'
+    hostname: 203.59.46.6
+    created: '1158585900'
+    body: "Hi Rosalyn,\r\n\r\nYour husband's comment was probably one of those lost when the bug did its work. Not very many people bother logging in to comment. It seems even people who have registered can't be bothered logging in before commenting even though they can win the book competition if they do. Still I'd rather anonymous comments than none at all.\r\n\r\nI hope this improves in the coming months.\r\n\r\nBye"
+-
+    name: ''
+    mail: ''
+    subject: 'Python Tutorial Videos (ShowMeDo)'
+    hostname: 213.53.148.66
+    created: '1158586109'
+    body: "Hi there.  Over at <a href=\"http://showmedo.com\">ShowMeDo.com</a> we have a growing set of (free) educational videos, mostly for programming (34 <a href=\"http://showmedo.com/videos/python\">for Python</a> right now with more to come).  You might like Jerol's introduction to Python objects, and our IDE sets may give you a few pointers towards new development environments.  My founding partner Kyran has a set on GUI programming with wxPython which might help if want to add a user-interface?\r\n\r\nWe're moving towards larger, more useful tutorial sets.  John Montgomery has a set on writing Java applets, it'll be a 10-part set when finished (but using Java, so not so useful to you) - but a great example of where we're heading.  We are always looking for feedback on how we could improve, if you have thoughts?  \r\n\r\nIan Ozsvald (ian@showmedo.com - one of the founders of ShowMeDo.com)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Was held for moderation'
+    hostname: 68.93.224.4
+    created: '1158603998'
+    body: "My post was 'held for moderation'.  I'm guessing it's because it contained a lot of links (it was a list of links to Python resources).\r\n"
+-
+    name: Seun
+    mail: ''
+    subject: 'Don''t bite more than you can chew'
+    hostname: 196.3.63.254
+    created: '1158622093'
+    body: "Thats how it works. Just keep learning, don't bite more than you can chew or you'll want to quit. Don't hop to another language just yet, continue with python, when its time to learn something new you'll know. \r\nTo complete your current project successfully I suggest you play around with modules you intend to use in your program so you'll understand exactly how to implement them in your program. \r\nJust be steady in your learning and you're there.\r\n\r\n.s.I..s.ra....el"
+-
+    name: ''
+    mail: ''
+    subject: 'Documentation is vital'
+    hostname: 203.118.159.171
+    created: '1158641440'
+    body: "I don't understand this \"hate to read documentation\" mentality. Documentation is <em>vital</em>, if only because there's no way you can hold in your head all the information you need.\r\n\r\nFor instance, while doing any Python programming, I have two pages permanently open in Firefox: the <a href=\"http://docs.python.org/lib/lib.html\">Python Library Reference</a> and the <a href=\"http://docs.python.org/ref/ref.html\">Language Reference</a>. From here I can hop immediately to a relevant page that explains further some point about some code I'm working on.\r\n\r\nIf you're not doing this, then chances are you're not using the language to its full effect. This can manifest itself in code written in a long-winded, roundabout fashion, that could be rephrased much more concisely. In Python, at least, the concise version is often easier to understand and easier to maintain, as well.\r\n\r\nLawrence D'Oliveiro"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Some useful python links'
+    hostname: 68.93.224.4
+    created: '1158694489'
+    body: "Okay, I'm going to try posting this again:\r\n\r\nYou complain about a lack of examples in the Python documentation, and you are not the first to notice this. There are, however, a number of third party sites that attempt to fill this void. Two of the best:\r\n\r\n<a href=\"http://www.uselesspython.com\">Useless Python</a>\r\nA collection of python snippets that demonstrate various tricks and usages. As the name implies, this is not production code, just fun demos.\r\n\r\n<a href=\"http://aspn.activestate.com/ASPN/Python\">ActiveState Developer Network</a>\r\nActive State maintains a python distribution, and a website with lots of programmer distributions (I think they work with other languages too, based on the site). Anyway, there are a lot of nice \"cookbook\" examples on this site.\r\n\r\nAnd here's yet another python tutorial, you may like:\r\n\r\n<a href=\"http://www.cs.ubc.ca/wccce/Program03/papers/Toby.html\">Python as a First Programming Language for Everyone</a>\r\n\r\nHappy hacking!"
+-
+    name: jonnyb13
+    mail: ''
+    subject: 'Good luck! When you do'
+    hostname: 61.247.241.218
+    created: '1163571176'
+    body: 'Good luck! When you do perfect this, be sure to get a load of questions from me. I am a beginner and have very little knowledge about this. When I do learn enough, I''ll be looking towards you for help! Where can I learn more about htis python?'

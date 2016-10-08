@@ -1,0 +1,49 @@
+-
+    name: admin
+    mail: ''
+    subject: 'So we''ve relaunched FSDaily.com'
+    hostname: 165.98.157.37
+    created: '1181794463'
+    body: 'So we''ve relaunched <a href="http://www.fsdaily.com">FSDaily.com</a>. Free Software Daily is a digg style news hub based on pligg. In our upcoming queue, we can boast more free software news articles than any other site. And it''s up to you the readers to decide which ones are important enough to reach the homepage. If you haven''t looked already, go and check it out and let us know how you feel about it...'
+-
+    name: bobogeg
+    mail: ''
+    subject: 'Subscribed by rss'
+    hostname: 87.248.14.173
+    created: '1181818290'
+    body: 'It''s a nice site, I subscribed to it by rss. So I''ll see it every time I check my google reader. :)'
+-
+    name: 'Michael Fötsch'
+    mail: ''
+    subject: 'I''ve subscribed!'
+    hostname: 212.183.70.215
+    created: '1181820451'
+    body: "I'm subscribed to a number of RSS feeds already (among them Slashdot, Groklaw NewsPicks, and TechDirt), so not all the news are new to me by the time they appear on FSDaily. Nevertheless, sometimes I do find news that I haven't seen anywhere else.\r\n\r\nAnd besides, it's great to have a news hub with \"free\" in the title, and not \"open\". ;-)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I''m not really a newsie...'
+    hostname: 68.93.224.4
+    created: '1182052413'
+    body: "I'm not really a newsie most of the time, but this will definitely carry a lot of the news that I am interested in. I just put it in my top-level bookmarks.\r\n"
+-
+    name: mattflaschen
+    mail: ''
+    subject: 'Matthew Flaschen'
+    hostname: 68.82.201.71
+    created: '1182133050'
+    body: 'I like the new FSDaily (never used the old one).  Now, how about adding it to the link list below your own blogs (along with Delicious, Digg, etc.)?...'
+-
+    name: admin
+    mail: ''
+    subject: 'Looking into it'
+    hostname: 165.98.157.37
+    created: '1182185022'
+    body: 'We''re looking into it Matt. Thanks.'
+-
+    name: undefined
+    mail: ''
+    subject: 'subscribed but then unsubscribed'
+    hostname: 192.91.172.42
+    created: '1182797946'
+    body: "i subscribed to it in my rss reader (\"tiny tiny rss\" or tt-rss), but after a week or so i unsubscribed.\r\n\r\nwhy?  too much noise.  i don't know if anybody has found a good way to integrate rss with reader submitted/voted news sites (digg, etc).  i don't want to wade through all the lowly rated stories in my rss reader, but only the highly rated ones.  or at least i want to know which stories are which.  but stories appear in the rss feed shortly after they are added (or at least that is how they appeared in my rss reader), which is too early in the voting process to make a \"good\" or \"bad\" determination.  so i end up wading through tens of stories per day without the benefit of the community voting process.\r\n\r\nmaybe an updated-daily rss feed of the top rated stories from the previous day?  that would give the stories some time to amass votes and earn a (initial) good/bad score.\r\n\r\nbecause of the dynamics of a user voted news site, i don't know how to best combine an rss feed (static) with fsd (dynamic), but that what i saw with tt-rss and fsd didn't work for me."

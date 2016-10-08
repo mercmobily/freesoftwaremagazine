@@ -1,0 +1,14 @@
+-
+    name: 'Anonymous visitor'
+    mail: infodroid@fastmail.fm
+    subject: 'You forgot to mention Launchpad'
+    hostname: 217.43.40.58
+    created: '1196286780'
+    body: "I am surprised you forgot to mention Launchpad as a free software hosting service.\r\n\r\nIt is certainly more well-known today and popular than some of the more obscure services that were listed!"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Nice summary!'
+    hostname: 68.93.224.4
+    created: '1197506150'
+    body: "I had to learn all this stuff from trial and error, and that was not so much fun. This looks like a very nice summary.\r\n\r\nI'm still trying to get my head around the more advanced parts of this process (I'm responsible for a few of the \"dead projects\" on SourceForge, I'm afraid). One thing that is problematic is that it's very hard to start a project that requires collaboration from the outset -- generally speaking you must have something working before you'll get much contribution from others.\r\n\r\nAs a result, I have two projects (and satellite projects thereof) that I was really excited about when I started, but simply haven't been able to see through to that first release. I still hope to eventually see them through, but it's not simple and I don't know if I'll ever find the time for them.\r\n"

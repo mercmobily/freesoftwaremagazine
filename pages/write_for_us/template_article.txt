@@ -1,0 +1,113 @@
+This is the article's blurb or preamble. Together with the title and subtitle, this paragraph will be displayed as an excerpt from the article on the home page or wherever else the article will display. It is **crucial** to make this section catchy and interesting, so that people who see it in the home page will click on the link and start reading. Don't make it too long.
+
+One note: in this new format, you can have speech marks "like this", as they will be rendered fine by our system. However, please use em-dashes (—) when separating sentences—but not for word-separating exercises.
+
+# The first heading (Introduction)
+
+This is the first section of the article. This is were you put your introduction if your preamble isn't enough.
+
+Before I forget, this is [how to make a link](http://www.freesoftwaremagazine.com).
+
+This is a "zoom":
+
+=ZOOM=In a zoom you can repeat an important sentence written in the article. You can put zooms anywhere=
+
+In a zoom you can repeat an important sentence written in the article. You can put zooms anywhere. There should be about 1 zoom for every 500 words in each article. Please note that zooms start with a capital letter and do not end with a period/full stop. Zooms are meant to be excerpts from your article, but you can paraphrase or alter them so they work as stand-alone sentences.
+
+Before I forget: you should tag things like `functions()`, `$variables`, and `/file/paths/or/file.names` so they will look different in the text!
+
+It's also possible to use _italic_ and **bold** words. Although, we prefer that you limit your use of **bold**.
+
+# The second heading
+
+Here is the second section. This section also contains a listing:
+
+=CODE_START=
+#!/usr/bin/perl
+#
+# $ { } & % # \ ~ ^ _ 
+#
+$start=0;
+$prev_line_empty=0;
+=CODE_END=
+
+Listings can only be 52 columns (characters) wide. That is the width of our magazine columns. If you go over 52 columns you listing will wrap and will (usually) look terrible.
+
+Here are some bullet points:
+
+* First point 
+* Second point
+* Third point 
+* Final point
+
+Please please please do not indent bullets--only one level is allowed!
+
+A numbered list contains numbered list items:
+
+1. Numbered item 1
+1. Numbered item 2
+
+And that's it!
+
+However, I must add that subheadings are in fact allowed.
+
+## A subheading
+
+This text will appear under a subheading.
+
+## Another subheading
+
+Here is the contents of the other subheading
+
+# The third heading
+
+Here is the third section. It's here to show how to place images in an article. Please remember: in the final published article your figures may not appear where you placed them. And DO NOT embed images in your file!
+
+=IMG=figure_file_name.jpg=Figure 1: this is the caption for the figure=
+
+As you can see in figure 1, the caption began with “Figure 1: ” and then there was some text with no final period. In the article, you would refer to the first figure using “figure 1”; not “Figure 1” or “Fig. 1”.
+
+Now, you can also have textboxes...
+
+=TEXTBOX_START=The textbox title =
+This text will be placed in a textbox.
+
+You can have all of the formatting elements **you** like here.
+
+=TEXTBOX_END=
+
+And that's it--yes, that was a textbox! The only great limitations of textboxes is that they cannot contain listings, as listings require a different style in the article's template.
+
+# The fourth heading
+
+This heading is here mainly to show authors how to place a table in the article:
+
+
+First item     | Second item | Third 
+---------------|-------------|----------
+1,1            | 1,2         | 1,3     
+This is 2,1    | And 2,2     | And 2,3! 
+Now 3,1        | Then 3,2    | Err... 3,3 
+Finally 4,1    | And 4,2     | And 4,3 
+
+=TABLE_CAPTION=The table's caption. Remember to separate the caption from the table with a newline=
+
+Keep in mind that you don't have to be **that** careuful in terms of keeping the table look good—the important thing is that the | symbols are there...
+
+# Conclusion
+
+Normally, an article would have a "conclusion" section that would sum up what was "discovered" in the article.
+
+But before closing, here is how you quote somebody:
+
+>This is a quotation, which will be indented. Thank you Kirk for pointing out that I had forgotten to include this in the article template!
+
+Well, that's all! Don't forget the bibliography... if you need one.
+
+# Bibliography
+
+[1] Mobily, Tony “Hardening Apache”, Apress:2004
+
+
+
+

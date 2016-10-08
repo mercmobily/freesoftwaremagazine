@@ -1,0 +1,14 @@
+-
+    name: Marsolin
+    mail: ''
+    subject: 'Finding deb files'
+    hostname: 70.112.42.193
+    created: '1183325705'
+    body: "I run a website called Linux App Finder and one of it's primary uses is finding a deb binary for a particular package. It gives an updated snapshot of the Debian, Ubuntu, Debian Multimedia (Marillat), Medibuntu, Automatix, and other repositories. For rpm users there are even links to OpenSUSE and PCLinuxOS.\r\n\r\nA good example page is for Democracy Player (http://linuxappfinder.com/package/democracyplayer). It contains links to deb packages from multiple repositories. \r\n\r\nAn example that fits better with the point of this article is TrueCrypt (http://linuxappfinder.com/package/truecrypt). TrueCrypt isn't included in the Debian and Ubuntu repos, but can be found in Automatix as the link shows.\r\n\r\nWhile I only have occasional links to GetDeb because they don't have a repo to automatically scan, I have to second the author that it's a great resource for finding debs that don't exist elsewhere.\r\n\r\nChad\r\nhttp://linuxappfinder.com"
+-
+    name: 'El Cerrajero'
+    mail: el@cerrajero.soy
+    subject: 'Are you sure it''s a good idea?'
+    hostname: 217.216.152.34
+    created: '1183327998'
+    body: "It isn't a good idea to play outside official repositories --plus debian-multimedia-- if you don't know exactly what are you doing.\r\n\r\nOn the other hand, if you know what you're doing is pretty simple to install whatever you want ^_^"

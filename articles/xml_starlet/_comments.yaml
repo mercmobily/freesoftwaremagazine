@@ -1,0 +1,28 @@
+-
+    name: ''
+    mail: ''
+    subject: 'double quotes on xpath expression'
+    hostname: 84.14.112.202
+    created: '1155800550'
+    body: "I tried\r\n<cite>\r\nxml sel -t -m //contact[phone/@type='mobile'] -v name -o \":\" -v phone[@type='mobile'] -n phonebook.xml </cite>\r\n\r\nBut this did not work for me. No answer on stdout. I had to insert double quotes for this to work\r\n\r\n<code>\r\nxml sel -t -m \"//contact[phone/@type='mobile']\" -v name -o \":\" -v \"phone[@type='mobile']\" -n phonebook.xml\r\n</code>\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'excellent article'
+    hostname: 88.212.18.109
+    created: '1173806378'
+    body: 'excellent article, thanks!'
+-
+    name: 'Daniel Escasa'
+    mail: ''
+    subject: 'If you tried this on a *nix'
+    hostname: 58.69.229.235
+    created: '1173837170'
+    body: "If you tried this on a *nix system, the left and right brackets... Well, if you tried it on a *nix system, you know what those do :)\r\n\r\nDaniel O. Escasa\r\nIT consultant and writer for hire\r\ncontributor, Free Software Magazine (http://www.freesoftwaremagazine.com)\r\npersonal blog at http://descasa.i.ph"
+-
+    name: tsoueid
+    mail: tsoueid@gmail.com
+    subject: 'How to update node text value ?'
+    hostname: 81.57.44.225
+    created: '1187391614'
+    body: "Hello,\r\n\r\nIs is possible in xmlstarlet to update the value of a node by using concat and self:: ?\r\n\r\nThe below command is not parsing concat and self:: correctly for me:\r\n\r\nC:\\>xml ed -u //phone[@type='work'] -v \"concat(':',self::phone)\" phonebook.xml\r\n\r\n<?xml version=\"1.0\"?>\r\n<phonebook>\r\n  <contact>\r\n    <name>John Doe</name>\r\n    <phone type=\"home\">555-1234</phone>\r\n    <phone type=\"work\">concat(':',self::phone)</phone>\r\n  </contact>\r\n  <contact>\r\n    <name>Chris Jones</name>\r\n    <phone type=\"work\">concat(':',self::phone)</phone>\r\n    <phone type=\"home\">555-4567</phone>\r\n    <phone type=\"mobile\">555-5555</phone>\r\n  </contact>\r\n  <contact>\r\n    <name>Jane Exciting</name>\r\n    <phone type=\"home\">555-1234</phone>\r\n    <phone type=\"work\">concat(':',self::phone)</phone>\r\n  </contact>\r\n</phonebook>"

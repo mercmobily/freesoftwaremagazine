@@ -1,0 +1,49 @@
+-
+    name: admin
+    mail: ''
+    subject: 'Let us know your further thoughts'
+    hostname: 165.98.157.37
+    created: '1184526599'
+    body: 'There''s been a lot of controversy over the recent release of the GPLv3. But what do you think? Do you think it''s exactly what the free software movement needs? Do you think it has some problems? Or do you think it is not required and that the GPLv2 was fine without the changes? Please let us know your thoughts on the matter and give us a comment if you have anything further to add.'
+-
+    name: skypjack
+    mail: ''
+    subject: 'This tastes like crusade'
+    hostname: 79.9.127.43
+    created: '1184528883'
+    body: "I'm reading the license, but I haven't finishend yet.\r\nAnyway, my opinion is that it pays more attention to terminology (maybe, it was a problem in GPLv2? I don't know!) and this is good. It's useful to take off every doubt, I think this is a headway.\r\nHowever, in the first section, there is something that shouts against Microsoft-Novell's pact and this isn't a headway, unfortunately.\r\nI hope that this license isn't made to run against this kind of pact, I hope that the main idea isn't to start a crusade against some colussuses because this is a back step, not a headway!\r\nI trust in FSF and I prefer to don't think that this license represents the beginning of a crusade, but only the time will tell us the truth ...\r\n\r\n\r\n\r\n\r\n... My opinion about the license? It's praiseworthy! :-)"
+-
+    name: timberwolf753
+    mail: ''
+    subject: 'I think that it is a great'
+    hostname: 68.45.93.54
+    created: '1184559403'
+    body: "I think that it is a great license.  It closed up some loop holes and stops Microsoft from extorting money out of Linux Distributions under the pretense of IP violation.  Tell us what patents they are Microsoft and we can fix them by invalidating them :-).\r\n\r\nStupidity is not an option.  It is a way of life :P."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'The actual ''problems''...'
+    hostname: 84.100.56.65
+    created: '1184625957'
+    body: "The poll lacks an intermediate answer between 'much needed' and 'good with problems' - in fact, it comes with some restrictions that were added by its increased specificities. Don't get me wrong, I think that it is a great improvement over GPLv2 - it's just that while GPLv2 allowed some leeway on interpretation that the code's copyright holder could address if asked about it (like, say, Linus Torvalds saying it's okay to use Linux as a firmware - TiVo - as long as modifications are given back), GPLv3 is much, much more specific - and as such, doesn't allow for any leeway. While in many case it's good that it's now more precise, one could still find oneself uncomfortable in that straight jacket - and may find the older, worn but more flexible GPLv2 preferable.\r\nIn most cases though, GPLv3 is the way to go.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'I agree - more poll options needed'
+    hostname: 82.108.129.98
+    created: '1184775725'
+    body: "I would have preferred to answer somewhere between the top two options. I think it's an improvement on GPL2 and closes some loopholes where needed but a \"fantastic licence\"? No, I don't think I'd go that far.\r\n\r\nSo I voted for option 2. What are the problems? IMHO they are less in the wording of the licence and more to do with the public relations side. It's not all the fault of the FSF though. Not everything written about GPL3 has been helpful. Inflammatory statements made (by others and by the FSF) in the early draft days have not been properly retracted or explained/built upon as appropriate.\r\n\r\nI feel the average punter (by which I mean the average punter who gives a monkey's) has sometimes been left a little bewildered by the whole exercise. It's only recently that things have become a little clearer.\r\n\r\nI'm not sure those are the types of \"problems\" meant by the poll option though. :o)\r\n\r\nRyan"
+-
+    name: aryah
+    mail: ''
+    subject: 'Its a great licence,'
+    hostname: 78.3.30.240
+    created: '1184788356'
+    body: "Its a great licence, 'fantastic' may be putting it in a simply overemotional phrasing for a dreary legal text, but im fine with voting that way for it approximates my stance on it well. \r\n\r\nthe current microsoft-novell situation shows how this is a badly needed move, and re TiVo, theres no problem with using gnu/linux as 'firmware', but it does stop such companies from locking down the code freely given to them under condition that they give it freely as well, in their devices and inserting spyware and other malicious code without ppl being able to remove them, as TiVo did. It disallows making free software pseudo-free by using technical loopholes to the language of previous GPL, and could aid us in avoiding being dominated by DRM..\r\nit seems a robust, internationalised, more compatible and strong copyleft licence, that GPL allways meant to be."
+-
+    name: maestromarious
+    mail: maestromarious@gmail.com
+    subject: 'talking about freedom'
+    hostname: 201.253.166.144
+    created: '1185412233'
+    body: "A human being is a part of the whole, called by us Universe, a part limited in time and space. He experiences himself, his thoughts and feelings as something separated from the rest a kind of optical delusion of his consciousness.This delusion is a kind of prison, restricting us to our personal desires and to affection for a few persons nearest to us. Our task must be to free from this prison by widening our circle of compassion to embrace all living creatures and the whole nature in its beauty. Albert Einstein\r\n\r\n\r\n`````````````````````````````````````````````````````````````````thank"

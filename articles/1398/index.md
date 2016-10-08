@@ -1,0 +1,22 @@
+---
+nid: '1398'
+title: 'Licensing bait and switch'
+authors: 'David Sugar'
+published: '2005-10-23 16:09:41'
+license: verbatim_only
+section: opinions
+listed: 'true'
+
+---
+Several years ago, at the eGovOS summit, Microsoft desperately tried to introduce its form of “Shared Source” as if it were a valid form of “Open Source”. And to claim their new licensing strategy they offered “freedom” to others. This effort met with extreme skepticism from me, and I wasn’t the only one. Since then, they have appeared at many free software related advocacy events, as well as using their own closed and special government conferences, and have been desperately trying to sell this idea: that “Shared Source” is “Open Source”. At last, they may have found a way to make this claim and thereby confuse and deceive the marketplace. They may even accomplish this with the full help of OSI (Open Source Initiative) and even the Free Software Foundation—simply by writing three software licenses that nothing important will ever be released under.
+
+I think Microsoft believes it is important because they fear that “Open Source” or free software licensing will be used as a checklist for approved public purchases. Indeed, some nations are doing this today. Peru, for example, just introduced a public procurement policy that explicitly states that vendors who offer freedom will be preferred in public sector purchasing.
+
+There are many valid reasons for preferring freedom. Government procurement has meant, and in fact many nations have laws that require, that no goods or services are procured from a “sole source provider”. Doing so leaves a government and public policy potentially hostage to the whims of a single vendor. Governments also often make decisions about the kind of environment they desire and the kind of society they wish to promote. Free software specific procurement laws are a natural part of this processes.
+
+Previously, in order to get around a government purchasing requirement for posix compatible operating systems, Microsoft offered a broken "posix" subsystem that is almost never used. In the same way, Microsoft can now say to those governments with procurement requirements which may mention free or open source licensing, “Yes sir, we offer that too. Hey our ‘Shared Source’ program is even OSI approved”. What they will not mention is that the products that they are actually offering through the Shared Source program to governments are under licensing terms so restrictive that they amount to indentured intellectual servitude. Those products will not be offered under their three shiny new licenses. This is known as bait and switch.
+
+As in the posix example, Microsoft’s governmental sales force has a long and distinguished history of deceptive sales practices, as well as misusing federal procurement law to harass and intimidate, or try and have fired federal workers who dare choose alternate products. This problem was so severe a number of years back, that when I was invited to speak at the National Science Foundation to various agency directors on software freedom and the principles of scientific software, the whole event had to be arranged by the NSF director virtually in secret. Nobody was notified until the day prior and there was no official attendance list kept, because even directors of US federal agencies personally felt threatened, and feared retaliation by Microsoft. This fear was real, and was communicated by various attendees at the event. Of course, given that their sales force operates in a corporate culture where executive management choose to knowingly engage in illegal business practices, this is not that surprising.
+
+If these new licenses do offer and meet the OSI definition for "Open Source", or the free software definition for freedom, then certainly they can be recognized as such. The problem is that neither OSI, nor even the FSF, are fully able to handle an organization being deliberately deceptive in this way. However, it is very important not to allow such a recognition about these three licenses to in any way become an endorsement of Shared Source branding and licensing program. This is what Microsoft desperately seeks—not to release important software under these new licenses—but rather to deliberately confuse the meaning of their "Shared Source" branding as a whole with open source. And it looks to me like OSI is all too ready to fall into that very trap.
+

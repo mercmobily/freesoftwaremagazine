@@ -1,0 +1,35 @@
+-
+    name: admin
+    mail: ''
+    subject: 'What would you like to see?'
+    hostname: 165.98.157.37
+    created: '1177038307'
+    body: 'Let us know how you feel about the possibilities above. It''s pretty straight forward.'
+-
+    name: 'Anonymous visitor'
+    mail: ciko2006@gmail.com
+    subject: 'Hello FSM team, i live in'
+    hostname: 194.126.21.2
+    created: '1177051979'
+    body: "Hello FSM team, i live in Lebanon and some of the digital payment methods (Especially Paypal) doesn't accept our credit cards. I love the content so if you can figure out a way to fix this issue :) \r\n\r\nRegards "
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'my $$$'
+    hostname: 62.203.184.110
+    created: '1177054872'
+    body: "I voted for \"the way it's now but you can purchase access to an ad free version of the site\". But i personally wouldn't purchase it anyway, because as a student i don't have that much money and the ads don't bother me that much. \r\nSo, maybe the next poll should be: \"How much were you willing to pay for a site without ads?\""
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'I did the same'
+    hostname: 82.108.129.98
+    created: '1177073763'
+    body: "I did the same but not because I am a student :o)\r\nI'm not sure how many people in practice would pay for an ad-free version but to give people the opportunity would be a good thing."
+-
+    name: admin
+    mail: ''
+    subject: 'On second thoughts'
+    hostname: 165.98.157.37
+    created: '1177090529'
+    body: 'Thanks for your feedback. However, having thought about this poll a little more and the responses so far, it seems we asked the wrong question. No one is really going to object to a product they don''t have to buy. So let''s ask the <a href="http://www.freesoftwaremagazine.com/polls/would_you_pay_for_an_ad_free_fsm">real question</a>.'

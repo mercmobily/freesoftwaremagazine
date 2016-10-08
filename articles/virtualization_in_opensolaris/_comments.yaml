@@ -1,0 +1,7 @@
+-
+    name: Bovine
+    mail: bork@moo.com
+    subject: 'Conclusion sucks'
+    hostname: 70.250.155.180
+    created: '1192490843'
+    body: "That conclusion sucks.  You need to elaborate more on the differences that exist, especially the apparent inability to run non-Solaris operating systems as guests.  Running Linux binaries in the fake lx zone seems like a horrible limitation subject to very incomplete emulation.\r\n\r\nYour coverage of Xen is inadequate, and you should explain any limitations that might exist when running Solaris as a Xen guest, instead of as a Solaris Zone guest.  Explain why someone would want to use Solaris as the Xen domain0, if any."

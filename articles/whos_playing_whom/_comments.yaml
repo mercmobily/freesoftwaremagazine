@@ -1,0 +1,140 @@
+-
+    name: ''
+    mail: ''
+    subject: 'But what does Novell expect?'
+    hostname: 86.34.237.177
+    created: '1162886652'
+    body: "The word on the street is that Novell knew that infringed on some Microsoft patents and initiated a dialog to solve the infringement.\r\nOr another possibility is that Microsoft approached them, considering Novell is paying a reasonable amount of software developers, including Mono developers, and threaten to sue in case they don't reach an agreement.\r\n\r\nWhat you say is logic and it might be true ... if you assume that Novell and Microsoft teamed up for the good of their customers (which is possible, but really ... I don't think so) ;)"
+-
+    name: ''
+    mail: ''
+    subject: 'Off topic'
+    hostname: 172.130.211.100
+    created: '1162943742'
+    body: 'I love reading Free Software Magazine and all the interesting points of view around here. But that dang calendar thing in the top left of the page... it''s too big for the sidebar and spills over, obscuring the first few lines of every article.'
+-
+    name: ''
+    mail: ''
+    subject: 'i saw richard m. stallman'
+    hostname: 216.125.49.252
+    created: '1162949181'
+    body: "i saw richard m. stallman speak this past weekend, and he mentioned something about a study where they found X number of patents that GNU/Linux violated in X lines of code.  Extrapolating that out to the codebase in a typical GNU/Linux distribution, they estimated that the distribution would violate XXX number of patents.  I don't remember the exact figures that he mentioned, but i think it was around 200 or so.\r\n\r\nthe whole thing is pretty shady, though.  a lot of balmer's statements about this deal amount to FUD.  \r\n\r\ni'll tell you for sure that i'll be staying way from SUSE products...."
+-
+    name: ''
+    mail: ''
+    subject: 'Or  maybe Microsoft infringed on Novell copyrights'
+    hostname: 62.253.128.14
+    created: '1162949866'
+    body: "Microsoft has been putting Unix code into it's \"Services for Unix\" product. I think it is possible that Novell threatened Microsoft with an expensive lawsuit, and Microsoft was forced to make concessions. \r\n\r\nThe other issue is the meteoric growth of Linux in the server marketplace. Maybe Microsoft realised that it needs to use Linux on it's servers (like it did Unix services on Windows servers) in  order to stay in the server business.\r\n"
+-
+    name: admin
+    mail: ''
+    subject: 'Talk to helpdesk'
+    hostname: 203.59.181.110
+    created: '1162951269'
+    body: 'Your comment is wasted here. Send a detailed description of your problem (with screen shots if possible) to "helpdesk (at) freesoftwaremagazine (dot) com".'
+-
+    name: ''
+    mail: ''
+    subject: 'Hey you never know'
+    hostname: 24.184.247.103
+    created: '1162963190'
+    body: 'One thing is that we never know what Novell thinking, they are very smart, they doing this for the better of there company (which is tight to Linux, what good for the company is good for Linux). It need to happen, they got make easier for companies to run MS and Linux well. Hey it a five year deal we would soon find out if was a smart choice. Now people dont be i aint getting Suse no more the working w/ MS, remember most of the world works MS software, so they need make the software work w/ MS. (It like having exchange house of money in other country and not been able work with dollars...do u think you will last). Not say no one else have done a lot for Linux but hey Novell has done a lot, a deal thinkpad the case against sco. So Novell point of is hey i take what works even not all open-source, that how the real is, there a company they trying make money, I wish them the best as I wish Red Hat the best...people like to think there some Linux war going on, but what good for Red Hat is good for Novell and vice-versa....and what it important it good for Linux'
+-
+    name: ''
+    mail: ''
+    subject: patents
+    hostname: 68.93.224.4
+    created: '1162966591'
+    body: "There is no real question that there are software patents whose claims cover GNU/Linux software. Whether any of those claims would stand up in court and whether any of them <em>should</em> stand up in court are both much more debatable questions.\r\n\r\nNone of these claims would, of course, apply in Europe. And the question of software patents being legalized there has been a constant threat. A challenge to GNU/Linux which would so obviously cause market distortion to favor a company which in Europe is regarded as a \"known, convicted corporate monopolist\" would lend support to the efforts of people like the <a href=\"http://www.ffii.org/\">FFII</a> who are trying to fight software patents there.\r\n\r\nBut in order for that to happen, Microsoft has to be drawn into actually attempting a patent lawsuit. So far, it's all been innuendo. Somebody, at some point, has to call their bluff. It was relatively easy to do that with SCO, but Microsoft is a much bigger fish.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Microsoft Wants Novell'
+    hostname: 67.22.64.193
+    created: '1162976608'
+    body: "Here's the way it works.  Microsoft wants Novell.  So first they make a deal with Novell, and normal Linux users abhor the deal, so they stay away.  Novell loses a ton of market share, and the only thing keeping it afloat are the coupons that Microsoft buys, and the Microsoft users using Suse because Microsoft tells them to.\r\n\r\nSo basically then, only Microsoft people use Suse, and Novell gets most of its money from Microsoft.  At that point, Novell basically becomes a Microsoft Linux house and either stays as their lap dog, or gets bought by Microsoft directly."
+-
+    name: ''
+    mail: ''
+    subject: 'Microsoft''s trying to control employment of open source coders.'
+    hostname: 62.49.39.98
+    created: '1162987380'
+    body: "Microsoft's aim is to establish a restrictive set of licenses like the one with Novell that aims to (ab)use it's market monopoly position allow it to dictate how those companies remunerate their coders by making provisions for rewards/penalties in contracts and licenses. For example, Microsoft said it will not sue \"home/unemployed coders\" that produce open source code for nothing, but it will sue those who are remunerated. By doing this it hopes to cut off the money supply that supports open source coders.\r\n<p>\r\nMicrosoft's Bill Hilf has actually spelled out this strategy:\r\n<p>\r\n<cite><b> Bill Hilf: This is an intellectual-property deal. There will be an overlap at some point between our intellectual property and open source that we have to resolve. We knew that. It was going to happen. It was just a question of when.</b></cite>\r\n<p>\r\n<cite><b>We said let's put in place something that allows us to a) establish a process for how we can work with an open-source company on our intellectual property, b) do it in such as way that it can still work within the [GNU] GPL [general public license] and c) how do we do this in a way where we can clearly draw the line between the community developer, the noncommercial open-source community guy writing code and the commercial developer who is using open-source code. Doing one of those is easy, doing two of them is actually hard but possible. Doing all three is very, very hard because one can contradict the other.</b></cite>\r\n<p>\r\n<a href=\"http://www.infoworld.com/article/06/11/06/HNmsopensource_1.html\">http://www.infoworld.com/article/06/11/06/HNmsopensource_1.html</a>\r\n<p>\r\nI my opinion this attempt to use it's monopoly position to manipulate the software employment market is a serious abuse of monopoly and Novell's contract needs to be examined fully and publically to check if it breaks employment, trade, or anti-trust laws.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Another post, another'
+    hostname: 193.67.179.20
+    created: '1162999426'
+    body: "Another post, another theory.\r\n\r\nPerhaps Novell was simply beeing greedy. There was a ruff a few months back that the Novell shareholders wanted to see godo numbers *fast*. The steadily growing Suse business wasn't enough to make up for their declining Netware business. Perhaps that's why Novell made this deal, in the hope to sell a lot more Suse in the short term to please shareholders and they didn't contemplate the long term hard enough.\r\n\r\n-- \r\nSander Marechal"
+-
+    name: ''
+    mail: ''
+    subject: 'I tried that'
+    hostname: 172.128.63.214
+    created: '1163001222'
+    body: 'I tried that. My email with screenshot got bounced.'
+-
+    name: ''
+    mail: ''
+    subject: 'an Anonymous coward from the North (Canada, eh) says'
+    hostname: 68.151.14.168
+    created: '1163002720'
+    body: 'It seems pretty  clear from the outside, MS friendlies up to and eventually takes over, or puts out of business, Novell.  Either that, or does what they did last time, makes Novell irrelevant. (where''s NetWare now??)  Tho I don''t see any point in making Novell your friend if your ultimate goal is to destroy them (again) Do they (MS) need to do that?  I can''t see why MS would need a friend on the Linux side.  Mayhaps Ballmer isn''t Gates? and it''s a new MS we''re seeing.  To paraphrase Rodney, maybe were all gonna "just start getting along."  Hmmm, maybe it''s not that clear . . .'
+-
+    name: ''
+    mail: ''
+    subject: 'Does Novell management want what''s best for Novell...'
+    hostname: 69.17.73.250
+    created: '1163009204'
+    body: "Does Novell management want what's best for Novell, or only what's best for Novell management?\r\n\r\nThe head of Novell already got fired because he couldn't make enough money with Linux quickly enough.  The guy in charge now does not want to see that happen to him, and how's he going to convince his user base to switch from Netware any faster?  If he sees some quick profits, gets some bonuses, and moves on I'm sure he'll be happy.  Then it's up to the next guy to keep the \"momentum\" going.  Isn't this what they teach in business school?"
+-
+    name: ''
+    mail: ''
+    subject: 'How many MS "partnerships"'
+    hostname: 66.11.182.154
+    created: '1163010843'
+    body: "How many MS partnerships have turned out badly for MS?  And for the partners?  \r\n\r\nExactly.  \r\n\r\nBye-bye, Novell.  "
+-
+    name: ''
+    mail: ''
+    subject: '*everyone*?  really?'
+    hostname: 68.161.25.15
+    created: '1163036000'
+    body: "[snip]If it is a license, then Novell is risking its own right to distribute GNU and Linux (in fact, it might be threatening everyone's right to)[/snip]\r\n\r\nThe part about \"threatening everyone's right to\" is pure FUD.\r\n\r\n-my .02USD"
+-
+    name: admin
+    mail: ''
+    subject: 'Try without the screenshot.'
+    hostname: 203.59.181.110
+    created: '1163039339'
+    body: 'Either try sending an email without the screenshot to helpdesk first, or post a comment while logged in so helpdesk can contact you.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I hope you''re right'
+    hostname: 68.93.224.4
+    created: '1163083875'
+    body: "<p>but here's what the GPL actually says about this:</p>\r\n\r\n<blockquote>“7. If, as a consequence of a court judgment or allegation of patent infringement or for any other reason (not limited to patent issues), conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License, they do not excuse you from the conditions of this License. If you cannot distribute so as to satisfy simultaneously your obligations under this License and any other pertinent obligations, then as a consequence you may not distribute the Program at all. For example, if a patent license would not permit royalty-free redistribution of the Program by all those who receive copies directly or indirectly through you, then the only way you could satisfy both it and this License would be to refrain entirely from distribution of the Program.”—GPL, v2</blockquote>\r\n\r\n<p>I am not a lawyer, but as I read this, patent encumbrance of a package leads automatically to a loss of distribution rights. Since patents affect everyone, the imposition of patent licensing restrictions lead to everyone's distribution becoming illegal.</p>\r\n\r\n<p>The extra consequence is that Novell can't use a special license to be excluded from this (but this may depend on whether a “covenant not to sue” is really a license. I'm betting a court would say “yes”, but it's debatable).</p>\r\n\r\n<p>There's more to it than that, of course, because actually pursuing such a lawsuit is probably not Microsoft's intent, and would probably have lots of negative consequences for them, since it would be so obviously destructive. Either it would come out that all 200+ patents they hold are frivolous and shouldn't have been granted, or it will make it obvious that software patents are an absurdity to begin with.</p>\r\n\r\n<p>But that can only happen if Microsoft is forced to put their cards on the table. As long as they're bluffing, the FUD will work for them.  What they may have done here is create sufficient threat to be recognized by a court, allowing such measures as declaratory judgements to be sought, or pushing Microsoft into a position where they must sue or lose credibility.</p>\r\n\r\n<p>Or so optimistic folks like myself can hope.</p>\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Switching back to SUSE'
+    hostname: 70.136.99.197
+    created: '1163090499'
+    body: "I overreacted like and am not happy about this deal, BUT it isn't as bad as everyone makes out because no one has read all the details yet,\r\n\r\nhence links to follow\r\nNovell/Microsoft Reading List\r\nhttp://www.linux-watch.com/news/NS4613711577.html\r\n\r\nespecially goto\r\n\r\nhttp://www.linux-watch.com/news/NS4287912423.html\r\n\r\nand read and research carefully.\r\n\r\nand here is an OPINION why author's's sticking with SUSE\r\n\r\nhttp://www.desktoplinux.com/news/NS4633960249.html\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Just click on the little red'
+    hostname: 190.37.130.209
+    created: '1163518888'
+    body: "Just click on the little red X and go on to something else. \r\n\r\nI have no doubt that this thread is repeated somewhere. \r\n\r\nI only came to read the reference. Perhaps those who come everyday actually make use of the calendar. Something for everybody.  "
+-
+    name: ''
+    mail: ''
+    subject: 'F*** novell'
+    hostname: 84.39.52.27
+    created: '1163548909'
+    body: "I use SuSE since version 7 and since novell bought it has being constantly worsening SuSE, it became less stable and less stable and the latest release was even broken, what the f*** is it with zmd and mono?zmd giving me unhandled exceptions a la windows?Core apps shouldn't be managed processes.F*** 'em.Does SuSE have to became shit so that windows users fell confortable switching?\r\nNow they make a deal with microsoft, and ballmer is saying the only patent safe distro is novell's SuSE Linux, oooh f*** 'em, f*** microsoft f*** novell f*** 'em i will be using Fedora, my company will be using Red Hat, sue me if you wish, you f***ers.\r\n\r\nJohn D. Levine"

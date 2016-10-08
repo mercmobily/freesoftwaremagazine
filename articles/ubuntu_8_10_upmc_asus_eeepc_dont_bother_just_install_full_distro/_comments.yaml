@@ -1,0 +1,14 @@
+-
+    name: toogreen
+    mail: ''
+    subject: 'Why not just hit F9 at boot??'
+    hostname: 58.41.159.108
+    created: '1231941708'
+    body: "That's all great, I also have Ubuntu 8.10 installed on my EeePC (but on a SD card, I kept my Xandros), but didn't you know that you can restore the original Xandros very easily in like 15 seconds??\r\n\r\nThat same thing happened to me, I mean the boot loop thing, couldn't use Xandros anymore but all I had to do was to hold F9 (I think, if I remember correctly) at boot time and in less than 20 seconds it restored my Xandros to its factory state! \r\n\r\nPersonally as much as I love Ubuntu I prefer install it on a SD card, this way I can still use Xandros when very quick access is needed. Oh well, next time you'll know what to do when your Xandros dies on you!!! :-P"
+-
+    name: johnhenry
+    mail: ''
+    subject: 'Using EeeBuntu Standard or NBR'
+    hostname: 87.114.135.186
+    created: '1232891117'
+    body: "This system does seem to work very effectively, though as it is using the USB pen as a Live USB setup, booting is very slow. It would be nice if one could use the USB pen for a proper permanent installation. I gather this is not (yet?) possible. I do have the EeeBuntu Base installed in place of Xandros, and it works well for Internet functions, including, of course, the wireless connection automatically - but it does not include OpenOffice, or any other WP.\r\n\r\nHowever there are other advantages with the Live USB installation. I find it is perfectly able to log in to a local Windows (Samba) Network, including using a printer in OpenOffice.org through Samba.\r\n\r\nIf your Xandros use of the SSD disk is dead anyway, why not clear it and mount it. You then have 2G of permanent memory."

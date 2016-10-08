@@ -1,0 +1,35 @@
+-
+    name: morleron
+    mail: ''
+    subject: 'Medsphere lawsuit'
+    hostname: 71.115.168.63
+    created: '1165625059'
+    body: "It seems to me that this would be the perfect opportunity to launch a counter-suit with the intent of forcing Medsphere to abide by the terms of the GPL.  IANAL, but it seems to me that, if Medsphere is distributing code that is covered by the GPL then they have no leg to stand on; they have to make the source code available.  If one of the companies that they distribute the code to should decide to post that code to SourceForge my understanding of the GPL, indeed of the whole idea behind FOSS, leads me to believe that Medsphere could not prevent that as the company which they distributed the code to has every right to continue distribution of the code.  Likewise, it seems to me that to abide by the spirit of the GPL it is incumbent upon Medsphere to make the dirtribution of their code as easy as possible.\r\n\r\nUnfortunately, it looks to me as though the Medsphere software is covered by a \"Public Domain\" license - at least that's what it says on the Sourceforge Medsphere page.  If that's the case then it's my understanding that Medsphere can legally claim that any changes they made to the code turn it into a proprietary product the distribution of which they have every right to control however they wish.  This is one area where what is legal and what is moral are apparently two different things and it's one of the reasons why our society is so messed up.  The law supports the use of immoral business practices leading to a dichotomy of thought and practice which, in real life, leads to situations such as this.  Until we see fit to bring our laws and our proclaimed morality into agreement, so that violation of one is automatically a violation of the other, this type of thing will continue to be a problem.  That's one of the reasons why I'm a strong supported of FOSS and the GPL - the legal mechanism of the license is in line with the moral philosophy which lies at the heart of FOSS.\r\n\r\nPerhaps I'm missing something here, but it seems to me that our legal system will allow Medsphere (assuming the software is not GPL'ed) to act in this immoral manner: claiming to be an \"open source software provider\" while acting like Microsoft when it comes to \"their\" product.  That being the case I'm afraid that our two heroes may end up paying for their principles with cold hard cash, if not their freedom.  It's not right, but it may be the law.  I hope that I'm confused about which license the software is under and that the Sourceforge page is wrong.  If the software is truly GPL'ed then I think the Free Software Foundation should be encouraged to look into the little matter of enforcing the distribution clauses of the GPL.\r\n\r\nJust my $.02,\r\nRon\r\n\r\nThe problem with the U.S. is that the people fear the government more than the government fears the people. - Me\r\nGnuPG key available at: pgp.mit.edu"
+-
+    name: 'Fred Trotter'
+    mail: ''
+    subject: 'Sadly not GPL'
+    hostname: 71.35.10.236
+    created: '1165802301'
+    body: "VistA was developed entirely by employees of the Federal Government and is therefore available under a Freedom of Information act request making it public domain. Medsphere has the legal right to incorporate any public domain code that they see fit to under any license that they wish, FOSS or proprietary.\r\n\r\nYou are right, if VistA were GPL then Medsphere would not be able to play these games. \r\n\r\nBut the software that the Shreeves uploaded was not VistA and it was under the GPL. We are assuming that the code in question is entirely copyright Medsphere. A good question to ask is how Medsphere got sourceforge to take this GPL code down against sourceforge's policy. I am investigating this and will have more back later. \r\n\r\n\r\n<a href='http://www.fredtrotter.com'>Fred Trotter</a>"
+-
+    name: 'Lopo Lencastre de Almeida'
+    mail: ''
+    subject: 'Where is it now?'
+    hostname: 195.23.105.1
+    created: '1165974281'
+    body: "Hi,\r\n\r\nBeing in the team of <a target=\"_blank\" href=\"http://www.care2x.org/\">Care2x HIS</a> from almost its inception I'm always curious to take a peek in all similar software that is out there.\r\n\r\nHaving being taken out from what seems to be another much afraid USA company couldn't it be uploaded to Berlios in Europe?\r\n\r\nIs the code available anywhere?\r\n\r\nBest,\r\nLopo"
+-
+    name: 'Lopo Lencastre de Almeida'
+    mail: ''
+    subject: 'Why I hate Open Source'
+    hostname: 195.23.105.1
+    created: '1165975739'
+    body: "Read the <a href=\"http://www.medsphere.com/press/20061121\">MedSphere explanation</a> carefully and theire ex-CEO public declarations.\r\n\r\nThat is why I totally hate the expression Open Source even more that the Free Software expression. It means nothing related to gratis or even freedom.\r\n\r\nIt just says that the code is <b>Open</b> and that you can read it. And that's all.\r\n\r\nThe people at <a href=\"http://opensource.org/docs/definition.php\">OSI</a> had good intentions trying to seperate the political issues from the licensing issues and to solve the confusion of \"free NOT EQUAL gratis\"... but they generate as much confusion as Richard Stallman with the damn word \"free\" in his license.\r\n\r\nThe issue is that if they made closed, proprietary software on top or even using huge amounts of public domain code they are not forced to disclosed or release it under an \"Open Source\" license (as in OSI definition) and they can sue anyone that releases the code.\r\n\r\nJust my €0,02.\r\n\r\n\r\n\r\nFootnote: <cite>With this I don't mean I hate FOSS but that I just hate the expressions that always force me to a long, long, explanation and force me to read always very carefully the licenses (if not registered at OSI) and that totally destroy the concept of using a short and reasonable acronym, right?</cite>"
+-
+    name: 'Fred Trotter'
+    mail: ''
+    subject: 'Exactly why'
+    hostname: 206.180.154.149
+    created: '1168826194'
+    body: "This is exactly why I talk about GPL software, as opposed to Open Source or Free Software. First it gets me out of the problem that you just described. It also addresses the issues of license proliferation. I tell health practicioners to insist on the GPL. This way they do not have to worry about a company writing a license and calling it Open Source, or a project that has chosen an obscure incompatible license. Most of the good healthcare FOSS software is GPL, and compatible code already moves between projects. You might try saying simply \"insist on the GPL\", if I have to explain why, then I can talk about the good things the GPL does.\r\n\r\n<a href='http://www.fredtrotter.com>Trotter</a>"

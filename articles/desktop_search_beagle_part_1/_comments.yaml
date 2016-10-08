@@ -1,0 +1,63 @@
+-
+    name: 'Anonymous visitor'
+    mail: mail1948985@handymail.org
+    subject: 'Have you tried Tracker?'
+    hostname: 68.96.78.244
+    created: '1180291313'
+    body: 'Beagle is a bit buggy and extremely slow. It also uses lots of memory/cpu. But fear not a new search tool is available that doesn''t have all the problems of beagle. It''s called Tracker - http://www.gnome.org/projects/tracker/index.html Tracker is written in C and is super fast and uses very little resources and it is improving even more every day. It is also much more than a search tool.'
+-
+    name: 'Anonymous visitor'
+    mail: Whatever@trashmail.com
+    subject: 'Kat is dead'
+    hostname: 141.35.185.149
+    created: '1180313452'
+    body: 'You do know that kat is dead? strigi will be the search backend mainly used in KDE 4.'
+-
+    name: 'Anonymous visitor'
+    mail: Anonymousvisitor@Anonymous.com
+    subject: 'Recoll, as Beagle can be buggy'
+    hostname: 71.161.132.253
+    created: '1180470265'
+    body: "I, like a number of people and at least 1 major distro (Fedora) have found Beagle resource heavy (the use of Mono)and a bit buggy and have removed it. I turned to Recoll which I find lighter on resources and a little more useful as it allows stemming though it does not have kio_slave functionality like Beagle.\r\n\r\nI'd love to see a head to head with Beagle, Recoll, Tracker and Pinot.\r\n\r\nA very nice and indepth article, hoping the next parts are as well done.\r\n\r\n\r\n\r\n "
+-
+    name: 'J.B. Nicholson-Owens'
+    mail: mail@digitalcitizen.info
+    subject: 'Will a pluggable indexer system become part of GNOME?'
+    hostname: 74.134.235.153
+    created: '1180553575'
+    body: "Is there any plan to include some means of letting OS distributors easily plug in an indexer (the user could then pick what indexer they like, what front-end they like, etc.)?  Some effort to make it easy for all sorts of programs to use the indexing system would be great too.  I haven't yet done enough work with GNOME or GTK+ to know how to best approach this, however I'm sure others do know how to best allow this kind of flexibility and inter-app indexing.\r\n\r\nIt would be great to format the search results like another Nautilus window so I could sort the results in the same way I sort a folder contents in Nautilus' detailed view.  It would also be helpful to index e-mail without having to download them locally to one's account so I could more easily find emails in the huge hierarchy of emails I've stored on my IMAP server.\r\n\r\nI like the speed of Tracker and it seems to use far less RAM than Beagle.  But I've noticed that Tracker misses some of the documents that should be in the hit list (for lack of a better term) and the default front-end I tried doesn't allow sorting the results.\r\n\r\nJ.B. Nicholson-Owens\r\nmail@digitalcitizen.info\r\nhttp://digitalcitizen.info/"
+-
+    name: chemicalscum
+    mail: chemicalscum@netscape.net
+    subject: 'Yes I use it.  It is great'
+    hostname: 205.250.86.130
+    created: '1180614832'
+    body: "Yes I use it.  It is great on older hardware as it has a very low memory footprint. it doesn't yet cover emails but it already handless a wide range of filetypes, video, music, documents, test and code. It is indeed lightening fast.\r\n\r\nIts front end is written using pyGTK so it fits in nicely on a GNOME desktop and it also integrates into Nautilus as its search function. I would reccomentd it to anyone.  Cut out the bloat of Mono.  On that vein a superior repacement for Tomboy is Zim http://www.pardus.nl/projects/zim/  which is written using PerlGTK and I find I use to organize my whole life.  While when I had Tomboy installed it was just a nice toy I hardly ever used."
+-
+    name: 'Michael Fierro'
+    mail: miguelito@biffster.org
+    subject: 'Second recoll'
+    hostname: 67.177.209.41
+    created: '1180638222'
+    body: 'I second the recommendation for recoll. It''s much nicer to system resources, and does just about as good a job as Beagle. Plus, it doesn''t rely on Mono (icky!).'
+-
+    name: 'Anonymous visitor'
+    mail: donotreply@slashdot.com
+    subject: 'Still prefer Recoll'
+    hostname: 201.167.107.200
+    created: '1180650349'
+    body: "I prefer Recoll as it's less buggy, less resource hungry and doesn't need to have GNOME libs or KDE libs installed to work.\r\n\r\nI can't believe you just ignored it..."
+-
+    name: trollzor
+    mail: ''
+    subject: beagle
+    hostname: 203.214.59.240
+    created: '1180673944'
+    body: "*thought I'd cross-post my comment from digg in reply to opencoder saying beagle used too many resources and \"locate\" command *\r\n\r\nI just spent the last couple of years on fedora then Ubuntu and searched the same way, but locate is only as good as your last updatedb and sometimes filenames don't cut it. My impression of beagle when I installed it on Ubuntu was that is was a very good app, but the resource use seemed a bit iffy for how often I used it (at most once a day).\r\n\r\nThis resource issue is going to be a major issue with linux in the future I think, I just got a macbook and it's got spotlight integrated and I have dashboard loaded up with apps, there is negligible cpu use at idle. And while it may be acceptable for beagle to be a little porky (as anyone who's owned a real beagle knows) gDesklets is a resource disaster compared to dashboard, I have had it up in the 20-30% cpu range with a desktop full of apps on a P4 northwood 2.8gighz on Ubuntu. Maybe that doesn't count so much on a desktop (though I'd argue it does) but on a laptop that is suicide, Vista was getting a panning for taking up people's batteries faster than XP so I dont' think linux should be off the hook for that.\r\n\r\nAll that said after a week of using OS X after using Linux exclusively for 4 years there isn't any technology it has that Linux doesn't, it's all just in the polish which is comforting for the future of the Linux desktop. I got the macbook because it's one of the most Linux compatible laptops out there, in addition to best value laptops you can buy here in Australia (where they are still trying to palm off celerons at the same price point often) and OS X doesn't really impress me enough to swap loyalties, Ubuntu is going on soon."
+-
+    name: NotThistime
+    mail: notthistime@mytrashmail.com
+    subject: 'XFS and xattr'
+    hostname: 141.35.185.149
+    created: '1182851332'
+    body: "\"I have seen reports of adding this feature to the XFS filesystem which resulted in a read only filesystem\" - no wonders there: XFS supports xattr without (!) any fstab option.\r\nTherefore it doesn't make sense to edit fstab in case of xfs file systems. It can even be that the additional option creates an error because it is not understood."

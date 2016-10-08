@@ -1,0 +1,14 @@
+-
+    name: sagarsiddhpura
+    mail: ''
+    subject: 'Does VPS need to be of US IP address?'
+    hostname: 59.160.73.118
+    created: '1433317553'
+    body: 'Will this work if I buy india based VPS or any other or I have to specifically search for USA based VPS?'
+-
+    name: admin
+    mail: ''
+    subject: 'It needs to be US based!'
+    hostname: 151.26.191.139
+    created: '1433323540'
+    body: 'It needs to be US based, since that''s the IP that Netflix will see!'

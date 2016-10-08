@@ -1,0 +1,175 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Debian versus a Strong Mindshare for Linux as a Whole'
+    hostname: 32.59.2.18
+    created: '1161258775'
+    body: "Wonderfull explanation.\r\n\r\nFrom one hand, changing names won't help build a stronger Linux brand (that includes this and that software).\r\nFrom the other, most Debian users are knowledgeable enough to know that Iceweasel is actually Firefox. The problem are the Debian-derived distributions, which are mostly used on schools (for children with no knowledge at all), etc, at least in my country, Brazil.\r\n\r\nThis decision from the Debian community only enforces my opinion that Debian is a product of minds that are only playing of building an OS - of course maskared by idealistic altruism that gets nowhere, in practical terms."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'you''re overgeneralizing'
+    hostname: 84.7.122.238
+    created: '1161349820'
+    body: "...but it's true there's a hard core of Debian programmers that would make RMS look moderate. Some others are ashamed of the situation and still looking for a better solution.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Debian starting wearing a little thin'
+    hostname: 68.93.224.4
+    created: '1161361802'
+    body: "I've been a Debian booster for a long time, but between this and the Creative Commons licensing issue, I'm starting to get a little annoyed with them.\r\n\r\nI'm wondering if I might be happier with Ubuntu or some other derivative distribution that doesn't do gonzo stuff like this. I think the puritanism is going just a wee bit far.\r\n\r\nStill, Debian remains the largest and \"freest\" distribution of GNU/Linux, so it will be with great sadness if I do switch, and I'll probably hold out for awhile to see how things go with Etch.\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Don''t let a pesky browser slow you down'
+    hostname: 84.100.56.147
+    created: '1161383900'
+    body: "Switching distro is an adventure that I don't want to go on too often as it is. Debian is good quality software; just consider that if you don't like what they do with the browser and email client from the Dark Side (Mozilla to them), nothing stops you from downloading either the compiled binaries or the tarballs and install them yourself... Personally I'd go with the binaries, so as to be able to use automatic updates and reduce the hassle.\r\n\r\nDon't forget, Free software is about freedom: you don't like Debian's browser? Don't use it.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: Stolennomenclature
+    hostname: 60.227.154.180
+    created: '1161410730'
+    body: "This wont be the first time GPL code has been forked and renamed - look at the trillions of me-too Linux distros out there - it seems to be the name of the game. Why get all worked up about one more - for fork sake!\r\n\r\nFrankly, who gives a toss what the browser is called - Iceweasel, SnowElephant, LowTemperatureFerret - so long as the damn thing works, use it. If it don't, chuck it.\r\n\r\nIts easy to notice how other people might be taking things too seriously or puritanical, but we must be careful not to do the exact same thing, and end up take too seriously the thing they are taking too seriously. Dont over-react to their over-reaction.\r\n\r\nActually I dont think it is really possible to take ethics and morality too seriously. Football yes, morality no.\r\n\r\nImportant issues with software are ethics, speed, reliability, functionality, behaviour of the user interface, documentation, support, etc. Im quite sure the name of the software does not find a place in that list."
+-
+    name: ''
+    mail: ''
+    subject: 'Don''t forget other architectures.'
+    hostname: 62.31.82.203
+    created: '1161416032'
+    body: 'Debian runs on more than just one machine type and architecture. Mozilla won''t support any other than their main binaries. Try running the distributed FireFox on ARM/Sparc sometime. There is also the question that Debian had an understanding with Mozilla that what they were doing was appropriate - this issue has been rumbling for about two years on and off. Mozilla revoked the apparent permission at  short notice, also seeminglyly refusing Debian the right to become a Mozilla Community edition - it''s there in email threads from Mozilla and Eric Dorland. Some Mozilla folk also appear to claim that Ubuntu is fine, whereas Ubuntu has the same issues - and may well follow Debian to forking the name. The codebase will stay the same with the minimal change of branding for the release of Etch.'
+-
+    name: ''
+    mail: ''
+    subject: 'Personally I''d go with the'
+    hostname: 87.4.189.225
+    created: '1161416293'
+    body: "<cite>Personally I'd go with the binaries, so as to be able to use automatic updates and reduce the hassle.</cite>\r\n\r\nYeah, with a single user desktop system (windos like) installing the binaries from Mozilla works fine, but it's downward dumb in a multi-users system. The thing is, Firefox upstream isn't designed to run on anything isn't single user, Debian patches, for example, disable the auto-update feature.\r\n\r\nOr do you want to install a single copy and then run the browser as root? (=\r\n\r\n\r\n--\r\nAndrea"
+-
+    name: ''
+    mail: ''
+    subject: 'Debian isn''t always evil...'
+    hostname: 84.163.26.212
+    created: '1161428713'
+    body: "Debian tried for years (!) to find a compromise on Mozilla trademark licensing.In fact, they did have an agreement with Mozilla so that they could keep the name as \"firefox\" (not calling it \"Mozilla firefox\") and not using the official logo. A few days before the planned release freeze, Mozilla suddenly changes theirposition and says the agreement is null and void.\r\nBTW, the position of one of the Debian coders working on Firefox/Iceweasel is enlightening:\r\n<a href=\"http://web.glandium.org/blog/?p=97\">Mike Hommey's Blog entry</a>\r\nAnd Ubuntu is likely to follow Debian after their edgy release in this matter -- since they have as much choice in this matter as Debian does.\r\nAnyway, solution 1.) doesn't work if you see how many patches are already in from Firefox upstream (and can't really be taken in by Mozilla since their Debian-specific)\r\nSolution 2) is essentially what they're doing, but if they would base their branding on a prerelease version, they're essentially shipping prerelease code. Putting on \"Deer Park\" branding and artwork onto a stable Firefox 2.0 release wouldbe as much work as putting on \"Iceweasel\" branding and artwork and wouldn't be as misleading.\r\nSolution 3)  is hardly what anyone would want - not shipping Firefox-like code?Come on! That's giving up altogether. In fact, Debian's gnome and kde metapackages already do not install firefox but konqueror/epiphany. Still, Debian needs to offer users a firefox-like choice.\r\nSolution 4) is what they though about, since they actually do a lot of backporting work. Certainly the situation would have been better if this didn't come as an inter-project conflict. Still, membership doesn't guarantee one of the essential freedoms of free software: the freedom to modify code at will. The mozilla community might still override their Debian members and disallow them from shipping patches they don't like. Look how heavily patched the Linux kernel is in mostdistros to see why a restrictive patching policy (based on trademark law) wouldn't work.\r\nSo, Solution 5) is the only sane one. But yeah, of course everyone bashes Debian. Sad.\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'if Debian runs on several architecture...'
+    hostname: 84.100.56.147
+    created: '1161432836'
+    body: "...so does Firefox; to comply with the logo and name restrictions, you need to use the official *tarball* - meaning you can compile it for ARM and Solaris, and still use the Firefox name and logo. You may even send the compiled version to the Mozilla devs, who will then put it in the 'contributed' builds directory.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'football and morality'
+    hostname: 84.100.56.147
+    created: '1161432901'
+    body: "I really hope your comment is sarcastic.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: '''run as root'''
+    hostname: 84.100.56.147
+    created: '1161433098'
+    body: "bleah - however, you can merely install the build in /opt, and give users right to read/write the /opt/firefox directory (not recommended) or start it as root when an update is available (not exactly safe, but controlled) or assign it to an 'update' account that would have read/write access to it, but who can't login on the machine - just be called to host a process. Anyway there must be a solution.\r\n\r\nWhen you need to administer several computers, then you may want to package the build as .deb (or .rpm) and then spread it like any other package, so this is a non-issue.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'Shallow understanding'
+    hostname: 172.132.179.133
+    created: '1161436516'
+    body: 'Get half a little piece of clue before spouting off. Mozilla Corp is forcing this issue. And Ubuntu will have to follow suit.'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'The 5 solutions and the compromise after the list...'
+    hostname: 84.100.56.147
+    created: '1161453245'
+    body: "...that as long as Mozilla supports a branch of Firefox, Debian uses Mozilla's tarballs; and once it is no longer 'officially' supported, they switch it either back to the branch's code name (here, Deer Park) or any thingamajig they come up with (IceWeasel would fit, it's frozen in time and low-profile).\r\n\r\nAs to bashing Debian, well, the Firefox developers had a hard enough time finding a name that no one would try to get away from them (remember, they had trouble with Phoenix Technologies - the BIOS maker, then with Firebird - the database) not to be wary of future brand names problems: letting Debian (or any distribution) get away with branding 'Firefox' a competing browser could be very bad if, say, Microsoft branded IE8 'Firefox' because it contains, say, Gecko's XML parser - the Debian case would create a precedent. I know, it's unlikely, but still a risk.\r\n\r\nSo while I can understand that some Debian developers don't like being ordered by copyright owners to stop ignoring someone else's licence, they do appear high strung and childish in their reaction: 'IceWeasel' and a sad weasel humping the world put on Firefox' code is not only uninspired, but almost insulting too.\r\n\r\nIt is true however that Mozilla have tightened their hold on the brand name, and done so in a violent manner. However, if they had to wait for all distro's release dates to 'get nasty', they'd never be able to do so.\r\n\r\nI've also read the content of the post made on glandium.org. I'm sorry, but while it may seem logical to link to external libraries when possible, if some of them are kept built-in, it may be because of some stability worries; for example, Gecko may not take as kindly to libpng version 1.13 than it does to libpng version 1.35.\r\n\r\nAs to the libstdc++ requirement, having right now a distribution providing Firefox with its artwork intact yet still linking against libstdc++6, I don't think it stands.\r\n\r\nThe build scripts are another concern, and right there I agree with the Debian developers: if they can be made to support more platforms, then it shouldn't be a factor against them. However, considering build scripts don't ship with final products and actually have no 'real' impact on the generated code, they may not be that important.\r\n\r\ndiff files: well, a 100,000 lines diff may make a lot of sense to the one generating it, but to the developer getting it, it's another matter: why not a diff for the build scripts, one for the actual modifications and one for the Debian tree? Do you expect Mozilla programmers to be intimate with Debian's CVS?\r\n\r\nThe last time such a large patch was posted in a project, it was one supposed to enable 64-bit compilation of Openoffice.org; it was estimated to create so much overhead to QA that they preferred spending months splitting it up. Same thing on Wine when the WineD3D patch was introduced: it was merely copying lines from one file to another, yet the actual integration took 6 months and dozens of patches. Mozdev's objection was understandable.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'When you need to administer'
+    hostname: 87.4.187.107
+    created: '1161532815'
+    body: "<cite>When you need to administer several computers, then you may want to package the build as .deb (or .rpm) and then spread it like any other package, so this is a non-issue.</cite>\r\n\r\nSeveral computers used as single user system, Firefox is designed to run on those systems, so no troubles.\r\n\r\nThe problems arise when you use thin (or fat) clients and home dirs shared on a single server, users's number can reach easily the thousands, saw and used myself a system with more than 3000 registered users, so it's a quite common scenario.\r\n\r\nThe workarounds you suggest above (using root or an admin account to install it) probably works, but you still have numerous instances of Firefox that want to be updated when a new version is available but don't have write access to the installation dir, so even if it's a non fatal error (dunno, never tried), how many puzzled users will contact the IT staff about it?\r\n\r\nAs i've said above, Firefox isn't designed for multi user system, on Debian the auto-update feature is removed, IIRC with a patch cause there isn't an option on the upstream code...\r\n\r\n\r\n--\r\nAndrea"
+-
+    name: ''
+    mail: ''
+    subject: 'Mozilla is quite unreasonable'
+    hostname: 68.102.194.182
+    created: '1161567821'
+    body: "I can understand them requiring a special license to use the name. But what's all this garbage about graphics? What about requiring approval of any changes to the code? That's absolute nonsense. What's really annoying about this is that Mozilla is whining. Hey, someone's forking the code, that's the whole point of software freedom. If you don't like Mozilla's restrictions (and it's just as easy to redistribute Internet Explorer as it is to redistribute Firefox) then you have every right to fork it. I'm so happy they did. \r\n\r\nMaybe they can fix this feature-creeped beast that always crashes in Ubuntu. Frankly, they seem to be focusing all their efforts on Windows (that's fine, it pays their salaries) so as an Ubuntu user, I agree completely with Debian. It's not a freedom if you can't use it. \r\n\r\nI LOVE IT when people exercise their freedom for the mere sake of exercising their freedom! It's none of Mozilla's business what Debian decides to do. Don't think restrictions are a problem? Look at the Flash release. What if Microsoft slips Mozilla a couple million bucks to stop development of Firefox for Linux? They could do it and I don't think anyone would complain about a fork then.\r\n\r\nDebian is free to do as they wish. It has zero effect on anybody else and I would hate them if they didn't stand up for software freedom."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Mozilla doesn''t complain about the code forking'
+    hostname: 84.7.122.238
+    created: '1161696751'
+    body: "...but about the code fork using their name and graphics - because since those are the most prominent part of the 'glamour' surrounding the browser they've promoted, they don't want said fork to be identified as being theirs while it's been modified by Debian.\r\n\r\nAs to the auto-update feature, those distributions that use Mozilla's tarballs, well, they can disable their compiled version's configuration file so that auto-update is disabled - and updates are then pushed through the distribution's packaging system (or your local package repository that you use to spread your own updates on LAN).\r\n\r\nThat's the case for Mandriva, for example; and it works in their x86-32, x86-64 and PPC ports.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mark 1'
+    mail: ''
+    subject: 'Obivous bias'
+    hostname: 207.191.223.15
+    created: '1161720975'
+    body: "Rather than spouting biased FUD such as \"a sad blue-grey weasel humping a planet\", perhaps you should try doing some research into where they came up with the <a href=\"en.wikipedia.org/wiki/Iceweasel\">Iceweasel</a> name.\r\n\r\nWas Debian's solution the best choice?  Only time will tell for sure, though I tend to doubt that it was.  However when you go around spitting out vitriol like this, you should shoot for a more balanced perspective."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Why is everyone up in arms about this?'
+    hostname: 212.159.106.192
+    created: '1161727544'
+    body: "I truly fail to see why people are making such a big deal of all this.\r\n\r\nAs I see it, Mozilla have exercised their rights over the artwork and name of their product. Their licence permits others to modify and redistribute the code but not with the same name and icon. Seems fair enough to me.\r\n\r\nDebian want to be able to modify the code to suit their distro and one of the main points of Debian is that the stuff that makes it into main must be free. Firefox as dictated by Mozilla's licence is not. By not using the Firefox name and icon they have simply adhered to Mozilla's requests and kept the browser available to users who choose to deploy it as a Debian package.\r\n\r\nWhy is this a problem for everyone - on either \"side\"? I'm not even sure why there are sides to this. Beyond Debian and Mozilla - themselves why is this even an issue?\r\n\r\nHave Debian been a little childish with the choice of new name? Probably but they have chosen something far removed from Firefox as they can - they could have quite easily called it \"The Debian Browser\" but in the end what does the name matter - as long as it's not Firefox they're in the clear. If it helps they have been as consistently silly with their new name for Thunderbird (IceDove).\r\n\r\nMozilla get to keep their product intact as they want it. Debian gets to keep it's distribution as free as it has always been. Everybody is happy - except of course the thousands of people who are making such a deal out of not much at all (bit like I just have I guess :o) ).\r\n\r\nRyan\r\nP.S.  As for the icon - I am not aware of any official announcement on that yet and all the proposals I have seen have come from Ubuntu forums and not Debian. The humping weasel one seems to have gone around the web because of its controversial appearance rather than from any decision to use it or any of the others. Bit unfair to blame Debian for that one I feel."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'I looked a bit further...'
+    hostname: 84.7.122.238
+    created: '1161877310'
+    body: "...and found out that apparently, the Debian and GNU efforts resulting in IceWeasel weren't lead by the same persons; the Debian one was actually a knee-jerk reaction that reused the name used by the GNU's project. In fact, the GNU project doesn't seem to even provide the graphics used by Debian IceWeasel.\r\n\r\nThe point I was trying to make in my post was that although Debian had several possible solutions open to them, they chose the one that will arguably hurt the most: they created a complete fork and decided to keep it to themselves (don't tell me they keep it 'open', if they did they would do better than provide unstructured 100,000 lines diffs - it's something I'd expect from Apple, not from Debian!).\r\n\r\nDebian ain't GNU; GNU's approach is to reuse the code created by the Mozilla foundation/group/thingie and strip if of intellectual property problems, yet report back modifications they made.\r\n\r\nRight now, Firefox contains 2 non-free components: its artwork (and I made a point about it) and the Talkback extension (can be removed at install or any time after that). Removing Talkback doesn't require a change in branding. Once removed, it's still Firefox. Changing default config options isn't forbidden: they can be accessed post-build through about:config anyway. Adding themes isn't discouraged: several are already provided in the source tarball. What's left? Changing build scripts to support more platforms? Since those are only used to direct the compiler, they are not considered part of the source code anyway - they don't contribute to the binary (nothing prevents you from building the application one library at a time and to pass compile options every time)\r\n\r\nThe artwork. Remove it, it's not Firefox anymore - so don't call it that; however it's not built into the binary, so it could be contained by another package, right?\r\n\r\nLet's say you have 3 packages: deerpark-core-1.8.0.7, firefox-brand-nonfree-1.8.0.7 and iceweasel-brand-free-1.8.0.7; when deerpark is built from unmodified Mozilla tarballs, deerpark accepts both 'brand' packages; when those have been modified, deerpark will require uninstalling of firefox brand package.\r\n\r\nWhat pissed off the Mozilla developers was the 2,345 lines (or something) buried in the 100,000 lines of codes provided upstream; why not provide these lines by themselves? Frankly, if you were working on a multipage record of an extreme importance, someone borrows your copy then gives it back to you saying they made corrections, but without marking them; would you appreciate having markings saying where those corrections are instead of an almost complete copy, with their styles added to yours and polluting your formating?\r\n\r\nWorking on someone else's code is a pain; most projects have different rules of formatting. It's bad practice to take someone else's code and modify the formatting; you provide your corrections in a legible fashion so that, upstream, said fix can be integrated smoothly with the rest of the code and follow their quality insurance guidelines.\r\n\r\nMozilla say that only code that went through their QA can be called Firefox; considering how hard they work to maintain the code, it can be respected. Debian refuse other distributions based off their code (even unmodified packages) to use 'Debian' in their naming. So pot, this is kettle.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: '''bit unfair'' - well true...'
+    hostname: 84.7.122.238
+    created: '1161877979'
+    body: "...considering not all Debian developers wanted this to happen. However a vitriolic post by one of those who insisted on the name and artwork change became extremely popular and was showing off the Mozilla foundation (and developers) in a very bad light.\r\n\r\nUnfortunately, the loudmouths are usually the ones everybody hear; having promoted Firefox since the days it was called Phoenix, I felt it was my moral duty to speak my mind about this matter. After all, had it been a GNU project that had revived the browser market, and Debian having been leader in its implementation and development, those same loudmouths could take the moral high ground. It is, however, a bunch of people who wanted to make the Web more accessible to everybody who managed it - be it through obscure, copyrighted binaries, GPL-locked tarballs or 'free-er' LGPL compiled libraries.\r\n\r\nPlease note that I'm not saying all Debian developers are to blame; only a few are, but it seems epidemic that in Debian, every time a hurdle appears, no resolution can be taken - or it's a very questionable one.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'No, it''s not sarcasm...'
+    hostname: 68.93.224.4
+    created: '1162070025'
+    body: "\"Cannot take X too seriously.\"\r\n\r\nIs an English idiom which means \"X is very serious\".\r\n\r\n\"Too\" in this instance means \"overly\" or \"more than necessary\", not just \"very\". This is actually the literal meaning of \"too\". The conceit is that X is so serious that no matter how seriously you take it, it isn't \"too\" seriously.\r\n\r\nSo, in fact, he meant that \"morality is serious, while football is not\" (not the other way around).\r\n\r\nThe problem, if anything, is the peculiar idea that trademarks are \"immoral\". At most, I would classify them as \"legally inconvenient\" in this case.\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Okay, so I read a bit more'
+    hostname: 68.93.224.4
+    created: '1162070856'
+    body: "And the truth is plain as day what this is really about.\r\n\r\nDebian is having a hissy fit because Mozilla applied a license to their logo art for Firefox, which effectively says what trademark says about it anyway.\r\n\r\nBut, Debian decides to interpret it as a non-free license, and strip the logo, putting some bogus alternative logo, linked to the name Firefox, under their previous agreement.\r\n\r\nBut of course, Mozilla, very understandably doesn't want the trademark \"Firefox\" to be used with an incorrect logo (it's brand dilution).\r\n\r\nThe patches to the source tree are a complete red-herring. This is about trying to use half of the branding. So, rather than acknowledging the correct use of trademarks (which of course Debian insists upon for their own logo, which is apparently \"non-free\" in exactly the same way as the Firefox logo), and including both logo and name trademarks, they decided to overreact by throwing both out.\r\n\r\nSorry, but to me, it still looks like Debian is the group being petulant in this scenario.\r\n\r\nOf course, I don't mean to suggest that they aren't entitled to do that, as some people appear to feel is being suggested here. No, they'd be perfectly within their rights to limit the distribution strictly to GPL-licensed content, or even strictly BSD-licensed content, or whatever.\r\n\r\nThe issue is whether Debian is losing its relevance as a free-software flagship, by over-emphasizing the wrong issues. In particular, it seems that Debian has obsessed on the idea that Creative Commons is wrong <em>in principle</em> for claiming that \"content\" is distinct from software \"code\" in how \"free licensing\" should be interpreted. I think   though that Debian's boatload of package licensing problems (binary blobs, \"source code\" for artwork, kicking out By-SA documentation, etc) is really just proving Creative Commons' point: content really is different.\r\n\r\nAnd if Debian never realizes that, then they'll probably just become increasingly irrelevant until someone else takes over the flagship position.\r\n\r\nI think the reason why Ubuntu will be able to keep the Firefox name is because they will keep the logo, and so they'll be able to seek approval from Mozilla and get it.\r\n\r\nDebian developers complaining about this situation are insensitive to this very real point that Mozilla has about controlling their brand image. This is in fact, closely tied to artistic integrity issues that are present in the CC licenses' attribution terms.\r\n\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: '''forcing the issue'' - rightly so'
+    hostname: 84.100.56.147
+    created: '1162124588'
+    body: "As a matter of fact, Ubuntu will recompile Mozilla's official tarball and keep the branding. See Terry's post at the end to, as you say, 'get a clue'.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: Pollywog
+    mail: ''
+    subject: 'can Ubuntu exist without Debian?'
+    hostname: 69.12.173.117
+    created: '1162317855'
+    body: 'I am a Debian user and have been for about eight years, but I think I might be trying Ubuntu sooner than I thought.  Could Ubuntu continue to exist if Debian were no longer around?  That is a serious question, by the way.  Can Ubuntu exist on its own?'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'No and yes'
+    hostname: 68.93.224.4
+    created: '1162418359'
+    body: "\"No\", because Ubuntu is based on Debian.\r\n\r\nHowever, \"yes\", because should Debian become too extremist, it's quite possible that Ubuntu could in some sense \"become\" Debian (that is, inherit its pivotal role as the largest \"deb\" distribution or become the most important fork—something like this happened to XFree86 recently when it adopted a license some developers thought was \"non-free\", resulting ultimately in the new X.org fork of X).\r\n\r\nOf course, that isn't really necessary, and Debian would probably continue just fine, even if no one actually used stock Debian on their computers (or only Debian developers did). It might persist solely as a  distribution from which others are derived.\r\n"

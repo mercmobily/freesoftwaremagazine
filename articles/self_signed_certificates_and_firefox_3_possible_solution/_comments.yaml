@@ -1,0 +1,126 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Interesting
+    hostname: 68.93.224.4
+    created: '1217959096'
+    body: "Interesting subject...\r\n\r\nSo, you're saying that the reason why 3rd party certificates are important is to verify the identity of the server? (I.e. to avoid a man-in-the-middle attack of some kind?)\r\n\r\nTo be honest, I had thought the point was to register approval of the (real) site with a 3rd party trust network (which always sounded like a racket to me, to be honest).\r\n\r\nUnder that assumption, I've generally taken the attitude that, if I trust the site (or site owner) that I can trust the SSH without a certificate authority. This is something I usually encounter with account-membership sites, where there isn't anything really serious at risk, so I haven't felt the need to study it too hard.\r\n\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Well no, not really'
+    hostname: 212.159.106.192
+    created: '1217970942'
+    body: "> So, you're saying that the reason why 3rd party certificates are important is to verify the identity of the server?  (I.e. to avoid a man-in-the-middle attack of some kind?)\r\n\r\nWell no, that's the main reason the third parties and the supporters of CAs give. Personally I don't buy that as a valid reason. I can see the assurance that CAs could give to end-users but that's only because the users are told the CAs are trustworthy (coincidentally by the CA themselves :o) ).\r\n\r\n> To be honest, I had thought the point was to register approval of the (real) site with a 3rd party trust network (which always sounded like a racket to me, to be honest).\r\n\r\nMe too. The whole system ask you to move your trust from the site owner to a third party neither of whom you may know or otherwise trust. Yet if a browser is to tell you a site is encrypted (with a padlock icon) then surely it should tell you if it cannot verify that the site is who they claim to be. My suggestion above gives a practical way to check this without requiring every sub-domain to pay the \"racketeers\".\r\n\r\ncheers  \r\nRyan"
+-
+    name: gkanai
+    mail: ''
+    subject: 'Mozilla''s perspective on self-signed certificates in Firefox 3'
+    hostname: 118.21.13.138
+    created: '1218044286'
+    body: "Ryan, your proposal is interesting but as it is not something that is implementable today, it's something of a moot point with reference to software that Mozilla has to ship today.\r\n\r\nJohnathan Nightingale, who works at Mozilla on security and user interfaces for security, has a detailed post up recently on this particular issue that I think would be worth your while to peruse.\r\n\r\nhttp://blog.johnath.com/2008/08/05/ssl-question-corner/\r\n\r\nNote that \"Several CAs accepted by all major browsers sell certificates for less than $20/yr, and StartSSL, in the Firefox 3 root store, offers them for free.\"  So the financial complaint should be disregarded.\r\n\r\nAlso, Johnathan is calling for additional help: \r\n\r\n\"I don’t think the approach in Firefox 3 is perfect, I’m not sure any of us do. I have filed bugs, and talked about things I think we could do to continue to enhance our users’ security while at the same time reducing unnecessary annoyances. \"\r\n\r\nFull disclosure: I work at Mozilla but not in the area in question."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Thanks for the response'
+    hostname: 212.159.106.192
+    created: '1218067551'
+    body: "> Ryan, your proposal is interesting but as it is not something that is implementable today, it's something of a moot point with reference to software that Mozilla has to ship today.\r\n\r\nCare to explain why? Really, I would like to know. I haven't had a chance to read Johnathan's post but I will - thanks for the link.\r\n\r\nThe cost may be nullified by things like StartSSL (and I didn't know the root was in Firefox 3 - thanks) but there are still some who question whether using a third party in the first place is the right way to go (I'm not necessarily one of them).\r\n\r\nthanks  \r\nRyan"
+-
+    name: Epicanis
+    mail: ''
+    subject: 'DNS support?'
+    hostname: 209.33.89.215
+    created: '1218384014'
+    body: "It's not clear how many DNS projects support this field yet - if it's not widely supported by implemented DNS systems it won't do much good.\r\n\r\nIt also wouldn't necessarily solve what *I* see as the problem with Firefox's crusade against self-signed certificates.  Unless one is also hosting one's own DNS, you would then <em>still</em> effectively need to beg a third party (your DNS host) to permit you to encrypt your server's traffic.\r\n\r\nI mentioned this in my post over at the discussion on <a href=\"http://blog.johnath.com/2008/08/05/ssl-question-corner/#comment-192999\">blog.johnath.com</a>, but what's so horribly jarring about this is having \"free and open\" Mozilla Firefox now insisting that you cannot possibly encrypt your traffic without help and permission from a \"professional\" third party.  I realize that's not what the new UI is <em>supposed</em> to do, but it is, and it runs directly against what I always thought truly \"free\" software was supposed to be about.\r\n\r\nAll that said, I still actually <em>like</em> the idea of using SSHFP records, I'm just not sure if it would be enough to solve the problem."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'DNS Encryption?'
+    hostname: 212.159.106.192
+    created: '1218393924'
+    body: "> It also wouldn't necessarily solve what *I* see as the problem with Firefox's crusade against self-signed certificates. Unless one is also hosting one's own DNS, you would then still effectively need to beg a third party (your DNS host) to permit you to encrypt your server's traffic.\r\n\r\nWhy? The certificate signature is stored in the SSHFP record and can be done so in plain text as only the real certificate can generate a matching signature -- can't it?\r\n\r\ncheers  \r\nRyan"
+-
+    name: Epicanis
+    mail: ''
+    subject: 'A third party must approve of your use of encryption...'
+    hostname: 209.33.89.215
+    created: '1218394547'
+    body: "That's correct but that's not what I mean.\r\n\r\nWhat I mean is, unless I am running my OWN DNS (and have direct access to the DNS configuration) I still have to go beg my DNS host to add an SSHFP record for me (assuming the hosts's DNS supports that field).  \r\n\r\nIt's not that this is necessarily an onerous request, really, just that it means if you're not running your own Domain Name Servers, all you've accomplished is to change which \"third party\" gets to decide whether or not you're allowed to encrypt your traffic (from a \"Certificate Authority\" to a \"DNS hoster\").\r\n\r\nIt's the fact that Mozilla is effectively (though I assume unintentionally) *requiring* people to go get approval from some third party to provide encryption that's really bugging me here.\r\n\r\nAlso, how long before GoDaddy.com et al decide to charge an extra $5/month for this \"service\"? "
+-
+    name: mossholderm
+    mail: ''
+    subject: 'Missing the point...'
+    hostname: 192.154.91.225
+    created: '1218553560'
+    body: "The issue with using something like SSHFP is that many attacks against web sites are DNS based. \r\n\r\nIt could be via domain typos (e.g. www.ebau.com vs. www.ebay.com) or via DNS poisoning (where the attacker makes the client think the DNS records for the site says X.X.X.X instead of Y.Y.Y.Y). In either case, the client would be presented with a falsified SSHFP record, and happily continue on.\r\n\r\nThe only way something like this would work would be in combination with DNSSEC, which permits signed DNS responses, so you know they are coming from the real DNS server. But that isn't likely to happen on the general internet for a long, long time. \r\n\r\nMy suggestion to sites that want to use self signed certs is to have them create a CA and hand out the CA certificate for people to install. Once it is installed, you'll KNOW you are talking to the correct server.\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'some good points'
+    hostname: 212.159.106.192
+    created: '1218575188'
+    body: "As I said in the article if the user s a victim of \"DNS poisoning\" then they have bigger issues. Let's not forget there is a side issue of user education here. It could be said that prompts like the Mozilla one do more to scare than educate users.\r\n\r\nYou're right in that users who were not paying attention could be caught by phishing sites that used SSHFP but it's entirely plausible that those same users may not notice that a fake site is not encrypted at all. In the end there is no substitute for user awareness. \r\n\r\nYour solution is what should happen now but sometimes becoming your own CA and getting users to install it becomes such a pain that it's not worth the effort. I like your idea - I've used it myself but if it was really worth the effort it would be more in use now but it's not. It also doesn't resolve the issue that the same party is providing the certificate and the verification. You're asking a user to trust your site by using a root certificate stored on your site. DNSSEC is a good idea and although it and SSHFP are not so well used now, a key browser like Firefox providing support for such services will enhance their popularity.\r\n\r\nthanks for the feedback though. As said you've raised some good points.  \r\nRyan"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'DNS poisoning'
+    hostname: 68.93.224.4
+    created: '1218592353'
+    body: "> You’re right in that users who were not paying attention could be caught by phishing sites that used SSHFP but it’s entirely plausible that those same users may not notice that a fake site is not encrypted at all. In the end there is no substitute for user awareness.\r\n\r\nHmm. Well, I would certainly know if a site wasn't using encryption at all.\r\n\r\nHow would I know if I were a victim of \"DNS poisoning\", though? My understanding of DNS/BIND is pretty foggy. I would guess that it would be the top level DNS server that I reference that would actually be the \"victim\" in this scenario, and that the \"poisoning\" would be somewhere in the tree of hand-offs that happens when a DNS look-up is done.\r\n\r\nSo how would I avoid the problem? My DNS is largely determined by my choice of ISP as far as I know."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'DNS Poisoning != phishing'
+    hostname: 82.108.129.98
+    created: '1218621860'
+    body: "I was quite specific in using the term phishing but I guess I forgot the slight ambiguity of the term. I was referring to sites which misspell URIs (www.ebau.com as opposed to www.ebay.com or those which use e-mail links so that the user will just click the link and not look at the actual URL. These sites could use SSHFP to provide a valid cerificate for the false domain and the user would be no wiser.\r\n\r\nI very much doubt you would be caught out by URLs that were not what you wanted but there are a considerable amount of users who would be. At least I presume there must be by the fact that the technique is so widely used by those sending such e-mails.\r\n\r\nIf your ISPs DNS itself is compromised you probably have a legal case against your ISP. I'm not too familiar with all the facets of DNS poisoning myself but I assume it would involve hijacking a wireless connection with a MITM attack. Can an attacker alter the DNS routes of a wired connection?\r\n\r\nAs the GP suggested tying up SSHFP with DNSSEC would be a good start as the DNS record itself could be signed but that just brings us full circle to who signs the DNS record?\r\n\r\nDon't forget that I'm talking about this as an alternative to self-signed certificates not a replacement for CA signing. If the site in question is public facing and requires some user reassurance then a CA is ideal. Having said that some fairly major sites use self-signed certs and provide them on their website, as I found out today this includes web access to an [rsync.net](http://www.rsync.net) account."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Still foggy on DNS, but...'
+    hostname: 68.93.224.4
+    created: '1218689642'
+    body: "I'm still foggy on how DNS works, but it has been my understanding that it is a distributed database. So, my ISP's DNS asks up the hierarchy until it reaches some sort of master DNS server, which then searches down-tree through a hierarchy of DNS information providers, closer and closer to the target site's DNS server. Somewhere along the way, a server that knows what the URL maps to will respond, and that's the response I get back.\r\n\r\nIf that's true, then all that has to happen to inject a false DNS message that will get back to my system, is that one of the computers in that chain has to be compromised.\r\n\r\nI thought I remembered reading about attacks of this nature actually being done in the past: a person types in the (exact) URL of (say) www.paypal.com, but they get a false IP in response to their DNS query, which then takes them to a phish site -- due to a problem in the way the DNS look-up itself is performed.\r\n\r\nBut I don't really see how you can protect yourself from this kind of attack -- it isn't really your system that's being attacked. Perhaps the only way would be to run a DNS caching system on your computer and generate warnings for suspicious IP changes. But I'm reasonably certain that I'm not running anything like that.\r\n"
+-
+    name: sitor
+    mail: ''
+    subject: 'Seperation of securing elements'
+    hostname: 81.246.20.164
+    created: '1219132998'
+    body: "Disclaimer 1: I have been working for a CA and support the need to certify identity information to build trust between different actors involved in remote transactions. The technology does not matter, but there needs to be a correct trust building through procedures that maximally rule out the possibility for identity theft (theft of server identity in this case). It is this kind of procedures that cost money, so even if you replace the PKI technology with other technology, if you want to have the same trust level, the cost will remain in the same order as for CA certificates.\r\n\r\nDisclaimer 2: I don't know what DNSSEC is or does and whether or not it might solve any of the problems related to the issues I see with the ideas of the post above, but I suspect that at least the first one will remain (and that is the most severe one in my opinion).\r\n\r\nIn my opinion your reasoning is flawed for the following reason:\r\n- DNS is supposed to give a link between the URL (destined to humans) and IP address (destined to machines). The information that is added to the DNS record is only informative, nothing more. This is a pure technical thing that is required to make the internet practically usable.\r\n- PKI (CA's) are destined to bring trust between parties that do not see each other in real life (i.e. when it is easy for someone to present himself as someone he is not). The public key signed by a trusted CA helps to prevent such issues. This IS a pure security thing. And to make this work a CA (in any case a proper one) implements a lot of procedures and processes to ensure verifications are correctly carried out to check the identity of a holder of a key before certifying this information. Such strict procedures and processes are not present in a system such as DNS. And these will not be added lightly because these cost a lot of effort, thus time, thus money.\r\n\r\nIf you would use the DNS record information to go aside the PKI complexity (because complex it is indeed), you have to take into account the following two problems:\r\n\r\n1. The information in the DNS record are not of the same level and can not at all be trusted in the same way as information certified by a CA. For the DNS of my own website they just put in what I told them to put in without any verification. There are even ISPs that offer you a control center to manage the DNS records yourself. This means that I could create a DNS record on the name of another company without anyone holding me back.\r\n\r\n2. Even if the information in the DNS record would be trustworthy, then you loose the separation between the URL to IP linking and Site Identity guaranteeing. DNS is not a full proof protocol. There are ways to fraud with DNS (DNS spoofing). I don't know any details on how that works but the result is that if a user enters the correct URL, his PC will receive a wrong IP address and will be directed to the wrong server. If that site uses SSL with a proper certified public key (from a CA), the user will be notified by his browser that the certificate does not have the correct domain certified. If you work with the information from the DNS, and the browser accepts the information from the DNS records (which are spoofed), then there is no second verification mechanism and the user is not notified of a problem => hackers win!\r\n\r\nCiao\r\n\r\nSitor  "
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Trust issues'
+    hostname: 68.93.224.4
+    created: '1219166622'
+    body: "Trust is complicated... it's not a scalar.\r\n\r\nShould I trust a CA to be as thorough as you say? (I notice you even threw in a few weasel words to avoid too strong of an endorsement). Should I trust them to care about sites like the one I'm running or the one I'm using? What about a DNS? Also, it has to be appreciated that different entities may be trusted, but only in certain domains. I may thoroughly trust the news accuracy of, say, the New York Times, but not trust them at all with my money. Likewise, I may very well trust my bank with my accounts, but not at all with honesty in reporting -- they are a biased source.\r\n\r\nFurthermore, identity does not necessarily exclude anonymity. If the source you trust is someone on the internet who talks to you under the name \"Seekret\", then what you want to know about any given communication is whether or not it is coming from the same anonymous source -- not that that source is actually named John Doe or that he lives in Detroit. Note that in this case, I don't care at all whether the information in the DNS database is verifiable by a third party -- only that it is the same between accesses to the same site.\r\n\r\nThat's a different situation from when I want to talk to my bank. My bank is a \"real world\" organization: it has access to my financial information and I communicate with them (indeed first communicated with them) in person. So, of course I want to know that the online service I'm connecting to is actually run by that bank. ISTM that this particular case is the use-case for CAs: I want a third party reassurance that this URL really belongs to my real bank.\r\n\r\nThe application for self-signed certificates is more like the former \"Seekret\" situation. When I talk to Sourceforge, for instance, I just want to know that I'm accessing the real software repository. I don't actually care who owns or operates Sourceforge (in fact SF uses a CA, so I'm really thinking of a much smaller service, but nevermind). Most of the time, I just don't want my passwords to be sent clear text over the internet -- so all I really want to be sure of is that I'm talking to the same site from one HTTP request to the next.\r\n\r\nAnother thing to think about is value. Why would someone want to break my trust? In the case of a bank account it's obvious -- they can get direct monetary benefit from it. It's much less obvious why they would want to impersonate me or my website: oh there might be reasons -- a prank, injecting bad code, impersonating a user on a forum, etc. But those aren't very strong reasons, and hence it's unlikely that the attacker will go to great expense or effort to do it.\r\n\r\nIOW, there's a huge difference between a vault where you store priceless treasure (valuable to anyone) and a privacy lock on your diary (valuable mainly to you). Sure, some hateful person might want to use your diary entries against you, but they're just not going to be as motivated as a professional thief.\r\n\r\nAfter all, there is no security or lock that cannot be broken, given enough desire to break it. So all you're really trying to do is make it hard enough to discourage the sort of attack you expect based on the value of what is protected.\r\n\r\nSo the question here is: Is a DNS-based signature sufficient as a \"privacy lock\", and is it a suitable alternative to CA-based security for sites that don't need extreme or real-world based trust?\r\n\r\nI must confess that I'm not certain, because I don't understand all of the technical issues. I don't fully understand how easy it is to inject a false DNS report, for example. As it is, however, I frequently accept unsigned/self-signed certificates for low-security sites right now. Would the DNS approach make that more secure than what I'm doing now?\r\n\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: exactly
+    hostname: 212.159.106.192
+    created: '1219174171'
+    body: "> As it is, however, I frequently accept unsigned/self-signed certificates for low-security sites right now. Would the DNS approach make that more secure than what I’m doing now?\r\n\r\nThat's my question too. I'm equally not an expert at DNS but it does strike me there are essentially two cases where certificates are needed as you describe them. My idea is not meant to replace CAs but replace self-signed certificates. CAs have their place but not for all cases."
+-
+    name: 'Brisbane web designer'
+    mail: ''
+    subject: 'Interesting concept'
+    hostname: 220.237.74.238
+    created: '1224406760'
+    body: 'A very interesting concept. I had never heard of "DNS poisoning".'
+-
+    name: dashcvajksdvh
+    mail: ''
+    subject: 'StartSSL sucks'
+    hostname: 92.233.201.236
+    created: '1229375582'
+    body: 'StartSSL is pretty useless given that its CA isn''t trusted by Internet Explorer (or indeed, any other Microsoft product, which uses the PC''s certificate store for this purpose). I wouldn''t use a free certificate with them for this reason, and I certainly wouldn''t waste my money paying for one. They hardly make this clear on their website either. What a ripoff!'
+-
+    name: FunkyRes
+    mail: ''
+    subject: 'Note that "Several CAs'
+    hostname: 68.189.86.17
+    created: '1234666971'
+    body: "<em>Note that \"Several CAs accepted by all major browsers sell certificates for less than $20/yr, and StartSSL, in the Firefox 3 root store, offers them for free.\" So the financial complaint should be disregarded.</em>\r\n\r\nI looked at StartSSL. First visit to their web site, and I could not access content because I had JavaScript disabled. After temporarily white listing them, their site gave me errors stating they could not find the document I requested. Note that this was the index page - seems they want some kind of http get variable in the string. Not very impressive.\r\n\r\nFurthermore, nothing is ever really free. They wanted full name, address, and phone number. I don't want their adds for their commercial products sent to me.\r\n\r\nFurthermore, their cert is only good for a year. All I need ssl for is user login. Why should I have to get a new cert every year just to allow encryption of login username and password?\r\n\r\nWith respect to \"man in the middle attack\" - that seems far more likely with a real certificate that expires in a year. You see, after the cert expires, the browser doesn't have a problem accepting a new one. With self signed, I can provide a long cert lifetime. Once the user accepts it, if they ever get a different cert from a man in the middle, they should get a warning - just like the OpenSSH warning you get when you try to ssh into a box that regenerated their key. No certificate authorities are needed for ssh, btw ...\r\n\r\nMozilla really should look at how Opera does it. Temporary accept just requires a click. Permanent accept requires clicking the security tab, checking a box, and then a click.\r\n\r\nFast and painless, no un-necessary over the top scary warning."

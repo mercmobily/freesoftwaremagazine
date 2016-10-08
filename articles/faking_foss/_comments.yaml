@@ -1,0 +1,147 @@
+-
+    name: ''
+    mail: ''
+    subject: 'gif and jpeg are free'
+    hostname: 20.133.0.8
+    created: '1170853600'
+    body: "You are wrong to assume the gif and jpeg formats to be non-free. Both formats were declared free to implement without having to pay any license fees by their creators, Compuserve and JPEG respectively. I guess you wanted to refer to the legal troubles both formats suffered from patent trolling.\r\n\r\nGIF was troubled by Unisys having a patent on the LZW compression technique used in the format. That patent expired in 2003 [1]. JPEG was having trouble by Forgent claiming to have a patent on parts of the standard. However, that patent was invalidated in May 2006 by the USTPO on grounds of prior art. Furthermore, the patent expired in October 2006 [2]. JPEG has always said their standards were free to implement for everyone [3].\r\n\r\nIt is true that the threat of submarine patents still exist for gif and jpeg, but then they exist for vorbis, png, theora etc. just as well. There could always be a company hiding in the dark but eventually coming out to claim that they have a patent encumbering any of those \"free\" formats.\r\n\r\nMany Free Software programs implement gif and jpeg, you don't have to rely on non-free software in order to utilise them. Therefore, your criticism and recommendation not to use these formats is wrong. While it might be a better idea morally to use formats like png and vorbis, as they were created specifically to avoid patent encumbrance, there's nothing wrong with using free standards like gif and jpeg. One would recommend to prefer png over gif on technical grounds, but jpeg is virtually the only popular lossy image compression format Free Software implementations are available for. If you want people not to use it you should point them to a technically viable alternative first.\r\n\r\n[1] http://en.wikipedia.org/wiki/Gif#Unisys_and_LZW_patent_enforcement\r\n[2] http://en.wikipedia.org/wiki/Jpeg#Potential_patent_issues\r\n[3] http://www.jpeg.org/newsrel1.html\r\n\r\nRegards,\r\nincinerator@fsfe.org"
+-
+    name: 'shawn grimes'
+    mail: ''
+    subject: 'Valid Point'
+    hostname: 216.251.209.111
+    created: '1170861868'
+    body: "I think Jabari makes a very valid point but I also feel that forcing yourself to use FOSS makes us aware of areas where FOSS has opportunities for improvement.  On many projects that I undertake, I try to use FOSS from start to finish but often find that there just aren't viable solutions available for one component or another.  But this is exactly where FOSS was conceived, if you can't find a solution you build your own.  If we want FOSS to become more mainstream, we need to identify the areas that are lacking and come up with solutions.  \r\n\r\n<a href=\"http://claimid.com/shawn\">Shawn Grimes</a>\r\n<a href=\"http://www.shawnsbits.com\">Shawn's Blog</a>\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'As Fonality goes, so goes Trixbox'
+    hostname: 66.155.227.210
+    created: '1170903425'
+    body: "Fonality bought Trixbox, and you're now seeing the effects of Fonality's screw-the-community mentality. Chris Lyman of Foanlity took Asterisk 1.0 (the GPL-licensed open source pbx) and built an apparently-closed source commercial product around it.\r\n\r\nFonality's marketing rides the coattails of Asterisk's good name and visibility... \"ASTERISK-BASED\" their ads scream. Are they following the GPL? Fonality doesnt publish source code. They claim to have \"improved\" Asterisk, and they're clearly benefitting from us, the Asterisk community, but they're definitely not giving back. Guess their changes really aren't that significant, or Fonality's embarassed/scared to publish the source. Either way, Fonality and its stepchild, Trixbox are not living the open source spirit."
+-
+    name: ''
+    mail: ''
+    subject: 'I had no I idea that png,'
+    hostname: 220.233.53.52
+    created: '1170904857'
+    body: 'I had no I idea that png, vorbis or theora used patented routines. I thought the purpose of developing those formats was to develop a patent free alternative format that anybody was free to exploit. If these formats don''t contain patented routines, how can a submarine patent affect their usage?'
+-
+    name: ''
+    mail: ''
+    subject: 'I agree'
+    hostname: 70.22.205.49
+    created: '1170907317'
+    body: "I agree with the article 100%...\r\nhttp://www.binaryfreedom.info"
+-
+    name: ''
+    mail: ''
+    subject: 'FOSS commitment from an open source radio station'
+    hostname: 12.214.233.89
+    created: '1170912479'
+    body: "Hi Jabari,\r\nI'm one of the guys involved with the \"open source radio station\" (KRUU, http://kruufm.com) that you mention. And I would like to unfortunately put our hypocrisy on the table. We're actually pushing quite hard to be totally FOSS, but have run into a couple of hopefully temporary roadblocks. This has caused us to use mp3 for now. The issues are as follows (and we would love to hear from anyone who can give us alternatives or solutions): \r\nWe need to be able to stream our content and not have it available for download. This is due to copyright restrictions and our broadcast license for tracks that we have ascap/bmi licenses for. This is basically commercially available music that people are familiar with. At present we use Flash as the web-embedded player of choice. Unfortunately flash only supports mp3. Hence our releasing most of the audio for download at our site in mp3 format. Internal to KRUU we're mostly Ogg, but allow people to bring in their shows as aif or mp3 (because we allow people to pre-record their interview shows, and those on a Mac seem to have it a bit tough to use Ogg right now).\r\nWe're on a bit of a prostletyzing mission, but we would prefer to do it in a way that's comfortable for everyone. The cool thing is that we have over 80 show hosts who come into our station, and use our Ubuntu-based system, and we've not had one complaint thus far.\r\nHopefully in the next couple of months we'll be able to get to be \"truly\" Free software based."
+-
+    name: ''
+    mail: ''
+    subject: 'They all do it !!'
+    hostname: 203.220.105.18
+    created: '1170913357'
+    body: "Even RMS, Richard Stallman, the Oricle of FSF, he used a commercail operating system, (UNIX), to develop GCC. !!!\r\n\r\nThe very fact that FOSS is licenced under the GPL shows that FREEDOM is not the prime goal of FSS, or FOSS or GNU+Linux.\r\n\r\nIF TRUE feedom was the goal, then FSF would be in the Public Domain.\r\nand there would be NO thought of changing the GPL to further restrict the freedoms of users and potential users of \"FREE Software\".\r\n\r\nThey want freedom and full control as well, "
+-
+    name: ''
+    mail: ''
+    subject: 'FOSS has the potential to be'
+    hostname: 220.233.53.52
+    created: '1170915198'
+    body: 'FOSS has the potential to be 100% sufficient for anybody''s requirements by virtue of the code existing for anybody. The problem is, when the free software app is not sufficient for a user''s requirement, people are reluctant to invest their resources into developing the app to become sufficient. This means the user has to invest time and manpower to developing the app or investing time and money to pay someone else to develop the app. This is the problem that I see on the Internet. People have an expectation that FOSS developers to implement feature X found on Proprietary app JKL without payment.'
+-
+    name: ''
+    mail: ''
+    subject: 'They don''t care about freedom'
+    hostname: 220.233.53.52
+    created: '1170915982'
+    body: 'These people may know about freedom (for the user) but chances are, they don''t care about it. These sorts of people have bought into the ideals of Open Source and like the idea of free-beer software development while still remaining to the idea that subjugating people through software is acceptable. This is the sort of thing that Open Source is about - all the technical benefits of Free Software without regard to the idealism. While this might be fine for people whose objective is a better software application, this line of thinking will eventually lead to the loss of freedom for freedom will be taken away when the user doesn''t value freedom.'
+-
+    name: ''
+    mail: ''
+    subject: typo
+    hostname: 20.133.0.8
+    created: '1170931392'
+    body: "Hmmm, I could have written that sentence a wee  bit clearer. I didn't want to say that those submarine patents for png, vorbis etc. actually exist. I wanted to say that the <em>risk</em> of some company having a submarine patent on any of those formats is just the same as with jpeg or gif.\r\n\r\nAs you said, formats like png, vorbis etc. got developed to be free of patent encumbrance. I'm sure the developers of those formats have done significant research in order to make sure that there aren't any patents related to those formats that could be a threat. However, with thousands of patents issued every year, you can never be sure. No matter what you do, there's always the risk of a submarine patent causing trouble. You know the sad story of software patents in the United States."
+-
+    name: ''
+    mail: ''
+    subject: 'dual-license?'
+    hostname: 20.133.0.8
+    created: '1170932306'
+    body: "Isn't asterik released unter a dual-licensing model? Fonality might just have purchased a non-free license, in which case they would not have to publish the source code of the asterisk software, at all. However, they would still need to release the source code of other components as long as they haven't managed to obtain non-free licenses for them, as well. You can't obtain a non-free license for the Linux kernel for instance, though.\r\n\r\nIf fonality actually was violating the GPL, it would be up to the copyright holders to decide whether to take legal action or not. Unfortunately, not many Free Software developers are ready to undergo the legal struggles in order to protect their rights. Harald Welte and his http://gpl-violations.org/ campaign is one of them, but they have a huge case load."
+-
+    name: ''
+    mail: ''
+    subject: 're: radio'
+    hostname: 20.133.0.8
+    created: '1170933842'
+    body: "<cite>\"We need to be able to stream our content and not have it available for download.\"</cite>\r\nThat's technically impossible with digital technology as such. As long as you make a copy of those bits and bytes you call music and transfer it to another computer over a network, one can always make a copy of that data stream and save it on the disk.\r\n\r\nThe approach of using a flash-based web application and a non-free data format is naive. You assume that this forms any kind of protection from making illegitimate copies, but it doesn't, it just makes it a wee bit more difficult. A program can always eavesdrop into the data stream at any point between the data arriving at the client's computer over the network and the data stream being converted into analogue audio signals in the client computer's sound card.\r\n\r\nOne of the explicit design goals, and it hottest selling arguments, of digital technology is that  making identical copies can be done with virtually no effort. Copy protection for digital data is an oxymoron, it simply cannot be done in the long run.\r\n\r\nOf course that doesn't save you from the licensing trouble with your music. The licensor might be happy enough with the fact that your choice of software and audio format makes it somewhat more difficult to save a copy of the streamed music to disk. The licensor is probably a wee bit naive about the technical details, as well.\r\n\r\nThere are a couple of approaches you can follow:\r\n- Do not use non-free music, at all. Only use music you can legally stream over the internet.\r\n- Blank out non-free music when it's on the air, so that the FM radio signal has it but not the digital audio stream you make available to the internet.\r\n- Add a digital watermark to the audio stream. While this won't protect you from making copies you might be able to trace the person who spreads illegitimate copies. Those watermarks might be spotted and removed before the copy gets distributed, though.\r\n- Follow my argument about the fallacy of digital copy protection and use free software and free formats regardless. If the licensor allows you to use mp3 and whatnot, it doesn't make a technical difference if you moved to vorbis and free streaming software. Either ways, the client's always able to make a copy."
+-
+    name: 'Raghu Kodali'
+    mail: ''
+    subject: Funny
+    hostname: 125.22.3.206
+    created: '1170947818'
+    body: "It is very funny to see people who do not understand the difference between GPL & Public domain & want to comment.\r\n\r\nCan you please stop being anonymous?\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'It can be difficult to be consistent.'
+    hostname: 24.244.156.212
+    created: '1170955947'
+    body: "Perhaps a little easier if your sole concern is free software.\r\n\r\nFor instance, on this page I see:\r\n\r\n[Copyright information\r\n\r\nThis blog entry is (C) Copyright, Jabari Zakiya, 2004-2006. Unless a different license is specified in the entry's body, the following license applies: \"Verbatim copying and distribution of this entire article is permitted in any medium without royalty provided this notice is preserved and appropriate attribution information (author, original site, original URL) is included\". ]\r\n\r\nYou could have this under a CC BY or BY-SA license or the GFDL.\r\n\r\nAnd the stations page had this license:\r\n\r\nhttp://creativecommons.org/licenses/by-nc-nd/2.0/\r\n\r\nIf you put the same sort of expectations on text as on code, neither would be considered Free.\r\n\r\nThe again, I see from a post here that the stasion is going to be playing things which are also not free.\r\n\r\nIt can be tough even if you really want to.\r\n\r\nIf we do care, we can at least try to do our best though. And hopefully improve with time.\r\n\r\nall the best,\r\n\r\ndrew\r\n\r\nhttp://www.youtube.com/results?search_query=zotzbro&search=Search"
+-
+    name: ''
+    mail: ''
+    subject: 'It can be difficult to be consistent.'
+    hostname: 24.244.156.212
+    created: '1170958675'
+    body: "Oops, made a mistake there.\r\n\r\nThis is the license that appears on the stations web site:\r\n\r\nhttp://creativecommons.org/licenses/by-nc/2.5/\r\n\r\nThis one:\r\n\r\nhttp://creativecommons.org/licenses/by-nc-nd/2.0/\r\n\r\nWas on the article here:\r\n\r\nhttp://poynder.blogspot.com/2007/01/open-radio.html\r\n\r\nall the best,\r\n\r\ndrew\r\n\r\nhttp://code.google.com/p/drsoundwall/\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Ideological Purity'
+    hostname: 203.109.246.29
+    created: '1170960567'
+    body: "This annoys the hell out of me. A company can do everything they can to support and promote open source, but one wrong move in the eyes of the religious advocates and they are the devils spawn. For example, Novell make a decision to make a deal with Microsoft and suddenly all the work they have done with Linux is void?\r\n\r\nNow, I'm not saying I agree with their decision, or that as individuals we should continue to buy their product if we think they made a mistake. However, the self rightous indignation shown has not helped Novell understand. In fact I think that other companies see that pleasing the open source community is far too hard. Similarly in thise case a company with probably limited resource took the most cost effective way to hold a seminar. \r\n\r\nWhy do we like bashing companies who are doing a honest job of promoting open source? The target for the seminar was not open source people anyway. Sure, it would have been better to have a W3C compliant system, but to question a companies commitment to open source over an issue like this shows a disturbing extremeist attitude to advocacy."
+-
+    name: 'Jabari Zakiya'
+    mail: ''
+    subject: 'FOSS on the radio airwaves'
+    hostname: 68.49.20.138
+    created: '1170962954'
+    body: "Hi KRUU,\r\n\r\nI would encourage you to contact the tech people at <a href=\"http://www.kpfa.org\">KPFA</a>. They are a part of the independent, 5 station non-profit <a href=\"http://www.pacifica.org\">Pacifica</a> network, which I was on the national board of directors from 2000-3. They run an ogg stream at http://aud1.kpfa.org:8090/kpfa.ogg. I would pick their brains as much as possible on the technical issues of streaming, etc.\r\n\r\nAs for the downloading issue, you can't prevent that. If it can get to your ears (or eyes) it can be recorded. Remember recording songs off the radio with your cassette player? R U that old ;-)\r\n\r\nI would say just set your operating standards to require the use of ogg files for your hosts. If they are producing pre-recorded shows there are free tools (such as <a href=\"http://audacity.sourceforge.net/\">Audacity</a>) that run on Linux and Windows they can use.\r\n\r\nI would also suggest that you could require/suggest people use open music, eg that released under the <a href=\"http://creativecommons.org/\">Creative Commons</a> license. (They have an article on KRUU on their website there.) There is a growing repository of music released under this license. There is also a growing list of music released as ogg files.\r\n\r\nYou can also require people who have wmv files convert them to <a href=\"http://flac.sourceforge.net/\">flac</a> (Free Lossles Audio Codec) files, which will be smaller, but still preserve the full audio fidelity of the original file.\r\n\r\nAs for mp3, etc, well, just use them if there are really no alternatives. Whatever legal issues you think you have to deal with you have to deal with anyway. It's the content that may have some restrictions on it, not the file format.\r\n\r\nThe key thing is to set standards, and explain to the community and hosts the rationale of the whats and whys, and provide the tools and resources so that people can easily comply with the standards. Education is they key here. I would assume you are already providing training to people on the various aspects of radio show production, so incorporate these aspects into it.\r\n\r\nFinally, I would suggest you check out <a href=\"http://www.campware.org/en/camp/campcaster_news\">Campcaster</a>, if you aren't aware of it.  This could greatly facilitate people not having to physically come to your studios to deliver their audio  content, and would allow you to train a bevy of people who could operate the station 24/7.\r\n\r\nAs Yoda said, use the FOSS Luke, use the FOSS...\r\n\r\nJabari\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'rubyonrails.org is written in PHP'
+    hostname: 67.182.239.240
+    created: '1170987110'
+    body: "Jabari,\r\n\r\nrubyonrails.org is written in php.\r\n\r\nhttp://www.rubyonrails.org/index.php\r\n\r\nFunny, huh?\r\n\r\nNice article."
+-
+    name: 'Jabari Zakiya'
+    mail: ''
+    subject: 'Ideological purity'
+    hostname: 68.49.20.138
+    created: '1170995737'
+    body: "<i>\"Why do we like bashing companies who are doing a honest job of promoting open source? The target for the seminar was not open source people anyway. Sure, it would have been better to have a W3C compliant system, but to question a companies commitment to open source over an issue like this shows a disturbing extremeist attitude to advocacy.\"</i> \r\n\r\n1)None of my comments denegrated Trixbox as a project, or Fonality as a company. I factually reported on a decision they made that I have a problem with.\r\n\r\n2)The target of the seminar was the Trixbox 2.0 software, which is touted to be open source. The major selling point (financially and philosophically) of Trixbox/Asterisk is its open source heritage allows it to  be communally developed to include all kinds of features you'd pay through the nose to get from commercial software, its freely adaptable, and its available for anyone to use for free. To say \"the target for the seminar was not open source people anyway\" shows an ignorance of the user community Trixbox is marketed to, especially since its designed to run on Linux.\r\n\r\n3)Trixbox could have easily used a company who could have presented that webinar to everyone, and not denied people using Linux systems from viewing it. And that was the focal point of my article. You have a fake, and only expedient, commitment to FOSS if you don't embrace it in as many areas of use as you can viably do. What Trixbox did was a glaring non-commitment to FOSS, IMHO. And I emailed them my concerns on this issue before writing this article, because I think they make a good product. \r\n\r\nWe have an obligation to constructively point out things we take issue with in order to make things better. Hopefully, Trixbox will produce their future webinars so that people using the operating system they base their software on will be able to view their webinars with.\r\n\r\nJabari\r\n"
+-
+    name: ''
+    mail: ''
+    subject: '3 comments'
+    hostname: 211.27.202.246
+    created: '1171370455'
+    body: "1. There are a lot of FOSS programs for Windows that are not available for Linux - it's always jarring to see, but I suppose some programmers like the idea of freedom without actually having the time to learn to program in Linux.\r\n\r\n2. The current episode of the Ubuntu podcast is only available in MP3, but that's only because we've got an unresolved issue with the server that holds the Oggs (and the MP3 server won't accept Ogg files).\r\n\r\n3. The ultimate example of \"Faking the FOSS\" is Apple. Besides not letting anybody look at their bug trackers for their open-source projects, the \"source code\" for the Darwin operating system won't build or run without linking to closed-source binaries! (and for a while, Apple actually closed the source code for the x86 version too).\r\n\r\n3rdalbum"
+-
+    name: ''
+    mail: ''
+    subject: 'Thanks for the info'
+    hostname: 69.18.45.18
+    created: '1171469963'
+    body: "[this post is mainly for your information, and does not need to be published]\r\nHi Jabari, \r\nThanks much for the info. I'll be sure to contact KPFK. We've been evaluating Campcaster for some time now, and teh latest version has a lot of promise for us. However, we actually want people to physically be at the station for their shows - it's a totally different feeling to be in the broadcast booth, live on the air, than to pre-record. It has worked out for us quite well, and we are currently running a 24/7 operation.\r\n\r\nOver the next few weeks we'll be working on updating many of our processes (as we stabilize). So I suspect things like Ogg streaming and downloading will start becoming more visible.\r\n\r\nBTW, on the CC-music note. You may have seen the addendum to Mike Linksvayer's note at creativecommons.org. KRUU currently has a program called Open Source Music which plays only creative-commons licensed tracks for an hour every day. And we're expanding the use of that music, to where DJs are now playing CC music during their shows.\r\n\r\nIf you are interested in how we progress with these philosophies (and it's a huge educational campaign for us), please send a note to info at kruufm.com and I'll keep you updated.\r\n\r\nMay the FOSS be with you :-)"

@@ -1,0 +1,385 @@
+-
+    name: khaledih
+    mail: ''
+    subject: 'Printing under Ubuntu 6.06'
+    hostname: 82.201.221.240
+    created: '1151903988'
+    body: "I don't see this menu option(s), and what if my printer is not supported (epson c45) ?\r\n\r\nThanks..\r\nKHaled."
+-
+    name: ''
+    mail: ''
+    subject: 'Printing under Ubuntu 6.0.6, running from the CD as a "LiveCD"'
+    hostname: 68.109.193.65
+    created: '1155445855'
+    body: "Followed the above. In step 2 of 2, it sees my printer on the parallel port, and identifies the needed driver, but when I continued to the next step 3 (there is no \"Apply\" function in ver 6.0.6, and there is an additional step 3) it failed to install the printer.\r\nThen I went to a Linux help site and downloaded the HP720c driver, and in step 2, I did the \"Install Driver\" and navigated to the driver, and I received an error message saying that I did not have permissions to write the driver to the path where it was to be installed. "
+-
+    name: ''
+    mail: ''
+    subject: 'no manufacturer'
+    hostname: 210.213.145.91
+    created: '1157441990'
+    body: 'when i install my printer, i found out that there is no selection found in the manufacturer''s box so thus with model, my printer is epson lx 300+II which compatible with ibm proprinter II'
+-
+    name: ''
+    mail: ''
+    subject: 'Printer from my Unbuntu 6.06 , how to share'
+    hostname: 219.95.130.12
+    created: '1158831884'
+    body: 'How do I share out from my Ubuntu 6.06 to another PC with Sled10 (novel suse) '
+-
+    name: ''
+    mail: ''
+    subject: 'Canon GDI usb printer'
+    hostname: 59.95.32.70
+    created: '1159429724'
+    body: "Hi,\r\nI have a Canon MPC600F. Its a windows GDI printer :( \r\nI am able to print to it from Linux (Ubuntu 6.06) when it was connected to a windows pc via ethernet using the Canon s800 drivers. when I connect it directly to Linux pc usb, lsusb show its being detected. How can I get usb port to show up in the 'Add a printer' dialog. I'd like to see if I can use the GDI driver to print to it. Also I dont see and usb related file/directory under /dev\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Printing with Ubuntu'
+    hostname: 81.158.172.170
+    created: '1159438740'
+    body: "HI,\r\nI have found that printing with Ubuntu and most linux distros is a huge problem. The first problem is that it is no use telling people not to worry that their printer will be recognised and then not explaining how to configure it , or at least not pointing out that the following steps are the configuration, which will not work in my experience on at least 50% of the machines you try it on. Thats all just local machine work, wait till they ask you to do it on a virtual server.\r\n\r\nHere is the answer, fist check that your computer is built from A class parts, no dodgy cheap ram either, connect a HP printer to it USB if possible. Get round to your nearest PC World or equivalent, no shadey back street shops, and buy a copy of a program called Windows XP Professional and install it,  the printer will be recognised no problem, it will print immediately. Download all the updates make sure the firewall is activated, and  then install  a wireless router, connect the router to the computer using the ethernet connection on the motherboard of your computer or install an ethernet card. Then download and install a program called OpenOffice, its free and works really well, it opens Word and Excel files as well. If you want a backup program get Acronis True Image,full backup once a month and incrementals every night.\r\n\r\nfred_scotland\r\n\r\n\r\n  "
+-
+    name: ''
+    mail: ''
+    subject: 'Hey fred_scotland'
+    hostname: 63.161.86.254
+    created: '1159982311'
+    body: 'You made a good point in your comment, MAKE SURE THE FIREWALL IS ACTIVATED. Since you''re using winblows you''re machine will crawl to a halt due to spyware, viruses, a bunch of other crap that we linux user''s rarely ever have to worry about. also, if you could simply google ''ubuntu printer setup'', you can read from all the threads that tell you how to setup a printer with linux. and setting up my printer to print from a winxp box over samba was a piece of cake and I am a newbie. been on linux for only about 3 months, if you know how to read than you''ll do fine. there are plenty of forums of people who have already suffered so that people like you and I don''t have to. ps, the only reason I still have winxp is because my gf won''t take the time to learn linux!!! come back to linux and be patient and you''ll be on your way!'
+-
+    name: ''
+    mail: ''
+    subject: 'Don´t see the option USB#1,#2... etc'
+    hostname: 201.249.13.102
+    created: '1159982715'
+    body: "Sorry but when i was configure a manual port USB for a PHOTOSMART c3810, in the menu dont appear the option USB. \r\nMy apologizes, my english sucks!!!"
+-
+    name: ''
+    mail: ''
+    subject: job-stopped
+    hostname: 189.162.27.41
+    created: '1161631006'
+    body: 'I have successfully installed the driver for a network (Windows) printer(Samsung ML-2010) on my Ubuntu laptop. The printer shows up in the Printer box, but when I print to it, the print jobs just go in a queue with a status "Job-stopped". How do I start these jobs printing?'
+-
+    name: ''
+    mail: ''
+    subject: Thanks
+    hostname: 24.161.132.77
+    created: '1161799772'
+    body: 'I don''t have alot of time right now and this is exactly what I needed. Thanks a bunch.'
+-
+    name: ''
+    mail: ''
+    subject: 'Printing on a Canon Pixma ip1000'
+    hostname: 202.45.6.5
+    created: '1162527860'
+    body: "I've installed 6.10 and am trying to use my Canon Pixma ip1000 with it. \r\n\r\nI'm able to add the printer i.e the printer is recognized and I've used the suggested driver also for it.\r\n\r\nHowever when I print the test page what happens is that the printer light blinks but the test page is not printed. The job makes it to the print queue. The printer as such works since I have no problems from my Windows XP system.\r\n\r\nAny suggestions?"
+-
+    name: ''
+    mail: ''
+    subject: 'Printing with Ubuntu'
+    hostname: 213.107.224.23
+    created: '1163552125'
+    body: 'HP printers support Linux'
+-
+    name: ''
+    mail: ''
+    subject: 'Laserjet 1018 doesn''t print'
+    hostname: 213.214.155.64
+    created: '1164278989'
+    body: 'I have installed the Laserjet1018 on Ubuntu Dapper, but it doesn''t print. I have tried the troubleshooting-tips, but it still doesn''t work.'
+-
+    name: ''
+    mail: ''
+    subject: 'have you checked the paper'
+    hostname: 165.21.154.14
+    created: '1165222159'
+    body: "have you checked the paper size?\r\nCould be the old Letter/A4 difference that is causing the problem."
+-
+    name: ''
+    mail: ''
+    subject: 'Printing on Ubuntu with an LX 300+'
+    hostname: 202.8.242.201
+    created: '1167872860'
+    body: "Hi! I just installed Ubuntu 6.10 on a Celeron with an Epson LX-300+ printer.  I used Parallel Port (Epson) and selected the 9-pin series printer driver.  Worked well!  Now I'm printing fine!\r\n\r\nHope this helps!"
+-
+    name: ''
+    mail: ''
+    subject: 'printing ubuntu'
+    hostname: 71.114.3.244
+    created: '1168036064'
+    body: "I have an Epson stylus color 600 and went to the process to add a printer, choose a drive. All appeared to work; the printer was recognized but when I tried to print the test page it printed a few random characters in the upper left corner of a page and then moved on to the next page doing the same thing page after page. Thus I don't seem to be able to print. Any suggestions about what to do next.\r\nThanks.\r\nWilliam\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Printing on a Canon Pixma'
+    hostname: 134.58.253.131
+    created: '1168335600'
+    body: "I had the same problem, with my ip 1600. If your printer is not on the manufacterer list when you add a printer, it probably means ubuntu has no driver for that printer.\r\nThe only solution i found is to install turboprint for linux but if you install the free version you will have to print at lowest quality or it will print their logo on your page too."
+-
+    name: ''
+    mail: ''
+    subject: 'HP PSC-1410 doesn''t print'
+    hostname: 84.144.76.154
+    created: '1169468186'
+    body: "Hi,\r\nI recently got a HP printer and wanted to use it with my Dapper 6.06 installation. All went fine, except it does not print!\r\n\r\n/var/log/cups/error_log says:\r\nE [22/Jan/2007:12:57:20 +0100] [Job 4] No %%BoundingBox: comment in header!\r\nE [22/Jan/2007:12:57:26 +0100] PID 16137 (/usr/lib/cups/filter/foomatic-rip) stopped with status 3!\r\n\r\nWhat can I do?\r\n\r\nThanxalot!\r\nTom"
+-
+    name: ''
+    mail: ''
+    subject: 'Ready: No %%BoundingBox: comment in header!; me too'
+    hostname: 67.51.34.94
+    created: '1171202825'
+    body: "Ready: No %%BoundingBox: comment in header!\r\n\r\nerror with page pro 1350W that works fine when connected via USB  (error occurs when running through USrobotics unit with a server capability)\r\n\r\nprior to this had ran terminal with information from http://www.kdedevelopers.org/node/2138\r\nto get rid of /backend/http failed error"
+-
+    name: ''
+    mail: ''
+    subject: 'Epson Stylus Color 600'
+    hostname: 216.166.216.138
+    created: '1171552346'
+    body: "Hi All,\r\nI, like William am having the same problem- multi garbage pages. I'm able to print a test, but when I try to print from gimp it goes wacko. I can't pause, delete, all i can do is shut down the box by hand........what to do, what to do?"
+-
+    name: ''
+    mail: ''
+    subject: 'printing thru detdirect  IP address printers'
+    hostname: 69.40.194.92
+    created: '1171845304'
+    body: "How do I configure Ubuntu to see and connect to a printer on a wireless network?\r\nThanks\r\nedturner54@yahoo.com"
+-
+    name: ''
+    mail: ''
+    subject: 'MP360 Printer on UBUNTU'
+    hostname: 61.8.26.177
+    created: '1173356731'
+    body: 'I have installed a CANON MP360 on UBUNTU 6.06, and it works fine if I print to it from a connected Windows XP machine. The problem occurs when I try to print anything from the Ubuntu computer, regardless of whether I set the page size to A4, everything from Open Office documents to prints of web pages print in a shrunken format that takes up about half the normal size. Any ideas anyone ? I am using the MultiPass2500 printer driver.'
+-
+    name: ''
+    mail: ''
+    subject: 'Install SAMSUNG ML-2510 in Ubuntu Dapper'
+    hostname: 70.83.226.37
+    created: '1173844855'
+    body: "I tried to install Samsung ML-2510 by following some instructions found from a few websites. In GNOME, it didn't work at all. Samsung unified drivers supplied with its CD is useless. After downloading its current driver at samsung site, it also failed.\r\nIt worked out of the box when I switched to KDE using its wizard."
+-
+    name: ''
+    mail: ''
+    subject: 'it works'
+    hostname: 221.220.81.189
+    created: '1174029197'
+    body: 'i don''t understand what problems others face. Yet from these simple instructions, i was able to have my HP office jet 4200 work with no problem at all. Just follow instruction and if you encounter any step you don''t understand, i suggest you make sure you DO understand before continuing.'
+-
+    name: Tahir
+    mail: t.a.hassan@gmail.com
+    subject: 'What about the command line?'
+    hostname: 81.98.105.160
+    created: '1176905824'
+    body: "this guide does not even mention the command line!\r\n\r\nANYONE can set their printer up on Ubuntu  -- its so easy that you dont even need instructions.\r\n\r\nWhat newcomers wont know however is how to print from the command line.   "
+-
+    name: 'Jonathan Hayward'
+    mail: jonathan.hayward@pobox.com
+    subject: 'Doesn''t print; foomatic error'
+    hostname: 69.119.55.67
+    created: '1177716128'
+    body: "I added a Lexmark X1185 printer; the closest match listed in the setup wizard appeared to be the Lexmark X125(?).\r\n\r\nWhen I print, there is the usual \"How do you want to print?\" box, and then a progress status bar, and then the status bar goes away, with the following in /var/log/cups/error_log:\r\n\r\n<code>E [27/Apr/2007:19:17:45 -0400] PID 11256 (/usr/lib/cups/filter/foomatic-rip) stopped with status 1!</code>\r\n\r\nWhat can I do? Is there a driver I need to download? Is the Lexmark 1185 supported?"
+-
+    name: 'Mike Rosen'
+    mail: cinema98us@yahoo.com
+    subject: 'Amen friend! Been on Ubuntu'
+    hostname: 67.132.147.194
+    created: '1178051848'
+    body: 'Amen friend! Been on Ubuntu Feisty for only a few weeks and in spite of the fact that the majority of the learning curve is still in front of me, I am glad to finally be rid of Microsoft. There is life after Windows! M '
+-
+    name: MarkRais
+    mail: rais@reallylinux.com
+    subject: 'Lexmark printers some excellent Ubuntu support tips...'
+    hostname: 222.155.15.32
+    created: '1178090820'
+    body: "Greetings, I had written this article long enough ago that since then the Ubuntu Forums have done some outstanding documenting on the subject.\r\n\r\nFor an example among many try this:\r\nhttp://ubuntuforums.org/showthread.php?t=49714\r\n\r\nHope this helps encourage and get your concern addressed.\r\n-mark"
+-
+    name: 'Anonymous visitor'
+    mail: jcatkinson@aapt.net.au
+    subject: 'Canon MP 360'
+    hostname: 144.137.63.239
+    created: '1178350538'
+    body: "Hi,\r\n\r\nI have the same problem - printing from my mac results in an image 25% of the original - have you found a solution?"
+-
+    name: 'Anonymous visitor'
+    mail: citris1@yahoo.com
+    subject: 'no printers detected'
+    hostname: 66.3.224.67
+    created: '1179026898'
+    body: 'I tried two different printers, a Panasonic KXP-7100 and a Cannon BJC-3000, plugged into the USB port. Neither one was dectected at all. My Cannon 670U scanner (USB)is detected but won''t start. Could there be something wrong with the USB setup?  These devices work fine with win2000 on the same computer.'
+-
+    name: Arnaud
+    mail: am17@chez.com
+    subject: 'driver not found (hp deskjet 2360)'
+    hostname: 80.200.17.222
+    created: '1179345967'
+    body: "I have two pc's. One on Ubuntu and the other on W2K... and I'm trying to share the W2K's USB hp deskjet 2360 from Ubuntu with this method. So It don't work !  The question is :\r\nIs it possible to share via LAN a USB printer on another machine ?"
+-
+    name: 'robert fallis'
+    mail: robert.fallis@virgin.net
+    subject: job-stopped
+    hostname: 82.12.249.32
+    created: '1179989119'
+    body: "I too have this problem, with an epson d88, on ubuntu 6.06, everything is installed and I can print go photo images, but when it comes to text I get a job stopped message, has anyone any Ideas, as I cannnot find a setting to change.\r\n\r\n\r\nbob"
+-
+    name: Darkness
+    mail: darkness.feanor@gmail.com
+    subject: 'Thanks very easy'
+    hostname: 200.57.25.29
+    created: '1180501920'
+    body: 'Thanks very easy'
+-
+    name: 'Shilpa L. Deshpande'
+    mail: shilpa.unl@gmail.com
+    subject: 'Very easy to follow. Helped'
+    hostname: 63.113.14.26
+    created: '1180573879'
+    body: 'Very easy to follow. Helped a lot to get the printer setup on Ubuntu 7.0 '
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Kubuntu
+    hostname: 68.197.66.72
+    created: '1180659191'
+    body: "Kubuntu's easy too.  Alt-F2, type in kprinter.  Click the wizard button, and from then on it's basically the same thing as what you say.\r\n\r\n--\r\nAndrew Min"
+-
+    name: ColinDav
+    mail: colindaven@hotmail.com
+    subject: 'Canon MP360 printer driver'
+    hostname: 84.130.185.249
+    created: '1182097456'
+    body: "The printer part of the MP360 appears to work fine with the driver recommended at the following site. It is not difficult to install either\r\n\r\nhttp://www.linuxprinting.org/show_printer.cgi?recnum=Canon-MP360\r\n\r\nCheers and good luck\r\nColin"
+-
+    name: psm22
+    mail: peter.smale@gmail.com
+    subject: 'HP Officejet and Debian'
+    hostname: 130.216.199.173
+    created: '1182126884'
+    body: "Not strictly ubuntu, but I have had issues printing to an HP Officejet network printer from a debian machine. I configured CUPS, but the print job status was always \"JOB STOPPED\". After a lot of interweb trawling, I did apt-get install foomatic*, and now it works.\r\n\r\nTry it!"
+-
+    name: Garry
+    mail: g.sherriff1@btinternet.com
+    subject: Printing
+    hostname: 81.155.36.0
+    created: '1182418519'
+    body: "Can anyone help,I have an Epson C84 printer connected to my BT home Hub via the hubs usb connection it works great with 4 PCs using windows.I recently installed Ubuntu on one but cannot get it to print at all,Thanks in advance.\r\n                               Cheers Garry"
+-
+    name: Fitzcarraldo
+    mail: fitzcarraldo1@hotmail.com
+    subject: 'Using BT HomeHub as a printer server for Ubuntu'
+    hostname: 86.145.169.96
+    created: '1183681440'
+    body: "^Garry:\r\n\r\nYou might like to install the Samba share browser smb4k to see if you can see the IP address of the BT HomeHub's Samba Server. Install smb4k by typing the following into a Terminal window:\r\n\r\n<code>sudo apt-get install smb4k</code>\r\n\r\nWhen installation has completed, an icon should appear under Applications > Accessories. You can lauch smb4k using that or via the command line in a Terminal window:\r\n\r\n<code>smb4k</code>\r\n\r\n----------\r\n\r\nI'm running Ubuntu 6.06 on a laptop with a CardBus wireless card networked to a BT HomeHub. I have plugged an HP PSC-2110 multifunction printer into the USB-A port of the BT HomeHub and managed to print to the printer, but it is unreliable: I have to unplug and plug in again the USB cable after each print job otherwise subsequent jobs do not print, so this is not a practical solution. Anyway, this is how I configured Ubuntu 6.06 to print to the printer via the BT HomeHub:\r\n\r\n1. System > Administration > Printing\r\n\r\n2. Double-click on 'New Printer'\r\n\r\n3. Select 'Network Printer' and 'Unix Printer (LPD)'\r\n\r\n4. In the 'Host' field enter the IP address of the BT HomeHub Samba Server, which is, by default on my BT HomeHub, 192.168.1.253\r\n\r\n5. In the 'Queue' field enter \"LPT1\" (without the quotes)\r\n\r\n6. Click 'Forward'\r\n\r\n7. Select the printer Manufacturer and Model (HP and PSC 2110 in my case)\r\n\r\n8. In my case the recommended Driver was \"hpijs (recommended) - HPLIP 0.9.7 (Suggested)\".\r\n\r\n9. Click on 'Forward'\r\n\r\n10. Enter whatever you want in the 'Name' field (no spaces allowed). I decided to call my printer \"PSC-2110-BT-HomeHub\" (without the quotes). Enter whatever you want in the 'Description' and 'Location' fields.\r\n\r\n11. Click on 'Apply'\r\n\r\n12. An icon for the printer should now be visible in the 'Printers' window. Right-click on this and select 'Properties'. Click on 'Print a Test Page' and the printer should print a test page.\r\n\r\nWarning: You may find that you can only print the test page, and any other subsequent job you send to the printer does not print. The only solution I have found for this so far is to cancel the print job in Printers and on the printer itself, unplug the USB lead then plug it in again, and then resend the job, which is unsatisfactory. Maybe you'll have more luck.\r\n"
+-
+    name: Fitzcarraldo
+    mail: fitzcarraldo1@hotmail.com
+    subject: 'Using BT homeHub as a printer server for Ubuntu'
+    hostname: 86.145.169.96
+    created: '1183740077'
+    body: "^Sorry, I missed the \"sudo\" in my previous post. I should have typed:\r\n\r\n<code>sudo apt-get install smb4k</code>\r\n"
+-
+    name: cycko
+    mail: cyberpunk_w@yahoo.com
+    subject: "Hey man , \nI've got the same"
+    hostname: 24.98.226.83
+    created: '1183767160'
+    body: "Hey man , \r\n\r\nI've got the same problem with my LaserJet 2100 trying to print on Ubuntu . Status is always Stopped: job-stopped and the error.log looks exactly the same. \r\nDid you find a solution to make the printer sun? I'd appreciate it if you could share."
+-
+    name: admin
+    mail: ''
+    subject: Fixed
+    hostname: 165.98.157.37
+    created: '1183776190'
+    body: 'Thanks for the great comment'
+-
+    name: 'Anonymous visitor'
+    mail: danielmedici@yahoo.com
+    subject: 'Printing with HP Deskjet 3930'
+    hostname: 24.59.51.81
+    created: '1184710109'
+    body: 'Just wanted to let you all know that the HP Deskjet 3930 is not in the list (Ubuntu Feisty Fawn 7.04 release April 2007), but you can use the HP Deskjet 3920 and it should work fine. '
+-
+    name: Grit
+    mail: grenech.vesatom@nospamplease.com
+    subject: 'Drivers - troubleshooting on page 2!'
+    hostname: 222.155.24.166
+    created: '1184893063'
+    body: "For others here who also seem to have same issue with drivers.\r\n\r\nI note that page 2 is troubleshooting and includes much information for how to deal with no driver.\r\n\r\nI could not find it at first either, then noticed a second full page of info on the article.  I wish page 2 was just included in page 1 or made more clear that page 2 had troubleshooting.\r\n\r\n"
+-
+    name: FatFox
+    mail: jsdunlop@hotmail.com
+    subject: 'Printers - HP and Canon'
+    hostname: 189.135.231.226
+    created: '1188258714'
+    body: "Basically, HP provide fantastic support for their printers, and it's very easy to get them all up and running.\r\n\r\nCanon could not be more different.\r\n\r\nUnless your printer is from the ark, there are basically no drivers that alow you any functionality from your shiny new Canon.\r\n\r\nUnless, allegedly, you use a utility called 'Turboprint', which is commercial paid-for (paid-for before you know if it works, as well).\r\n\r\nSo my recommendation to anyone buying a printer, is to buy HP. And if, like me, you happen to have a Canon, then buy a HP. Or continue bouncing files to a Windows machine (or partition), which is so much fun. And efficient.\r\n\r\nCanon have really dropped the ball on this, and moreover they don't seem to care one little bit. Just try looking for any support for Linux on their site - none.\r\n\r\nYou actually have an option to specify Linux as your OS - and then it brings up nothing compatible! It's almost contemptuous.\r\n\r\nHP all the way, I'm afraid.\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: fghfgh@hotmail.com
+    subject: 'I''ve gotten the same issue,'
+    hostname: 74.98.184.238
+    created: '1188768452'
+    body: "I've gotten the same issue, the ports labeled USB #1 etc.. don't show up. I get something called LPT #1 instead, can I use that? If I figure it out, I'll be sure to post my solution.\r\n(I'm trying to install a HP Deskjet F4100)"
+-
+    name: Mad_Mike
+    mail: wymicha@yhoo.com
+    subject: 'Can''t get Hp officejet K60 to print in Feisty'
+    hostname: 67.81.225.23
+    created: '1191034870'
+    body: 'Hi All I have a similar problem to the one mentioned in this thread. I am running Ubuntu 7.04 Feisty Fox, and my HP Officejet K60 appears to install fine in the print menu, but will not print even a test page. I have tried installing HPOJ as well as the Foomatic software''s along with the free version of the Turbo Print utility. Nothing seems to Help Anybody have any suggestions?'
+-
+    name: stanley82
+    mail: stanley82@videotron.ca
+    subject: 'Click the up/down arrows'
+    hostname: 207.112.74.96
+    created: '1191272457'
+    body: 'Click the up/down arrows next to LPT #1 and on my machine it showed my Epson printer plus a cannon printer that I do not have.  '
+-
+    name: Silwilhith
+    mail: guillaume@catalyst.net.nz
+    subject: 'Setting up default paper format'
+    hostname: 202.78.240.7
+    created: '1192493350'
+    body: "Hi all,\r\n\r\nI have several printers connected to my Ubuntu 6.06 Station via CUPS.\r\nThe printing works fine except that each time I want to print something from an application just launched, I have to set the paper size to A4, otherwise US Letter is selected by default.\r\n\r\nHow can I set up the default paper format to be A4 ?\r\n\r\nNB: When I go to System > Administration > Printers > (select one printer) > Properties > Paper, all the items (Paper size, Paper type, Source, Double sided) show no selectable options. Is this normal?\r\n\r\nThanks in advance for help, cheers."
+-
+    name: WSCCGreg
+    mail: WSCCGreg@nestacpe.net
+    subject: 'Printing Stopped'
+    hostname: 76.7.133.121
+    created: '1195232658'
+    body: "I recently updated to Ubuntu 7.10. I've not had any problems with printing on my HP LaserJet 4 till now. Sometimes it will print, but most times it will not. When I check the status it just says \"Stopped.\" I don't know what to do.\r\n\r\nGreg"
+-
+    name: 'Anonymous visitor'
+    mail: jvonmitchell@gmail.com
+    subject: 'Today I had to use my'
+    hostname: 76.8.201.25
+    created: '1197425094'
+    body: 'Today I had to use my windows because I don''t know how to make g++ compile for wxApps, my school work, and I needed mingw.  Half the time I was updating a firewall, or waiting on firefox, it runs slower on windows, or I was telling my computer to not restart because it had an update.  Point is working on linux is just more productive.  If windows required less babysitting I would use it.  When I need to get work done half of that should not be maintaining a computer.'
+-
+    name: Peter_Lancaster
+    mail: ''
+    subject: 'A while back, I bought a new'
+    hostname: 202.78.232.111
+    created: '1256891511'
+    body: "A while back, I bought a new printer for my business, which designs and sells labels, decals, stickers and more. I helped set up a wireless printer once for a friend and had to get one of my own. I tried the Netgear print server that worked fine with the Netgear router; however, when I switched to the US Robotics router and tried using the print server that is imbedded in it, I could no longer print from the Ubuntu notebook wirelessly. I decided to set it up on my network, which was quite simple, and connected it to another notebook that uses Windows XP Pro.\r\n\r\nhttp://www.barneyslabels.com.au\r\n"
+-
+    name: joeweedy
+    mail: ''
+    subject: 'That is why tech support was invented'
+    hostname: 71.53.28.146
+    created: '1276932893'
+    body: "GNU/Linux doesn't have most of the problems MS Windows does but you are still going to encounter situations like this if you venture into more advanced territories like vitalization.\r\n\r\nMy suggestion is get a tech who can help and stop complaining. There are plenty of people who make house calls. You can find better support for newbies at www.ThinkPenguin.com. They'll find you someone locally if they can't help you over the phone. It's a commercial service so you get real support. The one thing I like about them is if you buy hardware from them it'll work and it'll work well into the future without fuss. They get free software. It isn't just about development.\r\n\r\nAnyway. If you do get any hardware you'll see it's really easy to do the simple things like plugging in a printer as it is all right there for you. They document everything very clearly with pictures of USB ports, screen shots, and all that jazz. They do a better job than Apple or Microsoft in that regard. The stuff they sell just works, but if you are one of those people who can't figure out how to plug in a USB device the documentation exists."
+-
+    name: steveaustin
+    mail: ''
+    subject: 'Re:'
+    hostname: 125.209.118.2
+    created: '1286346360'
+    body: 'Although the printer HP Deskjet F2430 was automatically detected upon usb connection to my ubuntu-9.10 desktop, the 3.9.8 version of hplip that came via apt repository did not quite get printing to work. [Ed - spam link removed]'
+-
+    name: mrdonjuan
+    mail: ''
+    subject: 'i cannot find a driver for my x1155 listed'
+    hostname: 24.242.193.71
+    created: '1305983901'
+    body: 'when i look under step 2 of 2 and search the printer drivers, i do not see a choice for x1155. any ideas as how to proceed.'

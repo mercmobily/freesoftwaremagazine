@@ -1,0 +1,42 @@
+-
+    name: pixie25
+    mail: ''
+    subject: 'An Important correction'
+    hostname: 134.2.247.79
+    created: '1249120448'
+    body: "Linux users can use google talk xmmp voip protocol via to options:\r\n1. run google talk on WINE ! ugly but working fairly well. \r\n2. Better option: install empathy gnome's voip client. \r\nThis is a great software and I find it better than pidgin !\r\n\r\nHave fun\r\n"
+-
+    name: Ferk
+    mail: ''
+    subject: 'Psi can be a nice replacement for Skype'
+    hostname: 212.225.134.60
+    created: '1249296540'
+    body: "Last version of Psi (which works in all Windows, Mac OS and GNU/Linux) has XMPP voice calls support compatible with gtalk.\r\n\r\nAnd perhaps next version will have video conference ^^"
+-
+    name: ce26
+    mail: ''
+    subject: 'IAX beats SIP'
+    hostname: 72.208.47.125
+    created: '1249776612'
+    body: "How can you miss mentioning IAX?  And Asterisk open source?\r\n\r\nA while back I looked deep into VoIP.  I went IAX over SIP over technical matters.  It is a less popular choice for 'consumer grade' but some desk phone sets can do both.  Teliax has good plans for IAX.\r\n\r\nI use Skype too.  The answer to beating Skype is free service.  If someone invents an ad-based revenue model for video, implements open source, and throws in automatic open-source crypto for calls, that will be a Skype killer.  What you're dealing with in Skype is the 'popularity effect' of 'everyone else uses it' so Skype's disappearance would help.  But anyone who offers free service of equal or better quality will soon overtake them."
+-
+    name: baaann
+    mail: ''
+    subject: 'More on Psi'
+    hostname: 82.8.177.29
+    created: '1250012179'
+    body: "Further to Ferk's comment the following article about the Psi media plugin is enlightening\r\n\r\nhttp://delta.affinix.com/2008/07/03/introducing-psimedia/"
+-
+    name: 'Paul Gaskin'
+    mail: ''
+    subject: 'This is a very important question. '
+    hostname: 71.167.77.229
+    created: '1250118098'
+    body: "We must have GPL-licensed representation in this niche. Voice and video telephony over TCPIP is a killer app, just like a web browser. \r\n\r\nIt's so disruptive, the ISPs and telephone companies conspire to kill any technology of this kind. \r\n\r\nWe must have it, or else we'll always have $100/month cell phone bills. We'll always have slow \"broadband\" at high prices. We'll never get the boot of the content lobbyists off our data-pipes. \r\n\r\n"
+-
+    name: mhauss
+    mail: ''
+    subject: 'SIP can''t be all that bad'
+    hostname: 74.240.248.154
+    created: '1250237968'
+    body: "Has anyone ever heard of Ekiga?  Ekiga (http://www.ekiga.net) is open-source VoIP software that I use on my Debian (Lenny) system to great satisfaction.  It works with SIP and H.323.  While I've never used H.323, I have used SIP; I couldn't get video working only because Lenny didn't provide drivers for the webcam I was using and I don't think the IBM Thinkpad T41 I use it on has the throughput for video, anyhow.  However, the audio performance has been crystal clear as if the person is in the other room (sans the delay).\r\nI thought there would be some mention of Ekiga here; I'm somewhat surprised to see that there was none.  An Ekiga account is free but it may be possible that you may have to pay for 'advanced' features.  I don't use these, so I don't know.  The Linux client is by far better on Linux than the Windows client is on Windows.  I don't doubt that many users have had problems with VoIP; I wholeheartedly agree that there must be some kind of NON-proprietary standard set that everyone can conform to and that allows participants (users, providers, etc.) to use and extend VoIP w/o the limitations of proprietarism."

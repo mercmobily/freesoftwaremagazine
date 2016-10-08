@@ -1,0 +1,7 @@
+-
+    name: rdtennent
+    mail: ''
+    subject: 'GPL vs. AFPL'
+    hostname: 216.239.76.157
+    created: '1433842685'
+    body: "Artifex has released fonts under the\r\n\"[Aladdin Free Public License](http://svn.ghostscript.com/ghostscript/trunk/ghostpdl/COPYING.AFPL)\"\r\nwhich *isn't* free because it doesn't allow commercial use. Presumably they confused these licences."

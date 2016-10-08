@@ -1,0 +1,56 @@
+-
+    name: ''
+    mail: ''
+    subject: 'TRS-80 comments.'
+    hostname: 206.74.232.227
+    created: '1168104198'
+    body: 'While the old TRS-80 is not directly mentioned by this entry, I would note that much emulator information is available, and an open-source emulator, xtrs, is available, under a free license.  See Tim Mann''s TRS-80 page at http://www.tim-mann.org/trs80.html and www.trs-80.com for many more details.'
+-
+    name: ''
+    mail: ''
+    subject: 'Very informative article.'
+    hostname: 209.115.174.241
+    created: '1168194736'
+    body: "I actually ran into this situation once.  I supported a group of scientists doing waste management modelling of high level nuclear waste.  All very rigorous science, replicable experiments, stress tested, all heavily documented ... in a proprietary format primitive CMS, which I very much doubt still exists.\r\n\r\nI've kept all my documentation from that time forward as ASCII text dumps.  I can't say the same for others."
+-
+    name: ''
+    mail: ''
+    subject: ijm51000
+    hostname: 82.114.188.206
+    created: '1168201553'
+    body: "Sometimes, when you read an article you get a WOW, what sense, and look at the implications! this is such an article.  Goverments archive there email for prosperity, historians look at librarys burnt and wish it had not happened. the value of \"missing archives\" be it software or any media cannot be thought of just in monetory terms, we owe the future as much, if not more, than we owe the past. \r\n\r\nAs this article, quite rightly points out \"And information loss costs future generations more than the few pence saved in disk space. Every ZX Spectrum game ever written will fit onto a single DVD, so no one has an excuse.\"\r\n\r\nI am not one for a \"law for this and a law for that\" however it is a duty of us all to preserve for future generations, their past. \r\n\r\nPerhaps all proprietary, copy right material should not just be made available, but a duty on the companies be placed that while they own the \r\nrights they agree to preserve for the future, the whole, and not ten or twenty years later say \"Oh sorry an intern burnt that part\"\r\n\r\nMy 2 cents worth and thank you for a good article that said WOW\r\n\r\nIan Macdonald\r\nIan.macdonald@aibh-ye.com\r\n "
+-
+    name: ''
+    mail: ''
+    subject: 'What is available for Free?'
+    hostname: 82.69.78.105
+    created: '1168343982'
+    body: "You're right, there are a number of Free and open source emulators available (I've written them myself), but there are several large gaps in the \"product line.\" Furthermore, there is no correlation between the machine's importance, originality, or design.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'My Web Archaeology Project'
+    hostname: 70.184.73.80
+    created: '1168927699'
+    body: 'I''m on the latter end of the author''s timespan: 1994-ish. Last year, I got bitten by the nostalgia bug and decided to recreate the hardware and software experiences of a series of typical early WWW users. So, I kept a log of all activities, scoured ebay for tech books from 1993-1995, and started off with buying a x86 and Mac 68k laptops from the period. They work fine, but it was a nightmare trying to get a NIC to work in a 1995 Compaq desktop that was supposed to become a Linux 1.2 server with CERN httpd. That''s when I discovered the joy of VMware player and installed it on my Linux laptop. Now, I can boot up Win 3.11 with Mosaic and Slackware 2.1 and pretend I''m a 1994 websurfer. Getting the OSs and software took many nights of deep google searches and ftp archive hunting. But, its worthy to make an archive of these historic programs and thier OS environments.'
+-
+    name: ''
+    mail: ''
+    subject: 'Computer History Museum Software Preservation Group'
+    hostname: 207.47.11.49
+    created: '1169067780'
+    body: "I am the Software Curator at the <a href=\"http://computerhistory.org\">Computer History Museum</a> and there is an active effort to preserve software through\r\nthe <a href=\"http://computerhistory.org/events/special_projects/scc.shtml\">CHM Software Preservation Group</a>.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Amstrad?'
+    hostname: 195.165.189.234
+    created: '1170545990'
+    body: 'I''m pretty sure the Spectrum was manufactured by Sinclair, not Amstrad.'
+-
+    name: ''
+    mail: ''
+    subject: 'Yes, and no!'
+    hostname: 62.252.64.30
+    created: '1171741969'
+    body: "Sinclair built the original Spectrum, but Amstrad bought the rights in 1986. It was Amstrad who then permitted the use of the ROMs.\r\n"

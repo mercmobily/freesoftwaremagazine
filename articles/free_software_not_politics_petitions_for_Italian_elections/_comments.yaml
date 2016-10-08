@@ -1,0 +1,35 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Standards not software'
+    hostname: 68.93.224.4
+    created: '1208316998'
+    body: "In examining similar initiatives where I live, we concluded that advocating a requirement to _use free software_ was not a good policy. There are too many examples of government needs where there is no free software application that does what you need.\r\n\r\nThat creates a bad \"slippery slope\" situation: you can't have a blanket ban against using proprietary software (because in some cases it would be totally impractical, and result in enormous taxpayer expense), so you have to add \"weasel words\" that let an organization escape the requirement. And in practice, they'll manage to escape it for everything (e.g. \"we have to use word because Open Office doesn't support...\" [some arcane feature]).\r\n\r\nAlso, it's quite easy to argue that such a rule is \"anti-competitive\", using exactly the same arguments that have been used (for example) against Microsoft (e.g. you certainly don't want laws that require you to use a particular proprietary software, do you?).\r\n\r\nAnd besides, it doesn't matter. I am not materially harmed because some government employee uses MS Word to write their documents.\r\n\r\nWhat harms me is not being able to read the documents because they are in some proprietary format. And that is a MUCH stronger case.\r\n\r\nSo it's better to focus on _open standards_: standard, well-documented file formats that put free software and proprietary software on an even footing.\r\n\r\nOf course, in general, given such an even-footing, free software will win in the marketplace anyway, because it can offer as much or more value for less cost. More importantly, free software users will not be discriminated against, whether the world at large uses the same software or not.\r\n\r\nProprietary software companies know this of course, so they'll try to fight such an initiative, but you've given them a much harder target if they have to justify storing public records in proprietary _file formats_.\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Conflicting statements'
+    hostname: 82.108.129.98
+    created: '1208335740'
+    body: "Whilst I agree with the sentiment - but perhaps not the action - it seems you have a conflict here.\r\n\r\n> I have been saying this for many years: free software must not be associated with an ideology or political party. \r\n\r\nand the title \"_Free software is not politics_\".\r\n\r\nBoth indicate that free software should not be a political issue, yet the actions you support and advocate..\r\n\r\n> This is an initiative that every national free software association should replicate when their election time comes!\r\n\r\n..are saying that free software _should_ be political.\r\n\r\nWhilst I would love to see governments using only free software, it's very difficult to legislate that without creating bigger issues. What I would want to see was leglisation which demanded that government:\r\n\r\n* did not exclude those of us who choose to use free software\r\n* did not insist that those who communicate with it do so using proprietary platforms (e.g. websites insisting on I.E.)\r\n* properly consider free software as part of any software procurement process.\r\n\r\nAside from that, I agree with Terry that government use of open standards[1] should definitely be under legislation.\r\n\r\ncheers  \r\nRyan\r\n\r\n[1] Although these days that might not mean an ISO approved standard!"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: ISO
+    hostname: 68.93.224.4
+    created: '1208386007'
+    body: "Actually, a _lot_ of ISO standards aren't _fully_ \"open\", as I discovered when I tried to get the [STEP documentation](http://www.freesoftwaremagazine.com/columns/secret_standards), so that's not necessarily a surprise.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"politics" / "not politics"'
+    hostname: 68.93.224.4
+    created: '1208386191'
+    body: "I noticed the conflict too. But I think what Marco is trying to say is that supporting free software shouldn't become a _partisan_ issue.\r\n\r\nCertainly, it's true that there's a danger if one party tries to \"own\" free software advocacy. It creates a risk that the other party (or parties) will feel it has to _fight_ free software, which we don't want."
+-
+    name: 'Marco Marongiu'
+    mail: ''
+    subject: Clarifications
+    hostname: 217.133.8.17
+    created: '1208464543'
+    body: "Thanks for your replies, I think I need to clarify my point a bit.\r\n\r\nFree software is for people. And people are people, no matter what their faith or their political inclination is. Therefore, I strongly believe that FS is not tightly bound to any ideology.\r\n\r\nFor this reason, I don't expect that a single political party has the duty to advocate free software. I'd rather like a number of politicians from different parties to promote laws in favour of free software. One of the aforementioned petitions works exactly that way: it aims at politicians, no matter what their party is.\r\n\r\nBelieve it or not, not only I found people that stated an equation between free software and communism; they went further saying that promoting FS I was also promoting the ideas behind it, that is: I was promotimg communism. [They decided I am a communist](http://use.perl.org/~bronto/journal/23249).\r\n\r\nFeel free to be what you are, but don't let this become a wall between you and anybody else that, in the end, is doing the same thing you do: promoting free software."

@@ -1,0 +1,14 @@
+-
+    name: 'Clay Garland'
+    mail: clay.garland@gmail.com
+    subject: 'Mac Pro'
+    hostname: 12.47.120.130
+    created: '1181050184'
+    body: 'The article seems relatively misleading.  You''ve done all your tests on a computer with 4GB of ECC Memory, 2 250 GB HD''s, and an opteron 1200 CPU, yet you say prices *start* at $845.  Well, What does the $845 get you?  It certainly doesn''t get you a Dual Core Opteron at 2.8 I know the newer models of those chips retail for 2 grand or more, and even the Italy model is almost $800 retail.  But still, for my money, and I do a lot of database and software development in *nix and Windows, nothing beats the value that the Mac Pro gives me.  Support for 32 GB of ram, 4 Drive Bays, an extremely sturdy enclosure with excellent cooling characteristics. And on top of that, I can get 4 Cores, for about three grand with the specs you list, and 8 cores for four thousand.  It would be nice to know how much a configuration like the one you used costs for comparison''s sake.'
+-
+    name: 'Martin Brown'
+    mail: ''
+    subject: Costings
+    hostname: 82.70.138.102
+    created: '1181122146'
+    body: "Hi,\r\n\r\nCheck this page: http://shop.sun.com/is-bin/INTERSHOP.enfinity/WFS/Sun_NorthAmerica-Sun_Store_US-Site/en_US/-/USD/ViewStandardCatalog-Browse?CategoryName=Sun_Blade_2500_Work&CategoryDomainName=Sun_NorthAmerica-Sun_Store_US-SunCatalog\r\n\r\n$845 will get you an AMD Opteron 1210 (dual-core 1.8GHz), 512MB RAM, 160GB HD\r\n$2245 will get you an AMD Opteron 1218 (dual-core, 2.6 GHz), 1GB RAM, 250GB HD\r\n\r\nAs I state in the article, my unit came with a single 250GB SATA HD, not two. \r\n\r\nThe 20 M2 *is* limited to 4GB RAM, but then it's the lower end configuration. The Ultra 40 M2 is the dual-core, dual CPU model, with a unit with two 2222SE Opteron's, 4GB RAM and a 146GB SAS disk at $5495. (http://shop.sun.com/is-bin/INTERSHOP.enfinity/WFS/Sun_NorthAmerica-Sun_Store_US-Site/en_US/-/USD/ViewStandardCatalog-Browse?CategoryName=Sun_Blade_2500_Work&CategoryDomainName=Sun_NorthAmerica-Sun_Store_US-SunCatalog)\r\n"

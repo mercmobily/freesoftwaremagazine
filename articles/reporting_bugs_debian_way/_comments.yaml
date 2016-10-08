@@ -1,0 +1,7 @@
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'What if you can''t send direct SMTP?'
+    hostname: 62.140.212.3
+    created: '1289554435'
+    body: "Just a quick update. Recently I had cause to use reportbug on a machine which was not permitted to send direct SMTP. Normally such machines would have reportbug configured to use the local relay but this one was a laptop and it was only on one particular network that SMTP was blocked.\r\n\r\nIf you come up against the same problem you have two choices:\r\n\r\n* Cancel reportbug and do it again when you have SMTP\r\n* Save the report and send it later or via GMail or similar\r\n\r\nI chose the latter. Reportbug will produce an error when trying to send the bug report and give you the option to save it. The prompt is not so clear and will say:\r\n\r\n=CODE_START=\r\nSMTP send failure: [Errno 111] Connection refused. \r\n    Do you want to retry (or else save the report and exit)? [Y|n|q|?]?\r\n=CODE_END=\r\n\r\nTo which you should respond with \"n\". This saves the entire report (including mail headers to a tmp file. All you do then is compose a message to the recipient listed in the bugreport and get the subject from there too and then paste everything below the \"Date...\" line as the body of the message.\r\n\r\nhope this helps  \r\nRyan  \r\n\\-\\-  \r\nEquitas IT Solutions - fairness, quality, freedom  \r\n[http://www.equitasit.co.uk](http://www.equitasit.co.uk)"

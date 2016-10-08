@@ -1,0 +1,98 @@
+-
+    name: ofeeley
+    mail: ''
+    subject: 'The irony'
+    hostname: 24.201.107.22
+    created: '1159902862'
+    body: "Advocating wrappers of non-Free binaries in a Free Software magazine.  A distro relying on ndiswrapper for operating wifi really shouldn't be called a GNU/Linux desktop.  \r\n\r\nPresenting this as a competition between Microsoft and Linux on the desktop (which must be won by \"our team\") leads to the fuzzy thinking that advocates non-Free rubbish like ndiswrapper that leads to greater problems further down the road.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Stop moaning. Sometimes I'
+    hostname: 66.99.91.45
+    created: '1159915321'
+    body: 'Stop moaning. Sometimes I want to make a baseball bat and carve the word "reality" onto it. Then use said bat. Because linux has ndiswrapper was the deciding factor for me to switch over entirely. Which I have.'
+-
+    name: ''
+    mail: ''
+    subject: 'Lighten up and cop on'
+    hostname: 24.201.107.22
+    created: '1159968439'
+    body: "You've been sitting on that bat too long! :)\r\n\r\nYou seem to believe that your decision to switch to GNU/Linux is one that closes any argument and that you should be met with applause and gratitude.\r\n\r\nUnfortunately this is not the case when you and others like you start promoting non-Free software and creating a demand for it.  By doing so you remove the demand on manufacturers to open up their source code so that we can completely functioning hardware running the way we want it to run.\r\n"
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: 'Things change'
+    hostname: 213.46.16.239
+    created: '1159990095'
+    body: "My point being,\r\n\r\nthat ndiswrapper support of proprietary drivers fills a gap that is slowly but certainly getting filled by freesoftware :)\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Shame on you'
+    hostname: 200.122.155.113
+    created: '1162390050'
+    body: "Sir, you're seriously confused.  This is not the \"it runs so shut up\" camp.\r\n\r\nCalling ndiswrapper a solution to get WiFi up and running is a joke at best.  Where does that leave AMD64 and PowerPC users?  Where does that leave the ability to debug and fix problems in a timely fashion?  Just like it happened with video cards where we accepted that the ATI and NVIDIA binary drivers are ok for a whole lot of wrong reasons, it's going to happen again with WiFi drivers.  Where are we now with the video drivers for high end cards?  We have binary blobs for a limited number of architectures which we can't study, modify, improve or port to other architectures.  Would the linksys hacks be possible if we had accepted ndiswrapper as a solution?  When was the last time you actually saw a vendor providing driver downloads for Windows on MIPS?"
+-
+    name: ''
+    mail: ''
+    subject: 'Entirely?'
+    hostname: 217.122.109.187
+    created: '1162403798'
+    body: "Switched over entirely? You're still beholden to the continued proprietary development of the Windows binary blobs for your cr*ppy WiFi card. Hint: They stop as soon as your card is out of production and MS changes the driver model again.\r\n\r\nGet a Ralink based device (aprox. EUR 22.00) and just plug and play, NATIVELY. Why should you buy supported hardware to run a free OS? Simple. You should spend money to be able to use a computer in freedom. If freeloading is your only desire, you are not a part of the community."
+-
+    name: ''
+    mail: ''
+    subject: 'It''s a Distro Thing'
+    hostname: 198.16.0.203
+    created: '1162408561'
+    body: 'I did the same thing with Mandriva, two notebooks, Dell LS400/3Com card and 5150/IPW2200BG, desktop Dell 2400/dlink Gsomething and a Playstation/Dlink Bridge. From scratch took less than 3 hours, only Googled one minor Playstation thing. No NDIS wrapper used either. '
+-
+    name: ''
+    mail: ''
+    subject: 'Sad reality'
+    hostname: 198.166.60.64
+    created: '1162434775'
+    body: 'The sad reality is that *MANUFACTURERS OF ALL THIS HARDWARE* do not (and I mean NOT!) create Linux-able drivers for their hardware.  They live in a microsoft only world.  Yes the ndiswrapper is an intermediate step that must be taken to in order for Linux users to use much WIFI hardware.  Its sad and unfortunate that genuine Linux drivers are not available from the manufacturer (and equally troubling that programming documentation is not available from many of them without developers signing non-disclosure agreememts).  Also, the NDA''s may come with a fee, or limited use licence (which ruins all hope for a general Linux driver).  In the intermediate time between now and when Linux achieves world domination, the ndiswrapper is here.  Happy wifi''ing.'
+-
+    name: ''
+    mail: ''
+    subject: 'Shoulda just used. . .'
+    hostname: 24.19.34.181
+    created: '1162445712'
+    body: 'Ubuntu on both computers.'
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: 'The open source market will decide'
+    hostname: 145.18.144.17
+    created: '1162453096'
+    body: "Yes, again I can but agree,\r\n\r\nif the Ubuntu distrubution works out the box for WIFI,  then this distro will have the advantage over the less supported and if the modules are open source then all the licensing and moral details are non existent as well. However I must admit, I like yum/apt Redhat/Ubuntu biodiversity on my network, makes for interesting magazine articles and shorts :)"
+-
+    name: ''
+    mail: ''
+    subject: 'Always try to buy hardware that is supported with native drivers'
+    hostname: 203.17.154.70
+    created: '1162465499'
+    body: "Always ask if it is supported. If the sales dude doesn't know, help them find out if they have a net connection (show them where to search).\r\n\r\nIf you don't buy because they can't supply something that is suitable,  tell them you will have to make the purchase elsewhere.\r\n\r\nOf course if you have existing hardware that only works with ndiswrapper, that may be the only option.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Support Ralink!'
+    hostname: 66.30.119.58
+    created: '1162622724'
+    body: "Use Ralink. Their chipsets are in a number of new cards. For instance, the Hawking HWC54D, which you can buy any number of places (including retail computer places like CompUSA). Not everyone who makes 802.11abg cards includes binary firmware in \"free\" drivers or ignores GNU/Linux.\r\n\r\nDon't be part of the problem. Be part of the solution. Encouraging manufacturers to rely on ndiswrapper usage sucks for people like me, who are forced through BIOS restrictions to use Broadcom wireless cards which crash ndiswrapper + amd64 (total and complete lockup) on a regular basis.\r\n\r\nI use the Hawking instead, and hey, guess what? The ralink driver works great. The only problem is you can't use it as a base station, but that's coming.\r\n\r\n"
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: 'Practical advice'
+    hostname: 213.46.16.239
+    created: '1162631297'
+    body: "Good practical advice is always welcome.\r\n\r\nThanks"
+-
+    name: ''
+    mail: ''
+    subject: 'Why Buy More Hardware!'
+    hostname: 75.34.93.161
+    created: '1162854280'
+    body: "Why should someone have to go spend additional money on another wifi card when they have one that is prefectly fine to begin with.  Part of the problem with Windows applications and hardware is cost and security.  Why is everyone so defensive when a person wants to work with what they have already, instead of having to stock pile additional hardware because it doesn't work after installation.  I have a broadcom 4303 internal wifi card that would not work after installation.  I found two solutions and chose the one that didn't require the ndiswrapper to be installed, however I lost in the end by choosing not to install the ndiswrapper since this option limits my top speed to 11M.  I will not listen someone who tells me I have to spend more money on hardware when there are fixes available and are accepted by Ubuntu.\r\n\r\nI fully agree that the makers of these devices should include Linux in there driver configurations.  Part of the problem is not that hardware manufacture is not supporting linux, they choose to not support linux on legacy hardware.  This is a common practice to minimize costs.  Alot of users I work with are using old hardware and therefore more likely to find no driver support.  Broadcom has drivers that support Linux for there current hardware, it just so happens they don't support my current Wifi card, but I'm not going to spend and extra $20 for a piece of hardware if I don't have to."

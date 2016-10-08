@@ -1,0 +1,77 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Would you really trust Dell to install GNU/Linux?'
+    hostname: 217.36.111.190
+    created: '1172662137'
+    body: 'I wouldn''t trust Dell to install any distro. I''d like the opportunity to buy a clean machine with no crapware installed. And obviously it would have to be cheaper, since I wouldn''t be paying the Microsoft tax.'
+-
+    name: ''
+    mail: ''
+    subject: 'MS tax'
+    hostname: 207.106.35.30
+    created: '1172679277'
+    body: "The MS tax is $30 on their n-Series PCs (vs. XP home). Does not sound like much of a deal to me as a home user (who'd purchase just one PC). I don't mind paying $30 to have my PC ready to be used as soon as it arrives. But for a business that buys in bulk (+ upgrade to XP Professional) it adds up.\r\n\r\nAnother question: DO you really expect Dell install/support Linux free of charge?"
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'Proprietary drivers'
+    hostname: 80.6.124.25
+    created: '1172687583'
+    body: "While I'm not too bothered about having GNU/Linux preinstalled, I would like it if Dell started selling hardware which specifically works well with free (as in freedom) GNU/Linux systems. However, as they've neglected to mention freedom or the existence of GNU at any point, they may well just supply that hardware support with proprietary drivers. That would mean that Dell's support of \"Linux\" would be unlikely to provide any benefit to anyone who uses GNU/Linux because of the freedom it allows them.\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: ''
+    mail: ''
+    subject: 'Dell''s Response'
+    hostname: 212.183.56.46
+    created: '1172688244'
+    body: "From their initial <a href=\"http://www.dell.com/content/topics/global.aspx/ideastorm/ideasinaction?c=us&l=en&s=gen\">response</a>, I'm not sure how far this is going to get Free Software.\r\n\r\n\"Your feedback has been all about flexibility\" is only half the truth. Some of the feedback has been all about freedom.\r\n\r\nDell now says they'll certify their hardware with Novell. They don't say they'll preinstall Novell Linux, but can we be sure they'll install something free when the time comes or will they install, say, Linspire?\r\n\r\nWill their \"Linux\" offering be \"value-added\" with proprietary nVidia drivers, Macromedia Flash and RealPlayer?\r\n\r\nIt'd be great to have Dell PCs sold with preinstalled GNU/Linux, but I think we should continue to comment at the IdeaStorm site so that there are at least <em>some</em> people who call the OS by its proper name. ;-)\r\n"
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'Mailing lists'
+    hostname: 80.6.124.25
+    created: '1172851287'
+    body: "Yep, we should continue telling Dell that we use GNU/Linux because of freedom, and asking them to call it by the right name. It's a good idea to join the 'Linux-Desktops' list at http://lists.us.dell.com/mailman/listinfo, and maybe some of the others, where our comments will probably have more impact.\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: ''
+    mail: ''
+    subject: 'Companies Selling Pre-installed Linux (SCREW DELL)'
+    hostname: 75.109.220.83
+    created: '1172871708'
+    body: "Here are some companies selling <strong>pre-installed Linux desktops</strong>.\r\n\r\n<a href=\"http://lxer.com/module/forums/t/23168/\">http://lxer.com/module/forums/t/23168/<a>\r\n<a href=\"http://lxer.com/module/db/index.php?dbn=14\">http://lxer.com/module/db/index.php?dbn=14<a>"
+-
+    name: 'Chris Holt'
+    mail: ''
+    subject: 'Thanks to commentors'
+    hostname: 24.108.129.4
+    created: '1172890634'
+    body: 'You guys have fantastic comments...thanks'
+-
+    name: ''
+    mail: ''
+    subject: 'Free more important than zero-prize'
+    hostname: 212.183.56.62
+    created: '1172927781'
+    body: "To me, the freedom aspect is more important than the cost aspect. If Dell invests money in pre-installing GNU/Linux (hardware certification, support staff, whatever), then it's perfectly okay to pay for that.\r\n\r\n(GNU/Linux might be cheaper because there are no license fees. But then again, there are fewer customers. Anyhow, prize is not the point.)\r\n\r\nWhat bothers me is that I have to pay license fees to Microsoft, who are all but friendly towards free software, just to replace Windows with GNU/Linux the first day the PC arrives. <em>That</em> doesn't make any sense."
+-
+    name: ''
+    mail: ''
+    subject: 'It doesn''t matter to me if'
+    hostname: 220.233.53.52
+    created: '1173091624'
+    body: 'It doesn''t matter to me if Dell sold me a laptop with pre-installed GNU/Linux Operating System AND crapware but every piece of software must be Free Software and must also include the source code. I must also have full control of the computer system - this means no measures to prevent me from running and changing anything that needs to be improved. I also do not want to pay any Microsoft tax.'
+-
+    name: ''
+    mail: ''
+    subject: Laptops
+    hostname: 220.233.53.52
+    created: '1173092634'
+    body: 'I''d really like to buy a laptop that has Free software drivers for all the hardware. Laptops that are made up of completely Intel hardware is a good start but I want to buy a laptop without requiring any payment to Microsoft.'
+-
+    name: ''
+    mail: ''
+    subject: 'I like my Dells. I like'
+    hostname: 70.20.244.142
+    created: '1173781934'
+    body: "I like my Dells. I like Ubuntu family of distros, I like F/OSSware. I use all three. Had Old Dell PCs- poof they got new life w/Ubuntu, one until processor finally went. Old Dell server at work- poof three more years running RedHat. Best thing to date is my new D620 never even booted fully into MSW - I put on the brakes, dropped in Ubuntu Edgy and poof- I love my new work laptop.\r\n\r\nI wished Dells choice of wireless cards had better Linux support out of the box but gave up awhile ago, got an ASUS PC card and have used it in two PCs so far right out of box. And I wish more games played in Linux land but Crossover Office/Wine helps there a bit as does VirtualBox container running WinXP.\r\n\r\nBut, for the bulk of PC users out there, they want a PC to arrive at the door fully loaded, fully configured so all they do is plug it in and poof- email, internet, document creation, photo munging. Not sure Dell will get Linux distro(s) ones out there but maybe they can help, but not take over.  \r\n\r\nRight now I'm seriously looking at System76 product line for that second home PC I need :) and theres a 'open letter to Mark Shuttleworth' about getting Canonical into the hardware business."

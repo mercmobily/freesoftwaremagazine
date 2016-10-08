@@ -1,0 +1,77 @@
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'GNOME has Deskbar'
+    hostname: 165.98.157.37
+    created: '1180387174'
+    body: "It looks like <a href=\"http://raphael.slinckx.net/deskbar/\">Deskbar Applet</a> is the equivalent for GNOME. It does a whole bunch of things: you can run commands; it'll search your emails, files and folders, web bookmarks, history, previous web searches and delicious bookmarks too; open up web pages; interface with beagle; do dictionary searches; switch windows. I have mine bound to Ctrl + Alt + End.\r\n\r\nBecause it does window switching I can find windows I already have open too, which means I don't need a the task bar at all. If I minimise a window by mistake I can use deskbar to get it back by typing the name of the app.\r\n\r\nIt would be good if it had a calculator like Katapult. And, if the spell function Katapult has is built-in and doesn't require you to be online, then it would be a feature I'd like built into deskbar too. I don't know whether it has an API for plugins but I can imagine that would be a good way to get these other features built in."
+-
+    name: 'Anonymous visitor'
+    mail: jak17@geneseo.edu
+    subject: alt-F2
+    hostname: 68.198.6.235
+    created: '1180394052'
+    body: 'I had katapult, but never found it all that much more useful than alt-F2, switching songs in amarok didn''t work for me, and I don''t use amarok anymore (moc player instead), so it wouldnt matter.  I''ve got specific hotkeys for a lot of programs, and I just don''t like the idea of some other app sitting the background using system resources (have the same feeling about kerry beagle).  On the other hand of course what are system resources there for, but to be used up?'
+-
+    name: 'Alfred Fox'
+    mail: afox@alfredfox.com
+    subject: 'Works Well'
+    hostname: 64.126.14.3
+    created: '1180455944'
+    body: 'I liked it. I think it works well, no problems and it did actually seem to speed up my program launching. But as ''Anonymous Visitor'' pointed out, Alt-F2 is about the same as far as usability. Although the build in calculator / spell functions are pretty cool. Sort of like Google. But not as...robust?'
+-
+    name: shishira
+    mail: shishira.s@gmail.com
+    subject: 'best thing ever'
+    hostname: 210.214.30.200
+    created: '1180457295'
+    body: 'am a big fan of Katapult and it is acctually one of the main reasons i switched my work environment to Kubuntu  fully '
+-
+    name: 'What is KDE?'
+    mail: dotancohen@yahoo.com
+    subject: 'Katapult is much better than alt-f2'
+    hostname: 132.69.141.32
+    created: '1180460681'
+    body: 'Katapult is much better than alt-f2 because of the spellcheck. The only drawback is that the app must be in the K menu. Another gem is Yakuake, and it compliments katapult nicely.'
+-
+    name: 'Gabe Hanover'
+    mail: gabeh@earthlink.net
+    subject: 'The Old Microsoft Solution'
+    hostname: 24.205.75.2
+    created: '1180463213'
+    body: 'Beginning with Windows 95 and still available in Windows XP, Microsoft''s Program Manager (progman.exe) has been available to provide an easy way to organize and launch programs. I have nine catagories, each with its own window in Program Manager to allow easy access. I am supprised it is not still popular as I have not seen a better solution to date.'
+-
+    name: Danboy
+    mail: ''
+    subject: 'Who cares?'
+    hostname: 165.98.157.37
+    created: '1180463550'
+    body: 'Why would we care about what Microsoft does or has done? We are talking about GNU/Linux here!'
+-
+    name: 'Colorado Home Loan'
+    mail: brian@emortgagedesign.com
+    subject: 'Microsoft''s Program Manager....'
+    hostname: 72.54.229.186
+    created: '1180465027'
+    body: "The reason Microsoft's program manager isn't very popular is because most windows uses aren't that bright. Power users use Linux and want to customize every aspect of their environment, windows users on the other hand want Microsoft to create the experience for them so they don't have to think.. \r\n\r\nThis is a great app, I love it when people post screen shots so that we can see what is going on. "
+-
+    name: EdwinZ
+    mail: supereddy@gmail.com
+    subject: 'Command line anyone?'
+    hostname: 81.77.162.95
+    created: '1180469987'
+    body: 'Surly all of these things can be achieved from the command line? Isn''t that why people use Linux? Set konsole to be the top item in your K menu or create a shortcut. Infact for the spelling or maths you can save time by booting up without X.'
+-
+    name: 'Anonymous visitor'
+    mail: ok@ok.com
+    subject: 'Last time I checked,'
+    hostname: 155.212.242.34
+    created: '1180612436'
+    body: 'Last time I checked, Konqueror wasn''t a Mozilla-based browser.'
+-
+    name: legout
+    mail: ''
+    subject: 'configure katapult documents catalog'
+    hostname: 132.187.37.133
+    created: '1181114586'
+    body: "How can i tell katapult to search in other folders, than my home-folder for documents? \r\n\r\nThanks for help!!"

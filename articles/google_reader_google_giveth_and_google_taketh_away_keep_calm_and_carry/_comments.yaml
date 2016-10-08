@@ -1,0 +1,21 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"Long live RSS... um, where''s the RSS?"'
+    hostname: 75.117.248.152
+    created: '1365437656'
+    body: 'This would be so much more compelling if I could find the RSS link for Free Software Magazine, but I don''t see it. Didn''t we used to have one?'
+-
+    name: 'Gary Richmond'
+    mail: ''
+    subject: 'RSS feed for FSM'
+    hostname: 89.242.200.144
+    created: '1365452098'
+    body: "Hi Terry. How did I miss this? Yes, I'm pretty sure fSM used to have an RSS feed button. I added one from the View|toolbars|customise menu and dropped it onto the toolbar above the main canvas of the browser. For FSM though, I note that the RSS button is grayed out which usually means that a feed is not available (sort of makes the point I write about in the article: namely, that social media and e-mail newsletter subscription is tending to eclipse RSS feeds).\r\n\r\nOne solution is to fire up Opera. The address/location bar has an active RSS feed icon embedded and you should be able to add FSM from there. Chromium also has an RSS feed extension which does the same thing. In both cases, the options are limited but the Opera one does allow you to use Google Reader (for now). The best one is the Firefox button as it allowed me to add the file path for Thunderbird as my feed reader. \r\n\r\nOf course, we could just ask Tony to reinstate it!"
+-
+    name: 'Gary Richmond'
+    mail: ''
+    subject: 'RSS Feeds in FSM'
+    hostname: 80.41.185.108
+    created: '1365453715'
+    body: "Oops! I'm stupid. I said that the RSS feed button in the Firefox toolbar was grayed out but that's only true if you are on the page for a specific article. If you are on the front page of FSM it works. Sorry about that. \r\n\r\nWhat's best too about using Firefox is that, unlike Chromium and Opera, you are given the opportunity to choose your feed application which was why I was able to choose Thunderbird by simply adding its file path."

@@ -1,0 +1,28 @@
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Why dual-boot instead of LiveCD?'
+    hostname: 84.6.223.98
+    created: '1151672175'
+    body: "I didn't install my friend's system: he did it by himself. On top of that, he has a laptop with a single hard drive - meaning he couldn't easily swap OSes independantly. Then, he wanted Xgl - and Kororaa has gotten hard to get. Then, he wanted to be able to experiment yet keep working - so he needed both. And last, he didn't want to spend cash on setting up a new computer just to give a thorough test run to a Linux OS.\r\n\r\nIn his case, dual boot was a very sensible options. \r\n- LiveCDs are nice to check a system and everyday use of a very close to complete GNU/Linux, but they don't allow you to tinker with your system.\r\n- I don't agree with you that dual boot systems are less stable: if you install WinXP first on NTFS partitions and don't use FAT with Linux, systems are kept entirely separate. I do so on a few systems, and I never had any problem with dual boot - except when installing WinXP last, as it doesn't play well: it overwrites the MBR. Other than that, nothing.\r\n\r\nThanks for the translation, but you misquoted: 'a bird IN the hand is worth two in the bush'. Moreover, it doesn't exactly fit: 'a bird in the hand is worth MORE THAN two in the bush' would be more appropriate.\r\n\r\nI'm being picky ;p"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"A bird in the hand is worth two in the bush"'
+    hostname: 68.93.224.4
+    created: '1151742978'
+    body: "... is the English expression. ;-)\r\n\r\nIn general, I seriously advise against installing dual-boot systems as a way to learn Linux. They are generally much more fragile than plain installations. I think it's a pretty harsh thing to expect someone to start out that way. That's more like something you install for someone else so they can try it out (and even then, it's rarely worth it).\r\n\r\nInstead, let them start with a Live CD.  I think that's really the kicker -- there's basically no way Knoppix or other Live Linux CDs can wreck your system (until you get ready to install to the hard drive).\r\n\r\nOr better yet, put together a $500 computer from parts and install Linux on that (but that really depends on your budget).\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"Thanks for the translation,'
+    hostname: 68.93.224.4
+    created: '1151743295'
+    body: "\"Thanks for the translation, but you misquoted: 'a bird IN the hand is worth two in the bush'. Moreover, it doesn't exactly fit: 'a bird in the hand is worth MORE THAN two in the bush' would be more appropriate.\"\r\n\r\nYep. Typo. Fixed now.  I often leave out when typing quickly. ;-)\r\n\r\nI just thought it was odd to try to literally translate a French expression into English, when there is already an English version which is pretty darned close, if not identical.\r\n\r\nAnd as for dual-boot systems, I'm just speaking from experience. I have no doubt that it can be done by an experienced user, but I think it's much trickier to do as a first system.  Of course, to be fair, I haven't tried it since 2000, and back then there were multiple ways to do it and no GUI that I know of to set it up for you.\r\n\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'of dual-boots and inherent problems'
+    hostname: 84.6.223.98
+    created: '1151916842'
+    body: "While my grasp on the English language is - in my humble opinion - nothing to sneeze at, there are some expressions I don't know yet. I do agree that the one you provided is a very close equivalent - and that I wasn't aware of it - both in form and meaning, yet the small difference in meaning amounts to the difference between an OR and an XOR...\r\n\r\nDual boot has gotten a bit more stable with the advent of WinNT5: if not for WinXP's and Vista's tendency to overwrite the MBR, data corruption due to dual boot is something that has been reduced drastically. Dual boot hazards were caused by both Win9x's inability to handle disk addresses in 32-bit due to real-mode DOS, which could end up trashing a disk's master boot record, and  limitations in old lilo versions needing the Linux boot partition located in the first 1024 sectors of a disk, but both have been more or less solved:\r\n- lilo can use boot partitions past the 1024th sector,\r\n- win9x is little used any more.\r\n\r\nOf course, a sweet dual boot is with Win2000: it keeps itself well inside its partition and it doesn't overwrite the MBR on a new install.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."

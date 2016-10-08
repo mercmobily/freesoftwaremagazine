@@ -1,0 +1,14 @@
+-
+    name: rozie
+    mail: rozie@friko2.onet.pl
+    subject: 'Sis 3D support.'
+    hostname: 89.174.83.6
+    created: '1197187816'
+    body: 'As I can see on http://www.winischhofer.eu/linuxsispart1.shtml#23 ''Once again: There is no DRI/OpenGL/3D support for the SiS 6326, 5597/5598, 530/620, 315, 550, 650, 651, 740, 330, 661, 741, 760, 761 including all model variations with letters in the model number.'' So, could you provide some more information about 300,540,630,730 and working Compiz? Any support for OpenGL would be great.'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Older Sis hardware...'
+    hostname: 86.71.28.2
+    created: '1197481555'
+    body: "check previous matrix (link at top of post)\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."

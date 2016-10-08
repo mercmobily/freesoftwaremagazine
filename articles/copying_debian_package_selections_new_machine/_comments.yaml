@@ -1,0 +1,98 @@
+-
+    name: maruadventurer
+    mail: ''
+    subject: dpkg
+    hostname: 71.21.136.88
+    created: '1286201174'
+    body: "Mr. Cartwright,\r\n\r\nGood article. Couple of points. --\r\n\r\n1) Its obvious that this could be scripted. One for grabbing the selections. Second for deploying to the new machine.\r\n\r\n2) Cloning is great for that all 30 units are twins. But guess what? More often than not what is labeled as a twin is not. Dell in particular is fond of switching peripherals in the same production run, substituting a Deskstar for a Seagate drive. Or a different MB entirely on some occasions. So I drop back to the get-selections routine when that happens. \r\n\r\nOn a batch of 40, I might have 2-3 that fail a successful cloning. \r\n\r\n3) Unless one is running Debian one might consider making sure you have the latest OS rev before going thru all the trouble of creating a series of clones. \r\n"
+-
+    name: ajt
+    mail: ''
+    subject: 'and with aptitude'
+    hostname: 195.145.135.28
+    created: '1286281582'
+    body: "On a modern Debian system you really should be using aptitude not apt-get. Can you do the same thing with aptitude instead of apt-get?\r\n\r\n-- \r\nIt's not magic, it's work!"
+-
+    name: 'Gary Richmond'
+    mail: ''
+    subject: 'Debian and Apt-get'
+    hostname: 78.146.85.130
+    created: '1286461983'
+    body: "Ryan,\r\n\r\nYou must be psychic! I will be installing Meerkat soon and I was planning the \"strategy\" for it. I vaguely recalled some while back that there was a series of commands using apt-get to replicate and upgrade package selections from one machine to another, but I couldn't remember the specifics. \r\n\r\nA Google session would have turned up the stuff I needed but you've come along just at the right time and saved me all that trouble. Great article. Thanks.\r\n\r\nOne of your readers has speculated as to whether or not Aptitude could be used instead. I don't know if it can be or not, but even if it is possible I suspect it would be easier just to use apt-get. As a command-line interface it is uncluttered and relatively simple. Ncurses-based Aptitude is, in my opinion, lethally unfriendly and not very intuitive and anytime I have fired it up I have shied away uncertain and slightly nervous that I might hose something important. I'll stick will the venerable apt-get. Hard to beat."
+-
+    name: r_a_trip
+    mail: ''
+    subject: 'aptitude can be used as pure CLI'
+    hostname: 145.7.17.100
+    created: '1286530530'
+    body: "@Gary Richmond\r\n\r\nAptitude will start in curses mode if you don't give it any parameters. It threw me off as well before I knew that I could use it as a pure CLI command by simply giving it parameters.\r\n\r\naptitude update && aptitude full-upgrade will yield the same result as apt-get update && apt-get dist-upgrade\r\n\r\n# touch universe\r\n# chmod +rwx universe\r\n# ./universe"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: Aptitude
+    hostname: 62.140.212.3
+    created: '1286532706'
+    body: "Thanks for the comments all.\r\n\r\nwith regards Aptitude, yes it can be used on the command line `aptitude update; aptitude upgrade` for example. Aptitude from the shell (rather than curses) is quite useful and has some nice features. Namely suggesting what to do in times of dependency issues and also giving you a one key press chance to enact one of those options. It also tidies up after itself quite nicely.\r\n\r\nBut `aptitude upgrade` has one big difference to `apt-get upgrade`. The former will remove packages whereas the latter will hold them back until you do a dist-upgrade. This means if you are doing a big upgrade, although aptitude lists the packages to be removed the list can be missed in the deluge of text and before you know it you have hit Y and hosed your system.\r\n\r\nI disagree that a \"modern\" Debian system should use aptitude mostly because I don't know what \"modern\" means. There are many that say modern systems use GUI tools only, I disagree there too but it proves my point. One person's \"modern\" is another person's \"new fangled\". I've used aptitude (not the curses interface though) and Synaptic and whatever the Kubuntu package manager is but it all depends upon the system I am on, what I have available and how much time I have. In the end it's \"horses for courses\" - although I recently discovered that a lot of people younger than me have no idea what that means!\r\n\r\nIn this case though aptitude is not suitable as it doesn't support dselect.\r\n\r\ncheers  \r\nRyan  \r\n\r\n--  \r\nEquitas IT Solutions - fairness, quality, freedom  \r\n[http://www.equitasit.co.uk](http://www.equitasit.co.uk)"
+-
+    name: ajt
+    mail: ''
+    subject: 'Fair enough'
+    hostname: 195.145.135.28
+    created: '1286533064'
+    body: "I should have been more precise, apt-get is formally deprecated and aptitude is now preferred. I agree that using the word \"modern\" is loaded and I shouldn't have said that.\r\n\r\nHowever it's still a great idea even if it only works with apt-get.\r\n\r\n-- \r\nIt's not magic, it's work!"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: cloning
+    hostname: 62.140.212.3
+    created: '1286533364'
+    body: "> Its obvious that this could be scripted. One for grabbing the selections. Second for deploying to the new machine.\r\n\r\nIndeed and I have done this. In fact if you are doing a few then scripting is part of the process.\r\n\r\n> Cloning is great for that all 30 units are twins. But guess what? More often than not what is labeled as a twin is not. Dell in particular is fond of switching peripherals in the same production run, substituting a Deskstar for a Seagate drive. Or a different MB entirely on some occasions. So I drop back to the get-selections routine when that happens.\r\n\r\nSensible. I did mention that cloning only works if the hardware is identical. In my experience relying on what the supplier says is not always best. For example I have seen two graphics cards with identical \"version numbers\" that used entirely different chipsets!\r\n\r\n> Unless one is running Debian one might consider making sure you have the latest OS rev before going thru all the trouble of creating a series of clones.\r\n\r\nI wasn't really talking about cloning here but the extra info is appreciated and this piece really is about Debian. I guess it will work on Debian-based machines but I've not tried it.\r\n\r\n--  \r\nEquitas IT Solutions - fairness, quality, freedom  \r\n[http://www.equitasit.co.uk](http://www.equitasit.co.uk)"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'upgrading Ubuntu'
+    hostname: 62.140.212.3
+    created: '1286533533'
+    body: "> You must be psychic! I will be installing Meerkat soon and I was planning the \"strategy\" for it.\r\n\r\nThis piece has been knocking around on my machine for a while. Roslyn's woes prompted me to finish it. I'm guessing this is installing Meerkat on a different machine and not upgrading from 8.04?\r\n\r\n--  \r\nEquitas IT Solutions - fairness, quality, freedom  \r\n[http://www.equitasit.co.uk](http://www.equitasit.co.uk)"
+-
+    name: 'Gary Richmond'
+    mail: ''
+    subject: 'reinstalling package list'
+    hostname: 89.242.109.241
+    created: '1286536774'
+    body: "Ryan,\r\n\r\nYes, just to confirm. The Meerkat install will be on a different machine. Thanks to you and r_a_trip for the heads up on using Aptitude on the command line. I should have realised that was an option. This is GNU/Linux for Heaven's sake!\r\n\r\nWell, I've backed up a list of the installed packages on my version of Ubuntu courtesy of your piece and copied it to my USB stick and reviewed the contents in Gedit. So far so fine. \r\n\r\nObviously, the fine detail of your tutorial will work for Debian but as I've never tried this before on Ubuntu I might need to tack a little here. I'm not (yet) aware of any minimal version of Ubuntu that I could use to do a \"barebones\" install. I suspect that if I install a 700MB disc of Maverick Meerkat, even before I do any update(s) I will have software more up to date than my saved package list. It will be interesting to see what happens if I try to install that list.\r\n\r\nAdditionally, although I spotted the Opera browser in that list of packages for installation I know that I installed it as a stand alone binary for my particular distro from the Opera website. It's not something you will find in the official Ubuntu repositories so I suspect I will have to save it (and other stuff too) and install each package by hand. and then there is the small matter of migrating e-mail but as my last article on Thunderbird, Evolution and Gmail explained there are strategies for dealing with that. \r\n\r\nYes, this upgrade/migration to a fresh install on another machine will prove to be very interesting indeed! Methinks I will need to put pen to paper and make a detailed list of all the things I need to do. However, the beauty of your apt-get commands is that if it all go pear shaped I have the package list on the stick and can do another fresh install again and again until I get it right."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'deprecated?'
+    hostname: 62.140.212.3
+    created: '1286544313'
+    body: "Interesting. \"Deprecated\" has significant connotations. It implies the package is to disappear altogether in the near future. Do you have a link where apt-get is announced as formally deprecated? All I can find is that aptitude is now the recommended command-line tool over apt-get.\r\n\r\nDselect is no longer recommended but I can't find a suitable alternative for it. Personally I prefer apt-get over aptitude for the differences in \"upgrade\" I gave above. Yes I know aptitude has safe-upgrade but I'm just used to apt-get.\r\n\r\ncheers\r\nRyan\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Minimal Ubuntu CD'
+    hostname: 62.140.212.3
+    created: '1286544544'
+    body: "> I'm not (yet) aware of any minimal version of Ubuntu that I could use to do a \"barebones\" install.\r\n\r\n[https://help.ubuntu.com/community/Installation/MinimalCD](https://help.ubuntu.com/community/Installation/MinimalCD) :D You might have to wait for Meerkat though.\r\n\r\nRyan  \r\n--  \r\nEquitas IT Solutions - fairness, quality, freedom  \r\n[http://www.equitasit.co.uk](http://www.equitasit.co.uk)"
+-
+    name: 'Gary Richmond'
+    mail: ''
+    subject: 'Reinstalling Package List'
+    hostname: 78.146.87.75
+    created: '1286660464'
+    body: "Further to my last comment re the above, I think I may have stumbled across some extra goodies to improve the process of package installation.\r\n\r\nI keep a small stash of back issues of Linux Format Magazine in the smallest room in the house (well, I like to make the most productive use of my time).\r\n\r\nThis morning I read a very interesting article by Neil Borthwick about strategies for switching distros. Using your instructions to redirect the Debian package list to a text file for later reinstallation on another machine worked fine but I noticed that it included a lot of library and development files as well as the programmes and distro-dependent dependencies too. \r\n\r\nThese may not be need in a fresh install, cause clutter and possible problems. Borthwick suggests that the best path to take is to exclude all this stuff and just let the package manager handle all the libraries and dependencies instead. That makes sense to me. He suggests the following command:\r\n\r\ndpkg --list | grep -v -e '-dev' -e '^ii  lib' >packages.txt\r\n\r\nHe also suggests a similar strategy to cover the binary packages which usually install to their own directory on /opt. So:\r\n\r\nls -l /opt >binary_packages.txt\r\n\r\nIf you've installed anything from source with ./configure, make and make install just do \r\n\r\nls -l /usr/local/bin >source_packages.txt\r\n\r\n(assuming you haven't been using PREFIX with ./configure).\r\n\r\nI tested all three commands and they worked fine. \r\n\r\n "
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: libraries
+    hostname: 62.140.212.3
+    created: '1286805493'
+    body: "Some good points Gary. Remember the aim here is not so much to resolve installing a second machine with a different distro or even the same one. It's for a replacement machine or possibly a clone setup. \r\n\r\nRemember that this method does not specify versions of the packages. It presumes you want the latest ones. That means the dependencies will be handled by apt. Yes you will be specifying a lot of the libraries anyway with the package list but apt will deal with any dependencies you missed. Any libraries or packages that were dependencies but are no longer required can be handled with aptitude (on the command line of course).\r\n\r\nRyan\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: andyjpb
+    mail: ''
+    subject: 'aptitude vs. apt-get'
+    hostname: 31.185.58.229
+    created: '1329083821'
+    body: "Hi,\r\n\r\n> On a modern Debian system you really should be using aptitude not apt-get.\r\n> Can you do the same thing with aptitude instead of apt-get?\r\n\r\nThis is not the case. The two tools serve different purposes. Whilst aptitude is good for day-to-day package management, it's not so good in this instance. The way the two tools calculate package dependencies is different and, AIUI, aptitude by default will install \"recommended\" packges as well as \"required\" packages.\r\n\r\nIn this particular case, one should use apt-get.\r\n\r\nFor more information see http://jpb.li/gYWIw\r\n\r\n\r\nRegards,\r\n@ndy\r\n"

@@ -1,0 +1,28 @@
+-
+    name: trollzor
+    mail: ''
+    subject: 'teaching programming'
+    hostname: 203.214.86.155
+    created: '1179155966'
+    body: "Python or ruby would be good languages to teach kids on in the education system:\r\n\r\nI remember using Logo in primary school and Hypercard, pascal/turbo pascal in secondary school here in the Australian school system. And while logo and hypercard were good because they presented visual feedback I think that once you are actually trying to learn concepts it's best to have the simplest and most powerful syntax that reads closest to natural language - which would make ruby and python ideal. Plus ruby and python are available on OS X (and on .net) so it's free software that is platform agnostic and can penetrate even before alternative OSs move in (creating less friction when they do move in, like firefox and openoffice.org have been doing). \r\n\r\nOLPC sugar GUI is programmed in python I believe and ships with logo which is cool.\r\n\r\n"
+-
+    name: 'Robert Pogson'
+    mail: ''
+    subject: Ethics
+    hostname: 24.76.250.60
+    created: '1179829015'
+    body: "Schools also do teach ethics, that we should do the right thing. In complex societies we have laws regulating our behaviours to each other. When a corporation like Microsoft evidently maintains a monopoly on the desktop by illegal means as evidenced by the US Department of Justice v Microsoft (see http://www.usdoj.gov/atr/cases/ms_index.htm ) and that continues (see EU ruling at http://www.hpcwire.com/hpcwire/hpcwireWWW/04/0326/107337.html ) to maintain its monopoly without competing on quality and price, it is a responsible act to boycott that corporation. Governments around the world are taking a position in favour of free software and schools should do that too. We should teach young people to exercise their freedom to use information technology to good ends and not to fear evil but to confront it.\r\n\r\nRobert Pogson\r\nCanada\r\n\r\nA problem is an opportunity."
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'Great article'
+    hostname: 68.197.66.72
+    created: '1180011289'
+    body: "I think the OLPC is not the best $100 laptop that we can come up with (see <a href=\"http://zonbu.com/\">Zonbu</a> and <a href=\"http://zonbu.com/\">Linutop</a> for two other cheap laptops), but the idea is still great.  Hopefully, schools in the US outside of Massachusetts and Maine will pick this up.\r\n\r\nThe idea of Ruby or Python would be interesting.  However, I think that should be taught as an extracurricular activity.  Not a requirement.\r\n\r\n--\r\nAndrew Min"
+-
+    name: 'Matthew Roley'
+    mail: ''
+    subject: Scratch
+    hostname: 82.153.26.195
+    created: '1181140507'
+    body: "Saw this on digg a while back\r\n\r\nhttp://scratch.mit.edu/\r\n\r\nbasically a drag and drop interface designed to teach design and programming techniques.  Not open-source (and windows/mac only but they're making a Linux version now) but nice to use and fun!"

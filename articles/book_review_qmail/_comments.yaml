@@ -1,0 +1,21 @@
+-
+    name: bulmaro
+    mail: ''
+    subject: bulmaro
+    hostname: 189.130.24.169
+    created: '1183775681'
+    body: 'un buen libro'
+-
+    name: 'Lawrence D''Oliveiro'
+    mail: from-freesoftware@geek-central.gen.nz
+    subject: 'Don''t use it'
+    hostname: 203.118.156.111
+    created: '1183785601'
+    body: 'Qmail is not Free Software--third parties have done extensive patches for it, but its author will not allow them to distribute updated versions, while he himself refuses to provide any further updates. Stay away from it--there are much better alternatives out there. I myself would recommend Postfix.'
+-
+    name: 'Juan Giordana'
+    mail: juangiordana@gmail.com
+    subject: 'Use it'
+    hostname: 190.138.160.78
+    created: '1196806509'
+    body: "Qmail was recently released for <strong>Public Domain</strong> wich is much more free than Free Software ;)\r\n\r\n<cite>\"I hereby place the qmail package (in particular, qmail-1.03.tar.gz, with MD5 checksum 622f65f982e380dbe86e6574f3abcb7c) into the public domain. You are free to modify the package, distribute modified versions, etc.\"</cite>\r\nhttp://cr.yp.to/qmail/dist.html"

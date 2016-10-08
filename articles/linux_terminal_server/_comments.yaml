@@ -1,0 +1,329 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Edubuntu, Linux Terminal Server and thin Clients'
+    hostname: 71.0.196.213
+    created: '1156954760'
+    body: "Robert:\r\n\r\nWe are getting close to coming few circle.  When the 386 came out we could run 512, yes five hundred and twelve, users on a single server.\r\n\r\nBTW, it would be nice to have a one-shot printable version of the whole article. \r\n\r\nHenry Keultjes\r\nDatabase Scientifics Project http://www.ncolug.org/ppc.htm\r\nMansfield Ohio USA "
+-
+    name: ''
+    mail: ''
+    subject: 'great article'
+    hostname: 70.89.253.165
+    created: '1156968282'
+    body: "I was wondering how this would handle applications that were very graphics intensive? Applications that relied heavily on the performance of a graphics card.\r\nDomenic\r\n"
+-
+    name: ''
+    mail: ''
+    subject: missing
+    hostname: 12.150.152.230
+    created: '1156970812'
+    body: 'What is missing between steps 24 and 25? Where is the LTSP configuration stuff?'
+-
+    name: ''
+    mail: ''
+    subject: Mobility
+    hostname: 86.139.78.108
+    created: '1157014432'
+    body: 'Great, except for when you want your employees/students/etc to be able to take their work away from the room. In this case you want a "thick client" via laptop, etc. Thin clients would be the answer to almost everything if it weren''t for the mobility issue.'
+-
+    name: ''
+    mail: ''
+    subject: TFTP.
+    hostname: 195.92.67.66
+    created: '1157024859'
+    body: 'TFTP is Trivial, not Tiny.'
+-
+    name: ''
+    mail: ''
+    subject: tftp
+    hostname: 64.37.195.50
+    created: '1157040731'
+    body: 'like this comment ;)'
+-
+    name: ''
+    mail: ''
+    subject: 'Other LTSP products'
+    hostname: 71.249.255.248
+    created: '1157049946'
+    body: "Great article about LTSP and thin clients! \r\n\r\nI know Symbio Technologies <a href=\"http://www.symbio-technologies.com\"> (www.symbio-technologies.com)</a> has sold lots of LTSP-based products into Canada, along with thin clients for much less than CA $350.  Removable media, 16-bit stereo sound, and video all work quite nicely (due in no small part to the wonders of X.org).  LTSP is great, and if you want something supported and canned, Symbio's a good place to look."
+-
+    name: ''
+    mail: ''
+    subject: Mobility
+    hostname: 194.46.189.3
+    created: '1157052275'
+    body: "Actually, that's about to improve radically.  Obviously if you have a central file server the student can go across the school, login and see their files.  \r\n\r\nHowever, more to the point, Edubuntu/LTSP are introducing support for using USB keys on thin clients in the upcoming October release.  Details <a href=\"http://www.mail-archive.com/edubuntu-users@lists.ubuntu.com/msg00197.html\">here</a>.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Ditto the missing'
+    hostname: 204.185.112.1
+    created: '1157114644'
+    body: 'Those missing steps are keeping me from using this.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Fanless clients / limited by the monitor cost'
+    hostname: 68.93.224.4
+    created: '1157130090'
+    body: "These are getting really nice.\r\n\r\nI saw a <a href=\"http://www.norhtec.com/\">manufacturer site</a> recently selling a unit that's about the size of a conventional half-height disk drive (who remember full-height anymore).\r\n\r\nFor something like US$120 each (they're cheaper in quantity), you get a tiny box with a 166MHz+ CPU, 128 MB RAM, a Compact Flash slot (to replace a hard drive), USB, keyboard, serial I/O slots, 2D/Multimedia accelerated graphics, and audio (I don't think it has 3D acceleration). Since they run Puppy Linux on it, it must have Linux drivers for the hardware. Also, it's supposed to run from about 0 to 60 C (32 to 140 F) with no fan and will bolt onto the back of a standard VESA LCD monitor.\r\n\r\n(Note this partially answers the 'graphics intensive' question above -- multimedia applications are supported, but not really 3D).\r\n\r\nIn my experience, you can usually find used CRT monitors for US$40 to US$60, but they're a false economy, because they lose definition over time (\"fuzz out\", I call it) and become unusable in much less than the lifetime of an LCD monitor (provided you don't poke the LCD panel with something -- they really need lexan or glass covers for these things!).  I just found a used 17\" LCD for US$130 from an online shop, which is probably a better deal. $200 is not an uncommon new price if you go to the right suppliers.\r\n\r\nSo, yeah, the client is going to cost US$300â€”but US$200 of that is probably the LCD <i>monitor</i>! Monitors aren't very price-flexible, but fortunately, they last longer and obsolesce slower than most other computer equipment, so they tend to be good investments. I probably upgrade CPUs every 2-3 years, but I hardly ever get rid of monitors.  Keyboards and mice may eventually be a problem, but they're in the US$10 range, so it'll be awhile before they start to impact the flexibility of client prices.\r\n\r\nSo the next step, if any, is to bring down the cost and increase the durability of LCD monitors. Of course, the One Laptop Per Child project (and therefore Quanta) is doing that. I wonder if we'll see spin-off LCD monitors based on the same LCD panel (or same technology).\r\n\r\nThe Open Graphics Project is also really close to manufacturing their first open hardware FPGA prototyping cards. In a year or so, they may be talking about doing the ASIC (consumer-targeted) cards, and selling the chipset to embedded developers, which might well mean inexpensive clients like this with basic 3D acceleration, so you could actually run CAD software (or Blender) over these kind of clients.\r\n "
+-
+    name: ''
+    mail: ''
+    subject: 'It is automatically done if'
+    hostname: 208.114.180.213
+    created: '1157405223'
+    body: 'It is automatically done if you have two ethernet connections live, one to the internet and one to a switch to your thin clients. You need the internet side not to be 192.168.0.x as that is what is assumed for the LAN on which your thin clients reside. If you cannot have this arrangement, you need to see the LTSP documentation.'
+-
+    name: ''
+    mail: ''
+    subject: 'You can run the graphics'
+    hostname: 208.114.180.213
+    created: '1157405327'
+    body: 'You can run the graphics application on the terminal, but it takes some setup. Google for local applications or local apps on ltsp.org or ubuntu''s site.'
+-
+    name: ''
+    mail: ''
+    subject: PDF
+    hostname: 69.114.43.133
+    created: '1157416617'
+    body: 'is there anyway I can get this tutorial as a .PDF? Thanks..'
+-
+    name: admin
+    mail: ''
+    subject: 'Yes there is...'
+    hostname: 203.59.12.51
+    created: '1157423280'
+    body: 'This article comes from issue 13. If you become a <a href="http://www.freesoftwaremagazine.com/user/register">subscriber</a> (which is free) then you can download the issue in PDF format <a href="http://www.freesoftwaremagazine.com/issues/issue_013">here</a> by clicking on the download link.'
+-
+    name: ''
+    mail: ''
+    subject: 'Dual-Head thin client'
+    hostname: 67.132.206.254
+    created: '1157488098'
+    body: "The only \"stressful\" thing my workstations currently do is provide dual-head video - the main reason why the $250 thin-client has not been an option for me. \r\nNow I see SUN has dual-head thin clients - http://www.sun.com/sunray/sunray2fs/ - about $500, I think, plus 2 17'' LCDs.\r\nDoes anybody have experiences with such a setup? \r\n- bunk"
+-
+    name: ''
+    mail: ''
+    subject: 'The other one is K12LTSP; it inspired Edubuntu'
+    hostname: 68.167.146.78
+    created: '1158451988'
+    body: "Hello folks,\r\n\r\nThere is another turnkey LTSP distribution called K12LTSP, maintained by Eric Harrison (he also contributes to Edubuntu).  K12LTSP came out in, I believe, 2001 and currently has two versions:\r\n\r\n1.)  Fedora Core-based\r\n2.)  CentOS-based\r\n\r\nI happen to use the CentOS-based one at home, and I have a couple of schools using the Fedora-based ones.  Here are some reasons why you might want to consider trying K12LTSP:\r\n\r\nA.)  It supports both EtherBoot *and* PXE-boot simultaneously.  That means all those old Pentium-133's, too, can be used as thin clients, totally seamlessly, right alongside the new PXE-booting thin clients.\r\n\r\nB.)  It also supports not just x86 thin clients, but also Power Mac thin clients, *simultaneously*, on the same network segment (I and several others have verified this!).\r\n\r\nC.)  It's even easier to install a K12LTSP server than it is to install Windows XP, let alone something like Windows Server 2003.  It's all integrated seamlessly into the Red Hat installation process.  Good default settings were chosen, so yes, you can click through all the defaults, and boom, you're done.\r\n\r\nNow, I'm not knocking Edubuntu; I use and demo it myself, and I'm sure glad it's here.  However, K12LTSP has simply been around a few more years and therefore is more mature at this point (e. g. simultaneous EtherBoot and PXE and x86/PMac client support).  Now, Edubuntu can easily be made to do these things, too; it's basically just a tweak to /etc/dhcpd.conf and copying over /opt/ltsp/ppc.  I have tried this, and it does work.\r\n\r\nWith either distro (Edubuntu or K12LTSP), the cost savings are the same, and the benefits are the same.  You'll do well with either, and above all, YOU WILL BE FREE OF THE BSA, MICROSOFT, AND APPLE.  I know; we got hit with an audit, and it wasn't fun."
+-
+    name: ''
+    mail: ''
+    subject: 'Graphics-intensive may not be an issue anymore, soon'
+    hostname: 68.167.146.78
+    created: '1158452570'
+    body: "Remember that Intel recently open-sourced their integraded 3-D graphics drivers for use in X.org.  That means that your graphics-intensive applications should now work just fine if you have an integrated Intel chipset.  Finally, Intel's learning to play nice!\r\n\r\nI recommend that everyone who's looking at buying new thin clients ask the manufacturer if they use an integrated Intel chipset.  Another good option, for those who are using older PC's as thin clients, is the ATI Radeon 7500/8500 (yes, they're still very much around), and the Matrox Millennium G400/G450 (yes, they're around, too).  Both video cards provide quite fast 2-D and 3-D video support.\r\n\r\nSTAY AWAY FROM NVIDIA *ANYTHING*, AS WELL AS ANY RECENT ATI CHIPSET (9200 and greater).  You are limited to the S-L-O-W VESA driver with these chipsets.  The reason is that both ATI and nVidious decided to no longer play nice with the Free/Open Source community and refuse to allow us to write drivers for their chips.  We'll see how long that lasts now that Intel has seen the light; Intel's too big for them to ignore."
+-
+    name: ''
+    mail: ''
+    subject: Nvidia
+    hostname: 67.34.48.59
+    created: '1159756043'
+    body: 'What? I thought Nvidia played best with Linux. Mine sure does. I CAN NOT go along with your Nvidia "ANYTHING" statement. I''ve had more trouble with ATI.'
+-
+    name: ''
+    mail: ''
+    subject: 'Sun Ray on Linux'
+    hostname: 202.7.84.74
+    created: '1160192887'
+    body: "Hi,\r\n\r\nYes, Sun Ray clients are a great way to go, and you can get them working off a linux server.\r\n\r\nGo to http://www.sun.com/software/sunray to download the server software.\r\n\r\nIt is trivially easy to install on Solaris 10, RHEL, or CentOS 3.3.  If you want to install on something other than that then there is a little bit of work involved."
+-
+    name: Kletskous
+    mail: ''
+    subject: 'html?'
+    hostname: 80.126.96.93
+    created: '1163368343'
+    body: "Very nice article! I would like to make it available as a tutorial on our website. The easiest way for that is to have it available in html format. Woud that be possible?\r\n\r\nCatharina\r\n\r\nhttp://www.open-of-course.org"
+-
+    name: ''
+    mail: ''
+    subject: Mobility
+    hostname: 203.187.211.134
+    created: '1167147557'
+    body: "In that case, you authenticate yourself to a file server via LDAP, the files are sent to you, and the files go back into the central server once the work  is finished.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Should be a little more detailed!'
+    hostname: 59.95.207.160
+    created: '1167555422'
+    body: "Namaste,\r\n\r\nNice article, and i can see that it has been intentionally explained in such a way that newbies can follow it.\r\nSo my question is, if you went so far as to use ultra-simple language to explain to newbies, why don't you explain:\r\n1)What is a NIC? and how to configure/use one?\r\n2)What is the procedure on any one thin-client (entire setup process with screenshots would be ultra helpful).\r\n3)And finally any problems/ special-case scenarios (most common ones), that would occur in a thin-client setup and how to deal with it.\r\nI am having a Computer institute, and am planning to shift atleast one of my labs (30-PCs) to a thin-client based environment, using Edubuntu.\r\nIf you can help, with my above questions, please email me at kenthomson799(at)yahoo(dot)com. I would be highly obliged if i can setup a lab of 30PCs, running on a central server with the process you described.\r\n\r\nThe point is setting up stand-alone PCs, with Windows XP has been so familiar to me, that i cannot think of any other options, and your article certainly has helped me. If you can spare some time, please answer my above questions in detail.\r\n\r\nThank you,\r\nand yeah, Nice Article!"
+-
+    name: ''
+    mail: ''
+    subject: 'tweaks for ppc on ltsp'
+    hostname: 24.174.104.121
+    created: '1167617543'
+    body: 'could you tell me where to find the info to do the tweak to add ppc on ltsp?'
+-
+    name: ''
+    mail: ''
+    subject: 'THIN CLIENTS terminals where to get those machines?'
+    hostname: 195.13.226.242
+    created: '1168850752'
+    body: "Hi. \r\nSomebody knows where to buy those thin clients, which I put on the back of LCD??\r\nI found http://www.bosanova.net/thinclient/rbt366-iseries.html but it costs 395 USD!\r\nIt's really a lot! \r\n\r\nAnybody knows alternatives?"
+-
+    name: ''
+    mail: ''
+    subject: 'please send me how to config the client server in lab'
+    hostname: 203.88.140.107
+    created: '1170910072'
+    body: "hi friend please send me please send me how to config the client server in lab.\r\ni am 6 th ec student,and u give me your ideas on ptl_pratik@yahoo.co.in.\r\nplease reply fastly,because i must need.ok \r\nthanxs in advance."
+-
+    name: ''
+    mail: ''
+    subject: 'Think Clients - where?'
+    hostname: 195.212.29.67
+    created: '1170947375'
+    body: 'Try http://www.norhtec.com/products/index.html - I have not got one but they seem to be good.'
+-
+    name: ''
+    mail: ''
+    subject: 'Dead link'
+    hostname: 88.153.50.61
+    created: '1172432752'
+    body: "Can't get to the http://www.norhtec.com/products/index.html.\r\nAnyone knows other places to buy?\r\n\r\nserlis\r\n<a href=\"http://blog.lsmnetworks.com/\">http://blog.lsmnetworks.com/</a>\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Try
+    hostname: 69.29.201.142
+    created: '1173832349'
+    body: 'Try http://www.wdlsystems.com'
+-
+    name: ''
+    mail: ''
+    subject: 'Not really, any'
+    hostname: 217.224.104.244
+    created: '1174956161'
+    body: 'Not really, any disinformation is bad information.'
+-
+    name: ''
+    mail: ''
+    subject: 'PPC on LTSP'
+    hostname: 204.83.37.100
+    created: '1175785204'
+    body: "Mandrake (now Mandriva) had this a long time ago. I have not used their system lately.\r\n\r\nDebian has a neat setup. Their distro covers ppc, i386 and AMD64 as well as others and they have provided packages to setup up thin client environments for any architecture running on a server of any architecture (boggling...). Search for LTSP in descriptions of packages for testing at packages.debian.org . ltsp-client-builder is the key. You run it and it creates the LTSP environment on the server for whatever client you want. You have to set up your DHCP server to point the ppc client at the right environment and kernel, I suppose. I have not tried it.\r\n\r\nSo, you can run your LTSP server on AMD64 and serve clients of Pentium I's, ppc, i386, whatever. This is sweet for schools that have working inventory, but the new fanless thin clients and LCD monitors are the way to go sooner or later."
+-
+    name: 'Luka Manser'
+    mail: ''
+    subject: 'Managing users in Kubuntu'
+    hostname: 161.53.169.192
+    created: '1176913080'
+    body: "Hello,\r\nis this possible in Kubuntu also? My friend installed it on his laptop. Any kind of help is great. If anyone has nay kind of pdf or manual I wolud appreciate if you post a link. I googled but found nothing.\r\nThanks,\r\nLuka Manser"
+-
+    name: Garry
+    mail: newgrand@bk.ru
+    subject: Thanks.
+    hostname: 85.195.119.14
+    created: '1177099601'
+    body: Thanks.
+-
+    name: Pozycjonowanie
+    mail: tomo123@interia.pl
+    subject: re
+    hostname: 82.146.251.5
+    created: '1177844283'
+    body: 'Brilliant idea Robert. btw. I really enjoyed reading all of your posts. It’s interesting to read ideas, and observations from someone else’s point of view… makes you think more. Keep up the good work. Greetings'
+-
+    name: PK
+    mail: pk@gmail.com
+    subject: article
+    hostname: 82.146.251.5
+    created: '1177844700'
+    body: 'Thanks for great article. Greetings'
+-
+    name: 'Anonymous visitor'
+    mail: linuxr@gmail.com
+    subject: 'application questions'
+    hostname: 65.33.35.104
+    created: '1178858852'
+    body: "\r\nI have a call center that I am converting to Linux. I want thin clients and all of this sounds good on both the client and server side.  \r\n\r\nWhat I am worried about is the actual running of the apps.  We have to have more than just the boxes networked; they have some crappy windoze call center apps running on it as well. \r\n\r\nSo I don't know enough about how to get it to work on the server with say 50 people potentially hitting it.  I have heard of crossover and wine; can anyone comment on how a multi-user environment will work in terms of actually running executables?  If it was just a single user, I would try to get it to work with crossover and/or wine and at least see how that stuff works.   Need to tap into the mult-user capabilities here while at the same time allowing for multiple users to hit it without crashing it or their workstations...\r\n\r\nMy recommendation is probably going to be them finding another application to run everywhere in the call center on Linux, NOT a windoze app.  Can anyone recommend any good applications that are suited to call centers?  Need something that allows the user to take a call and log it.  \r\n\r\nAny info is appreciated.  THANKS!  \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: tuesday20102001@hotmail.com
+    subject: '"Citrix". citrix allows'
+    hostname: 76.49.169.91
+    created: '1181266215'
+    body: "\"Citrix\". citrix allows users to connect to a location outside of the network using upto 128 bit encryption for the connection. citrix homepage: http://www.citrix.com/lang/English/home.asp\r\n\r\nthe article was overall pretty descent, and is a major advancement for the linux and business world. I like the overall low cost of ownership, and i would love to show my boss, and work on this sort of project in our company."
+-
+    name: redryan
+    mail: ryansantillan@yahoo.com
+    subject: 'edubuntu or ubuntu'
+    hostname: 203.84.183.246
+    created: '1183260527'
+    body: "Hi very great article and thank you for making this...\r\n\r\nI would like to know which is the best one to use the edubuntu or ubuntu server. I am confused which to use for a set up of 30 thin clients. "
+-
+    name: redryan
+    mail: ryansantillan@yahoo.com
+    subject: 'via epia'
+    hostname: 203.84.183.246
+    created: '1183260598'
+    body: 'in using via epia where do you put the power switch or the dc power jack'
+-
+    name: 'Sherwood Botsford'
+    mail: sbotsford@sjsa.ab.ca
+    subject: 'LTSP + wine?'
+    hostname: 208.114.188.196
+    created: '1183589184'
+    body: "We have two applications the require windows or mac emulation.\r\n\r\n1. Accelerated Reader.  This program works through a web interface, but requries both current versions of QuickTime and Adobe Reader.  The latter is not a problem.  The former may be.  I'm trying to convince them to remove the QT requirement.\r\n\r\n2. The Learning Equation.  This runs on every version of winsnooze since '95, so I expect it to run under wine.  Does anyone have experience with running windows software under wine in an LTSP environment?  Presumably this will up the ante on memory and CPU per client."
+-
+    name: technosaurus
+    mail: technosaurus@yahoo.com
+    subject: 'low cost client'
+    hostname: 12.227.154.238
+    created: '1184474052'
+    body: "try http://www.ewayco.com\r\nthey have every kind of thin client you could want including a $150 tablet version as well as the $120 norhtec client for $99 (as low as $75 in bulk orders) 200 Mhz @128Mb RAM, plus fanless via systems and p4 ... awesome prices but shipping is from overseas, so bulk orders are a better deal."
+-
+    name: 'Anonymous visitor'
+    mail: robert.pogson@gmail.com
+    subject: Details
+    hostname: 24.76.250.60
+    created: '1185805435'
+    body: "\"1)What is a NIC? and how to configure/use one?\r\n2)What is the procedure on any one thin-client (entire setup process with screenshots would be ultra helpful).\r\n3)And finally any problems/ special-case scenarios (most common ones), that would occur in a thin-client setup and how to deal with it.\"\r\n\r\nNIC is Network Interface Controller. It is best to have two or more for the LTSP setup. If you have two, one will be the \"primary\" connecting to the ISP, and one will be for the LAN. The EdUbuntu setup should do this automatically after you declare one to be the primary.\r\n\r\nOn the thin client you can\r\n1)Set the BIOS to boot PXE\r\n2)Set the BIOS to display a menu in which PXE is one choice\r\n3)Set up a floppy/CD/hard drive/flash boot loader from http://rom-o-matic.net\r\n\r\nIt can happen that the driver for the video/NIC on the thin client is not working. In /opt/ltsp/.../etc/lts.conf on the server you can edit in a choice for driver. vesa usually works but may not have the best resolution. Most thin clients have fairly common NICs so I have not seen a problem, but you can often install a driver in the chroot of the client or compile a kernel with a driver if it is open source. That is a lot of work unless you have a ton of clients with this problem."
+-
+    name: 'Anonymous visitor'
+    mail: jrwhitt2@gmail.com
+    subject: 'Accelerated Reader via Firefox'
+    hostname: 12.219.149.124
+    created: '1188143386'
+    body: "If you have the new web based version of accelerated reader, then you can access it from linux with the firefox browser. Instructions for this are on Suse's web page. However, if you have the 6.x version of the application, which installs to a workstation, then you are in the same boat I am, and I am trying to find a way to make that work in a thin client environment as well, but I have heard it has been done on linux also.\r\nJ"
+-
+    name: 'Anonymous visitor'
+    mail: netgeorger@arrakis.es
+    subject: 'Thin -Clients and server.'
+    hostname: 85.56.19.191
+    created: '1190292129'
+    body: 'I am trying to set up a language learning lab I can potentially set up a maximum of 30 thin clients and 15 thick or fat earthnet clients.  My Idea is to have the fats run windows vista Ultima with local licensed software and then use Guadalinux from a dual boot or somekind of virtual machine. I need both so I can teach them at the school running windows 2007 professional software.  The rest of the Thin clients would need to run video, sound, recording etc windows apps.  This may be asking too much for a swap file.  I invision a motherboard with a quad e6600 4 gigs of ddr2 800 ram two 500 gig sataII drives with two  gigabyte nics. two     lan switches with 24 gigabyte ports.  I have installed cat6 gigabyte cable. I was thinking about aquiring miserable used pentium IV and then getting the cheapest lcds I can find for them.  I would like to repacage them though so they all look the same maybe that isn´t such a good Idea maybe in the end a small fanless system would be best. I don`t have a clue how to go about setting this all up which is why I am trying to find out if is do able in the first place.  Any insight would be appreciated thanks'
+-
+    name: 'Stephen Walder'
+    mail: stephenwalder@btinternet.com
+    subject: LTSP
+    hostname: 86.154.163.86
+    created: '1190311761'
+    body: "There is a great supplier we use in the UK, they are the cheapest I've come across as yet and they have good customer service (www.thinstore.net)\r\n\r\nThe school I work at have bought over 30 thin clients from them. \r\n\r\nIts also well worth checking what deals HP have on, the first deal we took advantage of was a £10 17\" monitor deal when purchasing a £200 thin client, then a 3 for 2 offer on all thin clients.\r\n\r\nWe are having great success so far integrating a thin client network into our primary school. LTSP is excellent, we also use Windows Terminal Server for the apps that don't run on Linux.\r\n\r\nIt may be worth checking my blog if you plan to setup a thin client network in your school or want to switch to Linux.\r\n\r\nhttp://stephen-walder.blogspot.com/"
+-
+    name: gvy
+    mail: ''
+    subject: '(afterthought) that''s called support dude'
+    hostname: 195.69.85.62
+    created: '1194601512'
+    body: "...and you don't substitute thousand thanks for thousand dollars for that kind of consulting.  if you \"must need fastly\" then be prepared to either search/read/learn \"fastly\", or pay upfront.\r\n\r\nfree software isn't about all-free consulting, as free time is sparse.\r\n\r\nPS: of course this comment is only for similar fastly students :)  providing them with what they urgently request might just defile them into consumers, not creators.\r\n\r\nPPS: just in case, we run LTSP virtualized in OpenVZ containers (described on ltsp.org wiki CaseStudies and on freesource.info wiki in Russian+details).\r\n\r\n--\r\nMichael Shigorin"
+-
+    name: gvy
+    mail: ''
+    subject: 'no benchmark but a success story'
+    hostname: 195.69.85.62
+    created: '1194602242'
+    body: "we did run windows apps (particularly a bookkeeping one known as 1C in exUSSR) with WINE@Etersoft on ALT Linux based LTSP5 implementation, although I don't remember RAM consumption (we use dualcore server with 4 gigs so it was easy not to spot even considerable chunk of it being eaten up immediately...); based on previous experience with hooking a few terminals onto a linux workstation where one or more users would need to run office/mail/browser apps and one user would need a legacy windows app running under wine, up to three users would live ok in 512M (with icewm-based lightweight desktop).\r\n\r\n--\r\nMichael Shigorin"
+-
+    name: 'Anonymous visitor'
+    mail: mail.tuxade@gmail.com
+    subject: ramdisks
+    hostname: 125.238.105.176
+    created: '1196889456'
+    body: 'Can anybody reading this see any benefits (in a classroom environment) in setting up a reasonably sized ramdisk on the server for holding a large file such as a video file? I did this to prevent thrashing the HDD for a demo setting where I had the Codebreakers divx playing back on each thin-client, but wondered if the practice had any use in a classroom setting! Unmounting the ramdisk releases the memory, but you can remount it again when needed, giving control over viewing and censoring. '

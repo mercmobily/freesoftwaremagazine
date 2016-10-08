@@ -1,0 +1,14 @@
+-
+    name: clievers
+    mail: ''
+    subject: 'Excellent Choice...'
+    hostname: 68.144.77.66
+    created: '1178410890'
+    body: "A book on subversion is an excellent choice! I've just started reading about it on the net, and am thinking about setting myself up a repository so I can get a my various \"stuff\" from anywhere. Subversion seems to be the popular choice over others like CVS. \r\n\r\nWould others agree with that statement?\r\nThanks.\r\n"
+-
+    name: lspence
+    mail: lspence812@gmail.com
+    subject: 'Subversion is awesome!'
+    hostname: 63.138.198.62
+    created: '1178630198'
+    body: "I have only really begun to start using Subversion and have found it to be excellent. I've played a little with Microsoft's SourceSafe 2005 and I don't think it can touch Subversion. Subversion has many plugins available that are wonderful. There's even one for Visual Studio called AnkhSVN. Oh and you just can't beat the price either.\r\n\r\nHave a look at the following link for lots of information.\r\n\r\nhttp://subversion.tigris.org/links.html."

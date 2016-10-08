@@ -1,0 +1,7 @@
+-
+    name: Fay
+    mail: ''
+    subject: 'This book is already in my hands!'
+    hostname: 82.71.8.109
+    created: '1162667882'
+    body: "I'd been interested in getting to know Moodle for some time, so when I saw a copy in the Foyles booth at the LinuxWorld Expo last week, I bought it. I much prefer learning from a textbook than online, though I use forums for questions.\r\n\r\nAs for the installation directions, this isn't a problem for Debian users, as fortunately it's in the repository. So a quick <em>apt-cache search moodle</em> reveals you only need to do an <em>apt-get install moodle moodle-book</em> and then answer a few simple questions and it's all done for you. :-)\r\n\r\nThanks to the book's crystal clear directions, I had my home page up and running in a jiffy.\r\n\r\nI really do like this author. He's taken the trouble to emphasise the fun aspect of writing courses.\r\n\r\nI also bought two other Packt books while I was there - one on Mastering Mambo (though I'm really a Joomla user) and one on building telephony systems with Asterisk."

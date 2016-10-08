@@ -1,0 +1,252 @@
+-
+    name: clievers
+    mail: ''
+    subject: 'Killing a process...'
+    hostname: 68.145.109.51
+    created: '1180992841'
+    body: "Very nice article.\r\nIn the part about killing processes, what if \"Ctrl+C\", \"Ctrl+X\", \"kill 13247\" and \"kill -9 13247\" don't work? I've had this come up a few times where I cannot seem to get rid of a process this way. Then you just have to really wait on it to finish or respond. (And this is attempted as root). Is there even another type of command to run?\r\nThanks.\r\n------\r\nlet's all play nice!"
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: 'Superkilling a process?'
+    hostname: 68.93.224.4
+    created: '1180999164'
+    body: "Other than Slay, I can't think of a more powerful way to kill processes right now.\r\nIf it is that persistent, I usually reboot. Sometimes that is the best way to solve hardware dependent problems.\r\n\r\n-Rosalyn"
+-
+    name: clievers
+    mail: ''
+    subject: 'Ok, thanks. Rebooting isn''t'
+    hostname: 68.144.77.66
+    created: '1181003532'
+    body: "Ok, thanks. Rebooting isn't usually an option as it's a server (usually). But yeah, it's not so often though, just once in a while.\r\n\r\n------\r\nlet's all play nice!"
+-
+    name: 'Anonymous visitor'
+    mail: Anonymousvisitor@fun.freesoftwaremagazine.com
+    subject: 'kill ps hu mor man'
+    hostname: 128.82.176.72
+    created: '1181074050'
+    body: "If I want to tell my computer to show me a process, could I actually enter the command <EM>SHOW PROCESS</EM>. Or how about the whole system, like <EM>SHOW SYSTEM</EM>? In a cluster, can I just enter <EM>SHOW CLUSTER</EM>? How about a plain <EM>HELP</EM>? Can this be done or are computers today as primitive as they were in the late 60s, when people had to deal with 2-letter commands like \"ps\"?\r\nHey, I asked my system manager these questions, and she said on Linux the HELP command is called <EM>woman</EM>. When I replied that his is weird, she said progress was made when an operating system called MSDOS was introduced which had at least the HELP command. Now, how about the rest?\r\n"
+-
+    name: mattflaschen
+    mail: ''
+    subject: killall
+    hostname: 71.224.192.74
+    created: '1181099194'
+    body: "I would add one more useful command to the list: killall.  killall lets you kill a program directly if you know the name of the binary.  For example:\r\n\r\nkillall akregator\r\n\r\nwill kill all instances of Akregator."
+-
+    name: 'Anonymous visitor'
+    mail: mpdatuin@gmail.com
+    subject: 'xkill turns your mouse'
+    hostname: 75.37.12.134
+    created: '1181152936'
+    body: 'xkill turns your mouse pointer into a skull and crossbones, whatever window you left click on gets "run through" so to speak. Right click to return to a normal mouse pointer.'
+-
+    name: 'Anonymous visitor'
+    mail: susanfsm@teebow.com
+    subject: 'where is Part I of this'
+    hostname: 203.22.83.68
+    created: '1181267400'
+    body: 'where is Part I of this article??'
+-
+    name: admin
+    mail: ''
+    subject: Here...
+    hostname: 165.98.157.37
+    created: '1181322916'
+    body: 'Here is <a href="http://www.freesoftwaremagazine.com/articles/command_line_intro">Part 1</a>.'
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: 'I wouldn''t really call'
+    hostname: 68.93.224.4
+    created: '1181326946'
+    body: "I wouldn't really call something primitive just because it has a two letter command. \r\n\r\nAnyway, if you really want specialized command names, you can always try scripting them. You can make short files called scripts that when you run them by typing their name, initiate a long command for you. In that case you could do ps with lots of options added and formatted the way you like it when you type SHOWPROCESSES.  I don't think you can have a space in the command though.\r\n\r\nAbout the woman command.\r\n\r\nI see no sign of it. I think it must be a joke.\r\n\r\n\r\nAnyway, thanks everyone for the comments. If you find any other good ones. Post.\r\n\r\nThanks Rosalyn "
+-
+    name: 'Anonymous visitor'
+    mail: bookworm5000@verizon.net
+    subject: 'If kill and slay dont work...'
+    hostname: 71.176.115.66
+    created: '1182203512'
+    body: 'If kill and slay dont work, there is always SysRQ. That strange little button sharing "print screen" is actually an access to several very powerful, low level kernel interrupts. The good news is that SysRQ commands cannot be denied by the system. The bad news is that it must be enabled both during compile, and in kernel.sysrq additionally, the potential for harm is much greater than that of kill -9, but IF your server has it enabled, and all else   fails, its worth a try.'
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: SysRQ
+    hostname: 68.93.224.4
+    created: '1183834203'
+    body: "Wow!\r\nI never heard of SysRQ. I'm gonna have to look that up.\r\n\r\nSounds like the tip of a long series of programmer tools or something.\r\nThanks for the comment.\r\n\r\n-Rosalyn "
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: 'Paydirt in one'
+    hostname: 68.93.224.4
+    created: '1183835047'
+    body: "I found something about sysRQ. It's really old. I felt embarrased that I didn't know it when it is printed on my own keyboard!\r\n\r\n\r\nI found a really nice wikipedia page on this function.\r\n\r\nhttp://en.wikipedia.org/wiki/SysRq"
+-
+    name: 'Don Crowder  AKA eldergeek'
+    mail: dondashguitar@gmail.com
+    subject: 'Thanks Rosalyn'
+    hostname: 71.121.99.166
+    created: '1183862452'
+    body: "I'm still using Debian but now it's Etch instead of Sarge and I'm happier than ever with it.  Etch is substantially more user friendly than Sarge and still works beautifully on older hardware.\r\n\r\nI love the way you write.  I read Part II all the way through without my eyes glazing over.  I doubt if any of it will stick, because that's how my strange brain works, but the first time a process hangs up and can't be shut down I'll remember this tutorial, revisit it (even if I have to change computers and google for it), read it again and apply the information.  Then I'll remember it.\r\n\r\nI hope you'll continue this series.  I want the book when it's printed, or, if it's an eBook I'll buy it and print it myself.\r\n\r\nI'm still a Wannabe Linux Geek (and still in training)\r\n\r\nDon Crowder"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'In fact there''s an article...'
+    hostname: 68.93.224.4
+    created: '1183869541'
+    body: "Gary Richmond actually just posted a <a href=\"http://www.freesoftwaremagazine.com/blogs/closing_down_gnu_linux_safely_with_sysrq+\">blog article</a> about this yesterday.\r\n"
+-
+    name: 'Felipe Alvarez'
+    mail: felipe.alvarez@gmail.com
+    subject: 'not kill, but ''pkill'''
+    hostname: 206.248.171.94
+    created: '1184193540'
+    body: "Instead of 'ps' use 'pgrep -l <name-of-program>'. Example, try 'pgrep -l firefox' when running firefox. You will see the PID as well as the name of the program (ie. firefox).\r\n\r\nInstead of wasting time remembering stupid numbers, use <strong>pkill <name-of-program></strong>. Example, with firefox running try typing <strong>pkill firefox</strong>. This will TERM-inate (signal 15) firefox, without having to remember stupid numbers.\r\n\r\n(YMMV. Works on opensuse. I haven't tried this on other distros)"
+-
+    name: Edzilla
+    mail: edzilla@edzilla.info
+    subject: 'You don''t even have to'
+    hostname: 193.197.16.3
+    created: '1184228853'
+    body: "You don't even have to script anything, you can simply alias them.\r\nSo if you want SHOWPROCESS to do \"ps aux\" in bash, you type \"alias SHOWPROCESS ps aux\".\r\nNow, in this terminal, every time you'll type SHOWPROCESS, it will do \"ps aux\".\r\nIf you want to have that possibility in every terminal you open from now on, just add \"alias SHOWPROCESS ps aux\" to the file .bashrc in your account.\r\nAlso, short command names are still used of efficiency. It's a LOT faster to just type \"ps\" or \"ps aux\", than to type SHOWPROCESS.\r\nAnd for the \"help\" command in linux/unix, either you misunderstood, or your are making a bad joke. The command is \"man\", as in manual, followed by the command you want help with.\r\nFor example, you could type \"man ps\", and it would give you an explanation about the use of \"ps\", it's options, it's peculiarities..."
+-
+    name: vall3yman
+    mail: vall3yman@gmail.com
+    subject: 'another kill'
+    hostname: 72.189.246.238
+    created: '1184233923'
+    body: "fuser -k /path/to/program\r\n\r\nthis will kill the program that you named along with any forks that the program may have initiated."
+-
+    name: vall3yman
+    mail: vall3yman@gmail.com
+    subject: 'another kill'
+    hostname: 72.189.246.238
+    created: '1184234612'
+    body: "fuser -k `which gcc`\r\n\r\nkills every instance and any forks"
+-
+    name: 'Conserned Admin'
+    mail: spam@def-con.org
+    subject: 'Properly using kill'
+    hostname: 76.184.213.47
+    created: '1184235223'
+    body: "For what it is worth, one should NEVER skip directly from kill (-15) to kill -9.\r\n\r\nThe process is:\r\n\r\nkill $PID\r\nwait a few seconds\r\nkill $PID\r\nwait a few seconds\r\nkill -2 $PID\r\nwait a few seconds\r\nkill -1 $PID\r\nwait a few seconds\r\ntry to figure out why the process is not dying correctly\r\nkill -9 $PID\r\n\r\nOne should never ``kill -9'' a process unless you have found that it is trying to close a file descriptor on a non-responsive filesystem or other type of issue that is actually causing it to not clean up properly.\r\n\r\nIf the same process is frequently requiring a ``kill -9'' then one should figure out why it is not dying correctly and switch to a different program if it can not be corrected as the process is experiencing some serious issues.\r\n\r\nAt one time there was a ``Useless use of kill -9'' award given out on Usenet for those System Admins that do not know what they are doing.  As *NIX is gaining more and more popularity we are seeing many more people just using kill -9 like it should be default.  There is a reason that a process should be given a SIGTERM, SIGINT then SIGHUP.  The reason being that programs are written to where they catch these signals and perform cleanup processes.  A SIGTERM will typically tell the program that the user wishes for it to go ahead and close all file descriptors after telling it's children(if child processes have been forked) to close up shop.  A SIGINT is then used to Interrupt the program from whatever it is doing and close up shop.  A SIGHUP, commonly rebound to re-read the configuration file, is a Terminal Line Hangup which should, by default, tell the program to not wait for children to respond via their pipes and just close the file descriptors and die.  The evil SIGKILL tells the process to just die and not worry about what it might have been doing.  SIGKILL can leave ZOMBIE child processes and ghost logins.\r\n\r\neg: If you were to ``sleep 9999& kill -9 $$''  then you may notice that you will often have a ghost login AND the sleep process will still be alive after your shell is dead.  If, instead, you were to issue that as ``sleep 9999& kill -1 $$'' then you will find that there is no ghost login and the sleep process should have been reaped by your shell as it exited cleanly.\r\n\r\n\r\nOn a side note: one does not have to quit from ``top'' in order to kill a process.  Simply pressing 'k' while viewing top will prompt you for the PID(and signal depending on the OS and distro.)  One can perform many actions from within ``top'', just press 'h' to see the different shortcuts."
+-
+    name: 'Anonymous visitor'
+    mail: james2vegas@aim.com
+    subject: help
+    hostname: 70.173.172.228
+    created: '1184236255'
+    body: "'help' works on my system as does 'help ls' ('help' basically does 'man help' and since 'help' is a hardlink to 'man', 'help ls' is the same as 'man ls').  Of course this is BSD *nix, not Linux where the default bloated ass shell (bash) has a built-in very unhelpful 'help' command.  \r\n\r\nAnd yet, Linux is the predominant open source operating system."
+-
+    name: 'Anonymous visitor'
+    mail: init@kth.se
+    subject: 'Did you try CTRL-Z? I''ve had'
+    hostname: 83.250.191.74
+    created: '1184237543'
+    body: "Did you try CTRL-Z? I've had a few rare cases where it didn't work to kill the process, but it worked to suspend it (with CTRL-Z). Now you usually can kill it, but there may be cases where even this won't work.\r\n\r\nCases where the \"kill -KILL\" (equivalent to \"kill -9\") won't work usually occurs because the program is accessing a network drive that has gone offline, such as an NFS share. In those cases, the only way to kill the program might be to reboot the computer, or at least bring it into single-user mode and back, so that all network shares are forcibly unmounted.\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: pcgamer1991@yahoo.se
+    subject: 'SHOW PROCESSES'
+    hostname: 83.226.75.89
+    created: '1184238180'
+    body: "#!/bin/bash\r\nif [ $1 == \"PROCESSES\"]\r\nthen\r\n    ps aux\r\nfi\r\n\r\n\r\n\r\nput that in a file named SHOW in /usr/local/bin and chmod +x /usr/local/bin/SHOW\r\nthen you can run SHOW PROCESSES\r\nbut it is faster to write ps aux than writing SHOW PROCESSES"
+-
+    name: 'Anonymous visitor'
+    mail: Anonymous@visitor.com
+    subject: 'Super duper kill'
+    hostname: 132.25.0.207
+    created: '1184238900'
+    body: "This guide is good I guess but to REALLY kill some stuff, just type:\r\n<code>[dangerous command that could destroy your system, edited]</code>"
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'THis shows..'
+    hostname: 124.168.66.243
+    created: '1184239140'
+    body: "Hi,\r\n\r\nThis comment shows that it's a good idea to moderate comments, ALL the time, no matter how many you have.\r\nI just cannot believe some people.\r\n\r\nAnonymous user: I hope you realise that your IP address was recorded on the server.\r\n\r\nMerc."
+-
+    name: devlin
+    mail: dev1in@yahoo.com
+    subject: 'Harder than it has to be'
+    hostname: 64.222.129.253
+    created: '1184242838'
+    body: "This article while helpful actually made the process more difficult than it has to be.\r\n\r\n  There is a nice little command called \"xkill\" that works easily. You either bring up a <i>run</i> dialog box or open a terminal program, then just type \"xkill\" and hit enter. You will notice your cursor has changed to normally a skull and crossbones, click on the frozen application to be killed and left click on it. It should die very quickly. Done.\r\n\r\n   I only use the standard \"kill\" command if I am running apps from the command line ( I'm rarely ever there...) and one froze. "
+-
+    name: John788878
+    mail: john@aol.com
+    subject: 'Nice Article'
+    hostname: 150.142.237.208
+    created: '1184244396'
+    body: "Hi Rosalyn,\r\n\r\nVery nice written article!  Thank You!\r\n\r\nBy the way if anyone is interested, most of these commands will also work in a terminal window on OSX, which uses BSD.\r\n\r\nI am not sure why people are afraid of the command line.  Once you get used to it, it's really great.  Last night I installed a new application on my Xubuntu box.  I could have used the GUI installer, but it was easier and quicker to use apt-get.\r\n\r\n\r\n\r\n"
+-
+    name: 'Peter (not the user on this page)'
+    mail: piterwilson@piterwilson.com
+    subject: 'Kill -9'
+    hostname: 190.24.184.219
+    created: '1184246741'
+    body: "Kill -9 no more cpu time\r\nkill -9 and your process is mine"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Don''t sweat it'
+    hostname: 86.71.28.135
+    created: '1184254056'
+    body: "There's no shame in not knowing about ALL those PC BIOS level interrupts - I'm not sure they're even all properly referenced (except in those old 1979 Intel datasheets...)\r\nThose keys shouldn't work with:\r\n- PPC Macs\r\n- Intel Macs (use EFI, not BIOS)\r\n- Alphas\r\nOr do they?\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'wow movies'
+    mail: orican83@gmail.com
+    subject: 'I did not know about pgrep'
+    hostname: 121.45.217.112
+    created: '1184255813'
+    body: 'I did not know about pgrep (so thanks for that tip). But when I read your post I did ''man pgrep'' and it comes up with a man page for pgrep _and_ pkill - so your ''most used'' would be shorter as ''pkill firefox''.'
+-
+    name: Danielll
+    mail: danich@gmail.com
+    subject: "Nice !\nI learnt a couple of"
+    hostname: 200.49.90.27
+    created: '1184257918'
+    body: "Nice !\r\nI learnt a couple of things I didn't know =)"
+-
+    name: mscman
+    mail: mscman13@insightbb.com
+    subject: Stupid
+    hostname: 128.210.189.146
+    created: '1184260638'
+    body: 'And people wonder why the Linux community has such a bad reputation. Thanks to people like you, new users are afraid to take advice from us seasoned users. Hopefully nobody used that command and lost data.'
+-
+    name: lews99therin
+    mail: rand99althor@yahoo.com
+    subject: 'Good read'
+    hostname: 24.10.255.112
+    created: '1184260771'
+    body: "Hi, \r\nEnjoyed your article!  Thanks"
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: Well...
+    hostname: 124.168.66.243
+    created: '1184326450'
+    body: "Hi,\r\n\r\nWell, I reported the hell out of him.\r\nHe was from a .mil domain (!). So, hopefully somebody will get seriously told off about it.\r\n\r\nLuckily, the community also \"works\" :-D\r\n\r\nBye!\r\n\r\nMerc."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'mind''s eye'
+    hostname: 82.108.129.98
+    created: '1184336042'
+    body: "<cite>But in my mind’s eye I can hear some veteran command line user out there scoffing. “Ha!” he says, “I could do all of that in one line.”... </cite>\r\n\r\nQuite an amazing eye - perhaps that should've been \"mind's ear\" ;o)\r\n\r\nGood article though. Well done.\r\n\r\nRyan"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Well, yeah, but...'
+    hostname: 68.93.224.4
+    created: '1184358860'
+    body: "1) This is an article about the command line, and xkill is an x application (albeit a small one).\r\n\r\n2) Sometimes there <em>is</em> no window to xkill.\r\n\r\n3) Sometimes there is a window, but your xserver is locked up so the mouse won't do anything or you can't get the application menu to come up (And yes, I have encountered systems where X is locked up, but virtual terminal switching works, and killing the offending process frees up the X session).\r\n\r\n4) Sometimes the whole console is locked up, but you can remote login via SSH and kill the offending process to fix things (i.e. from another computer). I suppose it's a bit counter-intuitive that SSH often works even when the console is completely locked up, but it is often true.\r\n"
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: 'SIGTERM '
+    hostname: 68.93.224.4
+    created: '1184363525'
+    body: "Thanks for your more detailed insight into Killing processes.\r\nI wonder what Xkill does?"

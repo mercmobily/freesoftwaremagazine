@@ -1,0 +1,14 @@
+-
+    name: 'Allen Moore'
+    mail: ''
+    subject: 'You''re Storing Your Clients'' Passwords on a PDA?'
+    hostname: 72.11.65.66
+    created: '1145924841'
+    body: 'If I understand this article, you''re storing your clients'' passwords on a PDA using a password vault with weak encryption. And in the event of a lost or stolen PDA, your recovery procedure is to "get a new one [PDA], restore your database, and change your passwords." Does this mean you have to go around to each client and change their password(s) as well? Perhaps I''ve misunderstood, but this doesn''t seem like a very practical or safe solution.'
+-
+    name: 'John Locke'
+    mail: ''
+    subject: '3DES is weak?'
+    hostname: 216.231.62.127
+    created: '1145977800'
+    body: "To respond to Allen (below):\r\n\r\nThat's a completely valid concern. The main point of keeping passwords on a PDA is because you can access them, and keep them relatively securely. The software I use and recommended encrypts the password database with 3DES, which, while not the latest and most secure protocol, is still strong enough encryption that it'll take an attacker a lot of computing resources, and many many hours to crack. It's still used by most SSL servers you visit on the Internet.\r\n\r\nLosing a PDA is like losing a wallet--not something that happens often (hopefully), and involves some pain. Lose your wallet, and you need to go cancel all your credit cards immediately. Lose your PDA, and you have to go reset all the passwords. But by having it on a PDA, presumably you have a copy on your computer, as well, so you can quickly go down the list and do your damage control. And with an encrypted password store and a strong master password, you have at least several days or weeks to do this, if not years...\r\n\r\nBesides, using SSH, I can \"go around to each client and change their password(s)\" from the comfort of my home office--one of the great things about Linux and FOSS software in general is how easy it is to remotely administer...\r\n\r\nDo you have a better solution?\r\n-- \r\nJohn Locke\r\nFreelock Computing, http://www.freelock.com\r\nThe Open Source for Business Solutions"

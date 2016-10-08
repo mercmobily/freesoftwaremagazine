@@ -1,0 +1,77 @@
+-
+    name: admin
+    mail: ''
+    subject: Phew!
+    hostname: 165.98.157.37
+    created: '1179187251'
+    body: 'You had us going there for a second. And we were wondering how we managed to be the last ones to know.'
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'Hilf''s eyes too close together'
+    hostname: 210.10.166.75
+    created: '1179190057'
+    body: "It's true. Go and check out his mug-shot at Edward's first link above.\r\n\r\nWould you trust this man to tell you the truth, the whole truth, and nothing but the truth?\r\n\r\nIt's the same with that weird dung-eating grin that Gates gets all over his kisser.\r\n\r\nhttp://www.thesmokinggun.com/mugshots/gatesmug1.html\r\n\r\nAs they used to say about Tricky Dicky, \"Would you buy a used car off this man?\""
+-
+    name: 'elastic taboos'
+    mail: ''
+    subject: 'spelling error?'
+    hostname: 85.124.5.48
+    created: '1179209974'
+    body: 'Is it Hiff, Hill, or Hilf? The Bangkok Post called him Hilf.'
+-
+    name: thlinux
+    mail: ''
+    subject: ARRGH!
+    hostname: 207.13.167.2
+    created: '1179295199'
+    body: "My word, for a minute there I thought you were going to change your name to \"Buy a License to Read Our Magazine\" Magazine. Keep up the good work. \r\n\r\nLong Live FSM!"
+-
+    name: admin
+    mail: ''
+    subject: 'Microsoft says Hilf'
+    hostname: 165.98.157.37
+    created: '1179297245'
+    body: "I did a Google search and found quite a few references to Bill Hiff of Microsoft. But Microsoft's site says Hilf and they have a picture of him (it's the same guy as in the Bangkok Post), so let's go with that. Looks like a common mistake though.\r\n\r\nFixed."
+-
+    name: trollzor
+    mail: ''
+    subject: 'some "clarifications"'
+    hostname: 203.214.86.155
+    created: '1179777692'
+    body: "http://port25.technet.com/archive/2007/05/15/clarifications.aspx\r\n\r\nHilf truly is a FUD master, he's even got one on patents.\r\n\r\nSo laughs in the comments on that post too."
+-
+    name: 'Ivan Ivanovsky'
+    mail: ''
+    subject: 'It is Real World'
+    hostname: 217.29.24.83
+    created: '1180683107'
+    body: "<strong>And it is real war.</strong> I almost sure that M$ (MegaDollar) will win this war. It is matter of time and of course...money.  They will sues everybody and everything and nothing gonna stop them. Patents, patents and patents again. Nobody can get so many patents as M$ can.  So, in some time I will have to throw my lovely Mandriva away...But I promise I will never buy (and support) M$. The only way I see is FreeBSD and the hope is still my breast...\r\n\r\nSorrowfully Yours"
+-
+    name: spartan2276
+    mail: ''
+    subject: 'A bit of concern'
+    hostname: 70.158.34.66
+    created: '1180704635'
+    body: "Although I don't think the Free Software Movement will be dead anytime soon, I do belive this Hilf guy might be right on the whole desktop issue. Most applications are already running this way and more people are turning to the web to do things they use to do on their desktops. Now the thing is can the open source community keep up when most vendors refuse to support it. Also pointing to something he said in the article about developers working for big commercial firms. Regardless of how free we want this movement to be people need to pay their bills and live and although you can make money from open source, you can't keep it for yourself which is the problem people by default are greedy,selfish and there is nothing the open source community can do to change that. Those two things is the main reason why this Hilf guy makes comments like that and he's right. I'm a developer who works with Adobe products and open source products yet I find myself talking about windows and how to make sure the software is compatible with it, because unfortunately I need to pay my bills too. So my question to the Open Source community is; How can we as a community make it better for developers to make a profit from an Open Source project other than charging for tech support? Also remember this, why pay for tech support when you can get it from a forum or a chat room.\r\n\r\nRey Angeles\r\nIT Consultant/Web Developer\r\nwww.sbnsite.com"
+-
+    name: trollzor
+    mail: ''
+    subject: 'no concern'
+    hostname: 203.214.59.240
+    created: '1180740920'
+    body: "Companies want guarantees and support contracts, so they buy GNU/Linux off Redhat, Novel and Canonical. End users who want support buy off  Linspire or Novel etc. People who want support for open office buy star office off Sun. This generates money for big software houses to develop software.\r\n\r\nBut many businesses leverage free and open source software sometimes but don't buy it. For example, Apache is the most popular web server in use, but nobody buys Apache. But the money Apache generates comes from the thousands and thousands of sysadmins who are employed to administer it. As a community they all contribute to each other for free, and get gainful employment because they are then able to sell their skills to companies. Other companies like the many hosting companies also make money from free and open source technologies (the LAMP stack and things like it) and pay for development.\r\n\r\nNone of the above money making removes the GPL (or whatever licence is used) from applying to the code that is written.  \r\n\r\nHilf was engaging in absolute FUD when he tried to confuse people as to Linux being \"dead\", he has tried to backtrack. But this anti-Linux FUD is targeted at managers who don't know anything about free and open source (because more often than not they never did technical degrees) and they will then be hostile to this \"linux thing\" when it is proposed to be adopted in the workplace.\r\n\r\nHilf though it would slip by, but he was caught out. And his clarification on his website is extremely weak. I wonder what his kids will think when they read back at some point to find out who their dad was... This is a combination of a guy who is paid to spread disinformation and an incredibly uncritical journalist.\r\n\r\n\r\nWhen you say \"can the open source community keep up when most vendors refuse to support it\" that's patently not the case. Free and open source software makes money in business through support, but support is much much bigger and makes it's face know in many more ways in a plethora of companies. The fact that people are involved making money doesn't make the software any less free or open source, nor does it somehow implode the community aspects. "
+-
+    name: spartan2276
+    mail: ''
+    subject: 'You have a point!'
+    hostname: 67.100.141.158
+    created: '1180821165'
+    body: "Yes I'd I have to say I agree with your response, but what I meant by vendors refusing to support it. I meant it in terms of hardware and software, meaning why can't I use my Plextor Px=716UF on Ubuntu 7.04 because there are no drivers, the company (plextor) does not have any linux drivers. This is just one example also why can't I play any games on Ubuntu just like I would on Windows. That is my point, that is the reason why most people are affraid to make the jump. Another example; I told my boss about Ubuntu (desktop/server) so that we can switch from our windows setup (server 200/Xp pro desktops) and I was sent packing. So after I gave him tons of articles documentation etc, next day he went and bought MS Office 2007 after I clearly showed him OpenOffice. So that right there is what I'm talking about unless vendors decide to make the software that is available for windows compatible with Linux. We won't stand a chance and yes by boss is the average user.\r\n\r\n\r\nIT Consultant/Web Developer\r\nwww.sbnsite.com"
+-
+    name: trollzor
+    mail: ''
+    subject: 'free software - open source'
+    hostname: 203.214.59.240
+    created: '1180836629'
+    body: "This is why I think free software as a philosophy is not given enough credit, as they did a lot of work before everything was operational and were working on things before there was an office package and games etc.\r\n\r\nThe games issue is a difficult one, as MS has locked up much of the market with directx stuff. One of my greatest pains moving to linux was leaving counter-strike behind. Nevertheless, there are lots of cool things out there, enemy territory, true combat: elite, savage: the battle for newerth and all the ID software stuff. Plus there will come a time when WINE can do all the 1995-2006 games better than XP and certainly Vista.\r\n\r\nThe Dell-Ubuntu deal should be the beginning of the end for hardware issues, almost everything is supported these days.\r\n\r\nAnyway if it suits you, use it - it suits me.\r\n"

@@ -1,0 +1,161 @@
+-
+    name: god
+    mail: ''
+    subject: 'Comments from the old system'
+    hostname: 203.59.90.115
+    created: '1143708131'
+    body: "<strong>From</strong>: asdf \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-10-02\r\n<strong>Subject:</strong> firefix plugin\r\n\r\n\r\nhttp://www.clamwin.com/\r\n\r\nhttp://www.clamwin.com/index.php?option=content&task=view&id=49&Itemid=27\r\n\r\n\r\n\r\nThey are releasing an extension for FirefoxV1.5  browser to scan all downloaded files. It helps a bit to overcome on-access realtime scanning problem.\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Paul \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-10-11\r\n<strong>Subject:</strong> Re: A message for Clif Brown\r\n\r\n\r\nClif,\r\n\r\n\r\n\r\nOne problem could be your computer has a very slow processor and an extremely small amount of RAM. Running this on server 2003, RAID array size = 240GB and it takes about 90 minutes to scan that.\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Clif Brown \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-10-08\r\n<strong>Subject:</strong> Clamwin\r\n\r\n\r\nI read the review of Clamwin and there is only a hint of something people should know: this program takes a long time to do a scan. On my 40 mB drive, several hours are required and there is no progress bar to tell you how far along the process has gone. I find that the only practical way to scan is to start Clamwin and let it run overnight.\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Alex \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-10-09\r\n<strong>Subject:</strong> Scan Speed\r\n\r\n\r\nMy 80 GB harddisk was scanned in less then one hour.\r\n\r\nI like this program.\r\n\r\n\r\n\r\nAlex\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Alex R \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-10-10\r\n<strong>Subject:</strong> ClamWin\r\n\r\n\r\nI noticed that my email provider was using Clam's serverside anti-virus and was pleased to find that Clam did the Clam Win Windows version.  \r\n\r\n\r\n\r\nI used to use Norton, but found it very heavy on system resources and was looking for an alternative, but I was prepared to pay if necessary.\r\n\r\n\r\n\r\nClamWin installed without a hitch and uses very few system resources, making it idea for older or low ram systems in my opinion.  The fact that it is free is an added benefit, but does not detract from the functioning of the program in any way.  Updates are frequent and download without problem, although my XP system causes a small problem when it wakes up from standby and ClamWin initiates the update process when Windows is still not fully 'awake'. A manual update sorts out the problem - and there is a warning message so you know when something is not right.\r\n\r\n\r\n\r\nThe only weaknesses are the absence of an on-demand scanner, although this is not a great problem seeing as I always scan any downloaded files before opening them.  And the fact that it is a wee bit slow - but I guess this is the price you pay for low system resource usage and a low level of system integration. Leaving it running overnight is the answer, but I imagine newer versions will get faster in the future.\r\n\r\n\r\n\r\nAll in all it is an excellent utility and the Outlook integration and forthcoming Firefox plugins will add yet more value to it.\r\n\r\n\r\n\r\nA replacement for proprietary AV software?  Definitely!\r\n\r\n\r\n\r\nThe wonderful Open Source community yet again shows the market the way to go. Long may it continue.\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Christian Felde \r\n<strong>Url</strong>: http://blog.cfelde.com\r\n<strong>Date</strong>: 2005-10-30\r\n<strong>Subject:</strong> ClamWin + Winpooch = true\r\n\r\n\r\nBy combining ClamWin with Winpooch, you can get real-time protection.\r\n\r\nCheck out Winpooch at http://www.winpooch.com . And of course it's open source..\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Tuntis \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-11-06\r\n<strong>Subject:</strong> ClamWin SUCKS\r\n\r\n\r\nClamWin sucks. It doesn't operate with multiple cygwin1.dll's in your system and tadah, I have Cygwin, an Standalone irssi, many video/audio encoding apps what use cygwin1.dll. No luck. This software sucks.\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: dl \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-11-26\r\n<strong>Subject:</strong> try the binaries...\r\n\r\n\r\nnot being a guru or anything, i installed the win32 binaries on xp and 98 without any problems. i haven't installed cygwin, so i'm assuming your version of it isn't relevent...\r\n\r\n\r\n\r\ni'd say try it again the easy way. it sounds like you were making it hard on yourself by trying to play with the source... not that there's anything wrong with that! it's just something i've had trouble with :)\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Loreto Parisi \r\n<strong>Url</strong>: http://loretoparisi.splinder.com\r\n<strong>Date</strong>: 2005-11-06\r\n<strong>Subject:</strong> Replacing proprietary anti-virus software \r\n\r\n\r\nI'm running MacOS X Tiger. No need for Anti Virus software! Neither proprietary, open-source or shareware. But I agree this topic, software, all software should be free!\r\n\r\n\r\n\r\nLP\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Rishi Dev \r\n<strong>Url</strong>: http://www.nastec.biz\r\n<strong>Date</strong>: 2005-11-11\r\n<strong>Subject:</strong> Appreciation\r\n\r\n\r\nI thank the author of this article and also ClamWin. They have done a marvelous job. My best wishes for future efforts.\r\n\r\n\r\n\r\nRegards\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Tim Koop \r\n<strong>Url</strong>: http://www.timkoop.com\r\n<strong>Date</strong>: 2005-11-15\r\n<strong>Subject:</strong> Testing a Virus Scanner without a Real Virus\r\n\r\n\r\nIf you want to test a virus scanner without using a real virus, use the eicar anti-virus test file.  That's what it was designed for.\r\n\r\n\r\n\r\nhttp://www.eicar.org/anti_virus_test_file.htm\r\n\r\n\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Paresh \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-11-29\r\n<strong>Subject:</strong> free and better anti-virus\r\n\r\n\r\nAvast anti-virus for home use is free and comes with 7 different scanners (i.e. e-mail, internet etc.).\r\n\r\n\r\n\r\nAll you need to do is register once a year (free and without SPAM) It can be easily setup to update automatically.\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Majorie \r\n<strong>Url</strong>: http://www.allabouttheworld.com/\r\n<strong>Date</strong>: 2005-12-24\r\n<strong>Subject:</strong> Great site\r\n\r\n\r\nI appreciate that you keep your site going and allow comments. To me feedback is an interesting part of a website. Your site is a very great website and I make your site for my homepage!.\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Forest \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2006-01-02\r\n<strong>Subject:</strong> Smaller program\r\n\r\n\r\nCheck ClamLite also here:\r\n\r\n\r\n\r\nhttp://www.clammail.org/\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Peter \r\n<strong>Url</strong>: http://myblog.de/lobotomie\r\n<strong>Date</strong>: 2006-01-26\r\n<strong>Subject:</strong> link is not functional\r\n\r\n\r\nWhen I try to browse www.clammail.org, I get a page which states \"Przykro nam, strona o podanym adresie nie istnieje.\"\r\n\r\nI don't understand polish :-((\r\n\r\nPeter\r\n\r\nmailto:h.loehle@nurfuerspam.de\r\n\r\n\r\n\r\n<hr/>\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 're: link is not functional'
+    hostname: 84.131.96.152
+    created: '1157031393'
+    body: "hi Peter,\r\n\r\nit only means, that this address or website doesnt work/exist anymore... \r\nI am during testing whis programm, it takes some time, cause is quite slow, but it has found one suspected file on my comp, what wasnt detect by panda scanner...\r\n\r\nregards :-)\r\n\r\nEwa"
+-
+    name: ''
+    mail: ''
+    subject: 'no vivirus cleaner option'
+    hostname: 59.184.189.27
+    created: '1157204676'
+    body: "there is no virus cleaner & active scan option in your clamwin anti-virus software. So you can put that option in your clamwin anti-virus software &you can sell that software at the range of 4-6$.If you do like this then you & your software will be in great demand.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Quarantine option'
+    hostname: 203.199.231.130
+    created: '1160729641'
+    body: "Hi,Iam new to ClamWin does clamwin cleans the virus found.does it cleans or does it delete\r\ni tried the eicar test it is able to fine the virus but does it take any action and another information i would like to know is is there any option to install this in a network so that i can push the updates to the client\r\n\r\n*please help me ASAP*\r\n\r\nMy name is Suriya\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Re: Quarantine option'
+    hostname: 220.239.57.51
+    created: '1161695318'
+    body: 'I don''t think it does clean infected files, it just quarantines them. (To be deleted later).'
+-
+    name: ''
+    mail: ''
+    subject: 'en español?'
+    hostname: 189.167.89.87
+    created: '1163695660'
+    body: "es un buen anti virus pero me gustaria me enviaras el paquete o archivos para convertirlo a lenguaje castellano.\r\nemail: mencar57@hotmail.com"
+-
+    name: ''
+    mail: ''
+    subject: 'Action on Virus'
+    hostname: 61.1.196.139
+    created: '1164372965'
+    body: "When a virus file is found clamwin either remove or quarantine or just report based on the settings we have done on the general configure page of clamwin\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Virus action configuration'
+    hostname: 61.1.196.139
+    created: '1164373685'
+    body: 'Right click clamwin tray icon and select "configure clamwin". A dialog box appears where u can select remove, report or quarantine the virus.'
+-
+    name: ''
+    mail: ''
+    subject: 'Boo on Norton''s'
+    hostname: 68.218.161.235
+    created: '1167570927'
+    body: "I have been running Norton for the past year and updating my definitions on a regular basis. I have an older laptop with about 198 Mb Ram and an 800 MHZ Processor, It had really started to slowdown and drag especially when booting up. I did am \"MSCONFIG\" and removed many of the startup programs it helped a little but got worst over time. I downloaded clamwin and removed Norton from my startup, It was scary how fast it booted up. I scanned my computer with clamwin and found 5 infected items that Norton had not recognized and I had just done a full scan about a week ago. The only drawback I see with Clam win is that it does scan a little slow but Norton’s was not extremely fast, as a write posted early I will just scan while I am sleep.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'One up for ClamWin!'
+    hostname: 165.21.154.16
+    created: '1168192407'
+    body: "ClamWin found the following virus. avast! didn't.\r\n\r\nC:\\WINDOWS\\system32\\e1.dll: Worm.Stration.XL-6 FOUND\r\nC:\\WINDOWS\\system32\\ipv6rasm.dll: Worm.Stration.XL-5 FOUND\r\nC:\\WINDOWS\\system32\\ipv6rasm.exe: Worm.Stration.XL-4 FOUND\r\nC:\\WINDOWS\\system32\\ssdprasa.dll: Worm.Stration.XL-2 FOUND\r\nC:\\WINDOWS\\system32\\tlntqedw.dll: Worm.Stration.XL-1 FOUND\r\nC:\\WINDOWS\\system32\\vdieasyc.exe: Worm.Stration.XL FOUND"
+-
+    name: ''
+    mail: ''
+    subject: 'Free For Commercial Use, As Well.  Thank you!'
+    hostname: 76.211.221.122
+    created: '1169010400'
+    body: "One fellow made the comment that Avast for home use was free and had 7 scanners.  That may be true, but ClamWin is the only anti-virus I've seen, so far, that is also free for commercial use.  I need a free anti-virus for a very small business, and I am very thankful that ClamWin is available.  Thank you very much!\r\n\r\nRandy "
+-
+    name: ''
+    mail: ''
+    subject: fan
+    hostname: 196.218.89.250
+    created: '1169630816'
+    body: "Being a huge Open Source fan,I am pleased with calmwin.\r\nLacking realtime scanning is no problem cuz this is an O.S App.Developers all over the world are invited and compeled to help improve,fix,and add features all the time.\r\nI think RTS is comming,just waiting a few months"
+-
+    name: ''
+    mail: ''
+    subject: 'Another convert'
+    hostname: 81.168.120.19
+    created: '1170427203'
+    body: "I used to have AVG Free 7.5 installed on my PC, but I was convinced that I had a trojan of some description on my PC; my processor utilisation did not add up to 100% and I could not boot off my recovery disk to do a fresh install of Windows.  I tried to install Trend Micro's housecall, but the installation failed.\r\n\r\nI eventually managed to install WinClam and found 67 viruses on my computer (most of them quarantined in my spam folder, but one in Windows/System32).  I quarantined these and then scanned them with AVG.  It missed them again.\r\n\r\nWhile I appreciate that no antivirus is foolproof, I'll stick with WinClam for now."
+-
+    name: ''
+    mail: ''
+    subject: 'Thinking of switching'
+    hostname: 70.69.76.228
+    created: '1174704248'
+    body: 'My current antivirus software is mcafee and I am wondering if switching to clamwin would be a good idea.  Oh and does clamwin also remove spyware? PLEASE TELL ME.'
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'Yes but...'
+    hostname: 165.98.157.37
+    created: '1174710300'
+    body: "A warning for future queries you might make: many people on the net will not like being asked questions that have answers that are so easy to obtain using google. Ask google first. It would have taken less time to ask google than posting your comment. <a href=\"http://www.google.com.ni/search?q=clamwin+spyware&ie=utf-8&oe=utf-8&aq=t&rls=com.ubuntu:en-US:official&client=firefox-a\">This search</a>, for example, answers your question immediately. \r\n\r\nAlso, <a href=\"http://www.clamwin.com/\">the clamwin website</a> would have been a good place to start too."
+-
+    name: Mad11
+    mail: doctor_qj@yahoo.com
+    subject: 'Well done...!'
+    hostname: 196.25.255.195
+    created: '1178187924'
+    body: 'Well done to the clamav team...i think we as users could make the software great by all making a small donation ($1) per user and we will find that the next release of clam will be far more superior to the current release. Thanks guys great product!!!'
+-
+    name: 'matt swanson'
+    mail: tiger69us@sbcglobal.net
+    subject: 'my clamwin'
+    hostname: 68.23.34.23
+    created: '1181051661'
+    body: 'says its out of date and i have the latest version i use avast also and avast and norton and most antivirus software dont mix but it loves clamwin and microsoft says to use more than one antivirus program '
+-
+    name: NonWoot
+    mail: nonwoot@aol.com
+    subject: 'The reason I use ClamWin and'
+    hostname: 68.44.85.60
+    created: '1187921984'
+    body: 'The reason I use ClamWin and like it best now is because it does NOT have a realtime scanning component. I like max system performance, and use a safer web browser that prevents bad stuff already. So ClamWin is the best if not only free alternative that is ONLY an ondemand scanner. If they do add realtime someday, I hope it is a completely seperate version.'
+-
+    name: 'Anonymous visitor'
+    mail: kd4gok@hotmail.com
+    subject: 'NO HYPE!'
+    hostname: 70.145.131.237
+    created: '1192376220'
+    body: " I'm more then a average computer user as I have been building\r\nthem for almost 25 years. Over the years I have used about every virus scanner available and too many to mention all of them here. Norton & McAfee are bloated resource HOGS. They will slow your system down on boot and if your on dial up downloaded updates take forever. If you think Clam win is\r\nslow, count all your boot time and updates for just the two\r\nmain lines and you will find out you are way ahead. Disregarding  how long you wait for other programs to load\r\nbecause they have grabbed all your overhead available ram.\r\nHow many times have you also had to reboot because of a program lock up when trying to run it with Norton or McAfee\r\ninstalled. I pick on just them as they are the most likely to be purchased (DUE TO NET & COMMERCIAL ADVERTISEMENT HYPE) but other background scanners that run with your system result in the same truth! My opinion is AVOID THEM & THE\r\nHYPE! I use scan on demand for this very reason. I think\r\nall virus scanners should be this way. Now, don't get me\r\nwrong. They are GOOD products and work well for people who know NOTHING MUCH about computers. Reason being they don't have to worry about updating as its automatic and protection\r\nis automatic. You just pay for non-ability to do the updates and scanning yourself. I have tested Clam win against the\r\ntop 10 scanners and have found that Clam rates as high or high then they do. Encryption, Root Kit Virus and Trojans are the new wave. They are very hard to detect by ANY virus scanner. Due to the encryption methods and placement used.\r\n Something to remember however about Clam win even though\r\nit's a better then average scanner. It says it has Outlook\r\nintegration. This is ONLY for the Outlook that comes with\r\nMicro$oft Office. Outlook Express is NOT supported yet. I have written Clam to ask them why they decided to support\r\nOutlook and not Outlook Express which most Windows users are going to only have Express as a mail client. (Didn't Understand That One. That's Like Building A Car That Only\r\nPeople With Freckles Can Drive?) Anyway, best way to handle\r\nmail virus is to NOT POP (download) messages from your ISP\r\nor mail service. Go to the service and review your mail online. Don't download it to your computer when you have no idea whats in it. Thats like opening the door and invite\r\nsomeone in before finding out who they are and the intent.\r\nI've been using Clam win for years and it's proven to be a\r\nbrick wall. \r\n\r\n[...]\r\n\r\nThis is the way to turn your system back to it's original\r\noperation with no LAG and still have all the protection you\r\nyou would get with the HOG's! Hope this helps you recover\r\nthe pleasure of operation you deserve. Enjoy!\r\n\r\nAnonymous visitor @ Memphis Tennessee...\r\nAll The Best & God Bless!!\r\n\r\n\r\n   \r\n "
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Translation
+    hostname: 68.93.224.4
+    created: '1193070036'
+    body: "No one answered this, and maybe it's because they don't speak Spanish, or maybe it's because like me, they don't know the answer, but in case of the former, the question was:\r\n\r\n\"It's a good anti-virus [software], but I would like to get a package to convert it to Castillian.\" (which IIRC, just means the dialect of Spanish spoken in Spain or \"es_ES\" locale -- probably any Spanish would do, though).\r\n\r\nPresumeably, like most free software apps, it will have been internationalized with Gnu gettext? So there should be a source for a Castillian .po locale file somewhere?\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: ddd@gg.ff
+    subject: 'why??'
+    hostname: 61.6.54.11
+    created: '1194340384'
+    body: "Why Clamwin Cannot clean a virus??\r\n\r\navg 7.5 is free,avg can clean the virus. why clamin cannot clean viruses"
+-
+    name: 'Anonymous visitor'
+    mail: hh@sdd.kk
+    subject: congra
+    hostname: 61.6.54.11
+    created: '1194340755'
+    body: "clamwin found this virus\r\n\r\nExploit.MSWord.CVE_2006_6561-1\r\n\r\nbut CA etrust cannot find it"
+-
+    name: 'Anonymous visitor'
+    mail: dare2bwicked@hotmail.com
+    subject: 'slow computer'
+    hostname: 207.255.12.60
+    created: '1194983817'
+    body: 'i have an older computer and had it runnin like a tank with all the little tweeks ive learned...now i downloaded avast avtivirus and the computer is very veryyy veryyyyyyy slow....wondering if it would a smart choice to switch to this antivirus software since it has a small file size not taking up as much ram, but i dont want to loose my protection..'

@@ -1,0 +1,47 @@
+
+# File generation section
+listTemplate: _listTemplate.html
+listMainPageName: index
+listNumberPageName: page_{{number}}
+
+plugins: frontmatter,pager,markup-markdown,layout,surround,landing,lister,fsm,template-liquid,template-ejs,filecopy,surround
+
+smartCopy: [ .jpg, .jpeg, .JPG, .JPEG, .png, .PNG, .tgz ]
+
+# Variable to define grouping variables and placement of generated list files
+listVars:
+  tags:
+    indexFolder: tags/{{name}}
+    perPage: 20
+    sortBy: published
+  section:
+    indexFolder: sections/{{name}}
+    perPage: 20
+    sortBy: published
+  authors:
+    indexFolder: authors/{{name}}
+    perPage: 20
+    sortBy: published
+  license:
+    indexFolder: licenses/{{name}}
+    perPage: 20
+    sortBy: published
+  issue:
+    indexFolder: issues/{{name}}
+    perPage: 20
+    sortBy: published
+  book:
+    indexFolder: books/{{name}}
+    perPage: 20
+    sortBy: book_weight
+    sortReversed: true
+
+# The full list
+listAll:
+  indexFolder: all_articles
+  perPage: 20
+  sortBy: published
+
+ignore:
+  bower.json
+  

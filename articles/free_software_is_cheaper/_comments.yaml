@@ -1,0 +1,14 @@
+-
+    name: 'Steven Goodwin'
+    mail: ''
+    subject: 'Those scripts in full'
+    hostname: 80.169.42.186
+    created: '1200912527'
+    body: "I omitted to include or reference the scripts I used to control Sox. Since I've now been asked, I've uploaded them at http://www.thebeercrate.com/pub/join.sh.txt and http://www.thebeercrate.com/pub/catwav.sh.txt. They can be used thus:\r\n<pre>\r\n./join.sh stock/start.wav $EPISODE/qt1.wav $TMPDIR/q1.wav\r\n./join.sh stock/start.wav $EPISODE/qt2.wav $TMPDIR/q2.wav\r\n\r\n./catwav.sh $TMPDIR/q1.wav $TMPDIR/q2.wav $TMPDIR/t13.wav\r\n</pre>\r\n"
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'Slight thing you missed...'
+    hostname: 68.197.66.72
+    created: '1202839388'
+    body: "In the free software area, it's actually a slight cost for the server. Unless you serve it off of your own computer, which makes it slowish. Still, it's a LOT cheaper than either of the others, even with the extra cost.\r\n\r\n--\r\nAndrew Min\r\nhttp://andrewmin.com/"

@@ -1,0 +1,28 @@
+-
+    name: mattflaschen
+    mail: ''
+    subject: 'In a word, no.'
+    hostname: 128.61.81.101
+    created: '1232933018'
+    body: "You use the time-honored tradition of giving the strongest rebuttal argument, then simply ignoring it:\r\n\r\n\"the unit cost is negligible in contrast to the cost of bundling a flash drive.\"\r\n\r\nI can lend my best friend my Live USB, but I can give 10 strangers Live CDs without any expectation that they be returned (in fact, the hassle of going to get back the CD exceeds the cost of the media).\r\n\r\nThe vast majority of computers still have optical media.  You are making the mistake of noting a trend, and immediately exaggerating it /past/ its logical conclusion.  There will come a time when /many/ computers lack optical media, but I think there will always be enough to justify new and innovative LiveCDs, or LiveDVDs, or LiveBDs (you get the idea)."
+-
+    name: jasonjgw
+    mail: ''
+    subject: 'My recently purchased laptop'
+    hostname: 118.208.226.74
+    created: '1232968733'
+    body: "My recently purchased laptop has no optical drive, so the easiest way to boot\r\nit (other than from the hard disk) is to set up PXE to load Linux over the\r\nnetwork from another machine. Some live CD distributions support this\r\ndirectly. Optical media appear to be on the way out, at least for this\r\napplication, but the distributions themselves will live on as bootable flash\r\nstorage, as images that can be run on virtualized systems, and as images that\r\ncan be nfs mounted over the network during a network boot process, as in the\r\nabove example."
+-
+    name: malcarada
+    mail: ''
+    subject: 'Cds are dying'
+    hostname: 66.90.118.12
+    created: '1233363416'
+    body: "I think it is the end of live CDs, the middle road for live DVDs and the beggining of a Linux live Blu Ray.\r\n\r\nLive USB keys should still survive for a long time to come."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I still like CDs a lot'
+    hostname: 68.93.227.150
+    created: '1233674861'
+    body: "I like CDs a lot, and the main reason is reliability.\r\n\r\nI have so many problems with DVD incompatibility and/or unreliability, that I just don't trust DVD as a medium. I could speculate on why this is, but I don't really know. As an empirical fact, though, I have compatibility and/or reliability problems with DVDs _much_ more often than with CDs.\r\n\r\nThis is particularly prominent with recordable media, of course -- but for private data storage and even for small GNU/Linux distributions, this is the only kind that matters (because the runs are typically too small to make conventional DVD \"pressing\" cost-effective).\r\n\r\nEspecially when it comes to my own original data archives, I exclusively use CD-ROMs, because I have a high level of confidence that I will be able to read them back in five years! Even so, I usually make two copies of the important stuff.\r\n\r\nConsidering how cheap CDs are, and how much data they will hold, this is very cost-effective, and doesn't really consume that much space. \r\n\r\nI hope Blu-Ray turns out to be a better standard, but considering who's developed it (i.e. the same people who brought us DVDs), I don't have any confidence that it will be. I think part of the problem is that when the entertainment industry creates a data medium, they really want it to be read-only, and even then, only well enough to watch, for fear that easier access might make it easier to copy. This is antithetical to the needs of data archiving!\r\n"

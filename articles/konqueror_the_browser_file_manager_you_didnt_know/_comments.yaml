@@ -1,0 +1,49 @@
+-
+    name: ChrisM
+    mail: c_martini@hotmail.com
+    subject: 'Konqueror - doing it all from KDE''s crown jewel...'
+    hostname: 194.200.93.188
+    created: '1191599586'
+    body: 'Very good and useful article. Quite a few features in Konqueror I was previously unaware of. With all this functionality, I wonder why Kubuntu 7.10 Gutsy will do away with Konqueror as the default file manager and replace it with Dophin...'
+-
+    name: 'Anonymous visitor'
+    mail: vignesh1986@gmail.com
+    subject: 'what distro are you using ?'
+    hostname: 203.91.207.30
+    created: '1193214354'
+    body: 'what distro are you using ? '
+-
+    name: 'Anonymous visitor'
+    mail: ac@ac.com
+    subject: 'Chain link button'
+    hostname: 85.228.96.186
+    created: '1196293733'
+    body: "<cite>if you want the duplicate split screen to follow the navigation of the original, just click on the small, empty square at the bottom of the browser. A small chain-link symbol will appear. I must admit, I can’t think of a use for this feature though. Can you?</cite>\r\n\r\nYes I can! I believe this trick is described in the KDE documentation somewhere, don't remember where though.\r\n\r\nSometimes when browsing the you stumble upon an auto-indexed directory of pictures, like for example:\r\n\r\nhttp://www.debianadmin.com/images/etchkde/\r\n\r\nIn these situations you can turn Konqueror into a simple image browser like this:\r\n1. Split the view left/right\r\n2. Chain-link both views\r\n3. Activate the left view and then choose the \"View -> Lock to Current Location\" menu item.\r\n\r\nNow, when you click on a file in the left view it will show up in the right view, with the left view intact.\r\n"
+-
+    name: lefty.crupps
+    mail: mnlinux@gmail.com
+    subject: 'Restore Konqueror link is wrong-ish'
+    hostname: 75.168.93.229
+    created: '1196310452'
+    body: "Just followed your link from above:\r\n.  >Incidentally, I have noted that Konqueror can vary in the profiles menu from distro to distro.\r\n.  >If you are using Ubuntu you will find some of the features missing. You can restore them—just\r\n.  >point your browser here.\r\n\r\nbut the initial fix it gives is wrong for Kubuntu 7.10 Gutsy:\r\n.  eljefe@eljefe-desktop:~$ cp /usr/share/apps/konqueror/konqueror-orig.rc  ~/.kde/share/apps/konqueror/konqueror.rc\r\n.  cp: cannot stat `/usr/share/apps/konqueror/konqueror-orig.rc': No such file or directory\r\nThe command should read:\r\n.  eljefe@eljefe-desktop:~$ cp /usr/share/apps/konqueror/konqueror.rc  ~/.kde/share/apps/konqueror/konqueror.rc\r\n\r\nRegardless, this still leaves me with a very crippled Konqueror compared to my office computer, where I run with Debian.  Always makes me sad to see Kubuntu falling behind in resources and development... and then to add this insult?\r\n\r\nThanks for the rest of the read!"
+-
+    name: 'alex dmitriev'
+    mail: benzopilka@mailru
+    subject: 'Konqueror'' version'
+    hostname: 217.118.66.9
+    created: '1196623691'
+    body: "Gary, I'm translating your beautiful article into Russian.\r\nWhile translating, I try all your hints&tricks myself, but sometimes my version of Konqueror (3.5.5) has different settings and tweaks. Tell me please, what version do you discribe in your article?"
+-
+    name: zyga
+    mail: zyghom@yahoo.co.uk
+    subject: 'all pictures are gone !'
+    hostname: 77.122.60.242
+    created: '1197216351'
+    body: 'just gone !'
+-
+    name: admin
+    mail: ''
+    subject: 'Thanks for pointing it out...'
+    hostname: 124.169.206.72
+    created: '1197220353'
+    body: "Hi,\r\n\r\nWe are restructuring the site right now.\r\nThese problems are bound to happen...\r\n\r\nThank you for pointing the problem out! It's resolved now.\r\n\r\nBye,\r\n\r\nMerc."

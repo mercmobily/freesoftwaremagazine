@@ -1,0 +1,105 @@
+-
+    name: balleyne
+    mail: ''
+    subject: 'The third category'
+    hostname: 72.140.52.252
+    created: '1206772081'
+    body: "I agree that the third category of users is important. But I'm not sure if \"community\" is the right word. I mean, maybe.. but.. if they don't even understand that they're using free software? If they're not interacting socially at all with any other members of the free software community? Is that really being a part of the community?\r\n\r\nI think they're an important demographic. Just not sure if community is the right word or not."
+-
+    name: 'Michael Fötsch'
+    mail: ''
+    subject: 'The video can''t be played using free software'
+    hostname: 212.183.66.124
+    created: '1206800925'
+    body: "Unfortunately, I can't watch this video, because it uses Flash, which is not free software and which I don't use.\r\n\r\nI tried with Gnash, but Gnash is still in beta and it can't play the video either.\r\n\r\nIs there a chance you can post an Ogg version, so that free software supporters can hear what their community is all about? ;-)\r\n\r\nKind Regards,\r\nM.F.\r\n"
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'This is a good point...'
+    hostname: 124.169.151.114
+    created: '1206809700'
+    body: "Hi,\r\n\r\nThis is a good point. However:\r\n\r\n* The file would be far too big for us to host it. It's about 50Mb. That's 50Mb for each person wanting to see it. See: it's WAY too big\r\n\r\n* I honestly thought that Gnash played youtube videos by now. In fact, I remember reading about it. I was obviously wrong...\r\n\r\n* The videos will get submitted to several social networking sites. Youtube is only one of them. That doesn't necessarily need to be the case\r\n\r\n* The easiest thing would be for somebody to download it from youtube, and add a link to an ogg file somewhere online. However, I feel I have to warn whoever wants to do it that we are talking of a lot of megs.\r\n\r\nAny ideas, and _practical_ advice, are most welcome!\r\n\r\nMerc."
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'Good point!'
+    hostname: 124.169.151.114
+    created: '1206810000'
+    body: "Hi,\r\n\r\nThis is very true. You really have a point there.\r\nBut, how do you define the line? A user who doesn't care about \"the community\" but wants help and joins the Ubuntu forum... does s/he become part of the community then?\r\n\r\nMerc."
+-
+    name: balleyne
+    mail: ''
+    subject: 'Different communities'
+    hostname: 72.140.52.252
+    created: '1206851488'
+    body: "<cite>But, how do you define the line? A user who doesn't care about \"the community\" but wants help and joins the Ubuntu forum... does s/he become part of the community then?</cite>\r\n\r\n<dl><dt>Community<dd>A body of people having common rights, privileges, or interests, or living in the same place under the same laws and regulations [1913 Webster]</dd></dl>\r\n\r\nI would say that user is part of the Ubuntu community, but not necessarily part of the free software community.I guess, it would depend on the user. If someone were to participate in the Ubuntu community and adhere to the goals values and beliefs, then they're a part of the wider community. But if they only use Ubuntu insofar as it's free as in price, don't share the common values and beliefs of the wider community, then I would say they're not participating in the broader community.\r\n\r\nIt brings up an interesting point though. The Ubuntu community could be considered a community within a community, generally speaking, but not all of its members are necessarily part of the wider community. One can participate in or use Ubuntu without belonging to the broader community (e.g. the MPAA's Xubuntu \"University Toolkit\").\r\n\r\nI mean, I guess the user who just wants his/her community to work and doesn't know much better can still be a member of the community under the definition above. But... is the MPAA? Not all users are community members. *shrugs*\r\n\r\n"
+-
+    name: 'Michael Reed'
+    mail: ''
+    subject: 'The video'
+    hostname: 84.69.170.115
+    created: '1206900144'
+    body: "The content of the video is good and brings up some interesting points. I hope to see some more content of this type in the future.\r\n\r\nFor people who can't view the video: I  used a Firefox plugin called \"UnPlug\" on my Kubuntu box. Using this, I was able to download the video and then play it back, offline, in Kaffiene (the KDE media player). It downloaded with a html extension but dropping it onto Kaffiene worked. \r\n\r\nIf I may add a couple of points of constructive criticism:\r\n\r\nThe sound quality is poor. Your brain determined what the acoustic environment was and processed the audio compensate. Unfortunately, we can't do this from our end. If I was doing something like this (and I might have a go in the future), I'd choose a dead sounding room.\r\n\r\nThe second point I'd make (and you've probably spotted this yourself on playback) is that you seem to have got into the habit of saying \"y'know\" a bit too much.\r\n\r\nKeep up the good work and I look forward to seeing the next one.\r\n\r\nhttp://www.unmusic.co.uk/ - music, writing and other geekdom."
+-
+    name: Balzac
+    mail: ''
+    subject: 'Tony, it''s a bit difficult to hear.'
+    hostname: 208.120.233.249
+    created: '1206910195'
+    body: "The audio compression, the reverberation and the Australian accent made it rather difficult to understand. \r\n\r\nI'll try it again later when I'm not near a television.\r\n\r\n\r\n\r\n "
+-
+    name: Balzac
+    mail: ''
+    subject: 'Youtube and Flash and rationalizations...'
+    hostname: 208.120.233.249
+    created: '1206928271'
+    body: "I don't want to sound judgmental or preachy, but a few things caught my attention and made me think. \r\n\r\nI found it interesting how you underscored the word \"practical\".\r\n\r\nThe emphasis on practicality and the use of the underscore for emphasis reminds me of Linus Torvalds' priority on practicality, efficiency and his punctuation style. \r\n\r\nA few things occurred to me about your reference to practicality in the context of software freedom - Isn't what is practical or unpractical subject to what your priorities are?\r\n\r\nThere is the mundane practicality of a man who seeks immediate results and then there is profound practicality of a man who values something like freedom. One big difference between the two is the length of the attention span.\r\n\r\nThe practical advice of RMS might be to settle for less convenience than Flash(TM) offers. \r\n\r\nThe primary difference between the free software community and the \"open source\" community is that freedom is the highest value of the free software community. \r\n\r\nSomething else is the highest value for the \"open source\" community. Is it great software? Convenience? Practicality? Money? I'm not really sure what the priority is, but it is explicitly not freedom.\r\n\r\nThere are \"open source\" developers who contribute to the free software community while they harbor reservations and an expressed critical attitude about the priorities of the free software community. Linus Torvalds is an example of such a developer. \r\n\r\nAs far as I can tell, the criteria for defining who is a part of the free software community is the explicit priority to preserve freedom for software users and developers.\r\n\r\nIf preserving these freedoms is not your priority, you aren't truly a member of the free software community. However, you may simultaneously be a contributor and a detractor to the goals of the free software community while not being a member.\r\n\r\nI'm offering these opinions from the standpoint of someone who is in no position to judge others. Am I truly member of the free software community? Perhaps I haven't yet earned that distinction. I still have IE running on Wine so I can test my websites. I suppose I'm still being \"practical\" in the same sense you are because I'm making  compromises for the sake of convenience. "
+-
+    name: admin
+    mail: ''
+    subject: 'Australian...? Not quite...'
+    hostname: 124.169.151.114
+    created: '1206929431'
+    body: "Hi,\r\n\r\nOh no.\r\nI was born in Italy, lived in England, and moved to Australia as a teen ager (just about).\r\nI also have a _huge_ speech impediment (well, several) which make my speaker's life immensely hard. Yes, it was a lot of work setting this up, especially for me :-D\r\n\r\nAnyway, if FSMTV is successful (I am preparing another segment right now), the general quality will improve (more practice, plus better equipment).\r\n\r\nBye!\r\n\r\nMerc."
+-
+    name: Balzac
+    mail: ''
+    subject: 'I really had no right to bring up the accent anyway.'
+    hostname: 208.120.233.249
+    created: '1206931094'
+    body: "Once I took issue with the accent and an English guy who told me it's Americans who have the accent. English people speak the \"King's English\". \r\n\r\nIn another case, I met a guy I assumed was Australian, but he told me the Australian accent sounds a lot like people from Sussex where he was from. \r\n\r\nI think FSMTV will be a success because FSM is already a success. "
+-
+    name: admin
+    mail: ''
+    subject: AAAAAAHHHH!!
+    hostname: 124.169.151.114
+    created: '1206936160'
+    body: "Hi,\r\n\r\n\"the Australian accent sounds a lot like people from Sussex where he was from.\"\r\n\r\nThis guy really, really needs to get in the same room with an Australian and a person from Sussex. There might be a few things maybe in common \"sort of\", but...\r\n\r\nReally.\r\n\r\n:-D\r\n\r\nMerc."
+-
+    name: admin
+    mail: ''
+    subject: 'Thanks! y''know...'
+    hostname: 124.169.151.114
+    created: '1206951270'
+    body: "Hi,\r\n\r\nThanks Michael!\r\nI love receiving criticism... seriously. I was _amazed_ by how hard it was to create a video.\r\n\r\nThe main problem is the microphone. I can't plug in an external mike (I only realised this later... ugh); so we are stuck with this sound for a little while. But, things will improve.\r\n\r\nAnd y'know, it's good to be told y'know that you have y'know habits you wouldn't even know about :-D I will watch out.\r\n\r\nThe next clip is already filmed, and it's better than the first one. Hopefully, they will get better and better!\r\n\r\nMerc."
+-
+    name: drascus321
+    mail: ''
+    subject: 'good point'
+    hostname: 72.70.16.133
+    created: '1207567595'
+    body: "I thought a long time on your comments you made here trying to find something to refute your points. I am generally someone who thinks that people need to understand the “why” behind what they do. So someone that uses free software should understand that the point in do doing so is for freedom. Stallman has said that if no one was told about freedom that in ten years we probably wouldn’t have it anymore. I tend to agree with that sentiment.\r\n\r\nHowever all that being considered you are right that they are still part of the community. They still need to be treated and respected the same amount as the advocates are. Of course later on down the line they may learn about freedom from bumping into an advocate and that is a very good thing.\r\n\r\nI guess I just wish that more people would learn about the Freedoms up front when they started using Gnu/Linux. That is why I always try to give out advocacy materials when I do an install for someone or talk to someone about it. In the end I just hope that more users will mean more people fighting for freedom. More people against Software Patents. More people to resist DRM"
+-
+    name: Bizurke
+    mail: ''
+    subject: 'People on the train'
+    hostname: 75.167.219.228
+    created: '1207721365'
+    body: "I have had similar experiences in my work life. Working for a company that employs Slackware and mostly open source apps for all of it's computers and having almost no one know that it was something different. After multiple times trying to explain free/open/GPL etc software to them I eventually gave up and just learned to be happy that they are using it. As time passes I see more and more people using Linux that are unaware of the  \"community\" and with Ubuntu's recent explosion this is happening at a much greater rate. As a long time free software user It just makes me happy to see these applications being used in so many ways with the end user oblivious to the fact that there is a movement hidden beneath what they are using. It is to me a testament of the future of free software. \r\n\r\nI like your 3 box idea, but am wondering what happens to those boxes as people start to progress in to one of the other boxes and hold down the middle ground for a time until they have made the transition. I myself have been using free software for years, and have been 100% Linux in home and work for almost 5 years but am just now making a very slow transition in to development. \r\n\r\nAlso I am wondering if developers at times don't like the people who are smart enough to develop/help in the process but just slack about and stay end users? I sensed some emotion in your voice when you mentioned the people in Box 2. "
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'The problem with the "ideology-first" approach'
+    hostname: 68.93.224.4
+    created: '1207751319'
+    body: "The problem with the \"ideology first\" approach is that it immediately alienates your audience, because you are starting from a position of trying to replace a \"working reality\" (the proprietary software marketplace) with an \"implausible fantasy\".\r\n\r\nYou have to first convince them that there really _is_ an alternative, before you can start selling them on the merits of that alternative (ideological or otherwise). The conventional wisdom is that free software is [impossible](http://www.freesoftwaremagazine.com/books/making_the_impossible_happen_the_rules_of_free_culture ) or that it is a \"fluke\" (a secondary effect which is parasitic to the commercial proprietary marketplace, sort of like the pirated movie industry or fan subs, which can only exist because of a much-larger commercial industry (and which are therefore detrimental to society and thus _unethical_ to support).\r\n\r\nYou're starting from an unproven (at least from the PoV of your audience) premise that free software _can_ exist independently of proprietary software. You can't win from there.\r\n\r\nYou first have to get over the plausibility barrier. _THEN_, when you've proven that free software actually is a viable self-supporting marketplace, can you tackle the question of whether it is a better (or worse) choice for society than is proprietary software.\r\n\r\nOtherwise, it's not unlike arguing for \"free housing\" or \"socialized medicine\" or any other \"entitlement\" -- it's a fine idea, if it can be supported, but who's going to pay for it? In other words, you're getting into a political battle you probably aren't equipped to win, and you've caused a potential ally to view you as \"the enemy\".\r\n\r\nThat's a major strategic mistake if you're trying to advocate for free software.\r\n\r\nThe \"pragmatics first\" approach is much more sane, because it shows people the direct personal advantages that free software gives them. Then, after they _know_ that it works, they're going to be the ones asking \"Why can't I use this for everything? Why does proprietary software even exist?\" _Then_ you've got them.\r\n\r\n"

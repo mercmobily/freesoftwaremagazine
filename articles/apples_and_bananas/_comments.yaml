@@ -1,0 +1,35 @@
+-
+    name: ''
+    mail: ''
+    subject: 'On the subject of too many flavors'
+    hostname: 71.85.241.27
+    created: '1163431889'
+    body: "I own several franchised fast food restaurants.  One of the things I have learned, and our franchisor preaches to us, is to avoid the problem of having too much variety.  Too much causes confusion for the consumer.  Imagine walking into your favorite place and looking at the menu.  Some are a bewildering area of choices.  It makes you just skip past all that and order the same thing you always did.  If you had never been there before, you may not order anything and leave because you can't figure out the differences or don't want to take the time.  There is no familiarity or comfort area.\r\n\r\nThe same can happen with Linux.  I am only now trying this OS but spent too much time trying to figure out which distribution I want to start with.  When I tried looking into the *BSD OS, the choices were much easier since there are only three.  \r\n\r\nSo you can narrow OS choices down to Windows, Linux, *BSD, Unix.  Unix is expensive, *BSD is not known for the desktop, Linux is splintered and Windows is a singular concept.  \r\n\r\nWhen it boils down to the bare minimum, though.  Linux is still Linux and a singular concept.  What Linux should try, perhaps, is advertise Linux first, then clearly show the different flavors.  Sell the ice cream first, then show the flavors."
+-
+    name: ''
+    mail: ''
+    subject: 'Packaged Fast Software'
+    hostname: 58.166.151.186
+    created: '1163505505'
+    body: "I'm glad that when I go to buy a car I have multiple choices, and have the same now when looking for a new computer system. The fast software Big Gates shops all have the same packages, although even these have several dozen flavours, but when I visit my frienly Linux retailer, I can get one custom built for less than a Big Gates.\r\n\r\nLike the article says, unless you are addicted to the palm sugar in the Gates package, you can get a diet to fit your real needs."
+-
+    name: ''
+    mail: ''
+    subject: 'Using Windows under Linux'
+    hostname: 201.238.102.119
+    created: '1163513048'
+    body: "At my current workplace, we have 20 users who run Windows on thin clients. The thin clients don't actually run Windows. They run Linux. They boot Linux off a server first. When the Linux boots, it runs 'rdesktop', a free remote desktop client. Rdesktop then connects to a Windows 2000 Server running Terminal Server. The Windows 2000 server is actually a virtual machine, running under the free VMWare server, on top of Slackware Linux.\r\n\r\nTo the end user, all this is invisible. They see only Windows. To the system administrator, his job is easier because he has only the Windows 2000 server to worry about. Any changes/updates are instantly available to all 20 users. Less downtime, less hassle for everyone.\r\n\r\nTo the finance director, my boss, the beauty is the lower overall cost. Some of the thin clients are, in fact, old PCs. So we saved on the cost of buying new PCs. The others are from Diskless Workstations (http://www.disklessworkstations.com). No hardware issues, no compatibility issues.\r\n\r\nBecause the Windows 2000 server is running on a dual Xeon server with 12GB RAM, the end user feels greater performance than s/he would using the old recycled PC.\r\nEverybody wins.\r\n\r\nI can't imagine a charity not being interested in a win/win scenario like this. If I were the chairman of the board of that charity, the IT manager would be out of a job.\r\n\r\nSeth Brown"
+-
+    name: ''
+    mail: ''
+    subject: 'Re: Should I simply go outside and step under a bus?'
+    hostname: 213.146.159.254
+    created: '1163513459'
+    body: 'There are days, especially where the world is going, where the life of the sanyasi seems positively attractive, others when you feel the need to get stuck in and do something good. '
+-
+    name: ''
+    mail: ''
+    subject: '*BSD is not known for the desktop?'
+    hostname: 213.86.197.188
+    created: '1164134628'
+    body: "Is the polarised argument Linux vs Windows?  Or is it Unix vs Windows?\r\nIf it is Unix vs Windows then the clear winner is Mac OS X.\r\nIt has that comfortable homogeneous UI that's easily supportable and all those lovely Unix underpinnings for geeks to play with.\r\nIt comes with GCC 4.0 and X11 and all API documentation on the install DVD (yup you can code to the metal out of the box).\r\nIt comes free with that sweet looking (subjective) Apple hardware (which will also run Windows and Linux if you really want to)\r\nUpdates are managed automatically.\r\nInstalling new software is simplicity itself.\r\nYou don't have to be a geek to use it.\r\nAll your existing source will likely work with ./configure; make; sudo make install (if you have installed any extra libraries required with fink/darwinports).\r\n\r\nI love unix as a server OS (running several hundred RedHat boxes) and I love unix as a desktop OS (running an iMac 20\" and a MacBook Pro).  I used to work hard to make laptops work with Linux and use all their features, but I grew tired of having to do it with every new laptop I bought.  I'd just about get it configured by the time it was obsolete and I wanted a new one.\r\n\r\nI could support my mum running the mac of her choice and assorted software over the phone.  I'm not certain that she'd follow my attempts to support her running Linux even if I could intuit which window manager, desktop manager, choice of buttons/taskbar she'd decided to run (and know the default hotkey combinations)... and she's not ready for the CLI.  I had enough problems with Windows when I found she'd dragged the taskbar to dock on the left hand side of the screen over the phone.\r\n\r\nNot everyone is a computer geek.  Or wants to be.  Those of us who are.. really appreciate OS X: its real beauty lies under the hood (although the bodywork is pretty slick too!)\r\n\r\n\r\nFaye Pearson"

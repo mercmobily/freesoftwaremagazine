@@ -1,0 +1,49 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Bittorrent has been covered many many times.'
+    hostname: 62.252.0.10
+    created: '1157307682'
+    body: 'A more interesting article would be download efficiency comparison between bittorrent and dijjer.'
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'Steal This Film!'
+    hostname: 83.78.131.193
+    created: '1157314012'
+    body: "If you want to to download an other movie (legally) via BitTorrent, I would recommend you one called 'Steal This Film'. It's about the movement against intellectual property.\r\n\r\n- <a href=\"http://www.stealthisfilm.com/\">Official site</a> (a bit messy)\r\n\r\n- or get it directly from The Pirate Bay, the worlds largest BitTorrent tracker:\r\n<a href=\"http://thepiratebay.org/user/stealthisfilm\">Download at The Pirate Bay</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'The Download Mesh: Decentral BitTorrent in Gnutella'
+    hostname: 87.165.129.248
+    created: '1157332118'
+    body: "Hi, \r\n\r\nI just read your article and found it quite interesting. But I also thought: \"Why do so many people cherish BitTorrent while not seeing the potential of filesharing networks like Gnutella for their Websites?\" \r\n\r\nBut since I don't want to write a full article just now, theres one specific thing I want to talk about: The part of Gnutella which works just like BitTorrent, just decentralized and without fair-use practics. \r\n\r\nThat part is called the \"Download Mesh\", and it works quite simply: \r\nIf you ask a client for a file, it also tells you up to 10 (in some cases some more) other sources, and it tells you which sources are \"bad\" sources. \r\nIf 3 other clients tell a client that a source is bad and noone else reports it as good, it is discarded, which means no download is attempted from that url. \r\n\r\nDoing fair use is naturally much harder in a decentral system, where you have no central authority, so it isn't yet done. \r\n\r\nBut now you might ask yourself: What does using Gnutella get me, that BitTorrent doesn't? \r\n\r\nThe answer is: Users can search the Gnutella Network, and they can find your website by finding your files, so you can get publicity through the content you deliver. \r\n\r\nThere's also a pendant to torrent files: magnet links (one client, http://phex.org , also integrated magma-files, which are lists of magnets). \r\n\r\nFormerly those magnet-links where quite ineffective, since those who clicked on them then had to search the network to find a source (or several) from which to download (and through which to enter the download-mesh of that file). \r\nBut this has changed through services like http://www.freebase.be/ , which may be in their early stages, but offer much potential. \r\nTo make a magnet more reliable, a webmaster can now simply add the freebase cache to the magnet, which then records the IP of the requesters and supplies the last 10 other requesters, which get the user into the download mesh of that file (more Infos: http://www.freebase.be/g2cache.php ). \r\n\r\nAlso this script keeps statistics, which (in my opinion) where a central key to BitTorrents popularity. That way the webmaster can see how often a file is being downloaded, even though it is being downloaded decentrally. \r\n\r\nAs another plus, magnets allow the webmaster to include a http-url. So delivering a file via p2p-networks which is already being distributed via standard http is dead simple. Just create a magnet, add the http-source and the freebase cache and put it on your wesite alongside the http-url. \r\n\r\nI'll stop here, since I intended to write only a short summary, but if you did take interest in Gnutella, the Download-Mesh, Magnets and Magma for Websites, you might want to check http://gnufu.net , a guide to Gnutella with information about Magnets and Magma-Lists, all written in userfriendly style, avoiding code diving while using technically correct analogies, which make the guide readily understandeable. And mostly using shorter sentences than the last one ;) \r\nAnd you'll also find on gnufu.net some more info on how to create magnet-links. \r\n\r\nBest wishes, \r\nArne Babenhauserheide ( http://drakto.de )\r\nPS: Yes, I did write that guide, but heck, I think I managed to do it right :) "
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: Anecdotally
+    hostname: 66.41.2.157
+    created: '1157346718'
+    body: "I got in to BitTorrent when looking for shows that didn't get TiVo'ed for whatever reason, whether a power-outage or schedule change.  So this would be a \"bad\" use.  I was wrongfully taking intellectual property.  Horrors.  It took a little hunting and the downloads were fairly slow, but it worked.  I didn't miss out on my shows.  (Ok, I don't mean to be flippant about the legality of it.  But come on, they broadcast these shows for free, and with TiVo I wasn't going to watch their commercials anyway.  And now that they offer some shows through legit channels online, like \"Lost,\" I'd probably pay the $2 or watch it with commercials in the rare case when I miss a show.  Besides being officially sanctioned, it would be easier than digging around for BitTorrents.)\r\n\r\nI tried it for one of Bob Cringely's NerdTV segments but there wasn't nearly enough critical mass to get any Bit Love.\r\n\r\nI understood the principle of BT and thought it was a great idea, but it wasn't until I downloaded the Fedora 5 distribution that I finally experienced the joy.  It was so cool to be able to get all 5 CDs in just a few hours.\r\n\r\nSo the entertainment industry might look at me and say, you filthy pirate, you stole our content.  This is why we shouldn't have programs like this.\r\n\r\nBut the distro download illustrates perfectly legitimate uses.  And it is a good example of why the RIAA and MPAA and so on shouldn't be dictating the technology we use.  They would squash this wonderful mechanism for distributing files.\r\n\r\nI suppose I might be hurting the cause by mentioning the TV show thing.  I've been mulling over if we should try to strictly follow the rules as they exist today or if we should engage in some civil disobedience.\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: ''
+    mail: ''
+    subject: metalink
+    hostname: 66.176.118.121
+    created: '1159453376'
+    body: "You should check out metalink (http://www.metalinker.org/), it uses bittorrent and mirrors.\r\n\r\n'Metalink makes complex download pages obsolete by replacing long lists of download mirrors and BitTorrent trackers with a single .metalink file. As you might have already guessed, a .metalink file is a file that tells a download manager all the different ways it can download a file. The file itself takes the form of an open XML standard that can list an unlimited number of HTTP and FTP sources as well as BitTorrent trackers and ed2k and magnet links.'\r\nhttp://www.downloadsquad.com/2006/08/28/metalinks-integrated-bittorrent-http-and-ftp-downloads/\r\n"
+-
+    name: jonnyb13
+    mail: ''
+    subject: 'I have been a user of'
+    hostname: 61.247.241.218
+    created: '1163571534'
+    body: 'I have been a user of BitTorrent since last year. It is indeed a very practical program to have. IN fact, I have been addicted to it for some months. I''m clean of it now though. But I still use it from time to time. Anyway, I never really did understand how this worked, just marvelled at it from afar. BUt now I do, thank to you!'
+-
+    name: ''
+    mail: ''
+    subject: 'bit torrent'
+    hostname: 81.132.216.142
+    created: '1171215175'
+    body: "i have downloaded this software,i am struggling with it when i try downloading it will take all week to download a movie somthing is wrong sumwere,my max downloading speed 8mb\r\n"

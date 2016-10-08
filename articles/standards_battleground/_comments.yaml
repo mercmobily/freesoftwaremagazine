@@ -1,0 +1,21 @@
+-
+    name: baronsamedi
+    mail: ''
+    subject: 'We shall never surrender.'
+    hostname: 213.124.1.224
+    created: '1145526843'
+    body: "\"I believe we can learn from history. I believe historically, free, unencumbered standards win out over proprietary specifications in almost all cases. I believe it is all but inevitable.\"\r\n\r\nAnd that is one of the very reasons we never surrender. :)\r\n"
+-
+    name: collin66
+    mail: ''
+    subject: 'Nit: MPE used ASCII, not EBCDIC'
+    hostname: 198.95.226.224
+    created: '1145644696'
+    body: "I worked on MPE while at HP, and I can assure you that MPE used and still uses ASCII.  It did have the capability to understand EBCDIC (I believe that the FCOPY utility had an option to translate between ASCII and EBCDIC) but the normal character set was most definitely ASCII.\r\n\r\nTake it from someone who coded things like\r\n<CODE> &nbsp; &nbsp; SCAN (something) UNTIL %6412</CODE>\r\nor\r\n<CODE> &nbsp; &nbsp; SCAN (something) WHILE %6440</CODE>\r\nmany many times -- it really was ASCII."
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'You are correct'
+    hostname: 24.131.247.230
+    created: '1145712382'
+    body: "You are correct, and I was incorrect.\r\n\r\nMPE is strictly ASCII, with quite exhaustive (and exhausting, from the look of it) support for EBCDIC <-> ASCII conversion.\r\n\r\nThanks for bringing that to my attention."

@@ -1,0 +1,28 @@
+-
+    name: bugstomper
+    mail: ''
+    subject: 'GPLv3 and ASL compatibility'
+    hostname: 202.37.140.182
+    created: '1218243710'
+    body: ">please correct me if I am wrong but it seems that the problems arise\r\n>because the Apache licence is not viral and does not support Copyleft\r\n> [...] This means that programs written under the GPL could not link\r\n>to other programs whose libraries were GPL-incompatible.\r\n\r\nSorry, but you are wrong here. GPL code can be combined with any code whose license does not add more restrictions to the GPL code. There is no problem linking GPL code with completely unencumbered code, you would just have to follow all of the provisions of the GPL in the combined result. For example, if I take your GPL code and link it with someone else's ASL code, in order to distribute the combination I would have to make all the source code available and allow people to modify it, just the same as if all the code were licensed under GPL. The ASL does not prevent that, so in that respect it is compatible.\r\n\r\nThe incompatibility with GPLv2 came from a provision of the ASL that provides for protection against a patent attack. If I release code under the ASL I can say that if someone sues me for patent infringement in that code they lose the right to use that code. GPLv2 does not allow for that restriction, which means that ASL would add more restrictions to code it is linked with. GPLv3 deals with that by allowing certain restrictions having to do with patent retaliation.\r\n\r\nA good discussion of the details by FSF Europe is at [Patents and GPLv3](http://fsfeurope.org/projects/gplv3/patents-and-gplv3)\r\n"
+-
+    name: spartan2276
+    mail: ''
+    subject: 'why do we bother with Free Software?'
+    hostname: 76.18.44.22
+    created: '1218325892'
+    body: "OK tell me again one more time why do we bother with Free Software if we are going to let Microsoft destroy it, we might as well just quit now since we have all these foundations such as Apache allowing Microsoft to get in there and destroy them from the inside out. Wait and see it will happen, it is currently happening with Novell. \r\n\r\nSo again why bother with all of it if the community has no backbone, they go and port all of the best software to Windows hoping to change users minds, please if they did not get it back when all this started they won't get it now, because they don't care. What really sucks about all of this is that the LAMP STACK will come to extinction very shortly and there is really nothing anyone can do about it now, call it FUD call it what ever you like unless those folks at the Apache foundation GROW a pair and make sure they stop Microsoft in their tracks KISS it GOOD BYE BABY! The statements made by Steve Ballmer about FOSS being a cancer should be a clear enough message it was for me."
+-
+    name: iphigenie
+    mail: ''
+    subject: 'The apache foundation is more than the apache server'
+    hostname: 77.97.146.215
+    created: '1225230978'
+    body: "I might be naive but I think it is much simpler than that. Microsoft is genuinely interested in projects by the Apache foundation that are *not* the apache web server, and it is not some weird plan to undermine licenses, it is a genuine interest to get these projects realised.\r\n\r\nIf you look around, the Apache foundations lists about 40 projects. Several of these projects are entreprise level implementations, like lucene, hadoop, synapse etc. Several those have sub projects which are to create a branch of them which is on the .Net platform (most are java originally). Of course it is in MS' interest to support this widening of the Apache foundation projects to .Net.\r\n\r\nAs I said I could be naive but MS must realise by now that FOSS will not go away, that it might get stronger in tough economic times, and that if there is no open source on their platform they will suffer, especially in the Entreprise level Open Source world."
+-
+    name: 'Olle Gladso'
+    mail: ''
+    subject: 'I agree.'
+    hostname: 24.177.111.68
+    created: '1281055618'
+    body: 'I think the prized FOSS software we have should be kept away from Windows and other proprietary OS''es. It galls me when I see people using GIMP on windows and having no idea what FOSS is all about. '

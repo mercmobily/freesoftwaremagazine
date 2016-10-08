@@ -1,0 +1,28 @@
+-
+    name: 'Johannes Hutabarat'
+    mail: ''
+    subject: '"it takes two to tango"'
+    hostname: 202.146.241.9
+    created: '1162917951'
+    body: "Yes, I can agree with the argument of this newly struck deal being Microsoft's marketing gyrate.  But as they say, \"It takes two to tango\", it would've been more enlightening had you outlined your take on Novell's motives.\r\n\r\nMy simple speculation: Novell is a thoroughly true business entity and in need of cash infusion."
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: Speculation
+    hostname: 67.104.156.234
+    created: '1162934146'
+    body: "I've been wondering what Novell really gets out of this. As it is, they get immediate publicity, and the market clout of Microsoft's blessing. The cash infusion will help, certainly, but cash evaporates. Only continued sales matter; the cash is only good if they have a plan.\r\n\r\nI think it is Microsoft's blessing that really matters here, even though it is useless in the end. I think they believe decision makers who seriously consider GNU/Linux will tend to opt for the one that has Microsoft's backing.\r\n\r\nTruly, though, there is no such thing as patent protection. Novell is <em>still</em> open to patent litigation, the same as everyone else. Microsoft is hardly the only company in the world with software patents. So this \"covenant\" doesn't make Suse any safer, unless Microsoft plans on following through on their threat to litigate.\r\n\r\nThey won't do that until the EU allows software patents. Can you imagine the fuss raised if Microsoft demonstrates why software patents are a <em>bad</em> idea?\r\n\r\nSo, I think Novell gets only two things out of this: a quick cash infusion (as you noted), and the notoriety the deal brings them. Looking at their stock, they saw an immediate increase after the announcement, but then suffered a quick decline. So, it looks like traders aren't biting, either. At least, not yet.\r\n\r\nI think Novell was taking a gamble that this would hurt Red Hat, and help them. I think they suffered the SCO Effect: they got greedy and hoped to control something that, by design, <em>actively resists</em> being controlled.\r\n\r\nI think Novell's goals are rather transparent. They want to Robin to Microsoft's Batman. Or, more aptly, Darth Vader to Microsoft's Emperor Palpatine."
+-
+    name: ''
+    mail: ''
+    subject: 'What?'
+    hostname: 67.189.37.41
+    created: '1163319882'
+    body: 'The article fails to mention how partnering with Novell increases their patent threats against Linux. If someone else can see what I, and probably others, can''t, please explain.'
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'Patent threats'
+    hostname: 76.188.155.238
+    created: '1163352229'
+    body: "The point isn't the patent threats. The point is the appearance of patent threats.\r\n\r\nBefore the ink was dry on the agreement, Steve Ballmer said, as I quoted in the article, \"If a customer says, 'Look, do we have liability for the use of your patented work?' Essentially, If you're using non-Suse Linux, then I'd say the answer is yes.\"\r\n\r\nMicrosoft has learned from SCO's little adventure. SCO's suit was never about copyright infringement in the Linux kernel. It was always about contract disputes. Yet their public face made it seem as if it were all about tricksy hackers stealing precious source code from Unix. The public claims have caused much more damage than the actual court case.\r\n\r\nSo, the Microsoft/Novell deal doesn't increase the likelihood of Microsoft pressing patent claims. It's an indirect threat, in which Microsoft gets to obliquely threaten GNU/Linux with patents without ever really <em>threatening</em>.\r\n\r\nThat's the basis for the FUD. Simply by casting the doubt, Microsoft has blunted the threat of GNU/Linux deployments during Vista license negotiations, and perhaps given pause to larger US companies considering actual deployment of GNU/Linux in place of Vista.\r\n\r\nGNU/Linux is just as open to patent litigation as before. Microsoft is simply announcing they are willing to talk about potentially threatening GNU/Linux vendors' customers unless the vendor is willing to \"negotiate.\""

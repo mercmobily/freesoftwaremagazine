@@ -1,0 +1,70 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Very sad'
+    hostname: 86.141.218.56
+    created: '1159207657'
+    body: "And I thought I had something to defend in liking C#/.NET.\r\n\r\nPerhaps it's like a musical instrument?\r\n\r\nOne person's box with stretched catgut is another's Stradivarious.\r\n\r\nIf you master a language you can produce masterpieces.\r\n\r\nCertain instruments may not be able to produce all the notes or have the same qualities, but each to their own eh?\r\n\r\nWhatever works best for you. Don't eat yourself up over it.\r\n\r\nAnd yes, I have produced a significant piece of software in Basic (a music score editor called Maestro, for the Acorn Archimedes)."
+-
+    name: ''
+    mail: ''
+    subject: 'Visual Basic'
+    hostname: 205.188.117.10
+    created: '1159234527'
+    body: 'Of all the languages I''ve used, I''ve always felt that Visual Basic was the one that let me think most about the problem at hand and least about the mechanics of the language.  And isn''t that what "high-level" languages were supposed to be all about?  Great article.  C. Wells /Houston'
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'Thanks.  Obviously I think'
+    hostname: 69.180.163.110
+    created: '1159241867'
+    body: "Thanks.  Obviously I think about it, but it doesn't eat me up <em>that</em> much.  Really!  Who's being defensive?!  I'm not being defensive! :-)\r\n\r\nI like your way of looking at it, except I think VB isn't a good choice for me no matter how much I enjoy programming in it.  But that's for next week."
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'Visual Basic'
+    hostname: 69.180.163.110
+    created: '1159242233'
+    body: 'I''m glad you enjoyed it.  I look back now and see I didn''t talk much about what it is I like so much about it.  I do like that it saves me from thinking about a lot of details.  I think low-level programming would be fun if I tried it, but over time I think we''ll want to let machines do more and more of the work for us, and people will have to accept that not everyone is going to be a hardcore systems programmer.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Drug analogy'
+    hostname: 68.93.224.4
+    created: '1159463947'
+    body: "The drug, or rather \"addiction\" analogy is fairly apt. I find that the most vehemently anti-Windows GNU/Linux users are usually the ones who've just switched.\r\n\r\nAfter a few years, I find that it isn't anything specific about Windows that I don't like, it's really just that it's now become a completely alien system that I know nothing about. I departed in order to avoid using Windows 95 at home, and Windows 98 SE is the most recent version I have any experience with. All this \"XP\" and \"ME\" and \"2000\" and what-not is just a complete mystery to me.\r\n\r\nI find this really shocks a lot of people, who seem to assume that most GNU/Linux users are experts who tinker on Linux and get really jazzed about it, but do all their \"real work\" on Windows. And indeed, I have met people like that. But I honestly run everything (work and play) on Debian GNU/Linux myself.\r\n\r\nBecause I do that, I think I'm probably more honest in criticism Linux applications.  It's one thing to use a package long enough to write a review, but it's quite something else to rely on it day-in and day-out. After a while, quirks start to get on your nerves. So there are some packages I complain about. OTOH, there are others like LyX and gVim that I find totally rock-solid, which is why I recommend them.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: BASIC
+    hostname: 68.93.224.4
+    created: '1159464852'
+    body: "BASIC was my first programming language. It was \"Color BASIC\" for the TRS-80 \"Color Computer\", which is, of course, a much older version. I learned a few later variations, like QBASIC, but I did quite a lot with it.\r\n\r\nIt's difficult to write serious programs in, with good engineering practices, though, because BASIC doesn't provide a lot of native support for them. Of course, I went on to program in FORTRAN which has many of the same problems (however FORTRAN 77 and later, do support functions and procedures which can be put to good effect by anybody with a little self-discipline), so my experience with learning to make sense out of the chaos that is BASIC was probably useful.\r\n\r\nStill, it's a big relief to work in a language that has more built-in support for programming paradigms: \"structured\", \"object-oriented\", \"functional\", etc. Today I use Python for almost everything. It's nearly as easy as BASIC to learn, and yet it has much more built-in support, powerful libraries, and it's clear and easy to read.  It does have a few quirks: historical accidents of design that have led to some awkward \"idioms\", but the overall picture is of simple, intuitive design.\r\n\r\nThe partisan-ness you describe is very up-front for me. I like Python because *I* find it easy to understand and use, so naturally I like to see other (open source) programs written in it, because their source becomes an asset to me that I can build on if I want. By contrast, trying to build a Python program on top of a Perl package is next to impossible, and often not worth the trouble.  I've generally had very bad experiences with mixed-language projects.\r\n\r\nPeople sometimes question why there needs to be so many different applications written in different languages for GNU/Linux (e.g. if Inkscape is a great vector-graphics app (written in C++), why do we need Skencil (written in Python)?).  The truth is that, to a programmer, especially an amateur programmer who only really knows one language, the presence of a useful app written in your language of choice is a boon. It gives you a kind of power you don't get from another package, even if they are both equally good from a pure user standpoint.\r\n\r\nOf course, multi-language plugin and extension architectures go a long way to erasing that kind of language chauvinism. Inkscape is growing a very nice Python scripting and extension capability, as I understand it (still needs work: what they're doing is defining an SVG DOM for programming interfaces).\r\n"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'I think more common'
+    hostname: 69.180.163.110
+    created: '1159492245'
+    body: "I think more common languages would be good for the reason you mention -- that you can find more apps, sample code, and help for what you're trying to do.  That's why I like WordPress as a blogging platform -- there are a bazillion plugins and web pages with help for what you're trying to do.\r\n\r\nI'm not sure what I'll get in to as I start programming in Linux more.  Java is an obvious possibility for me, since I'm already using it.  But I haven't done much GUI with it, and I'm not excited by the prospect of that although I hear it's getting more manageable with Eclipse.  I've been superficially attracted to Perl in the past, but may give Python a try also.  Partly because it would be a new and exciting dalliance, versus Perl where I've already experienced some of its tawdry habits :-)\r\n\r\nI also think diversity is a good idea -- different tools for different jobs if necessary, even though I don't care for the sniping that goes on along with this, when languages compete for similar jobs."
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'I''d want to keep up my'
+    hostname: 69.180.163.110
+    created: '1159492614'
+    body: "I'd want to keep up my Windows expertise, but it would be nice to be able to just let it go completely if you could.  (My current job will keep me in it.)\r\n\r\nI'd like to be able to use my Windows experience to write some decent comparisons between comparable apps.  I suspect in some areas that I find GNU/Linux lacking, it will be because I'm ignorant of a better way to do it, but I also expect some things to just not work as well if considered honestly, and hopefully we can continue to borrow/steal the good ideas.  I see nothing wrong with shamelessly copying from proprietary software where there are good ideas to be had."
+-
+    name: jonnyb13
+    mail: ''
+    subject: 'First off, I too enjoy using'
+    hostname: 61.247.242.85
+    created: '1163655050'
+    body: 'First off, I too enjoy using Windows. Though I use Linux now. Anyway, I find Visual Basic as a good starting tool for beginner programmers. Though it may have an awkward reputation and language for a lot of people. Still, you can''t deny its ease of use. Sucks as it may, it still is a versatile steeping stone for everyone.'
+-
+    name: 'Anonymous visitor'
+    mail: sorry@no.can.do
+    subject: 'Use what works'
+    hostname: 69.92.131.213
+    created: '1197590165'
+    body: "Programmers who deride another programmer about languages are simply technicians that are a bit ignorant.  Engineers are on a somewhat higher level and usually worry more about good design than language details.  The senior technical and business people worry about getting things done that make money.  In the end, we're judged by what was done, not how it was done.\r\n\r\nThat's why the petty attitudes about languages are as silly as the religious arguments over which editor is better.\r\n\r\nMy software mentor pounded into us the idea that we should take all languages seriously, as there are always niches where each is the best solution.  This is really good advice.  If you don't believe it, then you haven't learned enough languages.  Go out and learn 4 or 5 more.  Or learn the ones you have learned better.\r\n\r\nI won't even bother listing my three favorite languages.  I've used VB and it is a capable tool, although I had problems with deployment of a commercial program I wrote.  I do have to say that I loved QuickBasic 4.5, which was a superb tool within its DOS limitations.  I almost liked it as much as HP's Rocky Mountain Basic of the late 70's and early 80's which were real pleasures to use (I still have my HP 9817 computer).\r\n\r\n"

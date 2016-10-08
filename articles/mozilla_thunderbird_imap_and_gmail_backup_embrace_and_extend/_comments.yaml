@@ -1,0 +1,14 @@
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Nice piece'
+    hostname: 62.140.212.3
+    created: '1285325628'
+    body: "Nice piece Gary. Personally I prefer not to use a desktop client to access GMail because I have other mail accounts in my desktop clients and frankly it's cluttered enough as it is. I've never really had an issue with GMail's spam filtering and quite frankly I would question the sanity who turned such a feature off. It's trivial to setup a filter which \"whitelists\" mail from a sender and with something like GMail that suits me fine.\r\n\r\nSo while your suggestion here is great I'll stick to getmail just grabbing an archive of my GMail messages thanks. And mutt? Honestly I rarely use it, it's just there if I need it. The key word with my piece was \"backup\" and that's all I need a backup of my mail in case Google dies or shuts down my account and the idea of opening a desktop mail client to do that seems over the top to me. But yes it's horses for courses as you say.\r\n\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Thunderbird? Even easier! But...'
+    hostname: 195.132.217.198
+    created: '1286183059'
+    body: "I must add a few things to the article, especially if you go the Thunderbird way.\r\n\r\nFirst, the warning: Thunderbird 3.x changed the way accounts were stored on disk (over 2.0). Sometimes, it causes huge disk space losses, repeated messages and sync loss. It is recommended, if at all possible, to export accounts from Thunderbird 2 and re-import them in Thunderbird 3.1 (which solved most migrating problems)\r\n\r\nNow, the goodie: Thunderbird's new account wizard is a little marvel. Give it your name, your email address and the password, and it will automatically detect:\r\n\r\n* IMAP or POP\r\n* encrypted or not\r\n\r\nIn under 5 seconds, your account can be created, and Thunderbird will sync. However!\r\n\r\nGmail limits traffic through POP/IMAP to a few dozen Mb a day. On a normal use pattern, it's no problem; however, on first connect, it can mean that you'll run out of 'credit' in under a few minutes (especially if you have an email account that is rather full).\r\n\r\nSo, you should use the wizard - but once parameters are autodetected, switch to manual install. There, you should check the following settings:\r\n\r\n* download only the last 30 days\r\n* download messages under 50 Kb only\r\n\r\nAfter that, Thunderbird will sync (rather rapidly) all your folders and email headers, and download the most recent small messages. On messages that are not yet here, it will display a small link that will trigger the download. The message is then kept.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."

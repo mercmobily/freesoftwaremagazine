@@ -1,0 +1,98 @@
+-
+    name: undefined
+    mail: ''
+    subject: 'pgrep & pkill'
+    hostname: 68.94.189.15
+    created: '1182746948'
+    body: "may i recommend pgrep and pkill over ps, grep, and kill.\r\n\r\nby example:\r\n\r\n<code>$ pgrep init\r\n1\r\n5521\r\n$ pgrep -l init\r\n1 init\r\n5521 xinit\r\n$ pgrep -fl init\r\n1 init [2]         \r\n5521 xinit /etc/X11/xinit/xinitrc -- /usr/bin/X :0 -nolisten tcp -layout Dual -auth /home/user/.serverauth.5500\r\n$ pgrep -l ^init\r\n1 init</code>\r\n\r\npkill works similarly:\r\n\r\n<code>$ sleep 1m &\r\n[1] 1662\r\n$ pkill sleep\r\n[1]+  Terminated              sleep 1m\r\n$ sleep 1m &\r\n[1] 2224\r\n$ pkill -KILL sleep\r\n[1]+  Killed                  sleep 1m\r\n$ sleep 1m &\r\n[1] 1764\r\n$ pkill 1m\r\n$ pkill -f 1m\r\n[1]+  Terminated              sleep 1m</code>\r\n\r\nthey should already be installed on debian (as the procps package has a priority of \"required\") and ubuntu (as with my wife's default install).\r\n"
+-
+    name: 'Felipe Alvarez'
+    mail: felipe.alvarez@gmail.com
+    subject: 'don''t use ps -A | grep, use ''pgrep'' instead'
+    hostname: 206.248.171.94
+    created: '1182747120'
+    body: "type \"pgrep firefox\" will show you the PID of firefox. Typing \"pkill firefox\" will close all processes with name \"firefox\". Typing \"pgrep -l firefox\" will show you the PID and the process name \"firefox\"\r\n\r\nps -A | grep is not as powerful\r\n\r\n[Edited for language, Admin]"
+-
+    name: mykeyspace
+    mail: ''
+    subject: 'Great article. You gotta'
+    hostname: 213.219.145.240
+    created: '1182779796'
+    body: "Great article. You gotta love the doom thing. This really shows how creativity in the free software world can thrive, because this would never be included in a commercial product.\r\n\r\nOne honorable mention: if you're in <strong>top</strong> (e.g. to look which processes use a lot of memory/cpu) you can kill an application by hitting \"k\" and typing in the PID. See  <code>man top</code>  or press \"?\" whilst in top for more info.\r\n\r\nThanks for letting me now about pdDooM (not that i'll ever use it, i kinda like the stability of my system)."
+-
+    name: clievers
+    mail: ''
+    subject: 'Good one'
+    hostname: 68.145.109.51
+    created: '1182786288'
+    body: "This sounds good. I'll have to give the pgrep & pkill a try. Sometimes I've run into areas where I cannot seem to kill a process. Perhaps these two will help.\r\n\r\n------\r\nlet's all play nice!"
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Also
+    hostname: 68.197.66.72
+    created: '1182786429'
+    body: "If you can't kill a process, try killing it as root (sudo pkill instead of just pkill).\r\n\r\n--\r\nAndrew Min"
+-
+    name: 'Anonymous visitor'
+    mail: anony.mouse@mouse.anony
+    subject: 'Hmm... I would have guesed'
+    hostname: 213.243.177.87
+    created: '1182790067'
+    body: "Hmm... I would have guesed that killall command would have been mentioned here. I never use kill but killall every second day.\r\n\r\nFor example:\r\nkillall gnome-panel \r\nor\r\nkillall nautilus\r\nare too commands that come handy when tweaking Gnome desktop, and especially if something goes wrong and you end up with a broken gnome-session. \r\n\r\nAnd, no need to know any cryptic process id numbers either, just type killall \"processname\" and you're done."
+-
+    name: undefined
+    mail: ''
+    subject: 'fsm''s editorial policy'
+    hostname: 192.91.172.42
+    created: '1182794190'
+    body: "i actually have nothing to technically add to the parent comment, but the editing of it brings up an interesting point: what are the editorial policies of fsm, specifically regarding user posts?\r\n\r\nbecause i was subscribed to this thread i saw the original post before it was edited and approved by the editor (by way of an emailed \"thread subscription update\").  while i did not find the original language offensive, i did find the conveyed attitude appalling.\r\n\r\nthough the single removed word wasn't particularly offensive to me, why not edit out the word and show the edits (eg \"ps -A | grep is [not as powerful]\")?  that would show the community what exactly was edited unlike the current ominous note (\"Edited for language, Admin\").  or remove the entire post, maybe notifying the original author by email if they have an account (so they can repost a more appropriate comment if so desired).\r\n\r\nand what garners an edit?  profanity?  poor attitude?\r\n\r\njust curious as i considered myself a member of a very similar community (based on a linux publication) until an editor removed his own inflammatory post and denied both the post and the removal.  that's not an \"open\" community i want to be part of, so i left.\r\n\r\nheck, will this post be removed because i dare question the editors? ;)"
+-
+    name: 'Lord AGNUcius'
+    mail: Ownut@EcoComics.org
+    subject: 'htop, atop, blahps'
+    hostname: 209.90.93.70
+    created: '1182813267'
+    body: "My favorite is htop.sf.net\r\n\r\nIt runs in the console (ncurses); is light, fast and feature rich.\r\n\r\nNow I just need to figure out how to bind Ctrl-Shift-ESC (as in NT/2k/XP) to launch it.\r\n\r\n\r\nThere are also ATComputing.nl/Tools/atop and csincock.customer.netspace.net.au/blahps.htm, but I haven't tried them.\r\n"
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'The response :-D'
+    hostname: 203.59.87.10
+    created: '1182842220'
+    body: "Hi,\r\n\r\nThe post contained useful information, but showed poor attitude.\r\nI found the original language offensive. The trouble is, that person wasn't logged in.\r\nI made the decision that guarantee the spread of (relatively valuable) information, didn't sneakily change comment's contents (I hate that), and respected the poster.\r\n\r\nTo me, poor attitude is even indirectly call somebody \"stupid\" - especially if you don't even have an account.\r\n\r\nPlease note that since we receive a number of comments, we often need to decide quickly - or we would spend the best parts of our days discussing whether a word means \"A\" or \"B\" :-D\r\n\r\nWe very, very, very rarely delete comments (it only happened once, actually) and very occasionally we edit them.\r\n\r\nBye!\r\n\r\nMerc. "
+-
+    name: Dugster
+    mail: ''
+    subject: Kill/killall
+    hostname: 66.66.25.39
+    created: '1182933411'
+    body: 'There is always a solution.Thanx to all who add info which helps me!!'
+-
+    name: 'Anonymous visitor'
+    mail: smith@hotmail.com
+    subject: 'htop, definitely. the best'
+    hostname: 58.179.26.64
+    created: '1183294246'
+    body: 'htop, definitely. the best thing since sliced bread.'
+-
+    name: 'Nuno Silva'
+    mail: ''
+    subject: SIGKILL
+    hostname: 81.193.56.226
+    created: '1183537733'
+    body: "If you don't get an “Operation not permitted” error, and the process is not killed, you may try sending a SIGKILL:\r\n\r\n<code>kill -9 PID</code> or <code>kill -KILL PID</code>\r\n\r\nThe difference is that applications can handle TERM the way they want (some may even save opened files, emails, &c before being closed), but no process can ignore a KILL signal.\r\n\r\nThat's, no <em>alive</em> process. When a process is already dead (zombie, defunct), it can't  answer the signal."
+-
+    name: 'Anonymous visitor'
+    mail: lionroar992000@yahoo.com
+    subject: Firefox
+    hostname: 216.164.51.141
+    created: '1183823941'
+    body: "Hi,\r\n\r\nI accidentally ran firefox it was not responding so I knew I had to kill the process and I did it once through the system monitor, well the following day when it happened again I accidentially hit the \"hide process\" and now and every time I turn the computer I can not see firefox on the system monitor. How do I enable it so that it would show as running on the system monitor again."
+-
+    name: undefined
+    mail: ''
+    subject: 'unhide process in gnome-system-monitor'
+    hostname: 68.94.189.15
+    created: '1183872800'
+    body: "i presume you are talking about gnome-system-monitor as it has the functionality you describe (though so could kde, but i wouldn't know).\r\n\r\nin gnome-system-monitor (2.14.5, gnome 2.14) select the menu item View -> Hidden Processes (or Ctrl-P).  select firefox from the list of hidden processes, press the \"Remove From List\" button, and press the Close button.\r\n"

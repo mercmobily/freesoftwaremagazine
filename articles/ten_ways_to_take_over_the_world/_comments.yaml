@@ -1,0 +1,105 @@
+-
+    name: neox2006
+    mail: ''
+    subject: 'very nice & practical'
+    hostname: 81.192.93.65
+    created: '1168537979'
+    body: "Very nice & practical. I've done the same at my former job, and GNU/Linux has accepted smoothly.\r\n\r\nThanks.\r\n\r\nMed Berdai."
+-
+    name: ''
+    mail: ''
+    subject: cool
+    hostname: 217.136.223.26
+    created: '1168600925'
+    body: 'Check on most of the list. Not much further Linux adaption is in sight here, except for a few toasters (which will also serve files). We''re testing openoffice in day to day use though :)'
+-
+    name: ''
+    mail: ''
+    subject: 'real "just works" in order to get on Joe Average''s desktop'
+    hostname: 213.211.163.68
+    created: '1168620293'
+    body: 'See http://freedomdrive for plenty of ideas on how to succeed in doing that'
+-
+    name: ''
+    mail: ''
+    subject: 'Microsoft has something on'
+    hostname: 129.130.53.132
+    created: '1168621831'
+    body: 'Microsoft has something on the order of a $500 million marketing budget to launch Vista and Office. Free software has a $500 marketing budget. Maybe "take over the world" is setting your goals a little too high. Everyone already knows about Microsoft products. Most know nothing about open source.  Is there any good reason to talk about this?'
+-
+    name: ''
+    mail: ''
+    subject: 'Other Info'
+    hostname: 68.145.108.98
+    created: '1168622737'
+    body: "Liunx is also a great way to \"recycle\" old PC's. Linux will run on anything from an old 386 on up.\r\nPrint servers and routers are the most likely candidates for using old PC's but there are many applications where performance isn't really a requirement and an old PC will do just fine.\r\n\r\nI've been using Liunx since around 1995 (kernel version 1.3 if memory serves). It's come a long way since then.\r\n\r\nAs I write this, I'm on a 64 bit (AMD) Linux box at work. We only use Linux with the exception of a few people who must use a few apps that aren't available for Linux. They use dual boot or VmWare to get around the problems.\r\n\r\nAt home I have Windows and Linux (dual boot) on my Desktop and Laptop. I much prefer Linux. It's faster than Windows. All the apps I need from day to day are avialable for free under Linux. About the only thing I use Windows for is my tax returns. I'm looking forward to the day when even that app will be available for Linux.\r\n\r\nLinux has made operating systems a commodity. Although it seems the boys at MickeySoft haven't quite realiazed this yet.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Hardware support resources'
+    hostname: 67.169.183.14
+    created: '1168623597'
+    body: 'Thanks for the list. I have been looking for a listing of hardware supported by either Kernel version, or Distribution. I haven''t really seen anything like this up until now. Is there a website or something I have overlooked? '
+-
+    name: ''
+    mail: ''
+    subject: 'Finally, at last!'
+    hostname: 71.214.240.49
+    created: '1168625532'
+    body: "It is so refreshing to see this line of thinking. Now all we have to do is make it be heard above the screeching chorus of FUD and \"dumb it down\" and \"it has to be just like Windows\" and all the other bogus theorizing.\r\n\r\nLook well, folks. This is how to play Linux and win. It's not Quake or Doom, not Poker and not even Chess. It's Go. One stone, one eye, one group, one joseki at a time. In other words, it's how *HONEST* people play. If Linux couldn't win the honest way, it would not be deserving to win at all.\r\n\r\n- Penguin Pete"
+-
+    name: ''
+    mail: ''
+    subject: 'Linux is Linux'
+    hostname: 141.152.50.233
+    created: '1168625869'
+    body: "BTW...\r\n\r\nLinux is Linux.  Not GNU/Linux.\r\n\r\nhttp://en.wikipedia.org/wiki/GNU/Linux_naming_controversy\r\n\r\nLinus seems to think GNU/Linux is ridiculous...and he created it.  Would you like it if one of your creations took on a name you didn't give it?"
+-
+    name: ''
+    mail: ''
+    subject: '11. Teach people about software freedom.'
+    hostname: 128.174.233.218
+    created: '1168626026'
+    body: "The reason people will choose free software and stick with free software is when they learn to value the freedom it gives them for its own sake.  If the ethical reasons for free software are left out, people will have no reason to reject the non-free software they're offered to do the same jobs.\r\n\r\nRead <a href=\"http://www.gnu.org/philosophy/free-software-for-freedom.html\">http://www.gnu.org/philosophy/free-software-for-freedom.html</a> for more on this.\r\n\r\nJ.B. Nicholson-Owens\r\n<a href=\"mailto:mail@digitalcitizen.info\">mail@digitalcitizen.info</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'fix a problem with linux'
+    hostname: 146.114.69.57
+    created: '1168629806'
+    body: "I used to work in a small firm that was windows-centric, and in fact opposed to open source (they refered to it as \"open-sore\" though entirely out of ignorance and assumptions, none had any experience with it)  When faced with the need for another FTP server, they started plans for getting new hardware, software, and licenses.  I told them to give me a few hours with the secretary's old PC and I'd make them an FTP server and if it didn't fill their needs they could go ahead and buy the proprietary solution.  I installed Slackware and pureftpd in an hour and it ran beautifully, probably still running to this day.\r\n\r\nThis event started a chain of converting most of our production machines to linux and open source.  We saw a large reduction in overhead, sometimes combining the processes from several older machines onto new cheap Intel hardware running linux.  The only negative effect was the inexperienced IT guy, who didn't want to give up all his influence, insisted on running Fedora Core on our production machines because \"it supported dual-processor\", he didn't really understand the difference between kernels, distributions, userspace, what compile meant, etc.  Nothing like having the boot process freeze because he corrupted the X config file on a headless machine.\r\n\r\nAnyway, the point I'm trying to make:  People, especially businesses, will not adopt linux \"just because\".  It needs to provide a solution.  So apply it to a current problem and follow through.  Attributes like being free and efficient will help you sell the idea.  Success speaks for itself.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Excellent
+    hostname: 86.129.43.100
+    created: '1168638674'
+    body: "That was an absolutely perfect article.\r\n\r\nThank you.\r\n\r\nPhill"
+-
+    name: ''
+    mail: ''
+    subject: 'It''s not much of an operating system without the GNU.'
+    hostname: 70.44.48.156
+    created: '1168784600'
+    body: 'Take all of the GNU stuff off of your Linux system and see how well it works for you.  I''ll take GNU/Linux over Linux any day.'
+-
+    name: ''
+    mail: ''
+    subject: 'Linux is a good kernel, but not very useful by itself.'
+    hostname: 70.44.48.156
+    created: '1168785033'
+    body: 'How long have you been running your Linux system without the GNU utilities on it?  I''d be interested in hearing how you did it.'
+-
+    name: 'Daniel Escasa'
+    mail: ''
+    subject: 'about the "competition"'
+    hostname: 124.106.210.19
+    created: '1168789412'
+    body: "First off, I don't think we can rely on a Vista flop. Remember when XP was due out, and the late beta, release candidate made GNU/Linux look attractive?\r\n\r\nSecond, as to \"bashing Windows\": IMHO if we're stating facts and backing them up with statistics from respected sources, that's not bashing. We don't need to employ FUD, just get the facts... erhhh :)\r\n\r\nThird, Linux is the kernel, GNU/Linux the OS.\r\n\r\nFourth, re #1: by that criterion, I'm technically not contributing to the plan for world domination because I'm on DesktopBSD (FreeBSD 5.4 + KDE + desktop utilities). Although I'm aware of the spirit of the article, the author unintentionally excluded at least three excellent OSes.\r\n\r\nDaniel O. Escasa\r\nindependent IT consultant and writer\r\ncontributor, Free Software Magazine (http://www.freesoftwaremagazine.com)\r\npersonal blog at http://descasa.i.ph"
+-
+    name: ''
+    mail: ''
+    subject: 'Don''t want to take over the world'
+    hostname: 167.155.85.96
+    created: '1169654570'
+    body: 'It''s best for all Linux users to keep Linux''s market footprint small.  If it gets over 5% share, M$ and the RIAA will crush it.'

@@ -1,0 +1,14 @@
+-
+    name: 'Ahmed Kamal'
+    mail: email.ahmedkamal@googlemail.com
+    subject: 'SSH? based VPN'
+    hostname: 196.219.179.36
+    created: '1177875418'
+    body: 'openvpn is a SSL based VPN, not ssh?!'
+-
+    name: 'Alex Bogak'
+    mail: djay.blogger@gmail.com
+    subject: 'Using free software in business world'
+    hostname: 212.143.73.102
+    created: '1177932958'
+    body: "Ahmed Kamal:\r\nVPN is a tunneling solution, backed by different security protocols (such as IPSec). But OpenVPN can provide a \"SSH-based VPN solution\", as providing SSH services through VPN connection.\r\n\r\n\r\nBusiness world doesn't just know yet how to address \"Open\"/Free software. It will take a few years, and we will see that new managers (who are being educated now <em> with </em> such software) will understand fully what is it all about and then such penetration will take much more \"usual\" road - it will be as acceptable as any other software."

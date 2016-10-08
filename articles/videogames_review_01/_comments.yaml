@@ -1,0 +1,77 @@
+-
+    name: micksmixxx
+    mail: ''
+    subject: 'Alizarin Tetris (Atris)'
+    hostname: 82.47.79.168
+    created: '1154476019'
+    body: "A great Tetris clone.  Not only are there different levels of difficulty, but the sounds are brilliant.\r\n\r\nTry it, I think you'll like it!"
+-
+    name: prism
+    mail: ''
+    subject: 'A word of explanation needed'
+    hostname: 217.147.104.220
+    created: '1154953522'
+    body: "Personally, I think you slightly missed the point here. SDLBlock is a clone of an old (1989) Tetris clone - Blockout. The latter was a great game, at least at the time it was written and released. I ensure you that it was pretty addictive ;-) More information about it on <a href=\"http://www.abandonia.com/games/en/559/Blockout.htm\">Abandonia</a>.\r\n\r\nWhat's interesting, the original version still has a bunch of very devoted fans. They even have a webpage for submitting high-scores at <a href=\"http://www.blockout.de/\">http://www.blockout.de/</a>. So, obviously there are people who find the interface, and the whole idea of a 3d-Tetris, amusing and enjoyable.\r\nIt's hard to expect that a clone will be different from the original - they wanted to reflect an old game, so the old game (and graphics & interface) you get.\r\n\r\nJust to make things clear."
+-
+    name: cagret
+    mail: ''
+    subject: 'JsTetris - pause issue'
+    hostname: 83.31.184.144
+    created: '1155620348'
+    body: 'The pause would make it to easy to play ;) On high levels after 10-15 minutes of playing, it is an endurance test of your fingers O_^ Or test of psychic powers.. you got so far.. , and now for example a phone, or your parents, or some other accident disturbs your playing, and you have to make a choice ;) no no! Pause would make it all to easy! O_O. Have fun!'
+-
+    name: ''
+    mail: ''
+    subject: 'You forgot the best one ....'
+    hostname: 194.216.112.15
+    created: '1155716465'
+    body: "You should have mentioned Briquolo - it is the best tetris game on Linux.\r\n\r\nIts in 3D (openGL) and one of the power-ups's changes the screen viewpoint to 1st person for 30 secs (i.e - the view from the bat)\r\n\r\nhttp://freshmeat.net/projects/briquolo/\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Good review'
+    hostname: 203.217.6.80
+    created: '1155720773'
+    body: 'Thanks for the review Robin, they look good. I''m gonna be busy tonight I can see that.'
+-
+    name: ''
+    mail: ''
+    subject: 'Additions and Corrections'
+    hostname: 217.35.77.158
+    created: '1155732008'
+    body: "<dl>\r\n<dt>Additions:</dt>\r\n<dd><a href=\"http://oasis.frogfoot.net/code/tint/\">tint</a> - linux console tetris</dd>\r\n<dd><a href=\"http://fph.altervista.org/prog/bastet.shtml\">bastet</a> - linux console tetris that hates you - play only if you want to end up headbutting your monitor (ie. only play it at work)</dd>\r\n<dt>Corrections:</dt>\r\n<dd>Briquolo isn't tetris; it's breakout.</dd>\r\n</dl>"
+-
+    name: ''
+    mail: ''
+    subject: 'Additions 2'
+    hostname: 83.217.93.182
+    created: '1157665303'
+    body: "Netris - http://sourceforge.net/projects/netris\r\nStill under development but the upcoming version should be a big improvement."
+-
+    name: ''
+    mail: ''
+    subject: 'i''ll take it'
+    hostname: 146.145.105.51
+    created: '1173977713'
+    body: "i'll take it\r\n"
+-
+    name: micbev
+    mail: ''
+    subject: 'r4 ds'
+    hostname: 122.167.24.180
+    created: '1245322209'
+    body: "PC games are created by one or more game developers, often in conjunction with other specialists (such as game artists) and either published independently or through a third party publisher. They may then be distributed on physical media such as DVDs and CDs, as Internet-downloadable shareware, or through online delivery services such as Direct2Drive and Steam. PC games often require specialized hardware in the user's computer in order to play, such as a specific generation of graphics processing unit or an Internet connection for online play, although these system requirements vary from game to game.\r\n<a href=\"http://www.r4-ds-karte.de/\">r4 ds</a>"
+-
+    name: zzo38
+    mail: ''
+    subject: 'Other free software tetris'
+    hostname: 24.207.49.17
+    created: '1322750623'
+    body: "Other free software tetris clones include: <ul>\r\n<li>http://www.pineight.com/lj/ LOCKJAW (Ubuntu, Windows, GameBoy Advance, Nintendo DS) (many options are available)\r\n<li>http://www.pineight.com/nes/lj65.zip LJ65 (NES/Famicom) (supports one player and two players mode)\r\n<li>http://www.pineight.com/tod/ TOD (GameBoy Advance) (simulates Tetris game with drugs)\r\n</ul>\r\n\r\n(Why isn't there an HTML mode with manual breaking and A HREF support?)\r\n"
+-
+    name: admin
+    mail: ''
+    subject: 'Are you sure these are free software? (Source code is free?)'
+    hostname: 27.33.233.17
+    created: '1322977639'
+    body: "Hi,\r\n\r\nAre you sure these are all free software? That is, you can download the source code, modify it, and release it?\r\n\r\nMerc."

@@ -1,0 +1,182 @@
+-
+    name: ftrotter
+    mail: ''
+    subject: MirrorMed
+    hostname: 68.88.26.188
+    created: '1155046119'
+    body: "My project is now called <a href='http://www.mirrormed.org'>MirrorMed</a> thanks for the mention! The scenario you have referenced is very common, but usually not recognized for what it is. Once healthcare provider see that vendor lock-in is the result of ignoring the software freedoms, I think things will start changing.\r\n\r\n<a href='http://www.fredtrotter.com'>Fred Trotter</a>"
+-
+    name: ''
+    mail: ''
+    subject: Happened...
+    hostname: 68.105.205.34
+    created: '1155048411'
+    body: 'This happened at Lewis-Gale Clinic in Salem, VA.  Nobody got hurt or died because of it, though... but they weren''t paying their bills to their transcription company and got locked out of their patients'' information.'
+-
+    name: ''
+    mail: ''
+    subject: 'Medic Alert Braclet'
+    hostname: 15.227.137.71
+    created: '1155051302'
+    body: 'A simple device that doesn''t require you to even be awake to notify emergency medical personnel that you have a medical condition.'
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'That''s just not enough'
+    hostname: 203.59.137.133
+    created: '1155052260'
+    body: "When a life is at risk, isn't it worthwhile having as much backup as possible. A bracelet doesn't convey your entire medical history. \"Sure\" you'll say \"but make at USB bracelet\". And then your doctor has to update it everytime you go and you can't get it wet, or fall off, or get damaged, or ... on and on. \r\n\r\nI'd still prefer a solid backup. The best backup I can think of is a complete medical history on file, available and accessible 24/7 in a central (secure and backed up) database. This data should never be held by a license that could in anyway prevent or delay access... EVER. It should also be available in an open format so that every piece of software in every doctors surgery, lab or hospital can read it, and so that if I move country my data is still accessible and readable.\r\n\r\nThis is an ideal situation and might not be easily achievable (at least not in the near future) what with all the regulatory redtape and different stake holders needing to agree on a solution. However, I'd still prefer steps be taken to head in that direction."
+-
+    name: ftrotter
+    mail: ''
+    subject: 'Contact Me'
+    hostname: 206.180.154.232
+    created: '1155055916'
+    body: 'Please contact me (<a href=''http://www.fredtrotter.com''>Fred Trotter</a>) about this offline. This is exactly the kind of thing that I want to document on <a href=''http://www.gplmedicine.org''>GPLMedicine</a>'
+-
+    name: ''
+    mail: ''
+    subject: 'A correction'
+    hostname: 204.26.70.70
+    created: '1155059955'
+    body: 'Fred Trotter is no longer managing <a href="http://www.uversainc.com">Uversa''s</a> ClearHealth system, although he is still active in the industry.'
+-
+    name: ''
+    mail: ''
+    subject: 'Bad Analogy'
+    hostname: 216.166.228.231
+    created: '1155061610'
+    body: "I think you should write this as:\r\n\r\n\"Or, at least he would be if heÃ¢â‚¬â„¢d renewed the lease on his medical center. He didnÃ¢â‚¬â„¢t, though, and now his informationÃ¢â‚¬â€?and your daughterÃ¢â‚¬â„¢sÃ¢â‚¬â€?is locked away in an office he canÃ¢â‚¬â„¢t access.\r\n\r\nAs unlikely and alarmist as this sounds, it could really happen. Intracare is the landlord of a popular medical office park in Anytown, PA. When some doctors balked at a drastic increase in their annual lease, they were cut off from accessing their own offices.\r\n\r\nThis situation is completely unconscionable. There can be no truly open doctor-patient relationship when doctors can contract with an unrelated third party as the de facto owner of and gatekeeper to their physical location.\"\r\n\r\nOr you could substitute computers, cars, cell-phones...software and data storage are useful things that people often PAY FOR. I'm not opposed to them selecting open-source solutions if that what they prefer...but if they make a bad choice that is *their* responsibility. Ask your doctor what software they use, and if you don't like their choice, switch healthcare providers."
+-
+    name: ''
+    mail: ''
+    subject: 'Talk about vendor lock-in'
+    hostname: 170.96.232.42
+    created: '1155062314'
+    body: "Pay our licensing fees or you will die!!  \r\n\r\nThere's nothing wrong with making a little money from your hard work, such as a medical info. system that works very well, but this is a bit much.  This may be splitting hairs, but I'm in no way against using proprietary software, as long as it's the best product.  I do, however, have a major problem proprietary file formats.  The information contained in those files does not belong to the proprietary vendor, and the end user should be able to easily take their dollars and info. elsewhere if the vendor is essentially extorting them because they have a monopoly.\r\n\r\nI wonder if the programmers of the GPL'd med systems have given any thought to making an attempt at reverse-engineering some of these proprietary databases for compatibility?"
+-
+    name: ''
+    mail: ''
+    subject: 'I don''t understand why you'
+    hostname: 68.230.218.130
+    created: '1155062562'
+    body: 'I don''t understand why you are blaming the proprietary software industry itself for the lack of foresight of the medical community. Doctors should understand the terms and length of their contract, have a backup plan for when that contract expires, and make sure that they can at least move the data elsewhere should they decide to stop using a particular vendor''s storage solution. '
+-
+    name: 'Kirk Strauser'
+    mail: ''
+    subject: 'Or, at least he would be if'
+    hostname: 208.162.254.122
+    created: '1155087402'
+    body: "<blockquote>Or, at least he would be if heÃ¢â‚¬â„¢d renewed the lease on his medical center. He didnÃ¢â‚¬â„¢t, though, and now his informationÃ¢â‚¬â€?and your daughterÃ¢â‚¬â„¢sÃ¢â‚¬â€?is locked away in an office he canÃ¢â‚¬â„¢t access.</blockquote>\r\n\r\n<p>In an emergency, you can break a window or ask a security guard to let you into a building.  To continue your analogy, what's the software equivalent of a human security guard, and do you know whether you doctor's office management system has one?\r\n"
+-
+    name: 'Kirk Strauser'
+    mail: ''
+    subject: 'Two wrongs == OK?'
+    hostname: 208.162.254.122
+    created: '1155087657'
+    body: 'So it''s your opinion that tragedy is OK as long as you can assign blame?  I''m of the opinion that it''s far, far better to <em>prevent</em> the problem than to decide who''s fault it was afterward.'
+-
+    name: ''
+    mail: ''
+    subject: Database
+    hostname: 66.75.212.222
+    created: '1155091813'
+    body: 'When we (BFMC) went to an EMR/EPM solution we stipulated that we have a fully documented database schema with non obfuscated data. This allows us in the event of application failure (for any reason) to have access to all data entered into the system.'
+-
+    name: ''
+    mail: ''
+    subject: 'Bad analogy redux'
+    hostname: 69.77.144.110
+    created: '1155094817'
+    body: 'A better analogy would be if, when a doctor decided not to renew the lease, the landlord wouldn''t let him remove his files from the building. '
+-
+    name: ''
+    mail: ''
+    subject: 'Nice project'
+    hostname: 195.23.105.91
+    created: '1155121054'
+    body: "I too agree with you that things will start changing but not by the same reasons. \r\n\r\nI think that vendors will start to see that they have plenty of good and easier to modify applications in the area and that costs with code maintenance and development could be deminished so they will do -- as IBM, SUN and Novell did -- the slow move to supporting F/OSS instead of developing it single handed.\r\n\r\nThis will cause more awareness on the healthcare systems costumers side and the company that offers the best support and/or integration will win more costumers. Also, having employees in the developer teams will be more and more a marketing issue also for those companies.\r\n\r\nOn the other hand I see many projects but few can cooperate between then.\r\nA good example is how could this project relate with other healthcare projects like <a href=\"http://www.care2x.org/\">Care2x</a>?\r\n\r\nAnother doubt I have concerning your project is if it isn't just like <a href=\"http://www.op-en.org/site/ClearHealth/details.html\">ClearHealth</a>, which is also released under GNU/GPL? What is different in your Mirromed that would make people choose yours instead of ClearHealth?\r\n\r\nAbout Healthcare and the many issues with that I let you here the link to <a href=\"http://www.e-healthexpert.org/\">e-HealthExperts</a> that may be of any use."
+-
+    name: ''
+    mail: ''
+    subject: Different
+    hostname: 62.195.155.247
+    created: '1155122030'
+    body: "Pay our licensing fees or your patients will die !!\r\n\r\nslightly more sinister"
+-
+    name: ''
+    mail: ''
+    subject: 'Avoid the problem altogether'
+    hostname: 192.88.212.44
+    created: '1155125118'
+    body: 'and develop the software in house!'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Strange state of affairs...'
+    hostname: 84.5.46.150
+    created: '1155127249'
+    body: "I know that in France at least, an old law called 'Informatique et LibertÃƒÂ©s' (litterally, computing and freedom) says that an individual must have unrestricted access to read, modify or delete any information about him/her - separating actual data from software. In such a situation where there is no access whatsoever to the data, the company responsible for hosting the data would be liable not only for data theft, but also for not helping a person in a perilous situation...\r\n\r\nWhile doctors should indeed read their software support contracts more closely, they should retain legible access to their patients' files even after software support goes bye-bye.\r\n\r\nIt is also unfair to tie software use to technical support: if you paid for your software licence but decide to deal with bugs, breakdowns and updates on your own, that's your problem. Would you consider it fair that your refusal to pay a plumber every month to keep your pipes nice and tidy (even if the plumber actually does nothing because you did all your repairs yourself) would result in your water supply being cut? No. HEre is the very same situation taking place."
+-
+    name: marienoelleb
+    mail: ''
+    subject: 'This is very likely to happen'
+    hostname: 62.203.239.6
+    created: '1155140786'
+    body: "Thank you for this very likely scenario. I fear that seeing it happening somewhere over the world is just a matter of time.\r\n\r\nI witnessed something comparable several years ago, while I was working in a university hospital. This one was managing an official emergency call desk for emergencies and ambulancies. The call desk was (and still is) reachable through a single phone nimber. In one case, the national phone company did not integrate correctly the periodic payment they received, and a fairly low level employee decided to cut this emergency line which is handling cases of life an death! By chance, the problem was detected very quickly and it was quickly fixed. Later there was a serious explanation, behind the scene, between the hospital and the phone line.\r\n\r\nSo, even if the scenario you propose could be considered as data theft, at least according to the continental law system, it is likely to happen, just because of uncompetent and unsensitive clerks.\r\n\r\nIt is even likelier to happen as doctors are neither lawyers nor computer sciencists, most still consider computers as an unavoidable chore and they are very unlikely to understand the need and the subtleties of an extensive sevice level agreement with their provider.\r\n\r\nIMO, the only way to avoid this problem are some very strong legislative measures, which would force service providers to:\r\n\r\n_ Register medical file services (so that no medical data could be placed somewhere else)\r\n\r\n_ Guarantee the strict protection of the privacy of medical datas (in any circumstance) and to guarantee read access to their data 24H/24 7days/7 to their clients, even in case of contract break, at least for a period of several weeks/months, \r\n\r\n_ In the case of contract interruption, the delivery of their data to the client on a media and in a format agreed by the client.\r\n\r\nI am not sure that there will be many interested providers.\r\n\r\nMarie-NoÃƒÂ«lle Baechler\r\nBelmont-sur-lausanne / Suisse\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Multiple projects'
+    hostname: 68.93.224.4
+    created: '1155151020'
+    body: "\"On the other hand I see many projects but few can cooperate between then.\r\nA good example is how could this project relate with other healthcare projects like Care2x?\"\r\n\r\nI'm not sure about the particular situation here, but free software often has multiple projects covering the same basic territory. However, unlike commercial companies, they don't compete destructively.\r\n\r\nThey do compete constructively, trying to create new and better functionality. However, they have strong motivations to cooperate, and since the code itself is free to share, any sufficiently good idea will be incorporated into multiple packages.\r\n\r\nThis is particularly true at the data storage level -- projects with any kind of maturity will usually have interchangeable or at least importable/exportable data formats. If it hasn't happened yet with this particular application, it is likely to happen pretty quickly (OTOH, asking questions about it is a start on getting the developers to realize there's a need).\r\n"
+-
+    name: ''
+    mail: ''
+    subject: '"Sorry, the doctors can''t see you...'
+    hostname: 203.22.197.45
+    created: '1155177987'
+    body: "...they're all too busy adding a reporting facility to our software.\"\r\n\r\nI've run into real-life situations very close to this, where doctors (and staff) have guess-only access to appointments and zero access to patient data following a business application failure. My GP used paper records on the day; remarkable that they still kept them, in a way."
+-
+    name: ''
+    mail: ''
+    subject: 'Medical Data'
+    hostname: 168.253.133.81
+    created: '1155396391'
+    body: 'I find it hard to imagine that the medical "professionals" in the US take the time to review your records to any great extent!  Obtaining your own records and storing them yourself with access via a card, tag or bracelet with critical information would be in the best interest of the individual patient.  Would it really be realistic to imagine the Doc or hospital staff taking the time to review massive amounts of data for just one patient?    '
+-
+    name: ''
+    mail: ''
+    subject: 'Good (scary) example from non-medical industry'
+    hostname: 24.205.65.161
+    created: '1155403020'
+    body: "I just read a similar example of the perils of using proprietary software at Wired magazine \r\nhttp://www.wired.com/news/technology/0,71554-0.html?tw=wn_technology_3\".\r\n\r\n<cite>Giant robot imprisons parked cars\r\n\r\n<cite>The robot that parks cars at the Garden Street Garage in Hoboken, New Jersey, trapped hundreds of its wards last week for several days. But it wasn't the technology car owners had to curse, it was the terms of a software license.\r\n\r\n<cite>The garage is owned by the city; the software, by Robotic Parking of Clearwater, Florida.\r\n\r\n<cite>In the course of a contract dispute, the city of Hoboken had police escort the Robotic employees from the premises just a few days before the contract between both parties was set to expire. What the city didn't understand or perhaps concern itself with, is that they sent the company packing with its manuals and the intellectual property rights to the software that made the giant robotic parking structure work.\r\n\r\nMichael Britt\r\nImage Mechanics\r\n<a href=\"http://www.deathtofilm.com\">blog</a>"
+-
+    name: MaryADavis
+    mail: ''
+    subject: 'You are right. Doctors'
+    hostname: 89.41.233.204
+    created: '1210604520'
+    body: "You are right. Doctors should upgrade their programs and the data base. I myself have many allergies to all sort of medicine I might be given if I crash. I'm always afraid I;ll die in the hospital because the doctors had no idea of my allergy status. \r\n--- \r\nMary-Anne Davis"
+-
+    name: johannabartley
+    mail: ''
+    subject: 'This type of info should be'
+    hostname: 89.41.201.32
+    created: '1227793952'
+    body: "This type of info should be stored in an online database accessible by all emergency units. Imagine that you're out of the country and something happens. You don't really know the language or you can't talk. What happens then? \r\n___________ \r\n<a rel=\"follow\" href=\"http://www.certifiedjudicial.com/peo-helps-companies-grow/\">E Verify</a>\r\n"
+-
+    name: ceejay2005
+    mail: ''
+    subject: 'This will cause more'
+    hostname: 203.87.176.2
+    created: '1229615584'
+    body: "This will cause more awareness on the healthcare systems costumers side and the company that offers the best support and/or integration will win more costumers. Also, having employees in the developer teams will be more and more a marketing issue also for those companies. I'm not sure about the particular situation here, but free software often has multiple projects covering the same basic territory. However, unlike commercial companies, they don't compete destructively.\r\nhttp://doctorfinders.com/doctors-phoenix-az.html\r\n"
+-
+    name: gido1018
+    mail: ''
+    subject: 'This is great news for'
+    hostname: 210.4.125.59
+    created: '1229686687'
+    body: "This is great news for everyone especially for medical personnels.\r\n\r\n<a href=\"http://doctorfinders.com/doctors-ogden-ut.html\">ogden doctors</a>"

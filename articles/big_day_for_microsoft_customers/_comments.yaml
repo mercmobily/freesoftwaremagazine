@@ -1,0 +1,7 @@
+-
+    name: 'Eric Drake'
+    mail: ''
+    subject: 'Microsoft - RTF format'
+    hostname: 68.39.159.235
+    created: '1163865664'
+    body: "No one in my business sends me documents in RTF format.  Most user don't even know there is such a thing.  They simply save documents in the native application format they are using which is of course Microsoft Word or Excel.  I open these documents in Open Office and don't have any troubles usually.  \r\nWhat I see more as an alternate format is pdf from my customers.  Many are saving or printing to pdf from their applications and just sending that knowing it keeps the format and is sort of a \"universal\" format.  What really never took off as a file format and which I wished it had was html.  I send this format if I don't send plain text.  At one point it seemed Microsoft felt very threatened by the use of html on the web thinking it would become a universal document format not only on the web but also on the desktop with wysiwyg html editors.  We were not sufficiently mature at that moment in history.  A pity we had to create an MSWord Clone."

@@ -1,0 +1,35 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Sounds just like AOL'
+    hostname: 68.116.159.234
+    created: '1252688636'
+    body: "Sounds just like the sort of deal my mother got with America Online a few years ago: a customized (amazingly awful) browser and low-end internet service. It was also pretty bad (she long ago switched to a more generic internet service and a Mozilla-based browser running in Debian, BTW).\r\n\r\nI think they do it primarily to force users to see advertisements, which probably account for more of their revenue than do the subscription fees. This is obviously not in the customer's best interest, so they _want_ the software to be a proprietary black box that the customer can't (or at least won't) try to tinker with.\r\n\r\nThere may also be a perception that having one client-side software system will minimize their own tech support costs. I think it's unlikely that this actually pans out in the end, because the reduced variety of clients has to be weighed against the inevitability that such a custom-made client is going to be buggier to start with (but this is an _old_ engineering lesson that people just keep on having to re-learn).\r\n\r\nThe \"real\" problem is accepting a \"too good to be true\" deal like that without thinking about the consequences -- if the subscription fees are not enough to pay their bills, then the company is clearly planning to make their money in some other way. It's a matter of _caveat emptor_ to check for such catches."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: interesting
+    hostname: 62.140.212.3
+    created: '1252933646'
+    body: "> The “real” problem is accepting a “too good to be true” deal like that without thinking about the consequences — if the subscription fees are not enough to pay their bills, then the company is clearly planning to make their money in some other way. It’s a matter of caveat emptor to check for such catches.\r\n\r\nCaveat emptor is pretty much a fact of life these days but in this case the browser is not even mentioned as part of any deal. I suspect most people signing up to BT as their ISP do so because BT is the biggest name in the UK telecoms market and it seems simpler to keep everything in one box. They aren't aware of course that the BT that supplies their phone line (and even the backbone for the broadband) is different to the one that would be their ISP.\r\n\r\nSo the case is that many people just sign up for \"broadband\" with a company they've heard of and insert the CD they are sent according to the instructions. Then they get a \"BT/Yahoo Internet\" icon on their desktop. It very much resembles the way AOL imply that you must sign on before you can access the Internet from a PC connected to one of their routers.\r\n\r\nBTW AOL still do the same thing - at least here in the UK they do. I have another friend who uses AOL (last one - I have weaned the others away) and I probably do more support for them on their broadband than anything else. You *can* use other browsers but it's patchy at best and it drives me nuts.\r\n\r\n--  \r\nEquitas IT Solutions - fairness, quality, freedom  \r\nhttp://www.equitasit.co.uk"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Perfect knowledge in the market'
+    hostname: 68.116.159.234
+    created: '1253053441'
+    body: "Yeah, this is one of those examples of why the \"perfect knowledge\" assumption in first-order free market economics doesn't really work out in real life: _knowing_ that the price is too low is too difficult for the majority of the market. You need expert knowledge of an industry which is constantly changing in order to know that.\r\n\r\nClearly that answer doesn't help anyone but experts.\r\n\r\nThis is also the root of the problem for \"end user\" support with free software: you can get lots of help and make free software work, but only if you have a relatively \"expert\" level of knowledge of the field.\r\n\r\nTrying to make things both simple and reliable in this intrinsically complex and incompletely-predictable area of technology would be difficult even if everyone were perfectly cooperating. As it is, with competing self-interest thrown into the mix (which is true, though less problematic, even for free software), the results are understandable. Frankly, it's amazing this stuff _ever_ works.\r\n\r\nThe real innovations in this field aren't to do with technology itself, but rather in how we use it to allow people to organize themselves to overcome the detrimental effects of self (versus group) interest.\r\n\r\nIn the proprietary world, the main \"sin\" to be overcome is greed (\"what's in it for me?\"), while in the free software world it's \"sloth\" (\"why should I spend my time on that?\"). I think it can be argued that the latter is a better enemy to have, but both are troublesome. :-)\r\n"
+-
+    name: NickG
+    mail: ''
+    subject: 'Are you sure it''s proprietary ?'
+    hostname: 79.98.192.14
+    created: '1256466244'
+    body: "From what you write about that browser, I'm fairly sure it's a rebranded (poorly) IE.\r\nCheck out IEAK http://technet.microsoft.com/en-us/ie/bb219541.aspx\r\n\r\nMaybe you can build a clean version for your friend?"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'yes it is'
+    hostname: 62.140.212.3
+    created: '1256554545'
+    body: "Well if it is just IE rebardned, it's still proprietary but in addition, this is still more than a simply IE rebranded. I've encountered plenty of those browsers before - which start with IE, a different icon and default title.\r\n\r\nNot this one, they've added bits, taken bits away and - here's the crucial bit - you have to agree to an EULA (not from MS) before installing it. In addition there is a significant wait between say IE8 and the next version of this browser.\r\n\r\nI'm not sure that replacing a number of proprietary-based headaches with different ones will help here. Firefox will do them fine and so far has not caused any issues.\r\n\r\ncheers\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"

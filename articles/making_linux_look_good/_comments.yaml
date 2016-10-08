@@ -1,0 +1,14 @@
+-
+    name: thymox
+    mail: ''
+    subject: '.exe downloads...'
+    hostname: 91.84.15.254
+    created: '1203869673'
+    body: 'Just a note that occasionally you can be in luck with downloading .exe files as they can simply be "self-executing zip files" under Windows which can be extracted under Linux quite nicely either with a GUI archive manager or with the commandline tool "unzip".'
+-
+    name: ml2mst
+    mail: ''
+    subject: 'Much, much more'
+    hostname: 82.101.211.22
+    created: '1205406254'
+    body: "Great article, but there's much more you can do to \"pimp\" your desktop, here are some examples:\r\n\r\nhttp://osgeex.blogspot.com/search/label/GNU%2FLinux\r\n\r\nAnd even more here (articles are in Dutch, but the screen shots are what's more interesting):\r\n\r\nhttp://ml2mst.blogspot.com/search/label/Linux\r\n\r\nCheers\r\n\r\n|_|0|_| Marti T. van Lin\r\n|_|_|0| http://ml2mst.googlepages.com\r\n|0|0|0| http://osgeex.blogspot.com"

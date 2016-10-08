@@ -1,0 +1,35 @@
+-
+    name: ''
+    mail: ''
+    subject: '>However, leaving aside the'
+    hostname: 202.56.233.131
+    created: '1166469848'
+    body: ">However, leaving aside the fact that GNU/Linux was often designed to run on fast and >stable on low end systems that Windows simply couldn't hack (no pun intended), even >old 486 systems,\r\n\r\nAre you kidding me? My kubuntu box  totally tweaked(window manager, services, suspend2) still runs dog slow on my PIII . xp on the otherhand literally flies!!"
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'I have my doubts'
+    hostname: 203.59.113.101
+    created: '1166491096'
+    body: "Hi,\r\n\r\nI feel it's my duty to respond to these comments as quickly as possible.\r\n\r\nI have a dual-boot system right here (it's not mine, BTW), with XP and Ubuntu (not tweaked). Windows XP is generally less responsive than Linux - and that's BEFORE installing anti-virus software & C which will make it even slower.\r\n\r\nMaybe you need more RAM? Or maybe something in your computer is not playing well with Linux. OR, try to install Ubuntu which in general seems to be less memory-hungry.\r\n\r\nMerc."
+-
+    name: ''
+    mail: ''
+    subject: 'kubuntu?'
+    hostname: 165.200.94.61
+    created: '1166547003'
+    body: "I'm not sure KDE (kubuntu) was meant for low end systems...  Try a desktop environment like XFCE (xubuntu) or ditch the desktop environment and use only a window manager (such as enlightenment).  With out saying exactly what tweaks you're making, your post doesn't really add much to a discussion and comes off as flame bait.\r\n\r\nOne thing though, Linux is more memory hungry than CPU hungry...  I can run enlightenment on my 400Mhz computer and it runs great; this box has 384MB RAM though."
+-
+    name: ''
+    mail: ''
+    subject: 'Another Perspective on CLI vs GUI'
+    hostname: 4.228.9.119
+    created: '1166549231'
+    body: "Gary Richmond  writes:  \"Despite that it is a truism that the absolute beginner will probably need to paddle around in the graphical shallows before tentatively dipping a cautious toe in the deep end of the pool.\"\r\n\r\nA couple years ago Richard Wareham wrote an interesting article refuting that view.  I won't attempt to do his article justice in the brief space of this comment, but his basic thesis was that the CLI is better matched to how humans go about their non-computing life and that learning CLI first can give you a sense of mastery over the computer before you are forced to deal with the baffling array (sometimes literally!) of options that GUI interfaces frequently confront you with.  I think it is well worth a read:\r\n\r\nhttp://www.osnews.com/story.php?news_id=6282&page=1"
+-
+    name: ''
+    mail: ''
+    subject: 'Unix Power Tools'
+    hostname: 128.250.128.98
+    created: '1166574919'
+    body: "Another excellent book for users who want to master the full potential\r\nof the shell and basic command line utilities is the latest edition of\r\nUnix Power Tools, published by O'Reilly. If you want to show how commands can be used, and combined,\r\nin all sorts of ways to solve a plethora of problems, this is the book to recommend. (It would be best for someone who already\r\nknows the basics and is ready to tap into the full flexibility of the system).\r\n\r\n "

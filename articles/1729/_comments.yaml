@@ -1,0 +1,14 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Typo?'
+    hostname: 209.107.74.2
+    created: '1156342684'
+    body: "Did you mean \"...Xen, though VMWare...\"\r\n(Instead of \"Zen\")"
+-
+    name: admin
+    mail: ''
+    subject: Thanks
+    hostname: 203.217.6.80
+    created: '1156345058'
+    body: 'Thanks for that... Fixed!'

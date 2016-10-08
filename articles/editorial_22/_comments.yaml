@@ -1,0 +1,63 @@
+-
+    name: rasmusp
+    mail: ''
+    subject: Thanks
+    hostname: 212.242.226.46
+    created: '1200624808'
+    body: "I fully agree with your points. Having recently worked in a group where most people used (pirated) Word, I can certainly relate to the issue. Not even older versions of Word can read ooxml. The file size is larger than odf too.\r\n\r\nBtw: I reallt miss the pdf version of the magazine. Did you ever consider to bring it back?"
+-
+    name: tinker
+    mail: ''
+    subject: 'Convincing the world'
+    hostname: 213.169.107.61
+    created: '1200649883'
+    body: "I am doing my bit to get the great number of M$ hooked users to realise there is an alternative to M$ Office. \r\n\r\nIf I need to send any documents as attachments to anyone I send odf files as standard, with a link to openoffice.org. So far only one person has mailed back asking if I can send the file as a M$ .doc, though I did get one file returned in the new M$ Office format that is not readable by OpenOffice."
+-
+    name: utahcb
+    mail: ''
+    subject: ODF
+    hostname: 72.146.183.181
+    created: '1200667304'
+    body: "Hello:\r\n Read your article on file conversion and agree whole-heartly. One \r\nstandard is all that is needed. I do not use Microsoft's OS or office products. I find Open Office quite capable for my use.\r\n  The problem is purely greed and nothing else. When the bottom line is nothing but profit and not in the interest of the customer you will never have a product that is competitive and embraces change. \r\nMr. Gates is a shrewed businessman and knows what will make him money and keep him in control of the market. The problem is tha Open -Source has not accepted that idea per-say. The open-source community\r\nhas not fully recognized the need to have one standard themselves. When they come to this point, then and only then, will they appeal to the masses.\r\n I am probably ranting in the wrong place, but I  do enjoy your magazine very much. Keep up the good work.\r\n I don't know much about html. (Sorry)\r\nThanks: Utah C. Burger "
+-
+    name: ted61
+    mail: ''
+    subject: OOXML-ODF
+    hostname: 71.146.148.226
+    created: '1200879900'
+    body: "I am a total non-geek who has been using Linux for a few years.  I have been using open office and abiword for the past few years with no problems but I have no idea what all the fuss is about.  HTML and XML both work for my basic site.  To me, anytime something is over-hyped, someone is trying to sell me a bill of goods.\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'The fuss is about freedom'
+    hostname: 82.108.129.98
+    created: '1200996988'
+    body: "> I have been using open office and abiword for the past few years with no problems \r\n\r\nThis may be why you have no idea what the fuss is about :o)\r\n\r\n> HTML and XML both work for my basic site.\r\n\r\nI think you've got the wrong end of the stick here. XML is a document standard which  pretty much permits anybody to define their own markup tags (schema). As long as you have all your tags properly defined and they are used in the correct manner then it's XML.[1] __But__ You don't have to tell anybody what the schema is.\r\n\r\nTony is using his experiences over converting the FSM website XML to Markdown as an example of what lies in store for people writing converters from one XML schema (ODF) to another (OOXML). The problem is that the creators of OOXML a) are not really telling everyone else all they need to know and b) have a history of changing such things without notice just to keep their market share.\r\n\r\nThink of it like this: You define an XML schema which contains tags for bold and italic text (Let's say &lt;strong> and &lt;em> respectively). Now I define one  but my tags are &lt;bd_0> and &lt;i_0> . The thing is I don't tell you what my tags are and I compress my documents inside an encrypted archive to which only my products have the key.[1]\r\nHow do you convert your documents to my format or vice-versa? Reverse engineering is against the licence under which I offer my products so you are stuck. Even if afetr a lot of brute force you get an unencrypted document - what is to stop me \"upgrading\" my schema and slightly changing the tags you now have?\r\n\r\nThe only thing that prevents this kind of behaviour is to have an open standard which is settled upon by many not one and which is publicly available for all to use.\r\n\r\nIn every argument I have seen for OOXML I am yet to see anything which actually says why it is necessary for Microsoft to have their own format - other than greed.\r\n\r\n> To me, anytime something is over-hyped, someone is trying to sell me a bill of goods.\r\n\r\nAh, but this is about more than a single bill of goods - this is about tying you down so that _every_ bill of goods you buy must go through one vendor (not a great analogy but I'm just continuing your remarks).\r\n\r\ncheers\r\nRyan\r\n\r\n[1] Okay _big_ over-simplification but it works - kind of."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'PDF issues'
+    hostname: 82.108.129.98
+    created: '1200997345'
+    body: "> Btw: I reallt(sic) miss the pdf version of the magazine. Did you ever consider to bring it back?\r\n\r\nThis might help explain\r\n[http://www.freesoftwaremagazine.com/node/2498#comment-75895](http://www.freesoftwaremagazine.com/node/2498#comment-75895)\r\n\r\ncheers\r\nRyan"
+-
+    name: ted61
+    mail: ''
+    subject: 'I missed the point of OOXML.'
+    hostname: 71.146.138.86
+    created: '1201063940'
+    body: "I missed the point of OOXML.  I thought OOXML was designed to be open for all.  I figured Microsoft was up to something fishy when they decided to champion an \"Open code\".\r\n\r\nOne good thing about me checking in to OOXML is that I am an early adapter.  You guys lead the way.  I am one of the people willing to try things after people do the hard work of making things user friendly.  If I can stick with a distribution, I have no doubt the popularity is ready to take off.  I have switched over to Linux for most of my home computers with the others primarily for games.\r\n\r\nMaybe Microsoft sees us early adapters making our own web sites from Linux computers using web hosts that run Linux servers.  I am using Word Press on one site and PHPBB on another.  I have little technical knowledge to build my sites.  I have two computers on one desk.  One for instructions and one for the operation.\r\n\r\nI hope OOXML does not become a standard.  It was very frustrating to have to learn to add special code to make my stuff line up in IE7.  It still does not line up properly in all of the different Explorer browsers."
+-
+    name: ovelarsen
+    mail: ''
+    subject: 'For M$ it''s not about the present - but the future'
+    hostname: 89.150.73.40
+    created: '1201074039'
+    body: "Hi\r\nGood writing - but there seem to be more and more stories comming out - in the file-formar debate - that the huge work on ISO standard - is about the future formats in M$ in 2009. \r\n\r\nThe scheduled 2009 release of Windows 7 (or whatever it's called)- and Office - have been in the pipeline for a long time - and the development of there new version of there OS and Office depend on M$ version of XML.\r\n\r\nThat is why they work so hard - and put a HUGE amount of money and people into this - to get there format to become a global ISO standard.\r\n\r\nWe saw it in the ODF debate - and this time the opensource community - feel the full force of this multi billion $ company - with there lawyers and 'independent research' that come out.\r\n\r\nAnd M$ just don't get it - they just don't understand the world outside the company - as it was reported a couple of days ago http://www.fsdaily.com/Community/Microsoft_wants_open_sourcers_to_write_an_OOXML_translator\r\n\r\nPeace"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'missing the point'
+    hostname: 212.159.106.192
+    created: '1201132655'
+    body: "> I thought OOXML was designed to be open for all.\r\n\r\nYes it's that word \"open\" at the start -- but of course OOXML is designed to make money. At least that is the only reason I can think of why MS would spend all that R&D time developing a format when an open standard one exists and is all they needed really.\r\n\r\n> I hope OOXML does not become a standard. It was very frustrating to have to learn to add special code to make my stuff line up in IE7. It still does not line up properly in all of the different Explorer browsers.\r\n\r\nI think you may have indeed missed the point--slightly. Whilst IE7 will display OOXML directly (and not ODF BTW) and I am sure M$ would love it if people wrote web content in it--you should remember that OOXML (Open Office XML) is primarily an _office_ document format and in that has little to do directly with IE.\r\n\r\nThat said I agree that coding web content to view in the various IE versions is a nightmare. My preferred technique is to produce four CSS files. One for Firefox/Opera/Konqueror/Safari et al, one for IE5.5, one for IE6 and one for IE7. Then I chuck in a script which detects the browser and presents the relevant css links.\r\n\r\ncheers\r\n\r\nRyan"

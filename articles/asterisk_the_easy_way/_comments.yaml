@@ -1,0 +1,56 @@
+-
+    name: ''
+    mail: ''
+    subject: eh..
+    hostname: 74.193.79.81
+    created: '1171218158'
+    body: "asterisk really needs to be redesigned/rewritten or something.... have you looked at the code? \r\nif your thinking about going the F\\OSS VoIP route, i would recomend that you look at freeswitch as well as asterisk...\r\n\r\nfor more information about freeswitch check out http://wiki.freeswitch.org\r\n\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'wants help for asterisk vicidial config'
+    hostname: 59.176.117.60
+    created: '1171731357'
+    body: "I'm involve software development last 10 years. I want to somebody help. Please contact me\r\n\r\nRegards\r\nNaveen\r\nMobile # 91-9868898483\r\nnaveenc@del1.vsnl.net.in\r\n"
+-
+    name: choup
+    mail: ''
+    subject: FreeSWITCH
+    hostname: 72.148.244.139
+    created: '1173238675'
+    body: 'Yeah, that would be a good idea since FreeSWITCH isn''t even a real release yet and Asterisk has numerous deployments and derivative works with numerous deployments. If I were looking for something that is baked and ready to go, I would go with Asterisk, AsteriskNOW, Trixbox, or one of the many derivative works long before I would waste my time on not fully baked projects...'
+-
+    name: ''
+    mail: ''
+    subject: zaptel
+    hostname: 125.19.44.249
+    created: '1175928277'
+    body: 'what is the use of zaptel?how it work & what is the main roll of zaptel in asterisk?'
+-
+    name: ''
+    mail: ''
+    subject: installation
+    hostname: 125.19.44.249
+    created: '1175928377'
+    body: "how to install asterisk in linux?\r\n\r\n\r\n\r\n\r\n\r\n\r\nkamal joshi"
+-
+    name: 'Anonymous visitor'
+    mail: fuyeus@yahoo.com
+    subject: 'RE:how to install asterisk in linux'
+    hostname: 193.220.77.20
+    created: '1178118718'
+    body: "\r\n HI,\r\n I will advice you to, use suse 10.2, it comes with all that you need to install asterisk, but you need to choose the packages when you are installing suse 10.2 but better still use tribox it much more easier "
+-
+    name: Hoffsy
+    mail: hoffsy@gmail.com
+    subject: IAX2
+    hostname: 77.46.132.183
+    created: '1190795933'
+    body: "Thanks for a great article. This is the first time that I've seen everything explained for technical users who don't necessarily have a background in tel-com.\r\n\r\nWould it be possible to include an example of using an alternative trunking for external calls. A lot of asterisk users are purely VOIP since the PSTN interface hardware costs money. An example using IAX2 trunking would be fantastic.\r\n\r\nKeep up the excellent work!\r\n\r\nH"
+-
+    name: Prosper
+    mail: prosper@mypowerserve.com
+    subject: Help
+    hostname: 124.105.137.51
+    created: '1195592586'
+    body: 'hi Sir!  I tried installing asterisk over Linux Gutsy with my 64bit AMD. I followed your instructions here but I am not successful.  Please help. I am not just a common user and not a Developer. '

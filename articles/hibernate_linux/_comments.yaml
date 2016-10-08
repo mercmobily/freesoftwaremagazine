@@ -1,0 +1,56 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Distros that already come with Hibernate'
+    hostname: 213.33.31.240
+    created: '1168615313'
+    body: "I just wanted to mention that for many users, Hibernate on GNU/Linux can be even easier. (Especially of interest to those who consider switching from Windows or the Mac and might be scared off by lengthy walkthroughs like this.)\r\n\r\ngNewSense (www.gnewsense.org) and Ubuntu (www.ubuntu.com) both come with Hibernate already configured. So, for the user it's just a matter of clicking \"Shut Down\" -> \"Hibernate\". (I'm sure there are others too, but these are the ones I know.)"
+-
+    name: 'Raghu Kodali'
+    mail: ''
+    subject: 'Distros that already come with Hibernate'
+    hostname: 61.246.59.95
+    created: '1168793642'
+    body: 'Debian Etch (Testing still) also has the hibernate built in. It worked out of the box for me on my Thinkpad (R51)'
+-
+    name: ''
+    mail: ''
+    subject: 'Distro''s that come with Hibernate'
+    hostname: 80.127.41.119
+    created: '1168936700'
+    body: "openSUSE 10.2 has it enabled by default too (I haven't tried it yet though), what I don't understand is this: \r\n\r\n<cite>swsusp will not work with Symmetric Multi Processing (SMP) enabled in your kernel</cite>\r\n\r\nBut openSUSE has 2.6.18 with SMP as default kernel"
+-
+    name: ''
+    mail: ''
+    subject: 'Mac Suspend Techniques'
+    hostname: 69.210.38.174
+    created: '1168999824'
+    body: "I hear the mack is always updating changes in ram to the hybernation partition so that when a hybernation action is called for there is less writing necessary.  I'd really like to see this functionality brought to Linux.\r\n\r\n-Joe Baker "
+-
+    name: ''
+    mail: ''
+    subject: 'Distros that already come with Hibernate'
+    hostname: 68.166.6.34
+    created: '1169491330'
+    body: "Tried nearly all recent versions of Ubuntu to try out the Hibernate feature..works like crap.\r\nWent back to Windows just bcoz I wanted this feature rather than waiting for Ok, Linux booting now."
+-
+    name: ''
+    mail: ''
+    subject: thanks
+    hostname: 124.7.120.199
+    created: '1174846703'
+    body: thanks
+-
+    name: UK
+    mail: anewculture@yahoo.com
+    subject: 'It was raining heavily with'
+    hostname: 68.18.33.203
+    created: '1181781815'
+    body: "It was raining heavily with lightning while my lengthy fortran code had been running on my dekstop pc for about a day, I simply hybernated Ubuntu and once the rain stopped I was able to continue from where it's left, This is a very useful feature which really worked and helped me, \r\n\r\nI'm wondering what'll happen if I unplug the computer after hybernating, I'll see if writes the current state to the RAM or to the Harddisk. I'm assuming the latter is true."
+-
+    name: original_jamingrit
+    mail: ''
+    subject: 'Wanted to say thank you!'
+    hostname: 216.48.160.147
+    created: '1218072631'
+    body: "I know this probably wasn't the most up to date article on Linux hibernation, but it worked perfectly for me.\r\n\r\nFollowed the swsup method.  I'm running SW 12.1 on a Toshiba Satellite MX40 series.  Worked like a charm."

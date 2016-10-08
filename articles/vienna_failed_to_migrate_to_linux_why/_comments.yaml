@@ -1,0 +1,63 @@
+-
+    name: ellaguno
+    mail: ''
+    subject: 'We must learn on failures'
+    hostname: 189.168.13.154
+    created: '1213040141'
+    body: "As you said a migration is a major event, and is a complex process particularly the human change management part. We must learn on failures, when you only hear the nice part of the events it is imposible to avoid mistakes.\r\n\r\nYou mention about the German government with Vienna, wasn't it the Austria government or is this a shared project.\r\n"
+-
+    name: admin
+    mail: ''
+    subject: 'Originally German...'
+    hostname: 82.59.139.45
+    created: '1213081551'
+    body: "Hi,\r\n\r\n-------------------\r\nYou mention about the German government with Vienna, wasn't it the Austria government or is this a shared project.\r\n--------------------\r\n\r\nIt was a German project *originally*. However, I guess it got adopted by the Gran speaking world as a whole.\r\n\r\nA lot of information about it is in German, and I can't speak it :-D\r\n\r\nMerc."
+-
+    name: swiftnet
+    mail: ''
+    subject: 'Migration experience'
+    hostname: 75.148.106.142
+    created: '1213372145'
+    body: "I've migrated several smb office's from Windows to GNU/Linux. In every case I setup access to Windows sessions via a Terminal Service type program (RDP, NoMachine's NX, etc). A dedicated server running virtualization such as Xen, VMware, etc. would house the Windows sessions. In order to keep users from staying in the Windows sessions, Internet, email, multimedia, etc are disabled. In most instances we ran a modified RDP so only the specific applications that required Windows would open up in a Window on the Linux desktop. This method works extremely well. Yes, these shops are not '100% Microsoft Free', but they all have enjoyed cost savings and higher uptime due to the migration.\r\n\r\nCheers,\r\n\r\nAlex C."
+-
+    name: viennaguy
+    mail: ''
+    subject: 'Your article contains TOO many errors'
+    hostname: 80.245.194.238
+    created: '1213481260'
+    body: "Your article contains so many important errors, you should revise it. You should also apologize to the City of Vienna IT once you review the facts:\r\n\r\nVienna never created it's own distribution. They intended to do so, but in the end they rolled out basically unmodified Debian to 1000 of their 32000 workstations.\r\n\r\n750 of those workstations are now reversed to Debian/XP (NOT Vista) Dual boot.\r\n\r\nThe \"Schlaumäuse\" Software was never part of the project or discussion. The real reason for the reversal can be read here: http://futurezone.orf.at/it/stories/285045/ (IT Pages of Austrian Televiosion, in German). Basically it confirms that the \"Schlaumäuse\" rumor is a rumor without any truth. It also confirms that the real reason is: The (non-IT) administrator for Vienna's Kindergartens ordered software (\"Bi-Cube LC\" from German software company iSM in Rostock), unaware there is no Linux version. iSMs CEO is quoted that iSM could have done a Linux version, given enough time and resources, as iSM does solutions on any platform.\r\n\r\nYou should be aware that a lot of the bad-mouthing of the City of Vienna's IT is coming from Green politician Marie Ringler. However, another Green politican was part of a feasibilty study 2  years ago, with the result that conversion of the City's 32000 desktops to Linux would be financially unattractive.\r\n\r\nPlease cheack your sources, there is no reason to bad-mouth the City of Vienna IT. They do an excellent job and are not platform focused. E.g., the majority of their server software is running Linux today (400 servers running Linux)\r\n\r\nIt would be fair to check your sources and post a correction and apology.\r\nE.g., contact the City of Vienna (e.g. Mr. Peter Pflägling (pfp@adv.magwien.gv.at) who coordinates most Open Source activities for the City of Vienna and even speaks at local Linux Days)\r\n\r\nHelp spreading Linux, but help to stop FUD.\r\nThis story is FUD driven by an ambitious politician.\r\nYou can easily verify this by talking to the people involved.\r\n"
+-
+    name: admin
+    mail: ''
+    subject: 'My answers...'
+    hostname: 98.216.111.246
+    created: '1213497214'
+    body: "Hi,\r\n\r\n1) The *intention* to create their own distribution is ludicrous enough. Reverting to Debian rather than Ubuntu for *desktop* systems is asking for trouble (which, as far as I understand, they got)\r\n\r\n2) I talked to a couple of people in the project, and no, it wasn't just about _one_ product that was incompatible with the kindergarten's intentions, but a _series_ of pieces of software aimed at children. Wine developers are trying to help here.\r\n\r\n3) I will leave politics out of my response\r\n\r\n4) I will gladly run an interview with Peter Pflägling if he's available.\r\n\r\nBye,\r\n\r\nTonny  Mobily"
+-
+    name: hjp
+    mail: ''
+    subject: 'building "their own distribution"'
+    hostname: 81.223.91.228
+    created: '1214173166'
+    body: "I don't think this is ludicrous. It's what you do when you prepare to install a collection of software on more than a handful of computers.\r\n\r\nEven if you install Windows: You select the software, prepare the desktop, create a software repository, and prepare install media. Ok, nobody in the Windows world would call this \"building a windows distribution\", but it's just what a linux distribution is: A collection of OS and applications ready to be installed.\r\n\r\nIf you start with a common linux distribution (which includes a lot more software than Windows) the work required may be mostly to select a reasonable default set of packages to install, and prepare a default user environment, but you may also need to include some extra software (Hey, I'm building my own Debian and Redhat packages, and I've only a few dozen servers to maintain, not 1000 desktops ...).\r\n\r\nAs for Debian vs. Ubuntu: AFAIK the Wienux project started well before Ubuntu was available.  They could have switched, but migrating from Debian to Ubuntu is a migration, too - a smaller migration than from Windows to Linux, but still painful. "
+-
+    name: admin
+    mail: ''
+    subject: '"building" a distribution'
+    hostname: 201.218.72.23
+    created: '1214229180'
+    body: "Hi,\r\n\r\nSorry, but \"no\". Building a distribution is _not_ about picking packages. That's about 0.5% of the deal -- maybe less.\r\n\r\nThis is a NON-comprehensive list of things you need do to to *maintain* a distribution:\r\n\r\n* Pick the packages you are going to install\r\n\r\n* Create an installer. The installer needs to pick the right hardware, etc.\r\n\r\n* Make security updates available to your users.\r\n\r\n* Make feature updates available. Now... this needs to be done carefully, because theree is a rather high chance of breaking a few things. For example, newer programs might need a new library, etc. This is very time consuming, and requires you to have a bunch of people testing things beforehand.\r\n\r\n* Have a nice system to keep up with bug reports, distro-specific questions, etc. This is _expensive_ in terms of time\r\n\r\nI hear you say \"yeah, but it's simply based on Debian\". Well, Ubuntu is \"simply based on Debian\". And it's stull _truckloads_ of work. If you don't believe me, see what happens in the Ubuntu but report system when they merge back to Debian, about 2 months before a new release of Ubuntu is out.\r\n\r\nThere is a difference between theory and practice.The practice of building and maintaining a distribution is \"a lot of work\". I think the IT department in Vienna found that out... To me, what they should do is admit their mistake and switch to Ubuntu.\r\n\r\nMerc.\r\n"
+-
+    name: craigTFD
+    mail: ''
+    subject: 'Fact checking and package naming'
+    hostname: 24.117.228.210
+    created: '1217266392'
+    body: "\"Keep in mind that back in 2003 Firefox didn’t even exist yet.\" \r\n\r\nDespite this, I was running a Red Hat distribution with the Netscape and Mozilla browsers on it back at this point in time. Since then, the code has been forked into Firefox and Seamonkey/Iceweasel/whoKnowsWhatItsNameWillBeNextWeek.\r\n\r\nMost of the Windows world is slowly converting to OpenSource via FireFox and OpenOffice. I'm hoping now that Evolution runs well on Windows boxes, that we can get rid of Outlook (in addition to IE and Office) for them too.\r\n\r\nIt is always easy to fault the people who do something. At least they tried.\r\n\r\nI've always rewritten the Microsoft OS before installing it. I find it gives me a better sense of what Bill and Steve had to put up with (sarcastic voice).\r\n\r\nWithout a small scale trial (i.e. lab environment) to test user requirements and operation subsystem by subsystem, any migration is going to face difficulties. They could have found out about such obstacles as \"Schlaumäuse\" early on, and had the option of migrating the package or migrating the environment by emulation (Terminal Server, Xen, etc.) as swiftnet mentions.\r\n\r\nBut to say that packages didn't exist, when 80% of the code is still the same..."
+-
+    name: hjp
+    mail: ''
+    subject: 'You don''t need to create an'
+    hostname: 81.223.91.232
+    created: '1217274822'
+    body: "You don't need to create an installer if you are forking an existing distribution. The installer which already comes with it is probably good enough (Although you might want to have a look at FAI, etc.)\r\n\r\nSecurity updates: If you keep resonably in sync with your parent distribution, you can mostly rely on them. You still need to keep track of any additions you made, as well as some stuff which affects you but wont be patched by the parent. But then again, not every bug will affect you.\r\n\r\nFeature updates: Yup, happens, but again, you can mostly move together with the parent. If you need to upgrade something before the parent, it's usually only a few apps or libraries you need to upgrade - don't forget this is a corporate environment which is a lot more conservative than your average geek's home.\r\n\r\nSo, what basically remains is support: Yes, if you have 20000 Users, you have to support them. That's costly. If you have thousands of users migrating from one environment to another, you have to support them more, and that's even more expensive. But that doesn't change whether you call the environment of your users \"a distribution\" or not. A rose is a rose ... \r\n\r\nThis is not at all comparable to Ubuntu vs. Debian, where the gap is much wider.\r\n\r\nOh, and as I recently learned, they have switched to Ubuntu quite some time ago - the current distribution is based Ubuntu 7.x, an upgrade to 8.04 is planned. Unlike Munich's Limux, which is still based on Debian Sarge, with an Upgrade to Debian Etch(!) being planned."

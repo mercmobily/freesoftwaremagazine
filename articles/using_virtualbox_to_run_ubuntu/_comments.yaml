@@ -1,0 +1,343 @@
+-
+    name: Lucanuscervus
+    mail: lucanuscervus@gmail.com
+    subject: 'A linux  64 bits box.'
+    hostname: 213.212.70.122
+    created: '1181052739'
+    body: "Dear Andrew,\r\n\r\nUnfortunately, virtualbox <strong>doesn't run</strong> on a 64 bits box.Therefore, Vmware is the only available option.\r\n\r\nFrom VIrtualbox wiki website:\r\n\r\nVirtualBox does not yet support 64-bit hosts. This is actively being worked on. (And no, you can't install the 32-bit version on a 64-bit host.)"
+-
+    name: 'Anonymous visitor'
+    mail: r_cornet@hotmail.com
+    subject: 'The author has incomplete knowlege of QEMU'
+    hostname: 190.128.148.235
+    created: '1181054450'
+    body: "QEMU has long supported \"pausing\" a virtualized OS. QEMU is not extremely complicated, except perhaps for compiling the kqemu kernel kernel for hardware accelleration in x86 environments. But if you have to compile the kernel module for VirtualBox, I don't see why\r\nit would be \"extremenly complicated\".\r\n\r\nIt might not be \"easy\", but is not more difficult than using cat, less, grep or any command line software. Since the author seem to call \"easy\" only something with a point&click interface.\r\n\r\nIn my opinion QEMU is far easier than setting up Xen por example.\r\n\r\nqemu-img create MyVirtualHardDisk.img 10GB\r\nqemu -hda MyVirtualHardDisk.img -cdrom /dev/hdb -boot d -m 128 -monitor stdio\r\n\r\nOn 2 lines its already running booting from CD with 128MB of ram with standard I/O for controling fine tuning."
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Hmm..
+    hostname: 68.197.66.72
+    created: '1181075558'
+    body: "<cite>QEMU has long supported \"pausing\" a virtualized OS.</cite>\r\n\r\nReally?  How?\r\n\r\n<cite>It might not be \"easy\", but is not more difficult than using cat, less, grep or any command line software. Since the author seem to call \"easy\" only something with a point&click interface.</cite>\r\n\r\nIs it easier to teach a new GNU/Linux user how to use a GUI, or learn the command line?  I personally love the command line for certain things, but not every new GNU/Linux user does.\r\n\r\n<cite>In my opinion QEMU is far easier than setting up Xen por example.</cite>\r\n\r\nAgreed, but is it easier than VBox?\r\n\r\n--\r\nAndrew Min"
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'Guess what?'
+    hostname: 68.197.66.72
+    created: '1181145953'
+    body: "VirtualBox must have heard you, since 1.4 was just released WITH support for 64 bits.\r\n\r\n--\r\nAndrew Min"
+-
+    name: Freejack
+    mail: ''
+    subject: 'added support for AMD64 hosts'
+    hostname: 84.58.50.59
+    created: '1181155654'
+    body: "Jun 5, 2007 VirtualBox 1.4.0 released!\r\n\r\nWith version 1.4.0 innotek added AMD64 machines as host.\r\n\r\nDownloads can be found here: http://www.virtualbox.org/wiki/Downloads\r\nChange log here: http://www.virtualbox.org/wiki/Changelog\r\n"
+-
+    name: luisgustavoneves
+    mail: ''
+    subject: 'Virtual Box and Dual Boot'
+    hostname: 200.179.65.110
+    created: '1181157567'
+    body: "I have a Win/Linux dual boot machine at work with two hard disks. \r\nIs there a way I can use Virtual Box or Qemu to boot using as guest the OS installed in the other physical hard disk and Linux or Windows as host? "
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'Sort of...'
+    hostname: 68.197.66.72
+    created: '1181160022'
+    body: "I believe VirtualBox has support for \"raw disks\", but I don't know how to use it.  VMWare Server has support, but I never got it to work (plus, VMWare Server is proprietary, only free as in beer).\r\n\r\n--\r\nAndrew Min"
+-
+    name: 'Edmundo Carmona'
+    mail: ''
+    subject: 'Here''s how'
+    hostname: 201.245.244.21
+    created: '1181165187'
+    body: "I can only speak about running qemu on linux:\r\n\r\nOn the fake monitor, if you type alt-ctrl-2 (not F2), you will get to a command line interface... qemu's CLI. There you can send keyboard combinations (like alt-ctrl-del, so you can restart your virtual computer) send a power down, or reset, or use commands like 'stop' to make the VM stop.\r\n\r\nAfter stopping, you can save the VM state into a file (with savevm) so you can \"reload\" it for later execution (that's why you have the qemu -loadvm option).\r\n\r\nThere's also a help command that can tell you the commands you have available.\r\n\r\nThe info about this \"hidden\" CLI is in qemu's man page."
+-
+    name: 'Edmundo Carmona'
+    mail: ''
+    subject: 'I guess you can with qemu...'
+    hostname: 201.245.244.21
+    created: '1181166140'
+    body: "Just remember that if you tell qemu to boot using one of those disks (using the disk raw device: /dev/hda or /dev/hdb or whatever... which already means you face a permission problem), qemu will probably boot the system... BUT qemu is in itself a different computer from the one you are running... so no matter what OS you will try to boot, there will be driver recognition involved, if not full stop (like XP would do because it's a different computer from the one it's installed on, right? XP's license is bound to the computer, not the HD).\r\n\r\nIt _could_ be something like:\r\n\r\nqemu -hda /dev/hda\r\n\r\nIn case you do try.. keep me posted. :-)\r\n\r\nPS I must sound like a qemu fan by now.... but I'm not... not yet, at least. It just happens to be the tool I've been fiddling with lately."
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Yeah
+    hostname: 68.197.66.72
+    created: '1181166258'
+    body: "If you figure something out, I'd like to know too (neither VBox or VMWare worked, though that could be because it's trying to boot something on the same hard drive as an active one...)\r\n\r\n--\r\nAndrew Min"
+-
+    name: undefined
+    mail: ''
+    subject: 'qemu & "host drives"'
+    hostname: 192.91.172.42
+    created: '1183411183'
+    body: "<cite>QEMU can directly access host devices</cite>\r\n- http://fabrice.bellard.free.fr/qemu/qemu-doc.html#SEC20"
+-
+    name: undefined
+    mail: ''
+    subject: 'qemu gui'
+    hostname: 192.91.172.42
+    created: '1183416668'
+    body: "i am using qemu-launcher and qemuctl in debian testing & ubuntu feisty.\r\n\r\ni had some problems with the version of qemu-launcher in ubuntu launching qemuctl, but i didn't try to debug it as i created a wrapper for qemu (if $DISPLAY, then run qemuctl, else qemu) and that works.  the qemu-launcher in debian is newer, has a better interface, and i don't remember having any problems setting it up.\r\n\r\ni don't use qemu-launcher or qemuctl much beyond the simple use cases because i initially learned to do everything manually and often revert to that.\r\n\r\ni would like to try virtualbox to compare it against qemu, but until the debian package progresses to a buildable state, i'll stick to qemu.  http://bugs.debian.org/406992"
+-
+    name: zetra010
+    mail: zetra010@gmail.com
+    subject: 'Using VirtualBox to run Ubuntu and any other operating system'
+    hostname: 202.164.142.102
+    created: '1183540003'
+    body: 'see http://hotshadow.com/Using_VirtualBox_to_run_Ubuntu.aspx'
+-
+    name: 'Marc C'
+    mail: marccouture@hotmail.com
+    subject: VirtualPC
+    hostname: 70.82.53.29
+    created: '1183544657'
+    body: 'Ubuntu also installs and works just fine on Micro$oft''s VirtualPC under XP, now a free download.'
+-
+    name: xivulon
+    mail: nomail@gmail.com
+    subject: 'Wubi is probably the easiest'
+    hostname: 194.50.86.129
+    created: '1183546624'
+    body: "Wubi is probably the easiest way to try Ubuntu today. And it runs it at full speed with full hardware access.\r\n\r\nhttp://wubi-installer.org\r\n\r\n\r\n\r\n"
+-
+    name: Point-less
+    mail: pl@example.com
+    subject: 'You All Miss The Most Important Point'
+    hostname: 70.126.254.76
+    created: '1183558425'
+    body: "Ease of use, GUI's, freeness and so forth are pointless. The most important feature for a virtual machine is SPEED! Which virtual machine performs the fastest and the closest to native hardware speeds. I don't understand how all of these articles about virtualization can and do completely ignore this most important attribute.\r\n\r\nIn this article the closest mention of speed is where you say that the free VMWare server is not as fast as the professional version, which isn't discussed at all in the article. Talk about a pointless and arbitrary benchmark.  Nowhere do you compare the speed of VirtualBox to Qemu or VMWare.\r\n\r\nI don't care if the product is gratis, libre, $1,000,000, easy or hard. These attributes are pointless in comparison to the most important and most ignored issue. Is the virtual machine the fastest available?"
+-
+    name: VeRTiTo
+    mail: vertito@gmail.com
+    subject: 'well, i would stay with'
+    hostname: 83.229.64.3
+    created: '1183558510'
+    body: "well, i would stay with virtualbox and/or vmware to do deeper messing stuff with any OS children :)\r\n\r\nhere is my 2 cent of installing virtualbox with fedora\r\n\r\nhttp://vertito.blogspot.com/2007/07/howto-install-virtualbox.html\r\n"
+-
+    name: kaso_da_zmok
+    mail: ric@gmx.li
+    subject: 'I have tried virtual box and would stick with vmware'
+    hostname: 84.203.51.151
+    created: '1183594178'
+    body: "I am using vmware server and vmware workstation, tried virtual box and the interface and features of it are vmware rip off in my opinion, i had vmware workstation and virtual box on my gentoo and the system hung after some time. so i removed the virtualbox and is working fine (my gentoo laptop) \r\nI had also dualboot windows vs gentoo and vmware server in both to boot the other. On gentoo you have to compile kernel that fits the physical and also virtual hw. On Windows you should have Hw profiles created. the only problem with running the windows from the physical partition is the blue screen with inaccessible boot device error code 0x000008b (not sure bout the correct code right now)   "
+-
+    name: piedoggie
+    mail: esj@harvee.org
+    subject: 'speed is all that counts'
+    hostname: 70.91.135.121
+    created: '1183594970'
+    body: "speed of I/O that is.  One of the things that drives me absolutely insane about VMware is that if you have multiple virtual machines accessing a disk, load average climbs through the roof and performance really drops.  Any ideas on that?\r\n\r\nWith regard to QEMU, and thinking about using it to provide virtual machines in a firewall context.  The thought is, each virtual machine would hang off of the DMZ interface and be treated as if it were a machine on the DMZ.  I wasn't able to get any feedback on the qemu forums as to whether or not this was practical about them hoping I'll have the time to do so in the next few weeks."
+-
+    name: undefined
+    mail: ''
+    subject: 'you missed the most important point...'
+    hostname: 68.94.189.15
+    created: '1183609615'
+    body: "...of this website.\r\n\r\nThis is the <strong>FREE</strong> software magazine website, and not necessarily the \"fast\", \"featureful\", or even \"feel-good\" website.  maybe \"fanatical\", but that might just be me.\r\n\r\nheck, the first goal of this website is \"to promote <strong>free</strong> software and its use\" (see for yourself @ http://www.freesoftwaremagazine.com/about).\r\n\r\nmaybe you meant to visit:\r\nhttp://www.microsoft.com/windows/\r\nhttp://www.apple.com/macosx/\r\nhttp://www.imdb.com/title/tt0232500/\r\n\r\nyou might even like http://www.opensource.org/docs/osd\r\n\r\nbut definitely stay away from http://www.fsf.org/licensing/essays/free-sw.html"
+-
+    name: themacmeister1967
+    mail: craig.cooper@gmail.com
+    subject: 'VirtualBox doesn''t work under WinXP SP2!'
+    hostname: 144.131.32.235
+    created: '1183616508'
+    body: "I tried installing 5 very different Linux and Unix-Like operating systems under VirtualBox, and it failed miserably on each one - 0% success.\r\n\r\nI am not a n00b when it comes to virtualisation, but this program needs months (years?) more testing and improvement before being unleashed on an unsuspecting public - at least QEMU works as advertised.\r\n"
+-
+    name: OIC
+    mail: oic@example.com
+    subject: 'You''re Right!'
+    hostname: 70.126.254.76
+    created: '1183639538'
+    body: "Forget about performance and forget about which tool is better for the very specialized job and forget about features. The important thing is to feel good about FREE software. Forget about its shortcomings. Avoid discussing its deficiencies and possibly effecting improvement. This is Free Software Magazine so, you should all bury your heads in the sand and ignore the outside world completely. Better you spend time reading FLOSS licenses and reciting the mantra so as to reinforce your banal philosophy. Get over yourself!\r\n\r\nThe article is about VirtualBox. That's great. The article rightly contrasts VirtualBox with the other major players in the virtualization field. That's fine and is the proper way to write such an article. But, the article and all the other articles about virtualization software completely ignores the most important attribute of virtualization software and that is performance. It doesn't matter how many features it has if it doesn't perform. It doesn't matter if it is free or even if it is made out of platinum. What matters is how it performs compared to other virtualization software and/or running natively on the hardware.\r\n\r\nYour self confessed fanaticism makes you ignorant. Enjoy.\r\n"
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'Problem with VirtualPC...'
+    hostname: 68.197.66.72
+    created: '1183645048'
+    body: "...is that it is REALLY slow.  After all, it's optimized for Windows.  VirtualBox can be optimized for several operating systems (different flavors of GNU/Linux, BSD, Windows, etc).\r\n\r\n--\r\nAndrew Min\r\nhttp://andrew.timstown.net/dock.htm"
+-
+    name: undefined
+    mail: ''
+    subject: 'feedin'' the trolls'
+    hostname: 192.91.171.36
+    created: '1183680766'
+    body: "<cite>Forget about performance and forget about which tool is better for the very specialized job and forget about features.</cite>\r\n\r\nwhen did i ever say that performance, features, or applicability are irrelevant?  hint: i didn't.  but that is what the parent post said regarding performance: \"forget about software license and forget about which tool is better for the specialized job and forget about features\" (paraphrased in your terms).  i merely pointed out that as this is a self-proclaimed <strong>free software</strong> web site, don't expect performance to be the only criteria, or even the most important one.\r\n\r\n<cite>The important thing is to feel good about FREE software.</cite>\r\n\r\ni specifically said the F in FSM stands for \"free\", not \"feel-good\".\r\n\r\n<cite>Forget about its shortcomings. Avoid discussing its deficiencies and possibly effecting improvement. This is Free Software Magazine so, you should all bury your heads in the sand and ignore the outside world completely.</cite>\r\n\r\nfeel free to discuss it's shortcomings.  i myself mentioned the shortcoming of no official debian packages.  i even disagreed with statements made by the article's author about the functionality of qemu graphical front-ends.  please, if you think performance comparisons are missing from this article, then run some benchmarks and publish your findings here as a comment.  saying \"performance is all that matters and it sucks!\" is provably wrong (because if performance was really all that mattered then we would be running native hardware) and doesn't \"effect improvement\".\r\n\r\n<cite>The article rightly contrasts VirtualBox with the other major players in the virtualization field. That's fine and is the proper way to write such an article.</cite>\r\n\r\nin an article about \"Using VirtualBox to run Ubuntu and any other operating system\" you expect a product review/comparision?  this wasn't a software virtualization product comparison, or even a virtualbox review, but an introduction on how to use virtualbox.  it just happens to mention in the introduction how the author decided upon virtualbox.  so why are people expecting performance reviews & comparisons?\r\n\r\n<cite>But, the article and all the other articles about virtualization software completely ignores the most important attribute of virtualization software and that is performance.</cite>\r\n\r\n\"most important\"?  don't make the logical fallacy of projecting your situation onto everybody else.  for me virtualization just has to be \"fast enough\", with higher importance put on software license, community support, cost, customizability, etc.\r\n\r\nwhen i'm required to use windows, i use vmware.  it's free, has a decent user interface, a sizable community, and is fast enough.  is it faster than virtual pc?  i don't know and don't care as vmware fulfills my performance criteria and virtual pc doesn't fulfill all of my other criteria.  on linux i refuse to use binary kernel modules and refrain from using closed source.  i've done a cost/benefit analysis and the cost outweighs the benefit, so i use qemu.  once official debian packages become available (even in prerelease form from the debian developer) i'll try virtualbox.  only if virtualbox is equal to qemu in all higher priorities will performance be the deciding factor.\r\n\r\n<cite>It doesn't matter how many features it has if it doesn't perform. It doesn't matter if it is free or even if it is made out of platinum. What matters is how it performs compared to other virtualization software and/or running natively on the hardware.</cite>\r\n\r\nno, what matters is how it performs compared to requirements.  you need the fastest solution?  run real hardware.  oh, so something slower than native hardware is \"fast enough\" when balanced against other higher priorities?  funny that.\r\n\r\nperformance is not my top priority and probably isn't for a few other regular readers of <strong>free</strong> software magazine.  as long as it performs \"fast enough\" for my particular use, i don't care if it is the fastest.\r\n\r\n<cite>Your self confessed fanaticism makes you ignorant.</cite>\r\n\r\nhumorous that i'm labeled a \"fanatic\".  i'm not the one making self-proclaimed, narrow-minded, absolute statements (ie \"the most important attribute of virtualization software... is performance\")."
+-
+    name: Fabio.com.ar
+    mail: fabio@fabio.com.ar
+    subject: 'wh0t?'
+    hostname: 200.49.210.82
+    created: '1183751905'
+    body: 'i has no problem on that version of Windows, even it''s the most tested one! you can try testing a LiveCD distro like DSL or Puppy Linux to test it.'
+-
+    name: 'Anonymous visitor'
+    mail: farastray@hotmail.com
+    subject: 'I would disagree'
+    hostname: 71.196.28.159
+    created: '1184736682'
+    body: "... Virtual PC doesnt play very well with Ubuntu or linux in general, but if theres a will theres a way.  First of all, vpc will crash if you try to run it in normal mode, so only safe mode works - this may be due to the graphics drivers but I doubt it as virtualbox works fine, plus I tried it independently on 3 machines; win xp/dual xeon/nvidia, win xp/intel4/ati and a vista pentium dual core laptop computer with an ati graphics card.\r\n\r\nSecond, the mouse doesn't work in ubuntu which is due to some problem with vpc's way of interfacing the mouse driver to the OS.\r\n\r\nIn conclusion, it is WAY easier to just go with virtualbox, since its both faster and easier.\r\n\r\n// CT"
+-
+    name: rufi
+    mail: rufi@163.com
+    subject: Wubi
+    hostname: 207.46.55.27
+    created: '1184755721'
+    body: "Recently I tried Wubi, it is also a great thing.\r\nhttp://wubi-installer.org/\r\n\r\nWubi is an unofficial Ubuntu installer for Windows users that will bring you into the Linux world with a single click. Wubi allows you to install and uninstall Ubuntu as any other application. If you heard about Linux and Ubuntu, if you wanted to try them but you were afraid, this is for you."
+-
+    name: sheldon
+    mail: sbcwinn@yahoo.ca
+    subject: 'Full Screen'
+    hostname: 65.92.157.25
+    created: '1187791195'
+    body: "I am pretty well a newbie, and tried virtual box. It was really simple to setup and get going. I had two problems though.\r\n\r\n1 - I hit \"full screen\" and cannoit figure out how to get out of it.\r\n\r\n2 - I cannot get USB working.\r\n\r\nAny help would be appreciated."
+-
+    name: NutZ
+    mail: justin.l.gruwell@cox.net
+    subject: '+1'
+    hostname: 68.98.115.250
+    created: '1189303712'
+    body: 'Same here; I cannot figure out how to exit full screen. This is silly...'
+-
+    name: 'Anonymous visitor'
+    mail: nobody@example.org
+    subject: 'Both VMware and VBox work,'
+    hostname: 80.99.84.249
+    created: '1189533518'
+    body: 'Both VMware and VBox work, and XP detects VMware and allows you to run without having to activate again. You must be doing something wrong.. simply set them to boot from the physical partition (C:, /dev/hda1, etc etc); very easy.'
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Odd
+    hostname: 68.197.66.72
+    created: '1189533758'
+    body: "Odd, because half of the testing WAS done under XP SP2.\r\n\r\n--\r\nAndrew Min\r\nhttp://andrew.timstown.net/dock.htm"
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Host-F
+    hostname: 68.197.66.72
+    created: '1189533828'
+    body: "Try Host Key+F (usually Right Ctrl + F).\r\n\r\n--\r\nAndrew Min\r\nhttp://andrew.timstown.net/dock.htm"
+-
+    name: ja4509
+    mail: ja4509@att.com
+    subject: 'VBox and USB support...'
+    hostname: 139.76.128.71
+    created: '1189616648'
+    body: "I have successfully gotten USB to work on my Linux host with an MS Swindles guest by putting an entry to mount the /proc/bus/usb in the /etc/fstab file on an Unbuntu/Debian machine which isn't the way it is supposed to work on these distributions. The Unbuntu/Debian way just didn't work but when I modified the fstab it worked perfectly.\r\n\r\nAlso you have to install the host additions on the guest OS.\r\n\r\nMy big gripe with VirtualBox is on my WinXP host running Ubuntu I can't seem to get USB to work and there seems to be no one else with this problem and a fix yet either. \r\n\r\nI have tried VMware, Xen, Virtual PC (Puke and Choke), and VirtualBox. \r\n\r\nVMWare on a Windows host seems to work with little or no fiddling. However when I installed VMWare on a Linux host I spent days configuring a fixing their install. I also had many annoying minor bugs like an marker file named \"not_configured_yet\" (or something similar) showing up everytime I booted the host machine. The guy who wrote the rc script I think might have been from the seventies and suffering from LSD flashbacks. His shell scripting was a nightmare to follow and I taught Unix for years. \r\n\r\nVirtualBox however installs and runs on a Linux host flawlessly (at least for me it did.) But I did not feel VirtualBox was a good choice on a Windows host. This may only be because Windows does not play well with other operating systems.\r\n\r\nXen was arcane and complicated to setup and I had to run Ubuntu's Xen kernel which mean I would have had to re-compile a boat-load of support plus tweek stuff for a week so I didn't try.\r\n\r\nVirtual PC (Piece of Crap) was horribly slow loading from the CDROM. I spent an hour trying to figure out how to mount an ISO file which helped a bit. By the way, it only supports 16 color/pixel display which is why Ubuntu needs to be loaded in the Safe Mode (Ubuntu's default color depth is 24 color) and navigating with no mouse is painful at best. In order to get a mouse support or sharing between the host and the guest you need to load the host/guest additions software but, you probably can guess that Microshit doesn't supply a Linux version. Go figure huh, with everybody gagging on Vista you would think they would prefer you to run Linux on Windows not the otherway around. But I guess when you think you are the only game in town you get a false sense of security."
+-
+    name: 'Website Design'
+    mail: afox@alfredfox.com
+    subject: 'Great Post'
+    hostname: 65.30.20.108
+    created: '1189876964'
+    body: 'I''ve been running vmware and virtualbox off and on, but I keep coming back to virtual box. Even with 4 gigs of ram (2 for my host and 2 for my virtual) vmware is still laggy all over the place. Virtual box screams though :)'
+-
+    name: 'Dr P Singh'
+    mail: psinghp@eim.ae
+    subject: 'Wubi & Ubuntu'
+    hostname: 195.229.242.57
+    created: '1190356677'
+    body: "Hi\r\nI tried to install Ubuntu using Wubi on my three pcs. Had no success at all. these are configurations\r\n(a) Pentium IV, 2 320GB SATA , one 250GB Firefly HDs, 2GB RAM\r\n(b) Pentium IV, 2 120 GB HD, 500 MB RAM\r\n(c) Pentium III, 1 120 GB HD 1 300GB HD 500MB RAM\r\n\r\nIn all cases installation of Wubi succeeded but Ubuntu failed in each case. \r\n\r\nI followed all instruction in letters. No luck.\r\n\r\nDr P Singh\r\n"
+-
+    name: puleen
+    mail: ''
+    subject: 'Using local Windows Install as VirtualBox image?'
+    hostname: 142.245.193.9
+    created: '1190727422'
+    body: "Has anyone scucessfully been able to achieve this? I have a dual boot of Windows XP and Ubuntu 7.04 and wanted to find out if there is a way to use the Windows XP installation from the hard drive as a VirtualBox image from within Ubuntu.\r\n\r\nCheers!\r\n\r\n-Puleen"
+-
+    name: undefined
+    mail: ''
+    subject: 'virtualbox on debian & ubuntu'
+    hostname: 68.93.98.201
+    created: '1190777023'
+    body: "i've been using the debian virtualbox packages (originally \"virtualbox\", now \"virtualbox-ose\") for a month or so now and i'm really impressed by the speed.  my desktop is an AMD Athlon XP 2100+ (1700 MHz K7), about 5 year old technology, and qemu was slow and almost unbearable.  the worse part is that i couldn't enable guest-supervisor-acceleration in kqemu (only guest-userland) without my windows guest spontaneously rebooting, blue-screening, or unexplainably failing windows updates.  with near daily use, i've only had virtualbox crash a guest on me once.\r\n\r\ni recompiled the debian packages for ubuntu feisty/7.04 for my wife (only needed to recompile debian's kbuild package for feisty to satisfy virtualbox-ose's build-depends), but the speed-up over (k)qemu isn't as noticable on her hardware (AMD Athlon 64  3000+; 1800 MHz K8).  neither is virtualbox's user-friendlier interface an improvement over qemu for her as she only used virtualization for one windows application and she didn't need to mount media, create shared folders, manage snapshots, launch multiple guests, etc (though i appreciate being able to do that from a gui instead of through a terminal and the filesystem).  so if you are on fast hardware and have simple use-cases, then (k)qemu is sufficient.\r\n\r\nmy only want/need is for virtualbox to support compaction/compression in their disk format (guest-integrated by vmware or semi-manually like qemu).  i would also be nice to branch snapshots to support different guests (like with qemu's base_image support, where an image can be the base for one or more new images).\r\n\r\nif you found (k)qemu too slow or manually intensive, may i recommend virtualbox ose (open source edition)."
+-
+    name: 'Anonymous visitor'
+    mail: wouterstomp@yahoo.com
+    subject: 'It is certainly possible,'
+    hostname: 82.74.152.143
+    created: '1191686516'
+    body: 'It is certainly possible, but not without risks. You can corrupt the partition or invalidate your windows license. If you want to do so, you have to create a second hardware profile in windows and then lookup how to use a raw harddrive in vbox.'
+-
+    name: undefined
+    mail: ''
+    subject: 'google says...'
+    hostname: 68.93.98.201
+    created: '1191687840'
+    body: "googling for \"virtualbox raw disk\" (http://www.google.com/search?q=virtualbox+raw+disk) returns as the first hit this applicable thread from gentoo forums: http://forums.gentoo.org/viewtopic-t-579333.html?sid=01bff5731bac344dec70481ad80d7b18.\r\n\r\nit's amazing what the right search terms can do for you. ;-)"
+-
+    name: 'Anonymous visitor'
+    mail: example@example.com
+    subject: 'additions will not install in ubuntu'
+    hostname: 91.125.198.149
+    created: '1191792813'
+    body: "running the .run file in ubuntu fails to install additions and the VB forum has many users tuck in same way.\r\nAny idea how to get \"Then type sudo sh ./VBoxLinuxAdditions.run and hit “Enter”. Follow the on screen instructions.\"\r\nto work ?"
+-
+    name: undefined
+    mail: ''
+    subject: 'works for me'
+    hostname: 68.93.98.201
+    created: '1191868477'
+    body: "host (debian testing/lenny):\r\n\r\n<code>user@debian:~$ dpkg -l | grep virtualbox\r\nii  virtualbox-ose                                             1.5.0-dfsg2-2                    PC virtualization solution\r\nii  virtualbox-ose-modules-2.6.21-2-vserver-k7                 1.5.0-dfsg2-1+2.6.21-6           VirtualBox modules for Linux (kernel 2.6.21-2-vserver-k7)\r\nii  virtualbox-ose-source                                      1.5.0-dfsg2-2                    Source for the VirtualBox module\r\nuser@debian:~$ wget -N http://www.virtualbox.org/download/1.5.0/VBoxGuestAdditions_1.5.0_OSE.iso</code>\r\n\r\nguest (ubuntu feisty/7.04):\r\n\r\n<code>root@ubuntu:/media/cdrom# sh ./VBoxLinuxAdditions.run \r\nVerifying archive integrity... All good.\r\nUncompressing VirtualBox 1.5.0 Guest Additions for Linux installation......................................................................................................................................\r\nVirtualBox 1.5.0 Guest Additions installation\r\nBuilding the VirtualBox Guest Additions kernel module...\r\nBuilding the shared folder support kernel module...\r\nInstalling the VirtualBox Guest Additions...\r\n</code><code>\r\nSuccessfully installed the VirtualBox Guest Additions.\r\nYou must restart your guest system in order to complete the installation.\r\nroot@ubuntu:/media/cdrom# /etc/init.d/vboxadd start\r\nroot@ubuntu:/media/cdrom# /etc/init.d/vboxvfs start\r\nroot@ubuntu:/media/cdrom# /etc/init.d/vboxadd-timesync start\r\nroot@ubuntu:/media/cdrom# pkill -USR1 gdm</code>\r\n\r\neverything works after logging out and back in on the guest (ie you don't have to restart the guest as the installer says).  well, everything but the vboxvideo driver doesn't produce a resolution higher than 1024x768 without manually editing xorg.conf and adding the desired resolution(s) to a \"Modes\" line, but that's regardless of rebooting and really a missing \"feature\" than a \"bug\".\r\n\r\nedit: reformatted the post because a blank line within a &lt;code&gt; block will prematurely end the &lt;block&gt; as the blank line generates a &lt;p&gt;."
+-
+    name: 'Anonymous visitor'
+    mail: asx1577@yahoo.com
+    subject: 'VirtualBox has not passed Windows Logo testing'
+    hostname: 68.183.204.231
+    created: '1193562735'
+    body: "In the middle of installation, I get a dialog box stating that VirtualBox has not passed Windows Logo testing. Is this normal? Has anyone encountered the same?\r\n\r\nAlso, I don't see any \"freeware\" version or \"free software\" version.  I only see one binary download (msi file) for VirtualBox 1.5.2 for Windows hosts x86."
+-
+    name: undefined
+    mail: ''
+    subject: 'FOSS VirtualBox on Win32 Host'
+    hostname: 68.94.183.129
+    created: '1193640553'
+    body: "1. download the source\r\nhttp://www.virtualbox.org/wiki/Downloads#VirtualBoxOpenSourceEditionOSE\r\n\r\n2. build the binary\r\nhttp://www.virtualbox.org/wiki/Windows%20build%20instructions\r\n\r\ndo those two steps and you'll have a binary of virtualbox ose (gpl).\r\n\r\nafaict innotek does not provide binary versions of virtualbox ose.  doesn't surprise me as most linux distributions will want to build it themselves to guarantee that it conforms to their standards.  and most windows users don't care whether it's foss or freeware as long as it's a free download, so only the personal/trial version is provided."
+-
+    name: gspil
+    mail: gspil43@gmail.com
+    subject: '64 bit + virtualbox'
+    hostname: 97.97.105.49
+    created: '1193700403'
+    body: 'i am running it fine on my 64 bit amd 3600 core2, had more trouble with vmware server, virtualbox will run on 64bit box, but it will only run 32 bit os''s'
+-
+    name: MetalHellsAngel
+    mail: MetalHellsAngel@gmail.com
+    subject: 'Running like a dream on Vista 32 bit'
+    hostname: 67.183.252.195
+    created: '1193837534'
+    body: 'I had never used linux or a virtual anything before but using this article I installed virtualbox on my windows vista home premium 32 bit, then installed ubuntu 7.10 desktop on VB and everything went great! Thanks for the helpful article!!!'
+-
+    name: MetalHellsAngel
+    mail: ''
+    subject: 'Running like a dream on Vista 32 bit'
+    hostname: 67.183.252.195
+    created: '1193838140'
+    body: 'I had never even looked at a linux anything before but using this article I was able to easily install vb and then Ubuntu 7.10 Desktop on my windows vista home premium 32 bit and it runs great! Thanks so much for such a helpful article!!'
+-
+    name: 'Anonymous visitor'
+    mail: kord123@mail.ru
+    subject: 'Virtual Box works with real hard drives'
+    hostname: 78.107.254.86
+    created: '1193996822'
+    body: 'In PDF user manual for Virtual Box section 9.9 there is very good explanation how to access physical hard drives.'
+-
+    name: 'Anonymous visitor'
+    mail: svayamcreation@gmail.com
+    subject: 'not able to compile c programs on vm unbuntu'
+    hostname: 59.92.135.150
+    created: '1196611019'
+    body: 'it says file not in bash.. wen i compile a c program... in .. vm .. unbuntu.. how do i compile...pl help very urgent  '
+-
+    name: cozmos9
+    mail: ''
+    subject: 'best lightweight gui distro for virtualbox'
+    hostname: 71.165.6.10
+    created: '1216506051'
+    body: "This thread has been inactive for several months, so maybe nobody will hear me, but here goes.  I used to use vmware exclusively.  Now, I am messing with new (to me) contenders in the arena.  So far, I like Xen.  But, I am also intrigued by VirtualBox.  Seems very nice.  Even though it is probably not as fast as baremetal Xen, it's got some real positives.  Which leads to my question.  If I wanted to install VBox on a light distro with minimal gui, what would you suggest?  I started out with Ubuntu server & headless install (which I have not completely ruled out), then moved to Ubuntu desktop, then onto Xubuntu in the hopes of gaining some speed.  I messed with Arch Linux some, but gave up after being unable to make nvidia ethernet on the mobo work.  Any suggestions would be appreciated.  While headless VBox is an option, it will be easier to delegate admin duties if a lightweight gui was available.\r\n\r\nTIA\r\ncoz"

@@ -1,0 +1,105 @@
+-
+    name: ''
+    mail: ''
+    subject: 'good one'
+    hostname: 220.227.164.5
+    created: '1175583023'
+    body: 'good one'
+-
+    name: ''
+    mail: ''
+    subject: '"try and curb"'
+    hostname: 69.227.206.183
+    created: '1175617701'
+    body: '...should instead read "try to curb".  Also, some of the material was shoehorned a bit too much in order to fit the biblical sins.  Otherwise, a fine article.'
+-
+    name: ''
+    mail: ''
+    subject: 'what is the side effect?'
+    hostname: 205.144.146.240
+    created: '1175622260'
+    body: "So, what is the side effect?\r\n#define SQUARE(x)\tx*x\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Side effects of #define SQUARE()'
+    hostname: 131.161.71.130
+    created: '1175646467'
+    body: "The square function may already be defined with other options as well.\r\n\r\nSquare function for multiplication may be a quick hack, but if you already have a function #define SQUARE() for a different area of the program (ex. - dimension of a box rather than a number multiplied by itself), you can run into a lot of pesky unrelated errors.\r\n"
+-
+    name: 'Edward Macnaghten'
+    mail: ''
+    subject: 'Side efect'
+    hostname: 62.253.128.14
+    created: '1175649190'
+    body: "A line like\r\n\r\n    y = SQUARE(x++);\r\n\r\nwould evaluate to\r\n\r\n    y = x++ * x++;\r\n\r\nwhich is probably not what is required\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Interesting, but perhaps you missed one sin, arrogance...'
+    hostname: 24.192.75.31
+    created: '1175649667'
+    body: "I think the author has committed the sin of arrogance.\r\nTo charge other programmers with sin simply because they\r\nmust develop useable software within a timeframe that does\r\nnot allow them to study the complete scope of a language or\r\napplication framework.\r\n\r\nOne caveat: I am a \"born again\" coder of functions which may \"duplicate\" other existing software. I learned that I can spend more time learning how to use existing software than it takes to code a duplicate module.  Plus,  I don't waste time debugging someone else's code because they gave up trying to find a fix a thorny problem but didn't make any note for others who may trip over it.\r\n\r\nMy biggest sin?  I use flat files for database applications which have less than 100,000 records.  They are always compettive with SQL databases in performance and can be developed in one tenth of the time.\r\n\r\nAll that said,  I enjoyed reading this article and encourage others to consider these ideas with the thought that they should be applied in moderation.\r\n\r\nI look forward to reading more of your articles Steven."
+-
+    name: ''
+    mail: ''
+    subject: 'Antipatterns and the seven deadly sins'
+    hostname: 195.212.199.56
+    created: '1175795592'
+    body: "I saw something similar to this in the Anti-patterns book (ISBN 0-471-19713-0) which has been around a while. Who attribute the idea to a book called the Online Deskbook.\r\n\r\nTheir seven sins are:\r\n\r\nHaste: they talk about compromising because of time.\r\nApathy: they talk about not wanting to solve known problems.\r\nNarrow-mindedness: they talk about refusing to practice solutions that are otherwise known to be effective.\r\nSloth: Poor decisions based on the easiest answers.\r\nAvarice: (Greed) They indicate there are a number of types, but discuss architectural avarice which means the system is overcomplicated with excessive detail.\r\nIgnorance: The intellectual sloth, not seeking to understand.\r\nPride: Not-invented here.\r\n\r\nI think that the front-matter of this book is definitely worth a read.  It also some interesting reasons as to why software projects fail. Which have been reproduced <a href=\"http://www.acgavin.com/?q=node/43\">here</a>.\r\n\r\nOn a separate note, whoever runs this site, if I could leave my name without registering I would.  Why should people want to register on every blog they write on--- Drupal is quite capable of accepting names and personal details for one-off posts.  Why not turn it on?\r\n"
+-
+    name: wurakeem
+    mail: ''
+    subject: 'somewhat agree'
+    hostname: 167.206.132.252
+    created: '1176226115'
+    body: "I agree with you and the author. My personal approach: borrow if you think you need to borrow and write when you can.\r\nNotice my wording: most programmers don't like borrowing so they do it when they really need to. Otherwise write if the environment permits. I am in the financial field so development with component reuse is standard under constant deadlines.\r\n\r\nborrow vs. roll your own really boils down to 4 main factors:\r\n1. time alloted to complete project\r\nif you know your schedule then you can very easily determine whether a fancy approach or a pedal-to-the-metal approach would fulfill the requirements. \r\n\r\n2. management opinion about the approach\r\n if your higher-uppers are all about buying components or encouraging or expecting your code to use existing infrastructure, it would be dumb on your part not to follow that. If they're okay with you building on other dependencies and give you the time to do it, why would you argue ?\r\n\r\n3. great ability to estimate time it would take.\r\nThis is something that all developers should try to hone as much as possible. This is a crucial skill that will save your tail in the line of fire and will make you shine when it comes time to deliver. If your estimate says that reading docs and learning the API would take longer than writing your own implementation then so be it. Don't make a decision based on your opinion about reuse, but based on the time cost.\r\n\r\n4. know when to stop\r\nThis is another big pet peeve with developers. Let's say you wrote an app from scratch and it is 70% complete. Suddenly you notice that there's a much better (even standardized) way of doing it, using a 3rd party library. You start reading the docs, you play with the API but you're stuck because of some errors you get with the API. Whether it is your fault or the library's fault, if your time is running out you must revert to the old approach and finish it. Maybe when management approves this new approach you can call it version 2 and tell them it will take a little longer due to this issue you encountered. Just don't get bogged down trying to do it the \"right way\" first time around.\r\n\r\n\r\n"
+-
+    name: Infernoz
+    mail: nospam.rwp@dsl.pipex.com
+    subject: 'It all depends on the social environment and constraints'
+    hostname: 81.86.166.110
+    created: '1176364371'
+    body: "Please everyone read the \"Peopleware\" book, it was like an epiphany when I saw that some people genuinely understood what can go wrong in creative environments and how they can be improved.  A sub-optimal or unstable environment can be a far worse barrier to development than developer behaviour and actually cause developers to misbehave.\r\n"
+-
+    name: hDrummer
+    mail: hdrummer@gmail.com
+    subject: "Pride\nEnvy\nGluttony\nLust\n..\nL"
+    hostname: 193.109.248.126
+    created: '1177053328'
+    body: "Pride\r\nEnvy\r\nGluttony\r\nLust\r\n..\r\nLicense\r\nBiography\r\n\r\n;)"
+-
+    name: 'Anonymous visitor'
+    mail: 4uturepast@googlemail.com
+    subject: '#define SQUARE(X) is not a'
+    hostname: 89.242.56.136
+    created: '1177405382'
+    body: '#define SQUARE(X) is <em>not</em> a function!'
+-
+    name: 'Anonymous visitor'
+    mail: andre.em.caldas@gmail.com
+    subject: 'Even easier...'
+    hostname: 200.214.130.18
+    created: '1177954900'
+    body: "<blockquote>\r\ny = SQUARE(x++);\r\n</blockquote>\r\n\r\n<p>\r\nActually, <code>SQUARE(1+1)</code> would become <code>1+1*1+1 (=3)</code>. Then, the smart comes and defines:\r\n</p>\r\n\r\n<p>\r\n  <code>\r\n#define SQUARE(x)\t((x)*(x))\r\n  </code>\r\n</p>\r\n\r\n<p>\r\nJust to later find out that s/he was not that smart, because it does not solve <code>SQUARE(1+1)</code>.\r\n</p>"
+-
+    name: 'Anonymous visitor'
+    mail: mentifex@scn.org
+    subject: 'Mentifex is guilty of all coding sins and then some!'
+    hostname: 67.150.211.200
+    created: '1178630854'
+    body: 'Another sin I''m guilty of is looking at these disturbing, accusatory articles (such as we see here) and getting so depressed about my past failures that I sink even more deeply into failure.'
+-
+    name: Hari
+    mail: ''
+    subject: 'Good one'
+    hostname: 220.227.31.26
+    created: '1178699447'
+    body: 'Good one'
+-
+    name: Kahuki
+    mail: ms9@gmx.net
+    subject: 'Hehe, very good idea!'
+    hostname: 85.181.117.206
+    created: '1180871942'
+    body: 'Hehe, very good idea!'

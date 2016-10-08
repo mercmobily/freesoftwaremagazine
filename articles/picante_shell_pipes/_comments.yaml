@@ -1,0 +1,28 @@
+-
+    name: Tyler
+    mail: ''
+    subject: 'history command'
+    hostname: 142.177.158.89
+    created: '1174306497'
+    body: "Hi,\r\n\r\nIf you want to see your bash history, the command   '<code>history</code>'  is probably better. .bash_history only gets updated when you exit your shell, so it will never contain the commands you have used in the current shell. '<code>history</code>', on the other hand, includes the last 500 commands you've used, including commands issued from the current shell. The 500 command limit can be modified by changing the shell variable HISTFILESIZE.\r\n\r\nThanks for the articles! I know this is supposed to be the year of Linux on the desktop, (or was that last year, or 2003?), but even with KDE, GNOME, Beryl et al, I still think the command line is where the power of GNU/Linux is really at.\r\n\r\nTyler"
+-
+    name: ''
+    mail: ''
+    subject: 'Crank up those Colville units'
+    hostname: 203.118.156.111
+    created: '1174462301'
+    body: "Here's another fun Bash feature: command substitution. Did you know you can put a whole command inside a \"&lt;(...)\" construct, and Bash will pass its standard output via a named pipe to the containing command? For example, the single-line command:\r\n\r\n<code>diff -u &lt;(lsmod | sort | cut --delimiter=' ' --fields=1) &lt;(ssh hypatia lsmod | sort | cut --delimiter=' ' --fields=1)\r\n</code>\r\n\r\ncompares what kernel modules I have loaded on my current machine (Theon) with those on my other machine (Hypatia).\r\n\r\nLawrence D'Oliveiro"
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'Now, that''s *spicy*'
+    hostname: 24.38.136.234
+    created: '1174574584'
+    body: "Nice! That's an excellent use of redirection, one of my favorite things. I did *not* know you could pass in multiple redirects to a single program like that.\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: Nitpicking
+    hostname: 84.100.56.81
+    created: '1175029537'
+    body: "First thing: I'm not sure 'picante' actually exists in Spanish - and if you were trying to say it in French, the correct spelling is 'piquante'.\r\n\r\nSecond thing: there is not three way to process pipe I/O in Unix, not two ways - there's only one way, with three different standard behaviours (those may vary depending on programmer's goal):\r\n- a file is named as input/output: since everything in a Unix system is a file, said file can be... a file on disk, a device, a process. Depending on application, they may only produce input or output on standard I/O, ignoring parameters.\r\n- a file is not named, but '-' is used as input/output: the pipe will be connected with a concurrently running process (usually following with '|') instead of a file if output to a file is its default ehaviour. Many programs will accept this, however depending on input's format not all may know how to handle it.\r\nIt can be nice to, say, convert a PDF file to bitmap graphics and do text recognition on it, or to convert a sound file from one format to another, without writing uncompressed data to disk.\r\n- no file is named: default input/output is used. While it depends on program, usually default input is keyboard, default output is screen. Some program REQUIRE a named I/O.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."

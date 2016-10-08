@@ -1,0 +1,70 @@
+-
+    name: 'Bruce Miller'
+    mail: ''
+    subject: Errors
+    hostname: 99.241.157.75
+    created: '1207340851'
+    body: "I can find no reference on my up-to-date Kubuntu installation nor in Google Linux to a command \"apt-update\". Do you perhaps mean \"[apt-get|aptitude] update\"?\r\n\r\napt-get requires root privileges. Your examples above running from a regular user account (:~$ apt-get ... ) will not work. [U/Ku/Xu]buntu users can of course use \"sudo\" (as can Debian users who have taken the trouble to set it up)."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: oops!
+    hostname: 87.113.67.34
+    created: '1207565220'
+    body: "Sorry yes they are all typos. It is indeed apt-get update and where I've put ~:$ it's because I took out all the local prompt info and got a little vigorous.\r\n\r\nI do of course recommend using sudo for regular users although if you are going to do a lot of stuff it's just as simple to su to root before hand.\r\n\r\nSorry for any confusion - they've all been corrected in the post now--I hope. Thanks for bringing them to my attention.\r\n\r\nRyan"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'apt has a front end?'
+    hostname: 68.93.224.4
+    created: '1207751624'
+    body: "I've been using apt tools for a long time now. I actually did look at Synaptic once or twice, but haven't really explored it, because apt-get and apt-cache pretty much solve my problems for me.\r\n\r\nI appreciate the run down of the other tools, though, I'm going to have to see if I can find ways to make things even easier for myself with them. :-)"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: Uses
+    hostname: 82.108.129.98
+    created: '1207754904'
+    body: "> I've been using apt tools for a long time now. I actually did look at Synaptic once or twice, but haven't really explored it, because apt-get and apt-cache pretty much solve my problems for me.\r\n\r\nI'm the same. When I was introducing some new users to Ubuntu (their choice, I use Debian) I had to find out how Synaptic worked so I could show them: it's okay but I prefer apt-cache and apt-get. Aptitude has some advantages, particularly in automatically cleaning up when you remove a package and not the--soon to be orphaned--packages it depended upon. Apt is better at this now by prompting about autoclean though and will be further improved from what I understand.\r\n\r\nI have found apt-show-versions to be very handy for remote boxes. We run several small servers in remote offices. Each of these uses apt-show-versions in a script and mails me the results so I know what needs updating and how urgent it is.\r\n\r\nWithout a doubt though apt-listbugs has been the best discovery for me, particularly as I run Sid on a couple of my boxes.\r\n\r\ncheers\r\nRyan"
+-
+    name: 'Maurice Cepeda'
+    mail: ''
+    subject: 'apt vs. aptitude'
+    hostname: 190.161.248.119
+    created: '1210610714'
+    body: "I liked your review. Even so, I have a few things to say, not about your review so much as with apt. \r\n\r\nI don't mean to rain on apt --because using apt-get with fink on OS X allowed me an easy transition to Debian and then later to Ubuntu-- but I think aptitude is the way to go in as far as a lesser learning curve in learning various apt commands and because aptitude does everything apt does. \r\n\r\nI remember discovering for myself years before the the apt orphan fiasco became public that apt was not removing my dependencies.  #Debian on freenode was apparently not even aware of the situation because all I got from them were bewildered responses.\r\n\r\nCorrect me if I'm wrong (and I'm sure someone well-versed in the intrinsic apt details will) but Aptitude's done pretty much everything apt has recently gotten to do recently but years ago. ie., aptitude has handled orphaned dependencies since its start.\r\n\r\nSure, apt now autoremoves dependencies but this is just another command one has to learn in addition to the 16/15 apt commands one needs to know.\r\n\r\n\"If any of you have noticed, that is 16 different [apt] tools that you need to become familiar with\"\r\n<http://www.pthree.org/2007/08/12/aptitude-vs-apt-get/>\r\n\r\n\r\nAptitude's syntax is easy.  You want to install with aptitude? \r\naptitude install xxxx\r\n\r\nYou want to remove?\r\naptitude remove xxxx\r\n\r\nSearch?\r\naptitude search xxxx\r\n\r\nDoesn't the above look easier than ... ?\r\napt-get install xxxx\r\napt-get autoremove xxxx\r\napt-cache search xxx\r\n\r\nSure it does. It does so because aptitude's syntax is consistent whereas apt's isn't. Look at it from the point of view of someone starting out that wants to use line-command or someone doing system maintenance late at night when you memory starts going foggy (I've been there), you want easy to remember simple and consistent syntax.\r\n\r\nAs for why there's been so much effort put into apt when aptitude already solved the issue of easy package maintenance, this baffles me considering that this same effort could have gone in to improving something else, markedly. Hmm, like something exciting like adapting the FreeBSD kernel with the Debian userland, Debian GNU/kFreeBSD.\r\n\r\nMaurice Cepeda"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'aptitude is just a front end to apt'
+    hostname: 68.93.224.4
+    created: '1210644506'
+    body: "You write as if aptitude were in competition with apt, but AFAIK, [aptitude](http://en.wikipedia.org/wiki/Aptitude_(program)) is actually a front end to apt, so everything aptitude does is _because_ of all the work that went into apt.\r\n\r\nThere are circumstances under which you cannot use a curses-based program, but you can still use line-based programs like apt-get and family. So it's good to know how. And after you know how, it often becomes more trouble than it's worth to remember the other way to do it.\r\n\r\nIt's not for everybody, obviously, but there are reasons to learn the apt tools.\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'front-end with bells'
+    hostname: 82.108.129.98
+    created: '1210689683'
+    body: "> AFAIK, aptitude is actually a front end to apt, so everything aptitude does is because of all the work that went into apt.\r\n\r\nWhilst the last statement is true, aptitude has long had features which -- although they utilise it -- were not available in apt. Package tidying is one of them. apt has only recently begun to automatically deal with orphaned packages whereas aptitude has done so for a while (presumably by keeping it's own records).\r\n\r\n> There are circumstances under which you cannot use a curses-based program, but you can still use line-based programs like apt-get and family. So it’s good to know how. And after you know how, it often becomes more trouble than it’s worth to remember the other way to do it.\r\n\r\nI agree here. Every time I go into aptitude I get put off by the curses interface. I forget how to do things I want and apt-cache, apt-get etc. just seem to spring to my mind quicker. Plus I've always been more attracted by common denominators for things like this. I've mentioned this on another post but one of the reasons I use free software (and Debian in particular) is because I like the coal-face feeling you get. I really, really dislike systems that make assumptions for you -- without notification -- and for that reason I prefer things like apt-listbugs and apt-showversions."
+-
+    name: 'Maurice Cepeda'
+    mail: ''
+    subject: 'apt vs. aptitude'
+    hostname: 190.161.248.119
+    created: '1210699759'
+    body: "\"As for places where a curses based app isn't optimal, I'm not sure what might fit this bill but there's line command aptitude just as with apt-get.\"\r\nso they are on par, unless you refer to GUI apt front-ends such as Synaptic. I don't think there is anything like that for aptitude, sounds like a good idea for a project.\r\n\r\n"
+-
+    name: 'Maurice Cepeda'
+    mail: ''
+    subject: 'apt vs. aptitude'
+    hostname: 190.161.248.119
+    created: '1210700055'
+    body: "\"You write as if aptitude were in competition with apt, but AFAIK, aptitude is actually a front end to apt, so everything aptitude does is because of all the work that went into apt.\"\r\n\r\nTrue, I do write about them in that way. \r\n\r\nAs for aptitude being an apt front-end, I don't think it's quite so simple because it's documented that aptitude has avoided orphaned dependencies entirely before apt autoremove.\r\n\r\nRead about it at,\r\n[http://www.pthree.org/2007/08/12/aptitude-vs-apt-get/]\r\n[http://psychocats.net/ubuntu/aptitude]\r\nI tried posting the above links earlier but they failed to show up in my last post.\r\n\r\n\r\nIf you don't like curses based apps, no problem; You don't have to use the aptitude curses based UI to use aptitude.  You can use it form line command.  That's what my earlier post alludes. \"Actions may be performed from a visual interface or from the command-line.\" [http://algebraicthunk.net/~dburrows/projects/aptitude/doc/en/rn01re01.html]\r\n\r\nAs for places where a curses based app isn't optimal, I'm not sure what might fit this bill but there's line command aptitude just as with apt-get but with consistent syntax.\r\n\r\nRead about it at (and see the commands listed on my earlier posted comment),\r\n[http://algebraicthunk.net/~dburrows/projects/aptitude/doc/en/ch01s02.html]"
+-
+    name: Bearbonez
+    mail: ''
+    subject: 'apt vs. aptitude'
+    hostname: 212.140.128.134
+    created: '1285575309'
+    body: "Just a note to mention the Sidux/Aptosid method of using apt to update the whole system (which makes a lot of sense to update without a gui running)\r\nLogout\r\npress Ctrl-Alt-F1 to open the CLI\r\nlogin as root\r\napt-get update\r\napt-get dist-upgrade (-d to download packages only)\r\napt-get clean\r\nCtrl-Alt-F7 to return to login prompt\r\nshould work on any Debian based system\r\n\r\n\r\nDon't rush a miracle worker....you get lousy miracles"

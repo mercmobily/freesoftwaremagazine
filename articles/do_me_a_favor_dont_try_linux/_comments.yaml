@@ -1,0 +1,112 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Well said'
+    hostname: 202.175.250.42
+    created: '1171430725'
+    body: "Well said... \r\n\r\nI have been in IT for over 15 Years now and every time i hear of a failure it is a failure of planning and implementation.\r\n\r\nPlan.. Decide and implement."
+-
+    name: ''
+    mail: ''
+    subject: 'How to save thousands by using Linux'
+    hostname: 198.54.202.194
+    created: '1171446051'
+    body: "We frequently forget the hidden benefits of Linux in these sorts of comparisons.  Most IT departments in large companies do have several Linux boxes stuck in corners doing vital functions for their departments.  But away from the big companies Linux is doing a fantastic job in the small / medium sized businesses!  In my workplace (a retail pharmacy) we now have 7 linux boxen and 1 Windows XP box due to legacy software from suppliers.  90% of support hassles are due to the one Windows box.  Linux runs and runs and runs and is a winner!  The hidden benefit of escaping the MS-imposed hardware upgrade cycle have saved hundreds of thousands over the past four years.  Downtime is virtually 1% of uptime and is limited to physical hardware issues where cables are severed, fans stop running, floppy disks are worn out etc.\r\n\r\n<strong>Continuous update cycle</strong>\r\n\r\nA very important consideration is the continuous update cycle of Linux. That is both the operating system as well as the applications. I am constantly discovering exceptional applications on Linux that really makes a difference to how I work. \r\nEvery few days there are new updates available. Thus, I have a system that remains up to date. Very few Windows users can make that claim!  Every six months or so a major new version of the Linux (I use (Ubuntu - there are other acceptable distros too!) becomes available. Thus in the past twenty months I have upgraded my system 4 times with a dramatic increase in productivity.  And hassle-free upgrades on top of it!\r\n\r\nConsider the Windows scenario: Purchase Win XP, purchase Office, purchase major graphic apps and development software. Eventually the budget is depleted, and copies of your friend's killer apps get loaded. Sometime the 'New Windows' comes along. You have a limited window period of upgrading, either you do so and spend more money, or you miss out on the ability to upgrade.\r\n\r\nFrom 1992 to 2002 I have spent more than ZAR 50,000 on software for the Windows platform. Money totally wasted! And eventually I ended up using mostly pirated software. I am now running great software, legally, and my budget covers education and hardware costs, and there is a continuous upgrade cycle ahead of me, legal, cost free, and again, this is really good stuff!\r\n\r\n<strong>Convenience of Linux</strong>\r\n\r\nI know, it gets boring, but the new Linux distros give the man in the street the opportunity to actually use Linux without having to fiddle with Linux all day. Virii, spyware, adware, malware does'nt hassle me, while >60% of Windows PC's are infected with some sort of malware. At work, (a retail environment) there are seven PC's. A few years ago all of them ran Windows. Now only one machine still runs Windows (the rest are Linux based: Suse, Ubuntu) and that single Winsux PC is a constant headache and a bottomless pit of support nightmares. The only time that I ever become aware of problems on the Linux boxen is when the hardware occasionaly packs up.\r\n\r\n<strong>Killer apps are not everything!</strong>\r\n\r\nYes, there are some Windows programs that I do miss dearly. But, there are Linux equivalents and I still get my work done, better, faster, cheaper. But Linux has alternates and you can get your work done.  And after three years I can say that I get more done on Linux apps than the Windows equivalents - it was not always the case, but there is a continuous upgrade and improvement cycle with Linux apps that simply don't exist in Windows unless you take out your checkbook yet again. I have crossed the divide, I have switched totally from Windows to Linux and I will never look back. It can be done! I have had problems, but nearly all problems have been resolved in the Ubuntu forums on the Internet in considerably less time than it would have taken to hold on for Microsoft support!\r\n\r\n<strong>Advantage of Open Systems</strong>\r\n\r\nWe recently started a subsidiary company. I needed business cards, invoices, letterheads, some custom spreadsheets, business plans etc. and it had to be done pronto. In ten minutes, after some Googling, I had downloaded a bunch of Open Office templates and within the hour everything was done. Now, I challenge anyone to achieve the same output in Microsoft Office, given triple the time and at any cost!\r\n\r\n<strong>Planned obsolescence contained in Windows</strong>\r\n\r\nOh yes, this is important: If we had to upgrade Windows on all our current PC's, we would have to chuck most of the hardware and buy new boxen. But Linux runs acceptably on all our existing hardware, and those machines will continue operating indefinately until the hardware gives in. The next version of Windows will probably require large-scale upgrades of hardware in many companies. I have escaped from the pathetic Windows upgrade cycle for good! Thanks Linux!"
+-
+    name: colding
+    mail: ''
+    subject: 'An Outlook replacement'
+    hostname: 80.198.71.151
+    created: '1171458841'
+    body: "You are saying: \"Don't expect a client replacement for Outlook that utilizes many of Exchanges features. There isn't a Windows client replacement for Outlook, let alone a Linux one; however, there are alternatives depending on your organizational needs.\"\r\n\r\nThat is a truth with modifications. I agree that the standard Evolution Exchange connector doesn't exactly make Evolution a feature-by-feature replacement for Outlook. This is due to technological limitation within WebDAV (OWA) as used by evolution-exchange. However, there is another Exchange connector for Evolution 2.4 or later. It is called evolution-brutus (e-b for short). \r\n\r\ne-b is effectively using native MAPI which is also the protocol used by Outlook. e-b therefore has the potential to become a feature-rich replacement for Outlook. Look here \"http://www.omesc.com/content/downloads/dist/\" and here \"http://www.omesc.com/modules/xoopsfaq/index.php?cat_id=6\" for further details. Look here \"http://www.omesc.com/content/downloads/screenshots/\" for screenshots.\r\n\r\nBest regards,\r\n  jules\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'I run into people such as these on nearly a daily basis'
+    hostname: 71.98.47.128
+    created: '1171459463'
+    body: "I constantly have people telling me that linux is not ready for this\r\nor that. After years of thinking about how to respond to these people\r\nI have finally came up with the correct retaliatory remarks that works\r\nmost every time.\r\n\r\nI ask them these questions.\r\n\r\n1. Did you do a google search today? Yes thousands of linux machines\r\n   faithfully answered their requets in under a second.\r\n\r\n2. What does google know about business that you don't? Cheap reliable\r\n   computing maximizes profits.\r\n\r\n3. Do you have or have you ever heard of tivo? Yep linux faithfully\r\n   handling your movies.\r\n\r\n4. Did you send a email today, 9 chances out of 10 that request went\r\nthrough a linux box somewhere.\r\n\r\n5. You got a wireless router, thought so probably linux running that to.\r\n\r\n6. Did you browse the web today, likely 75% of the stuff you hit today\r\nwas running linux.\r\n\r\nI could of course keep going on and on with these but you get the point. Linux is everywhere already but seldom heard from because it works so\r\ntransparently...that is the type of computing I am interested in.\r\n\r\nLinux will eventually own the desktop, the web has already progressed to the point where installed software is completely unnecessary."
+-
+    name: ''
+    mail: ''
+    subject: 'People do not value freedom'
+    hostname: 220.233.53.52
+    created: '1171505547'
+    body: "<strong>People do not value freedom</strong>. This is the problem. They would rather value convenience over freedom. Free Software has the potential to solve 100% of a user's requirements but work needs to be done to achieve that figure. People would rather invest their resources (time/money/man power) into functionally convenient non-Free software over improving an inadequate Free Software title and have complete control of the functionality of the final product.\r\n\r\nIn people's minds, moving to GNU/Linux is just like moving to any other non-Free OS. If the Free Software app doesn't do as user requires, it is inadequate. People stop at that point because they don't want to invest anything to getting free software apps to operate as required. Then they tell the world how they <em>\"tried to move to Linux but failed because A,B, and C were inadequate and therefore Linux is not suitable for purpose G\"</em>.\r\n\r\nSo when people ask me about Linux, I tell them about Free Software then say if you're not willing to invest the time/money/man power into getting your system to work, then stay with your current system. It will save us both a lot of time."
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'I think people do value freedom'
+    hostname: 80.6.124.25
+    created: '1171592560'
+    body: "I think most people do value freedom, at least to some extent. If you took that statement at face value, that'd mean that no one would mind being a slave, which is obviously wrong. They often don't have a chance to value it when they try GNU/Linux because usually they aren't told that it offers them any more freedom than proprietary software. Often that's because it doesn't, because many of the distributions add proprietary software to it, so when the whole distro is taken as one, for example when it's on a single CD, they don't have any more freedom with it than with any other proprietary software.\r\n\r\nI started using 'Linux' for reasons other than freedom, because I didn't even know it gave me any, but when I read about it I gradually started learning that it's really GNU/Linux and that it was the idea of freedom that started it all, and now that's the reason I use it instead of proprietary software. Many people would like to be able to share their software with other people, judging from the significant amount who do that illegally, but as they aren't told by many people that there's alternative software which lets them do that legally, and so many people tell them that it's \"wrong\", they mostly just do it privately and secretively, or they're too scared to do it.\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: ''
+    mail: ''
+    subject: 'Hey Ken'
+    hostname: 89.137.135.35
+    created: '1171645782'
+    body: "Ken - please, do me a favor.\r\nDocument your argumentation a bit better - to launch a clear message.\r\n\r\nFor novice linux users - Ken write here for sick owners of sick business or sick administration councils. So to be clear for yourself try to compare yourself.  \r\n\r\nAbout Windows vs. Linux[paid version]. \r\n\r\nWith a clean install - see what MS offer : notepad, wordpad, media player(which won't work at start without a lot of codecs - even on some MS formats ), a buggy video editor, IE(browsers shame), Outlook Express(outdated e-mail client), poor image viewer. Office apps ?? - no. Graphic Editors ?? - no. \r\n\r\nnow Try Linspire or Suse: Good office apps(free), btw Gnumeric is better than Excel(try google for details), media players which work, groupware email client and server Evolution (work with Exchange -> May 11, 2004  — Novell announced its Connector for Microsoft* << as colding told us before), strong personal email client - Mozilla Thunderbird, strong, secure web browser - Firefox, a true webserver (Apache), a good selection of graphic apps. and viewers Inkscape, Gimp, ..etc. not to mention 3D desktop effects which put Vista on shadow. Also via repositories U can get at One-Click-Install a lot of quality apps. (Scribus, JahShaka, etc).\r\n\r\nOn Linspire or Suse - U get all for few dollars (google here again for the latest prices).\r\nOn windows - for some more buck's - U got almost nothing except internet browser, email, media player and some small utilities.\r\n\r\n\r\nBut, following Ken words >> it's important to be motivated when you decide to switch..\r\n\r\nSorinN\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'People don''t value Free Software'
+    hostname: 220.233.53.52
+    created: '1171670570'
+    body: "I guess I didn't make myself clear enough. <em>People don't value the four freedoms they inherit with Free Software</em>. This is what I meant by \"People do not value freedom\".\r\n\r\n<cite> >  Many people would like to be able to share their software with other people, judging from the significant amount who do that illegally,</cite>\r\n\r\nI guess this shows that RMS is correct in saying that sharing information (software in this case) in a free society is morally ethical. People should be free to share information.\r\n\r\n<cite> but as they aren't told by many people that there's alternative software which lets them do that legally, </cite>\r\n\r\nSure there are people like that, but in this day and age, people that infringe copyright by sharing software illegally know of the existence of Free alternatives. A number of my friends are in this situation: they 'pirate' copies of popular proprietary software and know the existence of Free software alternative and they almost always reject the Free alternative because it isn't as convenient as the proprietary app. \r\n\r\nThis leads back to my original sentiment about convenience and freedom - \"people don't value freedom enough to invest in freedom\". When people try Free software and it fails to meet their requirements, they see it as a sign that Free software is inadequate then stop there and return to their proprietary app that does provide their requirements rather than fixing up the Free Software title."
+-
+    name: ''
+    mail: ''
+    subject: 'Tired subject'
+    hostname: 65.31.54.163
+    created: '1171811853'
+    body: "I have used Linux for years, but partially and mostly with the hope that sooner or later it will do what I want consistently. I'm so tired of hearing about easy installation of Linux. True, but who cares when installation of software is a bitch for even me sometimes. And those killer apps, damned right I want to continue using them. In no way is Gimp the equivalent of PhotoShop. OpenOffice is OK, but I prefer WordPerfect or God forbid, Word. In short, I like Windows applications because they are consistent. \r\nFree software is in abundance for Windows as well as Linux, maybe more so.\r\n\r\nBottom line, I wish I could use Linux because I believe it is a better OS than Windows, but until I have programs that are *really* as good as Windows, its not going to happen. \r\n\r\nWow! Guess I'm an Anonymous coward now, seeing this preview. This is why I hate Linux zealots.\r\n\r\nHB"
+-
+    name: ''
+    mail: ''
+    subject: 'Cultural slavery.'
+    hostname: 201.56.188.185
+    created: '1171902690'
+    body: "Whenever I read the assessment of a happy Windows user comparing with experiences with Linux, I feel like I am listening to a slave of a Roman house during that Empire, saying:\r\n\"I once was free, but it was uncomfortable, housing without luxury, could not do things the way I wanted, for lack of tools. I like my   current master, I live in a nice house, beautiful environment, tools to do what I need, the majority is like me. Poor free men! They have to fend by themselves! Long live slavery.\"\r\nProbably they have a good life, and their families will be slaves, too, forever. Isn't the goal of life to be happy? So, what is wrong with being a slave?\r\nIt is really difficult to dissuade somebody who thinks in this way, really."
+-
+    name: ''
+    mail: ''
+    subject: 'Tired subject HB ?'
+    hostname: 89.137.135.35
+    created: '1171944458'
+    body: "Yep,\r\n\r\nI can do feather on vectors - with Inkscape - with Corel Draw(which is used on almost all typo's ), I can't. I can extract objects or backgrounds in a very fast way with Gimp, which is not possible(to do so quick) with Photoshop. Gimp save better PNG or TGA. Word ...hmm is organized ? ..I'm in doubt - U talk in fact about your skills (years of Word). Well, how about Scribus ?. For Presentations -> Impress is better than PowerPoint, with all respect.\r\n\r\nBtw. Linux like standards and peoples. Why CDR and AI when SVG is strong and open. Because monopoly. Because on big companies => money are nr.1 not peoples / consumers. U see the difference ??\r\n\r\nAdobe create PDF. It's a good standard on DTP. Linux wont make another one because this one is good. So, for this reason Scribus save the best PDF on the market. U see the diference ?? - Linux don't initiate wars but cooperate when is possible. \r\n\r\nSO the problem is on the other side. \r\n\r\nWow! Guess I'm an Linux zealot now, seeing your last phrase. But this message is because I really work with Dreamweaver8, Flash8, Fireworks8 on my Ubuntu Box. And I do php programming well under linux because Komodo is for Linux too. All I need is here so - my point of view is a bit different from yours.\r\n\r\nThink generally. Linux zealots, ...hmm, maybe they are on my position - To find/adapt all needed tools on Linux. So why they need to talk with a lower tone ? - just for the Big Silence Cause ? - no - they tell you the truth.\r\n\r\nBest regards,\r\n\r\nSorin\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'People don''t *get* Free software'
+    hostname: 67.52.252.178
+    created: '1172084928'
+    body: "I've tried explaining the benefits of Free software, but to a non-techie they only consider the monetary cost; for them, the four Freedoms are somewhat of a difficult concept.  Installing Ubuntu and giving it out to people makes sense enough, but when I tell them that they 'can' change the source code to meet their needs, they suddenly think that they *must* do so; when I tell them that no one can control their computer, they thing that includes them and that no one fixes the problems in software.\r\n\r\nAlso, too many people associate freeware (and its quality) with Free software (with a capitol F as in the FSF).  Having amazingly stable GPL programs not even reach their 1.0.0 release yet doesn't help either; most people want Version 12.0.39.3 no matter how bad it is, cause its gotta be better than v11."
+-
+    name: maco
+    mail: ''
+    subject: AC
+    hostname: 161.253.11.134
+    created: '1172546833'
+    body: 'AC is a rather standard designation for anyone who didn''t bother to log in and post as themselves.'
+-
+    name: ''
+    mail: ''
+    subject: 'I don''t think Linux will ever "own the desktop"'
+    hostname: 83.217.104.19
+    created: '1172844072'
+    body: 'For exactly the same reason that the people you encounter don''t know how much Gnu and Linux they use. Linux computers will not be Linux computers, just computers, people will expect them to turn on and work, and they will. You know a computer is running Windows because as you reboot it each day (or hour) it tells you in large letters, I never restart my home PCs so I never see start-up screens that may tell me I have Debian running, (they may not I can''t remember...).'
+-
+    name: 'Christopher Brunsdon'
+    mail: christopher@mycapetown.biz
+    subject: 'Kill Bill Vol 7.04'
+    hostname: 196.25.255.194
+    created: '1186434772'
+    body: "I've been working with Linux for a year now and can't believe I ever survived with only Windows before that. I must say that I do miss my blue screens, dodgy drivers and those weekends spent re-installing my box.\r\nI also miss those expensive Microsoft Books where you would spend the first 500pages on how to setup a user in Server2003 with group privileges - Linux \"man groupadd\" dose this in 78 lines and seems to take the fun out of it ?!?\r\nThis is probably why in my 40hr week job I get more done than those overpaid 72hr week Windows Sysadmins...\r\n\r\nJust remember: Friends don't let friends use Windows\r\n"
+-
+    name: dokma
+    mail: ''
+    subject: 'We all need to do our fare share of work'
+    hostname: 88.207.36.19
+    created: '1282314037'
+    body: "I have a feel that the major battle at the moment is not on the corporate front but rather, on the home desktop PC front. Where we need to get that average user to try a few options before settling in. I have nothing against people using Windows, I'd just like them to have an information and a chance to try several options. Here is where our average Linuxer comes into play.\r\n\r\nIt seems to me that the average Linux user is not aware how easy in fact it is to convert a Windows user to Linux or to get a new user to use Linux from the start. There are many reasons and plenty of ways to introduce your potential convert to Linux in a slow and gradual manner. I have so far succeeded in 2 cases. Now this might sound as not much, but in fact it is a great deal.\r\n\r\nOne of the things that stand out is that I managed to do this without pressuring anyone. I just simply used the circumstances at hand which were: unwillingness to use pirated software in one case and desire for a better development environment in another.\r\n\r\nIf done wisely I believe all of us can take some scalp of our own. In due time numbers will start to accumulate. Some might say that this would be unneeded if Linux was such a good product on its own and that everyone would at least try it. However you must be aware that we are fighting a fierce and well funded marketing machinery that has infiltrated government ranks and large corporations. The only way to counter that is if Linux is great enough to generate a whole army of small zealots spreading it around. And, in my opinion at least, that is exactly what is going on right now.\r\n\r\nNow zealots usually have a way of driving people away from everything before they get a bit of smoothness and cleverness about their attempts. So knowing a few crucial things about how to do this is essential. Here is an article on that very topic that summarizes well how to and how not to of 'Get your first Linux convert': http://www.docplanet.org/en/linux/7-steps-to-convert-a-windows-user-to-linux/"

@@ -1,0 +1,21 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Apollo is not free software'
+    hostname: 68.116.159.234
+    created: '1285767623'
+    body: "Your article structurally implies that Apollo is free software, because you introduce it last. However it's apparently proprietary. It might've been better to make that explicit.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Another contender: Dot Project'
+    hostname: 68.116.159.234
+    created: '1285773109'
+    body: "A friend recommended a different software for managing a movie project: [Dot Project](http://www.dotproject.net/).\r\n\r\nKnow anything about it?\r\n\r\nI've never really warmed up to project management software -- proprietary or free. It all seemed to suffer from the problem of too much overhead. But I do have management problems, so maybe I need to learn how to use it better.\r\n"
+-
+    name: desiree_ndr
+    mail: ''
+    subject: 'free project management for Open Source projects'
+    hostname: 190.55.158.93
+    created: '1286216313'
+    body: "Assembla offers free solutions for Open Source projects\r\n\r\nhttp://offers.assembla.com/free-project-hosting/    "

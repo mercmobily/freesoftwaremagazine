@@ -1,0 +1,28 @@
+-
+    name: 'Anonymous Engineer'
+    mail: asjohns@gmail.com
+    subject: Correction
+    hostname: 204.181.2.254
+    created: '1176495164'
+    body: "<cite>\"I can't afford to run my own mail server, even if I could there aren't any free software web mail systems that can match G-Mail, or Yahoo Mail or Windows Live Mail.\"</cite>\r\n\r\nWrong.  Check out Zimbra and Scalix."
+-
+    name: 'Anonymous visitor'
+    mail: bob@dodgeit.com
+    subject: 'Eh?'
+    hostname: 220.233.53.52
+    created: '1176514448'
+    body: "I understand what you're trying to say here, that the user should have the code to other people's web service, but I disagree with this. I have always thought that the free softare domain only extends to the software that we run on <strong>our own computer systems</strong>. The companies that provide web services have their software running on their machines - only a minimal amount of code is transferred to the user's side. The client side user code should be free as it is operating on the user's computer. The server side code doesn't need to be free as it does not operate on the user's computer.\r\n"
+-
+    name: 'Samir Chopra'
+    mail: samirchopra1@yahoo.com
+    subject: 'An ever-increasing problem'
+    hostname: 24.188.137.121
+    created: '1176568958'
+    body: 'Roberts is right to add his attention to that of others on the challenges posed by web services to the notion of free software. Currently, licensing schemes don''t handle this too well simply because of uncomfortable fit that web services have with the notion of "distribution" - and of course, the problem is that making software available as a web service, without doing what is conventionally done in a distribution, enables a situation where takings are possible from the free software community without a reciprocal "give-back". This is only too obvious in the case of Google as Roberts points out (and as folks like Tim O''Reilly have noticed, there are "pockets of proprietary opportunity" all over the net) - and as more work moves to the web, the easier it becomes to make software available as a service with no distribution involved. The Affero license should go some way towards handling the problem of web services but plenty more needs to be done - at the very least, it represents a substantive legal and technical challenge (does distribution only apply to code that runs on user/client machines?). I''ll try and comment on the Affero license soon at my blog (http://decodingliberation.blogspot.com) - I confess I haven''t taken a particularly close look at it yet. '
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'Sort of...'
+    hostname: 68.197.66.72
+    created: '1176849310'
+    body: "I agree, mostly the web apps aren't GPL.  <a href=\"http://www.zimbra.com/\">Zimbra</a> (already mentioned) has a free edition.  Also, <a href=\"http://www.roundcube.net/\">RoundCube</a> has a pretty cool GPL webmail app.  That's about it.  The only other web free software project that garnered any attention was <a href=\"http://ajaxoffice.sourceforge.net/\">AJAXOffice</a>, which is now ghostware.\r\n\r\nI also agree that there is a need for web apps.  That's the new \"thing\".\r\n\r\n--\r\nAndrew Min"

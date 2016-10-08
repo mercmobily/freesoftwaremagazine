@@ -1,0 +1,14 @@
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'Remind me: what is the collective noun for geeks?'
+    hostname: 165.98.163.215
+    created: '1173721471'
+    body: 'A convention of geeks.'
+-
+    name: 'Pascal Bleser'
+    mail: ''
+    subject: 'FOSDEM 2007 videos and slides'
+    hostname: 87.66.139.26
+    created: '1173765403'
+    body: "Thanks for writing a few words about our event here, I really hope you enjoyed the event.\r\n\r\nVideos are available for the main track talks: <a href=\"http://fosdem.org/2007/schedule/events\">http://fosdem.org/2007/schedule/events</a>\r\n(as well as some of the slides, we're still collecting the rest ;))\r\n\r\nAnd yes, indeed, there are two Universities in Brussels, the <a href=\"http://www.vub.ac.be/\">VUB (Vrije Universiteit Brussel)</a> and the <a href=\"http://www.ulb.ac.be/\">ULB (Université Libre de Bruxelles)</a> -- the former being the flemish (dutch) speaking one, the latter being the french speaking one. You're not the first to get lost at the VUB, but fortunately they're just a few hundred meters away from each other on the Solbosch Campus ;)"

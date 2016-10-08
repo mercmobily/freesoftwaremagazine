@@ -1,0 +1,98 @@
+-
+    name: 'Crosbie Fitch'
+    mail: ''
+    subject: Visibility
+    hostname: 81.153.164.134
+    created: '1172049394'
+    body: "Yup. The difference is that we never see the vast swathes of failed or backburner proprietary software projects because they never see the public eye.\r\n\r\nProbably more waste behind closed doors because there's less opportunity for collaborative enthusiasm to take the more useful projects forward.\r\n\r\nMoreover, dormant projects in the public domain have less reason to be wiped off the slate as an embarrassment - you never know, they may be useful one day..."
+-
+    name: ''
+    mail: ''
+    subject: 'Ignore them.'
+    hostname: 124.189.42.138
+    created: '1172063831'
+    body: "Clay Shirky...Another person who writes uninformed nonsense about open-source. (SourceForge is an archive you MORON! Have you not understood why nothing gets deleted on there?)\r\n\r\nYou know what you do in cases like these? You ignore them.\r\n\r\nYou put your head down and code like you never code before. If you don't code, you help test or write helpful HOW-TOs or guides. Hell, help a beginner if you want!\r\n\r\nMy point? No use discussing stuff like this. It doesn't improve open-source software if we talk until the cows come home!\r\n\r\nWe don't need to defend open-source, because we let our applications do the talking. Those very applications speak far louder than any words of any analyst, report, etc. As long as we improve what we do, those folks can criticise as much as they want.\r\n\r\nI think we should start an archive of critics. This way, when they try to backtrack in the future, we can refer back. (We can use the: \"But back in Feb 2007 issue of Harvard Business Review, didn't you say...\") :)\r\n\r\nThe best thing about revenge is that it doesn't have to happen straight away. You strike back when the time is right, when they least suspect it. :D"
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: '"Failure"'
+    hostname: 76.188.155.238
+    created: '1172070838'
+    body: "If most of the failed projects have very little activity, that means they are not very interesting to many people. They are essentially trial balloons of an idea.\r\n\r\nA corporation has only a few people who talk, and so only their ideas have a chance to become failures (or successes). The Free software world is like a city full of people talking, with each idea becoming a seed. Some of those seeds take root and thrive. Others hardly sprout before withering. Just as thousands of acorns drop from a tree each year, only a few will ever take root and grow. Yet nobody claims the process is a failure.\r\n\r\nThe idea that anyone would bet a business on a half-started, inactive project on Sourceforge is ludicrous."
+-
+    name: 'Chris Holt'
+    mail: ''
+    subject: Acorn
+    hostname: 64.141.6.2
+    created: '1172091866'
+    body: 'Loved the acorn analogy Anthony... it''s exactly right!'
+-
+    name: 'Chris Holt'
+    mail: ''
+    subject: Exactly
+    hostname: 64.141.6.2
+    created: '1172091988'
+    body: 'I once, some 5 years ago, saw a report on failures by the big integrators and the number of lawsuits against them by states and countries and various other companies and it was an amazing and colossally expensive amount of failure...hmmm got to look for that report and see if there''s an update...'
+-
+    name: ''
+    mail: ''
+    subject: 'Yes, FLOSS needs more gardeners'
+    hostname: 65.10.120.250
+    created: '1172106794'
+    body: "The man is confused in looking at software experiments as if they were heavily funded failed business ventures.\r\n\r\n\"My project is not getting attention.\" Same is repeated 10 times across Sourceforge. I and some of the other major players in these tiny projects research and make our way to a larger project that is doing similar stuff. Over time many skeletons are left behind but many of their ideas and their developers are contributing to a much smaller number of active successful projects. Small projects R&D help toughen large projects structurally or even work their way in as plug-ins, utilities, APIs, or in some other fashion.\r\n\r\nWhat about the many applications in a typical distribution? Many are used very often. Some small apps are extremely useful to a minority (maybe to people that get paid 200K/year doing sophisticated work). If a distro with so much useful software for free is the result of a failure, I can't imagine what to think about Windows which comes with so little software in comparison. Microsoft is clearly failing.\r\n\r\nWhat can't be missed is that the active projects, and there are many, \"suck\" up a large number of developers, end users, and many other contributors. Many people contributing are contributing to successful projects. In the proprietary world, if you find that your project is going to end up in the scrapheap or you can't manage to contribute effectively, your choice is to fake it or take an early leave from the company. Guess what most pick? Now *that* is a waste of money/resources because of not being able to freely move over to a project that is succeeding [but the family has to keep eating].\r\n\r\nWhat about projects with little activity but that are mature and used by a lot of people (this is analogous to a business with little growth or R&D but steady income)? These can never be considered failures as long as they aren't completely superceded by superior products.. even if the activity level goes to zero. And in all likelihood, the last stable version of the project (maybe years old) is mirrored in many places resulting in downloads never seen from Sourceforge, especially true if they are a mature staple of the popular distros.\r\n\r\nWhat about projects that never get much attention but they are very important to the creators? Here, any added help or additional user beats what would happen if working separately. At most, you can just ignore these and the FLOSS community would never be the wiser or hurt by the absence. Some apparently just fail to see that 10 tiny projects are better than zero. Certainly, 100,000 tiny projects are better than zero.\r\n\r\nWhat about the Mythical Man Month? Many times it only takes a few to build good software.\r\n\r\nI agree, this person seems to have little experience in the subject matter. Maybe next time we'll have an astrophysicist lecture on Hyacinths and their contributions to society in 12th century Europe.\r\n\r\nI think some \"management types\" are feeling threatened.\r\n "
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: ...
+    hostname: 69.180.163.110
+    created: '1172111429'
+    body: "I wish I could read the article.  I usually enjoy Shirky's essays, but if that's his point--that the failures indicate some problem--then he's way off the mark.  I agree with the points made here -- all those abandoned projects indicate fertile ground; compost to support future growth.  \r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'I Think You Missed the Point'
+    hostname: 71.93.218.102
+    created: '1172115253'
+    body: "I am not sure how you came away with the opinion you did of the article. Mr. Shirky is not presenting a positive or negative image of proprietary or open source systems -- only pointing out some of their qualities. In fact he is quite complimentary of one of open source's greatest strengths, which is that it greatly reduces the cost of taking risks. Not every idea or plan works out, but if you don't try and take risks you never get anywhere. He points out that proprietary enterprises have a disadvantage because they have costs associated with taking risks that open source greatly minimizes. And he says that proprietary enterprises may need to learn ways to close that gap if the want to compete with open source enterprises. \r\n\r\nHenry Ford said, \"Failure is the opportunity to begin again more intelligently.\" Open source projects have the advantages that they can \"begin again\" more frequently (see Boyd's Law) and because of their public nature they retain their intelligence better. Conversely proprietary enterprises have advantages, like their ability to attract capital and apply resources. "
+-
+    name: ''
+    mail: ''
+    subject: 'On the contrary'
+    hostname: 71.98.47.128
+    created: '1172153535'
+    body: "Guys like this are easy to shoot down.\r\n\r\n1. Did he use google today? Yep, bet he did 100,000 linux boxes faithfully\r\nanswering his request.\r\n\r\n2. Does he own or ever heard of a tivo....probably has one, again powered by linux.\r\n\r\n3. Did he get email today, probably delivered by linux and the name requests answered by linux dns servers.\r\n\r\n4. Does he own a wireless router? ...probably powered by linux also.\r\n\r\n5. Most of the web sites he viewed today where running on linux.\r\n\r\n6. His isp surely uses tons of linux to keep his service available.\r\n\r\n7. His network admins are probably using mrtg to monitor availability and load to keep his service at peak levels.\r\n\r\nof course I could go on and on with that...\r\n\r\nAs for source forge, there are more uses for it than just downloading some software. It is the worlds largest open source code repository and if most developers are like me I go there constantly to pick out snippets that are useful to me."
+-
+    name: cel4145
+    mail: ''
+    subject: 're: I Think You Missed the Point'
+    hostname: 71.205.97.2
+    created: '1172156827'
+    body: "I'd agree that there is some overreaction here concerning Shirky's text. It's the defensive nature of the open source advocate responding to the negative tone of talking about open source in terms of failure. However, Shirky's made some good contribution to understanding open source with his analysis; it's just incomplete. I wrote <a href=\"http://cyberdash.com/open-source-failure-success\">about it over on my blog</a>. \r\n\r\nCharlie | <a href=\"http://cyberdash.com\">cyberdash.com</a>"
+-
+    name: cel4145
+    mail: ''
+    subject: 'I wish I could read the'
+    hostname: 71.205.97.2
+    created: '1172157273'
+    body: "<em>I wish I could read the article. </em>\r\n\r\nI wish the Drupal contact forms were enabled here. Send me an email <a href=\"http://cyberdash.com/contact\">via the contact form on my site</a>. \r\n\r\n\r\n<br />\r\nCharlie | <a href=\"http://cyberdash.com/\">cyberdash.com</a>"
+-
+    name: ''
+    mail: ''
+    subject: Difference
+    hostname: 69.244.1.143
+    created: '1172467091'
+    body: "The difference is that for free programs, \"failure\" doesn't quite mean the same thing it means for proprietary programs.\r\n\r\n\"Failure\" of a free program means that some time, some effort has been put into the program, but in the end it was decided that there really was not enough interest in the program to see it through.  The time and effort are not necessarily lost, however, since it can be taken up by others and completed or transformed."
+-
+    name: 'Chris Holt'
+    mail: ''
+    subject: 'Yeah... sort of... failure is good'
+    hostname: 24.69.3.96
+    created: '1172625044'
+    body: 'So I know that Mr. Shirky is giving some credence to the open source movement in that it is less expensive to experiment within that structure; but he frames everything in the negative and the negative permutates the article. He just misses some of the key points which commentators above are making and if you didn''t know anything about FOSS you''d be a little confused.'
+-
+    name: 'David Weinberger'
+    mail: self@evident.com
+    subject: 'Shirky is pointing to a strength of Open Source'
+    hostname: 207.172.129.55
+    created: '1193145797'
+    body: "Yup, I agree, Anonymous. Shirky was pointing to a <em>strength</em> of Open Source, not criticizing it. Because the cost of failure is so low, Open Source developers are able to take more risks and try new ideas. The result are the many Open Source successes. \r\n\r\nThe idea that there's value in lowering the cost of failure is novel to most businesses. "

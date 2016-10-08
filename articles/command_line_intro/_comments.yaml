@@ -1,0 +1,70 @@
+-
+    name: depi
+    mail: ''
+    subject: thanks
+    hostname: 62.65.183.35
+    created: '1151323457'
+    body: "I must to say that this is really useful tutorial for the beginners or for the average linuxers too because it shows some commands or commands atributes which not everybody must know. So good point!\r\n\r\nP.S. I like the root tree image too :)"
+-
+    name: 'Big Yellow Tuxi'
+    mail: ''
+    subject: toehold
+    hostname: 81.79.59.249
+    created: '1156150219'
+    body: 'Clear and well written, this is just what I needed! Moving from DOS to linux is a humbling experience and mastery of a few simple commands (and understanding of similarities and differences between DOS and linux) feels like a first toe on the ladder. Thanks - looking forward to reading more sometime.'
+-
+    name: ''
+    mail: ''
+    subject: 'Changing directories'
+    hostname: 216.160.118.81
+    created: '1156410620'
+    body: "I know it is the simplest of commands but I still haven't found commands for\r\nchanging directories(outside of /path/to/another/device)like the CD ROM sitting there so close but so far...\r\n\r\nEveryone wants to show how to move within Mr. Torvalds structure but HOWTO Change into that GUI icon that won't let you drag and drop without a password, won't let you cd, what, no drive letter. (drive letter_:where are you?). I see ///, not close. OH WHERE in the world is that tutorial. Oh, yes, revised Tutorial."
+-
+    name: ''
+    mail: ''
+    subject: 'Thanks for the intro to Linux shell'
+    hostname: 202.37.68.29
+    created: '1161038567'
+    body: "Dear Rosalyn,\r\n\r\n\r\nThanks for giving me my first Linux shell command. It gave me great satisfaction and a sense of freedom and relief. If you would like teach me  some more feel free to contact me. \r\n\r\n\r\nHope all is well\r\n\r\n\r\nKindest Regards\r\n\r\n\r\nRobert\r\n\r\n\r\nRobert Davidson\r\nrobert@datamatrix.co.nz\r\nDirector\r\nDatamatrix New Zealand ltd www.datamatrix.co.nz\r\nGenatron ltd www.genatron.com"
+-
+    name: mysurface
+    mail: mysurface@gmail.com
+    subject: 'Futher learning linux command'
+    hostname: 60.50.116.14
+    created: '1179409625'
+    body: "Once you get into it, you will definitely love the command line. You may even start GUI apps in terminal with help of nohup and & so GUI won't terminate even you close the terminal. You can record what have you type in terminal with script and replay back with scriptreplay. vim will be the next thing you wanna try after I start to dip your toe into CLI.\r\n\r\nA lots of fun stuff, you can get it cover at http://linux.byexamples.com"
+-
+    name: 'Anonymous visitor'
+    mail: jckjp201@yahoo.co.jp
+    subject: 'Great tutorial article for'
+    hostname: 219.57.133.114
+    created: '1185707586'
+    body: 'Great tutorial article for me to enter commandline shell. Thank you very much. '
+-
+    name: sanjayss
+    mail: sanjayss_9@hotmail.com
+    subject: 'GUI help'
+    hostname: 203.76.189.94
+    created: '1187241735'
+    body: 'What is Gnome, KDE. Please explain !!!!!!'
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'Wikipedia is where you should look'
+    hostname: 190.184.17.177
+    created: '1189278960'
+    body: 'Here is <a href="http://en.wikipedia.org/wiki/Kde">KDE</a> and here is <a href="http://en.wikipedia.org/wiki/GNOME">GNOME</a>.'
+-
+    name: 'harsh patel'
+    mail: spiderman_952001@yahoo.co.in
+    subject: 'A good tutorial to start on'
+    hostname: 220.225.137.249
+    created: '1191588394'
+    body: "A good tutorial to start on with ....thanks a lot!! .\r\n\r\n"
+-
+    name: alicethomas
+    mail: ''
+    subject: re
+    hostname: 209.44.123.1
+    created: '1286608703'
+    body: "Mr. Torvalds <a href=\"http://www.seoprofessionalsonline.com\">professional seo</a> structure but <a href=\"http://www.seoprofessionalsonline.com/website-optimizer.asp\">website optimizer</a> HOWTO Change into that GUI icon that won't let you drag and drop without <a href=\"http://www.realsofttech.com/\">real soft</a>\r\na password, won't let you cd, what, no drive letter."

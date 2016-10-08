@@ -1,0 +1,119 @@
+-
+    name: 'Stephan Gromer'
+    mail: ''
+    subject: 'Cannot agree'
+    hostname: 129.206.53.69
+    created: '1153815978'
+    body: "The quality of OS software varies greatly. There are outstanding project and lousy ones.\r\nThe problem for the Desktop is user acceptance. Most of them are familiar with windows.\r\nThey need to change habbits.\r\nFurthermore, getting started is often a pain in the ass if you are a newbie\r\nHave you ever tried to setup a printer in KDE as a newbie? Plenty of question and no clue what they are referring to.\r\nI could name other examples.\r\nIt is of course far easier for the admin, but if the boss feels happy with Windows you'll have bad cards trying to convert him. OS offers to many choices for most people. They are lost in the ocean of offers.\r\nMS offers them the one solution to it all combined with excellent marketing."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'No, it''s about ease of setup'
+    hostname: 68.93.224.4
+    created: '1153838708'
+    body: "Honestly, it really is still about ease of setup. Not the basic install, which is already amazingly easy, but things like networking, sharing disk partitions, and printing.\r\n\r\nOn Linux systems we have venerable \"old ways\" of doing these things which are far more powerful, but sadly, still require some skill to get right. Then we have fledgling GUI ways to do them, but they are still buggy, have poor UI design, or are simply not advertised well enough to the user.\r\n\r\nWe still rely on people networks to communicate these things, and if you have the uncommon luck to have a Linux-savvy friend to help you out, you will generally find that they know and prefer \"the old way\" to do things. So, even if there is a fancy GUI config tool, they may not know or care about it, and therefore may not tell you about it.\r\n\r\nFewer people using the GUI, means less testing, which means buggier software, so that contributes to the slow acceptance of new solutions as well.  Also, the fact that you don't have to re-install Linux very often means that we don't place much value on making the installation and setup easier, whereas this is one of the most active and well-maintained parts of Windows.\r\n\r\nI don't particularly like doing these things on Windows, because I find the \"think for you\" interfaces more irritating than helpful, but if you don't know what you're doing, then defaults are good.\r\n\r\nA good example is the current state of Linux Printing. I always use lprng on my home LAN, because I know how it works, but the current baby is CUPS, which is still pretty alien to me, and from what I've read, has an obtuse and unhelpful UI design, and from experience, is not as reliable as I'd like (e.g. my Mom managed to destroy her print queue in some irreparable way, though we still haven't figured out what happened).\r\n\r\nOf course, her latest complaint is not being able to play WMV files (sigh). I still don't know of any free application that can do that, and I'm pretty sure it's currently illegal to write one in the United States, because of the DRM reverse-engineering issue.\r\n\r\nOf course, momentum is a bigger factor than most people realize, too. There are a large number of factors that prevent people from switching O/S, regardless of what their present choice of O/S is.\r\n\r\n"
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'Why are you guys taking this blog entry so seriously?'
+    hostname: 203.59.201.156
+    created: '1153843245'
+    body: "I can't help but feel that you may have missed the tongue in David Sugar's cheek on this entry. \r\n\r\n"
+-
+    name: clintbrot
+    mail: ''
+    subject: 'Mepis setup less than 20 mins - windows about an hour with no ap'
+    hostname: 68.225.161.123
+    created: '1153847369'
+    body: 'Mepis takes me about 20 minutes to setup entirely, windows takes over an hour not including office another 15 minutes.  Mepis Linux has saved me so much time on the systems I''ve built and upgraded.  Linux setup now is so much easier than windows.  Installing Linux on older computers is easy and quick also.  Last month I put Damn Small(DSL) on a friends old AMD K62/366, it took less than 10 minutes from boot to install!!!'
+-
+    name: scottc
+    mail: ''
+    subject: 'Taking it seriously'
+    hostname: 66.41.2.157
+    created: '1153865050'
+    body: "Dave:  Even if meant humorously I think it can still spark a serious discussion.\r\n\r\nIt's an interesting subject to me because I'm a fairly proficient Windows user who wants to switch to GNU/Linux.  Even though familiar with Unix servers from my job, it's been daunting for me to learn how to use GNU/Linux on the desktop.  It's not so hard to install and get started, but the prospect of being able to competently maintain the system and completely move away from all of my Windows apps is cause for much trepidation.\r\n\r\nI've been using Windows for about 11 years now -- kind of a latecomer considering my first computer was a Commodore VIC20 -- and in that time I've become completely <em>mired</em> in it.  It's very stable for me and I have a ton of apps and data that I use.  Well, not a ton, but a lot.  I like it, but I have a much stronger desire to be free than I do to stay with what I know and am comfortable with.\r\n\r\nMaybe I'm just a dummy, but I think if people like me are struggling to make the move  it demonstrates the challenge in front of us to increase the rate of adoption.  Even with the will, the way can be hard.  Now think about the people that don't even acknowledge the need for the change.\r\n\r\n(I've heard many people make the argument that we shouldn't care about if people switch or not.  I disagree.  As a free sofware believer, I think we need people to make the switch, although I'm going to save that discussion for another time.)\r\n\r\nI think we'll have a better chance of getting the Moms and Aunt Millies of the world to <em>start</em> using GNU/Linux.  People that have never really used Windows or computers and have less to transition/relearn.  I'd set my Mom up with GNU/Linux except that I don't feel confident yet in my ability to keep it running.  (And I know that there are a lot of Moms and Aunt Millies that are computer savvy and men that aren't -- why didn't I pick on Uncle Elmer?)\r\n\r\nAnyway, we take it seriously because we care :-)"
+-
+    name: Siddly
+    mail: ''
+    subject: 'RE: The secret of GNU/Linux desktop adoption'
+    hostname: 82.47.92.51
+    created: '1153879836'
+    body: "My experience is similar, having used Linux exclusively for many years both at home and to get work done for the Corporation before retirement. I have installed Linux on x86, x86_64, SPARC and Mainframes. Guys at work were somewhat puzzled when they knew I was using Linux as my sole OS for doing all the stuff they could do on Windows and then some - considered a \"Linux Bigot\" as I was once introduced to a customer seeking advice on installing Linux on his Mainframe. Now, these guys were professionals working on Mainframes and SPARC servers, right up at the high end, but were welded solidly to Windows. The main apps I needed for work were X3270, xdm to login to multiple Solaris partitions, StarOffice/OpenOffice.org, Lotus Notes under wine, Citrix Linux client and Cisco VPN client for Linux.\r\nI have a few people, one 75+ year old and one 66+ year old, both new to computers and they have Linux installed as their sole OS, doing word processing, spreadsheets, email, surfing the web, skype, Instant messaging, playing music CD's, WMV files, digital cameras, printing, wireless (66+ year old), LAN and cable modem setup (75+ year old) and all the usual stuff, no complaints about something not working, computer running slow caused by virus infections, spyware or malware as with people running Windows and asking a dyed in the wool Linux guy like me to fix their problems.\r\nOne thing I noticed in my long career is that computing folk are not the easiest to get to embrace change and the same goes for the majority of the populus. As on colleague once recounted, you would see a guy in the office intense at his laptop, seemingly super productive, then when you get close, he's muttering, \"I thought I'd saved that\", \"XYZ doesn't work\", \"I think I have a virus\", \"I'll reboot and see if that fixes it\", etc., etc. - the same guy who will tell you tomorrow that he has no problems with Windows - Dr. Jekyll and Mr. Hyde when it comes to desktop computing.\r\n===================================\r\nLinux used for all computing tasks"
+-
+    name: Siddly
+    mail: ''
+    subject: 'RE: No, it''s about ease of setup'
+    hostname: 82.47.92.51
+    created: '1153880304'
+    body: "All Linux boxes i have set up home and for others use CUPS without any bother, lprng is the one that causes problems on recent distros if you dare try it. You didn't mention your distro, but a search on google \"WMV on firefox\" or mozilla will bring up many hits.\r\n=================================== \r\nLinux used for all computing tasks"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Don''t be silly, Dave...'
+    hostname: 68.93.224.4
+    created: '1153890080'
+    body: "Of course we recognize the sarcasm, but the sarcasm is begging the question. If it's not something foolish like this, then what is the \"real\" reason why Windows is so entrenched? This article feels to me like it's \"playing dumb\", pretending there are no legitimate problems with desktop GNU/Linux relative to Windows. Of course it does make a solid point that Windows is less secure, but that's preaching to the choir, I suspect!\r\n\r\nI doubt there's just one reason, but the fact is that there are some good, solid, even technical reasons why Windows is still preferred by a lot of users.\r\n\r\nThere are good reasons to think that the benefits outweigh the costs, but I think it's still true that Windows still wins over novices because it has significant advantages right up front, when you're trying to get it to work. And once it has its foot in the door, the user isn't going to want to switch, even if there are significant long-term advantages to using Linux.\r\n\r\nDevelopers (and power users) don't have much natural inclination to worry about those start-up problems, because they are a nuisance for a short-time only, and so we quickly forget that we even had those problems. At least until it comes time to set up some newbie friend or family member's computer.  So it takes some extraordinary effort to get developers interested in solving these kinds of problems. Commercial enterprise distros may be a good source for that kind of effort, since they routinely need to install large deployments. Developing country computer reclamation programs may be even better, since they have the same problem, but on more diverse hardware.\r\n\r\nMind you, it's gotten better by leaps and bounds. I remember spending over two weeks getting ALSA 0.5 to work on my Thinkpad laptop a few years ago, while today, with ALSA integrated into the Linux 2.6 kernels, it's a snap, and I almost never have problem with sound configuration anymore. Due to the prevalence of proprietary 3D graphics cards, however, I continue to have major pains installing high-end graphics (e.g. to support video playback, open GL applications and games, etc), or I have to spend extra effort finding hardware that is supported.  David says he doesn't have to worry about that stuff for work, but I do. Besides, for me and a lot of other users, the fun and games part matters -- my computer is for home as well as work.\r\n"
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'I was going to say...'
+    hostname: 203.59.201.156
+    created: '1153890224'
+    body: "\"Even if meant humorously I think it can still spark a serious discussion.\"\r\n\r\nI know, I know. I just felt like no one acknowledged it, that's all.\r\n\r\nAnyway, seriously, discuss on.\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Yeah, but...'
+    hostname: 68.93.224.4
+    created: '1153890807'
+    body: "Yeah, but how long would it have taken <em>your friend</em> to put it on there, without your help?  Also, I'm not talking about getting it to boot, I'm talking about having the networking set up with his ISP, getting his printer to work, etc.\r\n\r\nI personally have no problem setting up GNU/Linux systems, and I can get Debian going in far less time than Windows. But that's because <em>I know what I'm doing</em>.\r\n\r\nAt least part of the reason why Windows takes me longer is because <em>I don't use Windows</em>, so it's utterly alien to me. Most people are looking at it through the other end of the telescope, though.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'But there you go: why should'
+    hostname: 68.93.224.4
+    created: '1153891423'
+    body: "But there you go: why should lprng be a problem?\r\n\r\nYou've got two competing systems, and the trendy new one is playing havoc with the old one. That's precisely the sort of problem I'm talking about. And who's to say it's \"lprng's fault\" rather than \"CUPS' fault\" when the two don't get along!\r\n"
+-
+    name: scottc
+    mail: ''
+    subject: 'RE: The secret of GNU/Linux desktop adoption'
+    hostname: 66.41.2.157
+    created: '1153922483'
+    body: "\"...the same guy who will tell you tomorrow that he has no problems with Windows - Dr. Jekyll and Mr. Hyde when it comes to desktop computing.\"\r\n\r\nBut this can apply to GNU/Linux also, right?  I occasionally have problems with Windows, but I suspect it's no different with Linux or the Mac.  For the guy who says his Linux installation is rock solid, we'll <em>never</em> find him struggling with the beast?"
+-
+    name: powah
+    mail: ''
+    subject: 'device drivers missing'
+    hostname: 142.46.196.26
+    created: '1154013460'
+    body: "Another reason people don't want to switch to linux is that some device drivers are missing for linux, so they can't use their favorite hardwares (e.g. printer, camera).\r\nSome companies don't provide device driver for linux.\r\nI had emailed to them but they don't want to provide device driver for linux because the demand is low.  It is a catch-22 problem.  Too small demand, too small supply and too small supply, too small demand."
+-
+    name: ''
+    mail: ''
+    subject: 'Ubuntu is very very easy...'
+    hostname: 201.8.132.120
+    created: '1155734972'
+    body: "Ubuntu is very very easy... It was easier find my home network on ubuntu than on windows... updates are all at one click, install programs too... its safe, you install once and don't need to reinstall from time to time... \r\nStill people are afraid of change, but they are not afraid of using old software like Windows XP SP2, even if they have no suport nor updates... they get trouble from time to time... \r\nUbuntu is like sex, if you haven't you won't miss, if you have..."
+-
+    name: ''
+    mail: ''
+    subject: 'Yeah sure...'
+    hostname: 201.43.7.214
+    created: '1155853188'
+    body: 'If ease to setup and use is what users want, then why isn''t the Mac the most popular platform?'
+-
+    name: ''
+    mail: ''
+    subject: 'Rob Limo?'
+    hostname: 195.7.17.85
+    created: '1155883491'
+    body: "Who's this Rob Limo guy? I guess you mean mr. Robin Miller a.k.a. \"Roblimo\"?\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'why should lprng be a problem?  A: It is not.'
+    hostname: 74.106.218.48
+    created: '1156550410'
+    body: "CUPS and lprng are alternatives, you don't usually run both at the same time.  \r\n\r\nCUPS is really nice, try it sometime.  It comes installed on many modern distros, http://localhost:631.\r\n\r\nHope that helps."

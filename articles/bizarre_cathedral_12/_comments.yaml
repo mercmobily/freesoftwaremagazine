@@ -1,0 +1,35 @@
+-
+    name: spikeb
+    mail: ''
+    subject: Irony
+    hostname: 71.13.24.205
+    created: '1215833271'
+    body: 'is when you make a comic about freedom that isn''t under a free license ;)'
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'point taken - but'
+    hostname: 212.159.106.192
+    created: '1215900885'
+    body: "Coincidentally(?) somebody mailed me about this very issue recently. Here's a copy of my response to them:\r\n\r\n\"Generally I agree with the principle of NC being non-free but there is a (slightly paradoxical) case to be made that you have to restrict a part\r\nof somebody's freedom in order to protect everybody else's. This is much like the GPL and CC-SA do.\r\n\r\nIn this case and in principle I have nothing particularly against people selling copies of the work but I do care about how, when and why it is done. I opted for the BY-NC-SA so that if somebody does want to they just have to run it by me first. You'll note I've not included ND as I find that a step too far.\r\n\r\nSorry if this bothers you but I've been stung before where somebody took some work I had made, claimed it as their own and (over)charged for it\r\nas part of a collection. I prefer that my works should be available at no cost (for the work itself) to the end-user. CC-BY-NC-SA helps me to\r\nkeep check that no end user gets ripped off.\"\r\n\r\ncheers  \r\nRyan"
+-
+    name: spikeb
+    mail: ''
+    subject: 're: point taken - but'
+    hostname: 71.13.24.205
+    created: '1215967580'
+    body: 'doesn''t bother me at all - i fully understand your reasoning behind it.'
+-
+    name: sharkbrainguy
+    mail: ''
+    subject: 'comic navigation'
+    hostname: 210.48.104.34
+    created: '1215989446'
+    body: "perhaps you could add the standard webcomic navigation to these pages:\r\n<< first < previous next > latest >>\r\n\r\nIt would make it alot easier to read more than one comic.\r\n\r\nViewing a list of stories by tag really isn't convenient enough.\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'good idea'
+    hostname: 82.108.129.98
+    created: '1216022760'
+    body: "Good idea. I've added previous and next links to this strip and will go through the others now. The current strip is always visible at the top right of the page so there's not a lot of point in that one. Plus it's also quite tricky to setup without editing each strip each week or fiddling with the site infrastructure which is beyond my permissions.\r\n\r\nthanks  \r\nRyan"

@@ -1,0 +1,54 @@
+---
+nid: '2917'
+title: 'Acer''s Linpus Linux Lite (Fedora) ultra portable laptop piles the pressure on Microsoft'
+authors: 'Gary Richmond'
+published: '2008-07-02 16:14:09'
+tags: 'microsoft,fedora,acer,linpus'
+license: verbatim_only
+section: opinions
+listed: 'true'
+
+---
+First Asus , then Dell, then MSI , Elonex, the Cloud and all their clones. Now Acer has entered the fray and it is all, at least initially, good news. It looks like they've all found a bit of Dutch courage and started to turn on the schoolyard bully from Redmond.
+
+Of what do I speak? Ultra lightweight portable laptops computers. Running varieties of GNU/Linux. That's what. In spite of all the caveats, they have managed to scare the bejasus out of Microsoft. In a [previous article](http://www.freesoftwaremagazine.com/columns/asus_backsliding_linux) on suspected backsliding by Asus promoting GNU/Linux on the range of EeePC laptops I suggested that even if Asus had been roughed up by the all too familiar threats of Microsoft, a chain reaction has been ignited by the introduction of relatively cheap ultra portables running GNU/Linux which would not be stopped easily. If one of the runners and riders stumbled then another would pick up the baton and continue. It's a _huge_ market out there--and there is everything to play for.
+
+If Asus have got a little windy, there are others. In that article I mentioned a number of hardware vendors. Since then Acer have joined the fray with the _Aspire One_. It is due to launch here in the UK in early July with the GNU/Linux version with a price tag of £199. (Yes, surprise, surprise, they're offering Windows XP too.) Given the specification (Intel atom N270 chip, 8.9 inch screen, webcam, 1024 x 600 resolution, 8GB SSD, three USB ports, VGA, and two SD card slots, two mini PCI slots (one for the WiFi and one for upcoming Wimax or HSDPA), Ethernet port, touchpad, 802.11b/g WiFi and a default 512MB of memory with a spare slot to add more) the Aspire One represents stonking good value for money. This is a seriously useful piece of kit and Acer are not hiding their light under a bushel either.
+
+# Acer talks tough?
+
+
+Gianpiero Morbello, Acer's Vice President of Marketing and Brand, [interviewed by vnunet](http://www.vnunet.com/vnunet/news/2218172/acer-pushes-linux-hard), said, bluntly, that Acer "has shifted towards Linux because of Microsoft". 
+
+=ZOOM=Microsoft has real power and it has never been slow or afraid to wield it when its commercial interests are threatened=
+
+He didn't elaborate but went on to say, perhaps more importantly, that "Microsoft has a lot of power" which could make things difficult for them but they were nevertheless "determined to develop the Linux market". That's pretty bold talk but as the saying goes, the proof of the pudding is in the eating. We'll have wait and see if they have the stomach for a showdown with Microsoft when the threats start to come. Perhaps they might start backsliding like Asus. In the real world, Microsoft has real power and it has never been slow or afraid to wield it when its commercial interests are threatened. Linpus Technologies haven't been behind the door either. As the software vendors of Linpus Linux Lite they have pitched their product to GNU/LInux novices and experts alike. Warren Coles, Linpus Sales and Marketing Manager explalined:
+
+_"Our company has always been totally committed to creating user friendly mass market Linux. Because of this we have invested our time into not just being another desktop distribution, but in resolving all the issues involved in getting desktop Linux to market. Specifically we provide unprecedented levels of support for hardware vendors - and we recently pioneered our own preload solution, and have worked extremely hard to create stable sleep and suspend modes for notebooks,” added Linpus Technologies. “By having operating system, application and driver teams working side-by-side, in close proximity to the hardware manufacturers, we offer tremendous quality, value and time-to-market strengths. Ultimately, both the consumer and Linux enthusiasts benefit from a smooth, stable, out-of-the-box Linux operating system at the best price"_
+
+
+Pretty bold stuff. We're all long enough in the tooth to be wary about publicity and marketing hype like this. Only time will tell if they will continue to deliver the free software goods or lapse into proprietary recidivism. Well, at least Linpus Linux is the desktop distribution of choice for HP Taiwan.
+
+
+# There's always a but--but not this time
+
+Well, that's the superficially good news. There is a possible fly in the ointment. I don't know what it is about the current crop of ultra portables but they all seem determined to install a version of GNU/Linux that is, well, problematical. First a highly customized version of Xandros on the EeePC involving GPL and Kernel source issues. Then there is the inconvenient matter of Xandros being a commercial distro and Asus' dealings with Microsoft. It's messy. The HP 2133 is another well spec'd contender but it chose to install SUSE, a Novell product that is being currently boycotted by many in the Unix community because of its link up with......Microsoft. 
+
+Admittedly, there is [Ubuntu's Netbook Remix](http://www.freesoftwaremagazine.com/columns/ubuntu_netbook_remix_detailed_explanation) as described by Tony Mobily on this site but that is a brilliant addition to Ubuntu and not a specific distro as such for ultra portables like the EeePC. You need to install Ubuntu first--and you cannot currently buy an ultra portable with Ubuntu pre-installed. However, if you feel sufficiently brave and experienced [you can download and install it](http://www.canonical.com/netbooks). Dell, who have been relatively well disposed to GNU/Linux, is coming to this market with the "E" (yes, imaginative isn't it?). Both GNU/Linux and Windows XP will be on the menu but as yet it is not known what version of the former will be offered. Then of course there is the Acer Aspire One. Ubuntu, Puppy Linux, Damn Small Linux (DSL) Fedora, Mandriva? None of these would offend purists. Nothing there to cause a bad odour with the GPL or with source code purists either--and no shabby deals with Microsoft implying patent infringements. Of course, there is always the option to install your favourite distro over the offending one but it would be better if this were not necessary in the fist place, especiallt if you want to attract first time users of GNU/Linux. This is when the arguments about fragmentation come into their own. A reduction in the choice of distros and exclusive standardisation tend to monoply and when users are faced with politically compromised distros they have few(er) options.
+
+=ZOOM=Fedora has managed to avoid shabby deals with Microsoft and playing fast and loose with Kernel source code and the GPL=
+
+Acer have decided to go with.....[Linpus Linux Lite](http://www.linpus.com/xampp/modules/cjaycontent/). In case you haven't heard of it before, it is a Taiwanese commercial version of GNU/Linux. If you download and run the live CD you will feel right at home if you have used the Easy Mode interface on the EeePC. [Here are some mouthwatering screenshots](http://www.thecodingstudio.com/opensource/linux/screenshots/index.php?linux_distribution_sm=Linpus%209.4%20Lite). It runs on a very low specification (CPUs as low as 366MHZ, memory as low as 128MBs of RAM and 512MBs of disk space) which may be why it was chosen (and the ability to switch at a one icon click from Easy Mode to a full KDE 3.5 desktop is something Asus should have included from the off without relying on the Unix community to do it for them). Boot time is approximately fifteen seconds and Acer claim that Linpus Lite can extend battery life by twenty percent on software developed under the Moblin Project. Linpus are joining the [Moblin.org project](http://www.moblin.org/) (and have said that they will be adopting the Moblin Linux stack), an Intel project to develop open source software for mobile devices. There is nothing, incidentally, to stop users from running this distro on a conventional desktop or laptop--though that might necessitate adjusting fonts.
+
+The hardware is based on the Intel Atom Processor which will be used in the Asus EeePC 1000. If you navigate to `/etc/system-release` you will discover that Linpus is based on a fork of Fedora 8 (Werewolf). That's better. Much better. Fedora has managed to avoid shabby deals with Microsoft and playing fast and loose with Kernel source code and the GPL. At last, a version of GNU/Linux on an ultra portable you can use with a clear conscience. Being a stripped-down version of Fedora it lacks both `make` and `gcc` (and probably `ncurses` too, though the binaries may be included in the distro but just excluded from the default installation). That will not bother novices or newbies much but it will hack off advanced users--no pun intended. On the plus side though, Linpus comes bundled with MP3, WMV and Flash support and plugins. Package management is courtesy of Synaptic but as Linpus is really Fedora, packages are RPM and presumably Yum could be used on the command line. Either way, you can download a live CD from the [official website](http://www.linpus.com/xampp/modules/mydownloads/viewcat.php?cid=14) (a little slow) and burn a CD or run in a virtual environment with [VMware](http://www.vmware.com/products/player/) or [Virtualbox](http://www.virtualbox.org/). Incidentally, Acer aren't the only ones to run with Linpus Linux Lite. Norhtec (from Thialand) are planning to launch the [Gecko](http://www.norhtec.com/products/gecko/index.html) and it will be running Linpus Linux Lite too.
+
+Doubtless, Acer hopes to cut costs and re-direct profits to their coffers rather than to the Microsoft war chest. Nothing wrong with that. Even if Acer is not a free software disciple, their adoption of GNU/Linux diverts money Microsoft would otherwise use to hoover up the opposition, well, I won't complain. 
+
+
+# Conclusion
+
+Despite all the caveats, Acer has joined Asus, Dell and others in something which may have a profound effect on the future of free software; and, above all, at last a pre-installed version of GNU/Linux that will sit well with a free software conscience. No source code ambiguities or GPL violations or any funny business playing fast and loose with the principles of free software. Just a hacked version of Fedora.
+
+The more that hardware vendors see the adoption of GNU/Linux as the route to greater operational freedom (from Microsoft) and bigger and more profitable markets the more proprietary software vendors like Microsoft will be squeezed. Hell, they might even feel constrained to adopt the free software model. No, no. I'm hallucinating. Doctor!
+ 
+

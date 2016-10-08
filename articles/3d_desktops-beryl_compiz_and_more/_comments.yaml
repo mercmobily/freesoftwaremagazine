@@ -1,0 +1,91 @@
+-
+    name: Grungydan
+    mail: grungydan@yahoo.com
+    subject: 'Very nice article.'
+    hostname: 75.13.188.2
+    created: '1181141915'
+    body: "I liked this article a lot.  I have messed with Beryl quite a bit, and Compiz a fair amount.  This is a good \"top level\" introductory article.  I especially enjoyed the lack of any competitive tone, something that's hard to find in tech articles these days.\r\n\r\nAnd now, I need to go check out Metisse! :)"
+-
+    name: eneville
+    mail: ed-freesoftwaremagazine@s5h.net
+    subject: 'Very good'
+    hostname: 81.110.242.129
+    created: '1182897853'
+    body: 'It''s great to see a good walk through like this that details the actual hardware used to get these results.'
+-
+    name: ancientofdays
+    mail: ''
+    subject: 'Beryl and Compiz have merged'
+    hostname: 207.135.146.168
+    created: '1183385949'
+    body: 'See http://dev.beryl-project.org/~cyberorg/beryl/36/compiz-fusion-arrives/'
+-
+    name: 'Anonymous visitor'
+    mail: shashnuts@yahoo.com
+    subject: 'Beryl and Compiz'
+    hostname: 61.95.227.73
+    created: '1183548051'
+    body: "being a non-technical person, i find it very difficult to install the open source software.... though i may have interest in using it... what is the reason for not having installation package which would make it more encouraging to use these software.\r\nI would love to hear suggestions in this regard.\r\n\r\nthanks"
+-
+    name: 'Anonymous visitor'
+    mail: ordminute@gmail.com
+    subject: 'This is experimental'
+    hostname: 88.6.19.20
+    created: '1184237519'
+    body: "This is experimental software and not intended for general use. It will be harder to install in the meantime. Much experimental software for Windows or OS/X is just the same. \r\n\r\nMost modern desktop Linux systems have a completely GUI software installation system: you select the software from a list in a program, click 'INSTALL' and type in your password. In many cases you can also just double-click on a package to install it. \r\n\r\nTip: When you see a file ending in .gz or .tar it probably means you have to compile it. "
+-
+    name: drinky
+    mail: drinky@dodgeit.com
+    subject: Doodle
+    hostname: 24.224.189.56
+    created: '1184242628'
+    body: "Liked your page but really good to mention that if you use the 'doodle' function!\r\nyou erase it by using \"super + alt + k\"\r\n\r\nI must have spent 45 minutes tracking that down!\r\nTake care.\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'The Eraser'
+    hostname: 86.71.28.135
+    created: '1184663292'
+    body: "Well, when you want to use the Doodle plugin (or any other plugin, for that matter), it's a good thing to look at its default settings - because the key combos can change from one distribution to the other, so super+alt+k may not work for everybody.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: Athiril
+    mail: lucius_ra@hotmail.com
+    subject: 'Personally I think there'
+    hostname: 203.166.96.237
+    created: '1186364168'
+    body: 'Personally I think there should be an option for cube/multi-faceted windows instead of/or as well as cube desktop, so you can spin one window around in a cube, so multi-window applications dont take up a lot of space, like a firefox cube... or dodecahedron XD, and even allowing you to group different applications into one multi-face window as well, I''d prefer that to 3D cube desktop, it''d be more useful to me, when they have that, thats when I''ll use a 3D desktop :)'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'That''s a good idea BUT...'
+    hostname: 84.100.54.238
+    created: '1186818734'
+    body: "...I'm not sure Compiz/Beryl/Fusion is the right WM for that; more than likely, it's something Metisse would handle better.\r\nSubmit the idea to the devs, you may get what you wished for.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Dawid Michalczyk'
+    mail: dm@eonworks.com
+    subject: 'Thanks for the post. It'
+    hostname: 80.167.116.83
+    created: '1193773934'
+    body: 'Thanks for the post. It would be useful to know if 3D desktops offer any advantages to 2D desktops productivity wise. I have been using Linux for about a decade now and with it virtual desktops which I find invaluable. Do 3D desktops help improve work efficiency?'
+-
+    name: 'Anonymous visitor'
+    mail: belfastjim@gmail.com
+    subject: 'super?'
+    hostname: 82.17.252.157
+    created: '1196491780'
+    body: "Hi, what is super, as in super + mouse ?\r\nCheers"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'The Super key - explanation'
+    hostname: 86.71.28.2
+    created: '1196503015'
+    body: "PC keyboards oribinally had 88 keys. It was then extended to 101 (the numpad's dual functionalities were separated, and we got arrow keys, etc.), and when Windows 95 came out, Microsoft 'created' an extended keyboard with two 'Windows' keys and a list key (creating the current 104-key keyboard layout).\r\nHowever, Apple already had, with the Macintosh, a similar number of keys with a very similar layout - and two 'Apple' keys.\r\nSince X, Gnome, KDE etc. also run on Macs, it was impractical to refer to those different keys separately (no way you'd get an 'apple' key on the same keyboard as a 'windows' key), and on the other hand, it would have been unfair to call it the 'Windows' or 'Apple' key' (asking Mac users to use the 'Windows' key was akin to asking them to cut their own finger).\r\nThe solution was to give these keys the same name - and the chosen name was 'Super'.\r\nI think Sun hardware (with Solaris) also have an extra function key, and it is used as such too.\r\nIn short, the 'super' key refers to that extra key on your keyboard that represents the major OS for your architecture.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Greg H'
+    mail: glhering@yahoo.com
+    subject: 'I''ve recently become a fan'
+    hostname: 12.166.82.230
+    created: '1197041671'
+    body: "I've recently become a fan of this 'composting manager' stuff.  We'll see about productivity... but I love the way it looks!\r\n\r\nCompiz is installed and enabled by default in Linux Mint 4.0.  I also found you could install the latest PCLinuxOS and type 'beryl-manager' in a terminal window and it would start Beryl.\r\n\r\nThat's pretty friendly!  You just have to have a supported video card.\r\n\r\nDebian based distros, like Ubuntu and Mint, use Synaptic package manager.\r\nEven without the package manager, if you download a .deb file (or .rpm for RedHat style packages) and double click, it usually runs the default package installer utility.\r\n\r\nThat's pretty friendly!\r\n\r\nBeing free, Linux is not quite as 'polished' as an OS supported by the country's richest man.\r\nBut it's good.  Very good!\r\n\r\nRemember, you didn't learn your current OS in a day.  Give it some time :)"

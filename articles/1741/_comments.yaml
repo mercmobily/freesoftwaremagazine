@@ -1,0 +1,28 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Ghostscript has been free for a long time'
+    hostname: 66.118.56.230
+    created: '1156951403'
+    body: "Thanks for a great article.\r\n\r\nHowever, changes in the licensing of ghostscript don't really affect it -- ghostscript has had a very capable GPL version which has included PDF support for at least a few years now, and there have been a number of GPL-free tools for making PDF as well.\r\n\r\nGhostscript was one of a few free GPL packages which was developed under a conventional commercial model, but used the free-licensing of the prior version as a way of promoting the new version.  This has kept GPL versions of ghostscript available for years.\r\n"
+-
+    name: stoian
+    mail: ''
+    subject: 'PDFCreator for Linux?'
+    hostname: 216.191.139.194
+    created: '1157034631'
+    body: "I knew about PDFCreator and have been using it for a long time - under Windows, but there is no Linux version, on Ubuntu Linux I have to use ps2pdfwr as I couldn't find any equivalent of PDFCreator. Does anybody know about one?\r\n\r\nTIA,\r\n\r\n--\r\n\r\nDan"
+-
+    name: doolittle
+    mail: ''
+    subject: cups-pdf
+    hostname: 72.73.18.214
+    created: '1157122494'
+    body: 'I use cups-pdf, works great after "chmod +s /usr/lib/cups/backend/cups-pdf" since it was broken out-of-the-box =P'
+-
+    name: jlisbona
+    mail: ''
+    subject: 'free editors for pdf files?'
+    hostname: 213.97.51.67
+    created: '1157461679'
+    body: 'What I think it is really needed is a free editor for pdf files.  I needed to edit a simple pdf file with some user entries and all the editors I''ve found are commercial software (maybe I''ve not searched enough in Internet...). '

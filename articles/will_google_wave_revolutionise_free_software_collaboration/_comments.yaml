@@ -1,0 +1,7 @@
+-
+    name: sergiof
+    mail: ''
+    subject: 'Nice but...'
+    hostname: 198.45.19.50
+    created: '1245418952'
+    body: "But wouldn't it be nicer if the protocol supported P2P\r\nclients and did not require a central server? One could then setup collaboration groups for small teams without being hooked up to the mother ship. Sort of like the \r\ndistributed version control tools out there. "

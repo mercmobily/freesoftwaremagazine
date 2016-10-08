@@ -1,0 +1,14 @@
+-
+    name: jhansonxi
+    mail: ''
+    subject: 'A more robust but complicated way'
+    hostname: 216.93.97.4
+    created: '1342935095'
+    body: 'You could probably do it with xmlstarlet by itself but you need to know XML to get it to function.  The web site documentation has some examples.'
+-
+    name: 'Make this happen'
+    mail: ''
+    subject: 'xml conversion'
+    hostname: 109.61.237.50
+    created: '1406877988'
+    body: 'I''ve tried many xml conversion tools, including Unix and Total XML Converter (CoolUtils), but so far I haven''t found any program that''d work perfectly'

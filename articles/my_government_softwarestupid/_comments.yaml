@@ -1,0 +1,21 @@
+-
+    name: tinker
+    mail: ''
+    subject: 'I would dispute the UK'
+    hostname: 88.210.170.251
+    created: '1348577820'
+    body: "I would dispute the UK leading the way in FOSS, or anything else come to that.\r\n\r\nUK pension and tax forms need adobe, none of the free alternatives work, in fact often you cannot even get a download link from a linux box!\r\nEven if you do get a download form it has to be posted back as they cannot accept digital signing. And do not even think of trying to email a tax office, they do not have email facilities, 'to protect your data'!"
+-
+    name: rikard
+    mail: ''
+    subject: 'Free PDF readers'
+    hostname: 83.254.85.172
+    created: '1348653890'
+    body: "Hi,\r\n\r\nI just wanted to share the PDF Readers site [1] which lists free alternatives to Adobe. It was launched as part of a campaign[2] by Free Software Foundation Europe.\r\n\r\nLinks:\r\n\r\n1. http://pdfreaders.org/\r\n\r\n2. http://fsfe.org/campaigns/pdfreaders/pdfreaders.html\r\n\r\nPS\r\n\r\nI found it slightly ironical (humorously) with regards to the article that commenting here requires an account here or at Facebook, Hotmail, AOL or Yahoo. Well, that's great unpaid advertising for those companies ;-) (just kidding)"
+-
+    name: butler
+    mail: ''
+    subject: 'Lobbies Destroyed A Move To FOSS'
+    hostname: 194.83.57.1
+    created: '1403189060'
+    body: 'They were going to encourage free software in UK government bodies a while ago, but proprietary lobbies ended up skewing it in their favor to prevent anti competiton (which is pretty ironic). Interestingly, if you study under institutions (personally Scottish Highlands), it''s possible to badger them into installing some FOSS software, but in all honestly, we''re pretty much forced into proprietary software, unable to install free software (unless it goes through the bureaucracy), so i wouldn''t say we''re anywhere close to leading the way.'

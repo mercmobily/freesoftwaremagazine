@@ -1,0 +1,14 @@
+-
+    name: jalockli
+    mail: ''
+    subject: 'Try two tools rather than one'
+    hostname: 129.97.23.18
+    created: '1212679794'
+    body: "As a LaTeX user myself, I understand the value in separating the \"writing and editing\" part from the document formatting stage. While I understand why many people do not like LaTeX, the same approach could be taken here: Use Composer to write the content, collaborate, edit, whatever. Then, when you want a nicely formated printed version, import it into Scribus or another desktop publishing application and tweak it however you like.\r\n\r\nIn fact, this is similar to how publishers actually work, the author writes the document, then the publisher deals with formatting. By separating the two, the author is not bogged down by needless formatting issues or software bugs and can concentrate on the content. Surprisingly, this is both time efficient and produces better output because the content is written faster, and desktop publishing software does a much better job than word processors at formatting."
+-
+    name: 'Maurice Cepeda'
+    mail: ''
+    subject: 'Mozilla code --> Komodo Edit'
+    hostname: 190.160.103.72
+    created: '1245736725'
+    body: 'Unknown to me at the time of writing, the Mozilla code has been taken and developed into --not a document or word processor but-- a text editor named Komodo Edit, and not quite the same as Komodo IDE.'

@@ -1,0 +1,63 @@
+-
+    name: admin
+    mail: ''
+    subject: 'Nothing tricky about this one'
+    hostname: 165.98.157.37
+    created: '1180653660'
+    body: 'Just let us know how you found out about Free Software Magazine. If you answer "Other" please leave a comment too.'
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'GNU website'
+    hostname: 80.6.124.25
+    created: '1180655695'
+    body: "Other - I remember I found it from a link on a website, which I'm pretty sure was the GNU site.\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: Tyler
+    mail: ''
+    subject: yup
+    hostname: 142.177.122.182
+    created: '1180657734'
+    body: "That's where I found it too. But I just looked, and it looks like that link is no longer there...\r\n\r\nt"
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Google
+    hostname: 68.197.66.72
+    created: '1180658114'
+    body: "Was looking for some online magazine that I could contribute to.  After reading the issue (can't remember which one, but it had a PDF version), I was hooked.\r\n\r\n--\r\nAndrew Min"
+-
+    name: waleed_saud
+    mail: ''
+    subject: GNU
+    hostname: 62.149.114.19
+    created: '1180665242'
+    body: 'I found the link to your website in the GNU project site.'
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: Other
+    hostname: 59.101.109.74
+    created: '1180683676'
+    body: 'I was doing one of my periodic sweeps, looking for any sites on Free Software that I didn''t already have, and suddenly, there it was: Free Software Magazine. It all sounded just right, so I bookmarked it straight away.'
+-
+    name: 'Giorgos Kostopoulos'
+    mail: ''
+    subject: 'From FSF site. ;-)'
+    hostname: 85.75.150.30
+    created: '1180963025'
+    body: "I was searching arround at FSF and GNU sites, searching arround various projects.\r\n\r\n\r\nSpeak \"Friend\" and enter, or..."
+-
+    name: 'Josue Abarca'
+    mail: ''
+    subject: 'GNU website'
+    hostname: 216.230.138.105
+    created: '1180975459'
+    body: 'Other - That''s where I found it too.'
+-
+    name: 'Andrei Protasovitski'
+    mail: ''
+    subject: 'Actually, I''d been looking'
+    hostname: 82.209.246.158
+    created: '1181025343'
+    body: 'Actually, I''d been looking for free magazines and/or newspapers about free software. I found several, one of them was the "Free Software Magazine". :)'

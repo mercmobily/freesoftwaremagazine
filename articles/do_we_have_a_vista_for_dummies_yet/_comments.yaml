@@ -1,0 +1,63 @@
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Did you get the title right?'
+    hostname: 212.159.106.192
+    created: '1215809645'
+    body: "Nice post with some good points. Did you mean the title to read \"Do we have _Vista_ for Dummies yet?\"\r\n\r\nOh and yes that book does exist - not that I've read it. There are dummies books for pretty much everything now including Ubuntu, Fedora and Debian. Even \"non-technical\" subjects -- like Fertility -- get Dummies guides!\r\n\r\ncheers  \r\nRyan"
+-
+    name: tracyanne
+    mail: ''
+    subject: 'How many people use a single Gnu/Linux download?'
+    hostname: 122.148.187.219
+    created: '1215815987'
+    body: "quote: I always download the Kubuntu ISO onto my hard drive and usually only burn off one CD. In the relatively short period since Kubuntu 8.04 came out I have used that single CD to do about a dozen fresh-installs, on four different computers, for various reasons.\r\n\r\nI do exactly the same with Mandriva Linux, and I've done that since at least the year 2000 when Mandriva Linux was Mandrake Linux. In addition I have a small part time business installing Mandriva Linux on re purposed Windows Computers, machines I've upgraded from various versions of Windows, including Vista, to Mandriva Linux. On top of that I also sell machines pre installed with Mandriva Linux, all of these come from CDs burned from the same original download of the ISO image (currently Mandriva Linux 2008.1)\r\n\r\nI do have knowledge of both Microsoft Windows and Mac OS, and Macs are not as intuitive as they are made out to be. And there are many things, at least in my experience of the KDE desktop, that are trivially easier on Linux than they are on Windows (where to do the same things you need to know a set of correct incantations - well actually CTRL+KEY - to achieve the same result as is achieved on KDE by simply indicating your preference).\r\n\r\nGNU/Linux, at least (in my experience) in the configuration I use and sell - Mandriva Linux with a KDE desktop - is way more intuitive than either Windows or Mac OS, and the people I sell it to pick it up quite quickly. I say this because I had expected to make a nice little income off the top of my sales, but that doesn't seem to have eventuated, and those new Linux users, the ones often referred to as the Dummies, report that they don't really need much help, thank you very much."
+-
+    name: admin
+    mail: ''
+    subject: 'The title was my fault...'
+    hostname: 65.96.173.89
+    created: '1215822315'
+    body: "Hi,\r\n\r\nThe title was my fault, not the author's!\r\n--Fixed :-D\r\n\r\n(I also have a redirect for the old URL)\r\n\r\nMerc."
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'Fertility for Dummies??'
+    hostname: 61.69.181.35
+    created: '1215835370'
+    body: "Thanks Ryan. Actually, I was only going to post that as a comment to your article, but I noticed this - write a post in reply - feature. FSM didn't have this when I took off for the bush last summer, so I thought I'd give it a try to see how it works.\r\n\r\nFertility for Dummies; at my age I'll just stick with Free Software."
+-
+    name: alandmoore
+    mail: ''
+    subject: 'So much for download counts...'
+    hostname: 72.237.174.94
+    created: '1216068965'
+    body: "I don't even download an iso most of the time.  I don't know how many debian and ubuntu machines I've set up with my PXE boot/apt-mirror server...  \r\n"
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'Me too'
+    hostname: 61.69.181.35
+    created: '1216181890'
+    body: 'I got into it in exactly the same way; Mandrake with the KDE desktop. KDE is a very Windows-escapee friendly introduction to Free Software with hardly any learning curve in order to handle the basic functions.'
+-
+    name: craigTFD
+    mail: ''
+    subject: 'Devil''s Advocate'
+    hostname: 24.117.228.210
+    created: '1217352039'
+    body: "The simple answer to the number of installs that come off of a single Linux (any distro) CD is zero. Nobody uses it, and it quickly gets forgotten, perhaps used as a coffee cup coaster. Linux cannot be counted because there is nothing to count. It is quite impossible to download bazillions of CDs and DVDs, yet only have 0.8% of the PC market. People must be early on discovering how defective the (non)product is, and returning to the tried and true software that actually works.\r\n\r\nAnd if you believe ANY of that, I have a bridge to sell you.\r\n"
+-
+    name: craigTFD
+    mail: ''
+    subject: 'Wonderful Article'
+    hostname: 24.117.228.210
+    created: '1217355246'
+    body: "I hate to nit pick at such a concise and well written article, but there is a fact which needs to be fact checked.\r\n\r\nFree versions of Microsoft Windows are available for download. And no, I'm not talking about pirated or cracked copies. I'm talking about officially licensed, working versions.\r\n\r\nhttp://www.microsoft.com/windows/windows-vista/compare-editions/64-bit.aspx\r\nhttp://www.microsoft.com/windows/embedded/downloads/default.mspx\r\nhttp://technet.microsoft.com/en-us/windowsserver/bb430831.aspx\r\nhttp://search.techrepublic.com.com/search/microsoft+windows+and+trial+version.html\r\n\r\nYes, they are time limited trials. But the practice has been part of Microsoft's behavior since at least Windows/2000 (I still have a 120 day trial CD).\r\n\r\nThe only way to get decent Microsoft documentation is to buy their programming products and subscribe to TechNet (which also provides trial software).\r\n\r\nI hope we see more articles down this road. I had a dentist client years back, who bought a system for his wife and had a limited budget. I put Red Hat on it,and while the system worked very well, it didn't work well for the wife. He eventually bought a copy of XP for the box, even though I'd given her lessons and helped her set things up (for free). I think that with the versions of Linux we have today, the result might very well have been different.\r\n\r\nPerhaps the question is not Vista for dummies, but \"Do we have a Linux version for Dummies yet\"? Can normal people use Linux, or is it only for mutants?"
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'Not nitpicking'
+    hostname: 61.69.181.35
+    created: '1217814044'
+    body: "craigTFD, constructive discussion of a point is always most welcome and I thank you for your kind comments.\r\n\r\nNo, I hadn't realised that M$ offered shareware versions of their OS, but it stands to reason, I suppose. Their main objective is to get the user hooked, then permanently tied in, so any method that works will be on offer.\r\n\r\nI sympathise with your problems getting people to discard Windows, but I've been in that tied-down frame of mind for too many years, not to understand their fears.\r\n\r\nI used word processors and various Windows desktops throughout the 1990s and I always felt an intense loathing for Windows, but could do nothing about it. I actually started using the internet with Windows 2000 in 2002.\r\n\r\nI actually knew about Linux by then, because some academic friends were using it. I thought it would be too 'hard' for me, but I could also see huge security problems looming for Windows users.\r\n\r\nOne day I was watching my friends using Mandrake on the internet and suddenly thought, \"Hey, even I could do that, easily\", so they kindly set my laptop up with a Mandrake and Windows dual/boot.\r\n\r\nI took it home and started using Mandrake straight off. I never did go back to that Windows partition, not even once. It was my happiest day in computing. I started to love Linux as much as I'd previously loathed Windows and I actually started to learn a bit about computers, something I'd never been tempted to do as a Windows user.\r\n\r\nI got another notch on my Kubuntu disk last week. I setup a new Thinkpad t61 for an academic who needed XP to run certain academic programs, but needed to be able to use the internet in some degree of safety. Now they can still run their programs and then use the Kubuntu partition for the internet.\r\n\r\nI apologise for the title of the above article. It was originally posted under the working title of, \"Windows for Dummies\", but got confused during the editorial process."

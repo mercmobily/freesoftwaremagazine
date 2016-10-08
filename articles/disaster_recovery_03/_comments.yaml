@@ -1,0 +1,63 @@
+-
+    name: god
+    mail: ''
+    subject: 'I hope you took out the Harddisk'
+    hostname: 203.59.90.115
+    created: '1143609840'
+    body: "<strong>From</strong>: Phil Trickett\r\n<strong>Url</strong>: www.trickett.info\r\n<strong>Date</strong>: 2005-05-14\r\n<strong>Subject:</strong> I hope you took out the Harddisk\r\n\r\n\r\nBefore washing the laptop under the tap!\r\n\r\n\r\n\r\nNice article.\r\n\r\n\r\n\r\nWould be nice to see how you use your encrypted partitions, and a couple of other things mentioned in the article.\r\n\r\n\r\n\r\nGood luck with the laptop!\r\n\r\n\r\n\r\nPhil\r\n\r\n\r\n"
+-
+    name: god
+    mail: ''
+    subject: 'Take out HD, copy it'
+    hostname: 203.59.90.115
+    created: '1143609967'
+    body: "<strong>From</strong>: Mik Yelrem\r\n<strong>Url</strong>: Cox.net\r\n<strong>Date</strong>: 2005-05-14\r\n<strong>Subject:</strong> Take out HD, copy it\r\n\r\n\r\nIf your laptop dies from coffee, and the Hard Drive (HD) is not damaged, then you should be able to take out the HD, put it into one of those adapters that make it so that you can plug it into an IDE cable.  Then connect it into your Desktop in an open IDE connector, then boot your Linux from a CD or Floppy (like Knoppix, your boot floppy for Linux, if you made one, or some way to bypass the possibility that the desktop will try to boot from the laptop HD).  Then you can use dd to copy your whole hard drive to another drive.  True, maybe you need to go buy another drive to copy to, but if you really want your configuration back in a form where it will work just as before, assuming no HD damage from the coffee, you have to copy the drive to another drive.  \r\n\r\n\r\n\r\nAnother thing you can do is get a USB hard drive case with the USB circuitry in it, and put your laptop HD into that.  Then you can plug that into a working computer and pretty much copy what you want into some disk space on the host computer.\r\n\r\n\r\n\r\nProbably the best thing would have been to just take out the hard drive, then get the laptop fixed while using a different hard drive (used just to make sure the repair worked), or buy a new hard drive to be used for this repair.  But keep the original HD that was in the laptop at your house. Then, when you get back the working laptop, just put in the original HD, and since it is going into the exact same type of computer, it should just work fine.  \r\n\r\n\r\n\r\nSure it may cost some for the extra hard drive, if you have to get one, but you get your data and configuration all back just fine, and no worries about anyone else getting your data.  At the repair shop perhaps all they will have to do is to put in some new components and just keep the old HD and it will work.  \r\n\r\n\r\n\r\nFor data security people should buy a backup hard drive, and periodically copy the main drive to the backup drive.  The Knoppix Hacks (O'Reilly) book describes how to do these things.\r\n\r\n\r\n\r\nUsing these techniques perhaps we can avoid shipping away our important data.  It may cost more, but it may be well worth it.  Then, even if coffee takes out the HD too, you still have everything up to the last backup date, and you can run from the backup hard drive.\r\n\r\n\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'airport x-ray'
+    hostname: 12.158.238.190
+    created: '1167787917'
+    body: "i am almost positive that my computer was bit by a malfunctioning airport x-ray machine. has this happened to anyone else? \r\n\r\nis my data lost forever?"
+-
+    name: ''
+    mail: ''
+    subject: um
+    hostname: 65.188.54.66
+    created: '1170938950'
+    body: 'you didn''t give us enough information'
+-
+    name: 'Data recovery services'
+    mail: andrei.dana@yahoo.com
+    subject: 'Well, yea, washing your'
+    hostname: 81.180.209.240
+    created: '1192125429'
+    body: "Well, yea, washing your laptop under the tap pretty much leaves him with no chance... I know loosing data is a living hell, I have been through this and trust me, I never want to see it repeating. I even developed a phobia for it, if you search my bag you will understand. \r\n\r\n"
+-
+    name: 'raid data recovery'
+    mail: andrei.dana@yahoo.com
+    subject: 'Please don''t mention me'
+    hostname: 81.180.209.240
+    created: '1192732141'
+    body: "Please don't mention me again about loosing data, the last time I have through this it was a endless nightmare and I know I am not the only one saying this. Having an good backup strategy is a \"must\" for all of us. \r\n"
+-
+    name: Michalraise
+    mail: ''
+    subject: 'if you have to get one, but'
+    hostname: 59.161.44.40
+    created: '1235817282'
+    body: "if you have to get one, but you get your data and configuration all back just fine, and no worries about anyone else getting your data. At the repair shop perhaps all they will have to do is to put in some new components and just keep the old HD and it will work.\r\n\r\n---------------------------------\r\n\r\nhttp://eeepc901.org.uk\r\n<a href=\"http://eeepc901.org.uk\">eeepc 901</a>"
+-
+    name: Simone45
+    mail: ''
+    subject: 'I must say I too have heard'
+    hostname: 115.167.87.126
+    created: '1282720980'
+    body: "I must say I too have heard the most bizarre stories of poor laptops being fried. I do agree that you can never be too careful. Incidents will take place and you should be prepared to bear the consequences. You should be equipped always with a contingency plan in your words 'a disaster recovery strategy'. Losing data can be a fright to the heart and disastrous to your business.\r\n"
+-
+    name: jillian_g
+    mail: ''
+    subject: 'First of all, I''m so sorry'
+    hostname: 112.201.68.73
+    created: '1299958860'
+    body: 'First of all, I''m so sorry about your laptop. It happened to me before but luckily I was able to retrieve my laptop, Thank God because it has all my files and I don''t have a backup. Never will I drink coffee beside my laptop. '

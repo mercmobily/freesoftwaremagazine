@@ -1,0 +1,28 @@
+-
+    name: notmebug
+    mail: ''
+    subject: 'Why no IPv6 support in Ekiga?'
+    hostname: 79.116.98.165
+    created: '1210007952'
+    body: 'GnomeMeeting had nice IPv6 support, that me and the team I worked in used in some experimental project. We could do something like h323:[3ffe:1::1], for instance. At one time, after Ekiga was out, we though that we should give Ekiga a try. We couldn''t believe that IPv6 support was dropped, so we had to stick with Gnomemeeting (it was mandatory to use IPv6). Please, IPv6 is the future, put IPv6 support back into Ekiga!!'
+-
+    name: ErikJ
+    mail: ''
+    subject: 'Skype is hard to beat'
+    hostname: 80.216.204.79
+    created: '1210236171'
+    body: "<em>Julien Puydt: [Skype] is indeed easier to set up, but it’s cheating!</em>\r\n\r\nSkype can never be beaten, if you call what it does cheating. That's how it should be done.\r\n\r\nEven though Ekiga is one of the best Linux applications out there, and really the best SIP software I've ever used (on all platforms), also the easiest. Though it is still hard to set up, if you know zip about SIP. So this is more a complaint against SIP than against Ekiga. \r\n\r\nThis might be wrong, but as far as I know SIP wasn't designed to handle firewalls, and this is the problem. But as I said I don't know to what extent this is true. Skype is designed for firewall traversal, and this is good not cheating."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Ekiga and IP PBX'
+    hostname: 82.108.129.98
+    created: '1210263180'
+    body: "> [Damien Sandras]: You can thus connect Ekiga with an IP PBX and use it as your phone. You can transfer calls, put the call on hold, forward the call and use such advanced telephony features.\r\n\r\nThis intrigues me as we are using a Nortel BCM 200 here. I would like to investigate using Ekiga with that but I've not found much of help via Google. Any ideas where to start on this? "
+-
+    name: springless_chicken
+    mail: ''
+    subject: DiamondCard
+    hostname: 174.58.137.49
+    created: '1313935106'
+    body: 'It sounds like diamondcard is trying to maintain their relationship with Ekiga. Unfortunately they are terrible with customers. I think in the long run Ekiga might have been best to have kept their relationship with Diamondcard low key and off the interface as I don''t believe time is going to be nice to this arrangement due to diamoncard.us failing miserably with their customer service, support and service issues.'

@@ -1,0 +1,112 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Your chance to shine !!'
+    hostname: 211.29.75.193
+    created: '1164790723'
+    body: "isnt this what the Open Source, free software movement is supposed to be experts at ?\r\n\r\ni thought this was the king of thing, where you would post your functional spec of your application to SourceForge or whatever, create a small group of experts who should be able to develop a usable application and system for your customers requirements. ?? !!!\r\n\r\ni mean, if linus Torvalds can write \"GIT\" in a week, it must be possible to to ge the coding done for a case management system. \r\n\r\nactually help others, and increase their productivity.\r\n\r\nyou also state, that they are not interested in the initial cost of the software, u should know that applies to just about EVERYONE in the world. \r\nthey will (AND DO) pay for a quality product, when there is similar produce availble for free, (but not as good). \r\n\r\ncost of software is a VERY small issue in considering USING that software. \r\nfailure to realise this is a major failing. "
+-
+    name: ''
+    mail: ''
+    subject: 'what''s the spec?'
+    hostname: 209.94.216.22
+    created: '1164854075'
+    body: "software starts with a spec.\r\n\r\ndefine the spec and that'll gives us something to chew on\r\n\r\nif you were already involved in production of a similar system, you already know something of the spec.\r\n\r\n?"
+-
+    name: ''
+    mail: ''
+    subject: 'For the benefit of the good...'
+    hostname: 203.211.151.251
+    created: '1164872753'
+    body: 'Just start this idea as a project and I feel there will be people willingly to contribute.'
+-
+    name: ''
+    mail: ''
+    subject: DESC
+    hostname: 62.99.211.15
+    created: '1164886927'
+    body: "Hi there,\r\n\r\nI just wanted to chime in that desc.org is an NP homeless shelter that is run on 100% free software.  I would recommend contacting them to see which tools they use for case managment, since there is a lot of overlapping functionality.\r\n\r\nThank you for your time,\r\nFrank Russo"
+-
+    name: ''
+    mail: ''
+    subject: 'Free software is not necessarily cheaper'
+    hostname: 220.233.53.52
+    created: '1164898796'
+    body: "Remember about free software that you should focus on the freedom aspect and not the price. Focus on the freedom to use, tinker, and distribute software. \r\n\r\nIn my business, I only use free software. Unfortunately, the commonly available free software apps don't adequately solve my business needs so I needed to hire a vendor to document the software and improve the deficiencies. \r\n\r\nI can tell you now that it would have been cheaper and quicker for my situation to buy licences for non-free software and be done with it compared to hiring the vendor to fix up the free software. \r\n\r\nI chose to not buy non-free software for the purpose of not being subjugated to the vendor(s) of that software. The cost of freedom my this case was more than just a bit of money but also time and convenience.\r\n\r\nFocus on the freedom aspect of free software. This may cost you more money and time compared to convenient non-free software but with free software, you're not going to be subjugated by a vendor.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Free software for non-profits?'
+    hostname: 64.205.208.142
+    created: '1164927094'
+    body: "I work for a nonprofit and have developed programs using open-source standards. we serve about 50,000 clients a year.  And have a shelter, family service, and a day care program. It has taken me over three years to develop a information system to support all of the programs. Each one has to meet its federal and state reports and with standards changing so quickly it can be quite hard to do it on your own.\r\n\r\nMost of all the systems run on Apache PHP and two forms of SQL, my SQL and PostgreSQL. I hope to add some Ajax to the mix next year. "
+-
+    name: 'Chris Holt'
+    mail: ''
+    subject: Thanks
+    hostname: 24.108.129.4
+    created: '1164960074'
+    body: 'Actually, a spec may be on the way. This post has generated some interest in this as a project.'
+-
+    name: 'Chris Holt'
+    mail: ''
+    subject: Thanks
+    hostname: 24.108.129.4
+    created: '1164960126'
+    body: 'I''ll check them out for sure.'
+-
+    name: 'Chris Holt'
+    mail: ''
+    subject: 'You are Correct'
+    hostname: 24.108.129.4
+    created: '1164960377'
+    body: 'Your points are well taken and free is not necessarily the best solution; but can often be a start. It''s not much use to anyone if the software is free and also not very good; but if it''s usefulness is high, is flexible and scalable and secure...then you are at least starting with a solid base. In my experience with case management software, there were no off the shelf systems that worked out of the box. All needed some customization for each agency..so there was always additional costs, time delays and many many meetings to get this stuff done...which half the time (or more) was much less than successful anyway.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'cheaper != better'
+    hostname: 68.93.224.4
+    created: '1165270226'
+    body: "Note that the poster you are responding to said that proprietary software would've been <em>cheaper</em>, he didn't say \"better\". In fact, as I read it, he says the opposite: he chose the better alternative, even though it cost a little more.\r\n\r\nI think that this can also be stated in terms of long-term versus short-term costs. Proprietary software costs more out of the box, but free software may cost more to integrate into your system. After that, though, free software is likely to be cheaper to maintain for the long haul, over proprietary software which will have to be periodically replaced and re-integrated. Free software grows with you, while proprietary software is like a set of clothes you have to keep replacing as you grow.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Free software for non-profits?'
+    hostname: 84.92.171.253
+    created: '1166048920'
+    body: "Folks,\r\n\r\nlooks like I'm late arriving at this party and most good points have already been made.\r\n\r\nQuite a co-incidence that I approached this after starting to write a Case Management application pro bono for a local Caring organisation in the UK. Then decided to re-run my checks for existing software.\r\n\r\nWill monitor this BLOG for specs / projects / goodhearted people with bruises (experience and ability). \r\n\r\nRuss\r\n\r\n"
+-
+    name: 'Chris Holt'
+    mail: ''
+    subject: 'Case Management'
+    hostname: 24.108.129.4
+    created: '1166142887'
+    body: 'Haven''t found a FOSS case management application yet.'
+-
+    name: ''
+    mail: ''
+    subject: Help
+    hostname: 65.41.185.115
+    created: '1167253232'
+    body: 'I am a case manager...i am with one of the largest nonprofit organizations that support families and individuals with development disabilities. We have been field testing DANIC and it went south quickly. We are flirting with other related software and I don''t think anyone has a clue what they are doing. Please direct me to a site with recommendations on free or opensource software to recommend to my people.'
+-
+    name: ''
+    mail: ''
+    subject: 'what happened'
+    hostname: 24.108.129.4
+    created: '1168491986'
+    body: "So what happened with DANIC..looks like a limited set of services. I know of several proprietary systems like Danic including Kinterainc http://www.kinterainc.com; but I don't know how well they perform..others include Harmony http://www.harmonyis.com/\r\nand my product which I sold last year www.sectorlynx.com...though if you contact me prior to them I can make a referral for you and who knows how to help you get a deal :)\r\n\r\nas far as free software goes..well that's another story; but I'd have to know what specific pieces you're looking for."
+-
+    name: ''
+    mail: ''
+    subject: 'Free softvare'
+    hostname: 89.172.115.42
+    created: '1175466300'
+    body: "I think that Free software has no future, because anything that worth something has its price... \r\nAlex"
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'Freedom not price'
+    hostname: 217.17.112.218
+    created: '1176904702'
+    body: "We're talking about freedom here, not price - http://www.gnu.org/philosophy/free-sw.html.\r\n\r\n--\r\nGNU - free as in freedom"

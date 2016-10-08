@@ -1,0 +1,28 @@
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'Good article, Terry.'
+    hostname: 66.41.0.95
+    created: '1209082903'
+    body: "Good article, Terry.  Thanks.\r\n\r\n----\r\nhttp://www.movingtofreedom.org"
+-
+    name: Kim_Briggs
+    mail: ''
+    subject: '"By far the most suspicious"?'
+    hostname: 71.183.175.222
+    created: '1209220856'
+    body: "If the fact that the SQL is not 100% ANSI standard is the \"most suspicious\" thing that you could come up with, then maybe this Google API thing isn't that bad.  Given, my research is a couple of years old, but at the time, NONE of the SQL implementations where 100% ANSI compliant, or compliant with each other.\r\n\r\nI'm a huge fan of software freedom and I would never want to enter into a case where my data was controlled by a corporation.  Still, I don't see the big threat even after all that text.\r\n\r\nWhat *does* Google do that is really not nice?  Base a huge part of their business on free software and then release programs for Windows only.  Got a free software distribution?  It might run if we get around to it, if you install WINE.\r\n\r\n--\r\nhttp://kimbriggs.com/"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Maybe you know GQL better than I do, but...'
+    hostname: 68.93.224.4
+    created: '1209419648'
+    body: "Maybe you know GQL better than I do, but the fact that they aren't calling it SQL, nor are they claiming that it is even a subset of SQL, is bothersome.\r\n\r\nIt suggests that if you write code for GQL, you are going to have a very hard time switching to anything else. MySQL and PostgreSQL may not be totally compatible,  but there's a large subset of SQL that will work fine on either.\r\n\r\nMore importantly, you can install MySQL or PostgreSQL on your server if you want, but the \"real\" GQL engine isn't available -- unless you host with Google. Or you can use the stuff that comes with the SDK -- but it's not complete enough to deploy on a production server.\r\n\r\nYou _could_ probably _derive_ a system you could deploy on another site, but that's not the same thing (you _could_ write your own web server, SQL engine, or any other thing, too, but having to re-invent the wheel is NOT \"open source friendly\").\r\n"
+-
+    name: 'Eric Drake'
+    mail: ''
+    subject: 'A Distinction With A Difference'
+    hostname: 76.99.142.35
+    created: '1212613210'
+    body: "A well balanced exposition that is respectful of the differences among those who are trying to promote an alternative to corporate control of information technology.  \r\n\r\nKeeping the goal in mind is absolutely necessary in the real world where nothing moves in a straight line.\r\n\r\nAt a more abstract level, I would also refer to the following link:\r\n\r\nhttp://www.freesoftwaremagazine.com/articles/free_software_vs_software_service\r\n\r\nOpen is a term also related to networks as well as code.  We have misplaced expectations if we believe that a private, closed network has any obligation beyond its own purposes and as the article link above points out, Google is a private closed network that permits but is not obligated.\r\n\r\nBusiness has no choice but to seek differentiation and differentiation means private control whether of brand or process or product.\r\n\r\nNo matter how broad free software and open source become, there will always be a host of business people looking to find a way to gain control of human decision making so as to make money and most people will not care.\r\n\r\nThat doesn't make the activities and work of free software advocates futile.  Any check on power no matter how small is always better than no check at all, just don't expect people to be grateful.  Make your own rules that work with your goals.\r\n\r\n\r\n\r\n"

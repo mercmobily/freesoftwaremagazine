@@ -1,0 +1,49 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Free beer; free speech'
+    hostname: 220.233.53.52
+    created: '1164515913'
+    body: "I read this article and I'm not totally sure if you mean free as in beer or free as in speech (or both). You make a couple of references to \"non-profit\" and \"giving away\" and \"for free\".\r\n\r\nWhen we say free software, we do not mean we mean ``no charge software''; we mean software that will give us the <strong>liberty</strong> to:\r\n<ol>\r\n<li>Use the software for any purpose\r\n</li>\r\n<li>To study how the software works and improve it\r\n</li>\r\n<li>Redistribute copies of the software\r\n</li>\r\n<li>Publish improvements of the software\r\n</li>\r\n</ol>\r\nAny software that does not give us all four of these freedoms are non-free software. When talking about free software, it is best to avoid using terms like ``give away'' or ``for free'', because those terms imply that the issue is about price, not freedom. \r\n\r\nWe need to be able to have all these freedoms so that software can be as good as possible. We need to have the freedom to change the way software works to improve the way it works for us. We also need the freedom to distribute our changes so that everybody can benefit from our work. We should have the freedom to distribute modified and unmodified software.\r\n\r\nHaving the freedom to redistribute software does not mean we have to ``give away'' copies of our work for no charge. Such a requirement can potentially drain money from our pockets. Having the freedom to redistribute other people's work results in people making money with other people's work. This is all right as long as no plagiarism is involved. This freedom results in multiple vendors that drive down the cost of software and keeps the price of software at a sane level.\r\n\r\nIf anyone can make money from redistributing improvements to free software, then anyone can make a business in improving and distributing free software. In fact there are businesses around that do exactly that. One example is Red Hat - their business model revolves around providing support for free software. People pay Red Hat money to support them with installation and maintenance. The money that Red Hat receives goes into pay programmers that work on improving free software. Red Hat's improvements get integrated into the free software community. The end result is better free software for everyone.\r\n\r\nSo once again, when we talk about free software think of free as in free speech NOT free as in free beer. With free software, everyone can win.\r\n\r\n--Jisaku Jien"
+-
+    name: barbarasamson
+    mail: ''
+    subject: 'Free Software for Non-Profits'
+    hostname: 24.80.66.127
+    created: '1164685316'
+    body: "Hi Chris:\r\n\r\nI enjoyed reading your post. I also am an Ubuntu enthusiast and spend a fair bit of energy trying to convince people to use free and open source software. It seems to me that many of the use models you mention would be well served by Open Office. It has a wordprocessor, spreadsheet and database that are very powerful and well integrated. For electronic medical records, I recently tried installing (a beta version of) OSCAR. It looks like a useful system but the beta was kind of unstable. Anyway, I will look for future posts on this.\r\n\r\nBarbara Samson"
+-
+    name: 'Chris Holt'
+    mail: ''
+    subject: 'Free beer is best, but freedom is good too'
+    hostname: 24.108.129.4
+    created: '1164699546'
+    body: "I appreciate the sentiments around your concepts of free and to be honest I am thinking of \"free\" as in free beer as well as the freedom to change the recipe. However, I am not advocating that all software should be given away, but I would like every non-profit to have access to free software that they can change and make work for themselves. Is there a business model in this? I am sure there is? We just need to work it out. Thanks for commenting.\r\n "
+-
+    name: 'Chris Holt'
+    mail: ''
+    subject: 'Hi Barbara'
+    hostname: 24.108.129.4
+    created: '1164699967'
+    body: "Thanks for the comment and you are correct about Open Office which is fantastic. I'll have a look at Oscar.The biggest issues concerning free software and electronic health records are security, privacy and data ownership. Thanks\r\n"
+-
+    name: 'Daniel Escasa'
+    mail: ''
+    subject: 'Free Software programmers do *not* "give away" their programs'
+    hostname: 58.69.229.80
+    created: '1164895222'
+    body: "Hello Chris, and welcome to the world of Free Software. I'd just like to clarify the issue by repeating my Subject line: Free Software programmers do not give away their software. I'd like to look at it as subjecting their code to audit and their software to wide-betas. For more, see <a href=http://www.fsf.org/licensing/essays/words-to-avoid.html#GiveAwaySoftware>this essay</a> on the FSF site.\r\n\r\nAs an aside, albeit related: I've been debating with myself whether software freedom *necessariy* leads to free-as-in-beer.\r\n\r\nAs to a revenue model -- training and other services may cost. I know of a consulting company that helps customers in migrating from proprietary to Free Software, and their fees are hefty. Also look up the story of the Free <a href=http://www.snort.org>snort</a> and its commercial counterpart <a href=http://www.sourcefire.com>SourceFire</a>. I can't find prices on their site, but I remember them to be in the low-to-mid five-figures.\r\n\r\nRegards.\r\n\r\nDaniel O. Escasa\r\nindependent IT consultant and writer\r\ncontributor, Free Software Magazine (http://www.freesoftwaremagazine.com)\r\npersonal blog at http://descasa.i.ph"
+-
+    name: 'Chris Holt'
+    mail: ''
+    subject: Thanks
+    hostname: 24.108.129.4
+    created: '1165136007'
+    body: "Appreciate the perspective and the links, thanks.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'free and free'
+    hostname: 68.93.224.4
+    created: '1165823906'
+    body: "With all due respect to the whole \"free as in speech\" argument, two practical points need to be acknowledged:\r\n\r\n1) Free-licensed software becomes zero-cost software in practice. Even if you charge at the initial point of distribution, somebody will almost certainly provide free hosting at some point. Free software companies don't usually sell software, they sell consulting or support.\r\n\r\n2) Non-profit charity organizations are usually cash-poor and labor-rich. This means they care a lot about that $0 price tag, and not so much about difficulty of use, because they're probably going to get the consulting for free (pro-bono), anyway, from one of their many supporters.\r\n\r\nI for one think we should all be okay with this. We're talking about people whose business is supporting the public good. We benefit in the same ways that everyone benefits from these organizations.\r\n\r\nMost of the \"free beer/free speech\" arguments make loads of sense when dealing with for-profit businesses, where \"time is money\", but for non-profits, the world works a little differently. And I think we have to remember that's the PoV of this article.\r\n"

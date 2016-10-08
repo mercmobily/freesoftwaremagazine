@@ -1,0 +1,56 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Blackdown and the GPL'
+    hostname: 66.227.166.54
+    created: '1163545229'
+    body: "First off a little comment: Blackdown isn't free software (nor open-source software if you care to be technical about the terms).\r\n\r\nNow for the main part. I'm wondering if the GPL was the best choice, my thoughts heading towards the LGPL. From what I've heard, Java is rather prevalent in the proprietary software world. Putting Java under the GPL would prevent those proprietary vendors from using Java, and thus leave the door open for someone to create another proprietary Java. Is this what the \"classpath exception\" is supposed to alleviate? If not, discuss ;)\r\n\r\n--fow is too lazy to login"
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'Classpath exceptions'
+    hostname: 76.188.155.238
+    created: '1163554593'
+    body: "Mea culpa! You are completely correct about Blackdown. Thanks for pointing that out. I had forgotten the controversy around Blackdown years ago, and didn't do proper research.\r\n\r\nThe \"classpath exception\" seems to imply they are creating a linking exception similar to that of gcc's libgcc, which states simply you are not required to GPL your source code if you merely link against libgcc. This should put Sun's Java implementation on par with gcc, freedom-wise.\r\n\r\nSo, that's what the \"classpath exception\" is supposed to alleviate. At least, from what I can glean from the various statements made by folks like Jonathon Schwartz."
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'GNU Classpath exception'
+    hostname: 76.188.155.238
+    created: '1163555110'
+    body: "So, after a little more digging, I find that Sun intends to use the <a href=\"http://www.sun.com/software/opensource/java/faq.jsp#g7\">GNU Classpath exception</a>, as in the same one used for GNU/Classpath and Kaffe.\r\n\r\nSo, there you have it. It's not just another variant, it's the exact same as everyone else using the GPL for free Java."
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'This changes things for me'
+    hostname: 12.161.228.66
+    created: '1163701303'
+    body: "Historically I have avoided Java in part because of the lack of freedom, and in part one of the consequences that lack of freedom, the lack of Java being able to be properly packaged, optimized, and integrated on a free operating system.  However, I have wanted a cross-platform environment for building gui/management tools and certain types of services, especially one with as rich and complete a cross-platform \"standard library\" as Java offers.  I had hopes the existing free Java's would fill this gap, and I think they were starting to get much more usable.\r\n\r\nI did not seriously consider Mono because it actually offered the poorest code quality, least portability, and lowest performance, of several \"free\" implimentations of a .net system, and because while the core language spec is \"free\", the some of the key libraries that would have made it a fully compatible cross-platform solution were not. \r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'SWT is fine, but what about Swing?'
+    hostname: 68.93.224.4
+    created: '1164047766'
+    body: "I may be a little out of date on Java, but the last time I looked into it, the most popular GUI environment for Java was Swing, but there was no drop-in free software replacement (so this was a frequent reason to have to drop packages).\r\n\r\nIs Swing included in the collection of software Sun is releasing under the GPL?\r\n\r\nI spent about an hour following links above, but I'm not able to figure this out. I think I just don't know enough about Java (and the alphabet soup surrounding it) to know. Questions like this are essential to figuring out what packages the new release will liberate.\r\n\r\n"
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'Swing included in J2SE'
+    hostname: 67.104.156.234
+    created: '1164051401'
+    body: "I was unsure when I wrote this, which was why I mentioned SWT. That, and my preference for SWT over Swing.\r\n\r\nTheir announcement said they were releasing all of J2SE eventually, which includes the Swing libraries. So, assuming they really mean the <em>entire</em> J2SE environment, that should include Swing, and Beans (including CORBA), and the whole 9 yards.\r\n\r\nI haven't been able to find an entire list of the libraries and whatnot, nor even a definitive timeline. But, I infer it <em>does</em> include Swing."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'That''s good news'
+    hostname: 68.93.224.4
+    created: '1164246850'
+    body: "Actually <em>I</em> prefer Python for my own projects, so my interest is mostly in what packages will be freed by this action. So I'm more immediately interested in the popular/common dependencies being free. Since many people used Swing, it's really good news that it is (most likely) included! Of course, I've heard that SWT is very good (possibly better than Swing).\r\n\r\nIOW, I'm mainly evaluating this in terms of benefits to end users.\r\n\r\nOn the other hand, Java's less-than-perfect licensing was a major reason for me to pass it over as a language. Now that that is no longer an obstacle, I may well give it another chance. I think there are still a lot of good technical reasons for preferring Python for my projects, but there may be some room for Java (or Java/Jython) projects in my future.\r\n\r\nI wonder how Kaffe/Sable/etc developers feel about this? After all, a major motivation for those projects was to ‘liberate’ Java, but there's little doubt that the original Sun Java will largely replace them now that it is free (and yet, would it have been freed if they didn't exist?).\r\n"
+-
+    name: mjkaye
+    mail: ''
+    subject: 'Kaffe developer feelings'
+    hostname: 212.248.237.1
+    created: '1164717539'
+    body: "I <a href=\"http://cuttingfree.blogsome.com/2006/11/27/gpl-java-an-interview-with-lead-kaffe-developer-dalibor-topic/\">interviewed</a> lead Kaffe developer, Dalibor Topic, on my \"<a href=\"http://cuttingfree.blogsome.com\">Cutting Free</a>\" blog.\r\n\r\nHis feelings on the matter are interesting, and his expertise proves rather useful.\r\n\r\n--\r\nCutting Free - Free Software at the cutting edge\r\n<a href=\"http://cuttingfree.blogsome.com\">cuttingfree.blogsome.com</a>"

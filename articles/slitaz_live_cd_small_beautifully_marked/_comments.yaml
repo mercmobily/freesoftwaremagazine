@@ -1,0 +1,7 @@
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Connection issues & footprint'
+    hostname: 82.108.129.98
+    created: '1219150356'
+    body: "Is it possible the connection issues you had were localised between you and the repository? The reason I ask is that I've been playing with this for a while over the last few days and the connection has worked 100%.\r\n\r\nSliTaz is good fun and it nigh-flew on my qemu VM (256 MB Ram). I agree the cooking version is much better and seems more stable than it's name suggests.\r\n\r\nIt would appear that the lack of productivity software is one of the reasons for the small footprint though. For me some kind of text editor/word processor would be a must have in the kinds of places I would use such a live distro. The addition of AbiWord doesn't bump the size up too much but it does bring it closer to some of the other micro-distro's.\r\n\r\ncheers  \r\nRyan"

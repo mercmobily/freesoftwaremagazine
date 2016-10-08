@@ -1,0 +1,63 @@
+-
+    name: slowfranklin
+    mail: ''
+    subject: 'Chapter 5+'
+    hostname: 217.110.195.66
+    created: '1211278556'
+    body: "This is great stuff!\r\nBut chapters 5+ are missing?"
+-
+    name: admin
+    mail: ''
+    subject: 'They are coming...'
+    hostname: 124.169.95.109
+    created: '1211331842'
+    body: "Hi,\r\n\r\nThe book is not complete yet. the other chapters will come soon :-D\r\n\r\nMerc."
+-
+    name: skypjack
+    mail: ''
+    subject: 'get the book'
+    hostname: 79.22.252.244
+    created: '1218816107'
+    body: "Hi dear,\r\nthere is no way to have a unique pdf version of your book?\r\nI think this is a good and updated successor of the autobook (don't you think so?), and I'd like to print it if it's possible.\r\n\r\nThanks in advance, anyway..."
+-
+    name: br00ks
+    mail: ''
+    subject: 'private vs. public header files'
+    hostname: 71.191.162.238
+    created: '1222654434'
+    body: "This is an excellent introduction to GNU Autotools.  Thank you so much.\r\n\r\nIt would be helpful if you could discuss in more detail the concept of \"private\" vs. \"public\" header files.  In particular, where should they reside? (in the same direcotory where the library source files live, or in a separate include directory?\r\n\r\nCould you give some guidelines in choosing a library's directory layout?\r\n\r\nThanks. "
+-
+    name: adamdingle
+    mail: ''
+    subject: fantastic
+    hostname: 71.174.58.125
+    created: '1230899543'
+    body: 'This is a fantastic autotools overview, the best I''ve seen yet.  Keep up the great work.  I''d love to see you expand this and publish it as a paper book!'
+-
+    name: luvr
+    mail: ''
+    subject: 'A small spelling error, I believe'
+    hostname: 91.180.201.247
+    created: '1232742172'
+    body: "Under the title <em>\"The book that was never to be,\"</em> there's a paragraph that begins with:\r\n\r\n<cite>\"The biggest gripe I have with the Goat Book is the same gripe I have with the GNU manuals themselves. I’m talking about the <strong>shear</strong> volume of information that is assumed to be understood by the reader.\"</cite>\r\n\r\nI believe that should be <em>\"the <strong>sheer</strong> volume\"</em> instead."
+-
+    name: nomad5000
+    mail: ''
+    subject: 'Thank you very much you opened my eyes!!'
+    hostname: 186.87.98.50
+    created: '1287454626'
+    body: 'This is a very good book, for the first time I feel I understand what all the ]Makefile ... stuff is for. I really enjoyed reading. I read the first 2 chapters in one peace and in the third I had to make a pause, but I couldn''t think of anything else than continuing reading!!  It''s really easy to understand and very complete.'
+-
+    name: stanworld
+    mail: ''
+    subject: 'When was release this book ?'
+    hostname: 137.194.2.20
+    created: '1306400744'
+    body: "When was release this book ? is there a newer version ? \r\n\r\nThanks\r\n"
+-
+    name: ernie.cordell
+    mail: ''
+    subject: 'Your best paragraph'
+    hostname: 68.49.236.80
+    created: '1374264043'
+    body: "I don't know whether you still visit this page, but here goes:  I've not been happy with autotools, but there needs to be a solution, and there isn't any other.  Whenever I argue with myself, though, I keep going back to autotools but it's the only shot at developing on one computer (You know, mine, the one in front of me, the one I'm using -- not the 20 I have on my desk because I don't need space for anything else).  I've done the bit where you compile on several different machines/(platforms, environments) and then tailor a makefile for each:  It was great for learning portability lessons, but it didn't serve my audience.  \r\n\r\nThere are some cute packages out there that will lead you to a clean compile if you're developing by yourself and for yourself, but we seldom do that, right?  Just the other day I read a post on a \"software hints\" board where a ranking member suggested that there were only like 9 production variables between the top 3 possibilities for your compiler, machine and operating system through parsing, link-edit and code-generation.  I'd pity him if I didn't envy his choice of reality.  So that's why I applaud your paragraph:\r\n\r\n\"Do you have any idea of the number of build-breaking differences there are between existing systems today? Neither do I, but there is a handful of developers in the world who know a large percentage of these differences. Between them and the free software community, the Autotools were born. The Autotools were designed to create configure scripts and makefiles that work correctly and provide significant chunks of valuable end-user functionality under most circumstances, and on most systems--even systems not initially considered (or even known about) by the package maintainer.\"\r\n\r\nThanks for making the book available.  "

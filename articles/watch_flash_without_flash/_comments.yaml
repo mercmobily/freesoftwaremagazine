@@ -1,0 +1,21 @@
+-
+    name: admin
+    mail: ''
+    subject: 'For links...'
+    hostname: 124.169.151.114
+    created: '1207650508'
+    body: "Hi,\r\n\r\nTo add links, follow the \"post format\":\r\n\r\nhttp://www.freesoftwaremagazine.com/files/nodes/1338/template_article.txt\r\n\r\n:-D\r\n\r\nMerc."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: or..
+    hostname: 82.108.129.98
+    created: '1207655489'
+    body: "with a live link - itself ;o)\r\n\r\n> To add links, follow the \"post format\":\r\n\r\n> [http://www.freesoftwaremagazine.com/files/nodes/1338/template_article.txt](http://www.freesoftwaremagazine.com/files/nodes/1338/template_article.txt)\r\n\r\nBTW Tony: I've always wondered why FSM doesn't seem to support [Markdown's autolink](http://daringfireball.net/projects/markdown/syntax#autolink) feature?\r\n\r\ncheers\r\nRyan"
+-
+    name: admin
+    mail: ''
+    subject: Markdown...
+    hostname: 124.169.151.114
+    created: '1207717292'
+    body: "Hi,\r\n\r\nWe are using a \"subversion\" of markdown. I basically make sure that no arbitrary tags can be added to a markdown text. This ensures that posts and articles are written in \"the\" right format, rather than random HTML all over the place. You'd be surprised to see what authors can come up with :-D\r\n\r\nMerc."

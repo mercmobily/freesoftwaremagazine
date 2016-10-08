@@ -1,0 +1,63 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'It can work...'
+    hostname: 68.93.224.4
+    created: '1204875400'
+    body: "\"I am worried that 300MHz and 128Mb is not really going to be enough to be editing a text document whilst listening to some music.\"\r\n\r\nDon't be. I know for a fact that these specs are adequate for those tasks. I have run LyX and XMMS on a 150MHz processor with 64MB of memory, so I'm not worried.\r\n\r\nOf course, don't even try to open OpenOffice.org on such a system, but you don't need to.\r\n\r\nI was using fvwm, not KDE, but nothing says you have to run KDE or Gnome on one of these. There's a number of lightweight window managers available. Some of them even approach the look and feel of something like KDE (Puppy Linux shipped with one such, IIRC, but I've forgotten it's name. I think it was \"Joe's Window Manager\" or something similar).\r\n\r\nI have no doubt that experienced computer users used to more modern computers will find the ONE pokey, but then they can say to themselves \"Hey, I only paid £99 for it!\"\r\n\r\nKids of course, are more likely to not even notice, if this is their first computer. They'll just notice how fast the bigger systems are when they get onto one.\r\n\r\nPersonally, I am _thrilled_ to see OLPC-style computers appearing for the developed world marketplace.\r\n\r\nI think the manufacturers took notice of just how many \"first world\" geeks were drooling over the XO, and decided there must be a market for these things. "
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'I think you are right'
+    hostname: 82.108.129.98
+    created: '1204882380'
+    body: "Actually I *know* you are right. I too have run several desktop boxes with a similar spec but I've also seen the way some of my users will have seven or eight MS Word documents open \"just in case\" as well as browser, databases and audio players. I know the intended audience probably wont do this but as I said I've been thinking of this in a working environment.\r\n\r\n> Kids of course, are more likely to not even notice, if this is their first computer. They’ll just notice how fast the bigger systems are when they get onto one.\r\n\r\nI agree and--if I can persuade my wife to let me-- I would like to get one of these for my kids in the next year or so (heck at this price even two!). They are both under 5 but already love GCompris and Tux Paint.\r\n\r\ncheers  \r\nRyan\r\n\r\n_PS - you get the prize for what is probably the shortest time between a post being published and somebody commenting on it :o)_"
+-
+    name: melinko2003
+    mail: ''
+    subject: 'UMPC''s '
+    hostname: 198.115.32.5
+    created: '1204890381'
+    body: "Gents I think we are really seeing the change of our linux culture always... I think these UMPC's will obviously give us the edge to develop more embedded OS/App and port to Mips/Arm processors/Alternative Arch's. \r\n\r\nI think a few things could be addressed:\r\n\r\nRAM/SWAP: make another Swap Partition on a USB 1GB.\r\nSpace: 8GB USB stick for storage.\r\n\r\nLets face it tech is getting extremely cheap and it probably wouldnt take much to find out the max ram the board can support and open it up and max it for 15 to 20$ more.\r\n\r\nI do agree that this would be ideal for children or actually businesses as a way of putting a PDA like device on your with out shelling alot of cash.\r\n\r\nIf it uses Bluetooth likely you could find some one who could hack a PAN interface for it for cells and actually use this thing with out having to connect to a public network over say Edge or 3G.\r\n\r\nJust a food for thought.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Specs
+    hostname: 68.93.224.4
+    created: '1204921657'
+    body: "Actually, the system I'm writing this on (a few years out of date) has only 256MB RAM, and I run 20 virtual desktops in KDE.\r\n\r\nWhen writing an article, I usually have Gimp with between 3 and 4 documents open, Inkscape with 2 or 3 windows open, Mozilla with 3 or 4 windows (and up to 50 tabs) open, 3 or 4 gVim windows, 3 or 4 Gnome Terminal windows, a half dozen or so KNotes, one Mozilla Thunderbird instance, and XMMS playing music (I used to play \"Run Rabbit Junk\" from the GITS TV soundtrack every time I edited the news, it really helped me focus. I usually play calmer music when writing columns).\r\n\r\nI do _just_ start to see a slow down with that kind of load, but it's well within my tolerance.\r\n\r\nI think the CPU on this machine is in the 500-1000MHz range, but really, that isn't the big limit on running simultaneous apps.\r\n\r\nWhich leaves me to wonder what you have to be doing to actually need modern computer hardware. :-)\r\n\r\nI can think of some examples of resource-hungry software: Blender 3D modelling, CAD, video editing, video streaming, some games. Also, if you're running a lot of servers on the same system, that can really weigh it down (Zope is kind of fierce on RAM requirements, for example).\r\n\r\nThe thing is that free software apps are _really_ that much more efficient. Even though KDE is relatively \"resource hungry\" among GNU/Linux software, it's still nothing compared to MS Windows. You can do a lot more with a lot less hardware.\r\n\r\nI used to have a laptop that I ran FVWM on, which I think had 16MB RAM, 150MHz Pentium processor, and a 2GB hard drive. Which was pretty usable (I couldn't really run multiple large apps at once on it, but it was fine for word processing and I did presentations with K Presenter or Mozilla on it). When I compare these tiny computers to that, I realize that either the ONE or the Eee would actually be an _upgrade_ from the last laptop I owned.\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: specs
+    hostname: 212.159.106.192
+    created: '1204932455'
+    body: "> Which leaves me to wonder what you have to be doing to actually need modern computer hardware. :-)\r\n\r\nRun the latest offerings from Microsoft? :o)\r\n\r\nDo bear in mind that the ONE has 128MB RAM as standard and it is probably that which makes the difference. This will never be a machine for doing serious image editing or handling large documents (or .ppt files ;o) ) but I suppose it will handle most things--only time (and getting my hands on one) will tell."
+-
+    name: david-goodwin
+    mail: ''
+    subject: 'nice article'
+    hostname: 87.194.31.104
+    created: '1205189239'
+    body: "It does have some novel features (wrist strap, memory strap) that do set it out from the competition (EeePC) as far as I can see. Of course, it could be that in 2 months time we're all coo'ing over the next great UMPC offering that's cheaper/larger/faster/flashier.\r\n\r\nWithout having seen one, I do wonder how well they will take to the typical child battering - if they are only 100 quid - will they be durable to last more than a few months or years (i.e. how good is the build quality)? \r\n\r\nMy personal inclination would be to buy a 9\" EeePC as it would have a large enough screen to be 'usable' (by my standards). Having said that, my 10 year old niece is thinking of buying a laptop and I said to her yesterday \"Wait a few months, and you'll be able to buy a new one for 100 quid\".\r\n\r\n\r\n(As a side point - Elonex appear to be based in my home town, Bromsgrove, so perhaps I should get them involved in our LUG!)"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: Thanks
+    hostname: 82.108.129.98
+    created: '1205247953'
+    body: "> Without having seen one, I do wonder how well they will take to the typical child battering - if they are only 100 quid - will they be durable to last more than a few months or years (i.e. how good is the build quality)?\r\n\r\nWell their site mentions a \"splash-proof\" keyboard a few times and the A-view site mentions rugged design. It would be foolhardy of Elonex to target that market and not build some kind of toughness into it. Still it does only weigh 1kg>\r\n\r\n> (As a side point - Elonex appear to be based in my home town, Bromsgrove, so perhaps I should get them involved in our LUG!)\r\n\r\nAbsolutely - I would have thought a ONE talk--not a sales pitch--from someone at Elonex would go down a storm at most LUGs :o)\r\n\r\nRyan"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '£99 versus $300'
+    hostname: 68.93.224.4
+    created: '1205253757'
+    body: "I should like to point out that with the exchange rates as they are, the £99 ONE isn't _that_ much cheaper than the $299 \"Eee 2G Surf\". Based on today's exchange rate of about US$2.01/GB£, that's about US$199 versus $299.\r\n\r\nIOW, it's about 2/3rds of the price of the Eee.\r\n\r\nGiven that the ONE is indeed slightly lower spec than the Eee, and is being released several months later, there's no need to look for more reasons to explain the price difference.\r\n\r\nI do wonder if the ONE will be available in North America (and for how much).\r\n\r\nWhich raises another question -- how much is the A-view, and where can you get one? I've seen this comparison before, and it's probably true that it's a rebadge, whatever Elonex says, but if you can't get the original, it's not really so much of a \"rebadge\" as it is a \"badge\". ;-)\r\n\r\n\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'For you maybe :o)'
+    hostname: 82.108.129.98
+    created: '1205311266'
+    body: "> I should like to point out that with the exchange rates as they are, the £99 ONE isn’t that much cheaper than the $299 “Eee 2G Surf”. Based on today’s exchange rate of about US$2.01/GB£, that’s about US$199 versus $299.\r\n\r\nWell as a UK resident I can buy the Eee 2G Surf for £249--there's a well known history of manufacturers simply using a 1:1 exchange rate when selling products that launched in the US. So much so that most Brits (in my circle anyway) seem to automatically assume a USD price will be the same in GBP. So for me the ONE is 40% of the price of the Eee. Also the sub-£100 price tag will be a key marketing factor methinks.\r\n\r\n>Which raises another question — how much is the A-view, and where can you get one? I’ve seen this comparison before, and it’s probably true that it’s a rebadge, whatever Elonex says, but if you can’t get the original, it’s not really so much of a “rebadge” as it is a “badge”. ;-)\r\n\r\nTrue but Elonex are a manufacturer so I guess they don't want to be seen as merely an importer. I assume/hope that they also put a British keyboard on it as well.\r\n\r\nBefore writing this post I could have pointed you at the Fontastic site where it was possible to import one for around $120 (I think) but the product seems to have been removed from the site now.\r\n"

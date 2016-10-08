@@ -1,0 +1,49 @@
+-
+    name: Smegzor
+    mail: ''
+    subject: 'Portable Pidgin rocks!'
+    hostname: 121.72.136.47
+    created: '1189416575'
+    body: "Pidgin is available as a portable app (for Windows users) at\r\nhttp://portableapps.com/apps/internet/pidgin_portable.\r\n\r\nI 'installed' it on my file server so I can run it from everywhere without further need to reinstall/re-configure it.\r\n\r\nIts great having the chat history follow me around."
+-
+    name: Matelot
+    mail: matelot@mailinator.com
+    subject: 'Error in Article'
+    hostname: 67.86.58.145
+    created: '1192927226'
+    body: ">> Unfortunately, to get the username you need to download the Windows-only QQ client (the official site in Chinese is here\r\n\r\nthis is not true\r\n\r\nif you read Chinese you'd go to this link http://freeqqm.qq.com/ to register"
+-
+    name: 'John Peach'
+    mail: freesoftwaremagazinespam@jppeach.com
+    subject: 'Create QQ account in English'
+    hostname: 222.172.181.250
+    created: '1193807867'
+    body: "You do not have to read Chinese or download the windows program to create a QQ account.  You can simply go to the following URL and create one\r\n\r\nhttp://signup.qq.com/ "
+-
+    name: 'Heather Tollison'
+    mail: angelgirl33@gmail.com
+    subject: 'I need to connect with pidgin on gmail:'
+    hostname: 71.3.5.217
+    created: '1195429629'
+    body: 'does anyone know how that I can get my google talk connect to pidgin by any chance?'
+-
+    name: lar_dog
+    mail: larrydumond@gmail.com
+    subject: "Accounts>Add/Edit.\nClick"
+    hostname: 75.121.161.207
+    created: '1195584186'
+    body: "Accounts>Add/Edit.\r\n\r\nClick Add.\r\n\r\nSelect \"Google Talk\" at protocol and type your screen name and password for goole talk.\r\n\r\nAt leats that's what I did.\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: me@there.see
+    subject: 'qq & pidgin'
+    hostname: 87.174.76.233
+    created: '1195724267'
+    body: "excuse me,\r\ndoes the QQ work for you with Pidgin?\r\n\r\nDoesnt do for me, neither on my Linux box nor on XP \r\n(version 2.2.2)\r\n\r\nI registered a number with the help of the original client and this is working, \r\nbut using the original client is not an option for me, as long as there is no linux support.\r\n\r\nafter all it seem to be ticket #783\r\nhttp://developer.pidgin.im/ticket/783\r\n\r\nand it seems that developer has just quit in late september, so it wont be fixed in the upcoming versions.\r\ni am not a dev so I can help here. what a pitty\r\n\r\nbut i am confused if it is working at your pcs something must be wrong here ?\r\n\r\nrgds\r\nmax\r\n"
+-
+    name: alexdan
+    mail: bin22216@rediffmail.com
+    subject: 'ask abt XMPP'
+    hostname: 121.247.72.103
+    created: '1197021132'
+    body: "how can i use my domain and port with XMPP \r\ntell me brief description\r\n"

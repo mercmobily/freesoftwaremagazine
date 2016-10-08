@@ -1,0 +1,35 @@
+-
+    name: clievers
+    mail: ''
+    subject: 'No parameters in bash?'
+    hostname: 68.145.109.51
+    created: '1190645642'
+    body: "So there's no parameter substitution in bash? That sucks. I was hoping to be able to do something like this:\r\n\r\n<code>alias locatemusic='slocate -i \"$1\" | grep \"/home/public/audio/\"'</code>\r\n\r\nBut yeah, that doesn't work. Any other way of doing this?\r\n\r\n------\r\nlet's all play nice!"
+-
+    name: offset
+    mail: offset@offset.com
+    subject: 'You could write it as a'
+    hostname: 68.192.3.113
+    created: '1190772413'
+    body: "You could write it as a function instead \r\n\r\nfunction locatemusic\r\n{\r\n    slocate -i \"${1}\" | grep \"/home/public/audio/\";\r\n}"
+-
+    name: clievers
+    mail: ''
+    subject: 'I got it working by creating'
+    hostname: 68.145.109.51
+    created: '1190829309'
+    body: "I got it working by creating a symlink in the /usr/bin directory to a bash file (containing slocate -i \"$1\" | grep \"/home/public/audio/\") on my home drive.\r\n\r\nIn your example, where would this \"function\" be placed? Inside of the bash.bashrc file or something?\r\n\r\nThanks.\r\n------\r\nlet's all play nice!"
+-
+    name: dare2dreamer_
+    mail: russ@dare2dream.com
+    subject: 'cleaner than symlinking in /usr/bin'
+    hostname: 76.185.163.17
+    created: '1190871818'
+    body: "rather than symlinking, you could simply add an addition to your PATH variable:\r\n\r\nPATH=$PATH:~/bin\r\nexport PATH\r\n\r\nJust add the above lines to your .bashrc/.profile and then create a \"bin\" directory in your user's home. Toss your scripts in ~/bin and they'll work without you having to muck about in /usr/bin as root."
+-
+    name: clievers
+    mail: ''
+    subject: 'Oh, that''s perfect. I''ll'
+    hostname: 68.145.109.51
+    created: '1191001729'
+    body: "Oh, that's perfect. I'll have to give it a shot.\r\nBit karma points for you.\r\nCheers  :D\r\n\r\n------\r\nlet's all play nice!"

@@ -1,0 +1,14 @@
+-
+    name: BenTremblay
+    mail: ''
+    subject: 'Access control / privacy'
+    hostname: 68.148.26.220
+    created: '1149732773'
+    body: "\"Great minds think alike\" --Anonymous/Cliche\r\n\"Fools seldom differ.\" --Newfoundland reply to same.\r\n\r\nNo kidding: not 5 hours ago I was pondering precisely this subject. No, really.\r\n\r\nWhat I imagined was this: rather than password control (which leaves nekkid docs subject to creepy-slimey-crawly bots), use something (PGP comes to mind) so that instead of UserName and PWD we access the doc with UserName (papertrail, yes?) and heh ... public key.\r\n\r\nI think the rest unfolds rather naturally.\r\n\r\ncheers\r\n\r\np.s. Pieter's essay got me to this site <i>via</a> google ... nice to be here. *tip o' the hat*\r\n\r\n\r\nWhen you look to see how the system works\r\nLikely you will find that it does not."
+-
+    name: ''
+    mail: ''
+    subject: 'people you want to have access to the file'
+    hostname: 86.121.129.196
+    created: '1156984151'
+    body: "Remember to make a hard to guess passphrase, WinPT will give you tips on doing this. If you have installed GnuPG before your previous keys will import automatically. \r\n"

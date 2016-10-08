@@ -1,0 +1,42 @@
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: 'Reminds me in a strange way of geocaching'
+    hostname: 213.93.190.31
+    created: '1151322318'
+    body: "http://www.geocaching.com/faq/\r\n\r\nYep, dont know why, but sort of searching for gold."
+-
+    name: shtylman
+    mail: ''
+    subject: 'network slowdown'
+    hostname: 24.98.17.100
+    created: '1151344957'
+    body: 'The idea may sound good, but I think that you will run into a network slowdown. If you have evry computer trying to search the network for the same things it will be inherently redundant. I think the central index idea is better. Just think, if at all times your computer network was being cralled with various spiders looking for content; just imagine the security concerns. Distributed things are good, but they do have their tradeoffs.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Reprint Notice'
+    hostname: 68.93.224.4
+    created: '1153526890'
+    body: "My blog entries at Free Software Magazine may be reprinted with this notice:\r\nCopyright (C)2004-2006 Terry Hancock / License CC-By-SA 2.5+<br/>\r\nhttp://creativecommons.org/licenses/by-sa/2.5<br/>\r\nOriginally at http://www.FreeSoftwareMagazine.com<br/>"
+-
+    name: ''
+    mail: ''
+    subject: Majestic-12
+    hostname: 82.114.78.132
+    created: '1160865302'
+    body: "They have already done it:\r\n\r\nhttp://www.majestic12.co.uk/"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I love it when that happens'
+    hostname: 68.93.224.4
+    created: '1161130988'
+    body: "Given that this thread is way off the front page, I may have to blog that site separately.\r\n\r\nThanks!"
+-
+    name: ''
+    mail: ''
+    subject: 'Distrib Search'
+    hostname: 67.36.21.226
+    created: '1170706534'
+    body: "You'd have to have a large existing user base to pull this off.  IMO, adding this as a component to Skype, or even better, Firefox would be a great way to go.  Yes there would be some security concerns...but how big will they be?  I think that if you have 10 PCs in a cloud index the same item, and 9 give one answer and 1 gives another, you toss the odd data out.\r\n\r\nMartin Tibbitts"

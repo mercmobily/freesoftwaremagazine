@@ -1,0 +1,14 @@
+-
+    name: caratuva
+    mail: ''
+    subject: 'Xvid 1.2.1 bug?'
+    hostname: 189.55.139.200
+    created: '1232586712'
+    body: "sir,\r\n\r\nI have installed the new Xvid 1.2.1 on a Vista Business 32, Intel Core2Duo 4300, 2GB RAM. Also I have installed TMPGEnc XPress 4.6.3.268. When I try to converte a 10MB .mov file to a .avi using the default configuration, the encoding is extremely slow. I managed to discover the problem is with the number of threads. When it is 0 (autodetect) or other number different than 1 the encoding is very slow, taking some minutes. When it is 1 everything goes fine and the encoding takes just some seconds.\r\n\r\nI searched in Xvid.org some place to report this but I didn´t find.\r\n\r\nRegards,\r\n\r\nMarco"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Good, and?'
+    hostname: 84.100.54.200
+    created: '1233243699'
+    body: "First and foremost: I'm no XviD developer. I once wrote to one, because I had found a bug which ended up being in a Xvid dependency, not Xvid itself. I assume you're using Koepi's build of Xvid.\r\n\r\nVirtualDub works very well with Xvid 1.2.1, thus the bug could be in TMPGenc. TMPGEnc 4.6 is proprietary. If you have a problem with it, ask its publisher.\r\n\r\nIf it ends up being a problem with Xvid, the \"contact\" form in the Xvid Solutions menu on http://www.xvid.org is where you should ask for help.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."

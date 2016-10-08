@@ -1,0 +1,273 @@
+-
+    name: clievers
+    mail: ''
+    subject: 'it worked for Apple - lol'
+    hostname: 209.89.109.91
+    created: '1174600245'
+    body: 'This is great. As I started reading through I was thinking that they have to be referring to "something", just never guessed what. But "it worked for Apple" is awesome. This is a great read.'
+-
+    name: ''
+    mail: ''
+    subject: s/MegaOS/FreeMac/
+    hostname: 130.88.234.125
+    created: '1174608821'
+    body: "Have a look at this intersting analysis:\r\n\r\n<a href=\"http://linuxscorecard.blogspot.com/2007/03/switch-to-linux-no-get-mac-clone.html\">[Opinion] Switch to Linux? No. Get a Mac Clone</a>\r\n"
+-
+    name: feranick
+    mail: ''
+    subject: Wrong
+    hostname: 128.32.57.102
+    created: '1174611581'
+    body: "\"It worked for Apple\" is a great oversimplification. When they made the switch to OSX, they were already existing as a computer company, with a wide customer base. The role of OSX (and in particular using BSD as a base) was the next step, the necessary move for the company in the new millennium. UNIX offers things that were not imaginable with the old classic Apple OS. \r\n\r\nNow, back to Linux. Proposing to \"fork the kernel\" and packing it up in a nice package, is not going to bring you anywhere. Who exactly is going to do this? Which company? A new startup? In principle you may be right, however competing out of nowhere with giants such as MS, Apple, Dell, HP... is going to kill you right away if you are not one of those companies. That was why people demanded Dell to preinstall Linux in first place. \r\n\r\nBy the way, you can get Linux preinstalled in a nice package with everything working: \"System 76\" sells laptop with Ubuntu. Nice package. Market share: 0."
+-
+    name: ''
+    mail: ''
+    subject: 'I wonder if this could work on a small scale....'
+    hostname: 144.38.130.79
+    created: '1174613859'
+    body: "I've thought that this would be a great answer for a long time...not necessarily fork Linux and all but acutally have it pre-installed on hardware that WORKS out of the box.  But feranick is 100% right...you just can't make it and expect people to choose it.  There would have to be a HUGE marketing campaign to convince people that MegaOS IS better then Windows and Apple.  I'm not sure that is really ever going to happen...not in 'businesses making money' terms.  If it was that simple we'd have seen one of the big boys do it by now.  Don't get me wrong, your idea has a lot of merit to it...but whoever did it would basically have to run everything like apple (control hardware specs and lock in software companies).  At that point, what differentiates you from Apple?  Besides the fact they can run Adobe software and MegaOS couldn't?  \r\n\r\nBut i've wondered for a long time if a local 'white box' shop could actually make money selling Linux boxes and support for them.  Instead of competing against the 'big boys' you would be competing against other small 'white box' companies.  Linux is GREAT for computers that are only going to be doing word processing, email, and other basic tasks (not that they couldn't do other things) and mom and pop business servers of course. Your marketing budget alone would be a lot smaller and you could sell it just off the free (as in beer) software and lack of adware/viruses alone.  If \"White Box Linux\" wanted to take it a step further they could even keep their own repository with software precomplied to work with \"White Box Linux\" boxes.    \"White Box Linux shops would just have to make sure that they could get a steady supply of high grade parts that work with Linux.  \r\n\r\nAnd if the idea actually worked, there would be no reason it couldn't be franchised out.  Once franchised you could then get the ball rolling for your ideas to pressure manufacturers to support linux."
+-
+    name: ''
+    mail: ''
+    subject: 'E uma tendência no Brasil'
+    hostname: 201.11.86.121
+    created: '1174649186'
+    body: "Na verdade cada dia mais as pessoas estao se adequando ao Linux, e no Brasil as distro mais usadas no desktop pc sao:\r\n\r\n1º Kurumin ( ja esta na versao 7)\r\n2º Ubuntu ( ja esta na versao 6.10)\r\n3º openSuSe ( ja esta na versao 10.1)\r\n4º Conectiva ( ultima versao estavel foi a 9, agora com a junção da Mandrake e conectiva surgiu para nos o Mandriva que não esta tendo uma boa aceitação no mercado, e mais pessado que o proprio Windows Vista)\r\n5º Slakware ( com poucos adptos pos ser uma distro que exige muito do seu usuario)\r\n\r\nfoi isto ate a proxima.\r\n\r\n--\r\nAtt\r\n\r\nAngelo Delphini\r\n\r\nLIS  - Laboratório & Implantação de Sistemas.\r\nCampus Teleinformática -  Campos Novos  - SC.\r\n(49) 3541 1772                 49) 8408 5391.\r\nGet Firefox!                 Get Thunderbird!\r\n\r\nouça ( mms://campuswr.no-ip.org ) "
+-
+    name: ''
+    mail: ''
+    subject: 'its already been done'
+    hostname: 81.179.43.81
+    created: '1174652867'
+    body: 'it''s called a Mac.'
+-
+    name: ''
+    mail: ''
+    subject: 'It''s an update of what I proposed a couple of years ago'
+    hostname: 137.204.163.150
+    created: '1174653260'
+    body: "I did a similar proposal a couple of years ago with <a href=\"http://www.osnews.com/story.php/11134/The-Firefox-Target-And-The-TuxMini/page1/\">this OSNews article</a>. Good to know that support for the hypothesis of selling Linux through Mac-like machines is growing. I don't like the idea of forking (if a stable driver API is truly needed, perhaps *BSD machines would be better suited, but if only known, Linux-supported hardware is on the boxes, then there's no need for a fork: just use hardware whose drivers are in the kernel) but for the rest I agree.\r\n\r\n<a href=\"http://opendevice.blogspot.com\">devicerandom</a>\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Driver deprecation hell'
+    hostname: 70.228.84.134
+    created: '1174654030'
+    body: 'If all our drivers were open, they would not be deprecated. My Linux box (Ubuntu) finds more hardware on my machines than Windows ever has. New and old hardware alike. That is the power of open source. I can''t imagine that a future version of Linux could lose support for some of this hardware. /shrug'
+-
+    name: ''
+    mail: ''
+    subject: 'A warning would have been nice.'
+    hostname: 82.68.164.22
+    created: '1174655229'
+    body: "[tone : ironic and humurous]\r\nDamnit, I was reading the comments before I read the article, a Spoiler warning would have been nice. Thats as bad as when Evo told us \"Wash Dies\".\r\n\r\n[/tone]"
+-
+    name: ''
+    mail: ''
+    subject: 'M$ user'
+    hostname: 198.54.202.214
+    created: '1174655612'
+    body: "Actualy fought this is a very good plan.\r\n\r\nIf you read Mark Shuttleworth blog you will see what they face having linux pre installed\r\n\r\nhttp://www.markshuttleworth.com/archives/100"
+-
+    name: ''
+    mail: ''
+    subject: 'Haha, Great article Steve!'
+    hostname: 81.179.85.20
+    created: '1174655614'
+    body: 'Haha, Great article Steve!'
+-
+    name: ''
+    mail: ''
+    subject: 'PEOPLE LIKE YOU'
+    hostname: 66.192.117.66
+    created: '1174655730'
+    body: "People like you are the reason good ideas get squashed.  Remember google.  \r\n\r\n\"In theory your right but competing with giants out there like Yahoo and MSN will kill you right away\"\r\n\r\nKeep it positive Apple fanboy!\r\n\r\nBTW Linux Runs Adobe Apps Too it just \"wines\" about it.\r\n\r\nLOL"
+-
+    name: ''
+    mail: ''
+    subject: 'We are already out on a *similar* project'
+    hostname: 200.26.177.30
+    created: '1174656509'
+    body: "The <a href=\"http://openoem.com\">OpenOEM Project</a>\r\n\r\nWe are not really making a different OS, but a different hardware arquitecture that should run many different OSes as you can throw at it. We will also make a particular free sosftware OS that we will bundle with it, but the machine will accept almost anything."
+-
+    name: ''
+    mail: ''
+    subject: 'This already exists without the fork - its call Ubuntu!'
+    hostname: 65.87.184.183
+    created: '1174657935'
+    body: '<no text/>'
+-
+    name: ''
+    mail: ''
+    subject: hahaha
+    hostname: 193.111.114.138
+    created: '1174658380'
+    body: "<strong>hahaha very good</strong>\r\n\r\nCow, R.D."
+-
+    name: ''
+    mail: ''
+    subject: 'Different Name'
+    hostname: 71.34.214.137
+    created: '1174658685'
+    body: 'I was thinking something similar just yesterday.  But I think the name should be something more appealing to the average user.  A company name followed by something uplifting, like "Novell Inspiration."  Average users give me funny looks when I mention Ubuntu or openSUSE.  '
+-
+    name: scrollo
+    mail: ''
+    subject: 'A not so modest proposal'
+    hostname: 82.153.26.195
+    created: '1174659126'
+    body: "Another route to the desktop for Linux - hide it!\r\n\r\nTake each device you'd have in a typical PC, stick each in its own box along with a processor, ram and some storage, and have each device talk to the others over a well specified, high-speed/low-latency network (something like PCI Express or Infiniband, possibly even SpaceWire).  One or more 'Kernel' boxes (with cpu, ram and storage) do the 'operating system' job of co-ordinating access to the devices and user administration.  Linux in this context becomes the device driver model, internal to each 'device' and not encountered (much) by the end user.  In short, turn every expansion card into a consumer device and get them talking to each other.  Even shorter, a truly modular PC.  I've compiled some notes on such a system below, apologies for any duplication, they're cut and pasted from old notes along with some new typing.  Also apologies to anyone who finds this boring, obvious or ludicrous.  Wrote most of this down around a year ago, got about 5000 unordered droning words on the subject if anyone's actually interested.\r\n\r\nDisadvantages of this approach include:\r\n\r\nCost - turning each device into a standalone computer will obviously add overhead to the cost of each device.  Sufficient (significant) units would need to be shifted to lower this margin to an acceptable level.  Looking at the vast numbers of cheap embedded devices in existence today it should be possible to acheive this, though even in the best case a 'boxed' device will always cost more than a naked expansion card.  The greatest cost will likely be in the interconnect between the boxes, switches for Infiniband are helluva expensive, again with sufficient bulk this could be reduced (hopefully).\r\n\r\nLatency - the 'bus' of the computer is (needs to be) effectively replaced by a high bandwidth, low-latency network.  The best (most expensive) network technologies today have sufficiently low latency and massive amounts of bandwidth so really this particular disadvantage is part of the cost problem detailed above.\r\n\r\nPrettiness - interconnecting all these devices will involve a non-trivial amount of cabling.  Hiding this, and making the boxes look pretty individually as well as when 'combined' will be a major design challenge.\r\n\r\nStarting from scratch - though most of this system can be derived from existing hardware and software there would be a large degree of starting from scratch.  Inter-device messaging, a new programming model and interoperability with existing systems.  This isn't entitled a not so modest proposal for nothing :)  In fairness, a lot of hardware seems to be moving in this direction anyway, and a lot of the current compsci research in distributed/parallel computing is directly relevant to such a system.  Interoperability could be achieved directly with lots of code hacking, or through installing an 'OS Box', basically another device that internally runs the operating system needed for a particular application and interfaces with the rest of the system in the same way as other devices.\r\n\r\nAdvantages of this approach include:\r\n\r\nDevice isolation - each deviced is isolated from all the others in the system, they can only interact over a well-established network interface.  Each device advertises its services (via the kernel box).  Other devices can access these services, again authenticated and managed by the kernel box.  Device manufacturers ship their goodies as a single standalone box, and they of course have full control over the internals of said box, there are no other devices in the box (apart from the networking hardware and storage) to cause conflicts.  Each device can be optimised by its manufacturer, and there's the upside that the 'drivers' for the device are actually part of the device.  Testing a device is simpler, no need to worry about possible hardware or software conflicts, as long as the device can talk over the interconnect, things should be cool.  Note that another consequence of this is that internally the device can use any 'operating system' and software the manufacturers (or the tinkering user) needs to do the job, as well as whatever internal hardware they need (though of course all devices would need to implement the networking protocol).  Consequently integrating new hardware ideas become somewhat less painful too.  I think I'm right in saying most problems in PCs today come down to problematic hardware or software interactions, the majority of which can be removed by isolating the hardware like this.  Additional benefits of isolation include individual cooling solutions on a per device basis and better per device power management.\r\n\r\nNo driver deprecation - as long as the network protocol connecting the boxes does not change the drivers for the device will never become obsolete due to OS changes.  If the network protocol does change, more than likely only the networking portion of the device 'driver' will need an update.  Worst case scenario is if the network 'interface' (ie connector) changes.  This would necessitate a new device with the appropriate connection or modification to the current device.\r\n\r\nNo device deprecation - devices generally fall out of use for two reasons - a) lack of driver support in the latest version of the operating system, and b) no physical connector for the device in the latest boxes.  This problem would not exist because as mentioned in 'No driver deprecation' above the driver is always 'with' the device and can always be connected through the standard inter-device protocol.  Old devices can be kept on the system to share workload with newer devices, or the box can be unplugged and given to someone who needs it, the new user can just plug the box into their system and start using the device, much better than the 'current' system of farting around trying to find drivers and carrying naked expansion cards around and stuffing them into already overcrowded cases.  As users upgrade their machines it is often the case that some of their hardware is not compatible with the upgrades.  For example, upgrading the CPU in a machine often means a new motherboard.  If a new standard for magnetic storage surfaces, very often this requires different connectors to those present on a user’s motherboard, thus necessitating a chain of upgrades to use the new device.  When a device is no longer used in a PC it is generally the case that it is sold, discarded or just left to rot somewhere.  Obtaining device drivers for such devices becomes impossible as they are phased out at the operating system and hardware level, and naked expansion cards are so very easily damaged.  In this system there would be no need to remove an old device, even if you have obtained another device that does the same job.  The old device could remain in the system and continue to do its job for any applications that need it, and taking some load from the new device where it can.  As long as there is versioning on the device APIs there is no chance of interference due to each device having self-contained device drivers.   Devices can be traded easily, they come with their own device drivers so can just be slotted into a new base unit and are less likely to be damaged in transit. \r\n\r\nSecurity - security is a big issue and one which all operating systems struggle to fulfil for various reasons.   While most OSs are now reasonably secure keeping intruders out and user data safe is a constant battle.  This system would potentially have several advantages in the area of security; the fact that the Kernel is a self-contained solution, probably running in firmware means overwriting the operating system code would be very difficult if not impossible, and would likely require physical access to the machine.  For the various devices, vendors are free to build in whatever security measures they see fit without worrying about the effect on the rest of the system.  They could be password protected, keyed to a particular domain or whatever to prevent their use in an unauthorised system.  Additional measures such as tamper proofing on the container could ensure that it would be extremely difficult to steal data without direct access to the machine and user account information.  Of course there are several areas of security (DoS attacks for example) where this system would be no better off than conventional systems, though it may suffer less as the network device under attack could be more easily isolated from the rest of the system..   It is also likely that a new range of attacks specific to this systems would appear, so security for will be as much a concern as it is on other systems and should be incorporated tightly from the start.\r\n\r\nDevice installation – even with the advent of easily opened cases, jumperless configuration and matching plug shapes/colours, installing hardware remains a headache on most systems.  With for example a new graphics card, the system must be powered down and the case opened, the old card removed and the new one seated.  Then follows a reboot and detection phase followed by the installation (if necessary) of the device driver.  Most systems have made headway in this process, but things still do go wrong on a regular basis, and often the system must still be powered down while new hardware is installed, and if things go wrong it can be very difficult to work out what the exact problem is.   By turning each device into a consumer device, this system would allow for hot swapping of any device.  Once power and networking are plugged into the device (this could happen mechanically when the device is slid into the base unit), the device would automatically boot and be discovered/integrated into the 'kernel'.  No device driver installation would be necessary as all the logic for driving the device is internal to the device.  If the Kernel is unable to speak to the device over the network this would generally signify a connectivity problem, a power problem or a fault with the device itself.  Because devices are wrappers for 'actual' devices there is no need to touch the device's circuitry, so removing risk of damage as can happen with typical expansion cards and also removing the danger of electric shocks to the user.\r\n\r\nStorage Clutter – One thing which I personally hate about operating systems in general is the ridiculous number of files visible to the user.  Windows and Linux are particularly bad for this, with most or all of the operating system visible to the user whether or not the user can interact with those files.  They slow down searches, make it difficult to pinpoint what one is looking for and just look generally messy.  In this system all the operating system files are hid from the user inside device boxes, there will rarely if ever be a need to touch those files except during upgrades or if the user specifically wants to hack a device.  The only ‘files’ a user should see are their own data files on storage devices and a list of Applications/APIs that the user can access.  This would make for a cleaner, more usable system with less chance that the user’s actions could bring the OS down, and without the need for file protection daemons consuming resources in the background.\r\n\r\nWould love to write a lot more but this may be abusively long for posting on the comments page."
+-
+    name: ''
+    mail: ''
+    subject: 'Different Name'
+    hostname: 87.16.49.45
+    created: '1174667919'
+    body: 'You could just call it... OSY'
+-
+    name: ''
+    mail: ''
+    subject: Dubious
+    hostname: 204.13.236.244
+    created: '1174670639'
+    body: "I don't know, having switched from OS X to Ubuntu 6 months ago I'm pretty sold on the portability of Linux. What I see on my powerbook I can take to nearly any other machine. Hardware is just the stuff that provides for the software in which the real work is done, marrying the hardware and software can limit your freedom to spread out into what you already have without having to shell out for a whole new horse.\r\n\r\nLooking back the tie-in between my PB and OS X became more of a bane than a boon especially given that OS upgrades always seemed to slow the machine down more than speed it up (with the exeception of the early days of OS X). You realise just how much this occurs when you benchmark OS X vs Ubuntu on the same hardware, especially doing something intensive like video encoding or 3D rendering. Somewhere in Cupertino there lies some evil math.  \r\n\r\nIMHO I think <a href \"http://System76.com\">System 76</a> has already got this covered, no forking around </cough>. Anyway, kudos for the push - Linux is where all the action is these days.."
+-
+    name: thlinux
+    mail: ''
+    subject: 'WASH DIES!?'
+    hostname: 207.13.167.2
+    created: '1174672465'
+    body: "     Ok Evo Jr. Why did you have to go and spoil Serenity for me? Now I can't watch it. Maybe there will be a sequel. We'll see Wash's twin brother, with a goatee. He can be ultra serious with a chip on his shoulder. He will never want to take risks because he's \"not Wash!\".\r\n\r\n     Back to the plan of attack. Here's the marketing plan. Put the distro into an miniITX case with a really quiet motherboard and power supply. Add a gig of ram and a dvd burner. Sell it at $399 and promise that a percentage will go to a global warming charity. You can even paint the case green to show that is has a small carbon footprint.\r\n\r\n     Market this to tree-huggers and sensitive people everywhere. The commercial would have grandma with her teenage grandaughter using the system in a cabin style house with wireless internet. The slogan:\r\n\r\n\"Small... Quiet... powerfully green... GreenPC... the only choice for an enlightened PC user.\""
+-
+    name: ''
+    mail: ''
+    subject: 'Not a lot of thought gone into this article.'
+    hostname: 88.134.87.35
+    created: '1174674405'
+    body: "Forking the kernel tree would be a fine way to ensure your business stagnates fast. Short of having gazillions of dollars, how would you maintain this forked code? Who would work on it? The Linux kernel has thousands of active patch submitters - the high quality of the Linux kernel is precisely because so many brains group around the thing at the same time.\r\n\r\nNext is the operating system itself. Where would all the packages come from? Who would support packages for this fork? What's the benefit for community maintained software if they need a special computer to run it on? Or do you suggest it go the tired way of OS X, where you have to go to websites to find and install software instead of something sane like a single up to date and audited database of software like Linux distributions enjoy now? Yuk. Been there done that.\r\n\r\nTo propose forking Linux is silliness. There are already companies doing just fine selling machines with a popular distribition of Linux pre-installed. Forking is a completely unneccessary (see http://system76.com as an example of the right idea).\r\n\r\nMoreso, it'd be simply stupid to go the direction of Apple. Apple have a very particular market and through their marriage of hardware and software are not in a position to grow with any where near the rapidity of Linux. We're really seeing this now - a massive uptake of Linux on the desktop in the past year in the educational and governmental sectors. Closer to home I often meet Windows or OS X users that have switched - or are in the process of trying out - Linux (admittedly Ubuntu in nearly every case). \r\n\r\nPeople increasingly want to work with what they have, not follow the pattern of organised obsolescence that proprietary OS's like OS X and Vista shovel onto users. This is where the portability of Linux finally proves to be paying off and this portability is soley due to the fact Linux is not in the game of selling hardware. Linux (as though it was singlular thing) doesn't have to 'compete' with these hungry American corporations at all; Linux is a public resource - like a public library or park. Arguably Linux doesn't even need a 'market' to grow - Linux grows with every user that get's sick of the relationship of 'renting' their operating system, sick of the banality of using an OS that doubles as a shop front.\r\n\r\nFor such a young OS, Linux is doing just fine. Look at Ubuntu - 8 million new and active users in a few years and growing exponentially. The French government is switching to Ubuntu FFS, schools across continental Europe madly installing the thing. What more could you want?\r\n\r\nTo 'fork Linux' is to misunderstand both the value of Linux, how it improves and why it is adopted. Aside from that a fork sounds like a boring and expensive waste of time. Best of luck."
+-
+    name: feranick
+    mail: ''
+    subject: 'Don''t be superficial'
+    hostname: 128.32.57.102
+    created: '1174691248'
+    body: "First of all I am not an Apple fan boy. In fact I am a Linux user since 1998. Second of all, if you took the time to actually read AND understand my post, you would probably be less sarcastic. Google sell a service. It's  a matter of fact that you don't spend one cent to use their products. Google is not an hardware company. Google invented a completely new way to make money, out of ads. Now, since you seem to be pretty smart, how can you actually make money using standard hardware with small numbers and small visibility in a market with thin profits and heavy discounts to big player. That was my point. Bringing out the Google example is misleading.\r\n\r\nYou are contradicting yourself when you suggest the use of wine. You'd like to have Linux preinstalled, and then you run proprietary apps on it. Honestly, the goal of FOSS is not to have proprietary apps to be compatible with wine, but to have free alternatives which are as good. TO me when that is going to happen it would be a real success. \r\n\r\nAnyway I can easily stand corrected if the proposed model works. Mine is just skepticism. "
+-
+    name: feranick
+    mail: ''
+    subject: 'small differences'
+    hostname: 128.32.57.102
+    created: '1174691552'
+    body: 'With the "small" difference that Apple was pre-existing the advent of OSX. Strong customer base, known name, etc. Oh and another one... S. Jobs''s leadesrship, which may be overestimated and which may be found disturbing to many people (including me...), but nevertheless proves that strong leadership is needed for a marketing success. '
+-
+    name: feranick
+    mail: ''
+    subject: 'Great post!'
+    hostname: 128.32.57.102
+    created: '1174691669'
+    body: 'Seriously, sometimes people need to be more realistic in their wishes...'
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'More M$ than MS'
+    hostname: 59.101.5.56
+    created: '1174695389'
+    body: "This proposal smacks too much of an attempt at beating M$ at their own game.\r\n\r\nWhy are we here, in open source land, rather than being obedient little M$ droids, eagerly waiting to 'update' to the next 'approved' offering from these corporate gods?\r\n\r\nWe are here because of personal, rational CHOICE.\r\n\r\nNone of us are here because we've been brainwashed by massive campaigns of TV advertising hype; there hasn't been any.\r\n\r\nNone of us are here because the machines we bought came with FS already pre-loaded; these don't really exist.\r\n\r\nWe don't have any money to conduct giant advertising blitzes. You have to SELL your software, for lots of money, to afford such campaigns, and we are legally prevented from doing that, even if anyone wanted to.\r\n\r\nM$ has threatened to spend a BILLION a year, developing the next version of Office. How much is 'that' going to cost the loyal M$ consumer, for a product that will, at most, be no better than the free Open Office?\r\n\r\nThe US financial collapse, now under way, will soon assure that people don't have enough spare money to spend on expensive operating systems, that don't work properly, and require expensive hardware updates to implement. Suddenly, the prospect of FREE software, that can be automatically updated everyday, with the next, promised, FREE full version update, only six months away, and while using their current hardware, will become a very attractive proposition to a newly impoverished populace.\r\n\r\nThe difference between M$ 'inventing' a bit of software, and the open source community 'releasing' their free software, is like, between two different planets.\r\n\r\nI wouldn't have it any other way."
+-
+    name: ''
+    mail: ''
+    subject: 'I know its a bad word these days'
+    hostname: 76.100.203.131
+    created: '1174700175'
+    body: 'But isn''t Novells driver development project designed for this approach from the driver side of it. Afterall, I see linux making great inroe=ads over the next couple of yearss on desktops but appliances as well. '
+-
+    name: ''
+    mail: ''
+    subject: 'WE *NEED*  DRIVER SUPPORT'
+    hostname: 12.125.111.118
+    created: '1174708592'
+    body: "I like Linux, but there are too many problems.\r\nFor all the M$ Bashing that happens, you need to realize that it works.\r\nAnd it's drivers work flawlessly on any system that it is introduced to.\r\nIt works on any basic platform, linux does to a degreeas well, but M$ always works.\r\n\r\nWe need more driver support I've used serveral distros and none support my wireless card and the ndiswrapper doesn't help.\r\n\r\nThe real problem is that the developers want everyone to learn the commandline, but we have gui's and they are understood by every computer user, users walked away from the commandline interface along time ago, and the linux developers are still stuck in 3.1.\r\n\r\nI'm not a code monkey and have no interest, what so ever, in the commandline interface, fix the drivers, the way you install packages, and the wireless problems and we'll all be happy."
+-
+    name: ''
+    mail: ''
+    subject: '3.1 What?'
+    hostname: 149.9.0.59
+    created: '1174729001'
+    body: "Quote:  \"The real problem is that the developers want everyone to learn the commandline, but we have gui's and they are understood by every computer user, users walked away from the commandline interface along time ago, and the linux developers are still stuck in 3.1.\"\r\n\r\n3.1 what?  And don't be so sure about GUIs being understood by everyone.  It's not uncommon for me to be trying to figure out what a particular GUI does.  And when I click \"help,\" more often than not I am confronted with a dialog that states the obvious but does not explain things to me."
+-
+    name: ''
+    mail: ''
+    subject: 'so do it'
+    hostname: 59.95.29.110
+    created: '1174732404'
+    body: 'I''m sure this would work. But you don''t need to convince us Linux geeks, you need to convince some venture capitalists and rise some capital and then just go ahead and do it. Make a presentation in OpenOffice, get a nice suit and phone them up.'
+-
+    name: ''
+    mail: ''
+    subject: 'Eh?'
+    hostname: 88.134.87.35
+    created: '1174788236'
+    body: "\"We need more driver support I've used serveral distros and none support my wireless card and the ndiswrapper doesn't help.\"\r\n\r\nAnd whose fault is that? Unless the company making your wireless chipset actively and legally allows for Linux driver developers to read their specification, how the hell are they supposed to write a driver?\r\n\r\nIf your wireless card isn't supported by Linux, then you have four choices: \r\n\r\n1. Don't use Linux. \r\n\r\n2. Contact the wireless card manufacturer and tell them that you'd like to use it with Linux using another means of connectivity in the meantime. \r\n\r\n3. Buy a machine with one of the many chipsets supported well by Linux (like most of the Intel wireless cards). Check on this page first: http://leenooks.com.\r\n\r\n4. Spend EUR20.00 and get an alternative wireless card, say one that fits into your PCMCIA port.\r\n\r\nKernel developers aren't telepathic. They can only develop with what they know, the rest is guesswork - which only works some of the time.\r\n\r\nHTH\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Way dream ?'
+    hostname: 24.61.147.173
+    created: '1174794911'
+    body: 'I really don''t know where this guy has been for the last 2 years or so. First of all if it was as easy as putting a hardware together with a few drivers inside a nice box I think linux would have done that a long time ago, one thing to remember is that companies will not give up there codes just because your a pretty boy and you want the best for the enduser, this is the last thing they are tinking about, all they want is money and if you plan to setup a PC with everything for the ondemand of todays users and a with a "beautifull box" I really don''t think that for less than 4 or 5 hundred dollars your going to find it. Now if you really know about linux history, most linux distros where ment to be run on old hardware, therefor, not making you spend any money at all to have a good system. It''s been like a year and a half that linux has been on the top of the game when it comes to home use and a hole bunch of years more for the business use. I''ll give you an advice UBUNTU for the Gnome and SUSE for KDE or Gnome I thing your be surprised of a lots of things and a nother thing is that the walwreens perfect world is only a tv comercial this stuff don''t happen in real life...'
+-
+    name: ''
+    mail: ''
+    subject: 'Have you check'
+    hostname: 24.61.147.173
+    created: '1174795935'
+    body: 'Have you check the madwifi drivers and or another knetworkmanager has a few versions that will help. I have set up with no problems all this cards with  no problems * Belking mspci, Dlink mspci, Dlink pci, Linksys V1 and V2 usb. I have try them on UBUNTU, SUSE, MANDRIVA, KUBUNTU, KNOPPIX, SIMPLY MEPIS, PCLINUXOS, OPEN SUSE AND GENTOO. I realy don''t recomend any of the RED HAT or FEDORA they don''t support at least 98% of the wireless cards that are on the market.'
+-
+    name: ''
+    mail: ''
+    subject: 'Macs are proprietary. Full'
+    hostname: 220.233.53.52
+    created: '1174856573'
+    body: 'Macs are proprietary. Full stop.'
+-
+    name: mattflaschen
+    mail: ''
+    subject: 'Ubuntu LTS'
+    hostname: 128.61.73.81
+    created: '1174884553'
+    body: 'This is very similar (particularly the re-branding) to the goal of Ubuntu, especially LTS.  If Canonical did sell tested desktops with Ubuntu LTS pre-installed, they could conceivably make a big impact.'
+-
+    name: mdabek
+    mail: ''
+    subject: 'Packages on demand'
+    hostname: 192.55.37.193
+    created: '1175064113'
+    body: 'One more thing - if the OS is meant to work somehow after one year from purchasing without being a bottleneck of the whole system it should be considered to provide "packages on demand" service. The assumption is that new user will not be able to recompile the kernel each time he buys a new  HW. Instead of providing him a kernel that works with everything (even if it''s possible) he should be able to send his equipment configuration to the service and receive the "installation form" of a module that he can use within a minute. This is what has made Windows successful - ability to be extensible with the external devices. Once there is an option to easily modify the kernel, or any old tool, or an application then the MegaOS can really make a difference. '
+-
+    name: ''
+    mail: ''
+    subject: 'This has wrong focus...'
+    hostname: 130.243.4.29
+    created: '1175093378'
+    body: "It is wrong, you SHOULDN'T fork the kernel.  Just plain stupid, if you ask me.\r\n\r\nWhat you SHOULD do is to certify hardware and have a distribution that is certified for that hardware.  Have a sticker to put on computer that is certified.  You should base it on some distribution with auto-update.  Ubuntu/Debian have a small applet that you just klick on when it see that there is new updates.  You should prob. only have a subset of Ubuntu/Debian packages that is tested to work.\r\nIf customers want more, they should either install it themself, or change distribution."
+-
+    name: ''
+    mail: ''
+    subject: 'Linux networking cafes'
+    hostname: 87.127.112.158
+    created: '1175202010'
+    body: "Great article, however I'm taking a different approach. I'm starting up a small internet cafe/organic juice bar/third workspace. I'm focussing on small businesses and entrepreneurs - mainly those who work from home and need to get out of the house once in a while. Then when they come down I'm going to show them the light.\r\n\r\nThe trouble with Linux is it's not seen by the general population, the ones who've been brought up to see with only two eyes. So to change that, we need to make sure they see it with their two eyes, that's all.\r\n\r\nSteve from www.open4.org"
+-
+    name: ''
+    mail: ''
+    subject: OT
+    hostname: 80.168.2.2
+    created: '1175262867'
+    body: "Why don't you show the drupal logo on this site?\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: anon@anon.com
+    subject: 'Thanks for creating such a'
+    hostname: 76.116.23.142
+    created: '1194727200'
+    body: 'Thanks for creating such a valuable resource for us folks trying to gain an upper hand on internet marketing. I''ve been doing quite a bit of research while this may not exactly match what I''ve been searching for, it certainly is one of the best blogs I''ve come across. [Spam removed]'

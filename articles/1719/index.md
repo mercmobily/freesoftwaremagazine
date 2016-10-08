@@ -1,0 +1,21 @@
+---
+nid: '1719'
+title: 'GNU/Linux? But you don''t LOOK like a geek...'
+authors: 'Bridget Kulakauskas'
+published: '2006-08-13 4:15:17'
+tags: 'gnu/linux,geeks'
+license: verbatim_only
+section: opinions
+listed: 'true'
+
+---
+When I was last at uni (which I go back to every so often, just to prove to myself that I can’t sit through another degree), I found myself in a situation where I was sitting at a computer in the library of a public high school in Western Australia, trying to write a lesson plan (I was dabbling with the idea of being a high school teacher at the time). It was 40°C (104°F) outside, and inside wasn’t much better. I was sitting on an uncomfortably high plastic chair waiting... waiting... waiting... and that was just for the office suite to load on MS2000. One of my fellow post grad students was sitting at the terminal next to me. We had exchanged pleasantries and I knew he had an IT background, and the wait time was getting ridiculous, and so I said, as a way of passing the time, “I forgot how slow this whole windows business is”. He looked at me, in a puzzled, suspicious way. “Why?”, he enquired. “What do you use?” I could tell by the look on his face that he suspected that I was going to say something along the lines of “A quill and parchment, obviously” or “An abacus and letter fridge magnets”. When I replied “Ubuntu”, his eyebrows shot up and he looked at me like I had just grown a third head (and I don't even have two). Then he said something along the lines of “What? I... You... I would never have thought you were a Linux user.”
+
+I was quite pleased about that really. While I might have been the cheer squad for no stereotypes last week, they are alive and well in our nation’s psyche, and the fact that I don’t have the physical appearance of a geek chick is reassuring. In our conversations after that little revelation, we got back onto the topic of GNU/Linux. Why did I use it?
+
+Okay. Confession time. While the thing that appealed to me initially about FLOSS was the political and philosophical tennets, the reason I began using it was because it was put on my computer for me. I didn’t have to do anything. I’ll admit, any modicum of computer knowledge had come from years of being around people who are into computers, and that’s it. Sure, I can talk the talk, but I never really walked the walk... I always had someone I could call to do the walking for me. I saw a great dividing line between me and them. I was a user. A consumer. Somebody whose needs were catered to by others. I never even THOUGHT about the OS, or that there were options... I just used whatever was in front of me and, if I am perfectly honest, that’s why I got into Ubuntu. SOMEONE PUT IT IN FRONT OF ME.
+
+But then my new friend said “I don’t get it. I mean, all these people use Linux as a political statement. I don’t get what’s so bad about Microsoft. I use it. It’s fine.” And that got me thinking. What had changed in me when Ubuntu got put in front of me? I hadn’t gone back to MS. And I could have... Ubuntu is on my PC, but my laptop was MS, I could have used that, but I actually transferred all the data from it onto my Ubuntu PC. So I must prefer it. And there are a couple of things that I can pinpoint immediately. Firstly, I like that Ubuntu isn’t buggy. I like that the load time is less. I like that even if a program crashed the whole system doesn’t go. I like that I don’t fear for the sanctity of my stuff because I’m in immenent danger of contracting a virus. I like it so much that it’s going to go on my laptop too.
+
+I like that it’s the first thing in the history of my compter use that I feel like I have made choices with, instead of just used without thinking. I like that I can equate it’s use with a daily political act... and that I feel really, practically, and actively involved in the system I am using every day. What’s weird about that is the impression that everyone who uses GNU/Linux, or more specifically a flavour thereof, is a geek. But the fact that as a user I feel so empowered by Ubuntu (and I didn’t using Windows) makes me feel like this impression is flawed, particularly considering I really could have, at the time, installed Ubuntu on my own, no fuss. And that would have been my answer to my new friend if the MS programs had taken any longer to load.
+

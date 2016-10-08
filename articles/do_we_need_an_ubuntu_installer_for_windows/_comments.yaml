@@ -1,0 +1,245 @@
+-
+    name: cantormath
+    mail: ''
+    subject: 'They should call it Windows Optimization.'
+    hostname: 68.111.49.87
+    created: '1169964570'
+    body: "They should call it Windows Optimization.\r\nThe ultimate windows update.\r\n-- \r\n\"As we open our newspapers or watch our television screens, we seem to be continually assaulted by the fruits of Mankind's stupidity.\"\r\n-Roger Penrose"
+-
+    name: ''
+    mail: ''
+    subject: 'Somewhat agree'
+    hostname: 70.74.96.126
+    created: '1169967634'
+    body: "I do somewhat agree with the statements made in this article.  I agree that linux users have to stop bashing MS if it hopes to gain support amongst those to do use windows now.  I would suggest a focus on what linux does better and not how much MS is perceived to suck.  This behavior is not productive at all.  I also agree that install.exe does not seem suited to a corporate setting.  Companies have policies to protect their data, intellectual property, and anything else others might want.  \r\n\r\n  However, install.exe would surely be more beneficial in a home environment.  I do run linux exclusively on my computers, ny wife has a laptop running XP.  However, if we were sharing a computer, using something like install.exe would seem ideal as it would allow me to play with linux without permanently altering the computer.  It would also give me read AND write access and be much faster than any liveCD.  Used as a tool to get windows users to try something else, it can be great.  However, trumpeted as the savior of linux it will never live up to expectations.  People really need to see it for what it is and don't treat it as the holy grail."
+-
+    name: ''
+    mail: ''
+    subject: uh..no..
+    hostname: 82.124.167.180
+    created: '1170019263'
+    body: "\"Unprofessional, snarky descriptions like that won’t win anyone over; if anything, it’ll turn people away.\"\r\n\r\nThis install.exe isn't an official creation.. its being made by regular average users who thought it would be useful.  That's the thing with linux, if you want to change and improve something, YOU have the power to, and there are no limits to what you can do with the platform.  There is a limit due to the closed nature of Windows.\r\n\r\nAs for productivity, linux is not for the lazy.. its a power platform for those who are determined and capable of solving their own problems, yet need more flexibility in their environment which is provided by other OS's.  It already suceeds in \"winning over\" those who actually need to use it"
+-
+    name: ''
+    mail: ''
+    subject: mike
+    hostname: 209.103.214.50
+    created: '1170019433'
+    body: 'I would rather have it the other way around, windows running within the Ubuntu OS - since ubuntu has more functionality and I would imagine some things may not work as they should when running ubuntu within windows.  Still a great idea though, will give more windows users the chance to easily try out ubuntu.'
+-
+    name: ''
+    mail: ''
+    subject: 'Yes, We need it.'
+    hostname: 210.214.40.142
+    created: '1170019558'
+    body: "Most of the corporate environments won't allow unauthorized installation of third party software’s.\r\n\r\nBut one thing I don't understand is how ubuntu going to open up security holes in corporate environment which were patched in windows?\r\n\r\nFortunately I can do install and maintain Linux system myself with out any hassle, but I think for someone who wants to try out Linux or some one who wants to learn Linux this thing will be a great tool in assisting them.\r\n\r\nYes NTFS driver is still in beta stage, new complications will arise with bitlocker in vista as it is proprietary encryption method and specifications are not opened up by Microsoft.\r\n\r\nHaving two OS’s by hand is a good thing if one thing screwed up you can trouble shoot second one at file system level.\r\n\r\nAnyway this is good news as far as I am concerned.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'It''s innovation as publicity'
+    hostname: 24.5.134.43
+    created: '1170020108'
+    body: 'If nothing else, this kind of thing brings Ubuntu and other linux based operating systems more publicity. If someone asked me about this, I''d probably just recommend they pop in the LiveCD if they want to try out Ubuntu. Then if they wanted to go further, I''d recommend a full install. Publicity is what Ubuntu needs and the constant stream of innovations that come out of the linux development community are the best kind of publicity you can get. Get Ubuntu in front of Windows users any civil way you can.'
+-
+    name: ''
+    mail: ''
+    subject: 'Need to install Ubuntu as subsystem in Windows'
+    hostname: 207.118.226.42
+    created: '1170021727'
+    body: 'Why your at it, how about creating a descent install routine to run GNU/Linux as a subsystem under Windows. Yes, there are a couple of projects, but none have managed to get X running native (and most are limited by Posix compatibility issues). If you are going to introduce a trojan (not bad, just bait to get people to switch), why not allow the system to run side by side with Windows (kind of like SFU) only with full support. It has to be possible to reverse engineer the Windows subsystems.'
+-
+    name: ''
+    mail: ''
+    subject: '??!?'
+    hostname: 70.179.163.64
+    created: '1170022497'
+    body: "What's your point? It's another way to make Linux available. Some people like it even if they don't need it. Just look at the forums.\r\n\r\nWe don't *need* Linux, OS X, Windows, free software, or computers. But it's sure nice they're here.\r\n\r\nLive CD's are extremely slow on some machines. USB is not an option on every machine. And yes, not all computers can boot from CD. My laptop has a broken CD player that is not reliable enough to use for a full Ubuntu install, and replacing it is neither important or feasible at this time. Finally, there are some of us with Windows installations that are so screwed that it is not possible to resize the hard drive using tools such as Partition Magic or gparted.\r\n\r\nDo we need it? No. But that's a pretty high standard that is not applied to anything else. Perhaps you have too much time on your hands to write an article like this."
+-
+    name: ''
+    mail: ''
+    subject: 'why i needed this'
+    hostname: 12.172.68.193
+    created: '1170023173'
+    body: 'i have an old toshiba portege without an internal optical drive.  it cannot boot from an external drive, which is really annoying.  while i appreciate that you can''t imagine someone who would need this, i can, because i am one of them.  i wanted an ubuntu laptop, and couldn''t install it until this came along.'
+-
+    name: ''
+    mail: ''
+    subject: 'i think this is a step forward'
+    hostname: 12.73.50.156
+    created: '1170024206'
+    body: "windows users usually only use windows because of 3 things - 1, it comes installed on their computer fresh out of the box. 2, they aren't aware that there are actually real alternatives.  and 3, even if they know of the alternatives they are afraid of the windows-to-linux switch, which can be a daunting task for the inexpirianced computer user.\r\n\r\nif they want to create software to eleminate the third, by all means they should.  we who actually spend our time tinkering with our computers and reading online forums by other people who tinker with their computers don't understand what it's like to be one of the vast majority of PC users who honestly have no idea what's going on in the world of technology.  remember that just cause install.exe exists for ubuntu now, you don't have to use it, it's only there for the people who wouldn't ever instal linux otherwise.  nobody likes windows, not even novice computer users, so to put a product out there that will make it easier for them to make the first step in switching to linux, i think is a great idea."
+-
+    name: ''
+    mail: ''
+    subject: But..
+    hostname: 138.38.32.84
+    created: '1170026829'
+    body: 'That isn''t the official ubuntu blog. He''s just a ubuntu fan.'
+-
+    name: ''
+    mail: ''
+    subject: Ha
+    hostname: 75.72.215.98
+    created: '1170027005'
+    body: "\"Finally, if an employee is allowed to install an alternate operating system with no centralized control, then the employer has tacitly allowed circumvention of any desktop security that has been developed to protect the company and privacy. A system administrator in a tightly controlled and secure environment would not allow this under any circumstances.\"\r\n\r\nMr. Peck,\r\n\r\nHow is the above an argument against the product?\r\n\r\nLinux isn't about what authoritarian corporations want.  It's about what power and privacy we the users can gather for ourselves by any means we can.  \r\n\r\nWe grow up through the gaps in the wire."
+-
+    name: ''
+    mail: ''
+    subject: 'I hope it flies'
+    hostname: 66.212.200.167
+    created: '1170028871'
+    body: "Linux for the masses is a non-starter w/o efforts like this.\r\n\r\nAs long as the average user has to hear things like \"partition\", \"sudo\", \"mount\" \"rewrite the MBR.\"  Linux is going to be a non- mainstream OS.\r\n\r\nI like LINUX a whole lot, but it is only user friendly for install and maintenance by 1985 standards.  Once you are installed and have everything up, UBUNTU is easy.  It is the install and when something goes wrong that the newbie is at a loss."
+-
+    name: ''
+    mail: ''
+    subject: Aquashark
+    hostname: 89.123.26.165
+    created: '1170029820'
+    body: "your article is flawed.\r\n\r\n- the win32 installer for Ubuntu is not targeted at corporations, it's for experimental home use in order to popularize Ubuntu and the Linux movement.\r\n\r\n- LiveCDs are for ********. people want the real thing without the hassle of repartitioning.\r\n\r\n- ntfs-3g is stable and has no records of messed up hard disks and loss of data. it is still deemed as a beta since it's still in development for some tweaks.\r\n\r\nand do yourself a favor and install Ubuntu + Beryl interface. when you'll return to WinXP you'd think you landed in Win 3.1"
+-
+    name: ''
+    mail: ''
+    subject: 'I''ve been longing for something like install.exe...'
+    hostname: 155.245.23.112
+    created: '1170030238'
+    body: 'For me, install.exe is a brilliant thing. The reason is that while I am allowed to do almost whatever I want with my work-provided, I don''t have access to the BIOS. And the BIOS is configured not to let me boot from CD. So a Windows-based installer is like a godsend for me.'
+-
+    name: 'Jon Peck'
+    mail: ''
+    subject: 'Update - They''ve improved the scenarios'
+    hostname: 65.110.147.186
+    created: '1170037481'
+    body: 'Update - <a href="https://wiki.ubuntu.com/install%2eexe?action=info">They''ve cleaned up the primary install.exe wiki</a> by removing the Microsoft bashing and made a number of other improvements.  Thank you, and I look forward to the release!'
+-
+    name: ''
+    mail: ''
+    subject: 'Nah, not really'
+    hostname: 128.239.156.197
+    created: '1170038743'
+    body: "This article seems to be wrong on many levels....\r\n\r\nThe security and compatibility concerns you state are really edge cases, and it should be the responsibility of the person downloading the software to figure out if their company, etc will disapprove.\r\n\r\nThe compatibility argument seems to flow exactly from Microsoft-logic... surprising for this place.\r\n\r\nMigration from install.exe installations is a feature that will definitely be implemented... there's no reason to judge the concept by that."
+-
+    name: ''
+    mail: ''
+    subject: 'That is a need'
+    hostname: 201.34.27.64
+    created: '1170051485'
+    body: "This project is a need. DOn't try to indentify all the possible cases. We must admit the world i still dominated by Windows and Windows is not deserving it's position anymore.\r\n\r\nIt doesn't matter how many study cases you can bash, a general purpose linux for home users HAS to be easy to install!\r\n\r\nImagine if after 4 years of bashing windows my sister decides to isntall linux. What woudl happen right now? She would ready GEEky stuff about repartitioning and would flee from the linux geek idea in a matter of minutes. install.exe would solve that.\r\n\r\nSOrry for my 3 am sleepy english."
+-
+    name: ''
+    mail: ''
+    subject: Grammar
+    hostname: 69.231.45.173
+    created: '1170055998'
+    body: "It's \"a Ubuntu installer\" not \"an Ubuntu installer\"  If you say it out loud you'll see how bad the incorrect grammar sounds.  In general \"an\" is used before words that start with the letter \"a\".  \r\n\r\nOh, and yes, we do need a Ubuntu installer."
+-
+    name: admin
+    mail: ''
+    subject: 'A matter of pronunciation; not grammar'
+    hostname: 124.168.116.215
+    created: '1170063891'
+    body: "Hi,\r\n\r\nFrom the <a href=\"http://www.ubuntu.com/support/faq\">official Ubuntu FAQ</a>.\r\n\r\n<cite>How do you pronounce Ubuntu?</cite>\r\n\r\n<cite>Ubuntu, an African word from Zulu and Xhosa, is pronounced \"oo-BOON-too\". See the other FAQ on its meaning, it's a worthwhile read, and no, you're not the first person to wonder.</cite>\r\n\r\nThe \"oo\" sound requires the article \"an\"; not the article \"a\". I can only guess you are pronouncing Ubuntu with a \"you\" sound at the beginning."
+-
+    name: ''
+    mail: ''
+    subject: 'Listen with your eyes'
+    hostname: 203.219.130.10
+    created: '1170086634'
+    body: "\"...see how bad the incorrect grammar sounds.\"\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Systems with NO BOOTABLE DEVICE other than HD need Install.exe.'
+    hostname: 67.111.184.226
+    created: '1170093238'
+    body: "I have an old Viewsonic Viewpad 1000 (tablet-like PC, Celeron 700, Win2K, 800x600) that is unable to boot from any device I presently own, other than the internal 20 GB HD.\r\n\r\nLiveCDs don't work: The external PCMCIA optical drive is not bootable due to BIOS limitations.  The USB 1.0 interface also is not bootable (I've tried flash drives).  The only other alternative I see is to open the unit to add another bootable IDE device (I do have a spare 2.5\" HD somehwere), something I'd like to avoid if at all possible.  Or buy a USB floppy drive, something I have no other need for.\r\n\r\nFor me, Install.exe is appears to be the only way I can try Linux on this system and still keep Windows (just in case).\r\n\r\nThis is also the only Windows system I own, and I need it every year at this time to do my taxes.  I'll dump Windows when Intuit and/or H&R Block support Linux (or Mono, or Wine, or ReactOS, or ...).\r\n\r\nThe goal?  For the rest of the year I want to use the Viewpad 1000 as a giant remote control and video previewer for the MythTV system I'm putting together.  Why have PiP when I can have PoP?  Cool, eh?\r\n"
+-
+    name: ''
+    mail: ''
+    subject: '"Also, I''m having a hard'
+    hostname: 66.92.86.62
+    created: '1170125525'
+    body: "\"Also, I'm having a hard time thinking of anyone I know who has a laptop without an internal optical drive who doesn't have an external one instead.\"\r\n\r\nWell then, you haven't met me. (used to own a Panasonic Toughbook R1)\r\n\r\nAlso, there are places in the world where broken drives aren't so easily replaced."
+-
+    name: ''
+    mail: ''
+    subject: install.exe
+    hostname: 193.248.74.245
+    created: '1170166652'
+    body: "This is long time existing:  ZipSlack  of Slackware.  It comes without grafical surface, however, one can easily add this and any other progs.\r\n\r\nThus, there is no reason to be worry about the Ubuntu win installer. Whom use it, use it; whom not, not.  :)"
+-
+    name: ''
+    mail: ''
+    subject: 'Another vote for install.exe'
+    hostname: 128.186.72.195
+    created: '1170170537'
+    body: "What a deeply flawed article. While I respect the author's right to his opinion, this is the kind of of submissive attitude that hinders the right way to go about spreading the \"gospel\" of what we, believers in the ideals of Linux, do.\r\n\r\nI just started working for a place completely mired in proprietary software. Now, I know more about how this stuff works than most people here (and given the technical nature of the place, you'd be surprised.) We do good work here (this is a non-profit), and I will use whatever tool it takes to get it done most efficiently--regardless of what the higher-ups might have in some policy.\r\n\r\nI'm not trying to be an OMG M$ sUx0rz kind of person--but sometimes you do have to buck the system a little bit.  I plan to use install.exe on my OFFICE GIVEN laptop as soon as possible, policy be danged."
+-
+    name: ''
+    mail: ''
+    subject: 'Pure Silliness'
+    hostname: 207.178.107.129
+    created: '1170172313'
+    body: 'The existing security infrastructure is nil if users can install software and don''t know that installing a different OS without consulting IT staff might be a problem. If you are letting (from a permissions and corporate policy point of view) end users install software with nothing in place to keep them from installing a new OS, then people installing Ubuntu are the least of your worries, since multiple rootkits are vying for control to determine which botnet pwns the machines on your network, and large chunks of the world are adding your netblocks to their spam black-lists. Large numbers of people in the Linux camp are refugees, they didn''t end up here because of ideology or technical merit, they simply hate Microsoft, and will use anything that doesn''t support Microsoft, those people are going to have bad things to say about Microsoft at any given opportunity. The idea that the Linux community needs to "grow up" and stop bashing Microsoft is odd, since the daily defectees are often only coming over to be able to more meaninfully bash Microsoft. Mature members of the community probably shouldn''t be touting overly simplistic ideas like "M$ sucks", but they should probably be explaining why taking money from end-users to reduce their freedom is evil. While introducing a click-installer to the world without specific plans to support them after they do actually click and install might be irresponsible, but since we have only recently gotten remotely stable access to NTFS and its been shipping by default for a while now (maybe as much as 7 years) I don''t think the specifics can have been worked out, but noone is advocating orphanning the people who try this out. Technology is going to advance, advocating the stifling of advances on the idea that people might be irresponsible falls under Pure Silliness, since people are going to be irresponsible anyway, and there''s no shortage or irresponisble outlets at this point such that adding a new technology would give a sudden outlet to those people who were just dying for a new way to be irresponsible.'
+-
+    name: ''
+    mail: ''
+    subject: 'Ubuntu installer for Windows is a good thing'
+    hostname: 83.181.101.148
+    created: '1170186410'
+    body: "A live CD is only good for trying the distro - nothing else, it is too slow.\r\n\r\nAvoiding partitioning is a great virtue: you may not like to delete your existing installation and data and start from scratch. Resizing partitions is risky. Partitioning is a bad thing per se - you always get the partition sizes wrong and end up with one partition too small and the other one too large. It can be a problem on old PCs with little space.\r\n\r\nOtherwise the objections brought up in this article have their place.\r\n\r\nMartin Jasny"
+-
+    name: ''
+    mail: ''
+    subject: 'YES, we do we need an Ubuntu installer for Windows'
+    hostname: 203.118.29.174
+    created: '1170208402'
+    body: "- My Toshiba portege doesnt have a built-in cdrom drive and I dont hv an external one either\r\n- If I do have one, booting up LiveCD every time is too much of a hassle, and it's slow\r\n- You sounds like a smart guy, next time write something else, this article doesnt make much sense"
+-
+    name: apjone
+    mail: ''
+    subject: 'Selling Your Product'
+    hostname: 212.127.0.227
+    created: '1170689254'
+    body: "Just a quick marketing point of view. When businesses create product X they do not ask 'Do we need it?', they ask 'Can we sell it?'. If you can sell it, then it gets made, 'Do we need it?' is never the main concern. Thus with install.exe we may not need it, but curious windows users who dont have a Local Linux Guru handy to help them install it will use it. Thus in answer to the question, YES it can be sold. \r\nI believe that it is an interesting concept and great idea, although I myself may never use it. Good Luck guys\r\n\r\nAJ\r\n\r\nps I KNOW IT WONT BE SOLD, its just marketing speak.\r\n        Any feedback welcome\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'What about a fourth option?'
+    hostname: 85.228.192.168
+    created: '1171359802'
+    body: 'Repartition, install.exe, LiveCD or...why not install VMware on Windows and run Ubuntu as virtual machine...Much better performance then LiveCD, but no hardware support apart from basics.  I do this at work, and it saves time rebooting into another partition, and I get to try a lot of stuff even if I dont get full access to hardware.'
+-
+    name: ''
+    mail: ''
+    subject: 'Good for new users'
+    hostname: 211.27.202.246
+    created: '1171371173'
+    body: "Judging by how many people incorrectly burn CDs, or even look around the burnt CD in Windows for an installer program (a .exe file), this really is something that can get the newbies into a Linux installation without being scared off prematurely.\r\n\r\nThe perminant installation does include ntfs-3g, however there are a number of other distributions that also have it configured from boot-up time. Also, the tricky bit with NTFS is resizing files, which the native Ubuntu installation would not do as its files are stored within an Ext3 filesystem inside a file of fixed size. Writing to files on NTFS without resizing them is definately stable, and has been done for years on Puppy Linux.\r\n\r\nOf course, there's the argument that anyone who can't burn an ISO to CD and boot from it isn't ready for Windows... well, my answer is, there's no harm in removing one barrier!"
+-
+    name: loloyd
+    mail: ''
+    subject: 'I''m more of a Windows user than an Ubuntu user'
+    hostname: 222.126.95.251
+    created: '1171450159'
+    body: "I'm more of a Windows user than an Ubuntu user - and that's by productivity and not necessarily by choice.  I've installed quite a few Dapper Drakes since last year at home and at work but they were all, as I remember, in dual-boot mode with Windows.  In my early days with Ubuntu, I was quite an excited advocate but ***productivity reality*** does kick in and then eventually I'd have to settle back to my old Windows XP ways.  And sometimes, I get a nice kick in the butt when my colleagues claim that I wasted some HD GBs after I installed Ubuntu in a few servers and workstations without regularly using them.  Sadly, they may have a point.\r\n\r\nBut I feel that install.exe is A STEP in THE RIGHT DIRECTION.  Think of Ubuntu as Firefox and Windows as IE.  Firefox became as popular as hell when it brought performance, sensibility, security and stability over to the gardens of Ease Of Use.  Ubuntu install.exe might just become the next Firefox in my prediction."
+-
+    name: 'Anonymous visitor'
+    mail: s.overman21@comcast.net
+    subject: 'I think its great. I''ve'
+    hostname: 67.174.44.145
+    created: '1178778364'
+    body: 'I think its great. I''ve messed of plenty of dual-boot installs using the Ubuntu CD''s too. I don''t know what to do if I get an Error 17 or Error 18.   Partly because I don''t really understand how partitions work and partly because I don''t have a Toshiba tool to partition my laptop hard drive.  Anything that provides another way is fine by me.  '
+-
+    name: ravedid
+    mail: ravedid@yahoo.co.uk
+    subject: 'system as Ubuntu'
+    hostname: 172.188.58.227
+    created: '1179405360'
+    body: "Kubuntu follows the same system as Ubuntu, with each release having a code name, and a version number based on the year and month of release. Canonical provides support and security updates for most Kubuntu versions for 18 months after release.\r\n\r\nThe first Kubuntu release was version 5.04  on April 8, 2005. It included KDE 3.4 and a selection of the most useful KDE programs. Some of these are not in the official KDE itself, including Amarok, Kaffeine, Gwenview, and K3b.\r\n\r\n"
+-
+    name: 'Shannon VanWagner'
+    mail: shannon.vanwagner@gmail.com
+    subject: 'Simple Way to install Kubuntu alongside Windows '
+    hostname: 70.103.219.100
+    created: '1181241619'
+    body: "Simple Way to install Kubuntu alongside Windows ...\r\nSuggestion: \"Shrink\" Windows partition to make room for Linux\r\nSubmitted by Shannon VanWagner (not verified) on Tue, 2007-06-05 18:24.\r\n\r\nHave a lot of free space on your hard drive? If so, instead of formatting and losing your Windows installation, why not \"Shrink\" the Windows Partition to make room for the Linux installation. See how to do this below.\r\n\r\nDisclaimer: As a safeguard you should always perform a backup of your system to an external source prior to performing any changes such as outlined below. I am not responsible for any data-loss or other issues you may experience when using the information below to install Linux.\r\n\r\nAbout GParted: The GParted utility is an easy-to-use yet very powerful graphical Open-Source partition editor that is available in \"LiveCD\" format(meaning that it boots from CDROM).\r\n\r\nTo use a \"LiveCD, download the *.iso file and then use your favorite cd-burning software to burn the .iso image to a cdrom disk (My favorite cd-burning app for Windows is DeepBurner Free 1.8 from http://deepburner.com/?r=download for Linux use K3B).\r\n\r\nHere are the steps that I used to \"Shrink\" my Windows partition with a nifty utility called \"Gparted\". I was then able to install KUbuntu 7.04 in the free space that was left over.\r\n\r\n1.) Download and burn to cdrom the free Gparted Partition Editor Utility in LiveCD format http://gparted.sourceforge.net/download.php (direct link to the gparted-livecd-0.3.4-7.iso file: http://tinyurl.com/24ph7r)\r\n\r\n2.) Boot into Windows, perform a full disk cleanup (checkout www.ccleaner.com for a good cleanup utility for this), then run a full defragmentation of your Windows drive(s) to move all the physical data on your hard drive and provide room to \"Shrink\" the Windows partition.\r\n\r\n3.) Boot up your computer to the GParted LiveCD (from Step #1 above). Upon booting into Gparted, try pushing Enter to accept the defaults at each of the configuration screens - this will get you into the GParted graphical utility, which is very simple to use.\r\n\r\n4.) To \"Shrink\" your Windows partition, simply right-click it from within the GParted graphical utility, then select \"resize\". From the resize dialog simply use the slidebar to adjust the size of your Windows partition to a smaller size (slide to the left or enter a number). Be sure to leave some free space for Windows (4GB or more would be great)to avoid Windows performance problems. For Kubuntu you can set aside 4GB of free space for the install. I suggest that you free up 20GB or more to have plenty of space for using Kubuntu.\r\n\r\n5.) Click \"Apply Changes\" and watch the magic of the GParted as it performs a \"Shrink\" of your Windows partition. Note: GParted may not work properly if you have any type of RAID array, so you're on your own for testing that.\r\n\r\n6.) After all changes are applied, reboot the machine without the GParted disk in the drive. Windows will then perform a \"chkdsk\" - this is normal, let it complete. Note: Be sure to let the chkdsk fully complete and then login to Windows to test to see that everything changed properly. If you look in \"My Computer\" it should show that your Windows partition is now smaller. If you were to run Start>Run>diskmgmt.msc , you would see that your drive now has the free space you created in steps 4 & 5 from above.\r\n\r\n7.) Reboot with the Kubuntu LiveCD in your drive, once you get to the point where you can install Kubuntu you can install the linux partitions (swap, and / (e.g. ext3 root)) in the free space you created. Kubuntu will automatically detect your Windows partition and will add it as a selection for the GRUB Boot loader.\r\n\r\nHave fun using Kubuntu - I use it on all my computers and I think it's great!!\r\n\r\n\r\nShannon VanWagner\r\n"

@@ -1,0 +1,21 @@
+-
+    name: ''
+    mail: ''
+    subject: '"The world consists of US"'
+    hostname: 85.187.156.88
+    created: '1173873659'
+    body: 'Anybody to tell the kind guys of FSF that the US Code is not the only law systemin existence? Eg. "under the appropriate parts of the local laws" instead of "section 1201 of Title 17 of the United States Code"? (IANAL; a better wording can be chosen, but you get the idea.)'
+-
+    name: ''
+    mail: ''
+    subject: 'IANAL, but ...'
+    hostname: 149.9.0.57
+    created: '1173886613'
+    body: '... perhaps the last paragraph should start with the words "As such" to emphasize that the reference to U.S. section 1201 of Title 17 is but one example for the the preceding sentence so a clever lawyer does not try to call the meaning of the previous sentence into question when dealing with a different law.'
+-
+    name: Tyler
+    mail: ''
+    subject: 'They already know'
+    hostname: 142.68.201.214
+    created: '1173914414'
+    body: "The FSF has in fact gone to considerable effort to make sure that the GPL satisfies not only US laws, but those from many other jurisdictions. If you check the rationale you'll see that your criticism is unfounded:\r\n\r\nhttp://gplv3.fsf.org/gpl-rationale-2006-01-16.html\r\n\r\nIANAL either, so I can't comment on the particular sentence you quote. However, from what I've read and heard from Eben Moglen, I am confident that the legal team working on the GPL is very much aware of non-US legal systems, and they are making every effort to internationalize the license.\r\n\r\nTyler"

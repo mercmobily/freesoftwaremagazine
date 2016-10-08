@@ -1,0 +1,54 @@
+This first paragrpah will act as a blurb/preamble. Please ensure that it summarises waht your articles aim is in a catchy way. Readers will usually decide whether or not to read your article based on this paragraph.
+
+Introduce what the reviewed software is meant to do. A good repository of software for Windows is http://osswin.sourceforge.net/. Review at least 4 pieces of software. If the article is planned to be more than 4000 words, please contact the Editor In Chief.
+
+=ZOOM=Put at least three "zooms" in the article=
+
+# Piece of software 1
+
+=IMAGE=figure1.jpg=Piece of software 1's screenshot =
+
+Description of the first piece of software. Cover: 1) Installation 2) Getting started 3)Impressions. This should be quite detailed—about 300 to 600 words. 
+
+Software              |
+----------------------|-
+Name                  |  
+Maintainer(s)         |  
+License               |  
+Platforms             |  
+**MARKS (out of 10)** | 
+Installation          | 1/10 
+Vitality              | 1/10 
+Stability             | 1/10 
+Usability             | 1/10 
+Features              | 1/10 
+Overall               | 1/10 
+
+=TABLE_CAPTION=Piece of software 1=
+
+# Piece of software 2
+
+
+=IMAGE=figure2.jpg=Piece of software 2's screenshot =
+
+Description of the second piece of software. See above.
+
+Software              |
+----------------------|-
+Name                  |  
+Maintainer(s)         |  
+License               |  
+Platforms             |  
+**MARKS (out of 10)** | 
+Installation          | 1/10 
+Vitality              | 1/10 
+Stability             | 1/10 
+Usability             | 1/10 
+Features              | 1/10 
+Overall               | 1/10 
+
+=TABLE_CAPTION=Piece of software 2=
+
+# Conclusion
+
+Conclusion of the article: which one impressed you the most, the least, etc.

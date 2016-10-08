@@ -1,0 +1,7 @@
+-
+    name: god
+    mail: ''
+    subject: 'Very interesting'
+    hostname: 203.59.90.115
+    created: '1143707835'
+    body: "<strong>From</strong>: SM.Synonymous \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-10-06\r\n<strong>Subject:</strong> Very interesting\r\n\r\n\r\n\"A way that doesnÃ‚â€™t require a rack of 400 servers (and growing) or immense amounts of bandwidth in order to index whatÃ‚â€™s there and process it.\r\n\r\n\r\n\r\n\"Unfortunately, nobody has come up with a solution yet.\"\r\n\r\n\r\n\r\nThere is a solution, it's called a distributed data store [http://en.wikipedia.org/wiki/Distributed_data_store] and one of more well known ones is Freenet [http://en.wikipedia.org/wiki/Freenet].\r\n\r\n\r\n\r\nIf you are going to have the internet's memory then you'll probably want a system where that memory is as free as is possible from being tampered with. If you consider censorship a form of tampering (e.g. a government trying to delete things it finds objectionable, or Scientology trying to remove items from the Internet Archive with their complience [http://news.com.com/2100-1023-959236.html]) then Freenet is an ideal solution as it very difficult to censor data on Freenet.\r\n\r\n\r\n\r\nGet in touch with the developers of Freenet if you're interested, or contact me at sm.synonymous@gmail.com if you want to talk about this issue."

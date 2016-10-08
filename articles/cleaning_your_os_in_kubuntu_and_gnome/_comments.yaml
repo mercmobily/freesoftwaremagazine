@@ -1,0 +1,14 @@
+-
+    name: undefined
+    mail: ''
+    subject: deborphan
+    hostname: 192.91.171.42
+    created: '1182295129'
+    body: "how timely as i cleaned up a new ubuntu installation yesterday (though this article was written nearly a week ago, i've been skipping over it in my rss reader until today).\r\n\r\ndeborphan isn't just for cleaning up forgotten libraries, but default installation cruft.  i'm setting up a new computer with ubuntu (debian for me, ubuntu for her) and the user is migrating from windows where she used thunderbird.  so off comes evolution.  then i run \"deborphan -Psna | sort | less\" and see what uninstalling evolution orphaned.  i also uninstalled all the asian fonts (~20 package), the scim input method, etc.  how did i know those were candidates for removal?  deborphan!\r\n\r\nyeah, aptitude (and other meta-dpkg apps) are capable of uninstalling packages (when the reverse dependency is uninstalled), but i don't trust them.  just because B was installed with A, doesn't mean i want to uninstall B when i uninstall A.  no application can currently read my mind.\r\n\r\nit takes some knowledge of the packages to use deborphan (\"apt-get show &lt;package&gt;\" is your friend), otherwise you'll eventually uninstall everything.  i actually have a cron job that saves the output of deborphan and whenever i'm in the mood for spring cleaning i diff the current output with a previous version and see what's changed over time and what packages i no longer want/need."
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'Re Deborphan'
+    hostname: 59.101.14.126
+    created: '1182331452'
+    body: 'Yeah GtkOrphan is a GUI-based front-end for Deborphan that''s for beginners, or the terminally lazy, like me. GtkOrphan can only find, and remove orphan files, whereas Deborphan, from the command line, is a far more accomplished package.'

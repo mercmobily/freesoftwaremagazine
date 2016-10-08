@@ -1,0 +1,42 @@
+-
+    name: mduffor
+    mail: ''
+    subject: Community
+    hostname: 67.161.6.16
+    created: '1276369597'
+    body: "If you want a community/fan base to build for your articles, you should probably pay closer attention to approving comments to the articles.  If comments aren't approved or take too long to show up, you won't be able to sustain a conversation through them, and interest in checking back on your articles will wane.\r\n\r\nMichael\r\n\r\n(I don't expect this comment to be approved, but it appears to be the only way to contact you through FSM)"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Happy to disappoint you...'
+    hostname: 62.140.212.3
+    created: '1276503050'
+    body: "...by approving your comment.\r\n\r\nAs you've only been a member for three days I think I'd remember all of your comments. This is the *only* one that made it to the approval system so I think it's likely that any comments you thought were not approved were not actually posted. The first step in commenting is a preview and unless you submit that page as well the comment will not be submitted.\r\n\r\nAside from that if you are struggling to contact someone at FSM perhaps you should try the [contacts](http://www.freesoftwaremagazine.com/contacts) page as linked on the top right of every page.\r\n\r\nHope this helps  \r\nRyan (comments admin)  \r\n\\-\\-  \r\nEquitas IT Solutions - fairness, quality, freedom  \r\n[http://www.equitasit.co.uk](http://www.equitasit.co.uk)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: responsiveness
+    hostname: 68.116.159.234
+    created: '1276546659'
+    body: "Actually, I agree with you that FSM is not responsive enough for a \"fan\" site, and I don't expect to keep things going here for \"Lunatics\". I hope to have something more responsive set up either on our own site or through one of the social networking sites (like Facebook). The thing to realize is that this is just _very_ early on this project.\r\n\r\nAn active fan site with comments is a lot of technical work, though, and I haven't tackled it just yet (also a developer/production site will come first). However, when I do get it set up, I plan to document the process here in Free Software Magazine! :-)\r\n\r\nOf course, you should also read Ryan's comment about the \"Preview comment\" button -- the system requires an \"edit->preview->submit\" process to work. It's debatable whether this is the best solution, but it is meant to encourage proof-reading your comments.\r\n"
+-
+    name: mduffor
+    mail: ''
+    subject: 'Thanks for the responses'
+    hostname: 208.71.56.11
+    created: '1276562143'
+    body: "Thanks for the responses, Ryan and Terry.  My first comment on the article I had written, previewed, and then added some corrections.  Then when I submitted it, the system said the comment had been marked as spam, and I had (incorrectly) assumed that it would show up for the moderator to double-check anyways.  \r\n\r\nIf you can pull the comment from the spam pile, then great.  I can't remember everything I had said, so I'll just comment on future articles.\r\n\r\nCheers,\r\nMichael"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: Sorry
+    hostname: 62.140.212.3
+    created: '1276605251'
+    body: "Sorry Michael,\r\n\r\nthere seems to be nothing in the spam pile at all and I don't have access to the server logs etc. So I can't retrieve any comment that may have been lost. That said it should not have flagged your comment as spam at that stage anyway so clearly something is up. I'll contact the site admin/editor Tony.\r\n\r\nWith regards the responsiveness of the comments part of the site you should be aware that approximately 80% of the comments we receive on here are spam. That is they are completely unrelated to the subject of the article and contain commercial links that are generally unrelated to the article or the magazine. Much of these I suspect are posted by humans who are paid to increases Google rankings by leaving links all over the web. \r\n\r\nThe trouble is that to filter these out one has to read them. The subject alone is often not enough and thus it all takes time. Remember as well that this is something I do on a voluntary basis and so it unfortunately has to fit in around other commitments I have.\r\n\r\nregards\r\nRyan\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Your work is appreciated!'
+    hostname: 68.116.159.234
+    created: '1276620274'
+    body: "Ryan, I appreciate the work you're doing!\r\n\r\nMy own comment about responsiveness has more to do with the nature of the site. FSM is not meant to be a fan forum. That would require a lot of traffic considerations including the moderation load. I merely meant that when I want such a site, I'm going to have to set it up somewhere else (and I'm not ready to deal with that load yet, either). :-)\r\n\r\nI do plan to find a better solution for that in the future.\r\n\r\nCheers,\r\nTerry\r\n"

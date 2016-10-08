@@ -1,0 +1,28 @@
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Ubuntu
+    hostname: 68.197.66.72
+    created: '1181052813'
+    body: "Ubuntu also has this.  It's called Reconstructor: http://reconstructor.aperantis.com/\r\n\r\n--\r\nAndrew Min"
+-
+    name: 'Jonathan Roberts'
+    mail: ''
+    subject: Cool
+    hostname: 88.110.79.220
+    created: '1181378194'
+    body: "Looks cool, I didn't realise they had that! Although, there is a difference between that and Revisor: Revisor uses the build tools used in creating the official Fedora releases, such as Pungi and livecd-tools; Reconstructor uses shell scripts in a chroot of an existing official spin. \r\n\r\nThis seems a bit pedantic to point out, but I feel the key fact of this is that *all* the tools used to build the official Fedora releases are available for anybody to use, on any system.\r\n\r\nJon\r\n"
+-
+    name: 'Osor Hirutonis'
+    mail: ''
+    subject: 'Linux Live for CD & USB'
+    hostname: 76.189.119.174
+    created: '1182636401'
+    body: 'There is also a distribution-agnostic set of scripts that does something similar: http://www.linux-live.org'
+-
+    name: 'Anonymous visitor'
+    mail: gromto@yahoo.com
+    subject: 'How To add artwork'
+    hostname: 68.58.132.27
+    created: '1187510909'
+    body: "You list \r\n\r\n\"adding your own artwork and branding\"\r\n\r\nAs a possibility under this new software solution.\r\n\r\nI don't care about branding, but I would like to add some artwork to my livecd.\r\n\r\nCould you do a quick how to?"

@@ -1,0 +1,189 @@
+-
+    name: ''
+    mail: ''
+    subject: 'CLI app'
+    hostname: 161.203.16.1
+    created: '1170686769'
+    body: "If you like the command line, take a look at GNUpod:\r\n\r\nhttp://www.gnu.org/software/gnupod/\r\n\r\nIt keeps things simple, which I like. It also has the ability to transparently transcode FLAC (which I use for all my CDs) to an MP3 of a bitrate you choose. There are plugins to do this with Amarok but I could never get it working right. "
+-
+    name: ''
+    mail: ''
+    subject: 'Don''t forget Songbird'
+    hostname: 129.186.121.181
+    created: '1170694931'
+    body: "You should also look at Songbird\r\n\r\n<a href=\"http://www.songbirdnest.com\">\r\nhttp://www.songbirdnest.com</a>\r\n\r\nIt's my main media application and is under major active development.  \r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Don''t forget Songbird'
+    hostname: 129.186.121.181
+    created: '1170696693'
+    body: "You might also want to check out Songbird at:\r\n\r\n<a href=\"http://www.songbirdnest.com\">http://www.songbirdnest.com</a>\r\n\r\nBuilt on xulRunner (like Firefox and Thunderbird) it's a very interesting approach to an internet media application"
+-
+    name: elcaset
+    mail: ''
+    subject: 'As far as I can tell, gtkpod is not cross-platform.'
+    hostname: 24.16.54.180
+    created: '1170726857'
+    body: 'Unless you mean it works on both GNU/Linux & BSD.'
+-
+    name: ''
+    mail: ''
+    subject: 'The cons of managing ipod in linux'
+    hostname: 151.57.242.200
+    created: '1172487304'
+    body: 'Many of these IPOD manager for linux in the past damaged my ipod mini database and caused me the loss of a great amount of music (expecially gtkpod!). The only reliable tool I recently adopted is banshee. I know, it''s a novel sponsored application and uses mono, but I''m not losing anymore my music!'
+-
+    name: ''
+    mail: ''
+    subject: 'Floola is a new one that a lot of people seem to like'
+    hostname: 74.112.116.125
+    created: '1172541031'
+    body: "<a href=\"http://ubuntuforums.org/showthread.php?t=214221\">Ubuntu forums thread</a>\r\n\r\n<a href=\"http://www.floola.com/\">Floola site</a>\r\n\r\nIt's crossplatform  too.. (Mac/Linux/Win) "
+-
+    name: ''
+    mail: ''
+    subject: 'Use kde for simple transfers'
+    hostname: 64.255.115.9
+    created: '1172580793'
+    body: 'If you have kde (ie. kde 3.5.5, opensuse 10.2) and you want to quickly transfer an .mp3 to your ipod, just plug your ipod in via usb, open konqueror, drag your mp3''s to the ipod transfer directory, and then hit sync. done!'
+-
+    name: ''
+    mail: ''
+    subject: 'Don''t snub Rhythmbox because of Ubuntu'
+    hostname: 72.74.100.166
+    created: '1172584480'
+    body: "People overlook Debian constantly.  This is short-sighted and unfair to many Linux users.  There is no opinion that Debian is more stable and reliable than Ubuntu, it's simply fact.  At this point, Rhythmbox does fine with my ipod and all of the emails I get through my tutorial site reveal that I am not alone.  It's a no-brainer.\r\n\r\nGTKPod used to be a staple on our machines LAN-wide, but Etch reveals that Rhythmbox trumps GTKPod now.  One cannot have both on their machine anymore.  I'm thinking that this is a good thing, because of the default Etch install that many users will no doubt be perfectly satisfied with.\r\n\r\nHowever, I do miss the functionality of GTKPod, namely, its renaming and other convention tools.  GStreamer is coming along nicely and its king-fu is strong.\r\n\r\n--machiner\r\ndebiantutorials.org"
+-
+    name: ''
+    mail: ''
+    subject: 'Amarok does Podcasts, too.'
+    hostname: 85.93.104.138
+    created: '1172585457'
+    body: "And it's worked really well for me. In fact, I really think if you're not going to use Xmms, you might as well use Amarok. It just feels nicer for everything, but that's just my opinion.\r\n\r\nAnd I've got Rockbox on my 4G iPod as well, but about every hour it freezes on me. I still have it (and iPodLinux), but mostly just to show off and for reading text files."
+-
+    name: ''
+    mail: ''
+    subject: 'install  Rockbox (http://www.rockbox.org/) on your ipod'
+    hostname: 194.7.114.2
+    created: '1172586972'
+    body: 'Just install  Rockbox (http://www.rockbox.org/) on your ipod. Then use the FAT32 partition on your ipod as a "usb stick" to transfer files from/to your desktop PC. This works great on my ipod nano.'
+-
+    name: ''
+    mail: ''
+    subject: Exaile
+    hostname: 81.19.14.198
+    created: '1172598960'
+    body: 'Exaile support iPod to :)'
+-
+    name: ''
+    mail: ''
+    subject: 'managing ipod without itunes'
+    hostname: 67.80.126.36
+    created: '1172804110'
+    body: 'this seems very difficult for a newbie like me?'
+-
+    name: ''
+    mail: ''
+    subject: 'Rockbox plays Ogg Vorbis, FLAC'
+    hostname: 59.101.141.175
+    created: '1173557020'
+    body: "I second this suggestion, replace the problem at its own base. With rockbox playing vorbis, flac (never tested speex or have any info), there's no need to convert to mp3 or aac or anything to sastify ipod firmware.\r\n\r\nAlot more nice software too (I bought a mailman list archive around to read with the text reader), and (gasp) Doom."
+-
+    name: ''
+    mail: ''
+    subject: 'I agree'
+    hostname: 89.172.109.6
+    created: '1175216660'
+    body: 'it sure ain''t easy'
+-
+    name: ''
+    mail: ''
+    subject: great
+    hostname: 80.241.170.249
+    created: '1175216785'
+    body: "It keeps things simple, which I like. It also has the ability to transparently transcode FLAC (which I use for all my CDs) to an MP3 of a bitrate you choose. There are plugins to do this with Amarok but I could never get it working right.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'SongBird really rocks!'
+    hostname: 80.189.207.241
+    created: '1175533846'
+    body: 'viva libre! SongBird really rocks! I uninstalled itunes immediately. I was fedup with moving my content around. Itune is a hassle, you pay and you still do not have proper right to own the music. I use songbird is just simple, you can play any format of music. My ipod shuffle works also with songbird. Perfect!'
+-
+    name: ''
+    mail: ''
+    subject: 'Try songbird, I am still'
+    hostname: 80.189.207.241
+    created: '1175533965'
+    body: 'Try songbird, I am still using ipod shuffle and managing my library with songbird. It is very simple and it rocks!'
+-
+    name: SiR-G
+    mail: armhustla@aol.com
+    subject: 'any sites how u can put'
+    hostname: 70.157.122.16
+    created: '1178914852'
+    body: 'any sites how u can put pictures on an iPod without iTunes...i cant use i tunes beacause it wont work with my PC....PLEASE HELP!'
+-
+    name: fatso
+    mail: lommetennis@hotmail.com
+    subject: 'Banshee ALLWAYS screws my iPod-DB!'
+    hostname: 85.19.96.134
+    created: '1188216338'
+    body: 'I have to use Banshee because it is the only player I have found that can transcode Flacs to the iPod. Unfortunately, it does not do so very well, and after a successfull sync (quite rare!) more than half the transcodes does not play on the iPod! Banshee is def not there yet...'
+-
+    name: 'Anonymous visitor'
+    mail: fff@aol.com
+    subject: 'i now how to download songs to an ipod with out itunes'
+    hostname: 76.243.112.215
+    created: '1191859222'
+    body: 'all you need is rhapsody and limewire and its for free (:'
+-
+    name: ZZTech
+    mail: ''
+    subject: 'What about reTune?'
+    hostname: 75.28.1.207
+    created: '1199137978'
+    body: "I find reTune (and rebuild_db on the shuffle) to be _the_ most effective solutions to music management for iPods. These tools work at the command line - you manage your music files using whatever file explorer you normally use. I recommend that you try them at the links below:\r\n\r\nhttp://retune.sourceforge.net \r\nhttp://shuffle-db.sourceforge.net\r\n\r\nI have posted some additional information on iPod management here:\r\n\r\nhttp://zztools.blogspot.com"
+-
+    name: 'John Smithy'
+    mail: ''
+    subject: 'Free softwares to manage iPod without iTunes'
+    hostname: 212.147.56.194
+    created: '1219241604'
+    body: "I've found this list of free alternative iPod managers\r\nhttp://ipodmanagers.blogspot.com"
+-
+    name: admin
+    mail: ''
+    subject: 'Not free...'
+    hostname: 79.47.179.101
+    created: '1219296526'
+    body: "Hi,\r\n\r\nThe blog you mention (which is probably yours) talks about freeware, not free software. And talks about Windows, not GNU/Linux.\r\n\r\nThere is difference.\r\n\r\nMerc."
+-
+    name: lupus
+    mail: ''
+    subject: 'Floola Super efficient'
+    hostname: 194.199.4.101
+    created: '1245240577'
+    body: "I use Floola for a long time after trying many others. It installs directly on your Ipod, it's free, lightweight, simple, multi-platform (Mac OS X, Windows, Linux). Super efficient. In addition, it can directly convert the videos (eg youtube) in readable format the ipod. A good tutorial here: http://www.pierre-jouanneau.com/02_ang.html\r\nbest regards"
+-
+    name: dwightmlee
+    mail: ''
+    subject: 'I just tried SharePod'
+    hostname: 68.54.195.207
+    created: '1254996388'
+    body: "I just tried SharePod and it seems to work OK\r\nDwight M. Lee \r\nCape Coral, FL 33904 \r\n"
+-
+    name: memento58
+    mail: ''
+    subject: 'And it''s worked really well'
+    hostname: 202.56.7.139
+    created: '1263584947'
+    body: "And it's worked really well for me. In fact, I really think if you're not going to use Xmms, you might as well use Amarok. It just feels nicer for everything, but that's just my opinion.\r\n\r\n<a href=\"http://www.canedesign.com/web-design.aspx\">miami web design</a>\r\n"
+-
+    name: MarkWaugh
+    mail: ''
+    subject: 'I like to use share pod as a'
+    hostname: 203.128.26.41
+    created: '1282721580'
+    body: 'I like to use share pod as a ipod tunes manger. The best thing about the share pod is that it is user friendly.'

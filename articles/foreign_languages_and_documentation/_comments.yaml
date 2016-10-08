@@ -1,0 +1,7 @@
+-
+    name: stenone
+    mail: ''
+    subject: 'Why bother translate at all ?'
+    hostname: 80.163.49.252
+    created: '1151000703'
+    body: "I come from a damn small language area (Denmark) so I might be biased, but why not keep documentation, manuals and program-GUI's in English?\r\n\r\nProgrammers have to know English anyhow. And people that work with the programmes are usually skilled in English too.\r\n\r\nKeeping documentation, manuals and program GUI's in English will make program production/support costs at a lower level.\r\n\r\nI an not (completely) stupid and ignorant and forgetting that some things like dates and numbers names and other localized data can't be written in English all over the world. But that would be only the exceptions and not the rule.\r\n\r\n<em>P.S. This comment is meant as a starting point for a discussion - not to start a flame war. I know that a lot of people will disagree with me, so speak out...</em>"

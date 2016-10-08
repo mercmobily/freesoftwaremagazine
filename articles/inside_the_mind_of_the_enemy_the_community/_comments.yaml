@@ -1,0 +1,448 @@
+-
+    name: ''
+    mail: ''
+    subject: 'How?'
+    hostname: 130.159.248.44
+    created: '1164113162'
+    body: "How do you think you can get OSS developers to stay in specific time frames?\r\n\r\nThe vast majority of OSS projects don't have such a large base of developers that would allow them to develop in Cathedral-style. After all, they are all doing it in their free time, and the amount of free time people spend on OSS projects needs to stay a free choice, since when it doesn't (like when setting deadlines) most developers will just jump off.\r\n\r\n-Guenther"
+-
+    name: 'Patrick McFarland'
+    mail: ''
+    subject: Eheh...
+    hostname: 70.16.77.112
+    created: '1164154924'
+    body: "Okay, I haven't figured that part out. Smaller projects don't really even apply here. Larger projects /do/ have paid developers. So, I think a combination of getting paid to develop and self-discipline would help.\r\n\r\nIf anyone does figure out how to make this work well, feel free to write about it. I'll be sure to link it in a future article."
+-
+    name: ''
+    mail: ''
+    subject: 'The reason'
+    hostname: 202.6.138.43
+    created: '1164172133'
+    body: "The reason why you reached the same conclusions as ESR is because his coding skills make Gandalf stifle a giggle too.\r\n\r\nSo the simple conclusion is that both you and ESR don't really have any idea what you're talking about.\r\n\r\nI have no idea why you're compelled to comment on this topic, given you freely admit you have no clue.\r\n\r\nAt least you're honest about that, whereas ESR portrays his clueless commentary as divine inspiration.\r\n"
+-
+    name: 'Patrick McFarland'
+    mail: ''
+    subject: Hahaha
+    hostname: 70.16.77.112
+    created: '1164173875'
+    body: 'Wow, my first troll on FSM.'
+-
+    name: ''
+    mail: ''
+    subject: 'The reason (stfu)'
+    hostname: 83.61.200.147
+    created: '1164183671'
+    body: "I just thought I'd mention that Patrick has a point and his troll, is a 13 year old newbie who just learned how to use arrays in C.\r\n\r\nI have been programming for 10 years and I was there before GNOME or KDE came along, I can definietly back this up.  \r\n\r\nGNOME was awful for a long time, it was a horrible hack, GTK back in version 1.x didnt even have double buffering and the performance was atrocious (still is in some ways) and it's only in recent years where GNOME has a vision and a direction has any improvement been made.  To me, it's the best DE you can get, it does what you want, without getting in your way and if you want to do things they didnt plan for, you can do it another way (REAL men don't mind playing with gconf, pussies whine and moan about why there isnt a button in the preferences).\r\n\r\nKDE was the same pretty much, but KDE has consistently improved quite nicely, with or without licence issues (which don't exist anymore)\r\n\r\nCathedral style development can be helpful for a project, but it usually appears in one of two forms\r\n\r\n1) from the beginning\r\n\r\nthis is where the project is created and managed from the outset in this way and never really changes, it only changes to the bazaar way of development when someone forks it and you usually find a less controlled development cycle is representant in the fork.  X.org would be an example of this, but as well as being bazaar style in development, it's also kinda cathedralic, since each team that works has it's own vision and management, it depends on your point of view, look at the tiny details, you see bazaar, look at the big picture, it's usually cathedralic.\r\n\r\n2) since yesterday\r\n\r\nthis is where someone yesterday got pissed off cause the project is going nowhere very quickly and he's got his ideas about where he wants to go and forks the project.  Since he's forked the project, he's going to go in his direction and nobody is gonna stop him. (I cannot think of an example)\r\n\r\nso, ignore the trolls, they don't know anything, they just dislike ESR because someone told them something horrible about him and they believe it, they most likely never formed their own opinion, just read someone else's.\r\n\r\nchris"
+-
+    name: ''
+    mail: ''
+    subject: Benevolent
+    hostname: 32.97.110.142
+    created: '1164199353'
+    body: 'I''d suggest taking a look at Mark Shuttleworth and Canonical if you are looking for a "Cathedra-zaar" approach to FOSS.'
+-
+    name: ''
+    mail: ''
+    subject: 'Did you contradict yourself?'
+    hostname: 69.243.117.230
+    created: '1164218585'
+    body: "The premise of this article seems to be that the bazaar style of development in the FOSS world is a potential danger to the survival of the FOSS community.  Your anecdotal proof is that in the cathedral style of development, projects that don't produce profitable applications die off quickly to be replaced by \"better\" applications (which is a very questionable assertion).\r\n\r\nBut then you go on to use the XFree project and its fork, X.org, as further proof, when in fact, I conclude exactly the opposite.  XFree was usable for a long time.  The project team had disagreements about its management structure and so the code was forked, and the new team is now moving forward on tasks that were stalled before.  In a cathedral (read proprietary) environment, the team would have had to start from scratch (to maintain the metaphor--buy new land and materials, hire architects and contractors, etc.).  In the bazaar (FOSS community), hardly a step was missed.\r\n\r\nThe description of the Gnome project is supported by the fact that the project team performed a major overhaul on the code for version 2.  But I disagree that it supports the assertion that the FOSS community is its own (less than worst ;~) enemy.  All that can be said about it is that if a FOSS project team decides its code needs a major overhaul, then it can, and often will, do exactly that.  Whether that is good or not depends on how much you have invested in applications that also have to be overhauled for the new version.\r\n\r\nI believe that you have overstated the case against the bazaar methodology.  It is true that the bazaar style of development is less ordered (some would say messier).  But the process works overall, as the many high quality FOSS applications prove.  And the many other advantages that go with the system--such as a low barrier to entry, longevity of successful projects, transparency, etc--are strong arguments in favor of supporting the system as is.\r\n"
+-
+    name: 'Patrick McFarland'
+    mail: ''
+    subject: Well...
+    hostname: 70.16.77.112
+    created: '1164235516'
+    body: "Except Mark and friends don't exactly develop software in the usual way. Most of their contributions are simply improvements, not exactly the whole entire application from the ground up kind of thing I was looking for.\r\n\r\nThat said, its close enough to use as a future example."
+-
+    name: ''
+    mail: ''
+    subject: 'The Real Cathedral and the Bazaar'
+    hostname: 63.105.17.30
+    created: '1164239647'
+    body: 'I find it much more likely to read ESR''s essay as a condemnation of the GNU project''s development style.'
+-
+    name: ''
+    mail: ''
+    subject: Troll2
+    hostname: 64.139.37.123
+    created: '1164239802'
+    body: "I had thought GNOME was an alsoran because Sun got involved with the foundation (see Mozilla).\r\n\r\nLearn something new every page."
+-
+    name: ''
+    mail: ''
+    subject: 'You don''t necessarily need'
+    hostname: 74.227.127.44
+    created: '1164240125'
+    body: "You don't necessarily need more resources if you used brief cathedral style releases. I agree that there may not be enough developers on a given project to sustain this long term, but as an example, if you briefly assigned a new \"benevolent dictator\" who *did* have the time to contribute, the same core developers would put in the same amount of time they normally would put in. They just do it against this leader's list, instead of their own. To say that F/OSS has to be freewheeling to be free, re-enforces the false notion that it's wild and unpredictable--and worse, that it's in its nature to remain so.\r\n\r\nIt doesn't have to be \"I say Johnny must develop threading, and Billy must develop asynchronous I/O...\" instead you could say \"We need threading and asynchronous I/O\" by March, Johnny and Billy may still be the main contributors, but if they can't be, it's on the \"hit list\" for anyone to take a whack at it. Then rather than lose the power of the collaborative devel environment, as you would in a true Cathedral where only Johnny *is allowed* to develop threading, you keep the F/OSS magic, gain the control and predictability or a Cathedral build. \r\n\r\nJust as many closed source companies have adopted the F/OSS methodoligies within their ranks, even though the licensing is not F/OSS.\r\n\r\nIt's still a choice to participate in this or not. But don't assume that all projects are alwasy done by volunteers in their spare time. Anyone who develops knwos that it always happens in fits and starts of inspiration and work. External deadlines only add stress, and the mild notion of cohesion. You need them, for example, when you have a worldwide marketing push behind a release, and you need to know if x fature is going to be in by a certain date, or not. \r\n\r\nDone well, you can do it with *less* resources than a pure F/OSS or pure Cathedral environment would.\r\n\r\nThis also solves the problem that all engineers are not dyed in the woll code poets. Some actually need to be given a task. In a hybrid model, those folks can chip in, without having to be super creative as well as a competent engineer.\r\n\r\nSo, in the case that Patrick puts forth, you have a mutually agreed to Cathedral-style build. I agree that you are the benevolent dictator for three months, and you say \"these are the 5 things we will have by then\". At the end of the three months, we either have what we agreed to or we don't. The bonus is that we don't have all the Cathedral's shareholders pissed at us if we miss the mark.\r\n\r\nLinus is in charge of the kernel, but he hands off the stable tree to someone else (Alan Cox, Andrew Morton...) and has a core group of sub-dictators that do in fact set the agenda for those outside the core group. Another is Keith Packard's efforts in X.org, if he hadn't taken a leadership role, stating \"this whole thing needs to go this other way\" we'd still be watching XFree86 rot from within.\r\n\r\nRed Hat is another example of a living in both worlds. RHAT has to have a pre-announced schedule for their paying customers. How do they ensure that these features will be in without forking? Partly by allowing the upstream developers to do their thing and packaging/marketing the output, and partly by paying folks to do the work they want done.\r\n\r\n--jeremy"
+-
+    name: ''
+    mail: ''
+    subject: 'Changes for changes sake'
+    hostname: 24.99.137.146
+    created: '1164240560'
+    body: "I tend to agree with some of what the author has stated in his article.  I have worked with a number of other UNIX operating systems and find working with Linux to be fustrating in the very least.  On IRIX, Solaris or Unicos/MP I can count on  in an emergency situation certain pieces of software always being configured in a certain way because they are core parts of the operating system.  Linux all bets are off as each distro has its \"own way\" of doing low level important functions. In a mixed enviroment datacenter this can become somewhat of a challenge.  \r\n\r\nInstead of reinventing the wheel hundreds and hundreds of times why not really innovate?  In some cases I'm almost certain that the \"development\" that the OSS community does is just moving around files and recofiguring things out of political need rather than functional need.  "
+-
+    name: ''
+    mail: ''
+    subject: 'An image of herding cats'
+    hostname: 66.15.211.4
+    created: '1164240800'
+    body: 'An image of herding cats springs to mind :)'
+-
+    name: ''
+    mail: ''
+    subject: 'You don''t necessarily need'
+    hostname: 74.227.127.44
+    created: '1164240843'
+    body: "You don't necessarily need more resources if you used brief cathedral style releases. I agree that there may not be enough developers on a given project to sustain this long term, but as an example, if you briefly assigned a new \"benevolent dictator\" who *did* have the time to contribute, the same core developers would put in the same amount of time they normally would put in. They just do it against this leader's list, instead of their own. To say that F/OSS has to be freewheeling to be free, re-enforces the false notion that it's wild and unpredictable--and worse, that it's in its nature to remain so.\r\n\r\nIt doesn't have to be \"I say Johnny must develop threading, and Billy must develop asynchronous I/O...\" instead you could say \"We need threading and asynchronous I/O\" by March, Johnny and Billy may still be the main contributors, but if they can't be, it's on the \"hit list\" for anyone to take a whack at it. Then rather than lose the power of the collaborative devel environment, as you would in a true Cathedral where only Johnny *is allowed* to develop threading, you keep the F/OSS magic, gain the control and predictability of a Cathedral build. \r\n\r\nJust as many closed source companies have adopted the F/OSS methodologies within their ranks, even though the licensing is not F/OSS.\r\n\r\nIt's still a choice to participate in this or not. But don't assume that all projects are always done by volunteers in their spare time, or that Cathedral bulding means all engineeers are turning in exactly 8 hours worth of code per workday. Anyone who develops knows that it always happens in fits and starts of inspiration and work. External deadlines only add stress, and the mild notion of cohesion. You need them, for example, when you have a worldwide marketing push behind a release, and you need to know if x feature is going to be in by a certain date, or not. \r\n\r\nDone well, you can do it with *less* resources than a pure F/OSS or pure Cathedral environment would.\r\n\r\nThis also solves the problem that all engineers are not dyed in the wool code poets. Some actually need to be given a task. In a hybrid model, those folks can chip in, without having to be super creative as well as a competent engineer.\r\n\r\nSo, in the case that Patrick puts forth, you have a mutually agreed to Cathedral-style build. I agree that you are the benevolent dictator for three months, and you say \"these are the 5 things we will have by then\". At the end of the three months, we either have what we agreed to or we don't. The bonus is that we don't have all the Cathedral's shareholders pissed at us if we miss the mark.\r\n\r\nLinus is in charge of the kernel, but he hands off the stable tree to someone else (Alan Cox, Andrew Morton...) and has a core group of sub-dictators that do in fact set the agenda for those outside the core group. Another example is Keith Packard's efforts in X.org, if he hadn't taken a leadership role, stating \"this whole thing needs to go this other way\" we'd still be watching XFree86 rot from within.\r\n\r\nRed Hat is another example of a living in both worlds. RHAT has to have a pre-announced schedule for their paying customers. How do they ensure that these features will be in without forking? Partly by allowing the upstream developers to do their thing and packaging/marketing the output, and partly by paying folks to do the work they want done.\r\n\r\n--jeremy"
+-
+    name: ''
+    mail: ''
+    subject: 'its probably true. You'
+    hostname: 81.129.123.50
+    created: '1164241102'
+    body: 'its probably true. You didn''t sound like you understood wtf you was talking about. ESR is a joke too- what did he make? Shitty fetchmail, gpsd?'
+-
+    name: ''
+    mail: ''
+    subject: 'An example'
+    hostname: 205.159.99.234
+    created: '1164242452'
+    body: "Check the FreeBSD fork to DragonflyBSD my Matt Dillon.  He was convinced the FreeBSDers were going the wrong way toward SMP.  He tried to persuade them, they cancelled his commit privs (can't play nice with others) and he forked.\r\n\r\n-crl"
+-
+    name: ''
+    mail: ''
+    subject: 'Richard S. Stallman??'
+    hostname: 66.11.174.116
+    created: '1164242679'
+    body: 'typo?!'
+-
+    name: ''
+    mail: ''
+    subject: 'Unix Tools'
+    hostname: 129.171.128.66
+    created: '1164243040'
+    body: 'The Bazaar works particularly well for project that are composed of unix style small tools. A grammar is setup initially, everyone builds all kinds of little tools searching the space that can be put together, and the useless parts drop out. The problem for gnome, kde, openoffice, is that big graphical "environments" aren''t really modular in the same way, that say apache can be. They can''t have small interfaces; they''ve got to be these big object interfaces with big objects that hook everything together constantly, so that the end-user doesn''t need to understand the toolkit. The pattern has been clear for a decade: build a project where the user''s are experts, and you can break it into small interfaces, and depend on your users to put it together: apache, the kernel, shells, programming languages. Try to put it in one black box so that naive users who don''t want to learn a toolkit, and instead want an interface, and the bazaar approach is painfully slow, as the entire structure has to be adapted to the space search.'
+-
+    name: ''
+    mail: ''
+    subject: '"Cathedra-zaar"'
+    hostname: 209.78.90.242
+    created: '1164243312'
+    body: 'I think this was the road Novell was starting to travel until the ugly hunch-backed bean counters got their hands in it.'
+-
+    name: admin
+    mail: ''
+    subject: 'What typo?'
+    hostname: 203.59.181.110
+    created: '1164243396'
+    body: "Just joking. Thanks for spotting that one.\r\n\r\nFixed."
+-
+    name: ''
+    mail: ''
+    subject: 'FOSS can ruin your career'
+    hostname: 137.150.34.74
+    created: '1164244191'
+    body: "like it did mine: people blame YOU for problems in FOSS software, since there is no company to blame. You'll get instance experts combing through the source code and criticizing every line and every decision you made. They can't do that if you use Microsoft. \r\n\r\nDo a complete code audit on any open source tool you plan to run, if you can't/don't have time, don't install it because at some point someone is going to find something ugly in the code and blame you for it, and use it to destroy your career so that they can get ahead.\r\n\r\nCommercial code is safer, because you CAN'T look at the source, no one expects you to, and they and you can blame the vendor for bugs and holes.\r\n\r\nRemember, most people want to blame someone for problems (we have a cultural/biological fixation with blame), there <em>will</em> be problems with software (b/c it is all pretty much junk, OS and COS), and if there is no company/vendor to blame, someone at sometime (probably soon)is going to blame YOU.\r\n\r\nI've been amazed and flabbergasted myself at how prickly some open source coders can be, people who's job was <strong>created</strong> by the decision to use OS at a place turn around will turn around and attack the people who made OS happen at an  place, and because it's open source, they can..."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I don''t think free software is ever "replaced"'
+    hostname: 68.93.224.4
+    created: '1164244310'
+    body: "It's more like it gets recycled. Things get worked into new projects.\r\n\r\nI'm not sure that Linux will ever be \"replaced\", though I have a strong feeling that it will evolve into something that will no longer be recognizable as the thing we call \"Linux\" today (perhaps every single line of code will be new, but it won't have happened in one ‘replacement event’, but rather over the course of time).\r\n\r\nFree software permits this kind of organic growth, whereas proprietary software development is in isolated bursts. Proprietary software developers spend a lot of time ‘re-inventing the wheel’, because they can't just grab code from the pool to start with. Even when a free software project dies, it still leaves a body of code which some similar project may opt to plunder for ideas if not actual lines of code. It's rare to start a project and not find <em>some</em> piece of it already written for you. Sometimes you re-write it anyway, but you have an original idea to work from.\r\n\r\nYou don't really engineer free software the way you do a proprietary project. Instead, you plant a seed, and encourage it to grow.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'in time'
+    hostname: 137.186.176.108
+    created: '1164247183'
+    body: "I think that the special thing about Ubuntu is that it is developed in a kind of hybrid \"Bazaar Cathedral\".  It's as bizarre and creative of an idea as code names such as \"Dapper Drake\".  A well-dressed duck is quite a progression from the carbuncular wild pig of \"Hoary Hedgehog\".\r\n\r\nAt any rate...\r\n\r\nOne of the most interesting cathedrals in the world is Notre Damme à Chartres.  From what I understand it was quite the community project.  For example, there was an entire guild dedicated solely to hauling water up the hill from the river.  Have you ever heard of a \"software cathedral\" memorializing such a utilitarian job as water hauling to the scale of an entire stained glass window, visible to all after just walking in?\r\n\r\nCommunity is the material out of which change comes.  Also, it the the community which actually causes the change.  Can any truly large project be completed by a single man or committee?  The community is important even to the \"cathedral\" model of software development.  A team (or sub-team) must function as a community for the Product to exist as a coherent whole.  It is imperative that software cohere for two reasons.  First, incoherent software is incoherent to its users, thus isn't useful.  Code which is incoherent to the limit doesn't compile.  Code which meets the minimum requirements for the language may compile, but doesn't run well.  Perhaps I am biased, but it seems to me that the vast majority of software is designed to actually be executed, and as such I'd like to limit the scope of my definition of software to *runnable* software.  Perhaps someone exists who writes a kind of post-modern \"program\" which is only useful as a poster, or wallpaper, or something...\r\n\r\nBack to Ubuntu though:\r\nIt seems as if Mr. Shuttleworth is the architect.  I think that it's interesting that the fiscal patron of the \"Bazaar Cathedral\" is named Canonical.  The Ubuntu project is divided into guilds which anyone can join.  One could say that the Ubuntu Cathedral is being built out of raw materials provided by the entire GPL software <i>topos</i>.  Debian can be seen as the bazaar where tier two materials are purchased (pre-made glass, already quarried rock, etc.); after this, the Ubuntu project dyes, carves, polishes, etc. the Debian goods.  I'd write more, but this is getting kind of long.  Basically, I think that the Ubuntu project isn't really a \"new thing\"...it's an application of a time-tested model.  Mind you, though most GPL programmers work for free, they're definitely not serfs!\r\n\r\nSomething cannot be created out of nothing.  If easily workable source material can be had for free (as in beer, and freedom...), then one ought to both complete the job quicker by utilizing it, and honor the work of the original author by showing everyone that his or her work is worth using.\r\n\r\nHmm, this is worth keeping.  I've archived my post here:\r\nhttp://members.shaw.ca/nick.steeves/pensees/a_bazaar_cathedral.html\r\n\r\nNick Steeves"
+-
+    name: 'Patrick McFarland'
+    mail: ''
+    subject: Yuck
+    hostname: 70.16.77.112
+    created: '1164247384'
+    body: 'Maybe I wrote about the wrong thing. Inter-project politics are the enemy... in fact, I may write about this in a future article if I can enough for an article on this.'
+-
+    name: 'Patrick McFarland'
+    mail: ''
+    subject: 'Possible contradiction'
+    hostname: 70.16.77.112
+    created: '1164248327'
+    body: "... although I didn't mean to. GNOME's redirection was a Cathedral choice in that the heads of the team had to (basically) enforce this choice; \"No more crap in the tree until the rest of this crap gets shoveled out,\" in essence.\r\n\r\nKeithp's choice to fork was more of a Hybrid choice, because it was lower in the chain of the command Cathedral isn't the right description for it. Dawes decided to screw over XFree86 over ego/political issues, and Keithp forked and ran his project in a hybrid style for a short time.\r\n\r\nThe Cathedral/Bazaar metaphor falls apart in situations like this. The tech industry is dominated by businesses who have small yet powerful development teams: no inter-office politics, no stupid PHBs, no metric tons of bullshit. Some of the best commercial software has been written in environments like this; coincidently, thats the closest similar work-flow I can find.\r\n\r\nAlso, I wasn't exactly making a case against Bazaar, more of a case that this isn't a black and white thing. With new-GNOME and X.org as examples, hybrids do seem to work well for short periods of time; it just happens that Bazaar and 'False Prophet' (ie, anti-Linus) is what screwed them up in the first place.\r\n"
+-
+    name: 'Patrick McFarland'
+    mail: ''
+    subject: 'Er, whoops'
+    hostname: 70.16.77.112
+    created: '1164248426'
+    body: 'Sorry Richard! Didn''t mean to typo your name there!'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Sounds like you had a really bad experience'
+    hostname: 68.93.224.4
+    created: '1164250066'
+    body: "Sounds like you had a really bad experience, but I've never encountered any kind of trouble like that. I suppose it depends on the organization.\r\n\r\nAny organization that spends more time on assigning blame than on solving the problems is going to be a terrible place to work, no matter what software you use, though.\r\n\r\nOf course, these are all reasons why I have gravitated to being self-employed or working in very small organizations, where the politics are easier to manage.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Pogo said it first...'
+    hostname: 71.223.68.28
+    created: '1164250089'
+    body: '<a href="http://upload.wikimedia.org/wikipedia/en/thumb/4/49/Pogo_-_Earth_Day_1971_poster.jpg/300px-Pogo_-_Earth_Day_1971_poster.jpg" >them is us</a>'
+-
+    name: ''
+    mail: ''
+    subject: 'You are correct'
+    hostname: 68.62.87.131
+    created: '1164250560'
+    body: "This article is very true and many open source developers should listen.\r\n\r\nWhat I have noticed is that the only OSS projects that actually have succeeded have a corporate style of management (most are now backed by large corporations).\r\n\r\nI think it's just human nature.  When you have a ton of people moving in a bunch of different directions, the project suffers.  You need a few people to keep the vision going and cut through all of the BS/code that should not be added to the main base.\r\n\r\nIf you take a look at sourceforge and freshmeat, you can see a countless number of failed projects that do not follow these practices.\r\n\r\n\r\n\r\n\r\n\r\n----------------------------------------\r\nHigh Performance PHP\r\nhttp://www.jaslabs.com\r\n----------------------------------------"
+-
+    name: ''
+    mail: ''
+    subject: Wrong
+    hostname: 62.252.32.15
+    created: '1164255522'
+    body: "The whole strength of FOSS is it's disoraganisation: progress is Darwinian. This may seem inefficient, but it ensures we don't all charge off the same cliff like lemmings. Leaders lead only for as long as they do so well. If they are poor leaders, and the project is not useful, it dies (though useful parts of the code are likely to be picked up). If the project is useful, a better leader takes developers with him in a fork.\r\n\r\nThe fact is that there are no shortage of poorly led projects in the commercial world, with just as much wastage.\r\nVista anyone? And what happened to the WFS that was supposed to underpin it?\r\nBTW, what did happen to  Duke Nukem Forever?\r\n\r\nNeed I go on? I can if you like."
+-
+    name: ''
+    mail: ''
+    subject: 'The system works'
+    hostname: 203.118.156.111
+    created: '1164255700'
+    body: "Your examples of why Free Software can be bad are in fact examples of why it's so good. So GNOME is having trouble? That's why we have competition in the form of KDE. XFree86 trapped by obstructionists? The XOrg fork soon solved that problem. RMS and the FSF have themselves been on the receiving end of this \"Free Software Justice\"--look at the glibc/libc business, GCC vs EGCS, and Emacs vs XEmacs. At least they learned their lesson from some of those instances. Similarly, Linus Torvalds remains head of the Linux kernel project only as long as he maintains his credibility among the community: if he ever tries to pull a David Dawes, the kernel will fork, faster than you can say \"BSD\".\r\n\r\nLawrence D'Oliveiro"
+-
+    name: ''
+    mail: ''
+    subject: 'OpenBSD ruled'
+    hostname: 206.248.136.39
+    created: '1164257349'
+    body: "By Theo...\r\n\r\nBazar like in a Cathedral.....  In fact.  i really dislike using Linux for the same reasons outlined in the article.  It's a hack.  There is little consistancy, undiciplined and it's a project management nightmare.  While it hold true evolutionary development, it truly lacks guidance under poor leadership.  The community needs this.  While some some of Linux works, other parts just blow up dismally.  Ever try to install a USB printer?  \r\n\r\nThe OpenBSD model is a nice balance.  Theo has imposed a working philosophy, and has found like minded people who agree and work together.  I like how all modern daemons are re-written now to follow a strict code audit and also a working admin approach.  OBSD is organized to be consistant and workable.  It just works.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Care and Feeding of FOSS'
+    hostname: 70.167.125.69
+    created: '1164257660'
+    body: "Excellent article.  You might find one that I wrote, which has been widely read and circulated (I think something like 100,000 downloads to date) to be interesting and relevant, as it takes an in-depth look, and perhaps answers, the core question you raise here.  Well, OK, I don't have an answer, but rather a way to predict which FOSS projects will stay focussed and which will wander and fade.  Anyway, I hope you'll check it out:\r\n\r\n    http://www.moonviewscientific.com/essays/software_lifecycle.htm\r\n\r\nCraig James\r\ncjames (at the domain) moonviewscientific (with a dot) com"
+-
+    name: ''
+    mail: ''
+    subject: 'I thought...'
+    hostname: 190.37.180.57
+    created: '1164258136'
+    body: '...that is what Red Hat, Ubuntu, Mandriva and Suse where for... Suse in one hand did a great job with versions 9 and 10, but then they made that deal with Microsoft! Come on Suse, drop Microsoft, there is still hope for you!'
+-
+    name: ''
+    mail: ''
+    subject: Wrong
+    hostname: 190.37.210.46
+    created: '1164258219'
+    body: "Patrick McFarland needs to get some things right.\r\n\r\n<cite>Richard M. Stallman (also known as RMS, the patron saint of the Church of GNU</cite>\r\n\r\nGNU isn't the church, is Emacs. More specifically, St. Ignucius of the Church of Emacs"
+-
+    name: ''
+    mail: ''
+    subject: 'Open-source cathedral'
+    hostname: 128.189.135.14
+    created: '1164259136'
+    body: 'The Open Source Applications Foundation is an open-source cathedral.'
+-
+    name: ''
+    mail: ''
+    subject: 'more reasons'
+    hostname: 24.23.185.56
+    created: '1164259728'
+    body: "In no particular order:\r\n\r\nNot learning from mistakes.  For example: if you've used/developed for X-Windows and other window systems, you know that X is fundamentally broken in many places (\"a good idea for the 80’s, and still is\").  But the OSS community keeps going back to it, while professional developers laugh and avoid it like the plague (it should have been an EX-Windows 15 years odd ago).  Sometimes, things are so fundamentally flawed that they should be thrown out.   If you don't throw the mistakes out, new developers assume that they're being used because they're good, then they repeat the mistakes.\r\n\r\n\r\nNot understanding your customers.  Do customers want ease of use, or do they want lots and lots of features?  Do they want reliability, or a RUBY interface?  Until OSS developers learn how to write software for someone other than themselves, OSS is not going to see widespread adoption outside of it's current audience (which happens to equal the developers).  If customers tell you that they need something, and you don't understand it -- work with them until you do understand it.   If you compare yourself to a commercial software package and users laugh – you might not understand the software or the users well enough to make that comparison (and have a lot of coding left to do).\r\n\r\n\r\nNot enforcing standards.  I'm not talking ISO here, just coding practices.  Things like \"crashes should never be allowed to happen\", which implies things like checking all error return values, checking for bad pointers, using something other than the C assert function (which just crashes the app), using C++ exceptions correctly, etc.  Or \"everywhere there is text, it must handle Unicode correctly\" (kind of essential for handling languages other than your own).  Or the old file format rule of \"write strict, read permissive\".  A lot of these should be common sense.  But many of the inexperienced developers working on OSS don't know this stuff.  And it shows in the final result.\r\n\r\n\r\nReinventing the wheel.  Hey, do I have to explain this one?  I mean, have you looked at a list of SourceForge projects lately?\r\n\r\n\r\nAssuming that if it's good enough for your thesis, it's good enough for everyone else.  It never is.  Too many OSS projects start this way and never get better.  Proof of concept code is maybe 5 to 10 percent of what it takes to make shippable code.\r\n\r\n\r\nLack of testing.  Ok, in theory everyone using your software is testing it.  But are they all trained to find, reproduce, and document bugs?  Are they going to report the bugs at all?  And if they do, will they really give you what you need to reproduce the bug and fix it?  Sometimes this can be solved by adding unit tests.  And sometimes you need a partner to sit down and find every edge case that you missed, and every OS bug that you need to work around (or report!).  And how many OSS projects have been tested against other applications and other projects?  Just because your code can read the file you wrote doesn't mean that everyone else's code can read it (too much incestuous testing, not enough free love testing).\r\n\r\n\r\nThinking that OSS is inherently better just because it's OSS.  Sorry, but you've got to get over yourself.  Just because it's free and 800 highschool kids contributed to it does not make it better.  Of course, the reverse is true - but commercial software that sucks doesn't last long (without a monopoly and massive marketing engine behind it, of course).  Unfortunately, OSS software that sucks keeps getting updated, then branches, then updated for new OS releases, then branched again, a few features added, then 20 similar projects start up (after that, see the first paragraph) and everyone involved goes to slashdot and whines about it.\r\n\r\n\r\n\"I invented it, so it must be the best\".  Yeah, and there's nobody on the planet smarter than you or with a bigger, um, idea than you.  This is a frustratingly common pattern in the OSS world.\r\n\r\n\r\nLack of incentive.  Why would I spend my own time on an open source project when I could do the same thing and get paid for it?  Why would I give up the potential profits from my ideas when I could keep them proprietary and make more money?  Why deal with a bunch of inexperienced programmers when I could work with a team of professionals and have additional resources available?  These fundamental issues have yet to be solved.\r\n \r\n\r\nThinking of commercial software as the enemy.  They're really not.  Especially when OSS isn’t competing with them yet.  Do you know how many of them contribute to OSS?  Do you know how far out of their way some commercial developers go to support OSS projects?  A few of you might, but the OSS community as a whole seems to think it's \"us versus them\", not \"us and them\".\r\n\r\n\r\nYes, the OSS community is it's own worst enemy.  But there are many reasons for that.  And they're not going to change overnight.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Zombie Projects'
+    hostname: 66.189.35.129
+    created: '1164260999'
+    body: "I didn't read all the comments, but one thing that I did have to comment on was  in regards to this sentence:\r\n\"Bazaar-style development allows projects to be in a zombie state for long periods of time, where it is vastly expensive for a Cathedral-style project to do the same.\"\r\n\r\nA good amount of those zombie projects prove to be the foundation for something better. Alot of failed Cathedral ideas never make it into the public, thus have no chance of ever being anything. Since GNOME was mentioned, I think Xfce4 would help explain what I mean.\r\n\r\n- goon12"
+-
+    name: ''
+    mail: ''
+    subject: 'The real problem is the attitude'
+    hostname: 196.25.255.210
+    created: '1164261105'
+    body: 'I read, I see, I understand.  I''ve been a LINUX user and developer for a very long time.  And, even now that I think I can find my way around FOSS, I still really have to be bogged down to ask the community any questions.  You always get either snotty remarks, or some-one on a crusade against Apple/Microsoft/IBM/Novell/etc. (make your pick).  So, the problem is not the products, but the community holds new ideas and fresh blood away with one thing: ATTITUDE!'
+-
+    name: ''
+    mail: ''
+    subject: Thanks
+    hostname: 195.52.122.81
+    created: '1164265476'
+    body: 'At least *someone* said what I was thinking the whole time! The FOSS community has proven more than once that it is able to handle crazy idiots and jumping neurotics. The latest example of this healthy self-regulation is the cdrtools/cdrkit fork. Kudos to Debian, to hell with you disbelievers! ;-)'
+-
+    name: ''
+    mail: ''
+    subject: 'Wow great minds and fools eh !'
+    hostname: 82.68.164.22
+    created: '1164266340'
+    body: 'Patrick, there I was reading the same Blog entry and posting a short response on Marks blog when I realised I also had more to say about foss than would fit into the comments. Your right to make the comments and I can see that many of the responses are either right out Trolls or indepth technical issues about what the problems are. Ignoring the trolls is simple but the Technical discussions ironically highlight a weakness. The community is driven by standards over peer pressure and delivery. Very often things just grind to a halt under stop energy or overplanning which consumes more time and energy. Mean while the market share for the hearts and minds of consumers is being won by MS because its prepared to talk about ideas and concepts and encourage people to feel safe a happy if they continue to use MS software. Anyway I blogged up the whole thing myself at <a href="http://www.loudmouthman.com">LoudMouthMan</a> and I''ll link back here as a pointer.Your spot on about the community however I would like to have the optimistic belief that we are a great crowd of smart people that we will be able to fix this soon, oh and I just noticed that I need to Login to post with my own details, so this was Nik Butler, The Loudmouthed Man and another Linux Evangelist.'
+-
+    name: ''
+    mail: ''
+    subject: 'Edge of Chaos'
+    hostname: 207.118.103.14
+    created: '1164268974'
+    body: "Over in the complex systems world there's an idea called \"edge of chaos\".  In a number of experiments, systems seemed to maintain the most \"information\" if they have some structure, but not too much.  Too much structure ends up frozen.  Too much randomness ends up chaotic.  The most interesting systems are those that are working right at the edge of chaos.\r\n\r\nEadwacer"
+-
+    name: ''
+    mail: ''
+    subject: 'Leadership needn''t to be either pure bazaar and pure cathedral..'
+    hostname: 212.76.37.162
+    created: '1164271379'
+    body: "Real open source leaders DON'T do cathedral-style development.\r\nThey rather spearhead and advise and conciliate, but not necessarily assign tasks\r\nnor decree a particular architecture.\r\n\r\nPlease DON'T mistake good FOSS leadership skills with bankrupt cathedralism.\r\nThe hierarchy doesn't work, for problems that are complex enough."
+-
+    name: ''
+    mail: ''
+    subject: 'Ubuntu fits the mold'
+    hostname: 69.92.61.110
+    created: '1164274605'
+    body: "I very much agree with your observation of one of the biggest problems with the FOSS software and community.  I have followed a couple of free software projects, and I crave for better organization, better leadership, better vision.  You said,\r\n<cite>someone with vision (corrupt or not) would control a project, driving development behind it, and have the project reach goals in specific time frames.</cite>\r\nI agree with a <a href=\"http://www.freesoftwaremagazine.com/blogs/inside_the_mind_of_the_enemy_the_community#comment-37057\">previous comment</a> that <a href=\"http://ubuntu.com\">Ubuntu</a> seems to fit the solution you describe.\r\n\r\nI hope that more people will become benevolent overlords like Linus and visionary men like Shuttleworth. Maybe I can do that.  Maybe you, the reader, can do that.\r\n\r\n-James"
+-
+    name: ''
+    mail: ''
+    subject: Link
+    hostname: 139.184.30.18
+    created: '1164280984'
+    body: "When people complain about such things then provide a link, 99% of the time it turns out that they were a dick.  People go into a channel, complain how \"crap and shit\" something is, complain nobody helps them, then go away to complain loudly.\r\n\r\nSo, to prove me wrong, please provide a link."
+-
+    name: ''
+    mail: ''
+    subject: 'OSS development'
+    hostname: 194.128.20.36
+    created: '1164285351'
+    body: "If anyone does figure out how to make this work well, feel free to write about it. I'll be sure to link it in a future article.\r\n\r\nHave you seen http://producingoss.com/\r\n\r\nThis is just on that subject.\r\n\r\nregards DaveP"
+-
+    name: ''
+    mail: ''
+    subject: 'The community''s ennemy is the community'
+    hostname: 87.66.144.203
+    created: '1164288685'
+    body: "I'd like to draw a parallel to a different story, but the headline still applies IMHO, even if drifting somewhat away from the Cathedral-vs-Bazaar.\r\n\r\nFor this whole Novell-MS deal thing, the \"community\" has thrown more FUD, assumptions out of their a^Hhead, flaming and distro-war than anyone from, say, MS (including Ballmer).\r\n(and +1 to \"the real problem is the attitude\")\r\n\r\nAnd I really mean that. Most articles, blog posts, IRC poisoning are based on rumors, statements that are contradicted by what Novell has posted about the deal, sheer paranoia, and some sort of hatred against anything that's not Debian (see Bruce Perens).\r\nYes, there are some concerns wrt GPL3 and a few details that should get some more light, but the reactions have been kneejerking and napalm almost everywhere.\r\nBut that's not the topic, I have no intention to open yet another flaming thread about this one, just citing it as an example. The same applies to the Sun-MS deal earlier this year, but to a lesser extend.\r\n\r\nClueless trolls are enemies of the community, both by their flaming against other projects (e.g. Debian vs anything else, GNU vs Opensource, GNOME vs KDE, python vs ruby, and whatnot) and by their childish attitude towards non-FOSS (often non-GNU) projects, products and companies in the IT.\r\nThere is even a person who has been attacked at an Linux/FOSS meeting he organized in France, just because he's also taking care of a Novell User Group.. and I mean attacked, \"physically\", for real, also getting insulting phone calls at night, etc...\r\n\r\nAnd I really do think that responsibility has to be taken by some of the \"voices of opensource\" (citing an article on zdnet or something). RMS and ESR have extreme opinions. That's fine, it's important to have people taking care of the libre-ness of software, being some sort of guides to some people and being the one end of a sane and realistic balance.\r\nThen you have other people who are more balanced, like Linus. That's fine too, we need all of them.\r\n\r\nJust keep in mind that there is no such thing as a \"FOSS community\". Everyone has her own reasons for using, contributing to and possibly advocating FOSS. Ethical, technical, free as in free beer, being part of a movement, world domination, because you make business with it, whatever. Hence you will always have many different point of views, opinions, and preferences. The point is: respect that.\r\n\r\nThe problem is just that some people take words as a religion and don't make up their own opinion, like taking every word from Bruce Perens for granted, whatever qualification he has to speak out about a project and distribution he never used, never contributed to, regardless of the fact that many people contribute their free time and efforts into this project for the good of everyone (yes, I mean openSUSE), deserving the same credit and respect as people who contribute to, say, Debian or Ubuntu.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Ridiculous
+    hostname: 194.203.201.92
+    created: '1164289229'
+    body: "Your comment is ridiculous, because each \"Linux distribution\" is in fact a separate operating system; RedHat and Debian may share a kernel and substantial quantities of other code but they are different systems and you cannot expect them to work identically, just as you don't expect IRIX and Solaris to work identically even though they are both Unix.\r\n\r\nI suggest that there is someone in your organisation who doesn't understand this and they are to blame for your mixed environement data center challenge, not the Free Software community or \"Linux\"."
+-
+    name: ''
+    mail: ''
+    subject: 'Needs explanation.'
+    hostname: 194.203.201.92
+    created: '1164289767'
+    body: "How is there no company to blame? If you install RedHat AS, you can blame RedHat. If you install Ubuntu, you can blame Canonical.\r\n\r\nIf you choose to install Gentoo, then of course there's no company providing support (that I'm aware of), and you are where the buck stops.\r\n\r\nIf you make the decision to install any software, proprietary or Free, then you have to live with consequences of your decision, it's not the fault of the software, the developers or the community... you sound like a teenager, \"it's not fair, I didn't do it\". If it wasn't your decision to install whatever piece of unsupported software ruined your career, then it was your place to defend yourself appropriately. It's no-one else's fault that you were unable to do so."
+-
+    name: ''
+    mail: ''
+    subject: 'Torvalds judgement perfect? Wrong.'
+    hostname: 68.37.169.63
+    created: '1164290164'
+    body: "Claiming Torvalds has good judgement borders on making religious propaganda. \r\n\r\nWhat he thinks is 100% vital is not what other people think is, but he refuses to be flexible.\r\n\r\nTherefore Torvalds is NOT a belevolent leader or dictator, he's a little George Bush.\r\n\r\nBush said \"You're with us or against us.\"\r\n\r\nTorvalds and his ilk have said the same many times...\r\n"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'Community?'
+    hostname: 69.180.163.110
+    created: '1164294893'
+    body: "<em>Just keep in mind that there is no such thing as a \"FOSS community\". Everyone has her own reasons for using, contributing to and possibly advocating FOSS. Ethical, technical, free as in free beer, being part of a movement, world domination, because you make business with it, whatever.</em>\r\n\r\nI'd be curious to hear your definition of a community.  We're all separate people with our own motivations, but we have a common interest in free and open software.  We can respect that people have different opinions and preferences, but does that mean we can never make a value judgment?\r\n\r\nI don't condone trollish, bullying kinds of behavior.  We absolutely should be civil in these discussions.  (See: Others may have different opinions about what an acceptable objection or protest is, but I'm making a value judgment about which is preferable, just as you did.) :-)\r\n\r\nSimilarly, as a business analyst who knows many other analysts that are smart, decent people with good values, I object to Patrick's simplistic characterizations of the group as a whole. I don't think it lends credibility to our movement to make careless remarks such as that analysts are \"simply the ugly hunch-backed minions of the Bad Guy.\"  I'm not personally offended--I just cringe at how that reads to other people.\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: 'Pascal Bleser'
+    mail: ''
+    subject: 'Re: Community ?'
+    hostname: 87.66.144.203
+    created: '1164301014'
+    body: "(this time registered ;))\r\n\r\n<cite>I'd be curious to hear your definition of a community. We're all separate people with our own motivations, but we have a common interest in free and open software. We can respect that people have different opinions and preferences, but does that mean we can never make a value judgment?</cite>\r\n\r\nYes, sorry, should have picked a better phrasing for that one.\r\nI was once interviewed by a student who was writing an essay on the FOSS community wrt its social aspects and while he was talking about \"<strong>the</strong> FOSS community\" and mentioning some work done by some people on those points, I pointed out to him that there is no such this as <strong>the</strong> FOSS community.\r\n\r\ns/a \"FOSS community\"/the \"FOSS community\"/g ;)\r\n\r\nOf course we are thriving for similar goals, but not in the same way, and not exactly the same goals.\r\nWhile for some the GPL is the only way, for others software covered by e.g. the Apache license is just as good (or even better). Some of us value FOSS because it gives us the source code, and rights on that source code, guarantees it will always remain FOSS, etc... Others value FOSS because they can use excellent pieces of software for free to make money with it in their own product/project, have access to the source code, can participate in a more open environment wrt submitting patches, etc... (mind you, I'm talking about \"FOSS\" as a whole, not \"Free/Libre/GNU/FSF\" ;))\r\n\r\nAs far as \"value judgements\" are concerned, I'm not sure that all of us would agree on all that much in exactly the same terms.\r\n\r\n<cite>I don't condone trollish, bullying kinds of behavior. We absolutely should be civil in these discussions. (See: Others may have different opinions about what an acceptable objection or protest is, but I'm making a value judgment about which is preferable, just as you did.) :-)</cite>\r\n\r\nYeah, that's perfectly fine ;)\r\nDifferent opinions is something that should be grown and favored, just as different cultures and origins -- well, at least, in between certain boundaries (some of them being e.g. the GPL license).\r\n\r\nThe point is just: we should all respect the fact that other people have different opinions, even if ultimately thriving for the same or very similar goals.\r\n\r\n<cite>Similarly, as a business analyst who knows many other analysts that are smart, decent people with good values, I object to Patrick's simplistic characterizations of the group as a whole. I don't think it lends credibility to our movement to make careless remarks such as that analysts are \"simply the ugly hunch-backed minions of the Bad Guy.\" I'm not personally offended--I just cringe at how that reads to other people.</cite>\r\n\r\nYou're part of the 1% then. You'd have to agree that most stuff written by so-called business analysts is just so far away from any realistic knowledge of the IT business and.. dare I say, facts. ZDnet, the register or rubbish aggregated on linuxtoday.com are full of those.\r\n\r\nOne should always ask himself what credibility and deeper knowledge some people have when they shout out loud about things they don't have a clue about, e.g. because they're not even working in such environments.\r\n\r\nNo pun intended, good to hear you're part of the IMHO somewhat smaller percentage of qualified business analysts ;)"
+-
+    name: ''
+    mail: ''
+    subject: "I agree with you!\nSomeday"
+    hostname: 202.113.19.246
+    created: '1164304629'
+    body: "\r\n\r\nI agree with you!\r\n\r\nSomeday Linux will be replaced, someday X will be replaced, someday GNOME will be replaced. In the Cathedral, nothing is ever thrown away, nothing is ever replaced, but here in the Bazaar something better always comes along. This is a strength, not a weakness.\r\n\r\nThis is just the nature of the community, it's the source of creativity and power"
+-
+    name: 'Patrick McFarland'
+    mail: ''
+    subject: 'One small problem'
+    hostname: 70.16.77.112
+    created: '1164314134'
+    body: 'Linus Torvalds has not invaded other countries and murdered thousands of innocent people. Linus Torvalds didn''t ignore the CIA and let 9/11 happen. Linus Torvalds didn''t commit vote fraud. So, no, Linus isn''t a Bush from what I can see.'
+-
+    name: ''
+    mail: ''
+    subject: 'Sorry, i think you missed the point.'
+    hostname: 84.56.88.190
+    created: '1164319107'
+    body: "You're talking about free developers as employers, but even if you implicit this thought in every sentence it won't turn into truth. FOSS is -with single exceptions= not business. If I take a look at the results of the gnome community, i've to say \"thank you\". they've written a nice desktop, thought about dbus layers etc. - this is _much_ more that i can expect to write by myself. also, I never could expect to write such quantity of code, independently of talking as a private person or as part of an IT office.\r\nYou're talking about the quality of FOSS created code. What the hell do you expect from people coding for fun without a strong business target in mind and without customers complaining about every bug?\r\nNobody is forced to use OSS Projects, interestingly many firms are doing so - and, what do you think would be the quality of cheap routers without the iptables project?\r\nThe big problem of OSS isn't the communtiy, because they ARE the heart and the hand of OSS projects. And, who cares about so-called zombie-projects? If they're needful to you, just bring them to live, if you don't care about them, shut up.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'No, he''s right.'
+    hostname: 84.56.88.190
+    created: '1164319777'
+    body: "if you compare unices at all, rhel is the only distro with a linux kernel, that you're able to trust. not, because redhat is doing a \"better\" gnu/linux, no, they just keep working things and innovate in things like the redhat-cluster-suite or extreme improvements over nfs, etc.\r\nshort question: how much different device models were used and trashed since the linux kernel 2.4 ? "
+-
+    name: ''
+    mail: ''
+    subject: 'Just like Democracy'
+    hostname: 70.114.242.77
+    created: '1164328666'
+    body: 'Democratic nations produce the most non-essential inventions, but are also unable to respond to non-immediate problems. Solution: more dictators like Linus Torvalds. '
+-
+    name: fragglet
+    mail: ''
+    subject: 'Please ignore this idiot'
+    hostname: 80.168.139.168
+    created: '1164361740'
+    body: "Patrick McFarland's major \"contribution\" to Open Source is \"Shadow Conflict\", a vaporware project that he used to attempt to scam LinuxFund out of money a few years ago:\r\n\r\nhttp://web.archive.org/web/20040211222256/linuxfund.org/node.php?id=138\r\n\r\nRead through some of the comments and you'll get a feel for how far his contributions go.\r\n\r\nThe other major thing he did recently was start up \"makepatrickrich.com\", a website where he got people to give him money because he claimed he was the next Bill Gates, and intended to use the money to do \"something awesome\".  According to the following log, this was either a parody or a \"Psychology Experiment\", depending on how he was trying to justify it.  Obviously, he never returned the money:\r\n\r\nhttp://www.soulsphere.org/random/make_patrick_mcfarland_rich.txt\r\n\r\nPatrick McFarland is not an important Open Source/Free Software contributor.  He does not know what he is talking about.  Please don't make the mistake of thinking that he is an expert or qualified in any way to write articles on topics like these.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Solution: community organization, communication'
+    hostname: 68.161.133.236
+    created: '1164380670'
+    body: "Just like in any community, progress comes with more organization. \r\n\r\nI believe the bazaar process is great, however the organization could improve - a lot. \r\n\r\nIt seems many, or most, people's efforts are largely taken for granted. \r\n\r\nBetter recognition of people's contribution, indeed, is likely to go a long way.  Some way to organize all contributors, sortable by lines of code, years of activity, messages posted, community kudos/brownie points, etc.  Perhaps sourceforge/freshmeat/etc could find some joint project to do this. \r\n\r\nMany projects seem to die, or go wayward, from lack of motivation, frustration, lack of communication. \r\n\r\nSome auxiliary support groups, mentors, professors, etc to occasionally support several projects, motivate programmers, comment, suggest merging groups/projects with duplicate or complementary efforts, serve as diplomatic relations, moderators, etc. \r\n\r\nActive campaigning in universities and communities to include more students and programmers in projects. \r\n\r\nI have long been looking for a good internet-cafe-manager open source program.  I found several, over ten, but unfortunately none of very good quality, most largely abandoned.  I also found people starting several new ones, instead of taking up and improving the abandoned ones. \r\n\r\nIndeed, taking up someone else's code and trying to figure out is annoying and frustrating, whereas banging up your own brand-new, visionary, great, perfectly projected code is always fun.  Sure, it's soon another mess - but at least you can understand it. \r\n\r\nI'd say a few fulltime project-motivators, and project-evaluators, would go a very long way. "
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'Intra-project politics'
+    hostname: 72.226.230.181
+    created: '1164396790'
+    body: "Inter-project politics are also an issue, but intra-project politics are a larger one. GNOME vs. KDE is a strawman-- there *is* no GNOME vs. KDE, except in the minds of the fanboys. (Full disclosure: I'm a GNOME fanboy, because I prefer C over C++. But I run Enlightenment as my primary desktop.)\r\n\r\nGNOME folks really don't worry about the KDE folks, and KDE folks don't worry about the GNOME folks. Really, there's more cooperation between the two projects than most people realize.\r\n\r\nI think the big problem isn't the lack of a regular release schedule. It's exactly what you said: a lack of focus. GNOME started out with a clear direction-- build a good application environment, the infrastructure needed to create a full desktop environment. They had great direction, and they built ORBit2 (an excellent CORBA implementation), Bonobo, the GNOME libraries on top of GTK+, and a bunch of other great stuff.\r\n\r\nBut they forgot to ask: what were they going to <em>do</em> with all that once they had it?\r\n\r\nEnlightenment gave way to Sawmill, which begat Sawfish, which begat Metacity. The panel saw rewrites. The control center saw rewrites. And all the time, there was no clear direction other than the application environment itself.\r\n\r\nI love GNOME. I think it is going in the right direction. But, I also recognize it is an evolutionary process, in which many ideas are floated, but only a few survive. They aren't necessarily the best ideas, but the are the best for the current environment.\r\n\r\nI think this is a good thing.\r\n\r\nI think many people misapprehend the significance of the free software development processes. Like evolution, many paths are tread at once, creating a complex environment. If one or many turn out to be evolutionary dead-ends, it isn't a big dea, because there are other ideas that have survived. And, unlike evolution, we can scavange the good parts of the failed ideas for our own use. (We can scavange the good parts of the successful ideas, too.)\r\n\r\nClosed-shop development processes are not that fortunate. MS-Windows doesn't stand a chance. Not because GNU/Linux is better (for any arbitrary definition of \"better\"), but because, for all its user-base size, MS-Windows an isolated environment. Some ideas are lifted from other projects, and Microsoft is trying hard to make the transfer of ideas one-way (check out the recent \"look-and-feel\" licensing announcement for the MS-Office 2007 GUI for an example). But, it is essentially a sealed environment, forced to march lock-step with Microsoft's marketing agenda.\r\n\r\nAnyway.\r\n\r\nIntra- and inter-project politics are often seen as a bad thing, but I disagree. I think they are part of the environment. Without environmental pressures, evolution would not take place, as there would be no selection process. Politics are just one (very important) selection mechanism. It isn't the best one, but it doesn't have to be the best to exert a positive pressure. For instance, it helps ensure the people working on a project are compatible, with agreeable goals and personalities.\r\n\r\nWe don't need schedules, because we don't need to conform to business processes. We don't need regular release cycles, because all steps forward are not uniform in size or complexity. Even Microsoft realizes this, which is why MS-Windows Vista is so late. We don't need pre-defined management structures, because people are different, and projects are different, and it's probably better in the long run to let the management of a project form organically around the people and the project itself.\r\n\r\nThat doesn't mean we should stop thinking about project structure, or structured releases, or other management issues. It means that free software project leaders should probably learn people skills, and management skills, and nunchuk skills, and horse riding skills, and computer hacking skills.\r\n\r\nOr maybe not.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'OSS development'
+    hostname: 82.92.145.91
+    created: '1164457387'
+    body: "I've read producing OSS several times. It's a great read.\r\n\r\nI don't think the original article is entirely correct. He's spot on the problem but the solution isn't short-term cathedral-style leadership. The solution is growing more and better bazaar-style benevolent dictators. Books like producing OSS are a good way to start that off, but we need much more of such works.\r\n\r\nFor example, producing OSS is biased towards larger projects backed by a corporation that have a clear goal (not surprising since it draws heavily on Subversion - backed by Tigris - with the aim to replace CVS). A book similar to that but focussing more on pure community-led projects with more fuzzy goals would be a great addition."
+-
+    name: ''
+    mail: ''
+    subject: 'Community?'
+    hostname: 82.114.78.132
+    created: '1164461251'
+    body: 'The academic definition for community is that it is a group of people who share similar beliefs, norms and values. Therefore yes, it can be claimed that a FOSS community does exist.'
+-
+    name: ''
+    mail: ''
+    subject: 'Thankfully RMS isn''t in the white house'
+    hostname: 24.107.195.168
+    created: '1164503928'
+    body: 'Or we''d have a junior Stalin running the country.'
+-
+    name: ''
+    mail: ''
+    subject: 'Cosource and SourceXchange'
+    hostname: 206.126.253.66
+    created: '1164572469'
+    body: 'A while ago I <a href="http://wildideas.org/projects.htm">pitched a proposal</a> for adding process to FOSS projects, as did some other more vocal folks (see subject).  It seems that the managerial itch just isn''t one most of us care to scratch.  Lord knows my curiosity about "institutional revolution" has not yet been great enough to actually get me to fulfill the resource requirements needed to foster an open source research organization.  However, I think many would agree this is something that should happen; the FSF is too wrapped up in upholding its ideology (which I empathize with) to provide technical leadership, and nobody else has been willing to step outside the scope of their individual projects.'

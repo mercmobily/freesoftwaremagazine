@@ -1,0 +1,28 @@
+-
+    name: Tyler
+    mail: ''
+    subject: 'Great article!'
+    hostname: 142.177.127.139
+    created: '1153841730'
+    body: "Wow, that's just what I was looking for. I've been meaning to look into TeX and LaTeX for a while, but was put off by their apparent complexity. Reading your article and skimming the LyX site reassures me that mere mortals are capable of using it! One question for you: one of the last things keeping me from doing away with the Windows partition on my desktop is my reliance on Word/Endnote for my writing needs - is LyX/BibTex a suitable replacement? It sounds like it might be, but I'm facing a thesis deadline and I can't spend more than a few days getting started with new software at this point. \r\n\r\nThanks!\r\n\r\nTyler"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'LyX and BibTeX'
+    hostname: 68.93.224.4
+    created: '1154366153'
+    body: "Well, I'm using it for the book I'm writing, but I haven't been using it long enough to be sure about it. This is the first time I've ever used BibTeX, and I'm not entirely sure how to make it do what I want. When I use it in LyX, I get a particular notation style (So-and-so, 199x) -- that is, \"author-date\" notation. That might be just what you need for a thesis, but I think it's a little heavy for my project (I may just have to do some reorganizing or not use academic-style point-by-point citations).\r\n\r\nI may have some special problems because something like 90% of my references are to websites, and they don't necessarily have an attributed author to credit or a specific year. They're just on-going concerns, which I'm using as primary references. So I wind up with (?, ?) as the credit! Yuck. There must be a way to fix that, but I haven't figured it out yet. It works fine for the conventional paper and book references, though.\r\n\r\nIn general, I wouldn't recommend that anyone change any critical piece of software when they have \"only a few days\" to spend adjusting to it, so if I were in your shoes, I'd probably finish my thesis, then figure out how to use LyX/BibTeX for my dissertation! However, I'm equally sure that it can do the job if you can take the time to figure it out, and in my experience, writing in LyX is much more relaxing than using more conventional word processors.\r\n"
+-
+    name: 'Raghu Kodali'
+    mail: ''
+    subject: Lyx
+    hostname: 125.22.203.219
+    created: '1167836968'
+    body: "I started using Lyx for serious work a few days back. Before that I was playing around with it. I could not get a feel of what it is while playing around. But once I started doing serious work, I can feel the differece between conventional wordprocessors & Lyx. I feel that LYX is much better to express yourself instead of concentrating on formatting, colors etc.\r\n\r\nI think I finally found a nice tool to do my documentation."
+-
+    name: ''
+    mail: ''
+    subject: 'missing classes'
+    hostname: 122.50.174.25
+    created: '1171476671'
+    body: "I am unable to learn how to use lyx . Even when I open templates I can not figure out how to produce a dvi or any other output.Can any body help\r\nako@gmail.com"

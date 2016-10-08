@@ -1,0 +1,35 @@
+-
+    name: 'Dann S. Washko'
+    mail: ''
+    subject: 'Are they still working on this?'
+    hostname: 204.154.43.244
+    created: '1232390911'
+    body: 'From what I can see the latest dev version available on their site for Linux is November 7, 2007.  A brief look on their forums indicates little development on the project or much participation from the community.  I wonder why?'
+-
+    name: sbicknel
+    mail: ''
+    subject: 'Are you serious?'
+    hostname: 24.253.108.249
+    created: '1232406103'
+    body: "This program is dead in the water as far as Linux is concerned and has been for a couple of years. Those proprietary parts, \"sharp broken edges\" as you called them, are just as broken today as they were when the program was first released for Linux. This is because the company behind it does not want to work with a volunteer developer community on its own terms, but instead, wants to dictate terms. No one is biting. Get a clue.\r\n\r\nThis is not \"the latest vector graphics package for GNU/Linux\". It's not even the latest failed attempt to take advantage of free labor."
+-
+    name: dyyylan
+    mail: ''
+    subject: 'Whoa. Is this news?'
+    hostname: 67.190.30.221
+    created: '1232468847'
+    body: "The XaraLX Linux port has been all but abandoned since 2006. Interesting article, but for the time being, stick with Inkscape.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'two years'
+    hostname: 68.93.227.150
+    created: '1233101522'
+    body: "Hmm. I still find it amusing that two years is considered a long enough delay to declare a project \"dead\". Software folks are impatient!\r\n\r\nBut it's true that I have not been keeping up with the development of Xara. It's more that I finally got it installed so I could test it out.\r\n\r\nBut I have to agree with you that Inkscape is a better bet, at least at present. I'm certainly not switching over myself.\r\n\r\nAnd no this is not \"news\", it's part of a comparative review. I plan to re-execute this same drawing problem in several different vector graphics tools as a way to compare them. Xara is \"latest\" in the sense that it is the most recent newly-released free software vector graphics package (Inkscape is probably the most recently updated). Some of the stuff I'm reviewing is a lot older, and yet still performs remarkably well.\r\n"
+-
+    name: xutre
+    mail: ''
+    subject: Kerning
+    hostname: 121.72.206.169
+    created: '1236298813'
+    body: ">> You can also individually edit the kerning of the characters (that is to say, their micro-position relative to the characters on either side).\r\n\r\nThe above line suggests that this is not possible in Inkscape, yet I do it all the time. Perhaps Xara has some additional functionality that isn't present in Inkscape; please elucidate."

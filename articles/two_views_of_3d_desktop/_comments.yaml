@@ -1,0 +1,154 @@
+-
+    name: ''
+    mail: ''
+    subject: 'What''s the point of talking'
+    hostname: 124.189.41.76
+    created: '1167352566'
+    body: "What's the point of talking about it when you don't have screenshots? Any links to demo videos? \r\n\r\n"
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'Demo videos'
+    hostname: 76.188.155.238
+    created: '1167368209'
+    body: "The <a href=\"http://www.opencroquet.org/croquet_technologies/tutorials.html\">tutorial</a> section of Croquet has a few interesting videos. The Project Looking Glass <a href=\"http://www.sun.com/software/looking_glass/demo.xml\">video</a> isn't as exciting, but it certainly displays some of the cool stuff present in PLG.\r\n\r\nThere are several screenshots linked in the body of the journal entry; I didn't call them out specifically as screenshots, but they are there."
+-
+    name: ''
+    mail: ''
+    subject: 'don''t understand'
+    hostname: 59.95.8.179
+    created: '1167369245'
+    body: "I just didn't understand anything what you are talking about. What machine configurations are you using? Some screenshots would be appreciated.\r\n\r\nby \r\nNelly"
+-
+    name: ''
+    mail: ''
+    subject: 'for ubuntu users Project looking glass'
+    hostname: 84.9.44.212
+    created: '1167383114'
+    body: "I would suggest \r\n<a href=\"http://www.ubuntugeek.com/install-sun-looking-glass-desktop-environment-in-ubuntu.html\">this article </a>for ubuntu users how to install Project looking glass with screenshots"
+-
+    name: ''
+    mail: ''
+    subject: 'Please categorize your articles'
+    hostname: 71.214.203.216
+    created: '1167392348'
+    body: "In this case, it's not \"Two views of the 3D Desktop\".  I use a few 3D Desktops on my Windows computer.  This is for the Mac.  Goodie for you.\r\n\r\nIf you are talking about a specific computer, and ignoring other computers, please specify which one you are talking about.\r\n\r\n\"MAC: Two Views of the 3D Desktop\"  tells me this is a Mac article.  This is the Internet, not everyone uses a Mac.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Funny...
+    hostname: 84.7.125.11
+    created: '1167398760'
+    body: "It's a counterpoint and yet a nice expansion on article <a href=\"http://www.freesoftwaremagazine.com/node/1577\">http://www.freesoftwaremagazine.com/node/1577</a> (ringing my own bell here).\r\n\r\nNow, has anybody tried to implement an LCARS interface? It doesn't look to be based on the WIMP design... :P\r\n\r\nPLG was in fact the first 3D desktop environment I remember seeing demoed, but it used to be cumbersome and unstable - it required solid 3D acceleration and heavy CPU use due to the Java foundation.\r\n\r\nIt has been copied by MS for Vista's Aero Glass (3D elements on .Net), with known results: slow and unstable.\r\n\r\nWhile a lesser revolution, I consider AIGLX+Compiz/Beryl the best compromise between compatibility, 3D use and new functionalities.\r\n\r\nNot to mention that while still in alpha stage, it is actually quite stable. Nice article, though."
+-
+    name: ''
+    mail: ''
+    subject: 'Navigation speed is the real problem!'
+    hostname: 24.7.231.253
+    created: '1167400691'
+    body: '  Navigation and quality of response are the real issues when using fly through data spaces.  3d may added if needed, but is hardley a goal in itself since most information uses two dimensions.  This example is very fast and responsive:  http://www.2GoTo.com  It uses a variable speed zoom on double click drag and variable speed pan on drag to navigate an infinitely large plane.  Also, when zillions of windows are used, it helps to hide scrollbars and menus till needed.'
+-
+    name: ''
+    mail: ''
+    subject: 'PR#6'
+    hostname: 65.43.99.133
+    created: '1167404890'
+    body: 'Thank you for making reference to PR#6. My idiot friends act like it never existed and subsequently don''t get my PR#6 humor (but make an up up down down left right left right....joke and they roll in their seats). '
+-
+    name: ''
+    mail: ''
+    subject: 'not just mac, linux also, and plg also windows'
+    hostname: 85.144.54.69
+    created: '1167406380'
+    body: "Hi,\r\n\r\nWhy is searching to hard for you?\r\n\r\nThis has nothing to do with mac's (besides that you are on a free software magazine's website)\r\n\r\nSince any computer can run linux, and since these are demo's i'd suggeest using a live-cd or seperate harddisk anyway.\r\n\r\nQuit your whining, and just see what the world beyond windows has to offer."
+-
+    name: ''
+    mail: ''
+    subject: 'Real and virtual 3D'
+    hostname: 24.201.116.124
+    created: '1167408024'
+    body: "Are they 3D emulations only? As long as we don't have some 3D glasses or other 3D technology connected to the computer, it still is a 2D environment. True progress will come with real 3D.\r\n\r\nIt's science fiction for now, but I think real 3D will be the next true revolution very soon. UNIX, personnal computers, Xerox GUI and Internet changed the face of the world. The next step is real 3D. Next generations will \"eat\" real 3D stuff, like programs, games, machine operation programs and the like. The whole reality will be mixed with virtual reality. You can't leave your computer now? Wait for a little decade or two at most, and we will litterally \"live\" in it.\r\n\r\n3D desktop is the beginning of it. I mean $$$."
+-
+    name: ''
+    mail: ''
+    subject: 'A quick look at the 2 sites'
+    hostname: 212.111.56.194
+    created: '1167416379'
+    body: "A quick look at the 2 sites using the links provided shows me that there are downloads for both Mac/linux and for Windows, so this is not platform-specific.  Caveat: I have not actually downloaded and installed yet.\r\n\r\nHTH!"
+-
+    name: ''
+    mail: ''
+    subject: 'They''re alright, but....'
+    hostname: 207.224.41.187
+    created: '1167439473'
+    body: 'they''re really not going to be able to run smoothly until computing hardware is fast enough to run them efficiently. of course, core 2 duo processors can most likely handle running any sort of 3d desktop environment, providing that you''ve got a really good video card. i have the latest build of project looking glass installed on my pentium 4 windows xp home system, and it''s a pretty inventive idea, but it''s still lacking in some functionality, most likely because i''m not running linux.'
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'Machine configuration'
+    hostname: 76.188.155.238
+    created: '1167493941'
+    body: "I use a Presario X1000, an aging 1.4GHz Pentium M, with an ATI Radeon R250 Lf video card. I use Debian as my primary OS. Neither system performed well, as you might imagine.\r\n\r\nI linked to screenshots hosted from the main application sites, rather than embedding my own. The screenshots were already there, with better illustrations of what the system can do, as I don't have the cool Mars simulator, or the nifty particle system in the earth demo.\r\n\r\nFollow the links provided in the body of the journal entry to see the interesting pictures."
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'Only two views'
+    hostname: 76.188.155.238
+    created: '1167494338'
+    body: "Well, I named it two views because each of the two systems provides a different way of using 3D space to, ahem, \"enhance the computing experience.\"\r\n\r\nSorry about that. Now I have to clean out my mouth with soap.\r\n\r\nBoth systems can run on MS-Windows. In fact, I tested Croquet on an MS-Windows machine, and it worked just fine, except that it was on an MS-Windows machine.\r\n\r\nMy wife uses a Mac. I do not. I use Debian, a distribution of GNU/Linux. If you want to give it a try, may I suggest <a href=\"http://www.ubuntu.com/\">Ubuntu</a>? It's a fairly nice Debian-derived distribution.\r\n\r\nOh, and good luck with that MS-Windows machine of yours."
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 2.5D
+    hostname: 76.188.155.238
+    created: '1167495669'
+    body: "<em>Now, has anybody tried to implement an LCARS interface?</em>\r\n\r\nYou mean, like <a href=\"http://lcars24.sourceforge.net/\">this</a>?\r\n\r\n<em>While a lesser revolution, I consider AIGLX+Compiz/Beryl the best compromise between compatibility, 3D use and new functionalities.</em>\r\n\r\nPLG and Aero Glass are both limited, and Microsoft didn't copy the only interesting things about PLG (the ability to scribble notes on the back of windows, for example). Otherwise, it's all just a bunch of pretty graphics used to add appeal to the same old 2D WIMP environment.\r\n\r\nThe same thing is true of Compiz and Beryl: they are a 2.5D view of the world, in that 3D is used only for effect, rather than to add much to usability. Most of the true usability enhancements of the new generation of fancified desktops could be accomplished without 3D at all, like the minimizing effects to show you were your windows went.\r\n\r\nGetting back to LCARS: notice the (fictional) primary interface to the (fictional) LCARS system is still voice. The screens are used to display data, and to augment input. I think this is the way it should be. Keyboards will still be useful, as a bunch of people sitting around talking to their computers will make for a noisy office.\r\n\r\nAt least, that's my assessment. I may be way off."
+-
+    name: ''
+    mail: ''
+    subject: 'Good Article'
+    hostname: 70.115.189.144
+    created: '1167617246'
+    body: "I thought introducing someone like me to a project I haven't heard of (Croquet) and explaining how it works is a good enough \"point of talking.\"  I don't think screenshots are a requirement to write an article by any stretch.  URL's are far more usefull anyways and they were given (there are screenshots if you follow the URLs).\r\n\r\nHowever, my real point is that if you want screenshots or demo videos you should ask politely."
+-
+    name: ''
+    mail: ''
+    subject: 'Pleas check your facts or typos'
+    hostname: 201.234.161.253
+    created: '1167627704'
+    body: 'The grayscale NeXT computers had 4 levels of gray, meaning it was a 2-bit display, not 4-bit, in which case it would have had 16 levels of gray.'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'a Wii-zard approach, maybe?'
+    hostname: 84.97.181.181
+    created: '1167648231'
+    body: "For 3D, I'd say that a new input device might be necessary: a Wii nunchak is the first step in this direction, but I was truly amazed (and interested by how old it is, in fact) by the interface used by Tom Cruise in Minority Report (see another of my blog posts...). Funnily, it reminded me of Nintendo's first approach of 3D control: the Power Glove on the original NES/Famicom.\r\n\r\nVoice is an idea, but not for navigation: I'd say it's good for extended data input, but it's too... imprecise for actual navigation, moreover it would be very hard to localize.\r\n\r\nNote, I think there should be a way to add the windows back sticky notes to Compiz/Beryl - modular design and window manager are the only actual requirement for these, but you may want to write one yourself...\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'You are correct, Sir'
+    hostname: 76.188.155.238
+    created: '1167665427'
+    body: "You are indeed correct. The NeXT was a two-bit greyscale system when first released. As my kid would say, \"My bad.\" Really, it's my faulty memory. I was <em>sure</em> I knew that.\r\n\r\nIt was amazing how good that system looked with only white, black, and two shades of grey. I miss the NeXT."
+-
+    name: Phil459
+    mail: ''
+    subject: 'What about 3DNA'
+    hostname: 67.38.221.102
+    created: '1167716027'
+    body: 'Have you seen the 3DNA desktop enviroment.  I may be missing the point, and when I tried it a couple of years ago it was slow, but I would be interested in any opinions.  (It is for windoze though.)  http://3dna.net/'
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'Hadn''t seen that'
+    hostname: 67.104.156.234
+    created: '1167838913'
+    body: "3DNA looks similar in concept to Croquet, only without the networked transparency. The true appeal of Croquet is the peer-to-peer world sharing. Navigating a regular 3D world to use your computer would be less efficient than just using a 2D space efficiently.\r\n\r\nThe 3DNA screenshots looked very nice, though. It looks like a polished product. Unfortunately, I don't use MS-Windows, so I will not be able to investigate it."
+-
+    name: matilda7
+    mail: ''
+    subject: 'web design new york'
+    hostname: 118.102.164.10
+    created: '1276242865'
+    body: " Cheers for the info. It was a good read.\r\n"

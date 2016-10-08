@@ -1,0 +1,70 @@
+-
+    name: schestowitz
+    mail: ''
+    subject: 'Nice Review[s]'
+    hostname: 130.88.234.125
+    created: '1182854136'
+    body: 'That must be the best and most extensive review (or series thereof) that''s out there. Thanks for that.'
+-
+    name: Luigi
+    mail: riccio@inmail.sk
+    subject: Xesam
+    hostname: 82.52.153.90
+    created: '1182880436'
+    body: "I don't know which indexer is the best, but I hope in a common interface. So third-part application could be implement an indexer without to worry who is the backend.\r\nhttp://freedesktop.org/wiki/XesamAbout"
+-
+    name: 'Anonymous visitor'
+    mail: lukeventura2002@yahoo.com
+    subject: 'Can you use a more generic'
+    hostname: 209.47.65.202
+    created: '1182895430'
+    body: 'Can you use a more generic theme for your screenshots? You are going to confuse readers into thinking you are using Mac OS, not Linux'
+-
+    name: CaSiteCenter
+    mail: aaasds@dfdsf.com
+    subject: 'thanks man'
+    hostname: 99.245.183.19
+    created: '1182914075'
+    body: 'thanks man'
+-
+    name: 'Anonymous visitor'
+    mail: mkotas@ids.gda.pl
+    subject: 'Another great desktop search engine '
+    hostname: 153.19.20.10
+    created: '1182930060'
+    body: "You might also check Aduna Autofocus [Java]:\r\n\r\nhttp://freshmeat.net/projects/autofocus/\r\n\r\n"
+-
+    name: JosvdO
+    mail: a@b.de
+    subject: 'Thanks a lot!'
+    hostname: 146.107.217.91
+    created: '1182934053'
+    body: "This is wonderfully detailed review. You put a lot of work in there. You are right that the competition is heating up and this is of course only good for the end user.\r\n\r\nAn interesting point with regards to indexing speed. Strigi comes with a library (libstreamanalyzer) and an application (xmlindexer) that allow _any_ indexing program to be (nearly) as fast and powerful as Strigi is. We've made a point of modularizing our code so others can reuse it under the LGPL. The code has no dependencies the various search programs do not have anyway (libz, libxml2, libbz2) and the selection of files that is supported is growing fast because libstreamanalyzer is used displaying metadata by all KDE4 libraries. Most of the analyzers that used to be spread over KDE3 are now concentrated in Strigi giving you analyzing power regardless of desktop technology.\r\n"
+-
+    name: JosvdO
+    mail: jvdoever@gmail.com
+    subject: 'Thanks a lot'
+    hostname: 146.107.217.91
+    created: '1182942539'
+    body: "My previous comment got removed for some reason, so I'll try again.\r\n\r\nThis is a nice and detailed review. I've read it with pleasure and would like to clarify a few points.\r\nStrigi comes with a library (libstreamanalyzer) and a command line application (<code>xmlindexer</code>) that allow <strong>any search engine</strong> to attain (nearly) the same speed and the possibility to read deeply nested files as Strigi does. The library libstreamanalyzer is used by the core libraries of KDE4 to extract and show metadata in the KDE applications because of its power and speed.\r\n\r\nBecause of the hard work of the KDE community, many of the file analyzers that were previously exclusive to KDE, have now been moved in to the core of Strigi. This means that nearly the full metadata extraction power of KDE4 is available for standalone Strigi, libstreamanalyzer and xmlindexer.\r\n\r\nStrigi is even slightly leaner than Tracker and seriously faster still, especially for getting data out of embedded files. Since the code that does this is available under a LGPL library and is packaged separately by e.g. Ubuntu, there is no need to refrain from speedy indexing. Not even if you are using Beagle ;-)\r\n\r\n\r\n\r\n\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: stonedan@telusplanet.net
+    subject: 'I bet you don''t use Desktop Search like I do.'
+    hostname: 209.89.236.20
+    created: '1186925318'
+    body: "Desktop search is about entertainment too. Or should be.\r\nMy Desktop Search can Randomly display any of my family \r\nalbum pictures (5000+) Or just those that are tagged as\r\n\"oldies\". Without video playback features, other searches\r\nare lacking. 4 years of outdoor digital video has given\r\nme some very interesting video moments. To be able to \r\nplay any video segment in seconds is empowering. Video in\r\na book, or pictures instead of scanning. The possibilities\r\nare endless. I could go on and on about the uses for this\r\ndesktop search. How do you use your desktop search? How\r\ncome you find some feature especially useful. Forget the\r\nindexing speed, footprint, bla bla bal. What does it do\r\nfor you? \r\n"
+-
+    name: 'Anonymous visitor'
+    mail: vivaslb@gmail.com
+    subject: 'google desktop beta out'
+    hostname: 72.228.33.196
+    created: '1189919336'
+    body: 'google desktop is excellent and there''s a linux beta that works well.'
+-
+    name: hearthstone
+    mail: ''
+    subject: 'Recoll indexing.'
+    hostname: 24.51.63.71
+    created: '1371918150'
+    body: "No matter how many times I purge .recoll/xapiandb. the indexing gets stuck at a particular .JPG file, even though I specified in .recoll/recoll.conf to skip .JPG files.\r\nThanks, Hearthstone."

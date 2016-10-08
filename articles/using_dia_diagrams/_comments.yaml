@@ -1,0 +1,35 @@
+-
+    name: jtappin
+    mail: ''
+    subject: 'While I''ve only had a quick'
+    hostname: 146.5.17.37
+    created: '1234654789'
+    body: 'While I''ve only had a quick look at dia, it doesn''t really look to offer as much capability as the granddaddy of all drawing tools -- xfig.'
+-
+    name: mjjzf
+    mail: ''
+    subject: Agreed
+    hostname: 85.218.164.32
+    created: '1234872891'
+    body: "I agree. It is ugly as sin, but it works - and Dia is not noticeably easier to use (which would be the selling argument) than Xfig.\r\n__\r\nFSF member no. 6426"
+-
+    name: Golodh
+    mail: ''
+    subject: 'Yes and no ...'
+    hostname: 62.251.3.206
+    created: '1234976654'
+    body: "Well, XFig is a drawing package first, and yes, you can also use it to draw diagrams. Dia on the other hand is a specialised package for drawing diagrams.\r\n\r\nDia has two advantages over Xfig when it comes to diagrams\r\n\r\n1) Dia is multi-platform, and not just Linux-based. Well, an enterprising soul may be able to get XFig to work under Windows but it's not worth it, IMO, since Dia does what you need for diagrams. And for general-purpose work I'd generally prefer the Gimp.\r\n\r\n2) Dia, being an object-oriented vector drawing package, redraws the connectors when you move the diagram boxes about. Xfig, being just a drawing package, doesn't. This is fairly basic and indispensible functionality when drawing large diagrams (unless you already know what the diagram looks like and only need a tool to draw it). \r\n\r\nDia also has disadvantages. The worst one being that it (in version 0.96.1) crashed a few times when I used it to draw (fairly large) diagrams. Poof ... diagram gone. That behaviour one might tolerate in beta software, but not in a release version. It gives OSS software a poor name.\r\n\r\nAs the Dia website says, Dia is basically a knock-off from Visio. That's not something to be ashamed of though. Dia is great for those who don't need the quality and functionality of Visio (or who don't wish to pay its hefty price), and who are willing to save every five minutes or so.\r\n"
+-
+    name: jtienhaara
+    mail: ''
+    subject: 'Drawing tools'
+    hostname: 216.191.116.3
+    created: '1234999760'
+    body: "Nice intro to Dia, Timmy!\r\n\r\nI used to be an xfig devotee, and refused to switch to anything for UML diagrams until Dia came along.\r\n\r\nI have since tried everything under the sun and no free/open source drawing program comes anywhere close to Dia IMHO for power & ease of use; and many commercial applications fall behind too.\r\n\r\nThere are 4 things I love about Dia:\r\n\r\n1) It's simple and intuitive to do most tasks.\r\n2) Layers.\r\n3) Snapping (to objects, to grids, etc).\r\n4) Tons of file formats to export to.\r\n\r\nI would argue that xfig is a lot less powerful, and Graphviz is a lot more involved.  And Visio is a whole lot less free!  So Dia fills an important niche.\r\n\r\nBut to each his own!  These days I use Dia even for laying out rooms & choosing paint colours, something it was definitely not designed for, but it's pretty darned good at.  :)\r\n\r\nCheers,\r\n\r\nJohann\r\n"
+-
+    name: Codifex
+    mail: ''
+    subject: 'Dia looks like a useful tool'
+    hostname: 72.190.37.190
+    created: '1235094775'
+    body: "I just had the pleasure of installing and running Dia for the first time.  (It looks to be a derivative of Gimp.)\r\n\r\nAt first, I thought it was a little anemic as far as usefulness goes... that is until I began exploring the floating toolbar.\r\n\r\nThere are lots of useful \"sheets\" that contain object shapes from electronic, flowchart, network, and electrical to types I've never heard of before.\r\n\r\nIt's just what the doctor ordered for my personal project diagramming tasks.\r\n\r\nThanks to the Dia team!\r\nCodifex\r\n\r\nI'd rather be flamed with the truth than be left blissfully ignorant."

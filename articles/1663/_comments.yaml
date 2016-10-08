@@ -1,0 +1,28 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Can''t really be a ''trophy'''
+    hostname: 68.93.224.4
+    created: '1152300778'
+    body: "It can't really be a 'trophy' of GNU/Linux if it is free software, because it'll get ported to other platforms.\r\n\r\nWhat you're proposing is a \"collective patronage\" agreement, not unlike the \"Elephant's Dream\" presale concept.  We need better tools for doing that -- this is basically what my <a href=\"http://www.freesoftwaremagazine.com/articles/free_matter_economy_3\">Narya Bazaar</a> concept was all about doing (too bad I haven't done anymore on it :-( ).\r\n"
+-
+    name: 'Matt Barton'
+    mail: ''
+    subject: 'Better Tools'
+    hostname: 67.133.89.167
+    created: '1152747237'
+    body: 'Yes, tht''s precisely the kind of arrangement I had in mind, Terry. I''m a bit curious about your tools comment. Are you talking about software tools or some sort of legal apparatus? What kind of tools do you think would make this easier? I''d love to hear more of your opinion on this.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Protocols
+    hostname: 68.93.224.4
+    created: '1152808655'
+    body: "I'm talking about software: financial protocols. Whenever you inject money into a situation, you have to start thinking about everyone's motivations, and you have to come up with a model that does what you need without introducing loopholes and scams into the mix. That's pretty tricky, because there's always somebody trying to figure out how to scam whatever system you come up with.\r\n\r\nI feel that better tools are needed, and (in my linked article) I described one possible protocol to solve a particular kind of problem that occurs with free hardware (essentially, how do you get prototypes or production models built once you have a design?).  This has many different levels of coarseness -- in some situations, such as electronic design, the components and engineering methods are so well understood that you can actually design a whole circuit board on the computer with nothing but simulations to check your design, and then just send it off to be built.\r\n\r\nMost engineering is not so clear cut, though: it's iterative, and you have to spend a lot of money on building prototypes and doing experiments. That money has to come from somewhere, so in a free-licensed design situation, it's a problem.  Most of the traditional ways of solving the problem (such as having up-front business or government financing) shoot the supports out from under the bazaar development strategy, and the whole thing collapses. You're right back in the conventional \"cathedral\" development model.\r\n\r\nHowever, I don't think this is inevitable. I just think we need smarter protocols that make savvier choices about how to take advantage of this new kind of marketplace and development model.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: '"Not asking you to toot your own horn..."'
+    hostname: 86.108.108.67
+    created: '1162316461'
+    body: "I love that question from the interview.\r\n\r\nOh, God, I hope he does manage to save innovation. He deserves it.\r\n\r\nKroms.\r\n\r\n- http://kroms.blogspot.com/"

@@ -1,0 +1,7 @@
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: typo
+    hostname: 212.159.106.192
+    created: '1201131863'
+    body: "> If you input from a terminal `zenity -about` and then type `zen` \r\n\r\nshould be `zenity` \\-\\-`about` then type `zen` when the dialog appears\r\n\r\nthanks for the article though -- served as a good distraction. :o)\r\n\r\ncheers\r\nRyan"

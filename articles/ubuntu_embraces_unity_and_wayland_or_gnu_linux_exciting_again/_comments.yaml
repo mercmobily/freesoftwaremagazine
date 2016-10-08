@@ -1,0 +1,35 @@
+-
+    name: DYanev
+    mail: ''
+    subject: 'X future'
+    hostname: 94.26.40.16
+    created: '1289218169'
+    body: 'I don''t believe X will somehow become defunct and die because of Wayland. X.org improved upon XFree86, but as a natural evolution then a competitor. And many OSS Projects and forks have proven in my mind the benefits of competition. A disturbed X.org will improve it in the long run IMHO.'
+-
+    name: 'Gary Richmond'
+    mail: ''
+    subject: 'Ubuntu, Unity and Wayland'
+    hostname: 89.242.98.163
+    created: '1289247683'
+    body: "Tony,\r\n\r\nI don't think that the switch to Wayland will be as controversial as the decision to go with the Unity desktop instead of Gnome 3.\r\n\r\nThe case for Wayland is technical and it's not exactly unique. Who speaks now of X86? Technology evolves. However, the real problems will arise with Unity. \r\n\r\nI'm not so sure that the desktop paradigm is dead in the water. Yes, it's true that people are increasingly using mobile phones and tablets to access the web but I'm not entirely convinced that if they still also use laptops too, they will want to replicate the GUI of smaller mobile devices. Eye candy is always fun of course but the more of it we use the more it obscures the underlying nature of file systems. \r\n\r\nWhen Unity comes out it will be the Ubuntu default but this is GNU/Linux and it will still be possible to boot into a different desktop environment. We do this already. At boot time I have a choice of desktops to run: Gnome, KDE, Lubuntu and LXDE. I could add more. Hopefully Unity will be just another option.\r\n\r\nFuturology is an uncertain business but I can predict one thing. Sooner or later people are going to fork the project and Gnome Shell 3 will be available.\r\n\r\nIt's clear that Shuttleworth's decision to go with Unity has been, as your article understands, a \"commercial\" one with an eye on the mobile/tablet market and Android. Fair enough but as he himself said, Debian is the rock on which Ubuntu has been built and that means that those users and developers who are happy with existing desktops can go their own way. It's happened with X86 and OpenOffice, get_iplayer and Songbird, to mention a few.\r\n\r\nThings are about to get very interesting."
+-
+    name: jonsmirl
+    mail: ''
+    subject: 'Network transparency'
+    hostname: 173.76.28.95
+    created: '1289275153'
+    body: "Network transparency is changing. The web is a giant network transparent app. HTML5 allow much better UIs to be built. \r\n\r\nMaybe the question should be, why are you using gtk/qt instead of HTML5 to build your GUI?"
+-
+    name: IvarTJ
+    mail: ''
+    subject: 'Switching from X to Wayland'
+    hostname: 80.212.129.104
+    created: '1289408492'
+    body: "Switching from X.org to Wayland is hardly the same as switching from XFree86 to X.org. Both X.org and XFree86 are implementations of the X Window System, while Wayland introduces an entirely new window system that almost every graphical applications ought to be rewritten for.\r\n\r\nSeveral projects have attempted to replace the X Window System, but failed in part because the proprietary Netscape browser for GNU/Linux wouldn’t migrate. Proprietary graphical applications may be an issue for Wayland as well.\r\n\r\nIt would be possible to run a rootless X server as a Wayland client, allowing applications written for X be used inside a Wayland display. This owes in part to the fact that X is designed to be highly versatile, which arguably is one of the causes for its longevity."
+-
+    name: IvarTJ
+    mail: ''
+    subject: 'I wish to correct myself'
+    hostname: 80.212.129.104
+    created: '1289513164'
+    body: 'I wish to correct myself. Because the GTK+ and Qt toolkits are being ported to Wayland a simple recompile of many graphical programs will suffice.'

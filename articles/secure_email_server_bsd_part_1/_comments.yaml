@@ -1,0 +1,70 @@
+-
+    name: ''
+    mail: ''
+    subject: hmm...
+    hostname: 218.106.82.163
+    created: '1161914950'
+    body: "does anybody know how to install bsd from hd-media?...(just like debian's initrd.gz vmlinuz...).\r\ni think there're too few ways to install it,it's too unfriendly(maybe..)\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'If you havent idea, you have'
+    hostname: 141.76.45.35
+    created: '1162074368'
+    body: "If you havent idea, you have google dude :)\r\nTo be truthly, Im suprised why you want to install BSD from hdd ... enjoy it !\r\n\r\nhttp://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/install-pre.html"
+-
+    name: ''
+    mail: ''
+    subject: good
+    hostname: 213.240.225.50
+    created: '1163444632'
+    body: "part 2 part 2 :))\r\npart 1 is great!\r\n"
+-
+    name: 'Robert Romberger'
+    mail: ''
+    subject: 'Nice start...'
+    hostname: 207.233.102.21
+    created: '1164042473'
+    body: "As was posted, Part Deux?\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Where is part2?'
+    hostname: 128.186.12.117
+    created: '1167253212'
+    body: 'Where is part 2? Am I missing something?'
+-
+    name: admin
+    mail: ''
+    subject: 'Here is Part 2...'
+    hostname: 203.59.204.147
+    created: '1167288225'
+    body: "Hi,\r\n\r\nPart 2 can be found in issue 15 right <a href=\"http://www.freesoftwaremagazine.com/articles/secure_email_servers_from_scratch_with_freebsd_6_part_2\">here</a>.\r\n\r\nEnjoy.\r\n\r\nBye"
+-
+    name: ''
+    mail: ''
+    subject: 'reason?'
+    hostname: 66.159.227.16
+    created: '1170954717'
+    body: 'what a bunch of spoon-feeding. All of that is in the handbook already.'
+-
+    name: 'Ken Stox'
+    mail: stox@sbcglobal.net
+    subject: 'Small correction'
+    hostname: 75.4.40.89
+    created: '1176177711'
+    body: "\"Sun Microsystems earlier offering “SunOS” was based on BSD code from the early ’80s until the early ’90s when Sun released SunOS 4.0 based on AT&T’s SysV code.\"\r\n\r\nAll versions of SunOS up until 4.1.4 were based on BSD. SunOS 5.0 was the first to be based on Unix VR2. Sun retroactively named SunOS 4.1.X as Solaris 1.0, SunOS 5.0 was known as Solaris 2.0. "
+-
+    name: valen_willie
+    mail: ''
+    subject: 'My starting point'
+    hostname: 122.199.10.254
+    created: '1180688438'
+    body: 'Good article, I can use it to start learning FreeBSD now, some hands-on practices.'
+-
+    name: 'Jason Hirsh'
+    mail: captcurrent@yahoo.com
+    subject: useless
+    hostname: 68.45.177.112
+    created: '1184430860'
+    body: 'Ok so I installed all the software.. cool...  HOW do you configure it.... squiremail is NOT fire and forget'

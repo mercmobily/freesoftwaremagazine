@@ -1,0 +1,140 @@
+-
+    name: 'Frederic Crozat'
+    mail: fred@crozat.net
+    subject: 'Correcting some facts about Mandriva 2008.0'
+    hostname: 81.57.82.36
+    created: '1194687709'
+    body: "First, thanks you for this interesting review. We'll look at some of the point you raised for next Mandriva release.\r\n\r\nHowever, I'd like to correct some errors in your article about Mandriva 2008.0 and ask some questions :\r\n-it might have been more interesting to compare Ubuntu LiveCD installer with Mandriva One Live-install and Ubuntu installer with Mandriva \"standard\" installer (called DrakX). There is even a Mandriva One 2008.0 GNOME release to make sure comparison is fair, specially when you are stating Mandriva is not completely ready after installation. \r\n-draksound should be able to help you reconfigure your sound card. But I'm not sure it will kill programs still using sound card when you want to switch sound drivers.\r\n-the rpm database corruption is still under investigation but it appears to be only for people who did a 2007.0 initial installation and then upgrade to 2007.1 and to 2008.0 (or directly to 2008.0). Fortunately, we have been able to duplicate it in our office yesterday (friday), after more than one month trying to find what was causing it and why we could duplicate it (and fixing a bug you can't duplicate can be very hard). More information is available at \r\nhttp://qa.mandriva.com/show_bug.cgi?id=32547\r\n-GNOME control center interface (often called shell) is not \"removed\" from Mdv 2008.0, we just have hidden it from default menu (just like Fedora or upstream GNOME), because we felt it would confuse user to have both Mandriva Control Center (for system \"administration\") and a separate desktop control center.\r\n-about NTFS/NTFS-3g, it should have been automatically configured by default for NTFS partitions detected at install time. Was it not the case ? Or did you plugged a NTFS drive after installation ? (We know there was a bug for Mandriva One ISO images which are lacking ntfs-3g, it will be fixed for 2008.1).\r\n-about Wifi, net-applet is automatically installed and configured by default and it handles Wifi network transparently (and it includes now a Network Center with a quick summary and fast way to change wifi network). You didn't got the \"automatically working\" wifi when you plugged your USB wifi key because you used installation which only install software relevant to your current hardware at install time. If you had installed a Mandriva One image, you would have had wifi firmware pre-installed by default (since they must been supported at boot time). It is a trade-off between installation vs liveCD. You obviously wouldn't like ton of useless packages installed by default on your system for hardware you don't have. But I agree net-applet should try to warn you it detected a new hardware and ask you if you want to configure it.\r\n-what was the problem with configuring ftp repository ?\r\n-stating that Ubuntu has an edge because Mandriva is shipping KDE by default is a little too extreme, IMHO. It might have been true 7 years ago, for Mdk 7.2, but since then, situation has evolved a lot. We are committed to support BOTH desktop environments (which is why we make sure to include features in both environments when it is relevant), which is why you are asked at install time which environment you want to install. Not modifying GNOME a lot, compared to upstream, is a design choice : we prefer to stick to GNOME upstream as much as possible and modify it only when it is relevant.\r\n-I agree sensors are not configured by default by installer. I'll forward this request, but I'm not sure it will be done (not everybody is monitoring their system sensors ;)\r\n-Mandriva fallback for X not working is not using a fallback X server because sometime, even a VESA server would not work (try on old i810 systems ;). Using ncursing might not be pretty, compared to Ubuntu solution, but we know it will always work. Moreover, this feature is available for 4 or 5 years in Mandriva / Mandrake distributions..\r\n-Changing X driver can be done while X is running, you don't have to fallback to text mode first.\r\n-Liberation fonts are NOT used all over the place for the desktop. They are only used as Microsoft fonts substitute for web pages under Firefox / Konqueror. All desktop applications are still using DejaVu font by default ! What you probably noticed is font rendering improvement, thanks to hard work of freetype team.\r\n\r\n"
+-
+    name: 'Paranoid Dave'
+    mail: diwrigley@f2s.com
+    subject: 'Encryption is King'
+    hostname: 195.137.100.4
+    created: '1194714481'
+    body: 'Thanks for a well considered comparison.  Indeed there are now quite a few top notch distros and I suppose in the end its a matter of personal preference after having prioritised the pros and cons of each.  After defecting from Xandros a few months ago I considered both Mandriva and Ubuntu but the latest Gutsy release has one feature that gives it the edge - the ability to encrypt the partition or drive and  which seems little publicized but which I found here http://users.piuha.net/martti/comp/ubuntu/en/cryptolvm.htm.  I''m not sure that this be done on Mandriva or not but I think all the major players ought to consider this.'
+-
+    name: lavaeolus
+    mail: lavaeolus@web.de
+    subject: 'Mandriva''s Draknetcenter'
+    hostname: 84.56.218.160
+    created: '1194728883'
+    body: "Mandriva's Draknetcenter network configuration-tool lets you configure a wifi-card just as easy as ubuntu and on top of that gives you much more options (just open the advanced section), I had much less problems setting up my wpa-protected wifi-network on Mandriva than on Ubuntu, which didn't give me an option to use  wpa when setting up the network manually (I use fixed IP-Adresses and therefore prefer to configure my network by hand).\r\n\r\nThis is a problem with ubuntu in my opinion: it tries to dumb the system down in many places, making it unneccesarily hard to configure something manually, either you go the ubuntu-way or you go nowhere.\r\n\r\nJust one thought on themes: not everyone likes Ubuntu's brown either, and it is easy to change themes on both distributions.\r\n\r\nI would prefer Ubuntu for a new user who just wants to have a running system for his day-to-day tasks, but I personally prefer Mandriva, because I find it easier to configure it to my personal needs.\r\n\r\nTwo things in Mandriva that nobody seems to mention are the drakwizards and msec, the drakwizards let you set up many network-services, while msec lets you secure your system.\r\n\r\nBack before Mandriva(Mandrake) 9.0 rpmdrake (the graphical package installer) was one application as it is now again, so this four seperate apps was not always the case, btw. it was still one app (rpmdrake), there were just four seperate links to it (starting it with different parameters), but yes the new interface is definitely much easier to use (like it was back in the old 8.2 times :-)). Personally I can't say that synaptic is really that faster and to be honest I don't find smart that much smarter than rpmdrake, btw. synaptic is available for Mandriva, just look in the contrib repositories."
+-
+    name: 'Anonymous visitor'
+    mail: nospamherephuckers@gmail.com
+    subject: 'Nice, now why don''t you'
+    hostname: 70.41.134.144
+    created: '1194798984'
+    body: 'Nice, now why don''t you compare Ubuntu to Mandriva One instead of Free?'
+-
+    name: freelock
+    mail: john@freelock.com
+    subject: 'Ubuntu has powerful command line tools'
+    hostname: 216.231.62.127
+    created: '1194809440'
+    body: "Hi, \r\n\r\nNice article. I used Mandrake/Mandriva on my primary systems for years, and eventually switched over to Ubuntu with 6.06. What eventually made me switch was just that Ubuntu had a bit more support for 3rd-party software, as a Debian derivative. I found that while Mandriva was quite good, it had its own ideas of where to put different libraries, which meant tracking down the right switches to feed configure scripts, and all sorts of other things, when there's already a .deb available.\r\n\r\nAnyway, the main thing I wanted to point out is that Ubuntu has not let the command line environment slide in any way at all. It's just different. It is rooted in the \"Debian way\" of doing things, rather than having Red Hat roots. Yes, it's unfamiliar at first, and yes, some of the tools are different or missing, but it's no less powerful. Reconfiguring X can be done with dpkg-reconfigure xserver-xorg. You can get a root account by simply using sudo passwd, and setting a root password. Yes, Ubuntu installs a minimal shell environment by default, but all the power tools are an apt-get away. And if you try to run a shell program that isn't there, most of the time it'll tell you what package to install to get it! The shell is hardly a second class interface in Ubuntu.\r\n\r\nI'm not sure what manual overrides in shell files aren't working for you, or what required a reboot--about the only time I have to reboot is related to incompatible hardware drivers. The config files all take changes the same way, but often the actual files you change are different in Debian systems.\r\n\r\nIn all, I do like the way Mandriva sets up the shell environment by default--aliases for ls -l, lots of tools and automatic system checks. I just thought I'd point out that Ubuntu is no slouch. We've even been using it on servers--we have probably a dozen running various versions of Ubuntu, none of them with X. Certain things make them much nicer to administer for our needs--a2ensite for quickly enabling/disabling Apache virtual hosts, for example.\r\n\r\nCheers,\r\nJohn"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'For one very simple reason...'
+    hostname: 84.100.54.236
+    created: '1194874340'
+    body: "...being that Mandriva One and Free differ on one very simple point: One comes packaged with non-Free drivers, and is a LiveCD with install capabilities. That's all there is to it - oh, and the Ia-Ora theme is a different colour in One.\r\nMandriva One is best matched against Kubuntu + non-Free drivers - I don't really see the point in comparing those once installed on a system.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'On speed...'
+    hostname: 84.100.54.236
+    created: '1194874667'
+    body: "...urpmi is only able to download one package at a time. When you have 190 packages of a few kilobytes each to download, synaptics' and smart's ability to start 2 simultaneous downloads allow for a much better use of available bandwidth.\r\nAnd yes, I noticed after posting that synaptics is also available for Mandriva.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: Encryption...
+    hostname: 84.100.54.236
+    created: '1194875139'
+    body: "...is supported at the kernel driver level. Mandriva still supports cryptoloop (use of the kernel LVM encryption on a loopback device), but it is considered obsolete - you should use LUKS instead.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'OK, fair enough...'
+    hostname: 86.71.28.2
+    created: '1194887596'
+    body: "...but then I really, really, really couldn't afford to download and burn the several gigabytes of CD-ROM and DVD-ROM images and test them all. Talk about floorin' a FTP!\r\nI don't use draksound to reconfigure my sound card, usually - but then, I find \"service alsa (re)start\" useful enough for most of my uses (as in, updating ALSA). By the way, a suggestion: a 'dkms-alsa' package, installing a more recent version of ALSA would be damn useful.\r\nThe rpm database corruption has, indeed, occurred on a 2007.0 upgraded to 2007.1 thenupgraded to 2008.0.\r\nThe 'hidden' Gnome CC was not a problem - I just mentioned it because it was, well, different.\r\nAs for ntfs-3g, no, it wasn't the case on USB disk drives formatted in NTFS - and unfortunately, it's not very easy to overcome.\r\nThe network center: yes, I've discovered it too after writing the article. It's nice - but it would need a bit more polish: hardware-deactivated cards (those with a switch) appear as 'eth1' and are not obvious enough; moreover, it would probably be better to invert the tray's icon right-click and left-click behaviour, or have the wizard pop up when clicking a \"advanced...\" option.\r\nThe FTP repository was probably just off-line at the time of testing...\r\nUbuntu uses GNOME - to the exclusion of everything else (Kubuntu is often seen as 'Ubuntu with KDE glued on it'). I'm not saying that Mandriva doesn't support both desktops, just that Ubuntu supports GNOME very, very, very well.\r\nI know that a fallback to VESA doesn't always work (Ati Rage Mobility chips have dodgy VESA implementation too ;) - so I'm not critical about it (on the contrary, I like it a lot!)\r\nI know it is possible to change X drivers without switching to text mode first, but - dixit several programmers in Nouveau and r300 projects - it's better...\r\nAs for the font, well, the DejaVu fonts must have been changed a lot because their width/height ratio has changed - if it comes from work on Freetype rendering, all the better, I'm not one to complain. On the other hand, go and tell Liberation Sans apart from DejaVu Sans, on a 12pt size... You'll understand my mistake, then.\r\n\r\nMerci pour toutes ces précisions :)\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Michael Scherer'
+    mail: misc@zarb.org
+    subject: 'Well, dpkg-reconfigure only'
+    hostname: 195.101.59.116
+    created: '1194894545'
+    body: "Well, dpkg-reconfigure only take care of configuring a single package, which mean you cannot do high level operations, like setting a complete gateway, or a mail server with postfix + clamav + amavis ( as this need to modify 3 single packages ), and I doubt dpkg-reconfigure can install on demand needed package, like XFdrake does ( well, it can, but this is likely be forbidden by policy ). That's not the goal of this tool.\r\n\r\nIt would be nice to have such wizards for debian, and from what I have seen, macosX does this quite well.\r\n\r\nAnd well, debian people always refused to enhance the default configuration of some console tool ( like having vim using syntax on by default, or grep --color, or various tricks like that with less ), so they are not really a perfect exemple of \"treating the console as a first class citizen\". i think ubuntu could be much improved in this regard."
+-
+    name: yoho
+    mail: freesoftwaremagazine@vpanel.cjb.net
+    subject: 'It''s in the errata'
+    hostname: 87.65.171.27
+    created: '1194908425'
+    body: "Mandriva currently supports both but loopback-based encryption system is going to be deprecated.\r\n\r\nhttp://wiki.mandriva.com/en/Releases/Mandriva/2008.0/Notes#Support_for_loopback-based_encrypted_filesystems"
+-
+    name: yoho
+    mail: freesoftwaremagazine@vpanel.cjb.net
+    subject: 'sorry ?'
+    hostname: 87.65.171.27
+    created: '1194908787'
+    body: 'How could downloading two files at once be faster than downloading one file at a time ?? Your bandwidth is the limit... Suppose your bandwidth is 1MB/s : downloading two 1MB files will take 2s, whatever method you choose... However, I agree urpmi first download all the files then install them : it should be possible to download one file & install the previous downloaded one at the same time.'
+-
+    name: tenshu
+    mail: tenshu@gmail.com
+    subject: 'Thanks from an ubuntu user'
+    hostname: 80.13.15.4
+    created: '1194945001'
+    body: "Thank you for this great review\r\n\r\nYou should mention that ubuntu is a reelly young distro \r\nAnd that's exiting to be a part of this project\r\n\r\nA tip for you\r\nTo install restricted codecs, falsh plugin, rar ...\r\nJuste install ubuntu-restricted-extras"
+-
+    name: 'Steve Brennan'
+    mail: stevebrennan@paradise.net.nz
+    subject: 'Mandriva can be customised more when installing'
+    hostname: 121.72.1.126
+    created: '1194981013'
+    body: "Hi,\r\n\r\nFirst off thanks for such a great article. It's refreshing to see an open-minded review. I too use both Mandriva 2008 and Ubuntu 7.10, and whilst both have their advantages and disadvantages one of the things that Mandriva has that Ubuntu doesn't have is the ability to customise the software you install. For example I prefer using Epiphany rather then Firefox as my web browser. Mandriva gives me the ability to deselect  Firefox from the installation and to select Epiphany in it's place. Ubuntu on the other hand pre-installs Firefox whether you want it to or not. \r\n\r\nHowever this is just a minor thing and any software you want which is not included in the default installation of Ubuntu can be easily added afterwards :). One of the joys of Linux is the freedom of choice it gives the end user, and with such great distro's such as Ubuntu and Mandriva those choices can be hard to make at times. Anyway enough rambling from me, thanks once again for such a great article :)"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: delays...
+    hostname: 84.100.56.254
+    created: '1194986513'
+    body: "...are part of any Internet transaction; when setting up a transfer, you can have several seconds of delay when a transfer is started, during which bandwidth is unused - at all. By starting several transfers simultaneously, you ensure that bandwidth is used all during the transfert.\r\nMoreover, if downloads take place from several sites, you remove one possible strangle point: the server's maximum available (or allocaed) bandwidth to your download.\r\nAs such, downloading several files at the same time optimize your available bandwidth - and this improvement can speed up downloads at least a little, and at best incredibly.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Anonymous visitor'
+    mail: ptay1685@bigpond.net.au
+    subject: 'too much choice'
+    hostname: 58.172.152.138
+    created: '1196069080'
+    body: 'Many people keep making reference to the freedom of choice that free software provides and in particular the large number of Linux distros. I The trouble is that the distros are all so similar in the fundamentals, but very different in the fine details, and this makes the choice very difficult to make. There are so many variables to consider, and no large important differences that would make the choice clear cut. I find myself continually oscilating back and forth between different distros. Really I would prefer no choice to these very difficult choices. No matter which distro I pick for the moment within a week I am beginning to think I made the wrong choice and I make a new choice.'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'so you''d rather have none?'
+    hostname: 86.71.28.2
+    created: '1196072956'
+    body: "Well then, I have a nice computer to sell to you: it has an operating system that displays its files in several trees based on disk drives, mapping network connections to virtual disk drives if I need them, and the tree goes top to bottom.\r\nIf you want to display your files in a single tree, you can't; if you want to connect to network shares through the share's protocol, you can't; if you want to browse the Web with an image-less browser, you can't; if you want to use an interface in a different language than the one installed, you can't; if you want to install unapproved drivers, you can't; if you want to use keyboard shortcuts to do some actions, you can't; if you want to automate some actions through scripts, you can't.\r\n\r\nWelcome to Microsoft Windows. Where do you want to go today? &lt;click&gt; unknown file type. Do you want to browse the web and install virii-infested malware to try and open it? &lt;no&gt; are you sure? &lt;yes&gt; Installing web application, bypassing malware checker &lt;cancel&gt; system error: user has performed an illegal operation. Please reinstall Windows.\r\n\r\nOf course, when you don't have any choice, you put up with this.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: Ano
+    mail: Anonymous@visitor.de
+    subject: 'one thing I didnt stand with ubuntu'
+    hostname: 81.57.208.69
+    created: '1196479535'
+    body: "As a Mandriva user, I really tried ubuntu in a fair way and as such, I really like your article which does the same.\r\nBut one thing I didnt stand is the lack of cooperation of the 2 desktops, KDE and GNOME. In mandriva install a KDE app using GNOME, or a GNOME app using KDE, and you get zero problem.\r\nI installed ubuntu but wanted to keep on using kmail, as my mail and configurations were done for this app. Well, after installation, it just doesnt appear in the menus. I discovered I had to actually go into an advanced menu and manually activate the kmail menu.\r\nI found that gross and unproductive. It may seem a silly point to complain about, but it was the spirit of this problem that was really chilling. I mean, if I install an app, it's because I want to use it, why does the system try to prevent me from using what I want?"
+-
+    name: EisBlade
+    mail: jean.ockert@mindspring.com
+    subject: 'Mandriva 2008 tossed to the shelf'
+    hostname: 24.211.249.232
+    created: '1197430953'
+    body: "\r\nI'm new to linux, have distro-jumped for about a 1.5 years, and settled on Mandriva One 2008 for it's overall packaging, appearance, and feel it had to it.  I don't require much, but do want to be able to watch movies and other media on my home PC.  Mandriva now sits on the shelf, unused, staring jealously down on me as I happily hum along with LinuxMint 4.0.  Not my first preference, but noone was able to help me through my soundcard issue.  During the boot process (black screens) my soundcard would activate and a loud squeeling would come from the speakers.  The mic had been turned on which picked up room noise, the speakers turned on and spit the sound from the mic out, and that sound fed directly back into the mic.  A wicked loop of feedback.  The only real suggestion I got on the forums?  To mute the mic.  What sort of nonsense is that? I need to be able to video chat with my son on the other side of the US, and that requires a functioning sound card with nothing disabled nor muted.  Ubuntu installed smoothly and properly detected as did Mint, but Mint didn't require tweaking anything and...just worked.  I'd still like to get back to Mandriva One, but the sound card issue is beyond me and I didn't have access to anyone that could help.\r\n\r\n\r\nThanks!\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: '''mute the mic'' - a very sound advice, actually!'
+    hostname: 86.71.28.2
+    created: '1197481772'
+    body: "ALSA provides 2 settings by input device: capture, and playback. Muting the mic would make the mic still pick up sound, but captured sound would not be fed back to the speakers! So, muting the mic is a VERY good idea - unmuting it is useful for debugging (it allows you to test that your mic actually works), but you will usually keep it muted (probably what Mint does).\r\nYou may take this Mandriva CD off the shelf now.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."

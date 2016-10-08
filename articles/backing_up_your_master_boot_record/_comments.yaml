@@ -1,0 +1,49 @@
+-
+    name: 'Lawrence D''Oliveiro'
+    mail: from-free-software@geek-central.gen.nz
+    subject: 'Just back up the partition table'
+    hostname: 203.118.156.111
+    created: '1186476735'
+    body: "The trouble with backing up the entire boot sector is that, if you need to restore it, it will wipe out the bootloader in the process. Not good. Instead, do something like this:\r\n\r\n<code>sfdisk -d /dev/sda >sda-partitions.txt</code>\r\n\r\nThis dumps the partition table only, not the boot code. Then you can restore it with\r\n\r\n<code>sfdisk /dev/sda <sda-partitions.txt</code>\r\n\r\nOf course, make sure <code>sda-partitions.txt</code> is saved somewhere other than on the disk whose boot sector it is. :)"
+-
+    name: clievers
+    mail: ''
+    subject: 'Better safe then sorry'
+    hostname: 68.145.109.51
+    created: '1186501985'
+    body: "This is a great idea. I'm going to do this tonight on my two Ubuntu boxes. Actually, I guess I could do this on my Windows box too? The MBR is the MBR. Backing up is gooooooodddddd.\r\nThank you.\r\n------\r\nlet's all play nice!"
+-
+    name: skypjack
+    mail: ''
+    subject: 'MBR-backup vs Grub'
+    hostname: 87.11.248.164
+    created: '1186647667'
+    body: "This is a good idea and a good article!\r\nUntil now, I've used a grub disk (floppy disk) to recover from MBR disaster. Logging into my unreachable Linux system from grub shell, then I can restore the MBR without problems.\r\nHowever, this is a good tip to save my time."
+-
+    name: ErnieDV
+    mail: ''
+    subject: 'Very Timely'
+    hostname: 207.246.31.4
+    created: '1187106936'
+    body: 'This is a very timely tip.  I''m about to try Linux on my Dell E310 system.  Given that this is one of those systems where the only way you can restore Windows is by restoring the entire system from the special partition, I''ve been very nervous about making a lot of work for myself in case it all goes horribly wrong.  Using a live CD to do this before hand and saving to a USB stick is a great safety net.'
+-
+    name: FXEF
+    mail: fxef@comcast.net
+    subject: 'umount...????'
+    hostname: 76.107.37.254
+    created: '1194108107'
+    body: 'This is question, not a suggestion. I have read that when using dd that all drives or partitions should be unmounted. Is this the case with your use of dd?'
+-
+    name: 'Sukarn Maini'
+    mail: dj_sukarn@yahoo.co.in
+    subject: 'Re: umount...????'
+    hostname: 122.168.4.73
+    created: '1196878504'
+    body: "No, you do not need to unmount your partitions to backup your mbr using this command.\r\n\r\nHowever, I don't know about the need to unmount for restoring the mbr."
+-
+    name: tk3000
+    mail: ''
+    subject: 'Only a small correction (the'
+    hostname: 68.77.110.206
+    created: '1246617498'
+    body: "Only a small correction (the original poster probably forgot to complete the line). In order to recover the partition table one would have to redirect the file containing the partition table backup, as  follows: \r\n\r\nsfdisk /dev/sda < sda-partitions.txt\r\n\r\nwhich will then recover the last partition table backed up with: \r\n\r\nsfdisk -d /dev/sda > sda-partitions.txt\r\n\r\n"

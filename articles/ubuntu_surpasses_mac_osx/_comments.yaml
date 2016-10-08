@@ -1,0 +1,28 @@
+-
+    name: ''
+    mail: ''
+    subject: misleading
+    hostname: 84.252.26.6
+    created: '1162454015'
+    body: "\"However, as the comments on the article indicate, really this is just showing the relative number of searches for \"Ubuntu\" vs. \"Mac OS X.\" Still, even if it's not an accurate indicator of how many people are installing either OS, I find it significant that a free OS would trump a powerful commercial OS like the Mac's in Google searches.\"\r\n\r\nAre you not reading what you write or do you need this desperately ubuntu to be more popular than OS X? OS X has been around for considerably longer period of time and a lot more people know what it is, how to fix problems with it ( and they do occur considerably less often than on Ubuntu ). It is perfectly normal for google to receive less queries about Mac OS X than it does about Ubuntu. Plus if you run into a problem in pretty much every linux dostro, the first thing that you do it google it. Yet that doesn't mean that you, the single user, are more than the 10 other OS X users that first of all don't know what to do if they have a problem with their mac and 2nd wouldn't even recognize most problems until they are eye-gouging. Plus, to be honest, I can't tell you for the life of me why Ubuntu is so popular inside the linux world. I guess they just got lucky and came to life at the right time. Only in the business world you need constant innovation in order to stay alive and Ubuntu is starting to choke on their promise... "
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'Re. misleading'
+    hostname: 210.10.177.139
+    created: '1162521293'
+    body: 'Maybe so, but the report does demonstrate the increasing level of public interest in Ubuntu, which is a good thing. Spread the good word; Ubuntu, the next Great Leap Forward for free software.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'User agent would be more reliable'
+    hostname: 68.93.224.4
+    created: '1162676607'
+    body: 'A more reliable statistic would be based on O/S as specified in user agent strings from browsers (it would say what O/Ss were being used by web surfers). But I haven''t been able to find any recent stats on that. I founds some stats from 1999 and 2001 that report user-agent based shares of about 0.25% for Linux, compared to about 2% for Apple Macintosh (not very complete references, though).'
+-
+    name: ''
+    mail: ''
+    subject: 'We are talking two ends of a bell curve'
+    hostname: 68.107.57.59
+    created: '1173064045'
+    body: 'Think of your standard bell curve from your college stats/econ/polysci (etc..) class. Now, the X axis would say "Knowledge About Computers." Two SD to the left you have your Ubuntu users, most of the middle is Windows PC, and the right is Mac. I don''t think Apple is worried about losing its target market to Unix/Linux. -Phoenix'

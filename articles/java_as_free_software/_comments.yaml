@@ -1,0 +1,56 @@
+-
+    name: 'Marco Marongiu'
+    mail: ''
+    subject: UPDATE
+    hostname: 213.205.14.111
+    created: '1163424022'
+    body: '<p><a href="http://news.lycos.com/dynamic/stories/S/SUN_JAVA_OPEN_SOURCE?SITE=LYCOS&amp;SECTION=TECHNOLOGY&amp;TEMPLATE=DEFAULT&amp;CTIME=2006-11-13-00-26-47">Lycos News/ Associated Press</a> has an article about this</p>'
+-
+    name: thlinux
+    mail: ''
+    subject: 'Sun is leading the way'
+    hostname: 207.13.167.2
+    created: '1163441147'
+    body: 'Being able to create cross-platform applications without the hindrance of proprietary software is the key to making open-source software and the Linux desktop a major player.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I''m not sure this really'
+    hostname: 68.93.224.4
+    created: '1163454470'
+    body: "I'm not sure this really constitutes “leading”. Python, Perl, and Ruby all enable cross-platform application development. Python at least has been around since the early 1990s and has been available under a completely \"free\" license since 2000 at the latest (the earlier license would probably be regarded as free by most people, but was GPL incompatible).\r\n\r\nStill, it is nice to see Sun <em>following</em> the lead of others after only ten or so years of lag time. ;-)\r\n\r\nQuite a few people seem to like Java, and there's a lot of free software written for it which had to previously be regarded as \"contrib\" since it brought in the non-free JRE as a requirement. It'll be interesting to see what packages will be affected.\r\n\r\nFor one thing, it'll resolve Debian's long-standing Java policy crisis.\r\n"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'Another article...'
+    hostname: 69.180.163.110
+    created: '1163470720'
+    body: "Another article:\r\n\r\n<a href=\"http://blogs.zdnet.com/BTL/index.php?p=3937\">http://blogs.zdnet.com/BTL/index.php?p=3937</a>\r\n\r\nLots of interesting stuff.  I liked this:\r\n\r\n<em>Sun played a video of Stallman not just saying that \"the Java trap won't exist anymore\" (as it applies to Java), he gave a stunning endorsement of Sun's behavior and contribution (as the largest contribution of its kind to the free software community). It was a complete 180 degree turn in disposition for the leader of the free software world.</em>\r\n\r\nI <a href=\"http://www.technewsworld.com/story/8F5qWE1kpU9zZC/Elections-Arrogance-Blogs-and-Passion.xhtml\">read something</a> about how RMS's arrogance may have contributed to the MS/Novell deal:\r\n\r\n<em>For OSS, as we mentioned last week and the week before, the Oracle move against Red Hat and the Microsoft-Novell deal might not have occurred had it not been for the incredibly arrogant way Richard Stallman was treating the companies that supported Linux.</em>\r\n\r\nAnd I wonder if people like the author of that piece will look at this news as a demonstration of what happens when you remain consistent in your beliefs and values.  And patient.  Maybe it's not arrogance, but instead is commitment to a plan that is working.\r\n\r\nThis is very welcome news, and I'm happy that Sun chose the GPL over the Apache license.\r\n\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: 'Giordano Cevallos'
+    mail: ''
+    subject: 'Java Free ? OK Enjoy your freedom'
+    hostname: 201.234.206.236
+    created: '1163477930'
+    body: "To seem this is a god news for free software launchers, I hope that it ´s a true .\r\nIn bioinformatics some applications are running in Java and this fact let a great jump to continue development in this area, another programs running in Python and Perl (free too).\r\nI believe that the business in this moment will be Solaris  and to let free Java is a marketing strategy for maintain the collaborators in the free source community, but, if Java is really free , Sun and free source programmers are happy  and my too and the java trap disapear in the infinite ( I hope).\r\nCongratulations if the trait take a god final. \r\nI believe that I continue my learning about programming in Java with more enthusiasm  now .\r\nBest regards .\r\n\r\ndruid777"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: arrogance
+    hostname: 68.93.224.4
+    created: '1163573576'
+    body: "Huh, I followed your link, but that really is all the guy said about it. He didn't support this claim at all, and I frankly don't see how anything Stallman has said could be interpreted as driving either the Oracle/Red Hat or Novell/Microsoft events.\r\n\r\nBoth seem to be fairly clearcut cases of companies seeking to take advantage at the expense of other companies.\r\n\r\nEDIT: Oh wait, that was Rob Enderle? No wonder."
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: Yeah...
+    hostname: 69.180.163.110
+    created: '1163597560'
+    body: "I agree --  I was kind of nonplussed by the charge.  I'm not familiar with Enderle's work, but my buzzword radar beeped when I saw in that same blurb, \"At the end of the day...\"  Scanning over the whole entry, it looks like lofty pronouncements are favored. :-)\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Enderle
+    hostname: 68.93.224.4
+    created: '1163626893'
+    body: "Enderle is a sufficiently well-known anti-free software hatchetman (by his own <a href=\"http://www.sco.com/2004forum/agenda/Enderle_keynote_SCO-Forum2004.html\">admission</a>, even), that he has his own <a href=\"http://en.wikipedia.org/wiki/Rob_Enderle\">wikipedia entry</a>.\r\n\r\nSome of his writing is incredibly gonzo. The example you pointed to is an extremely mild case. He's quite a character.\r\n"

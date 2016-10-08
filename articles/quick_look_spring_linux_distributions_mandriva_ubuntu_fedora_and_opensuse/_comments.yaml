@@ -1,0 +1,28 @@
+-
+    name: rdieter
+    mail: ''
+    subject: 'Why does fedora include KDE4 only?'
+    hostname: 129.93.181.39
+    created: '1209038448'
+    body: "Because upstream doesn't (cleanly) support it:\r\nhttp://fedoraproject.org/wiki/SIGs/KDE/KDE4FAQ\r\n\r\nAnd rest assured, fedora 9 users will see updates asap when kde-4.1 is released."
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'But why not just go the way'
+    hostname: 68.197.66.72
+    created: '1209044948'
+    body: "But why not just go the way of Kubuntu and wait? After all, not every one will read that FAQ. Some might just upgrade. And get rather surprised.\r\n\r\nJust a thought. Though that definitely clears up some of my confusion.\r\n\r\n--\r\nAndrew Min\r\nhttp://andrewmin.com/"
+-
+    name: rdieter
+    mail: ''
+    subject: 'wait?  not fedora''s style'
+    hostname: 129.93.181.39
+    created: '1209045809'
+    body: 'Besides, then our users would have to wait at least 6 months, for fedora 10, before getting any kde4 love.'
+-
+    name: vargux
+    mail: ''
+    subject: Thx
+    hostname: 190.161.93.152
+    created: '1224569703'
+    body: "Thanks for cite to my in Ubuntu screen-capture \r\n\r\nhttp://vargux.blogspot.com"

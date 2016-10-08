@@ -1,0 +1,7 @@
+-
+    name: god
+    mail: ''
+    subject: 'Did you consider a more native solution, as in POE?'
+    hostname: 203.59.90.115
+    created: '1143696971'
+    body: "<strong>From</strong>: Randal L. Schwartz \r\n<strong>Url</strong>: http://www.stonehenge.com/merlyn/\r\n<strong>Date</strong>: 2005-08-08\r\n<strong>Subject:</strong> Did you consider a more native solution, as in POE?\r\n\r\n\r\nI've done projects with POE and Tk before (http://www.stonehenge.com/merlyn/PerlJournal/col11.html), and found the result to be quite satisfactory.  In Unix thread is spelled \"f o r k\", so the \"thread\" support in Perl is really mostly for Windows people to be happy.  POE works nicely on both Windows and Unix though."

@@ -1,0 +1,42 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Ogg versus MP3'
+    hostname: 68.93.224.4
+    created: '1165821199'
+    body: "The biggest problem with Ogg format is that not many portable/embedded players support it. This means that if you store your compressed audio in Ogg format, and you want to listen to it on cheap embedded players, you will have to transcode the data to MP3 anyway.\r\n\r\nWhich is a pain. So many people choose to just keep their music in MP3 format.\r\n\r\nThis isn't much of an issue for me, because I just don't have any embedded compressed-music players! But every time I think about buying one, I agonize over the process of finding a good one that supports Ogg (not much luck at the Walmart -- I'd have to buy something online, probably).\r\n\r\nObviously, one reason for MP3's success over Ogg is that it's been around longer. But of course, WMA is newer than either, and many new players support it, but not Ogg. One might suspect a conspiracy!\r\n\r\nHowever, I have learned that at least part of the problem is (or at least was) technical: Ogg apparently uses a floating-point based algorithm to do its compression, whereas both MP3 and WMA use integer-based math. This has a significant impact on the CPU requirements for hardware that processes them. The Ogg format was designed, I believe, with Intel-based PCs in mind, as the most efficient way to use that hardware for compression (and many people seem to think that Ogg files produce better fidelity/compression performance than MP3), but they didn't really accomodate the needs of embedded devices.\r\n\r\nThus many devices just don't have the CPU cycles needed to process Ogg.\r\n\r\nIIRC, however, there were some improvements in this direction (an integer-based algorithm for Ogg files), but I haven't kept up with that.\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Vorbis and foating point'
+    hostname: 84.7.125.11
+    created: '1165826385'
+    body: "Vorbis does indeed use a floating point encoding process - and so do WMA and MPEG-1 Layer 3 (mp3). Encoding the files is one thing; decoding them is another, and you can actually decompress MP3 files with integer based processes. But so can you Vorbis! The 16-bit integer based decoder is free and is called Tremor. In matters of CPU cycles, Vorbis demand isn't as high as you'd think. Hovever, and contrary to mp3, it requires a few more kilobytes of fast RAM (32kb if I'm not mistaken) for the actual decompression - something which can actually be hard to allocate on embedded devices (mp3 requires 4kb if I'm not mistaken).\r\nmp3 starts with cutting off the higher frequency range and muffles the sound the higher the compression ratio is; it is bitrate-based, although an abuse of its format definition allows it to work in a quality based (variable bitrate) compression scheme (see LAME). It includes several filter passes so as to remain audible (though eventually muffled) in high compression.\r\nWMA 'simplifies' the sound wave 'appearance' until it reaches the required bitrate. It is extremely fast due to almost no filters being applied - which provokes ringing, metallic noises and general nasty harmonics to be generated in, say, 64k/sec compression (while an MP3 compressed at this rate will be automatically downsampled to 22 kHz and muffled, but much easier on the ear)\r\nVorbis won't reach 64 k/sec if you require quality to remain high (it is a variable bitrate encodig process) but on comparable sound quality it'll beat WMA by 10-15% and variable bitrate MP3 by 20%. It won't encode non stereo, lower-than-CD quality efficiently though.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Wow, thanks'
+    hostname: 68.93.224.4
+    created: '1165829028'
+    body: 'Wow. Thanks for coming up with the facts on Ogg/WMA/MP3. I feel greatly enlightened! :-)'
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'Pirates! *harr, harr*'
+    hostname: 212.117.101.67
+    created: '1165850952'
+    body: "I'm looking forward to your next blog post! Maybe you'll also want to write something about so called 'piracy', legal issues and what 'intelectual property' does to creative works. \r\n\r\nPlease have a look at the political <a href=\"http://www2.piratpartiet.se/international/\">Pirate Party</a> which formed in Sweden around the worlds largest BitTorrent Tracker <a href=\"http://www.piratebay.org/\">The Pirate Bay</a> and the anti-copyright organisation <a href=\"http://en.wikipedia.org/wiki/Piratbyr%C3%A5n\">Piratbyran</a>.\r\n\r\nThis is a movement which aims to reform todays restrictive copyright system with ideas of for example Lawrence Lessigs <a href=\"http://free-culture.org/\">Free Culture</a> in mind. A lot of the ideas of the Free Culture Movement are actually derived from the ideals of the free software movement."
+-
+    name: 'Rom Feria'
+    mail: ''
+    subject: 'Ogg and FLAC'
+    hostname: 121.97.196.78
+    created: '1165962088'
+    body: "Well, I guess the very nature of Ogg, i.e. open, is the hindrance to adoption. Since it is open, I dread to see a DRM slapped on it so that recording companies can make sure that their music is difficult to pirate. The reason why AAC with Apple's Fairplay and WMV of Microsoft with their own DRM are gaining advantage over open formats.\r\n\r\nAnother file format that I have encountered is FLAC, which uses lossless compression. Although I have yet to see a device supporting it, it may also be a good alternative to other proprietary file formats.\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'As it stands...'
+    hostname: 84.7.125.11
+    created: '1166103490'
+    body: "...there are players that support Vorbis and/or FLAC. The problem with the latter is the much longer encoding process required, and the lower compression ratio (highest compression will yeld a file that is around 60-80% smaller than uncompressed, while Vorbis will result in 90% smaller files that still sound extremely good in a fraction of the time).\r\nFLAC is an excellent compressor for sound archival, Vorbis is much better at consumer playback.\r\nDRM isn't really a concern, as a matter of fact: MP3 doesn't support it, and no players these days can do without MP3 playback; Vorbis is a MP3 replacement that happens to have much better quality than WMA or AAC, but which is not commercially enforced. It all comes down to marketing.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."

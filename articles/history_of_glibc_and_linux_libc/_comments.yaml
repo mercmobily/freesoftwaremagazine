@@ -1,0 +1,28 @@
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'The history of GNU/Linux is important too'
+    hostname: 59.101.14.126
+    created: '1182308114'
+    body: 'The development of GNU/Linux has been quite a roller-coaster ride, with nearly all attention focused upon development and the future. The period, over which this has occurred, is now long enough that there is the very real risk that certain segments of the history of GNU/Linux might become lost to future users. It''s good to see that some attempts are being made to address this potential problem.'
+-
+    name: 'Ciaran O’Riordan'
+    mail: ''
+    subject: 'It''s strange'
+    hostname: 83.217.158.46
+    created: '1182335616'
+    body: "<p>\r\nI agree.  It's very strange how little there is written about the history of a movement that should be very simple to find old documents about.\r\n</p>\r\n\r\n<p>\r\nWhere are all the old release notes?  announcements?  mail archives of key flame wars?\r\n</p>\r\n\r\n<p>\r\nThere must be thousands of interesting documents out there, but we can't easily find them (maybe because they're in gzipped files on ftp sites and aren't crawled by today's search engines).\r\n</p>\r\n\r\n<p>\r\nSome interesting sets of documents I've found are:\r\n</p>\r\n\r\n<ul>\r\n<li><a href=\"http://fsfe.org/transcripts\">List of free software transcripts, including some old RMS speeches</a></li>\r\n<li><a href=\"http://www.gnu.org/bulletins/\">The GNU's bulletins which FSF published from 1986 to 1998</a></li>\r\n<li>One I haven't actually read yet: <a href=\"http://www.groklaw.net/staticpages/index.php?page=20051013231901859\">The Daemon, the GNU & the Penguin</a></li>\r\n</ul>\r\n\r\n<p>\r\nI remember finding a PDF document of a guy telling about his experience working for FSF for a few months.  The main thing I remember is that he said RMS was very strict about code having to be well documented.  I can't find that document anymore though.\r\n</p>\r\n\r\n<a href=\"http://fsfeurope.org/projects/gplv3/\">GPLv3 - strengthening free software</a>"
+-
+    name: 'Lawrence D''Oliveiro'
+    mail: ldo@geek-central.gen.nz
+    subject: 'Thanks for your item. I''ve'
+    hostname: 203.118.156.111
+    created: '1182486982'
+    body: '<P>Thanks for your item. I''ve added it to a list of Linux-history-related links I''ve been collecting here: http://wlug.org.nz/LinuxHistory .'
+-
+    name: nickh
+    mail: nick@foobar.org
+    subject: 'This was the last straw'
+    hostname: 87.198.182.30
+    created: '1182609963'
+    body: "the re-merging from libc5 to glibc at that period was the last straw for me in terms of linux.  having started out using the o/s in 1993, i remember counting seven different and incompatible c libraries / executable formats in the following five years.\r\n\r\nthe RH3 and RH4 boxes i was running in 1997-1998 used substantial in-house modifications to libc5 to make up for the large number of deficencies in the c library - one that particularly springs to mind was the lack of db/dbm/gdbm support for /etc/passwd, which hurt really badly on a passwd file of over 1Mb.\r\n\r\nso it was clear that every box was going to have to be wiped and installed from scratch to support the libc5 -> glibc move properly, and even then the early versions of glibc were horrendously buggy, not having seen much production use in 3 years.  in the end, i moved everything to freebsd because it had better support at the time for larger systems (32 bit UIDs, large passwd file support, stabler filesystem, usable NFS).  and no history of libc problems.\r\n"

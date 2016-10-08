@@ -1,0 +1,448 @@
+-
+    name: ''
+    mail: ''
+    subject: 'ATI 200M'
+    hostname: 164.64.161.13
+    created: '1161007206'
+    body: 'Only the 8.24 driver works with this chipset (you have to have UMA and sideport enabled in the bios).  ATI has not fixed the issues with getting the newer drivers to work (they only work if you can set the bios to UMA only to use shared memory).  The Xorg Raedon driver does not support 3D mode on this chipset.'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Cached, shared memory adapters...'
+    hostname: 84.7.122.238
+    created: '1161070164'
+    body: "...are really hard to make to work due to increased memory management problems - which the driver is responsible for. Now, not only is Ati well-known for leaving their Linux-using customers behind (while Nvidia is pretty reactive), their chip lines are much more complicated than Nvidia's or Intel's: changing memory management, changing hardware calls, changing overall design... It's complicated (look at the Rage line and weep).\r\nAs such, unfortunate owners of shared memory adapters are left behind due to no proprietary driver support (Ati doesn't bother) and very little open-source driver support (it's very complicated, and lacks specifications).\r\nOn Nvidia's side, their chipset lines are much less complicated (that's what the Nouveau project seems to say at least); moreover, most of their products are supported by the proprietary driver. Still, their Turbocache cards have little to no support (fully shared memory: yes, fully chip-owned memory: yes, cached shared memory:no) but since I don't have any of those cards (waste of money), I can't say more.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: Thanks
+    hostname: 201.52.109.144
+    created: '1161216970'
+    body: "This is the first place I could finaly learn about the 3D desktop scene and status.\r\n\r\nBefore your post I couldn't understand why Red Hat was not collaborating with Novell's development on XGL.\r\n\r\nAnd thanks for the clear HW support matrix. "
+-
+    name: ''
+    mail: ''
+    subject: 'Ohter ATI cards'
+    hostname: 87.4.166.235
+    created: '1161432974'
+    body: 'Hello, I can provide some information on AIGLX with others ATI cards. Compiz on AIGLX (xorg-server 1.1.1) works without problems in two of my systems, respectively on a Radeon 7500 (RV250) AGP and on a Radeon X550 HM (RV370) PCI-E. In both cases, 3d effects are smooth.'
+-
+    name: ''
+    mail: ''
+    subject: 'GeForce2 MX 400 and Matrox G450'
+    hostname: 206.83.205.138
+    created: '1161491511'
+    body: 'GeForce2 MX/MX 400 works with the nVidia beta 9625 with Xorg 7.1 and compiz.  You need to use 24 bit depth, also if you have eeprom module loaded rmmod it(even with NOSMBUS patched).  My old Matrox G450 dual head also works with AIGLX/compiz with the most recent Xorg 7.1 in debian unstable.  It is slightly slower than the GeForce2 card but not unusable.  I tried a G400 Mil but that wouldn''t cut the mustard.  Anybody got a G400 MAX working?'
+-
+    name: ''
+    mail: ''
+    subject: 'RivaTNT with  32MB ram'
+    hostname: 161.114.228.150
+    created: '1161564940'
+    body: "Do you have a howto on how you got beryl/aiglx working with this card?\r\n\r\nThanks."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Beryl on TNT2 cards'
+    hostname: 84.7.122.238
+    created: '1161877273'
+    body: "I can't really help you there, as I don't have a Tnt2 (only a Tnt1); as far as I know, you're forced to use 'legacy' Nvidia drivers on Tnt2 cards - and those definitely don't support AIGLX.\r\n\r\nYou can try to install the 96.25/26 Nvidia drivers (25 is beta; 26 is Quadro-specific, but works with other cards) and see if they recognize your Tnt2 card (frankly I doubt it).\r\nIf (and only IF) they do, then normally X 7.1 would start with the nvidia driver. Once there, you must parse the /var/log/Xorg.0.log file (if it's located there in your distribution) and see if AIGLX is enabled (you can type \"less /var/log/Xorg.0.log | grep AIGLX\" as root to get an idea fast). If it is, then you can try to install Beryl (either compile from sources, or get packages for your distro) and run it (usually through beryl-manager) to see if it works.\r\n\r\nBut I'm afraid a Tnt2 is a bit too flakey to run it in a pleasant fashion.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'r250 and r350+, ok!'
+    hostname: 84.7.122.238
+    created: '1161878087'
+    body: "Thanks for the input.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Got the G450 and NV11, ok'
+    hostname: 84.7.122.238
+    created: '1161878573'
+    body: "Is the G400 not working: at all, with proprietary/free drivers, have you tried Xgl on it, or does it lock up?\r\n\r\nI was aware of the 24/32 bit problem, but it's not that much of a problem since Nvidia cards have always been notorious for their inability to process 16-bit data correctly (they are in fact generally slower in 16-bit than they are in 32-bit mode, and that started with the Tnt).\r\n\r\nI'm no Matrox specialist (been years since I last saw one actually), so I'll have to investigate.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'Sorry, I just realized that'
+    hostname: 87.2.243.162
+    created: '1161989268'
+    body: 'Sorry, I just realized that I misreported the GPU name for the Radeon 7500. It is RV200, not RV250 :('
+-
+    name: ''
+    mail: ''
+    subject: 'I''ve got beryl/aiglx working'
+    hostname: 74.69.123.82
+    created: '1163012744'
+    body: 'I''ve got beryl/aiglx working well on a radeon x800GTO (I believe it is the r480 chip).  Performance lags a bit at times (mainly when scrolling web sites) but overall it works well.'
+-
+    name: ''
+    mail: ''
+    subject: 'G400/G450 work with Xorg/aiglx no more dri locking'
+    hostname: 206.83.205.138
+    created: '1163017388'
+    body: "This is just an update and clarification on the drivers I used since my last reported testing  with Matrox cards.\r\n\r\nThe original driver I used for the G450 was the Xorg 1.4.2 mga driver not the vendors(Matrox) driver with hal.  However I think someone over in Matrox's user forum has updated an unofficial matrox driver to get Xorgs new version >1.4.2 to work with the hal.\r\nI have now tested the Xorg 1.4.4 mga video driver version and that seems to take care of issues with G400 (just a side note, I had originally forgot to remove Option \"MGASDRAM\" from my G450 configuration when I originally tested the G400 with SGRAM, it didn't crash the Xorg server but just appeared like dri was locked up with no output).  So now I can confirm that the Xorg 1.4.4 mga driver in 7.1 does work with the G400/G450.  I have not tested the unofficial matrox driver with hal so I can't confirm that.  There are also reports of some G200 cards working with the newer Xorg mga driver too.\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'ATI X600'
+    hostname: 137.132.3.7
+    created: '1163052992'
+    body: "AIGLX + Compiz is working on my ATI X600 Card. Using FC6.\r\n-Lawrence"
+-
+    name: ''
+    mail: ''
+    subject: 'AIGLX bzw. XGL'
+    hostname: 212.2.96.100
+    created: '1163425616'
+    body: 'I have a Radeon Mobility 9200 which cannot, with the open source driver on FC6 using AIGLX, support in hardware all the features offered by compiz (e.g. water effects, changes in opacity). In contrast to AIGLX, can XGL support in software newer Gl extensions not handled by the older graphics cards?'
+-
+    name: BitShifter
+    mail: ''
+    subject: 'Thanks for all the info'
+    hostname: 61.246.101.111
+    created: '1163498659'
+    body: 'Thanks for all the info regarding 3D. I know not a lot, and this helps a lot. I personally use ATI Radeon, I feel it''s the most adept. But I could be wrong. ANy suggestions?'
+-
+    name: ''
+    mail: ''
+    subject: 'Open source driver coming along?'
+    hostname: 64.26.157.210
+    created: '1163617612'
+    body: 'Is this with the open source driver, which (I understand) is required for AIGLX?  It''s marked on the support grid as "Experimental" for your core...Is there any hardware 3D acceleration at all?  I''m using an X700 so if it''s borderline for you in 2D, I''m probably not going to be happy with AIGLX + accelerated 3D :)'
+-
+    name: ''
+    mail: ''
+    subject: '9800 Pro'
+    hostname: 24.80.34.78
+    created: '1163746346'
+    body: "MDV 2007 \r\nR350\r\n128 mb video ram\r\n\r\nThe free driver does not support 3d only xgl with the proprietary driver is available.\r\n\r\n3d desktop is a bit sluggish but certainly usable.  Resizing windows is slow enough to be irritating but everything else seems to work nicely.  "
+-
+    name: ''
+    mail: ''
+    subject: 'GeForce2 Ti +aiglx+beryl'
+    hostname: 61.149.2.202
+    created: '1163997856'
+    body: "my OS is Ubuntu (edgy) \r\nvideo card driver is nvidia-legacy-glx(71.84)\r\nI can't start beryl \r\nI don't know what's the reason,is my video card is too old to run it or some other reasons."
+-
+    name: ''
+    mail: ''
+    subject: '"Metacity is Gnome’s successor to Enlightenment"'
+    hostname: 124.189.197.185
+    created: '1165319053'
+    body: "Not trying to be pedantic, BUT...\r\n\r\nMetacity replaced Sawfish (formerly called Sawmill) as gnome's default window manager. Prior to sawfish/sawmill it was enlightenment. \r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'i945GM+AIGLX+Beryl on Acer Aspire 3692 laptop'
+    hostname: 195.225.128.22
+    created: '1165365161'
+    body: 'Works fine. Driver i810. Beryl i`ve installed in Ubuntu from repository.'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Try, tell'
+    hostname: 84.7.125.11
+    created: '1165486054'
+    body: "As far as I know, the free driver does provide enought acceleration to work a 3D desktop; it is still experimental in the sense that some older functionalities have been disabled and newer ones are not implemented yet - or incomplete.\r\nDue to it being a work in progress, the version of Mesa you use is of the utmost importance: cvs versions will usually support more functionalities but break often, releases will support less hardware and less functionalities, but be much more stable.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Check driver capabilities...'
+    hostname: 84.7.125.11
+    created: '1165486310'
+    body: "This is more of a driver support problem: the 9200 core is basically an overclocked 8500 core (in its privately owned VRAM version), but it has seen a few modifications. The free driver may not provide accelerated functionalities required (opacity would be alpha level modification on a pixmap) right now (it may come later), while under Xgl it may (opacity would work on a software generated texture - what XGL does - if texture from pixmap doesn't work).\r\nFrankly, here, you'd be better off asking the plugin's maintainer.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Suggestions? Ask, choose.'
+    hostname: 84.7.125.11
+    created: '1165486650'
+    body: "Recent Nvidia proprietary drivers work - quite well - on most of their hardware range. The free Ati Radeon driver gets better all the time, however recent Ati hardware shines by its complete lack of support.\r\n- if you want to stay with Ati, don't get anything more recent than X850 for now - for both proprietary and free drivers.\r\n- if you look for the most powerful piece of hardware supported under GNU/Linux, I'm afraid Nvidia still is the way to go - if only because their driver support is surprisingly complete under POSIX systems.\r\n- if you want a Free driver, Intel or Ati are your only alternatives for now. Intel chips are onboard ones and lack power, Ati is tentatively supported up to the X850 (last time I checked - it changes fast)\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Oh?'
+    hostname: 84.7.125.11
+    created: '1165486765'
+    body: "Strange - I had AIGLX working on that same distro with a 9500 and the free driver.\r\nResizing windows is ALWAYS sluggish, even more so under Xgl - due to the huge amount of RAM copies performed.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Sawfish - sawed.'
+    hostname: 84.7.125.11
+    created: '1165486852'
+    body: "Well, I wasn't doing a complete history of Gnome's VMs - just mentioning what works and what doesn't. Thanks for the info though.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'ati driver on ppc'
+    hostname: 69.243.60.88
+    created: '1165979108'
+    body: 'AIGLX on my powerbook (ppc linux) with the ati driver (radeon 9200) works except that the colors are all borked.  The colors are fine using Xgl, except that performance is slower.  Has anyone else seen weird colors using the open source ati drivers with aiglx?'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Driver bug, and probably a dumb one...'
+    hostname: 84.7.125.11
+    created: '1167124244'
+    body: "I'd say endianness on RGB channels - PPC doesn't use the same bit order that x86 do, and there must be some hard-set bits set up somewhere that reverse a colour value.\r\n\r\nDoes it happen with other 3D apps, anywhere? If yes, then get your Mesa version info, and report it to the Mesa devel mailing lists.\r\nIf AIGLX+Beryl are the only things getting messed up, get your Mesa+AIGLX+Beryl versions and report it to both Beryl and X.org dev mailing lists.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'Video drivers'
+    hostname: 88.96.166.22
+    created: '1168346489'
+    body: 'You need to use the latest Nvidia drivers to get Aiglx working, there are guides for both Edgy and Dapper.'
+-
+    name: ''
+    mail: ''
+    subject: Wrong!
+    hostname: 190.37.0.203
+    created: '1169258479'
+    body: "AIGLX = The present\r\n\r\nXgl = The future\r\n\r\nXglx (the actual implementation) is here just to be able to run the \"X on opengl\" thing with actual drivers, and even with that dirty hack of running one xserver on top of the other you can see that is less driver-dependent, Xegl a complete xserver layered on top of Opengl is the long term solution with a far better and modernd arquitecture than Xorg :D, and this means a lot more than just being able to run compiz/beryl"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'XGL isn''t Xegl'
+    hostname: 84.100.56.9
+    created: '1170705801'
+    body: "The big problem with XGL is that you can't run the server and the clients on different machines - which was X11's initial mission.\r\nAs such XGL is not only a 'dirty hack', it also castrates X11. On the other hand, AIGLX still allows client-server architectures, and is not only 3D enabled: it's an advanced compositing extention that will allow at the end much more advanced graphics management. Xegl has actually been somewhat merged with AIGLX, and integrated in the official X11.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'gf2 mx400 cannot work for beryl'
+    hostname: 202.97.149.167
+    created: '1170738452'
+    body: "My systerm is fc6 ,I can't install the driver on my systerm ,it's said that\r\nmy kernel is not compiled, I don't understand it .I have three kernels on my mechine ,2.6.18-fc6-xen,2.6.19-fc6-xen and 2.6.19-fc6,these all can't install the driver. Who can tell me what to do?\r\nThanks"
+-
+    name: ''
+    mail: ''
+    subject: "openSuse 10.x - compiz\nfrom"
+    hostname: 88.218.101.35
+    created: '1170940277'
+    body: "openSuse 10.x - compiz\r\n\r\nfrom Xorg.0.log\r\nIntel Corporation 82946GZ/GL Integrated Graphics Controller rev 2\r\nVideoRAM: 126976 kByte\r\n\r\nfrom Xgl.0.log\r\nscreen 0 - 1280x1024 @ 24:\r\nGL renderer:        Mesa DRI Intel(R) 946GZ 4.1.3002\r\nGL version:         1.4 Mesa 6.5.2\r\n\r\nFollowed the directions in http://en.opensuse.org/Using_Xgl_on_SUSE_Linux\r\n\r\nChanged the resolution from 16 to 24 bits (xgl over xorg) - nice to see how things work - opensuse 10.2 compiz (recompiled kernel, though)\r\n\r\n---------------------\r\nhttp://tlgu.carmen.gr/gnulinuxtips/GNU-Linux on the Lenovo-IBM ThinkCentre A55.html\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Does this work on ppc64 xorg'
+    hostname: 85.18.66.23
+    created: '1171061034'
+    body: "Does this work on ppc64 xorg 7.1.1 too ?\r\nThanks"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Don''t forget the kernel headers!'
+    hostname: 84.100.56.135
+    created: '1171113689'
+    body: "If you don't have the headers installed on the system, the installer can't compile the module. Check that your running kernel has its headers installed.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: '16- and 24-bit problem'
+    hostname: 84.100.56.135
+    created: '1171113802'
+    body: "were you having problems in 16-bit mode? I've seen some cases of non-working 3D compositing in 16-bit...\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: '3dfx Voodoo3 support'
+    hostname: 136.182.158.153
+    created: '1171301910'
+    body: "Do you have any results regarding 3fdx & AIGLX / compiz? The Fedora notes link above indicate that Voodoo3/5 is not consistently working and NV texture emulation may be needed. How would that be accomplished?\r\nI've tried the latest FC6 with no luck on my ancient Voodoo3."
+-
+    name: ''
+    mail: ''
+    subject: x1650pro
+    hostname: 195.252.78.131
+    created: '1171364793'
+    body: 'ATI Radeon''s x1650 pro works well with xgl & compiz. I''m gonna try aixgl now and see what happens :)'
+-
+    name: ''
+    mail: ''
+    subject: 'enabling AIGLX/XGL on sis 730'
+    hostname: 201.216.171.45
+    created: '1171407269'
+    body: 'I have look for a while now and i found the easiest way to install AIGLX/XGL was with kororaa, so i downloaded it, run it on my machine and the problems I found havent stopped, first the driver that came with the cd was useless so I used the one of winischoffer and it worked, i could see kde, but thats not the issue, when i try to enable xgl sometimes it works, sometimes it doesnt, and when it works it works at 3fps reaaally slow, so, i hoped aiglx was faster but i cant enable it what should i do??? (when i use aiglx it says driver claims to not support visual 0x04a )'
+-
+    name: ''
+    mail: ''
+    subject: '16- and 24-bit problem'
+    hostname: 77.49.0.92
+    created: '1171706877'
+    body: "If I remember correctly the xgl configuration would not accept 16 bits, period.\r\n\r\nI will try to do it over in a few days and publish the procedure in the same document:\r\n\r\n---------------------\r\nhttp://tlgu.carmen.gr/gnulinuxtips/GNU-Linux on the Lenovo-IBM ThinkCentre A55.html"
+-
+    name: ''
+    mail: ''
+    subject: 'AIGLX on x700, open driver'
+    hostname: 150.135.126.12
+    created: '1172119782'
+    body: "Quote:\r\n\r\n\"I have nothing more recent at my disposal, so owners of X6xx to X1xxx cards, if you could please give me a status report on those cards, with both the free and closed source driver, on both AIGLX and XGL...\"\r\n\r\nI have an ATI x700 mobility 128 meg in my laptop using the open source ATI driver and running Beryl with AIGLX.\r\nIt works pretty well, but vsync is poor, and it seems to lag somewhat often on window open/close effects.\r\n\r\nThe driver may work pretty well for beryl, but it doesn't like a lot of games (such as Planeshift CB), and will render them without textures. This  may be related to running Beryl, but I'm not particularly sure.\r\n\r\nI any case, any drivers I've tried seem to get 55-85% of the frame rates I got in windows doing comparable (or the same) tasks.\r\n\r\n(Am using Ubuntu Edgy and 7.1 xorg)"
+-
+    name: ''
+    mail: ''
+    subject: '3 d desktop'
+    hostname: 155.223.26.129
+    created: '1172400833'
+    body: "hi im new in the open source world i do have install on my pc the fc6 and recently i have started playing with it\r\na couple of days ago i heard about 3d destop for linux(especially fedora core 6)  \r\ni do have the nvidia gforce 5200 fx on my pc and i'm looking to install/make functional the 3d destop on fc 6\r\nis it possible for me to do it / and if yes do i need any kind of driver for this operation "
+-
+    name: ''
+    mail: ''
+    subject: '16- and 24-bit problem'
+    hostname: 77.49.13.85
+    created: '1172424848'
+    body: "I retraced the installation procedure and added \"bogoframe\" benchmarks.  Direct rendering with 16 bits; Xgl/compiz with 24 bits (no direct rendering - runs quite smoothly). Will probably follow up with newer stuff as they come out.\r\n---------------------\r\n http://tlgu.carmen.gr/gnulinuxtips/GNU-Linux on the Lenovo-IBM ThinkCentre A55.html"
+-
+    name: ''
+    mail: ''
+    subject: 'Cards I''ve tried beryl on..'
+    hostname: 12.226.63.184
+    created: '1172559461'
+    body: "     Well, I went in full bore trying beryl out on several systems.  I'm running gentoo ~x86 (the \"unstable\" branch).  I threw some fairly high bitrate MPEG4 640x480 video up to see how things ran.\r\n\r\n     The short of it.. Geforce4MX, i915, and r100 do run beryl fine.  The Geforce even supports XV-accelerated playback fully, 915 works with xv but \"mplayer -vo x11\" allows the video window to behave better, and r100 was I think too slow for xv, but \"mplayer -vo x11 -framedrop\" worked.\r\n\r\n     AthlonXP 2200+ system, with integrated Geforce4MX.  768MB DDR RAM, and 128 given to the card.  the 9631 driver has some texture problems (glxgears or the like looks great, some games don't.)  Also a ~30 second lockup when I start X (without beryl..)  Beryl doesn't help the games but doesn't hurt anything either.  Everything seems just a smooth and fast as native..  CPU use goes up 5% points or so if I'm jiggling windows etc.. not much at all.  mplayer's xv output works perfectly with all this.  8776 driver avoids the game problems, but beryl runs very slowly with it.\r\n\r\n     Dell notebook, Celeron M 1.4ghz, and i915.  xv uses a color-key, so having a plain video window sitting on the desktop works fine, but dragging it gets blue artifacts until the window quits jiggling, and it turns blue as soon as you rotate the cube, it's blue in the task switcher, etc.  \"mplayer -vo x11\" playback works with all special effects though and the system is plenty fast for it.\r\n\r\n     Where I work (a surplus store) a few people have been trying for about a month to piece together a high-enough spec system to play w/ Aero.. no dice.  I went the other end of things w/ Beryl, and threw it onto a PII450, 256MB of RAM, and a PCI Radeon DDR card.  All but the video playback worked great!  The videos needed framedrop and pegged the CPU without beryl, so under beryl they were pretty bad.  I put the card and drive into a PIII866 (still 256MB of RAM).. I still needed framedrop, but it worked pretty well.  xv stuttered oddly, I think because the memory bandwidth was being maxed out by all that compositing etc.  x11 playback worked fine.. I was getting 25-30FPS usually (playing a 30FPS video), with it dropping to 14FPS or so if I started jiggling windows etc.  The CPU peaked at 80%, so this wasn't CPU limited.  Either the PCI or (I think..) the memory bandwidth of the card was being maxed out.  It still was jaw-drapping to see a machine that old keep up with the latest and greatest.. I knew academically Aero's requirements were quite inflated, but wow.\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: '3D desktop and Fedora Core 6/FX 5200'
+    hostname: 84.6.190.188
+    created: '1172568578'
+    body: "I don't use Fedora Core; but since Fedora was part of the 3D desktop founders with AIGLX, there must be some packages all ready for you. Check your repositories.\r\nThe FX5200 requires the Nvidia proprietary driver; you should be able to find pre-packaged installation packages, or use Nvidia's generic installer (command line required). It does work quite well, though (I have one).\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'Another card I''ve tried beryl on'
+    hostname: 12.226.63.184
+    created: '1172626008'
+    body: "Me again (I have the post just above.)\r\nAs someone else has said, G400 didn't cut it.  I tried the one out I have in an Athlon 950... yeah.  The screen runs at 1280x1024.. with beryl, the background cut off and is just white on the right edge of the screen.  If I had to guess, maybe the texture cuts off at 1024 width?  If I made the web browser full-screen the whole thing turned white.. resizing it to >1024 width caused problems too.  Dragging windows uses about 50% CPU but was a smooth 40FPS (as inidcated by benchmark).  If I didn't run benchmark the konsole text was jerky, maybe updating 2-3 times a second as I typed.  With benchmark on (even with the rate limiter left on) it showed 40FPS and konsole was smooth.  Window jiggling etc. was smooth.  Video playback, the constant updates mplayer throws into the konsole just killed the card and video playback, but if I got that mplayer text offscreen, video played fine with xv.. but had the blue box while window dragging etc. similar to other xv-playback setups.  \"mplayer -vo x11\" got about 5FPS maybe, with high CPU usage.  The windows still jiggled smoothly while the video chugged though.\r\n     I'd say it's probably \"usable\" at 1024x768 or below, but more a curiosity than REALLY usable.\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Whoah! Thanks for the tests!'
+    hostname: 84.6.190.188
+    created: '1172763697'
+    body: "I'll see into integrating those results in a newer edition of my driver matrix.\r\n\r\nThe Nvidia 87.76 problem mosty comes from the need to use XGL, as this driver version doesn't support GL_EXT_texture_from_pixmap. The 96.x versions do support it, and basically redirect all overlays to a GL texture (you'll get identical results using xv and gl/gl2 in mplayer). The 97.x releases have been quite optimized: video is much less jerky (I'm nitpicking: I'm the only one at home to notice it). I haven't tried too many games with it though - the ones I tried did work though.\r\n\r\nThe Radeon PCI problem is more than likely a PCI bus bottleneck: you could try overclocking the PCI bus to see if there's any improvement (PCI is clocked at 33 MHz natively, but most cards can deal with a PCI bus at 42 MHz) and disabling as many extension (cards, integrated peripherals) as you can: it should help a lot.\r\n\r\nThe G400 problem looks like a driver problem (texture cutoff at 1024, yes). Check earlier/more recent versions of the Matrox driver, and submit the bug... It may help later.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'ATI rage magnum - 32MB'
+    hostname: 61.172.197.36
+    created: '1172833011'
+    body: "This is a pretty old vid card. I tend to get the white screen of death ATM. I know this is recently an issue with ubuntu using beryl 1.9999...\r\nHowever, does anyone know enough about the ATI rage magnum 32MB to tell me if it SHOULD work or am I wasting my time?\r\nLemme know :)\r\n\r\nThanks "
+-
+    name: ''
+    mail: ''
+    subject: 'GeForce 6200A works fine'
+    hostname: 65.218.172.126
+    created: '1172864012'
+    body: "I have a PNY 6200 with 128 MB of memory in a Pentium 920 system, and it runs great.\r\nAlso have a Palit GeForce 6200 256Mb AGP-8X on a Pentium 820 system that also runs without problems. Both boxes running Ubuntu - the first one is Edgy and the second one is Dapper.\r\nInstalled the first one using these directions:\r\nhttp://www.ubuntuforums.org/showthread.php?t=263851&highlight=beryl+edgy+nvidia\r\n\r\nand the second one using this guide:\r\nhttp://ubuntuforums.org/showthread.php?t=268036&highlight=xgl+beryl+djrobbief\r\n\r\nIf you follow the instructions carefully, it may work for you like it did for me, which was like a charm."
+-
+    name: BitShifter
+    mail: ''
+    subject: Thanks.
+    hostname: 74.121.6.34
+    created: '1172894517'
+    body: "Thanks, I didn't get a chance to reading your response until now.\r\n\r\nYours truly now has a <a href=\"http://www.ofteninerror.org\">BLOG!</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'X1300 with Fedora Core 6'
+    hostname: 15.203.137.72
+    created: '1173185819'
+    body: "(by patrick--@-pipiche.net ) \r\nJust to let you know that I have an ATI X1300 on a nc6400 HP Laptop, and as the Radeon OpenSource driver doesn't work with this card the fglrx driver doesn't support AIGL+DRI+Composite.\r\n\r\nWhen I have contacted AMD/ATI to know when they plan to support it, i've got a mail stating that is a feature not to have the 3 options enabled together !"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'sounds like a Microsoft reply...'
+    hostname: 84.100.56.135
+    created: '1173304059'
+    body: "That's only a way to say that 'you can run 3D desktop only under XGL' because it is recommended to disable Xorg's Composite extension when using XGL. It's probable that AMD/Ati would require heavy driver refactoring to support the very Linux-specific DRI/DRM structure.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'moot point...'
+    hostname: 83.67.102.98
+    created: '1174002241'
+    body: "X Window does break things down into a client\\server model and uses tcp for transport which *does* allow you to run things over a network, but have you tried it?  It's pretty useless if you compare it to something like rdp or Citrix and like these remote-application/desktop systems it completely precludes anything graphically intensive that you might want your modern desktop OS to do for you.  Getting away from this model isn't necessarily a bad thing, I just hope they come up with something that will give rdp a run for its money that isn't a bolt-on afterthought (ie - freeNX)...\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Confirm motherboard'
+    hostname: 201.198.47.122
+    created: '1174572567'
+    body: "Is this intel motherboard D946GZIS?\r\nThis one? \r\n\r\nhttp://www.intel.com/espanol/products/motherbd/D946GZIS/index.htm"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: Voodoo3
+    hostname: 86.71.28.124
+    created: '1174900779'
+    body: "Unfortunately, the Voodoo3 chip is a 16-bit chip; as seen in other posts, 16-bit 3D can lead to trouble (or a blank screen). As such it's not really a go.\r\nAs to NV texture emulation, it's either:\r\n- an experimental feature that needs to be enabled in the driver's options (in xorg.conf, device section, option).\r\n- a very recent feature that requires a CVS version of Mesa\r\n- both.\r\n\r\nGood luck.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'The free ATI driver'
+    hostname: 86.71.28.124
+    created: '1174901025'
+    body: "it's always under development, and running AIGLX+Beryl is already a load on the card's memory. What may be happening is that upon creating a context for the game, you run out of video memory:\r\n- because there's no more allocatable RAM\r\n- because there's not enough allocatable RAM for textures\r\n- because there is a bug upon context creation that trashes textures upon load.\r\n\r\nReport bugs (see developers' bug management policies, but usually submitting very complete bug reports followinf devs' directives yeld best results).\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Ati Rage Magnum'
+    hostname: 86.71.28.124
+    created: '1174902011'
+    body: "This card is based off the Rage 128 design; at the moment, no 3D driver for this chip can run AIGLX. XGL might run, but then you'd better use an older X version (Xorg 6.9) and you'll need the experimental ATI kernel DRM module for any sort of performance. Then, it MIGHT work.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'Intel 946 motherboard'
+    hostname: 88.218.101.35
+    created: '1175065253'
+    body: "Compared the motherboard you indicated with the one in my Lenovo Thinkcentre.  The core real estate is almost the same; there are differences in peripheral circuits and the Lenovo is missing some \"useless\" components, like coils and capacitors, prominent in the picture (http://www.intel.com/espanol/products/motherbd/D946GZIS/index.htm)\r\n\r\nThe BIOS reads \"This is the Intel 946 Customer Reference Board\"\r\n\r\n--------------------------------\r\n\r\nAnd this is for our host: I read more and found out how to preserve video modes while switching from the graphics desktop to the virtual terminals and back on the i810 without getting a flashing off-blue screen - VBERestore; tried out beryl+AIGLX on older machines (Pentium III/800MHz/256Mb, Duron/900MHz/396Mb) using Radeon 9200SE fan-less video cards with 128Mb on-board RAM left over from some project. All machines run fine.\r\n\r\nWhen my younger one saw the transparent beryl desktop running on the Duron, she exclaimed \"Wow! this is the most fascinating thing I have seen in my life!\" (now she is showing-off to her not-so-lucky friends - a big marketing push for GNU/Linux!!)\r\n\r\nAlso discovered kwin-kompmgr (the KDE desktop with translucency, shadows and fade-in/fade-out effects). The compositing engine (kompmgr) is started as soon as it finds out that there is a compositing extension...\r\n\r\nAnd found out that even recent distributions, like Ubuntu 6.10 are missing the all-important newer xorg/mesa infrastructure for 3D desktops to work properly.  I guess it is a matter of days, now.\r\n\r\n---------------------\r\nhttp://tlgu.carmen.gr/gnulinuxtips/GNU-Linux on the Lenovo-IBM ThinkCentre A55.html\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: alexopth@gr.ibm.com
+    subject: 'X1950 Pro'
+    hostname: 88.218.77.170
+    created: '1177511188'
+    body: "Geforce X1950 Pro 256 MB\r\nkernel 2.6.20, ATi proprietary driver 8.35.5\r\nXgl+beryl OK (Composite must be off)\r\nIt seems very fast (maybe because the card is really fast.\r\nOfficial ATI driver release notes clearly state NO support for AIGLX "
+-
+    name: 'Anonymous visitor'
+    mail: hwertz@avalon.net
+    subject: 'Running X11 apps over a'
+    hostname: 12.226.63.184
+    created: '1177727431'
+    body: "     Running X11 apps over a *LAN* is great.  And that's what X11 was designed for.  Regular X11 apps send a *ton* of tiny requests and responses at startup, so an app takes about forver to run through if you have over maybe 50ms ping.  Usually X apps also send all the pixmaps, bitmaps, etc. uncompressed, too, which is pretty reasonable for a LAN but not otherwise.  Having a few apps running *on* your desktop is really nice compared to remotely viewing a desktop with them on it.  \r\n\r\n    That said, I use vnc quite a bit too.  I've seen RDP and I think it was a bit faster than vnc, but VNC is nice and easy.\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'It may, as Xorg''s drivers'
+    hostname: 84.97.181.253
+    created: '1177852451'
+    body: "It may, as Xorg's drivers are supposed to be platform-agnostic - however it's quite an unusual system, and if it doesn't work you must report it to the Xorg mailing lists.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Anonymous visitor'
+    mail: diJenerate@gmail.com
+    subject: "Hi there,\nAs I understand"
+    hostname: 72.22.158.26
+    created: '1180875463'
+    body: "Hi there,\r\n\r\nAs I understand it, AIXGL is more of a workaround version of XGL to avoid the issues that come with being dependent on closed source drivers. From my experience with it, it seems quite capable of being coded to allow the CPU to share some of the burden if the graphics hardware is sub-par... a sorta software acceleration if you will. I have noticed the way it functions using the MESA libraries on some ATi chipsets where the CPU seems to be doing the additional work.\r\n\r\nMy question is: Does anyone know of any instances where AIXGL has been able to work on a system with no 3D hardware at all, relying solely on software 3D? This could be useful to allow AIXGL support on chipsets like the AMD Geode platform, and in software like VMWare, (Free)NX, etc.\r\n\r\ndiJenerate"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'errr... no.'
+    hostname: 86.71.28.189
+    created: '1182770734'
+    body: "AIGLX is not a 'workaround'; it is, on the contrary, an extension made to X11 to allow use of GLX (OpenGL for X11, not X11 in OpenGL) in window management.\r\nIt aims at providing a 3D compositing window manager all the necessary extensions to work without requiring a 'special' X11 server - what XGL is.\r\nA brief recap of XGL: it starts a standard X11 session, with a single, full-screen window opened in it; this window uses GLX, and contains yet another X11 server (XGL) which is 3d-compositing capable, but all elements in it are in 3D (it creates a single 3D contexts) with all 2D parts emulated.\r\nNow, AIGLX: an improved X11 session starts, and checks GLX's capabilities. If those meet the requirements for AIGLX, it loads. Now, all normal elements work as usual: hardware overlays (Xv, etc.) clients don't have to run on the same machine the server runs on, etc. but if the WM wants to use 3D, then 3D is made available to the WM; however, those elements that don't require 3D are kept as-is.\r\nIn short, XGL emulates an X11 server inside a normal X11 session; this allows it to emulate some essential functions required by a 3D WM, by making it one step removed from the actual driver; it also reduces the number of functions reported supported by X11, facilitating fallback to some selected rendering paths which can then be optimized.\r\nOn the other hand, AIGLX introduces 3D to all functions already supported by X11; this makes it harder to implement, however it allows better flexibility: for example, XvMC (X video Motion Compensation) can now use a 3D approach if there are no dedicated on-chip functions with a driver, and allows it to switch from one to the other instantly. The inconvenient, AIGLX requires (for the sake of efficiency) hardware support for GL_EXT_texture_from_pixmap since most of the work is being done directly in the card's frame buffer (which is emulated in system RAM by XGL) and DRI (as a consequence of working directly in Video RAM, you can't use CPU copies without a huge performance impact).\r\nIn fact, AIGLX cannot work on non-3D hardware, for the very simple reason that it aims at performing screen compositing and operations directly in video RAM - making it work in software 3D would require heavy back and forth memory copies, tricky Video + system RAM management, or emulating a 3D card - which is essentially what XGL + Mesa do.\r\nIn absolute, is Mesa emulated all functions required by, say, Compiz, and Compiz didn't check for hardware support, you could make it work in software using XGL+Mesa. Slow as molasses.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: VBErestore
+    hostname: 86.71.28.135
+    created: '1184662246'
+    body: "I guess this would be a script hitting the vbetool command (notably, using 'vbetool vbestate save|restore'). From what I could glean here and there, i810 has a dodgy mode initialization scheme - making it behave with a hardware-level VBE call is, indeed, a nice trick, which is usually used by Free drivers until the driver's developer can find the voodoo code needed to initialize the card properly.\r\nThe problem with VBE tools is that VBE means VESA BIOS Extensions - meaning it relies on the x86 PC BIOS, which isn't found on platforms such as Intel/PPC Macs. This is why driver authors don't use them more often, or when they do it, still look for the proper voodoo.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Ati ''Geforce'' ?'
+    hostname: 84.100.54.238
+    created: '1186559246'
+    body: "Must be a typo: this is a Radeon.\r\nthe X1950 Pro relies on the r500 chip design; it is currently supported by the proprietary Ati/AMD driver, and in 2D mode by the Xorg Radeon driver (experimental). 3D support (thus, AIGLX) may be added in the coming months.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."

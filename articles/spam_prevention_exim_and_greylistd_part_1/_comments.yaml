@@ -1,0 +1,28 @@
+-
+    name: 'Maurice Cepeda'
+    mail: ''
+    subject: 'another method'
+    hostname: 200.120.187.45
+    created: '1221670354'
+    body: "\"any sender who does not attempt a retry within the second period will be moved from the greylist to a blacklist.\"\r\n\r\nThis is inconvenient. I'd hate to be left wondering if my important email got through, or having asked for their confirmation in my email, being left wondering if my contact knows to send it twice because the first confirmation may get stuck. Which may lead to an impetus to resend more than twice, out of sheer worrying.\r\n\r\nHaving asked my prof once about getting my email, he told me, \"Yes I got all __five__ of them. Now I don't know if he actually got five, but he didn't like getting multiple emails, and I don't either. \r\n\r\nAnd I don't like the idea of having my emails put in a limbo state of a grey list, and then possibly thrown into a black list based on a certain period of time I don't know of. The user shouldn't have to worry about these things. It makes for an inefficient and unreliable mail delivery, and has a lot to desired in terms of public confidence.\r\n\r\n\r\nI attended a presentation held by a local UNIX users group where an entirely new model was proposed. I don't have the technical expertise to describe in it precise terms, but after receiving mail your mail delivery service prodded the sender's IP (something like pinging, not an email) --this after a certain amount of time has passed. If the sender was still there (meaning the IP was valid and there), the mail was delivered, if not ... no-go.\r\n\r\nThis was based on two assumptions, the first that grey listing isn't full proof, or so he'd have us believe. He mentioned the listing methods always are needlessly restrictive on some incidents --creating false positives-- and insufficiently so in other cases.  \r\n\r\nAnd second that spammers are never going to be located at the same IP for long. They do their business as quickly as possible and get out before getting tracked. Thus the need to wait the time period, followed by the prodding.\r\n\r\nThe presenter suggested this method did away with complicated listing methods or using multiple methods, was almost completely full proof and would diminish false positives too, meaning you're getting to get your --sometimes badly-- needed email. And in my case of a few days ago, I wouldn't have gotten that early morning weekend call --interrupting my sleep-- asking, \"Where's my document!!??\".\r\n\r\nHonestly in my layman's view, I can't think of a better way to do this. \r\n\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: '"Sender" not "sender"'
+    hostname: 82.108.129.98
+    created: '1221672748'
+    body: "Read the section called \"A word about senders\" again. \"Sender\" in this case is not you, it's your outgoing/relaying server trying to deliver a message from you to your professor - the sending triplet. So you send a message to your professor and your outgoing/relaying server is asked to try again - which it does after a short period and the message is delivered.\r\n\r\nAny relay server will encounter delays with delivering messages to remote hosts. Properly configured servers will try again after a short while. In fact most have a series of retry attempt periods before giving up entirely. The \"try again\" mechanism is already in place across the Internet and no user has to worry about it. Greylisting simply employs this - it places no further demands on either user.\r\n\r\nRemember that it's only the first e-mail that is delayed (not the first attempt for each message you are trying to send). All subsequent ones are let through because the sending triplet is whitelisted.\r\n\r\nThe method you describe would fail in a lot of cases because a lot of servers reject such lookups. for example I run a relaying server which cannot be pinged and will not accept inbound SMTP except from my public MX server. It has reverse DNS set on it but any attempt to connect to it by something other than an client within my LAN or my MX server will be dropped by my firewall. Thus delivery from me to you would not happen.\r\n\r\nGreylisting is not fool-proof (no anti-Spam solution is) but in combination with spam scanning (e.g. SpamAssassin), reverse DNS lookups and sender (e-mail address) verification, it helps.\r\n\r\ncheers  \r\nRyan"
+-
+    name: 'Maurice Cepeda'
+    mail: ''
+    subject: 'thanks for explaining'
+    hostname: 200.120.187.45
+    created: '1221711206'
+    body: "Thanks for patience and explaining the pertinent details. \r\n\r\nAbout dropping any prodding, yeah ... come to think of it, that's how I configure my firewalls."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'no problem'
+    hostname: 82.108.129.98
+    created: '1221755054'
+    body: "You're welcome. To be honest it's a complex subject to describe. Familiarity with SMTP procedures helps of course and it is a lot simpler to use than write about.  \r\n\r\ncheers\r\nRyan"

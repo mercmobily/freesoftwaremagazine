@@ -1,0 +1,42 @@
+-
+    name: 'Henry Zhu'
+    mail: ''
+    subject: 'interesting talk to be'
+    hostname: 64.71.8.3
+    created: '1161117960'
+    body: "It would be very interesting to know what new ideas TM will talk to convice a Windows user, who are  usually very sticky and stubbon, to Linux. And also what TM will tell us how to integrate (politically or technically?) free software smoothly. \r\nEven I have been using Linux for many years, I could not get rid of Windows. It is simply because many software vendors only release Windows version of their software. For example, I do some stock trading, but my brokerage only support Windows. So, I think it is the same important and even harder I believe to convice software vendors to release Linux versions otherwise the regular customer will have no choice in such case.\r\n"
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'I am not sure about "TM"! :-D'
+    hostname: 203.59.108.254
+    created: '1161172539'
+    body: "Hello,\r\n\r\nwell, if by \"TM\" you mean Tony Mobily, I can tell you that I will not talk about any new ideas, since I am not giving a speech at LinuxWorld this year...!\r\nHowever, the best way to find out is... by going to the Linux World ans listel to Jon “Maddog” Hall's speech!\r\n"
+-
+    name: ''
+    mail: ''
+    subject: '" to convice a Windows user "'
+    hostname: 88.112.169.69
+    created: '1161205720'
+    body: "Most Linux users where Windows users in the past and many multi boot between Windows and Linux. I am a multi booter too, only I have not booted Windows for several years.\r\nThe problem is not that Windows users are against using Linux.\r\nThe problem is more about windows users who do not know there is a choice, company policy where Linux is not a choice and the mere fact that you get a windows machine when you bye a PC.\r\nAlso, among those who know about Linux, is this fear that you have to be moore \"educated\"  to use Linux.\r\nBasically, on the desktop part, it is about the pre installed OS.  "
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"you have to be more ''educated''"  or "cars"'
+    hostname: 68.93.224.4
+    created: '1161265219'
+    body: "In my experience, this doesn't go away. Even when you are fairly skilled, you will constantly encounter techies on mailing lists who will berate your stupidity for not knowing that, e.g. \"apt\" is controlled by files under \"/etc/apt\", or that you can run two X11 displays on one computer with one monitor (I only discovered how to do this about a week ago).\r\n\r\nGNU/Linux remains an \"expert\" or \"professional\" field, whose culture remains dominated by the ideas of the \"BOFH\" and the \"luser\" that originate from campus computer-center culture and form the basis of many IT professional's cultural values. Changing the meaning of the \"F\" in \"RTFM\" does not change the sentiment, no matter how many times people try to pretend it does.\r\n\r\nRe-creating a user-centric culture around GNU/Linux is the principle marketing problem, as far as I am concerned. Windows and Apple both have succeeded at that (in different ways), and I think that is why they are regarded as \"successful\" in the desktop market—even though the facts may speak differently (I read recently that Linux is actually deployed on more desktops than Apple's Mac OS X. Of course, that kind of data is always a little suspect).\r\n\r\nIf you think about it, you might compare these O/Ss to cars (wait for it!): the Apple Mac OS X is like VW's \"new beetle\", flashy, expressive, but actually rather expensive for what it does; Windows is a bit like a mass-marketed mini-van, trying to be everything for everybody, and winding up awfully square, somewhat inconvenient, but everybody uses them anyway; and Linux is, well what? A Hummer? An overpriced gas-guzzler that can survive desert conditions, battlefields, and slopes you wouldn't drive on anyway? But is built like a rock?\r\n\r\nNo, that's probably one of the propietary Unixes. Maybe Linux is a kit-car? Used by almost no one except the kind of car geeks who read the ads in the back of Popular Mechanics and actually <em>order</em> that stuff? But they're quite happy with their choice, thank you very much, and the rest of the world can go hang?\r\n\r\nI think until we know where Linux fits in that kind of world view, we don't quite know how to tell the market what GNU/Linux is or why it should want it.\r\n\r\nOf course, it might be more realistic to realize that GNU/Linux is actually just an Engine and a kit of parts after all. From it, you can build a working car, especially if you add some custom bits to snazz it up. That's when we have to start talking about Ubuntu and Freespire, Debian and Slackware, Red Hat and Novell (\"little sports cars\", \"panel vans\", and \"POS company cars\").\r\n\r\n(I knew this car thing was going to get out of control! ;-) ).\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Stephenson gave us our metaphor'
+    hostname: 129.21.115.80
+    created: '1161822120'
+    body: "Stephenson is a much better writer than me, so I'll just quote him:\r\n\r\n\"With one exception, that is: Linux, which is right next door, and which is not a business at all. It's a bunch of RVs, yurts, tepees, and geodesic domes set up in a field and organized by consensus. The people who live there are making tanks. These are not old-fashioned, cast-iron Soviet tanks; these are more like the M1 tanks of the U.S. Army, made of space-age materials and jammed with sophisticated technology from one end to the other. But they are better than Army tanks. They've been modified in such a way that they never, ever break down, are light and maneuverable enough to use on ordinary streets, and use no more fuel than a subcompact car. These tanks are being cranked out, on the spot, at a terrific pace, and a vast number of them are lined up along the edge of the road with keys in the ignition. Anyone who wants can simply climb into one and drive it away for free.\""
+-
+    name: ''
+    mail: ''
+    subject: 'Changing users to Linux'
+    hostname: 220.245.178.131
+    created: '1167657340'
+    body: "Though new to Gnu/Linux (only the past two and a half years) my three desktops and two laptops run Linux.\r\n\r\nI've had a failure with a friend - Windows 2000 crashed. Installed SimplyMepis - he liked it, his boyfriend didn't (he causes all the crashes and didn't like NOT being able to 'fix' things :)) Weird; \r\n\r\nhad a partial success - step-father is still interested, he just can't yet pull himself away from the thing he complains about and has trouble with all the time (W2K), and; \r\n\r\nhad a complete success - wife's friend. On occasions she's asked some questions, but since I installed W2K under VMPlayer those odd little things she needed have not seemed to be needed so much (more of a security blanket, or trainer wheels. Now she knows it's there, she doesn't need it :))\r\n\r\nI agree that the image of Linux needs changing from 'geek toy' to 'home desktop' and lots of the documentation needs improving too. For instance, I'd like to see it designed so that when you complete a fresh install and open your web browser, it takes you to the relevant site for installing all the other goodies you're likely to want. (I should follow this up with the various distros myself really :))\r\n\r\nOverall though for all the time I've put into learning and reading, I have been repaid in spades."

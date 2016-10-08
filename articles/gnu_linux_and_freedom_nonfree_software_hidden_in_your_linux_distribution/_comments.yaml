@@ -1,0 +1,49 @@
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Good points'
+    hostname: 62.140.212.3
+    created: '1270111157'
+    body: "Some good points made here and always worth keeping this kind of thing in mind as the use of free software (and GNU/Linux in particular) progresses. I also commend you on not straying into the traditional avenue of demonising all those who do not subscribe to this viewpoint.\r\n\r\nI should say that I use Debian but I agree with the sentiment and am always on a path towards total freedom in my computers. It should also be mentioned that for those who want to pursue the total freedom in software route, the [openPC](http://open-pc.com/) project has produced desktop computers which only use hardware with free drivers.\r\n\r\n\\-\\-  \r\nEquitas IT Solutions - fairness, quality, freedom  \r\n[http://www.equitasit.co.uk](http://www.equitasit.co.uk)"
+-
+    name: Zermelo
+    mail: ''
+    subject: 'Very good points well made'
+    hostname: 86.183.116.250
+    created: '1270208706'
+    body: "Some very good points well made, especially regarding the hypocrisy involved in marketing \"free\" editions of a distro which otherwise remains tainted, as if moral demands were the equivalent of commodities to be bought or sold on a whim.\r\n\r\nBy your own logic, though, aren't the NDAs signed by driver writers every bit as egregious? If I'm free to modify a driver, doesn't that freedom (as enshrined in the GPL) -- simply at the level of practical presupposition -- require that no-one collude in concealing the information (namely, register level programming documentation) which would allow others to do so in a meaningful and productive way? One hears a lot from the FSF on the subject of kernel blobs but very little about purging even actively obfuscated (but nominally \"free\") device drivers from the Linux kernel."
+-
+    name: Trueash
+    mail: ''
+    subject: 'Non-free distro? So what?'
+    hostname: 77.123.153.38
+    created: '1270271073'
+    body: "<cite>Most people visiting their website will download the Powerpack version, as it is the first one displayed, and its name insinuates that it’s the most feature-full version available.</cite>\r\n\r\nOk, go ahead and show us how you'll download it - without registering and paying first.\r\n\r\nRegarding freedoms as proclaimed by Mr. Stallman... well, the freedoms that I cannot use do not exist. I will never be able to even read the source code, not to mention changing it. Therefore, I will *never* contribute to my community. The only freedom that makes sense to me is using my software the way I deem necessary. And I do it all the time; both in Linux and in Windows (yes, sometimes I have to use it - when I want to make sure that my work is 100% compatible with my client's requirements).\r\n\r\nIMHO, it is not \"freedoms\" that matter for the end user, but absence of monopoly. DRM, for example, is not a vicious plan to enslave the humankind, but a mere attempt to monopolise the industry. Businesses do it all the time. You do not want that? Offer a *viable* alternative, for chrissake! You want me to use \"nv\" instead of \"nvidia\"? You know what to do... \r\n\r\nI could go on but, frankly, I'm a bit too tired and disillusioned. All these talks about freedoms are fine but they do not generate the product. Either GNU/Linux gets down to business or it will forever remain a \"me too\" system."
+-
+    name: 'Vincent Launchbury'
+    mail: ''
+    subject: 'Re: Non-free distro? So what?'
+    hostname: 99.235.229.165
+    created: '1270445039'
+    body: "Although you may not use certain freedoms, they certainly still exist, and it's important that they do. Only in software can people get away with restricting your private usage of something, as one example. Imagine if you bought a computer and it was illegal to upgrade the video card. Or if you bought a bottle of scotch and it was illegal to drink it with ice, because its makers disapproved. \r\n\r\nJust because you feel it's useless to you, doesn't make it any less important for others. I wouldn't know how to rip an engine out of a car and upgrade it, but the freedom to do so is still important. Similarly, I'll probably never utilize my right to vote, but it is important that everyone has the option of doing so. You will probably never want to reverse engineer anything, but it doesn't mean it should be illegal for anybody else to do so.\r\n\r\n<em>The only freedom that makes sense to me is using my software the way I deem necessary.</em>\r\n\r\nBut with proprietary software, you don't have the freedom to use it as _you_ deem necessary. You have the freedom to use it as its _developer_ deems necessary. They control what you are allowed to do even for your own private use.\r\n\r\n<em>IMHO, it is not \"freedoms\" that matter for the end user</em>\r\n\r\nHow about recent things like games requiring a constant internet connection to play even single player modes? This has nothing to do with monopolies, it is the lack of freedom of use. \r\n\r\n<em>Offer a *viable* alternative, for chrissake!</em>\r\n\r\nFree software does offer a viable alternative: not using DRM, and giving users all the freedoms they deserve. \r\n\r\nThe reason the proprietary nvidia drivers might be better than the free alternatives, is because the workings of the cards are undocumented closely guarded secrets, and the official drivers are non-free. Not much can be done by \"getting down to business\", as it is extremely hard to understand how the cards even work. Activism is one way to help make important changes. If you want the free drivers to be better, contact nvidia and ask them to release documentation, or free their own drivers. \r\n\r\nWith enough support, changes will be made. Look at ATI for example, who has released a few specifications, and I believe has also funded some open source development. They are far from perfect, but it's a good start.\r\n\r\nThanks for your comments on the article. Nobody expects you to contribute back to the community, but the right to do so is what fuels the entire community!\r\n\r\n~Vincent."
+-
+    name: 'Vincent Launchbury'
+    mail: ''
+    subject: 'Re: Good points'
+    hostname: 99.235.229.165
+    created: '1270446054'
+    body: "Thanks for your support!\r\n\r\nI will definitely look into openPC, their goals seem to align quite closely with mine. They claim to be using 100% free software also, so hopefully they're using the libre kernels along with the free drivers.\r\n\r\n~Vincent."
+-
+    name: 'Vincent Launchbury'
+    mail: ''
+    subject: 'Re: Very good points well made'
+    hostname: 99.235.229.165
+    created: '1270446946'
+    body: "Thanks for your comments, I like your summary of the 'free editions' issue!\r\n\r\n<em>By your own logic, though, aren't the NDAs signed by driver writers every bit as egregious?</em>\r\n\r\nCertainly. I wasn't aware that such obfuscating was taking place, I'll have to look into it further. Do you happen to know if the deblob scripts remove these instances?\r\n\r\n~Vincent."
+-
+    name: kaiwren
+    mail: ''
+    subject: 'before the kernel....'
+    hostname: 192.58.220.4
+    created: '1271200673'
+    body: "Before the kernel can boot... There is the BIOS. Most likely, your \"Libre\" software\r\nwas booted on a motherboard with a non-\r\nfree BIOS. \r\n\r\nI suspect most video cards also have a\r\nBIOS in flash or eprom. So, there's two\r\nstrikes.\r\n\r\nWell, the AT style keyboard has some kind\r\nof processor (that needs code), ok there's\r\nthree strikes. \r\n\r\nThere's an open bios project for motherboard roms somewhere,\r\nbut I've never heard of anyone writing\r\na replacement for the video card BIOS,\r\nyes high level drivers once the kernel\r\nis booted for the video\r\nchips but not for the on-card software.\r\n\r\nLikewise for the keyboard. \r\n\r\n//Steve\r\n(shuddering at the thought of how much\r\nM$ code he's forced to use in various devices in everyday life)\r\n"

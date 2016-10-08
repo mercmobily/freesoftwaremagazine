@@ -1,0 +1,70 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Slight fix'
+    hostname: 68.227.14.218
+    created: '1165189658'
+    body: 'I''d say instead of perhaps saying that you can eat the cake (imagine cake) Perhaps saying that it''s like the baker allowing you to eat as much of the particular cake whenever you come into the store, and than suddenly not allowing you...'
+-
+    name: pandionknight
+    mail: ''
+    subject: 'Have you cake and eat it.'
+    hostname: 82.34.154.218
+    created: '1165265131'
+    body: "Thanks for this article. I have been using Linux for less than a year and it has been a real eye opener concerning free open source software. I switched to OpenOffice.org and FireFox, use GIMP and Fspot too.\r\nI must admit to being a bit vague on my understanding of the term \"Free,as in beer\" that I've read a lot, and as to how money can be made from such software. Your article has now clarified this for me. "
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Glad to be of assistance'
+    hostname: 212.159.106.192
+    created: '1166219500'
+    body: "Glad to help. I must admit it took me a while to get my head around the \"free as in speech\" stuff especially in relation to software. The concept of Free software is a little hard to grasp for those of us who have only really encountered the proprietary - let's be honest here - the Microsoft way.\r\n\r\ncheers\r\nRyan"
+-
+    name: ''
+    mail: ''
+    subject: 'Sharing information is important'
+    hostname: 220.233.53.52
+    created: '1166691224'
+    body: 'I see far too many misconceptions on the web relating to free software in this day and age. An article such as this can help with dispelling some misconceptions. Good job.'
+-
+    name: ''
+    mail: ''
+    subject: Emacs.
+    hostname: 86.128.98.61
+    created: '1166726214'
+    body: "\"The advantages of having source code are similar to those for having recipes...\"\r\n\r\nReading your article made me realise that I've grown rather accustomed to the advantages of FOSS over the years and tend to take them for granted now. However, I don't think I'll ever stop being amazed by the power and flexibility of Emacs, and in particular, the extraordinary magic that can happen if one finds a bug in it. I think I'll do a screen capture video of the process next time I find one. Of course not all software can be like Emacs - not even most FOSS - but I think it would be illustrative.\r\n\r\nplh."
+-
+    name: ''
+    mail: ''
+    subject: dutchlord
+    hostname: 204.188.174.201
+    created: '1167927643'
+    body: ' I really like this article it cleared up alot of things. I am a linux newbie but in time i will get to where i want to go. '
+-
+    name: ''
+    mail: ''
+    subject: 'Similarities too...'
+    hostname: 195.137.15.218
+    created: '1168169522'
+    body: 'I see the similarities when looking at the socio-political system. Several generations ago, the indigenous inhabitants fought wars to preserve the culture and traditions of a collective people. Under a closed form parliamentary democratic self fulfilling system, the sacrifices made have been dishonored by marginalizing the indigenous peoples in favour of promoting the status of immigrants (parasitic muslim terrorists now abuse the Western social welfare system and Africans have a propensity to defraud the system). If only those that fought the wars had the principle of free software inheritance passing down the generations.'
+-
+    name: ''
+    mail: ''
+    subject: 'Understanding the free software concept'
+    hostname: 61.2.228.233
+    created: '1169509272'
+    body: 'The anology that the writer uses makes one understand what a free software means. A very well written article. Hats of to him.'
+-
+    name: redenex
+    mail: ''
+    subject: 'Wonderful article, atleast'
+    hostname: 124.125.38.238
+    created: '1173448900'
+    body: 'Wonderful article, atleast it helps us understand what free software is all about, and what we are risking while "agreeing" to end user licence agreement!'
+-
+    name: JosefDonn
+    mail: ''
+    subject: 'Free Software and analogies -and the danger of misinterpretation'
+    hostname: 85.216.4.195
+    created: '1375528763'
+    body: "Free Software and the recipe analogy...\r\n=======================================\r\n\r\nThe analogy of free software and recipes is good, but can easily be misinterpreted!\r\nI'll explain this with thoughts by a fictional guy called Tony.\r\n\r\n~~Tony wrote: \"If you go to a bakery and buy a cake, is it unethical if you don’t get the recipe as well?\"\r\n\r\nThe analogy between recipe and source code, in the way Tony presents it, is flawed.\r\n\r\nLet me explain: the cake is the OUTPUT of the recipe. If a recipe is freedomrespecting (by allowing unrestricted use, modification, and distribution with out without modification), then this does not apply to the OUTPUT, i.e. the cake. Put another way: the cake (output) is not the corresponding source of the recipe-steps performed. (See http://hackerpublicradio.org/eps.php?id=1116 at tracktime 30:58)\r\n\r\nTo fix the analogy. Here's an example of a violation of \"freedomrespecting recipes\":\r\nAssume a recipe-seller states: \"all my recipes are freedomrespecting.\" You then decide to purchase from him a recipe-executor-black-box, and a number of recipes on USB-stick. At home you plug in the recipes-USB-stick into the recipe-executor-black-box and select \"Grandma's ultraspecial chocolate cake\". The executor-black-box removes some ingredients from the connected ingredients-containers (flour, sugar, chocolate, etc.). You cannot see what's going on inside, but after one-and-a-half hours... out comes a cake!\r\nSo you tell yourself: well that's great, but I want to bake this cake with my own hands and change the steps slightly. You connect the recipes-USB-stick to your own computer, expecting to find the steps. But low and behold: you find that the \"recipes\" are only in a machine-readable binary format, that you cannot decipher them.\r\nThis is a freedomrespecting recipe violation!!! If the recipes really were free, you would have received not only the binary format, but the steps of the recipe in human-readable english as well!\r\n\r\nNow lets say you have acquired a freedomrespecting recipe for a cake (and here I really mean a free recipe, in that it is not obfuscated or coded; but instead a description of steps). Lets say you have a bakery and sell a customer the cake (baked according to the recipe): do you have to give the customer the recipe?\r\nNo, since the cake is the output. You are not selling the customer the steps to produce the cake.\r\n\r\nBut now you might try and apply this to software and say: \"But look here: the binary program is the output of the source code. So if you pass on the binary program, you don't have to pass on the source code, right?\"\r\nThis would be a misunderstanding, since the program is NOT the output of the source code. Instead: the program is merely the output of a compiler. But the binary program is a direct transformation of the source code: The steps in the program, are still the steps in the source code. We say: the source code is the \"CORRESPONDING SOURCE\" of the program binary.\r\nThus with free software, the software ... in all the forms it is distributed: binary, etc. needs to include the \"corresponding source\", that give one the freedom to modify it.\r\n\r\n\r\n~~Tony wrote: \"If you buy a radio, is it unethical if you don’t get the construction plans for it?\"\r\nThis analogy between construction plans and source code is also flawed.\r\nThe construction plans can be free (freedomrespecting). But the construction plans are not the corresponding source of the radio: The radio does not perform the construction steps. The radio does not have a corresponding source, since it is the output of the construction steps.\r\n\r\n\r\n~~Tony wrote: \"If you buy some software, is it unethical if you don’t get the source-code?\"\r\nDepends on your view. You can certainly argue: yes. First off: the steps the program runs, are the steps that are described in the source code. Furthermore: if the program runs on a general purpose computer, then you could easily change it (lets say it is not software that is burned into a ROM for an appliance like a toaster.) Then it is only fitting that you should really be able to make use of this possibility (changing the program on your computer), and that requires a form of the program that is best suited to do that job: the corresponding source. \r\nOn the other hand: If you have proprietary software, then - even though you are running the software on a device that easily allows changes - the owner of the proprietary software has deliberately decided to make this difficult or illegal for you to do. Then only the owner controls the program, and you might be called a fool for using it.\r\n\r\n\r\nIf you buy a processor, is it unethical if you don’t get the “hardware description language”-description (HDL) of the processor?\r\n\r\nDepends on your intent: do you want to analyze what the processor's logic is doing, and then have the possibility to make changes to the processor and create your own (with the guarantee that your logic will be on the chip [and not some fab's back-door logic])? \r\nIf you buy a processor created by a fab with modern photolithography, then you get a chip that you cannot change. In that case you don't need the HDL-description. BUT: if you buy the whole fab itself (oh: so you have those billions of dollars?!), then you have the possibility to make changes. In that case you'd be a fool, if you don't insist on getting all steps, and descriptions, etc. for making the processor chip, and being able to change it, for example if the chip happens to have a serious bug! If you cannot fix the chips hardware-bug, you'll probably be out of business very soon.\r\n\r\nIf on the other hand you buy a FPGA (not so expensive: say 500 dollars or cheaper), and the processor is synthesized on that FPGA, then you can change the hardware-description (via the HDL) and load the changes onto the FPGA. In that case, you'd be a fool, if you don't get the freedomrespecting HDL-description (e.g. in Verilog or VHDL code), in order to actually do that.\r\n\r\n\r\n\r\n\r\nThe free software definition (of Stallman [via GNU project and the FSF]), applies to the source code and to the binary program. The 2 (source and binary) are linked: the steps in the binary program are the steps in the source code: they are just a transformed version of the same thing. Except that one is easy to change (source code) and the other is incredibly difficult to change (binary program).\r\nThe source code is the corresponding source of the binary program. Free software gives you the freedom to make changes (that you can realistically realize, since that's what you can do on general purpose computers), by providing you with the corresponding source.\r\n\r\n"

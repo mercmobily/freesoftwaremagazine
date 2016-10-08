@@ -1,0 +1,112 @@
+-
+    name: 'Live TV'
+    mail: Goober@Ipoo.org
+    subject: Well
+    hostname: 74.121.56.93
+    created: '1186408648'
+    body: 'what a shame that standards die because certain companies want their own proprietary set standards to thrive and take precedence.'
+-
+    name: 'Robert Pogson'
+    mail: ''
+    subject: 'MA had a set back...'
+    hostname: 24.76.250.60
+    created: '1186411750'
+    body: "M$ succeeded in getting MA to recognize OOXML as an open format. How references to Word 95, etc. can be considered open, I have no clue. New-speak.\r\n\r\nsee http://www.linux.org/news/opinion/mass_oxml.html\r\n\r\nA problem is an opportunity."
+-
+    name: e-user
+    mail: e-user@gmx.net
+    subject: 'Problem and solution: The same roots'
+    hostname: 212.202.0.231
+    created: '1186529201'
+    body: "Having industrial/commercial support for ODF is one thing, but support on a broad public scale is another. We need people that are aware and tell their neighbors to cause a snowball effect. The actions and awareness of free people make the difference between still corporate-friendly pushing of standards nowadays coined by the term \"Open Source\" and real standards based on their (our!) decision on freedom. As long as people aren't aware there will be no real freedom as people rely on each other to live freely, not on corporations or government.\r\n\r\nPlease help creating a free society!\r\n\r\nWith regards from Germany\r\ne-user"
+-
+    name: 'Yossefa Mekyton'
+    mail: jooxz@yahoo.co.uk
+    subject: 'that''s it! from now on - only ODF attachments ;-)'
+    hostname: 192.114.174.66
+    created: '1186638608'
+    body: 'i shall include an email signature that explains why i refuse to open and use .doc attachments (although i can) and why i am sending text only as ODF!'
+-
+    name: 'Morten Juhl Johansen'
+    mail: ''
+    subject: 'The Danish approach'
+    hostname: 87.51.103.186
+    created: '1186645826'
+    body: "In Denmark, there is a parliamentary decision to apply open standards in communicating official documents. Here, the discussion has been whether Open XML can be considered an open standard. See article on this here:\r\nhttp://opendocument.xml.org/node/364\r\nI still find that OOo .odt docs often do not open correctly on KWord. As long as that is the case, talking about standards becomes a bit abstract."
+-
+    name: 'Abhijit Nadgouda'
+    mail: anadgouda@gmail.com
+    subject: 'Online office suites'
+    hostname: 122.169.29.198
+    created: '1186723035'
+    body: 'I agree, there is no success like the common man adopting the standard. I think we should get the online office suites to encourage ODF. That will automatically make people aware and educate them about ODF.'
+-
+    name: 'Morten Juhl Johansen'
+    mail: ''
+    subject: 'Ask RMS!'
+    hostname: 80.161.180.33
+    created: '1186731000'
+    body: "RMS addresses this in his classic <em>We can put an end to Word attachments</em> essay:\r\nhttp://www.gnu.org/philosophy/no-word-attachments.html\r\nWhile I am a free software man, I also generally discourage formatted attachments for bandwidth reasons. Receiving a shopping list in OpenDocument format is still pointless.\r\n__\r\nSlackware man. Linux user no. 353252"
+-
+    name: 'Wolfgang Lonien'
+    mail: wolfgang@lonien.de
+    subject: 'How true...'
+    hostname: 91.12.35.107
+    created: '1186926000'
+    body: "Tony,\r\n\r\nthanks for your article. I mentioned it on my blog twice already:\r\n\r\n- http://wolfgang.lonien.de/?p=353 and\r\n- http://wolfgang.lonien.de/?p=365\r\n\r\nPlus you can see my advice to Achim Berg, CEO of Microsoft Germany, on LXer Linux News:\r\n\r\n- http://lxer.com/module/newswire/view/91076/index.html\r\n\r\nI agree - it <em>is</em> an important topic. And RMS needs all the help he can get. We all owe him anyway.\r\n\r\nWith greetings from Germany,\r\n\r\nWolfgang Lonien\r\nhttp://wolfgang.lonien.de/\r\n\"CEO\" of the community site thedebianuser.org"
+-
+    name: Franco
+    mail: fsoldera@nordicbsolutions.com
+    subject: 'Little steps'
+    hostname: 83.94.134.250
+    created: '1187029245'
+    body: "When I requested a hosting provider to build our website, I wanted to have downloadable files available as .doc (unfortunately our customer are very much conservative...), .pdf and .odf. The sad story is that I had even to explain them what the .odf extension is.\r\n\r\nSo, not only the great audience need education but also the so-named \"professionals\"."
+-
+    name: 'Stefan Gustavson'
+    mail: stefan.gustavson@gmail.com
+    subject: 'Best defense'
+    hostname: 130.236.134.164
+    created: '1187193866'
+    body: "I think the best defense against OOXML attacks is to keep up the good, thorough and speedy work to improve the quality and versatility of ODF and ODF-supporting free software. Remember that OOXML is a buggy, awkward and badly documented file format which seems to be specifically designed to be supported in full only by MS Office. It is merely a facade of a standard, not a standard in the real meaning of the word, i.e. it can't actually be successfully and completely implemented by other vendors.\r\n\r\nI think very few, if any, applications will support the creation of OOXML files any time soon. Reading, yes, writing of a limited subset, yes, but probably no full support from anything but MS Office. Come to think of it, even MS Office probably won't support it in full. Even if the standard is repaired so that it actually describes a correct format, which ECMA-376 does not, MS has a pretty long history of not even getting their own stuff quite right. Wouldn't it be fun if they could be held accountable for not adhering to their own standard, and therefore not supporting any standard document format at all? There are clearly some things which Word2007 does which are not standards conformant, like using VML in a newly created document. The standard explicitly says it should not. Looks like they messed it up.\r\n\r\nIt is obvious that writing office productivity software is no longer rocket science, and that it is now within reach of free software projects to create high quality office suites. OpenOffice.org is only one example of that. If *only* MS uses OOXML and nobody else supports it, MS might soon find itself alone inside the walls they built to keep users from moving to other office software, with no means for tearing them down. In there, MS will starve to death and never bother us again with its highly questionable ethics. Or perhaps MS Office will actually start supporting ODF and start competing with quality software, not with lock-in tactics using obfuscated file formats.\r\n\r\nI would certainly consider paying for MS Office it it was any good. If it was significantly better than OpenOffice.org it could even cost almost as much as it does now, I would still consider buying it. But it would need to support ODF first, I certainly wouldn't assume everyone else was prepared to buy it.\r\n\r\nA few years ago, MS had a firm grip on the market, but they are slipping. They can feel it, that's why they are resorting to such ugly methods to keep their lock-in at any costs. You can almost smell their fear, and it's sad. All they really have to do is play nice, but they simply don't know how to do it.\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: lang79james@gmail.com
+    subject: 'while we are at....'
+    hostname: 66.68.102.157
+    created: '1188271569'
+    body: 'While we are at it we need to change MS business practice as well. A lot of people do not know that companies pay a lot of money to MS just to use their products. Example server 2003 itself cost about $500- $800. now that you have a windows 2003 server box now you need clients so you need XP pro that cost about $200 per machine. Ok now you have a windows 2003 server and XP machines and now in order for the machines to talk to the server you need to buy licenses to connect to the windows 2003 server on top of the base cost of the copy of server 2003 and copies of XP Pro. I know this is way of topic but still shows how MS controls the market.   '
+-
+    name: 'Anonymous visitor'
+    mail: ckakman@yahoo.com
+    subject: 'ODF Interoperability and slow OOo'
+    hostname: 88.252.29.230
+    created: '1189291753'
+    body: "AFAIK, ODF is not supported by other free office suites/applications as weel as OpenOffice.org. By the way, how do we know that OpenOffice.org supports the standard well enough? ODT is not the default format of AbiWord. As mentioned in one of the comments above, KWord and OOo implementations of ODF are not 100% compatible. On Windows, you must install a plugin so that AbiWord has full ODF import/export support. Although it is not directly relevant to the issue, I believe that the fact that OOo is a  rather \"slow\" application is/will be an obstacle for the wide acceptance of OOo and ODF. Just try to open/edit and save an ODT document over 100 pages. You will see what I mean.\r\n\r\nThe efforts shoud concentrate on supporting ODF as completely as possible. ODF should be the default format. OOo should be as fast as possible (maybe Java is the problem)."
+-
+    name: 'Anonymous visitor'
+    mail: hancock@anansispaceworks.com
+    subject: '"text drive" version'
+    hostname: 207.158.124.19
+    created: '1189474640'
+    body: "s/text/test/\r\n\r\nI spent a few minutes there trying to figure out what a \"text drive\" version was -- maybe a filesystem that converts all text documents into DOC or OOXML format on disk writes?\r\n\r\n:-)\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: hancock@anansispaceworks.com
+    subject: 'I''m not a big fan of the OOo'
+    hostname: 207.158.124.19
+    created: '1189476020'
+    body: "I'm not a big fan of the OOo suite either, but the point is the standard, not the application.\r\n\r\nPersonally, I've never run into ODF compatibility problems between KWord and OOo (not denying that it can happen of course -- I may just be lucky). OTOH, I have seen a number of problems going back-and-forth between OOo and KWord in DOC format. ODF, being an open, well-documented format, means that both parties can readily meet the standard if they are willing to put in a reasonable effort. The old proprietary standards like DOC format made that a near-impossible task, and that explains the problems I've had with it.\r\n\r\nI agree that OOo is still way too slow, and I personally prefer to use KWord (or better yet, LyX -- but it doesn't have an ODF filter to my knowledge, unfortunately). In fact, I'm very pleased with the KOffice suite for isolated use -- it's only when it comes to MS Office interoperability that I find I need to use OOo -- and then I mainly use it as a conversion utility.\r\n\r\nI know that the media hype is that ODF is \"OpenOffice.org format\", but this isn't really all that true. OOo v1.x can't even read ODF, and until earlier this year, I still had computers running a version of Debian with this earlier version of the OOo suite (after my surprise with v1, I pretty quickly got around to upgrading them all to use OOo v2.x). ODF is really a cooperative standard that all of these applications are working towards. OOo may currently be the best implementation -- but that could easily change. In fact, I'd really like to one of these other applications take the lead.\r\n\r\nThat's really the whole point of using an OPEN standard -- it makes the applications compete on the quality of their implementation without creating locked-in clusters of users who have all their files held hostage by whoever controls the format.\r\n\r\n\r\n"
+-
+    name: TomS
+    mail: gunny01@gmail.com
+    subject: 'Yeah. Abiword uses it''s own'
+    hostname: 121.45.159.16
+    created: '1189512250'
+    body: 'Yeah. Abiword uses it''s own .abw format, which is a XML format similar to HTML, but in my mind Abiword is the ideal word processor, fast and simple. If I want to write more complex documents, I''d use LyX or LaTeX. '
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I''m not a big fan of the OOo'
+    hostname: 68.93.224.4
+    created: '1197475965'
+    body: "Oops. The above post was by me. I didn't intend to post anonymously.\r\n\r\nOh, and I've since found out that there is at least an export filter from LyX to ODF; I just haven't got it installed (it's on my to-do list now). I still don't think there's an import filter.\r\n"

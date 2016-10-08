@@ -1,0 +1,21 @@
+-
+    name: RhysU
+    mail: ''
+    subject: 'Still something missing in the SVNREV details'
+    hostname: 128.83.68.26
+    created: '1220574684'
+    body: 'The final details on how to get SVNREV plugged into AC_INIT seem to be missing.'
+-
+    name: 'John Calcote'
+    mail: ''
+    subject: 'It''s all there'
+    hostname: 137.65.151.200
+    created: '1220634524'
+    body: 'If I understand your question correctly, you''re asking how the value in the SVNREV variable gets "plugged into" the Autoconf version number, correct? The code works - the part you''re missing is that the distdir variable set in the top-level Makefile.am file is configured by AC_INIT to contain values from that variable. Thus, in a sense, you''re correct -- AC_INIT is not altered. Rather, the distdir variable is modified to contain the revision information *after* Autoconf is finished setting distdir from the values in AC_INIT. Basically, this trick forces distdir to contain what we want, not what AC_INIT wants. And all other package versioning comes from the value of distdir, not AC_INIT. The distdir variable is built from the existing values obtained from AC_INIT, so in effect, we''re extending the distdir variable from its original value -- $(PACKAGE)-$(VERSION) -- to $(PACKAGE)-$(VERSION).$(SVNREV) -- a package version containing a Subversion revision number.'
+-
+    name: jeff.daily
+    mail: ''
+    subject: 'How to clean extension targets?'
+    hostname: 130.20.104.158
+    created: '1261507449'
+    body: "Your extension targets tip was great and has allowed me to build my \"examples\" programs using \"make examples\".  It's refreshingly simple:\r\n<code>\r\nexamples:\r\n  (cd examples && $(MAKE) $(AM_MAKEFLAGS)) || exit 1\r\n\r\n.PHONY: examples\r\n</code>\r\nNote that I do not specify the target \"$@\" but instead let it default to \"all\" because my sample applications are declared with \"noinst_PROGRAMS\".  But the automake documentation suggets I add\r\n<code>\r\nDIST_SUBDIRS = examples\r\n</code>\r\nwhich you did not mention. Further, I am now trying to figure out how to \"make clean\" the examples subdirectory without interfering with what automake does for me.  Your thoughts?  Thanks."

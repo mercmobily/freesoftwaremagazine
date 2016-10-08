@@ -1,0 +1,147 @@
+-
+    name: ianrt
+    mail: ianrt@unimelb.edu.au
+    subject: 'Questions I have for Michael Dell regarding Ubuntu'
+    hostname: 128.250.173.105
+    created: '1178156436'
+    body: 'The questions you raise are valid, but the real opportunity I see for Linux here is that whichever models are available with whichever version of Ubuntu, there will be available a platform from which to run any version of linux. If the driver issue is sorted out for Ubuntu, say, it is sorted out for any other linux. Installing KDE for instance will give you Kubuntu. If the chipset suppliers to Dell for those particular models are advantaged over others then there will be pressure on the competitors to also provide drivers (if they want an inroad to that market) as Dell will probably want to limit the  number of chipsets it uses, regardless of whether the linux market is big or not. Having drivers for particular chipsets will mean any model using those same chipsets will run linux, whether Dell chooses to provide linux pre-installed or not.'
+-
+    name: NickF
+    mail: feranick@hotmail.com
+    subject: '200$ ???'
+    hostname: 128.32.57.100
+    created: '1178156712'
+    body: 'Where did you get the 200USD difference between Windows-powered vs Ubuntu-powered Dells? We all know how heavily discounted Windows is to OEM, without counting on the further discount that comes from installing bloatware. My estimate is about 20-50USD at most. '
+-
+    name: 'Anonymous visitor'
+    mail: ingolemo@gmail.com
+    subject: 'As far as question one goes,'
+    hostname: 84.92.170.120
+    created: '1178156950'
+    body: "As far as question one goes, if you're savvy enough to know what KDE is and that you'd prefer it to GNOME, then it's probably not too hard for you to install the kubuntu-desktop meta-package and remove the ubuntu stuff.\r\n\r\nFact is, those of the linux crowd who buy an Ubuntu PC from Dell won't be doing it for the convenience of having a disro pre-installed. They'll be doing it to show their support of linux in a more mainstream position (and all that that might entail). I guess many of them will end up scrapping Ubuntu and installing something else anyway.\r\n\r\nOn the other side of the coin, those customers who are new to linux probably don't care which wm/ui they have, so long as their computer Just Works for them."
+-
+    name: Tyler
+    mail: ''
+    subject: 'This is not for gnu/linux veterans'
+    hostname: 142.177.91.58
+    created: '1178157627'
+    body: "Dell offering one flavour of gnu/linux makes it available to curious newbies who are intimidated by the idea of installing an OS. Of all the newbie-friendly distros around, Ubuntu seems like the obvious choice.\r\n\r\nWhat would they gain by offering even one additional choice? Say Kubuntu, as an example. Then the newb has a choice to make, with no experience to base that decision on. Of the few that stick around long enough to try and figure it out, a sizable portion are likely to stumble upon some gnome vs kde flamefest on the web and walk away in confusion.\r\n\r\nThis is a great move by Dell, and it's very smart to keep it as simple as possible. If they tried to please linux enthusiasts by offering a variety of distros they'd lose. We're going to install our own anyways, so what's the point of confusing the newbies who will appreciate a pre-installed os.\r\n\r\nIf you want to nit-pick about the fine details of this deal, go right ahead. But remember, you are the converted, so pleasing you gains us nothing. It's the curious outsider that this is aimed at, not the jaded veteran.\r\n\r\nAnswers to your questions:\r\n\r\n1. Just one, Ubuntu, I hope.\r\n2. A handful at first. I don't imagine it will be too hard to deal with related models - anything that varies primarily by screen/ram/hard drive size shouldn't be an issue to configure.\r\n3. As long as people are buying them.\r\n4. Not a big deal, so long as it is apt-get removable (or whatever tool Ubuntu provides for package management - Synaptic?)\r\n\r\nBy the way, it costs Dell much less than $200 to put Windows on a machine, and the bloatware also contributes to lowering the price of a box, since it is essentially paid advertising.\r\n\r\nSo you can continue to sulk about how this deal fails to live up to your standards. For my part I'm optimistic that this will bring more users to GNU/Linux, and more driver support from hardware manufacturers, so that even if I never buy a dell I will benefit from this deal. And if it's still available when I replace my laptop in a few years, it will definitely influence my purchasing decision. Even if I plan to reinstall Debian anyways - at least I'll know the hardware works.\r\n\r\nTyler\r\n"
+-
+    name: JonAnderson
+    mail: anderbubble@gmail.com
+    subject: 'is the glass always half empty?'
+    hostname: 68.73.225.12
+    created: '1178165955'
+    body: "So much negativity.\r\n\r\n1. First of all, there is no reason to complain about Kubuntu not being offered. It's not about which is better: if someone wants Kubuntu, and knows they want Kubuntu, it's as easy as installing kubuntu-desktop. The real issue is hardware compatibility, which brings us to...\r\n\r\n2. Dell will only support Ubuntu on \"select\" models because not all the hardware for all their models is supported by the Linux kernel. Dell will support Ubuntu only on that hardware that they believe offers an appropriate level of quality for their customers (i.e., will minimize the support calls they receive.) This is fine, and having an OEM pushing for greater hardware support for recent devices can only be a good thing.\r\n\r\n3. Again, Dell dropped support for Red Hat because it was not cost effective to keep it on. If people really want Ubuntu preinstalled from Dell, it will be profitable, and Dell will continue to offer it.\r\n\r\n4. Dell-supported Ubuntu will either come with Dell craplets installed, or the cost will not be impacted as much as we all think. PC's (especially low-end PC's) are so cheap because of all the cost-cutting measures in place, and advertisements that subsidize the cost of your PC are a big part of that. If Dell decides to install craplets in Ubuntu (hopefully with a special Dell APT repo) they can be easily removed or, worst case, replaced in a reinstall of the OS for those who care. Again, the real win here is the hardware support that Dell's weight might bring.\r\n"
+-
+    name: alejandroz
+    mail: ''
+    subject: 'I agree with Tyler.'
+    hostname: 201.253.137.105
+    created: '1178166605'
+    body: 'I agree with Tyler. Enthusiasts will install their own Gentoo, Debian, Slackware or whatever they like. People who want a computer that just works can use Ubuntu, and not learn about choices for now. In any case, alternate DEs and WMs are apt-gettable.'
+-
+    name: 'Anonymous visitor'
+    mail: carla@bratgrrl.com
+    subject: 'one big question:'
+    hostname: 12.169.163.241
+    created: '1178238239'
+    body: "Will Ubuntu customers pay the Windows tax? Dell keeps dodging this question.\r\n\r\nAlso, are these Ubuntu PCs going to be easy to find and customize? Or hidden away so deeply on their Website that only the most determined person can find them, like the last time they \"offered\" a Linux desktop PC?\r\n\r\nAre they going to be comparable to their windows cousins, or will they be missing components like extra RAM, DVD writers, big hard drives, and so forth? That's what they did before.\r\n\r\nAre the Linux pages going to be plastered with \"Dell Recommends Vista!\" links and ads?\r\n\r\nThe skepticism about this is well-founded. Time will tell how sincere they are.\r\n"
+-
+    name: chemicalscum
+    mail: chemicalscum@netscape.net
+    subject: 'MS threats killed Dell desktop Linux'
+    hostname: 199.212.94.172
+    created: '1178240253'
+    body: "<cite>3. Again, Dell dropped support for Red Hat because it was not cost effective to keep it on. If people really want Ubuntu preinstalled from Dell, it will be profitable, and Dell will continue to offer it.</cite>\r\n\r\nNo - It is common knowledge that Dell dropped its line of desktop RH Linux PC's (while keeping a strong and increasing support for Red Hat on servers) due to strong pressure from MS.  Microsoft executive Joachim Kempin wrote \"I'm thinking of hitting the OEMs harder than in the past with anti-Linux. ... they should do a delicate dance,\" with the intention of threatening Dell.\r\n\r\nI hope that Dell thinks it can now stand up to MS and make a profit of sales of Linux desktops and laptops to the public and that it is not merely using this as a negotiating tactic with MS."
+-
+    name: 'Doug Swain'
+    mail: dswain@gmail.com
+    subject: 'Maybe They''ll Do Some Custom Work?'
+    hostname: 76.98.201.138
+    created: '1178240731'
+    body: 'My thought process is that if they take the time to set up a system where it will install bloatware for you nice and easily, maybe they''ll do the same for the different variants of Ubuntu also. Since you can install the meta-package and run any version from another one, maybe they''ll make some type of system where you run a program to install the package of your choice and switch up the environment for you. That''s just a real simple example of one situation, but that would be my optimistic hope for Ubuntu and Dell.'
+-
+    name: 'Jeff Rollin'
+    mail: jeff.rollin@gmail.com
+    subject: 'Here''s another question for you'
+    hostname: 81.86.47.11
+    created: '1178266351'
+    body: '...WHY is Dell treating the UK like a poor relative or second-class citizen and refusing to preload Linux on its PCs in the country?'
+-
+    name: 'Jeff Rollin'
+    mail: jeff.rollin@gmail.com
+    subject: 'Here''s another question for you'
+    hostname: 84.64.202.198
+    created: '1178269166'
+    body: "WHY are Dell shortchanging UK customers and treating them like poor relations/second-class customers by refusing to sell Dell PCs preloaded with Linux in the UK?\r\n\r\nHonestly, sometimes I feel like this country will be late to its own funeral."
+-
+    name: Wyle_E
+    mail: sjrush@comcast.net
+    subject: 'Dell crapplets in Linux'
+    hostname: 24.98.130.42
+    created: '1178275134'
+    body: "I wonder how long it will be before someone posts a clean-up-dell script to the Ubuntu forum?\r\n"
+-
+    name: RT
+    mail: rushtrader@gmail.com
+    subject: 'What makes you think there'
+    hostname: 69.123.15.116
+    created: '1178287392'
+    body: 'What makes you think there will be any savings at all?  It is well known that for large scale licensing of Windows, you have to pay the fee for every machine that is shipped, regardless of whether it is loaded or not.'
+-
+    name: 'Anonymous visitor'
+    mail: john.bailey39@gmail.com
+    subject: 'I know what you mean'
+    hostname: 84.69.176.131
+    created: '1178336532'
+    body: "I agree. It seems that Europe in general is the last to get some stuff, and then for daft prices. If it works in America, we will hopefully get DellBuntu eventually. Good thing I'm not in the market for a new PC any time soon..\r\n\r\nPersonally I would have thought launching in Europe would have been a better idea, as the Linux market is supposed to be stronger than the US. \r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: jon@mhost.com
+    subject: Codecs
+    hostname: 136.1.1.101
+    created: '1178560921'
+    body: 'I have to wonder - if Dell is required by contract to have a Windows license on EVERY desktop system they sell (and that IS common) then perhaps the Ubuntu machines can have the full range of Windows codecs shipped with them? Unless of course the winblows codec licenses say something about non-windows operating systems . . .'
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'They''d love to, I''m sure...'
+    hostname: 68.197.66.72
+    created: '1178632435'
+    body: "Problem is that many codecs (like Microsoft's Windows Media) require royalties.  That's why win32codecs and libdvdcss are illegal without paying to respective people.\r\n\r\n--\r\nAndrew Min"
+-
+    name: 'Mark Cahill'
+    mail: mscahill@stetson.edu
+    subject: 'Dell gets Windows for almost free'
+    hostname: 147.253.128.34
+    created: '1178632875'
+    body: 'I read an article about a GNU/Linux user who requested a refund from Dell for his copy of Windows that he never used. The amount was $35 and change. Just because Microsoft sells windows retail for that much doesn''t mean that''s what Dell pays. Microsoft almost gives Windows away to Dell to ensure that there is vendor locking. May those days end soon...'
+-
+    name: 'Anders Jackson'
+    mail: ''
+    subject: 'What?'
+    hostname: 130.243.4.29
+    created: '1178639931'
+    body: "Be happy that you get Dell support for having hardware support for Linux on there boxes. It is good for all of us.\r\n\r\nAnd to answer your questions:\r\n<ol>\r\n<li> As one said, it's an easy \"apt-get kde\" or use synaptic to get kubuntu, edubuntu, xubunt or what not.  I'm ok with Ubuntu.  I would be ok with any Linux distribution, but as Ubuntu is Debian-based, I am happy about that :)\r\n<li> This is actually a valid question.  And on what market?  As someone wrote, EU is supposed to be a better market for Linux.  So why not start there (or at least also there).  Or even better, world wide distribution of Ubuntu preinstalled.\r\n<li> This is an easy one.  Until they don't make a profit that is large enough OR MicroSoft threatens them on this. Dell is a company that have to make a living, so I guess the first on (profit) is major, but the second one (MicroSoft) is also an issue here.\r\n<li> If they want and it is easy to remove, it's ok for me.  Just have them install it and I \"apt-get --purge remove\" it.  OR (re)install Debian on it.  For me (and most others) this is a non issue.  There is other things that is a bigger problem (like not enough customers or MicroSoft threatning Dell for offering Linux on desktops).\r\n</ol>\r\nSo please wait and see what they will give us. REALY hope they get some profit out of it, and start selling Ubuntu on more machines. It will give us all better support for hardware in Linux. Even if you need to \"apt-get install kde\" to get Kubunto on your machine :)"
+-
+    name: Tyler
+    mail: ''
+    subject: 'That''s the point'
+    hostname: 142.177.134.74
+    created: '1178645310'
+    body: "That's the point that AV was making. If MS insists on Dell paying for an MS license for every computer, even the ones shipped with Ubuntu, then those royalties have already been paid.\r\n\r\nTyler\r\n"
+-
+    name: 'Chris Lees'
+    mail: christopher_lees@iprimus.com.au
+    subject: 'Fluendo?'
+    hostname: 211.27.202.133
+    created: '1178695022'
+    body: 'My question to Mr Dell would be "Will Ubuntu machines come with the full range of legal codecs from Fluendo?". It might cost a fair bit (Google "50 euro to USD") for Dell unless they made an agreement with Fluendo; but that would give us a good multimedia experience out-of-the-box AND support the Gstreamer project.'
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'Those codecs are proprietary software'
+    hostname: 80.6.124.25
+    created: '1178739360'
+    body: "Personally, I have no interest in using those Fluendo codecs because they're proprietary software (see https://shop.fluendo.com/conditions.php?osCsid=2bcss1qdb1b5q3cv2q1dc5t305). The only reason I use GNU/Linux and other free (as in freedom) software is because it respects my freedom.\r\n\r\n--\r\nGNU - free as in freedom"

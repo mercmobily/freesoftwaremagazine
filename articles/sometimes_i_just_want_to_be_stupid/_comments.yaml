@@ -1,0 +1,77 @@
+-
+    name: ''
+    mail: ''
+    subject: 'let the computer do the work'
+    hostname: 12.169.163.241
+    created: '1165289105'
+    body: "I'd like to see Linux get to the point where package management and making hardware work are completely brainless. Sure, it's good to know how to compile apps, and how to dink with drivers and customize kernels and all that sysadmin stuff, but that's all just system management, and I'm glad it's finally growing up and becoming more automated. That's the kind of boring stuff computers should be doing, not people. I'd like to see a Linux installer that installs only kernels, drivers, and applications that are supported by your hardware. Then have some kind of slick utility for future changes and upgrades. Of course in classic FOSS fashion the user will have the choice of how much manual control they want over the process.\r\n\r\nIn my almost-humble opinion, the real work is either coding, or using applications. The in-between jobs of having to learn weird hacks and command options just to make things run in the first place are wastes of time, and are overdue for retirement. And thankfully, Linux is getting there."
+-
+    name: ''
+    mail: ''
+    subject: 'It''s still a dumb computer'
+    hostname: 220.245.180.133
+    created: '1165292422'
+    body: "I started using *nix back on Motorola microcomputers in the late 70's highlighted in the mid 80's with highspeed SUN and Indy GUI 32bit workstations.\r\n\r\nThe Wintel crew since the mid 90's seem to be regurgitating this period and although the 32bit CPUs are faster, the overall interface, functionality, usefulness, performance and general purpose application selection is still about the same, although lacking some of the really easy end user tools to manipulate  information, automate repetitive tasks, and give high levels of security and open networking.\r\n\r\nIntel had to add 128bit registers to its core for multimedia extensions, but for profit reasons did not extend this to the whole chip, so we have been forced to go without the obvious media input and output advances over the 80's model that very long word instructions would have given us.\r\n\r\nThe marketing rationale behind this decision is that people have to make these dumb 32bit machines perform by themselves and more bottoms on seats means more profits to Wintel.\r\n\r\nNow that the IBM Cell architecture is hitting the shelves in what can be a cheap PS3 Linux development machine, we expect to see garage developers give us some amazing advances on the current dumb system interface, and with the ability of Cells to Open Grid to process AI data domains, we should at long last have the power to do audio visual recognition and responses.\r\n\r\nCouple this with *nix daemons and information processing tools and you have the potential for an automatic intelligent slave system instead of a dumb PC.\r\n\r\nRoll on 2008."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Take your pick'
+    hostname: 68.93.224.4
+    created: '1165292920'
+    body: "\"I'd like to see a Linux installer that installs only kernels, drivers, and applications that are supported by your hardware. Then have some kind of slick utility for future changes and upgrades. Of course in classic FOSS fashion the user will have the choice of how much manual control they want over the process.\"\r\n\r\nTake your pick: Debian, Fedora, SUSE (even though we are currently miffed with them!), Ubuntu, MEPIS, Knoppix, Linspire/Freespire, Xandros, ....\r\n\r\nOf course, as in all cases, the installers aren't 100% accurate. But that goes for <em>any</em> O/S and distribution! I have quite vivid recollections of having to talk users through the correct way to get HP drivers to install on Windows, which involved second-guessing and avoiding Windows' thumb-fingered attempts to autodetect \"Plug-n-Play\" hardware!\r\n\r\nBut a number of Linux distributions have quite good installers which are accurate on a wide range of hardware. Tools like apt-get or synaptic provide a remarkable ease of controlling your package install state (I know there are also good tools on RPM distributions, such as \"Yum\" and \"YaST\", but I can only personally vouch for Debian's tools).\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Honestly I would like to see'
+    hostname: 69.246.184.139
+    created: '1165295763'
+    body: 'Honestly I would like to see ANY OS get to this point. The closest I have yet seen was a Mac Classic running officail Mac hardware from Apple. Even then you occasionally got that peice that just would never work quite right. Windows has not made, OSX is starting to slip, and Linux while for the most part on the ball still has its thorn spots.'
+-
+    name: ''
+    mail: ''
+    subject: 'Blowing up your monitor'
+    hostname: 69.246.184.139
+    created: '1165296008'
+    body: 'I can tell you from first hand experience that same version of Slackware you are remembering that you could indeed smoke a monitor. I did that the second time I ever configured an X server. After running the "startx" the monitor came up all nice and bright and ran just fine for about 20 minutes or so excpet for this odd hum. Then the gary smoke that powers the monitor start to leak out. and left me with one dead monitor. It turns out that with X especially the older ones you could over drive the video card or send the to high a refresh rate to you monitor if you where not careful. I did the too high refresh mistake.'
+-
+    name: ''
+    mail: ''
+    subject: 'well, no, not quite'
+    hostname: 12.169.163.241
+    created: '1165436411'
+    body: "None of those self-customize for your hardware. They all install lardy pre-fab kernels and big fat initrd images that contain everything in the world for booting on every possible system, and dump a big fat load of kernel modules you'll never use on your system. Take a peek and see how much ISDN stuff is cluttering up your system, for one example. Joystick junk? Bluetooth baggage? I don't want those, but they alway gets installed. In my dream world nothing gets installed unless hardware is detected for it by the installer, or the user requests it, and the kernel only supports what I want it to.\r\n\r\nYes, I can have all that now by building custom kernels and fine-tuning package selection. But it's very time-consuming. I'm dreaming of nice automated tools.\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Yes, but...'
+    hostname: 68.93.224.4
+    created: '1165453700'
+    body: "Of course, other O/Ss like Windows and Mac OS also do that, so this is not a competitive issue.\r\n\r\nOTOH, there are distributions like Gentoo or Lunar that <em>do</em> compile the kernel (and other packages) as part of the distribution process. This achieves very nearly the optimum performance possible on the target system, at the expense of additional installation time.\r\n\r\nIn practice, however, with 80GB harddrives being practically free, the extra bulk in a pre-fab kernel seems like a non-issue for most end-user systems!  Remember that loadable kernel modules don't consume RAM if they aren't loaded, so we are really just talking about disk space.\r\n\r\nSo this is more of a \"high performance\" complaint than an \"ease of use\" concern. And of course, HPC always costs more time and effort for the user.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'updates, security issues'
+    hostname: 12.169.163.241
+    created: '1165458408'
+    body: "Unnecessary packages make updates and upgrades longer and more complicated, and more risk of dependency problems. And carry some security risks as well. Which admittedly are fairly minor concerns on stable distributions with reliable upgrade paths like Debian and RHEL.\r\n\r\n\"HPC always costs more time and effort for the user.\" But must it be a lot of time and effort? We already have all the tools to do this, we're just stuck with doing it manually. I want the computer to do the work!"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Ahem. Comes with a complete development environment...'
+    hostname: 68.93.224.4
+    created: '1165526404'
+    body: "Don't like how it works now?\r\n\r\nRemember: one thing <em>ALL</em> free software operating systems come with is a <em>COMPLETE</em> development environment for just about any programming language you can imagine.\r\n\r\nSo, if you want improvements, hey, there's the keyboard, start typing, bucko... ;-)\r\n\r\nThat's what free software is all about.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Poof! Monitor est morte!'
+    hostname: 80.177.31.127
+    created: '1165629583'
+    body: "You could (and probably still can) blow up your CRT monitor by using the wrong frequency settings just a few years ago.  I did just that by running my monitor at about 30% higher vertical refresh than it could do, it just went ping and that was that.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'I am stupid already. I want to use Linux anyway'
+    hostname: 86.128.252.149
+    created: '1171380797'
+    body: "But it seems that the Linux hacker community don't want me to, as it would pollute the pristine purity of the concept. If I want to install an application (not Linux itself), I have to copy out a set of command line strings, and being stupid it takes ages and I often do it wrong. A lot of the time, the strings I have to  copy out are one set of a smallish number of variants, with a few differences (noticeably the package name) in the arguments. Now, when programmers (I'm not a programmer) find themselves in this position, they write a program, or a script, or somerthing that relieves them of this tedium, and makes it right almost every time. And they either sell it, or give it away, so that other people don't have to reinvent the nuclear reactor. Think of things like, er, C, that saved a hell of a lot of tedious assembler work when Unix was first invented, and now everybody has GCC and quite likely a few other compilers hanging round. And Kylix, that saves you all that trouble with GUI design. And I suppose someone had to write the first assembler like this: 10001100 0110000 1010001 .... \r\n\r\nAnd I bet a decent application installer, that knows about the different distros, hardware, directory structure, where to get packages, how to make everything fit together AND plays Stairway to Heaven while you're waiting isn't as much work as an assembler.\r\n\r\nBut when it comes to making program installation easy, all the hackers dig their heels in. It's good for the soul to type \"make xxx\" on the command line, having got your sources in the right directory by hand in the first place, and then have it all fall over because you've got the wrong library version or whatever. Having an installer to find the right directory, prompt for su passwords, check for the libraries, check for dependencies, copy everything and then type \"make\" for you is cheating. \r\n\r\nThe OS community at the moment looks like a Manchester City forward faced with an open goal. Microsoft by now is probably beginning to realise that Vista is an appalling blunder, and that the world is not quite ready yet for Windows 1984. All Linux needs is the little push to make it idiot-usable (it's already practically idiot- proof), and you could easily see mass migration. That would mean the hardware manufacturers issuing Linux drivers automatically, major software vendors selling Linux versions, and in case you hadn't realised, ask-your-fee for experienced Linux hackers for at least five years.\r\n\r\nNow, where's the ball going? In the net, or row G?\r\n"

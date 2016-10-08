@@ -1,0 +1,7 @@
+-
+    name: 'Ti-brin des bois'
+    mail: ''
+    subject: 'Linpus Lite desktop'
+    hostname: 198.168.100.174
+    created: '1234552419'
+    body: "Gary Richmond wrote:\r\n>It runs on a very low specification (CPUs as low as 366MHZ,\r\n>memory as low as 128MBs of RAM and 512MBs of disk space)\r\n>which may be why it was chosen (and the ability to switch at\r\n>a one icon click from Easy Mode to a full KDE 3.5 desktop is\r\n>something Asus should have included from the off without\r\n>relying on the Unix community to do it for them).\r\n\r\nDo you know what you mean?\r\nLinpus Lite provides Xfce as desktop environment, not KDE!\r\n\r\nAnd they are suspected of violating the GPL because it does not provide the source code of the changes they have made to Xfce."

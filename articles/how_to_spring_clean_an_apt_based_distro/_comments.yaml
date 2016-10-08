@@ -1,0 +1,42 @@
+-
+    name: 'Rakesh "arky" Ambati'
+    mail: arky@gnu.org.in
+    subject: 'Cleaning apt-based distro need be left until spring!'
+    hostname: 121.246.224.157
+    created: '1193532410'
+    body: "Cleaning apt-based distro need be left until spring! you can clean a little everyday if you use 'upgrade-system'.\r\n\r\nUpgrade-system offers a convenient way to keep a Debian system up-to-date,yet free from accumulated cruft such as obsolete libraries. It is particularly useful on systems that mix packages from different releases (stable/testing/unstable) and on desktop systems where packages are frequently installed or removed according to evolving user tastes.\r\n \r\n Homepage:  http://funkyware.konflux.at/\r\n\r\nCheers\r\n\r\n--arky"
+-
+    name: 'Anonymous visitor'
+    mail: vtomasr5@gmail.com
+    subject: 'you can use aptitude, is'
+    hostname: 62.43.183.27
+    created: '1193640690'
+    body: 'you can use aptitude, is better.'
+-
+    name: 'Anonymous visitor'
+    mail: blackhole_54@yahoo.com
+    subject: 'Don''t worry about /var/cache/apt/archives'
+    hostname: 166.70.207.2
+    created: '1194409313'
+    body: "I have yet only skimmed the article, but I imagine it has some useful pointers. But the starting premise of looking at /var/cache/apt/archives is flawed.  That directory contains the .deb files that you have downloaded for installation, and quite likely have already installed.  But apt will automatically (if so configured) eventually delete these files.  By default, on edgy eft, it will delete files that are both 30 days old (modification time) and have been in the directory for 30 days (status change time).  It will also attempt to keep the size of the directory below a specified value (500 MB by default on edgy eft) while still trying to avoid deleting files before they have been used.\r\n\r\nSo your article, quite properly, focuses on the packages that are actually installed.  But this is quite different from the files in the archives directory which will get deleted automatically."
+-
+    name: 'John Eckman'
+    mail: eckman.john@gmail.com
+    subject: 'typo?'
+    hostname: 24.61.155.127
+    created: '1198095015'
+    body: "The suggested command:  <code>apt-get remove -purge $(deborphan)</code>\r\n\r\nShould probably be either: <code>apt-get remove -p $(deborphan)</code>\r\nor: <code>apt-get remove --purge $(deborphan)</code>\r\n\r\nThanks for the article"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'apt-get clean'
+    hostname: 68.93.224.4
+    created: '1199223055'
+    body: "I'll have to take your word on the information about automatic deletion (I've never noticed or tried to check this).\r\n\r\nHowever, apt-get does provide a command for cleaning out these files manually, which is \"clean\":\r\n\r\n`apt-get clean`\r\n\r\nThis can be useful particularly if you are doing a very large upgrade and the number of stored packages fills the available space on `/var`. If you can manage to upgrade in stages and clean the cache on each step you can get through such a problem (Of course, what it really means is that your `/var` partition is too small).\r\n"
+-
+    name: victor32
+    mail: ''
+    subject: errors
+    hostname: 89.34.58.139
+    created: '1202937300'
+    body: 'Even after I told apt to say Yes to everything, it still prompted me for input on config file conflicts (was I doing something wrong?). I had this other website, running in the background. This caused the script to hang indefinitely in the background until it was killed. Auto-accepting configuration changes can ruin your day.'

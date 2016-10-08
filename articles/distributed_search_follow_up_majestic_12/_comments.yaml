@@ -1,0 +1,28 @@
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'Very interesting'
+    hostname: 69.180.163.110
+    created: '1162792449'
+    body: "Thanks for pointing this out, Terry.  As much as I like Google, I agree that we want alternatives that don't involve one company acting as such an important gatekeeper.  But in this case, even if millions of individuals contribute cycles and bandwidth to scour the web, isn't Majestic-12 still a single point of control for us to actually use the results?\r\n\r\nWill have to read more about it, but I think I'd enjoy running a search node more than a SETI node.  I like SETI@Home, but have never felt like I was contributing that much the times I've run it on my machines.\r\n\r\nThe algorithms for finding relevant content are obviously going to be important in the success of this thing.  Maybe we can judge improvements by where freesoftwaremagazine.com ranks in a search for: free software magazine.  Running with alexc's magic recipe, it ranks 37th at the moment.\r\n\r\nMoving to freedom doesn't even register for my backwater little site, but maybe that's because I'm so obscure :-)\r\n\r\nSearching with quotes, \"moving to freedom\" gets:\r\n\r\nError: Index 'mainindex170206' search failed due to: Index returned result type of InternalError Extended error: System.Exception: Wrong skip delta=-8978 at Majestic12.InvertedIndexScanner_Default.UseSkipIndex(Int32 p_iDocID) in H:\\Alex\\PROJECTS\\MJ12searchLib\\InvertedIndexScanner.cs:line 629 at Majestic12.InvertedIndexScanner_Default.SkipToDocID(Int32 p_iDocID) in H:\\Alex\\PROJECTS\\MJ12searchLib\\InvertedIndexScanner.cs:line 932 at\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Single point of control?'
+    hostname: 68.93.224.4
+    created: '1162862367'
+    body: "I admit I haven't explored this thoroughly. Presumeably, though what will emerge either through this project, or in reaction to it, is adaptive radiation of crawler algorithms and search techniques.\r\n\r\nOne thing I can't find on the Majestic-12 website is a download for their server-side engine, but I don't know if that's intentional, or just a casual omission (clearly the client is the more important thing for them to resolve in the near-term, so they may just not be considering the next step yet). It's a good question, though, whether this is a true free software project. I may have to inquire.\r\n\r\nIt's pretty clear, though, that if the client and search engines are both open source projects, they will evolve to meet some kind of community consensus of how a search engine should work, rather than the conclusions of corporate management (which are highly distorted from what the search market wants).\r\n"
+-
+    name: mjkaye
+    mail: ''
+    subject: 'Is it Free Software?'
+    hostname: 212.248.237.1
+    created: '1162894609'
+    body: "Their site describes the client as \"free to download and use\". How \"Free\" is this software?\r\n\r\nIs <a href=\"http://en.wikipedia.org/wiki/YaCy\">Yacy</a> not a better bet?\r\n\r\n--\r\nCutting Free - Free Software at the cutting edge (<a href=\"http://cuttingfree.blogsome.com\">cuttingfree.blogsome.com</a>)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I thought so, but...'
+    hostname: 68.93.224.4
+    created: '1162971112'
+    body: "I thought so when I wrote this post, but I'm beginning to doubt it. Thanks for the link.\r\n"

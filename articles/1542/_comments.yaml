@@ -1,0 +1,70 @@
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'We, at FSM, use GNU/Linux'
+    hostname: 203.59.253.75
+    created: '1147075139'
+    body: "For reasons of correctness we use GNU/Linux here at FSM.\r\n\r\nI personally feel that correcting people can be a little annoying for them and tedious for me. I prefer to use the correct term when I'm speaking or writing in the hope that it will catch on.\r\n\r\nThere is, however, an inherent problem in turning the tide regarding this matter: geeks prefer efficiency. This does make it a bit of an uphill battle.\r\n\r\nPerhaps we should try to abbreviate it further and call it \"G/L\". This would represent both parties equally and keep geeks happy (whether it appeases their genuine desire for efficiency or appeals to their laziness).\r\n\r\nWhat do you think? Would it be too hard to try another solution?"
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: '"Politically" I''m absolutely'
+    hostname: 213.184.199.252
+    created: '1147080855'
+    body: "\"Politically\" I'm absolutely on Stallman's side. That OS we use is much more GNU, than Linux - altough both parts are necesarry. But:\r\n- \"Linux\" is just shorter\r\n- Also many non-geeks know by now that there is an OS that's competing with Windows and Mac. And they know this OS by the name \"Linux\". It'd be difficult for them to learn a new name like \"GNU/Linux\", \"GNU+Linux\" or \"G/L\"."
+-
+    name: 'Matt Barton'
+    mail: ''
+    subject: 'My Thoughts'
+    hostname: 67.133.89.167
+    created: '1147101507'
+    body: "Thanks for the responses, fellows. It's great to talk about this issue with folks who are friendly towards FS! Anyway, my professional opinion as a  <a href=\"http://en.wikipedia.org/wiki/Rhetorician\">rhetorician</a> is that saying \"GNU/Linux\" is not any harder to say than \"Mac OS X,\" \"Microsoft Windows,\" or \"Amiga DOS.\" Once you establish the context, though, it's almost always easier just to use the last part (i.e., once someone knows which one you're talking about.) So, if I started a conversation with \"Mac OS X,\" and you nodded in understanding, I might just say \"X\" from that point on. I see this same convention observed mostly in writing, even with names. No one says \"Richard Matthew Stallman\" everytime. Instead, they abbreviate to \"Stallman\" or even \"RMS\" after an initial usage. \r\n\r\nOn the other hand, it's pretty clear that the insistence on \"GNU/Linux\" is more political than practical. Saying the full name is a way of identifying with Stallman's side rather than Raymond's. Unfortunately, the \"open source\" side has done a very good job of painting its rival as a bunch of raving, foaming-mouth fanatics. Someone who has heard something of this slander may be especially prickly if told to \"quit saying Linux, it's GNU/Linux! It's incorrect to say Linux unless you're talking about the kernel!\" This person will likely think to himself, \"Yeah, I've heard all about people like you.\" In other words, trying to do a good thing by correcting people (and trying to coerce them to use the proper term) might actually be doing more harm than good for the movement. \r\n\r\nAgain, I come back to the simple position to lead by example rather than coercion. If I say \"GNU/Linux\" enough times, someone is going to ask, \"Why don't you just say Linux?\" Then I can explain the issue without sounding like a fanatic (after all, they asked). "
+-
+    name: 'Constantinescu Nicolaie'
+    mail: ''
+    subject: 'Old habits die hard'
+    hostname: 82.76.93.14
+    created: '1147256914'
+    body: "Everyone and I refer to those thousands of  users not carrying about anything but having their tasks accomplished knows some things about Ã¢â‚¬?Linux Ã¢â‚¬?.\r\nSo, I think its useless unless you try the meek approach of using and explaining when you are asked why you refer in such manner to Linux (GNU/Linux).\r\n\r\nWhat will happen when HURD will be out ? :))"
+-
+    name: bhy
+    mail: ''
+    subject: GNU/Linux
+    hostname: 62.245.107.171
+    created: '1147778143'
+    body: 'It''s a bit difficult to say "GNU/Linux" in speech in my native language. The Czech word for "slash" - lomeno - consists of three syllables, not just one. Nevertheless, I really try to use it at proper occasions. Actually it''s easy to talk either directly about the distribution I use (then I call the system just "Debian", because I refer to debian-specific stuff) or about the kernel only (then I say "Linux", because I only talk about device drivers, modules etc.). And for everyone who says "Linux" for the convenience of it, even though politically they agree with Stallman: believe me that saying just "GNU" is shorter. For example when the topic is flamewar, it''s usually "GNU vs. Windows" for me, because in the end it doesn''t really matter whether Windows will be beaten by GNU/Linux or GNU/kFreeBSD. :) Thus IMO situations when you can''t avoid talking about "GNU/Linux" are surprisingly rare. The pacisift approach (saying GNU/Linux and explaining only when they ask) seems good enough for me, although several times I met people so horribly ignorant that I had to insist on explaining.'
+-
+    name: EmmaUK
+    mail: ''
+    subject: 'Most are ignorant'
+    hostname: 61.247.241.8
+    created: '1148125020'
+    body: "Linux is the name that was given in the media, and therefore it is what sticks in people minds. I do not force them to use GNU/Linux, since I see no need in it. Like I say Windows, and not Microsoft Windows the whole time. I guess it is how you feel about it. Personally I do not care to be politically correct the whole time, that might be the problem/solution.\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Isn''t it ironic that the'
+    hostname: 66.118.56.242
+    created: '1148913289'
+    body: "Isn't it ironic that the organization which fought so hard to eliminate the advertising clause from the BSD is now trying to insist on the same treatment for themselves? The reasoning behind the 4-clause BSD is the same that Stallman tries to invoke for including \"GNU\" into the name (roughly 'we put lots of effort into it, so we should control how it is referred to'). The only distinction (to his credit) is that Stallman is not attempting to force this through legal means -- just by shunning people (there's a smart PR move for you).\r\n\r\nBut, just as with the BSD, this doesn't scale.  However historically important it once was, GNU is now a minority in the free-licensed open source software community.  Should we be expected to enumerate every major contributor to the O/S we know and love?  Is it to be the \"Debian GNU/X.org/KDE/OpenOffice.org/OpenSSL/Apache/Mozilla/Gimp/Blender/Python/Perl/Ruby/PHP/Linux\" system that I must advocate to my friends?\r\n\r\nSeriously, that gets old fast. And while there's no question that the \"GNU\" project made important contributions, the kernel is the defining characteristic of the O/S I use.  More importantly, it has easy pronunciation and instant name recognition.  Using the term to refer to a broader system is merely synecdoche, and is not particularly incorrect, IMHO (and as I point out above, \"GNU/Linux\" is also synecdoche).  If people want to enshrine the GNU project's contribution above all others by using the term \"GNU/Linux\" themselves, that's fine by me, but 'correcting' people for not using it is pompous and irritating."
+-
+    name: 'Anonymus Coward'
+    mail: dave@hotmail.com
+    subject: 'GNU/Linux - Obnoxious!'
+    hostname: 84.70.134.103
+    created: '1182117373'
+    body: "The system is called \"Linux\", this is the proper term for the operating system and the term that has gain the most momentum. The GNU project is very important but didn't RMS himself describe the BSD lisence as containing an \"Obnoxious Advertising Clause\" - This is what he had to say on the matter:\r\n\r\n\"When people put many such programs together in an operating system, the result is a serious problem. Imagine if a software system required 75 different sentences, each one naming a different author or group of authors. To advertise that, you would need a full-page ad.\"\r\n\r\nHe makes a good point!\r\n\r\nThis is what he has to say on the linux - GNU/linux thing:\r\n\r\n\"Since a long name such as GNU/X11/Apache/Linux/TeX/Perl/Python/FreeCiv becomes absurd, at some point you will have to set a threshold and omit the names of the many other secondary contributions. There is no one obvious right place to set the threshold, so wherever you set it, we won't argue against it ... But one name that cannot result from concerns of fairness and giving credit, not for any possible threshold level, is \"Linux\". It can't be fair to give all the credit to one secondary contribution (Linux) while omitting the principal contribution (GNU).\"\r\n\r\nInteresting stuff - if RMS cares so much he should insert an \"obnoxious adverisment clause\" into the GPL forcing everyone to use his terminology.\r\n\r\nPeople concerned with terminology have often lost sight of whats important. RMS has done allot to help free software and should be commended for everything that he has done, but he is also an egomaniac with a strong sense of self importance willing to disrigard his own views on freedom to force people to think the same way he does (See GPL 3).\r\n\r\nIn short, whats in a name - Linux is way catchier than GNU and more widely recognised. If you want to call it, its full techinical name, don't use GNU/Linux, use GNU/X11/Apache/Linux/TeX/Perl/Python/FreeCiv, and hopefully, if you refuse to decline interviews unless people use your terminology then it might eventually catch on!\r\n"
+-
+    name: rooy
+    mail: ''
+    subject: GNU
+    hostname: 58.187.193.138
+    created: '1182265164'
+    body: "Everytime I feel the lazyness, I type \"gnu\" and say \"gee-noo\". Way short, and easy on my keyboard layout.\r\n\r\nIt's like some email sig: \"[GNU] emacs is my OS, Linux is my device driver\"."
+-
+    name: PedroB
+    mail: ''
+    subject: 'GNU or GNU/Linux'
+    hostname: 85.243.48.107
+    created: '1182287808'
+    body: "Typing about it, i'd say GNU/Linux, or \"Linux\" (never without \"\"), or GNU, or free software. \r\nTalking about it, i am definetly pushed towards Linux, because the conversation will always slip out of context, but i try to avoid it by saying free software/ OS, or GNU (and making a comment like \"what absent minded folks call Linux\").\r\n\r\nThinking about it now, i have to say it's better to call it just GNU than anything else. That IS the name. \r\nThe /Linux part is almost a cortesy to the self centered Torvalds.. certainly a good programmer (thank you), but one that did not invent an OS, nor started the project. \r\n\r\nThe mentor calls is GNU, i don't particularly like it, but i MUST call it GNU.\r\n\r\nHow's the HURD going btw? :-)"

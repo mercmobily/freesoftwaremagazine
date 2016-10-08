@@ -1,0 +1,14 @@
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: 'Buy the book, It''s Great!'
+    hostname: 68.116.159.234
+    created: '1249493869'
+    body: "I've got a copy of the book and it's wonderful! Filled with almost 100 illustrations it is visually interesting and easy to read.\r\n\r\nGive a copy to those friends of yours who think free software can never work. Maybe it will help to change their mind.\r\n\r\n-R"
+-
+    name: ronbravo
+    mail: ''
+    subject: 'Awesome Article and Book'
+    hostname: 98.165.18.184
+    created: '1250699638'
+    body: "Thanks for the article and book. It has been a very enjoyable read so far.\r\n\r\nJust a few thoughts that might be useful to add to the section \"Rule #2: Create a Community\" is that documentation should be a part of the list to the simple approach. The documentation doesn't have to be extensive but there should be something to allow for contributors and users to understand how to use and develop the software. This ties into the idea that the project should be a welcoming and enjoyable place to be. Nothing more frustrating than the feeling of being lost or not understanding something, which documentation attempts to resolve along with forums, website, and mailing lists.\r\n\r\nAlso as for hosting it might be helpful to list several of the other project hosting sites like Github(Git Revision Source Control), bitbucket(Mercurial Revision Source Control), or a few others. They do have free hosting plans along with paid ones and include some of the things like bug tracking, wiki, and forum."

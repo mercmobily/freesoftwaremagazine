@@ -1,0 +1,14 @@
+-
+    name: admin
+    mail: ''
+    subject: '2 Comments from old system'
+    hostname: 203.59.90.115
+    created: '1144559760'
+    body: "<strong>Comment from: Terry Hancock [Member] Ã‚Â· http://www.anansispaceworks.com</strong>\r\n\r\n    2005-11-06 @ 14:52\r\n    However, the Debian distribution, for example, has extensive policy documents, and source distributions are routinely patched and modified to make them comply. A simple change like this would not be hard to implement (e.g. \"sed s/\\.mozilla/.etc\\/.mozilla/g\" if my sed-fu isn't too rusty) in the packaging process. I've had to do similar tricks to get packages to put their global config files into /etc, which is already a policy requirement for Debian (I say \"Debian\" only because it's what I use, they are conforming to the LSB, and I'm sure many package distributions do the same thing).\r\n\r\n    So, if you seriously thought this was worth implementing, there are central points to send the idea. Changing Debian policy or LSB policy would accomplish this.\r\n\r\n    OTOH, given that dot files are invisible by default on *nix systems, I was never bothered by this personally, and it's pretty easy to use \"du -sk .*\" to find out what each one is costing you.\r\n\r\n    Also, I'm pretty vicious about deleting dot files from programs I don't use. Generally, the worst consequence is that you'll have to reconfigure the program if you start it again. In fact, this is my answer to the Windows' world \"delete and reinstall\" solution -- just 'rm -r .kde' and start over (Kids: don't try this at home)!\r\n\r\n\r\n<strong>Comment from: Steven Bartrim [Visitor] Ã‚Â· http://www.sun.com</strong>\r\n\r\n    2005-11-19 @ 22:26\r\n    I really liked your comments here. I hope you're going to update your site soon. thins that excited you at 14: http://www.adobe.com , black girls on their mission , my parents didnt told me about it\r\n"
+-
+    name: Snappy
+    mail: ''
+    subject: 'I have to agree with most of'
+    hostname: 203.211.158.252
+    created: '1151990327'
+    body: "I have to agree with most of this article's points. Freedom of choice left totally unchecked results in totally disparate, non standard implementation and design. That's good in certain cases, like art and other creative applications. But in the case of a family of Operating System such as *nix, it may be good to at least have certain standards in place.\r\n\r\nFreedom is and should continue to be the emphasis. But certain standards (guidelines do exists but are too loose to be of use) should be in place to help the market make sense of linux. "

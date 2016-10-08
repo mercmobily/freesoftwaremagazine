@@ -1,0 +1,56 @@
+---
+postFilters: layout
+postProcessFilters: template-ejs
+layout: home.html
+makeListLatestVars:
+  _ALL_: 10
+  section.announcements: 5
+  section.end_users: 5
+  section.games: 5
+  section.humour: 5
+  section.interviews: 5
+  section.reviews: 5
+  section.hacking: 5
+  section.opinions: 5
+---
+
+
+<% function showList(info, section){ %>
+<div class="horizontal layout wrap">
+<%   info.listLatestData[section].forEach( function( article ) { %>
+
+<%   //a.system.fileContentsAsBuffer = null; a.contents = ''; a.initialContents = ''; %>
+
+<%-include( 'articleCard', { article: article } ); %>
+
+
+<%   }); %>
+</div>
+<% } %>
+
+<div class="home">
+
+  <h1>Development</h1>
+  <% showList(info, 'section.opinions') %>
+
+  <h1>Hacking</h1>
+  <% showList(info, 'section.hacking') %>
+
+  <h1>End Users</h1>
+  <% showList(info, 'section.end_users') %>
+
+  <h1>Games</h1>
+  <% showList(info, 'section.games') %>
+
+  <h1>Humour</h1>
+  <% showList(info, 'section.humour') %>
+
+  <h1>Interviews</h1>
+  <% showList(info, 'section.interviews') %>
+
+  <h1>Reviews</h1>
+  <% showList(info, 'section.reviews') %>
+
+  <h1>Announcements</h1>
+  <% showList(info, 'section.announcements') %>
+</div>

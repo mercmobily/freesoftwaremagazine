@@ -1,0 +1,21 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Of movie making and control'
+    hostname: 62.6.139.13
+    created: '1163769045'
+    body: "An interesting read - but I can't help wondering if you havn't used avidemux2? - it does have the ability to use filters and output as Mpeg4. Ok, it doesn't have all the filters of virtualdub, but its the best editor / filter package I've seen on *nix...\r\n\r\nCarl."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'No, I haven''t - but I''ll'
+    hostname: 81.51.73.85
+    created: '1163878736'
+    body: "No, I haven't - but I'll give it a try, thanks.\r\n\r\nI wonder how hard it'd be to make avidemux2 use Vdub/Avisynth filters...?\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: Snappy
+    mail: ''
+    subject: 'FOSS developers need to embrace the others and not repel'
+    hostname: 165.21.154.110
+    created: '1164373956'
+    body: "I have to agree with you on FOSS developers. They need to embrace the others and not repel them just because they are not developing on *nix platform.\r\n\r\nThere are many shareware/freeware apps that are really great and started off life in the Wintel platform. While I develop mostly for Windows and DOS (from C/C++, BASIC, VB to C#, .NET stuffs etc), I also write apps on Palm, PPC, HPC platforms etc. I used to write on *nix platform but that was years back, when X11 libraries was all I had.\r\n\r\nI myself wrote couple of freewares and am currently straddling between Windows and Xubuntu /w XGL. FOSS developers would do much more for the FOSS cause if they were to embrace FOSS developers on the Wintel platform."

@@ -1,0 +1,217 @@
+-
+    name: 'Faisal Yousuf'
+    mail: ''
+    subject: 'Good Article'
+    hostname: 85.194.127.10
+    created: '1175608922'
+    body: 'I''ve been using GnomeBaker for the past couple of years for my CD burning needs and it is ok. However, every now and then, I have some issues with its limitations. In those moments, I wish that KDE''s K3B CD burning application is completely ported to Gnome because -in my eyes- K3B is the ultimate CD burning program.'
+-
+    name: ''
+    mail: ''
+    subject: 'One of the frustrating'
+    hostname: 74.12.87.105
+    created: '1175612024'
+    body: "One of the frustrating things about the gnome burners is that none that I have used convert and burn on the fly.\r\nI am going to try brasero asap, but I doubt that software will do it either.\r\nBy not converting and then burning on the fly like programs like nero in windows do, audio cd creation times seem to double.\r\n\r\nAlso, sound juicer may be OK for the casual audio CD ripper but I find it to be very lackluster in features and performance. It is definitely under par compared to things like CDex and EAC.\r\n\r\nSo far I find that linux and audio cd creation/ripping is lacking compared to windows, but I find it easier to make a data cd in linux due to command line tools and the like.\r\n\r\nWith linux becoming more popular on the desktop, it is only a matter of time before audio cd creation and ripping matches the power of the apps on other platforms."
+-
+    name: undefined
+    mail: ''
+    subject: 'rip & burn'
+    hostname: 192.91.147.34
+    created: '1175641040'
+    body: "maybe try k3b (kde app).  i use it for burning 99.9% of the time, but one time i used it to burn mp3 to an audio cd (before i installed an in-dash mp3 player).\r\n\r\nfor ripping i use grip.  an oldie, but a goodie (much like cdex).  more featureful than sound juicer, but maybe not as nice as cdex (can't remember as it's been years since i used cdex or ripped on windows).  for my purposes grip and cdex were equivalent, but maybe not for you."
+-
+    name: undefined
+    mail: ''
+    subject: k3b
+    hostname: 192.31.106.35
+    created: '1175641930'
+    body: "what would be the significant benefit of porting k3b to gnome?\r\n\r\ni hardly use any \"bloated\" desktop environment, whether kde or gnome.  (i always have open: openbox, rxvt, midnight commander, firefox, sylpheed, jpilot, xmms, psi, & gkrellm; primarily gtk apps.)\r\n\r\ni occasionally use nautilus, gthumb, totem, & k3b.  in my opinion every one of those applications drags along the bloat of gnome or kde, but the good outweighs the bad and i use them regardless.\r\n\r\nif you have a resource-limited environment (not enough disk or memory to store or run the kde libs), then look into xcdroast.  its interface isn't as modern as k3b, but it's very functional (even supporting network burning using cdrecord's rscsi)."
+-
+    name: RooBarb
+    mail: matt@dalchemy.com
+    subject: 'Also, try "Graveman" which'
+    hostname: 64.81.204.131
+    created: '1177131814'
+    body: 'Also, try "Graveman" which converts and burns on the fly. Funky interface, but it does the trick!'
+-
+    name: orvils
+    mail: orvils@gmail.com
+    subject: 'nautilus-cd-burner?'
+    hostname: 193.238.223.196
+    created: '1177137835'
+    body: 'I personaly find Nautilus CD burning feature everything i need to burn CDs. No extra installation needed, simple, easy and just works :)'
+-
+    name: 'Azrael Nightwalker'
+    mail: azrael@viii-lo.krakow.pl
+    subject: K3B
+    hostname: 213.134.181.224
+    created: '1177139765'
+    body: 'The one thing that all Gnome CD/DVD burning apps lack is burning video DVDs. That is a serious lack of functionality.'
+-
+    name: 'Anonymous visitor'
+    mail: ktheroot@gmail.com
+    subject: 'Linux is not all there is'
+    hostname: 84.49.129.29
+    created: '1177178094'
+    body: 'Why are all apps marked "Platforms    GNU/Linux"? All of them are in the FreeBSD ports collection.'
+-
+    name: 'Anonymous visitor'
+    mail: gdi2k@gmx.net
+    subject: 'Nautilus burns ISOs too'
+    hostname: 87.200.165.12
+    created: '1177215001'
+    body: "Nautilus burns and rips ISOs too:\r\n\r\nTo burn: Right-click the .iso file and select \"Write to Disc\".\r\n\r\nTo create an ISO file with Nautilus, use the normal CD Creator, then select \"File Image\" after \"Write disc to:\" instead of your drive. \r\n\r\nYou can also browse and extract ISOs by right-clicking them."
+-
+    name: 'Anonymous visitor'
+    mail: h1gh.land3r@hot.mail.com
+    subject: 'What about Gnome Toaster ?'
+    hostname: 202.61.3.144
+    created: '1177228531'
+    body: " doesn't anyone use that ?\r\n\r\n http://sourceforge.net/projects/gtoaster/\r\n\r\n I've used that plenty in the past, and never had a problem :)"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Subjective value...'
+    hostname: 84.97.181.253
+    created: '1177232892'
+    body: "I'm a bit partial to k3b: yes, it is very complete, no, it's not GTK-based (even though I use Gnome), but then it has something other CD/DVD burning tools don't have:\r\n\r\nThat nice theme created by Ayo. Heh.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: Lobotomik
+    mail: nachodelosrios@gmail.com
+    subject: 'nautilus-cd-burner is *almost* enough'
+    hostname: 80.35.91.146
+    created: '1177236366'
+    body: "It's nice to be able to burn from Nautilus, but it is lacking some important functionality (might be mistaken)\r\n\r\n* No choice for closing disks\r\n* No choice for adding a session to an existing disk\r\n* No choice for burning an audio CD\r\n* No choice for ordering the tracks\r\n\r\nWith these, nautilus-cd-burner might possibly be all that I needed. It does not seem to difficult to add all this, and I don't think it would muddy the user interface very much (beyond the fact that burning cd's *is* a muddy procedure)."
+-
+    name: 'Anonymous visitor'
+    mail: sonstiges.2@offline2k.de
+    subject: 'Yes you''re right; I don''t'
+    hostname: 84.189.222.231
+    created: '1177242598'
+    body: 'Yes you''re right; I don''t need to make any special things with DVDs an CDs.'
+-
+    name: 'Anonymous visitor'
+    mail: no@spam.com
+    subject: NeroLinux
+    hostname: 68.52.242.76
+    created: '1177249453'
+    body: "There is a NeroLinux now apparently:\r\nhttp://www.nero.com/eng/NeroLinux3Beta.html\r\n"
+-
+    name: fak3r
+    mail: fak3r@fak3r.com
+    subject: 'Other options'
+    hostname: 66.93.193.197
+    created: '1177256004'
+    body: 'How about something like Rhythmbox or Banshee? They can rip from cd, and burn to cd.  Perhaps this is more music rather than file based, but for me, that''s 90% of what I do.  Outside of that, burning ISOs is easily accomplished by a right click in Nautalis.'
+-
+    name: 'Anonymous visitor'
+    mail: mail1815865@handymail.org
+    subject: 'about KDE'
+    hostname: 212.66.209.169
+    created: '1177280831'
+    body: "I know this article was about burning CD:s in gnome, but since in comments it has turned something like \"it's difficult to rip cd's in _linux_\" or similar, I think it's ok to but something about ripping audio-CD in KDE allso:\r\n\r\nhttp://www.linuxjournal.com/article/9368\r\n\r\n\"Or, as another example, you can pop an audio CD into your CD drive, and Konqueror opens a window with virtual folders of your songs in MP3, Ogg Vorbis and other formats (depending on which extensions you have installed).  Ripping your songs to MP3 format is as simple as copying and pasting the virtual MP3 files to another folder or to your MP3 player.\"\r\n\r\nAnd here you can see allso pics: http://docs.kde.org/userguide/audio-cd.html\r\n\r\n\r\nI allso think that lacking of ability to burn video-dvd is big  downside of gnome-burners. I personally nautilus burner + K3b, since K3b is superb for everything I can't do with nautilus burner. So I would like to see gtk version of it. Maybe I just have to consider to moving to KDE after KDE4 is released. "
+-
+    name: 'Anonymous visitor'
+    mail: krap@hispavista.com
+    subject: Kaudiocreator
+    hostname: 194.140.23.52
+    created: '1177313438'
+    body: 'Tray kaudiocreator for ripping. Using lame --preset standard works flawlessly. CDDB support, and all the extras. '
+-
+    name: jeffcobb
+    mail: jeffc@jbcobb.net
+    subject: K3b
+    hostname: 76.206.4.182
+    created: '1177335698'
+    body: 'Perhaps this one feature is just plain hidden but after having tried most of the mentioned apps for GNOME, they all seem to lack a simple feature that K3b does: after-burn image verification. Yes, I can do it manually but there is no reason not to have it in the app itself. K3b is bloated like a mofo but as long as it has this and the others don''t I cannot trust the others after burned many a coaster with Nautilus/GNOMEBaker/et al....'
+-
+    name: 'Jeff Chapman'
+    mail: me@here.com
+    subject: 'KDE - flashy but not for me...'
+    hostname: 208.10.57.158
+    created: '1177351017'
+    body: 'KDE - it has everything I want; everything Gnome lacks... it''s just that I haven''t found it to be entirely glitch-free. Gnome is (IMHO) just more stable and I find things (like network-manager and vpn via pptp) "just work" whereas in KDE, they''re really pretty but fail me. '
+-
+    name: superstoned
+    mail: jos@mijnkamer.nl
+    subject: 'You say K3B is bloathed, yet'
+    hostname: 86.92.111.236
+    created: '1177351118'
+    body: 'You say K3B is bloathed, yet you require a rather obscure feature. Can''t you imagine everyone needs different features, leading to an app like K3B? K3B does everything most ppl need, and in a very usable way - you won''t be able to point me to a app which has the same or more features, but is more usable... (the same goes for amarok, btw, and many other KDE apps - though there are exceptions like konqueror which IS to hard to use for what it does, no matter how much that is)'
+-
+    name: jeffcobb
+    mail: jeffc@jbcobb.net
+    subject: 'K3b Bloat'
+    hostname: 76.206.4.182
+    created: '1177381544'
+    body: "Sorry dude; from a dev standpoint, K3b *is* an extremely heavy app. Look at the dependencies vs most of the others. However, the funniest part of your reply was that you *completely* missed the point:\r\n\r\nI was saying and pointing out that I use K3b even though it is bloated because of the feature it has that none of the others do. The others may be lean and mean but without something like image burn verification, I will choose K3b everytime. \r\n\r\nMoreover, image verification is not a heavy feature to add; it can be done in like two lines of shell script so this 'obscure' feature doesn't cost much in terms of code bloat.\r\n\r\nSo unless you have never EVER needed an md5 checksum to confirm what you burned is what you downloaded, I don't see what makes this 'obscure'.\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: adhenry@bredband.net
+    subject: 'gnomebaker + others = no multisession'
+    hostname: 85.228.203.223
+    created: '1177405155'
+    body: "I like Gnomebaker a lot, but honestly, Nautilus fills almost all my needs.  It can burn an ISO, if you right click an ISO file in the Nautilus browser then select Write to Disc.  It can automatically detect if a disc is empty and should be formatted first (if its RW), and I can create ISOs and burn CD/DVD discs.\r\n\r\nHowever, a major limitation of Nautilus, Gnomebaker, K3B, Graveman and all other burners that use cdrecord or dvdrw-tools is that they cannot burn multisession CD/DVD discs.  This is a major setback, as I often have this need.  Thwy cannot format DVD-RW discs either.  Don't know why this is the case when Windows has had these features for over a decade."
+-
+    name: 'Roy s'
+    mail: planetjupiterboy@yahoo.com
+    subject: 'Can this software fill in'
+    hostname: 75.49.206.176
+    created: '1177478947'
+    body: 'Can this software fill in the tools you need to burn audio/dvds cds??'
+-
+    name: 'Anonymous visitor'
+    mail: not@really.com
+    subject: 'Err, well, maybe you should'
+    hostname: 205.223.231.72
+    created: '1177480328'
+    body: "Err, well, maybe you should check your facts again,\r\nbecause they CAN burn multisession discs, and that has been the case since, ... over a decade or so? :)\r\n\r\nMaybe you're confused by the fact that some of them don't call it \"multisession\" but only have an option to leave the disc \"open\". \r\nAnd if i don't recall wrong, some even default to this option if the disc is not completely filled. (Maybe with the exception of Nautilus-burner, i haven't used it enough to be sure).\r\n\r\nAnd I'm not 100% sure about formatting dvd-rw, as i only use dvd+rw, but i'm pretty sure they can format them (just take a look at dvd+rw-tools home page).\r\n\r\nCheers"
+-
+    name: 'Anonymous visitor'
+    mail: byebye@mailinator.com
+    subject: 'Now what would be nice here,'
+    hostname: 217.158.65.178
+    created: '1177933298'
+    body: "Now what would be nice here, as a high ranking Google hit, would be a little list of aps.\r\n\r\nxcdroast,\r\ngnomebaker,\r\ngnometoaster,\r\nbrassero / bonfire (renamed)\r\ngraveman\r\nk3b\r\n----\r\nalso see: nautilus and konqueror for basic needs\r\nalso see: rhythmbox, banshee, and amarok for music needs\r\n----\r\nGiven that many of these aps are frontends, it should be possible to write scripts to add more burning functions to your fave filemanager. \r\n\r\nMy fave is Thunar, and it makes adding scripts easy, so I'm going to add one which allows me to right click, burn an iso, and select files to add to a cd session (if i can. i expect i can)"
+-
+    name: Varaahan
+    mail: boova_rahan@sify.com
+    subject: 'K3b supports multisession'
+    hostname: 59.92.75.11
+    created: '1187614059'
+    body: 'Multisession burning exists in Linux / K3b. The CLI supports it. In K3b the multisession option is named differently. In the advanced tab you have an option to start/ continue multisession .'
+-
+    name: 'Dread Knight'
+    mail: dk.vali@gmail.com
+    subject: Brasero
+    hostname: 82.78.214.155
+    created: '1190269777'
+    body: "I've tried lots and lots of applications for burning cds:\r\n\r\n- the nautilus one if pathetic because of the lack of features/settings\r\n- K3b is great but it's KDE/QT\r\n- GnomeBaker is ok... but i've heard the project is like dead/deprecated\r\n- Brasero is OUTSTANDING! I simply love it."
+-
+    name: maco
+    mail: ''
+    subject: 'GnomeBaker does'
+    hostname: 128.164.102.86
+    created: '1195118351'
+    body: 'You can throw mp3s at GnomeBaker, and it''ll convert and burn them fine.  Don''t know what you''re talking about.'
+-
+    name: maco
+    mail: ''
+    subject: '"Burning CDs" in title, but it''s about Sound Juicer?  What???'
+    hostname: 128.164.102.86
+    created: '1195118443'
+    body: 'Sound Juicer is for <em>ripping</em> CDs.  If you want to <em>burn</em> CDs, the matching app (by which I mean little lightweight pre-installed GNOME thing) is Serpentine.'
+-
+    name: 'Anonymous visitor'
+    mail: none@none.no
+    subject: 'Thanks for the review'
+    hostname: 213.213.43.104
+    created: '1196717283'
+    body: "Thanks for this article!\r\nI didn't read it all, but the Brasero review was enough to me to give it a try, and it was worthwhile. I am new to Gnome, and Brasero seems pretty good for what I need to do."
+-
+    name: jwhite
+    mail: ''
+    subject: 'Great Guide'
+    hostname: 49.144.249.129
+    created: '1348813550'
+    body: 'With this guide it is now easier to burn blank CD''s using Gnome.  Thanks for this great guide.  - <a href="http://www.americanrecordablemedia.com/">J White</a>'

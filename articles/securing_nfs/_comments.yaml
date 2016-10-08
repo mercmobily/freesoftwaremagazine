@@ -1,0 +1,7 @@
+-
+    name: 'Anonymous visitor'
+    mail: john@bloggs.com
+    subject: 'thanks and typo'
+    hostname: 222.152.198.105
+    created: '1191052304'
+    body: "hi,\r\n\r\nthanks for article, very useful.  i thought it would be difficult until reading this.\r\n\r\ni think you made a typo, the\r\n  kadmin: addprinc -randkey nfs/host.grep.be@GREP.BE\r\nshould be \r\n  kadmin: addprinc -randkey nfs/techno.blah\r\n\r\n(i think)\r\n\r\nmatt "

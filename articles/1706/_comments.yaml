@@ -1,0 +1,42 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Interesting read'
+    hostname: 202.63.229.193
+    created: '1155558359'
+    body: "i've been hearing a lot of my friends who happen to be great programmers that RoR is great and all that... besides that, i see all the big boys in the IT industry praising it as well.\r\n\r\ni tried it.. but somehow didnt really appreciate it much.. exactly the same feeling as u get.. but as u mentioned.. perhaps i need to spend more time with RoR.. :)"
+-
+    name: ''
+    mail: ''
+    subject: 'Very solid!'
+    hostname: 166.34.160.21
+    created: '1156194526'
+    body: "Thanks for posting this Tony.  This would be the equivalent of an O'Reilly \"no spin\", only in a software context.  It's good to hear something that is strongly anecdotal and fair without hype or unnecessary bias.  I don't know about Django or Python either but I was never interested in learning it for some reason.\r\n\r\nI think you've nailed the secret of Rails.  It's kind of like crossing a lake in the dark.  At first it seems so shallow, no sweat.  Then you hit a quick drop-off where you think you're gonna drown.  But if you relax and start making steady strokes you eventually swim into comfortable water again and realize that you're floating.\r\n\r\nMastery must be exciting.  I can't say I've gotten to that point yet; meta-programming still scares me but it's coming together.  But I think I've held on to the floatation device too long.  Anyone know if there are sharks in this lake?\r\n\r\nGreg.\r\n(BTW, not trying to be anonymous, just don't know how to identify myself on this comment.  Email: greg@tkraftsmen.com)"
+-
+    name: ''
+    mail: ''
+    subject: Thanks!
+    hostname: 163.231.6.68
+    created: '1157652522'
+    body: "Just wanted to past and say thanks for taking the time to write this up. I'm at the phase probably where you were after 1 month of programming with it. I unfrotunately haven't found a \"paying\" job in Rails so instead I make up applications to work on in my spare time (and also sometime during time when I should be working on java code). I really like RoR. Am hoping to get a paying job in it and be able to devote 100% of my time to it. Someday. You post does explain it well.\r\nI've also done a number of drupal sites and am hoping that a solid CMS comes out soon. I've played around with Typo and currently with Radient, but they aren't really on par with Drupal. Sometimes though Drupal can be a pain."
+-
+    name: ''
+    mail: ''
+    subject: 'Red Flag: New Account::New Dev Tools'
+    hostname: 66.218.50.80
+    created: '1171442865'
+    body: 'It may be better to code with tools you aready know than suggest to others to fly by the seat of their pants by trying out unknown frameworks on unwary clients.  Let''s all say out loud "Mythical Man Month". A client pressed for time may end up blowing out the budget once your deadlines have passed by 1) ending the  solo artist''s contract, and 2) shopping out the job to a php, c#, flash, or java house for web development.  On the other hand I wouldn''t object to selling a contract to a customer based on a fully working Rails demo that completely addresses their goals.'
+-
+    name: Jenn
+    mail: weller.jenn@gmail.com
+    subject: Awesome
+    hostname: 74.162.173.243
+    created: '1192215986'
+    body: "Thank you for the post. I am going to get my own \"copy\" of the \"fantastic Dave Thomas\" book then. If you say it is perfect, then everyone should have one!! whoohooo!\r\n\r\nCheers,\r\n\r\nJenn,\r\n\r\nRuby Designer and Developer @ www.techcfl.com"
+-
+    name: mindaslab
+    mail: ''
+    subject: Thanks
+    hostname: 59.96.188.217
+    created: '1258524635'
+    body: 'I gave up on ROR twice, and this is he third time I''m trying it. Thanks for your article.'

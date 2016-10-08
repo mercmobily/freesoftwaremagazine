@@ -1,0 +1,14 @@
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'It is an interesting effort'
+    hostname: 72.75.141.235
+    created: '1150856730'
+    body: "I wrote a little about ReactOS in a blog entry <a href=\"http://www.freesoftwaremagazine.com/node/1474\">earlier</a> this year.  But yes, I agree it is an interesting effort, and has a useful place for those that do develop for Microsoft Windows, in much the same way that the original idea of having a free software based implimentation of Posix did for the Unix/Posix community.\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'ReactOS 0.3 RC1 is out!'
+    hostname: 84.7.125.217
+    created: '1150873799'
+    body: "It should include a complete TCP/IP stack, it works with some patched Nvidia drivers, it should include an ext2 driver... And if you can run it, it works well.\r\n\r\nUnfortunately, I can't: it doesn't detect SATA drives yet - and all my drives now are SATA :p"

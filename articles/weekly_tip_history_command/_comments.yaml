@@ -1,0 +1,49 @@
+-
+    name: 'Felipe Alvarez'
+    mail: felipe.alvarez@gmail.com
+    subject: 'PgUp is useful too'
+    hostname: 206.248.171.94
+    created: '1185607718'
+    body: "If you know that you've done a secure shell (ssh) recently, but just can't remember the exact host name or IP address. Try this tip.\r\n\r\nType: ssh\r\nAnd then press PgUp key. It will cycle through *only* the commands that begin with 'ssh' and ignore all the rest!\r\n\r\nYou can use this for 'cp' or 'mv' or 'ls' or anything you can think of! Enjoy.\r\n\r\n(I promise I won't write the word 'stupid' again -- oops! i just blew it, didn't i?)"
+-
+    name: 'Anonymous visitor'
+    mail: ken.smurfles@gmail.com
+    subject: 'There''s no need to be root'
+    hostname: 220.253.158.194
+    created: '1185753280'
+    body: 'There''s no need to be root to add a line to your own .bashrc file.'
+-
+    name: leeyee
+    mail: ''
+    subject: 'Hi, I sorted command history'
+    hostname: 218.2.35.167
+    created: '1185778335'
+    body: "Hi, I sorted command history with following function defined in .bashrc\r\n<pre>history_sorted () \r\n{ \r\n    history | awk '{ if ($2 == \"sudo\") $2=$3; print $2 }' | sort | uniq -c | sort -nr\r\n}</pre>\r\n"
+-
+    name: 'Lawrence D''Oliveiro'
+    mail: from-free-software@geek-central.gen.nz
+    subject: 'Interactive searching'
+    hostname: 203.118.156.111
+    created: '1185781904'
+    body: "Here's another fun one: hit CTRL/R to bring up the \"reverse i-search\" prompt. Soon as you type a character, it will search backwards through the history to find the last occurrence of that character. Type a second character, and now you're looking at the last occurrence of that two-character string. Keep typing until you find the command you want (or you'll hear beeps if the string can't be found). Press Enter to invoke the displayed command, or hit CTRL/G to abandon the search.\r\n\r\nYou can similarly use CTRL/S to search forwards through the history."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'slightly dangeorous way to repeat commands'
+    hostname: 82.108.129.98
+    created: '1185802963'
+    body: "If you want to repeat the last occurrence of a command, including arguments then try using the !. It will find the most recent occurrence of the command and run it.\r\n\r\n<em>WARNING: this will execute the command immediately so be careful!</em>\r\n\r\nexample:\r\n<code>\r\nfoobar:~$ !gre\r\n</code>\r\ngives this result\r\n<code>\r\ngrep -c ryan *\r\nbackup-daily.pl:0\r\nbackup_excludes:0\r\nbackup.sh:5\r\n</code>\r\nThe first line of the result is the command it actually found and ran. Note how I didn't have to specify the entire command (grep).\r\n\r\nSlightly related is !$ which will repeat the final argument of the previous command. It's very handy if you want to double check you are about the remove the correct files.\r\n<code>\r\nfoobar:~$ ls -l backup*\r\n-rw-r--r-- 1 ryan ryan 1629 2005-06-13 23:36 backup-daily.pl\r\n-rw-r--r-- 1 ryan ryan  189 2007-04-12 18:15 backup_excludes\r\n-rwx------ 1 ryan ryan  268 2006-09-21 18:28 backup.sh\r\nfoobar: ~$\r\n</code>\r\nwhoops too many files in there so \r\n<code>\r\nfoobar:~$ ls -l backup-*\r\n-rw-r--r-- 1 ryan ryan 1629 2005-06-13 23:36 backup-daily.pl\r\nfoobar:~$ rm !$\r\nrm backup*\r\nfoobar:~$\r\n</code>\r\nAgain see how it shows you the command it ran before running it.\r\n\r\ncheers\r\nRyan"
+-
+    name: 'Felipe Alvarez'
+    mail: felipe.alvarez@gmail.com
+    subject: mistake
+    hostname: 206.248.171.94
+    created: '1185959860'
+    body: "The above poster made a mistake\r\nInstead of:\r\nfoobar:~$ rm !$\r\nrm backup*\r\nfoobar:~$\r\n\r\nIt should have been:\r\nfoobar:~$ rm !$\r\nrm backup-*\r\nfoobar:~$"
+-
+    name: maravind
+    mail: ''
+    subject: 'Scary Linux nightmares...'
+    hostname: 202.88.253.242
+    created: '1187590614'
+    body: "And way to get there with a silly command:\r\n\r\n<code>lycaon:~$ source ~/.bash_history</code>\r\n\r\ninstead of doing the obvious\r\n\r\n<code>lycaon:~$ source ~/.bash_profile</code>\r\n\r\nOoohh... still gets creeps at the thought of pressing return for the first one...\r\n\r\nNo worries,\r\n\r\nMahesh Aravind"

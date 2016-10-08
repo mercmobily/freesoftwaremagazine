@@ -1,0 +1,105 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Free books for Free software'
+    hostname: 216.6.210.1
+    created: '1169505654'
+    body: 'If readers would publish materials to lulu.com , the site of the print version for this magazine, it would be the repository for downloading free software and user guides.'
+-
+    name: mabiddulph
+    mail: ''
+    subject: LDP
+    hostname: 124.254.106.55
+    created: '1169521179'
+    body: "From what I have seen of the site, it contains a wealth of knowledge, but not in a easily digested format? A lot of stuff in a rather unwieldy repository.\r\n\r\nJust the words \"document\" and \"manual\" to me is something \"official\" and can be read only by \"experts\" and sounds boring, so it speak. \r\n\r\nReal people need guidance and help, the \"what's in it for me?\" attitude which drives all people.  I think a lot of it stands to be re-written and re-edited into a more \"human\" form. It's not dumbing down, it's making it more approachable, making it easy and fun to learn.\r\n\r\nLets turn the documents in guides and the manuals into \"help me do this\" style of publications.\r\n\r\nMichael Biddulph\r\n\r\n"
+-
+    name: 'Jonathan Roberts'
+    mail: ''
+    subject: 'Wikibooks and Wikisource'
+    hostname: 88.111.203.241
+    created: '1169546871'
+    body: "I recently had very similar thoughts to you. I even thought about setting something up; then I found these two sister projects of Wikipedia.\r\n\r\nIn the case of <a href=\"http://wikibooks.org\">Wikibooks</a> they describe themselves as \"a collection of open-content textbooks\" covered by the GFDL. Seems like the perfect place to target such an effort, all we need now are the contributors. \r\n\r\n<a href=\"http://wikisource.org\">Wikisource</a> bills itself as \"the free library\" and aims to collect the free artistic and intellectual works of history. \r\n\r\nBoth of these projects I think follow the ethos of Free Software and are perfect for what you describe.\r\n\r\nJon\r\n\r\nCheck out my podcast at http://questionsplease.org; my Free Software Magazine blog at http://www.freesoftwaremagazine.com/blog/31677 or my personal blog at http://jonrobsblog.blogspot.com\r\n"
+-
+    name: Tyler
+    mail: ''
+    subject: 'Don''t overlook the obvious'
+    hostname: 142.177.139.8
+    created: '1169561940'
+    body: "Might I suggest that if you are looking for documentation for a particular bit of software you check with the project homepage? OpenOffice has a lot of in-house documentation on offer. I don't use GNOME or Inkscape, but I found the documentation for those projects from their project home pages as well. \r\n\r\nWith collaborative, open development documentation will always be a step behind the actual implementation, but any project with a significant userbase will have adequate and ever-improving documentation. All the programs I use do: Emacs, Firefox, LaTeX, R statistical programming language, GRASS GIS. I haven't spent much time with the GIMP yet, but I see that there are free books available for that. I don't even know what Postgresql is, but two clicks from the homepage brings me to Practical Postgresql, an Oreilly book that is freely available online. Apache was trickier, but googling \"apache documentation\" brings up a manual for the server project.\r\n\r\nIn less than 10 minutes I think I found your missing documentation :) Perhaps you are mistaken in suggesting that there is not enough available. I usually find there is too much, in that it's hard to find the bit of documentation that is appropriate for what I need to know, and not something too technical or too basic. This is something best resolved with a query to the appropriate mailing list, assuming I can't figure it out from the project FAQ.\r\n\r\nTyler"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'documents?'
+    hostname: 82.108.129.98
+    created: '1169644255'
+    body: "<cite>Lets turn the documents in guides and the manuals into \"help me do this\" style of publications.</cite>\r\n\r\nyou mean like - erm - HOWTOs or perhaps the Guides that make up the longer texts of TLDP? Granted the formatting is not as \"pretty\" as other sites but the nature of the beast rather dictates that. When I submitted my (very out of date) HOWTO it was in docbook format but was pretty much instantly available in plain text, HTML and PDF. Complex formatting, images and the like would make this harder to do automatically and thus reduce the audience somewhat.\r\n\r\nA quick browse of TLDP HOWTO <a href=\"http://www.tldp.org/HOWTO/HOWTO-INDEX/categories.html>categories</a> shows that it quite well split into most subjects. For example the Linux OS category has HOWTOs on Getting started, Switching from another OS, Printing etc. Similarly the Networking category has sections on most of the networking issues you may face.\r\n\r\nDon't forget that this for more than just the home desktop user and indeed I have learned much of what I know about networking protocols and the like from TLDP HOWTOs."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'bookstores?'
+    hostname: 82.108.129.98
+    created: '1169645057'
+    body: "I can't remember the last time I bought a (technical) book in a bookstore.\r\n\r\nMany of the better publishers have excerpts, sample chapters to view online before buying. The quality of the binding? Never have I not bought a book because of the binding and I find it hard to believe I ever would. Most books I buy come as perfect bound paperbacks now and I accept that.\r\n\r\n<cite>Apache, PHP, a smattering of Perl, and even an occasional book on Red Hat</cite>\r\nBookstores will only ever stock what sells and I have often wondered just how many technical books they shift anyway - let alone Free software ones.\r\n\r\nAmazon and its compatriots have the technical book market somewhat sewn up and Lulu has a growing range - particularly the OOo and Ubuntu books. Lastly  of course, there's always the <a href=\"http://www.phptr.com/promotions/promotion.asp?promo=1484&redir=1&rl=1\">Peren's open source series</a> all of which are published under the <a href=\"http://www.informit.com/content/downloads/perens/opencontent_org.html\">Open content licence</a> and are free to download a few months after publication of the paper version.\r\n\r\nTie this all up with TLDP and you start to see why bookstores might not sell as many Free software titles as you'd like."
+-
+    name: ''
+    mail: ''
+    subject: 'Not so much "not available"'
+    hostname: 67.104.156.234
+    created: '1169676076'
+    body: "It isn't so much that documentation isn't available. It's just that it's all hard to find, hard to collate, hard to compare, and hard to digest. Often, the documentation is non-existent or out-of-date.\r\n\r\nApache is one of the best documented pieces of software in existence. It's also one that very few people will ever use. However, there are *tons* of books on using PowerPoint, for instance (one of the most anti-productive pieces of software around).\r\n\r\nI'm talking about well-written, well-edited books, such as a new user might find desirable. I have no problem finding documentation for myself. I've been a geek for 25 years. I know how to find information for myself.\r\n\r\nWhat I'd like to see is a bookshelf filled with free software books covering InkScape in the same way that Corel Draw! has been covered. I'd like to see books like \"Learn Scribus in the Amount of Time Required to Bake a Good Cheesecake.\" And so on.\r\n\r\nThe problem with documentation from the project's website is fundamentally simple: you have to know the project exists. And then you are at the mercy of the people who manage the project, who are generally too busy writing software to write user guides.\r\n\r\nA bookstore, virtual or physical, would allow a non-technical person to learn which software exists. If there are good books, they can browse to figure out which of the several different projects that do the same thing they really want to use.\r\n\r\nThe non-collaborative nature of the resources you mention are also a sticking point. The PostgreSQL book you mention is already several versions out-of-date with the capabilities of the current version of the RDBMS, and <em>there's no way for me to fix it!</em>\r\n\r\nMy beef isn't so much with a lack of documentation. It's more with the documentation process. The Free software community can write world-class software. Why can't we do the same for software books?"
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'TLDP is an excellent resource'
+    hostname: 67.104.156.234
+    created: '1169676240'
+    body: "I hope I didn't imply TLDP isn't an excellent resource. (Quick! Someone diagram that sentence.) Much of what I know about GNU/Linux came from the early TLDP HOWTOs and admin guides. It is one of the best. If you are administering a GNU/Linux system.\r\n\r\nFor end-users of applications, it isn't a very good resource at all."
+-
+    name: tinker
+    mail: ''
+    subject: 'The biggest problem I have'
+    hostname: 213.169.107.81
+    created: '1170158898'
+    body: "The biggest problem I have found with Linux documentation specifically is that there is to much of it.\r\n\r\nOften many projects are work in progress and so not complete or well laid out/accessable and many subjects are covered in differing formats on different sites.\r\n\r\nMost of the time I spend with documentation is spent on gathering enough bits from different sites to make a whole and even then I get stuck with different terminology and levels of expertise."
+-
+    name: taikocat
+    mail: ''
+    subject: 'Gathering materials and solving problems'
+    hostname: 218.78.234.16
+    created: '1170160603'
+    body: "i believe doing these gathering things are kind of fun.\r\nfinally you solved your problem and find your joy in it.\r\n\r\nof course, if you want a quick start, you can consult your local experts or friends who have already had a good understanding of it.\r\nafter all, helping each other is the true GNU spirit... "
+-
+    name: ''
+    mail: ''
+    subject: 'free educationbooks'
+    hostname: 213.224.83.4
+    created: '1170356335'
+    body: "I'm a teacher in Belgium and trying to promote free and open-source software in my school. Teachers and schools don't try or want to use it because there are no books that really fit the courses. If they want to use it, they have to make there own course material. Many teachers don't have the time and/or background to do so.\r\nIf free & open-source software wants to be widely adopted in education, this problem shoud be fixed.\r\nI recently started books.nijns.be, a small site with free course material for my groups. There isn't much yet (actually nothing usefull yet), but I hope I can find the time to do so."
+-
+    name: ''
+    mail: ''
+    subject: 'to the teacher in Belgium, I applaud your efforts.'
+    hostname: 24.16.54.180
+    created: '1170716755'
+    body: "Your idea & project is exactly the kind we need more of, in this world.  \r\n\r\nCheers,\r\n\r\nChad in Seattle, North America"
+-
+    name: ''
+    mail: ''
+    subject: 'to the teacher in Belgium, I applaud your efforts.'
+    hostname: 24.16.54.180
+    created: '1170717100'
+    body: "Your ideas & web page are exactly the kind of effort we need more of, in this world.  Thanks.\r\n\r\nCheers,\r\n\r\nChad in Seattle, North America"
+-
+    name: ''
+    mail: ''
+    subject: 'I applaud your efforts.'
+    hostname: 24.16.54.180
+    created: '1170717203'
+    body: "Your ideas & web page are exactly the kind of effort we need more of, in this world.  Thanks.\r\n\r\nCheers,\r\n\r\nChad in Seattle, North America"
+-
+    name: ''
+    mail: ''
+    subject: 'More Documentation'
+    hostname: 68.166.253.196
+    created: '1171858650'
+    body: "FTA:\r\n\"Why isn’t there more documentation for the *BSDs, or Inkscape or OpenOffice, or a hundred other deserving software projects?\"\r\n\r\nWell, I know FreeBSD has a 1200 page handbook @ freebsd.org/handbook and it is pretty comprehensive.  But seeing more documentation on Free, Open, Net, DragonFLY BSD would be more than welcome.\r\n\r\nOpenOffice has an extensive documentation section:\r\nhttp://documentation.openoffice.org/\r\n\r\nAs for Inkscape: Its documentation section is getting better and growing.  I would love to see a full fledge book on it.\r\n\r\nDocumenting the applications would be a huge step further in FOSS world.  "

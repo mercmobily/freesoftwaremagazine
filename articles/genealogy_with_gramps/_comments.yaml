@@ -1,0 +1,84 @@
+-
+    name: ''
+    mail: ''
+    subject: 'install descriptions...'
+    hostname: 86.103.204.17
+    created: '1166779806'
+    body: "Why do I repeatedly have to read install instructions for a Linux distribution?\r\n\r\nSomebody who installs packages should know how this works. This is a basic action for a handling a Linux. if he does not know yet, he should learn. There is no much sense to learn how to install ONE package. And OTOH - there are so many ways to install, so many distros and setups - sometimes the default way can be wrong. More concrete instruction should only be necessary for special setups or usages.\r\n\r\nI would like to see that authors just tell to install. If absolutely necessary one can also give some hints for compiling. But that is more 'special'.\r\n\r\nSo generally - telling a Linux user to install a package with the name \"gramps\" should ring a bell. No need to elaborate."
+-
+    name: ''
+    mail: ''
+    subject: 'Install Descriptions'
+    hostname: 71.198.245.41
+    created: '1166939976'
+    body: 'Not sure what your complaint is.  It depends on the Linux Distro used.   I only had to open a terminal and type in Yum install gramps in Fedora 6.  Not exactly difficult and easier that windows.'
+-
+    name: ''
+    mail: ''
+    subject: 'version 2.2.4 out'
+    hostname: 193.190.238.226
+    created: '1167163986'
+    body: "Nice review. Note that version 2.2.4 is out this week, which is a big step forward. \r\n\r\nFor those not liking Gnome, gtk-qt-engine makes GRAMPS look like a KDE application, just like the other GNOME apps you run in KDE. I find the interface ok to do genealogy including the many dialogs being used (you get used to it), only the GNOME file chooser is annoying, but you know that from firefox and openoffice...."
+-
+    name: ''
+    mail: ''
+    subject: 'GRAMPS only for small databases'
+    hostname: 217.77.36.52
+    created: '1167320910'
+    body: 'We have tried GRAMPS, but it is to slow for our use. (we have many thousands of records :). This is the ONLY thing that keeps my father from going totaly over to Linux :('
+-
+    name: ''
+    mail: ''
+    subject: '2.2.x version not slow?!?'
+    hostname: 86.39.6.95
+    created: '1167387622'
+    body: "The 2.2.x version should solve this, 2.0.x was slow on large databases, 2.2.x specifically was redesigned to be fast. Did you try it? \r\nIt is free and open source, the developers might have hints on how to make it fast for you, just contact them. I only have a thousand entries, so wouldn't know.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: install...
+    hostname: 65.14.169.86
+    created: '1167854650'
+    body: "Skip it.  Why do people get so angry over minute details that they already know.  If I read:\r\n         George H. W. Bush, the former President of the United States\r\nI would not get angry because I already knew his position and title.  But if I did not know, this is helpful information.  I am recently come to GNU\\Linux.  When I first started two years ago, this information was of vital help and it still comes in handy if nothing else to copy and paste.  Please do not be the arrogant person who does not consider that the author may have a broader audience in mind.  If you want converts to the OS make it easy.  Do not belittle people because they do not yet know which \"fine\" manual or how-to to read.  It took some searching for me to find the right information, not because it was not there, but because I did not know where to look.  A blurb or paragraph in the article is easily skipped if unimportant to you.  But if it were not there, it would be hard to find if needed."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'install descriptions can help'
+    hostname: 212.159.106.192
+    created: '1167863309'
+    body: "I take your point and generally agree. It becomes a pain to read detailed descriptions of how to install a package. But if you check the top of the article you will se it is rated as \"Easy\" - that is for those who may not be particularly experienced at installing anything other than the base install of their distro (if that). If these beginners are to learn how to install any package they sometimes need to overcome the (mistaken) idea that it is difficult. A brief installation description can often aid that and encourage people to \"give it a go\".\r\n\r\nThe installation description for this piece was an editorial request but one I agree with in this case for the reasons given above. You'll note I pointed beginners to the Synaptic article and gave only the briefest information so as not to bore more experienced readers. The key issue (for Ubuntu users) being to remember to include the universe repository. I didn't include other Distros because I have no experience of them and in the end I was more concerned with explaining what GRAMPS can do.\r\n\r\nIt's always going to be tricky because invariably you'll end up putting too much or too little for different parts of your readership. In the end - for a piece labelled \"Easy\" - you have to include enough info to give beginners a kick-start whilst not so much that experienced users get bored before you've started.\r\n\r\nI hope that's what I did here. :o)\r\n\r\nRyan"
+-
+    name: ''
+    mail: ''
+    subject: GRAMPS
+    hostname: 71.52.235.57
+    created: '1167969981'
+    body: 'Could not open your figures #1,2,etc. said it was not available. would love to see what your are talking about.'
+-
+    name: admin
+    mail: ''
+    subject: 'Identifying the exact nature of the problem...'
+    hostname: 203.59.204.147
+    created: '1167984418'
+    body: "Identifying the exact nature of the problem you are having is going to be difficult with so little information. \r\n\r\nIf you really want to see the images and can't, please send an email to helpdesk (AT) freesoftwaremagazine (DOT) com. That way we can find out why you can't see the images and we can correct the problem. \r\n\r\nWe would love to help you and anyone else who can't see the images. They are visible for us.\r\n\r\nThanks"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'version numbers + dialogs'
+    hostname: 82.108.129.98
+    created: '1168266527'
+    body: "The review was written in July so perhaps I should have said \"at the time of writing...\" - currently I am using 2.2.3-1 as available as the latest package in Debian (sid).\r\n\r\nAs for the GTK interface - the buttons are less of a concern for me as the dialogs (file open/save etc.) I use gtk-qt-engine but sadly it does not change these bits :o) As I said it really is horses for courses and I don't want to get into a GNOME/KDE flamewar but I find the GNOME dialogs a real pain.\r\n\r\nFirefox 2.0 (well IceWeasel in Debian) has a new option in about:config which makes it use the KDE dialogs. Set ui.allow_platform_file_picker to false."
+-
+    name: ''
+    mail: ''
+    subject: 2.2.6
+    hostname: 157.193.53.190
+    created: '1170411480'
+    body: "Version 2.2.6 enables working on databases with 100.000+ people without more than the to be expected small delay, following a specific user request on the user list. \r\n\r\nSee the wiki of GRAMPS for some performance figures.\r\n"
+-
+    name: pfb
+    mail: pblair@pcug.org.au
+    subject: 'As a Linux user of about 2'
+    hostname: 220.237.212.232
+    created: '1189919595'
+    body: "As a Linux user of about 2 weeks (UBUNTU, then openSUSE10.2) instructions are essential.\r\n\r\nUbuntu was easy - apt-get and away it all went. But openSUSE has trashed my day, and still won't work. \r\n\r\nWhat is worse - I find the \"helpful\" pages on the web are not so helpful. People write from a know-it-all frame of mind, and forget that many terms and ways of Linux working can be quite foreign, especially for us poor buggers who think Windowese.\r\n\r\nSo, please, skip read if the instructions are child's play to you. I welcome them as a way to learn..."

@@ -1,0 +1,35 @@
+-
+    name: 'Bob Mesibov'
+    mail: ''
+    subject: 'The (bumpy) road to Free Software SaaS'
+    hostname: 202.182.70.131
+    created: '1332799127'
+    body: "Hi, merc.\r\n\r\nIt's not obvious who should get excited about this. You seem to be seeing private clouds from the point of view of a self-employed person, or maybe a SOHO manager with a small, dispersed staff. Private clouds with archiving and collaboration are already very widespread in businesses of all larger sizes, e.g. as VPNs. Important online projects are run with version control systems as well. A publisher with whom I'm associated is setting up a secure framework to allow authors and reviewers and editors to all work on the same manuscript collaboratively. The software isn't new, and neither is the server underlying the new collaboration framework. So are you arguing that the benefits of the many existing private clouds should/could be made universal, so that anybody can have one? Do you expect the idea would catch on in Userland, where 90+% of people don't want to know what happens behind the keyboard, and wouldn't be prepared to hire their own rackspace, let alone set up a home, Web-connected server?\r\n\r\nJust asking,\r\nBob"
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: '"Just asking" ah? :D'
+    hostname: 27.33.233.17
+    created: '1332841320'
+    body: "Hi,\r\n\r\n1)\r\nI don't think you can put \"version control\" and \"editing a spreadsheet together\" in the same basket. One is a kludge to make it possible to work together on stored documents, but it's not easy to review revisions, previous versions, etc. Plus, it's not possible to edit something *really* simultaneously. The publisher you are associated with would probably benefit immensely by using Etherpad.\r\n\r\n2)\r\nPeople who are used to using web applications (that is, most of them) would probably jump on the idea of having a credit-card sized computer you can just plug in that provides a spreadsheet, word processor, presentation, music manager, movie manager, tasks, and whatever else -- especially if they are concerned about privacy and especially if there is absolutely nothing to configure for them.\r\n\r\nYou don't think so?\r\n\r\n\r\n"
+-
+    name: 'Bob Mesibov'
+    mail: ''
+    subject: '"Just asking" ah? :D'
+    hostname: 202.182.70.131
+    created: '1332885797'
+    body: "I don't think so, but of course that's just my opinion.\r\n\r\n1) Your 'simultaneous' collaboration sounds an awful lot like real-time online gaming. Is that really going to boost productivity in Boring Old Stuff Inc, where half a dozen wage slaves need to comment on a draft spreadsheet from Accounts 'before COB Friday'?\r\n\r\n2) This doesn't sound all that different from where smartphones are headed, and you get voice connectivity with a phone as well.\r\n\r\nI'm reluctant to get excited about the future of SaaS in any guise because I think it suits only a very small proportion of all computer users, and for perhaps only a fraction of their user-hours, not because I have the security/reliability worries you mention in your article.\r\n\r\nThere might be small gains in convenience from completely splitting my PC into minimal OS+browser, and everything else, but are they worth it? A split like this happened in the computer world a few years back with the introduction of the netbook: the traveller's friend. The convenience factor didn't transform the world. Instead, netbooks became small notebooks and notebooks continued to get smaller.\r\n\r\nI think you'd need to make a very strong business+convenience+security case for your credit-card-sized computer (which plugs in where?) before you could start changing the world. Like desktop Linux (which I use exclusively) and the electric car, they're very good ideas with very limited use."
+-
+    name: joaju
+    mail: ''
+    subject: 'This is What We Need'
+    hostname: 205.122.107.97
+    created: '1333473345'
+    body: "At last I have found someone who agrees with me. Managing your data in \"the cloud\" truly is the way of the future, but I don't like the idea of corporations controlling my data. The public needs to be informed about the problems with traditional SaaS and proprietary software. \r\n\r\nYes, it will take hard work for the Free Software community to get this into the public view before people start buying their own pre-configured servers, but I don't believe it's as hard as some would have you think.\r\n\r\nAlso, I don't think Netbooks are a great comparison to cloud computing. People use cloud computing every day and they don't even realize it. Fewer people buy Netbooks because they're neither a regular laptop nor a tablet."
+-
+    name: jamathis
+    mail: ''
+    subject: 'SaaS is not a good thing, even on free software'
+    hostname: 72.37.171.36
+    created: '1337070162'
+    body: 'Even if SaaS was running free software I wouldn''t use it even though I exclusively use free software on my personal systems.  The fact is I wouldn''t be in control of my data.  Using SaaS it becomes the property of the server owner.  There is no way that I would trust my information to a third party in that way.  SaaS is a terrible idea for those that value privacy and freedom. '

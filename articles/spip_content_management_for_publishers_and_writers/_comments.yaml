@@ -1,0 +1,21 @@
+-
+    name: 'Alexandre Rafalovitch'
+    mail: ''
+    subject: 'What about Campsite?'
+    hostname: 157.150.192.237
+    created: '1186415812'
+    body: "Good introduction (pluses and minuses). How does this product compares to <a href=\"http://www.campware.org/en/camp/campsite_news/\">Campsite from CampWare</a>?\r\n"
+-
+    name: 'Free Software'
+    mail: webmaster@net-ebooks.com
+    subject: 'SPIP Download'
+    hostname: 216.209.108.135
+    created: '1188437220'
+    body: "Hello,\r\nI just read your article about cms and decided to set up my site using SPIP instead of Joomla.\r\nJohn McCall\r\n"
+-
+    name: had
+    mail: ''
+    subject: 'SPIP vs ...'
+    hostname: 82.245.184.228
+    created: '1217251394'
+    body: 'because SPIP is in fact a full framework, and not only a cms for publishers. With the plugins system, and the powerful templates language you can do what you want with SPIP (gov website, e-shop, portfolio, portal, ...)'

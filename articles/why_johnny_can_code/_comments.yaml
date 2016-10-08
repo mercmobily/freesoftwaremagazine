@@ -1,0 +1,63 @@
+-
+    name: 'aztec cat'
+    mail: ''
+    subject: 'Fiddlers under the roof'
+    hostname: 24.203.56.51
+    created: '1170208756'
+    body: "You are so right !\r\n\r\nBefore having this Dimension 4500 that I am writing on, I've had a lot of machines starting with a Vic 20, moving on to a Coleco Adam (remember those ?) then several clones (as they were called at the time) among which the first one had NO hard drive and those clunky 5 1/4 floppies.\r\n\r\nThrough the years, I learned by reading a lot and using different techniques like programming in Basic and YES, opening up my systems and poking inside, adding and substracting things.\r\n\r\nI still remember fondly the nights of applying what I read at the local library and generally having fun.\r\n\r\nI remember being startled by the Coleco Adam thinking I was in a gangster shootout when I first used the combination power supply / daisy wheel printer to print something and it let out a loud staccato noise.\r\n\r\nI also remember having to reinstall everything on my 40 Meg hard drive after installing too many conflicting things that blew it up (virtually) :)\r\n\r\nNow, since I will be retiring soon, I've been thinking of building a GNU/Linux based computer and starting to have fun again.\r\n\r\nSo yes, I've learned a lot from tinkering and fiddling !\r\n\r\nYou still can learn if you are willing !\r\n\r\nDon't let the consumer driven all-easy machines stop you, get in there and learn !\r\n\r\nM. Taylor, in closing I would like to thank you for this article because you made me revisit my younger days and gave me an extra boost to start my retirement project."
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: Thanks!
+    hostname: 24.38.136.234
+    created: '1170264404'
+    body: "Thanks very much. That's the best compliment a person can receive, I think.\r\n\r\nGood luck, Mr. Cat. Enjoy your project. Learn. Have fun. Mostly: have fun."
+-
+    name: ''
+    mail: ''
+    subject: 'Straw man'
+    hostname: 219.90.192.249
+    created: '1170292961'
+    body: "I think you've set David Brin up as a straw man so you can comment on his ignorance in order to drive your point, rather than objectively viewing the situation and the reasons.\r\n\r\nI am also from the era of Apple ][, Commodore 64, Archimedes and all of those old computers. I can state that the reason that they were so great to learn on has nothing to do with random fiddling, but because every one of them came with a decent set of documentation.\r\n\r\nYou could read about them, and then fiddle.\r\n\r\nThat is not something you can do with (cough) GNU/Linux. Documentation is the scarcest and crappiest resource when it comes to free software, regardless of the ability to tinker with masses of obscure and mostly badly written source code. Being able to rip a PC into its components doesn't help with that problem at all.\r\n\r\nDavid Brin had the right approach of buying an old computer, because then all the old documentation (which was really well written, about simple computing systems) can be read, studied, and understood.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: REALbasic
+    hostname: 24.83.68.123
+    created: '1170294585'
+    body: "REALbasic which is free for Linux(but not Open Source) is really worth looking into.  It's commercial Pro version sells for $500 USD (regular MAC & Windows versions are $99), and has a very nice IDE.  The reason I suggest it is that it is great for creating simple games, something a kid new to programming would have hours of fun tinkering with (comes with lots of samples too, lots more free samples/examples on net). \r\n\r\nFree for Linux, very nice IDE, cross platform possibilities & fairly compatible with VB yet will let you run old Basic code as well.\r\n\r\nSee www.realbasic.com for more info, free downloads (MAC/Windows 30 day trial)\r\n\r\nPS I don't work for them but do enjoy the product."
+-
+    name: ''
+    mail: ''
+    subject: 'linux to the rescue'
+    hostname: 65.30.100.200
+    created: '1170305883'
+    body: "CHEERS! Great article. I am only 32, but I cut my teeth on an Apple ][ on the old turtle drawing program. I had BASIC training in high school, and still remember my ^KD wordstar shortcuts. I am responding via my openSUSE computer. It has all the latest bells and whistles, including the best 3-D desktop since the Sony VAIO experience. I was able to change a few things, and get it inside out and wrapped around nicely, the way I wanted. I still play games (the twist-a-plot's on the old Apple still hold a special place in my heart), and a great group of people have made it possible to play games written for windows on this contraption. \r\n\r\nI believe if more up and coming programmers were required to write software the old way, the software would not be so bloated (if you have to type it all, you are going to look for much more streamlined ways of writing the code, believe me). I run software written for the 486 quite often. On an Athalon 64, it just screams. It is amazing what you can do with these simpler tools, if all you are needing to do is a simple task. Sometimes all the bells and whistles get in the way of just getting the job done. How often do you use vi/gvim or in windows, notepad? They are both great for just getting your thoughts down in print. I still use pine for some generic e-mail tasks, and use it to automate my spam e-mail address functions. I run it in the background, getting my mail from a pop3, and shoving it into /dev/null abyss. If I need to register with a certian web site, I turn it off, get the \"congratulations\" e-mail, then put it back to work, providing a \"No Outlet\" \"Dead End\" sign for all my spam.\r\n\r\nKeep up the good work, btw, your article was on my google personalized desktop, and grateful I am that it was.\r\n\r\nThanks, J. R. Fude"
+-
+    name: ''
+    mail: ''
+    subject: 'Another simple language to try...'
+    hostname: 63.173.0.195
+    created: '1170350447'
+    body: "I've been working on a language called 2e (http://lang2e.sourceforge.net), which is a very simple language, but also has some hidden power.  It is essentually an expression evaluator, so it can on the surface be used as a an extended form of the \"eval\" command.  But, the expressions can contain variables an variable assignments; plus, the C style inline conditional is included.  In addition, I've added an iterative inline conditional; so between the two, you can perform the equivalent to if/else and while/do.  Functions are also supported (user-defined, built-in and external).\r\n\r\nSo, for a learning language, you can start simple and build from there.  The current implementation is fully functional, and has a decent built-in function library.  I'm working on creating GTK bindings as a loadable module which should be finished in a couple weeks.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'The Old Man'
+    hostname: 70.135.8.4
+    created: '1170471718'
+    body: "You know, every group has its old man.  The guy that talks about the old days.  Programming on punch cards.  Flipping switches just to here the blender make a smoothie.  Fascinating stuff like that.\r\n\r\nI completely agree that programmers are losing their connection with the grunt work going on inside a computer.  Unfortunately, what's their motivation to do so?  I chose to take up a small amount of x86 assembly and ANSI C, but I'm sure I still don't know it well enough to be of any real use.  \r\n\r\nThe job market is looking for people to pound out pretty looking stuff and what's in demand is RAD development with some high-level poop.  It's going to get harder and harder to find those kids that enjoy getting down in the kitchen and watching things smoke."
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: Education
+    hostname: 24.38.136.234
+    created: '1170691393'
+    body: "When you learn math, do you learn basic skills first, or do yo just jump straight to the tricks you use for integration? When you learn woodworking skills, do you start off building a fine cabinet, or simply nailing two pieces of wood together?\r\n\r\nMy point (and David Brin's point, as I understand it) is simply this: if you are going to be any good, you <em>will</em> know the basics. You will understand the foundation of what it is you are doing. Otherwise, you will just be another point-and-click code monkey.\r\n\r\nIt's not about the old days at all. It's about now, it's about the future. I talk about the old days because people were encouraged to learn back then. Today, even college courses are leaving the basics, and concentrating on products, such as particular development or application environments.\r\n\r\nYou cannot efficiently and reliably move into the future without a firm understanding of the past. I have worked with younger programmers, and I can tell you with great assurance, those who understood how memory was managed, those who had at least been exposed to assembly language, those who coded by hand, were by far the superior programmers, even when plonked down in front of the Visual Studio the other less-educated coders knew so well.\r\n\r\nI'm not simply dreaming of a simpler day. I'm dreaming of a better future through the understanding of computer fundamentals."
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: Close
+    hostname: 24.38.136.234
+    created: '1170693215'
+    body: "You are close. I set David Brin's situation up as a framework to comment on something I see as a problem in the computer industry: the movement of control from the user to the operating system supplier. Also, I included as a bonus another problem I see: corporations controlling public perception to the point where citizens behave as consumers, and see only the choices offered by corporations. That's not the same as a strawman-- first, it's a valid literary device. Second, it doesn't invalidate my points, as they directly address his situation. Ergo, no strawman. (If I were using him as a strawman, I wouldn't've addresses his issues as all.)\r\n\r\nAs for the rest: I do believe I mentioned the excellent documentation that came with the Apple ][. You know, the systems manual that had the assembly code for the monitor ROM in it? I loved reading through that code and finding new entry points for my own code.\r\n\r\nAs far as documentation with GNU/Linux, it is far superior (from a fiddlin' with the computer point of view) to any other system out there. I agree, it's not great. There could be a better effort to document various aspects of the system. But it still beats anything you'll get from Apple or Microsoft, or any other vendor, for that matter. Sure, MS-Office has incredible documentation-- not from Microsoft, but from third-party publishers. Same with MS-Windows. But it's absolutely useless for learning fundamentals.\r\n\r\nBad code? Sure, there's a lot of bad code. There's also a lot of excellent code. Look at Apache, or PostgreSQL, or (if you like C++) Abiword. There's a lot of superior code out there. \r\n\r\nYour last point is entirely valid. Computers of the early days were much simpler than the ones we deal with today. That allows learning the fundamentals without distraction from compilers, memory managers, or intrusive operating systems. The solution was elegant, simple, cheap, and will only work for the next few years, while you can still get these sorts of machines off eBay.\r\n\r\nLearning on an old Commodore 64 will certainly be fun for Ben, and was probably the best solution. But Brin's argument as written included the false assumption there was no other viable choice. And, I would go so far to say, he would be better off taking his next step up to GNU/Linux, or a *BSD, to learn modern computer systems."

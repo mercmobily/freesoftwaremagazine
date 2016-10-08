@@ -1,0 +1,8 @@
+{
+  "name" : "ryver-fsm",
+  "version": "0.0.1",
+  "main" : "./index.js",
+  "dependencies": {
+    "fs-extra":"~0.22.1"
+  }
+}

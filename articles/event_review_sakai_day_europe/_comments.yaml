@@ -1,0 +1,14 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Spelling error: Leubeck => Lübeck or Luebeck (n/t)'
+    hostname: 193.99.153.25
+    created: '1158417944'
+    body: n/t
+-
+    name: admin
+    mail: ''
+    subject: Fixed
+    hostname: 203.59.46.6
+    created: '1158423229'
+    body: "Thanks for letting us know.\r\n\r\nSorry about that."

@@ -1,0 +1,56 @@
+-
+    name: ''
+    mail: ''
+    subject: 'CUSTOM BRAND'
+    hostname: 208.97.81.196
+    created: '1157049833'
+    body: "It is possible to take custom brand Asterisk software\r\n\r\nRegards,\r\nRaj\r\n\r\nwww.rtel.ca\r\nraj.thangarajah@rtel.ca "
+-
+    name: ''
+    mail: ''
+    subject: 'Another excellent GPL''d Softphone'
+    hostname: 69.77.158.237
+    created: '1157404565'
+    body: 'Another excellent GPL''d softphone is Twinkle (http://www.twinklephone.com), which is written for Qt. It works well with Asterisk.'
+-
+    name: ''
+    mail: ''
+    subject: Passwords
+    hostname: 202.62.0.150
+    created: '1162870928'
+    body: "i am running asterisk with FreePBX. The problem that i facing is that any user can walk into any desk, pick up the phone and make the calls. the call will charged under the owner of the phone not the caller.\r\n\r\nis there anyway i can lock the phone with a code or allow any user to make any calls from any phone but charged to their accounts instead of charging to the phone they are using \r\n\r\nzakaio\r\nSOPAC Secretariat\r\nFiji Islands"
+-
+    name: ''
+    mail: ''
+    subject: 'use leading digits'
+    hostname: 206.248.162.155
+    created: '1163811792'
+    body: "you can assign leading digits to users. and make them different.\r\nThe problem with this is that you force users to press 1,2,3,4,..,9 before they start the real number. If you have lot of users, then give them 2 digits prefix. in your dial plan you can add the digits to ignore-path so asterisk keeps the dial tone up for the real numbers. Adding password will alienate your customers since you are asking them to enter a password all the time. Just remember to allow 911 (or equivalent) calls through without any password or prefixes."
+-
+    name: ''
+    mail: ''
+    subject: 'To interact with Asterisk'
+    hostname: 61.247.253.76
+    created: '1172212855'
+    body: "I would like to know how we can communicate with Asterisk i.e. teeeling it to make a call and receiving the events sent by it. Is there any predefined packet structure to communicate. Anybody please help me out. Thanks in advance.\r\n\r\nThanx,\r\nRani"
+-
+    name: Cleme
+    mail: ''
+    subject: 'The Asterisk WiFi HotSpot'
+    hostname: 89.172.126.177
+    created: '1178031540'
+    body: "Does Asterisk WiFi HotSpot Finder retrieve name and address information for all Wi-Fi Hot Spots not only for zip code in the United States? I'm from Croatia, and I'm trying to save some money with this software.\r\nCleme,\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: seyda.tahincioglu@is.net.tr
+    subject: 'Hi i have the same problem'
+    hostname: 213.143.238.228
+    created: '1185798422'
+    body: "Hi i have the same problem with you. Did you solve your problem? if yes could you please help me about this issue. \r\n\r\nRegards,"
+-
+    name: 'Anonymous visitor'
+    mail: lampert21@aol.com
+    subject: 'Storing of incoming calls'
+    hostname: 205.188.117.17
+    created: '1193879640'
+    body: "Just curious is there ever a time an incoming call would not show up?\r\nIf so why? "

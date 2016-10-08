@@ -1,0 +1,7 @@
+-
+    name: ksudeadeye
+    mail: ''
+    subject: 'Additional Resources'
+    hostname: 72.201.66.135
+    created: '1218692957'
+    body: "John:\r\n\r\nI wanted to recommend a couple more resources I found helpful while learning Autotools.\r\n\r\nThe first is kind of a crash course tutorial by A. Duret-Lutz. He keeps it very current:\r\n\r\nhttp://www.lrde.epita.fr/~adl/autotools.html\r\n\r\nThe second is \"The Goat Book\" which you discuss in detail. Redhat hosts it for free:\r\n\r\nhttp://sources.redhat.com/autobook/"

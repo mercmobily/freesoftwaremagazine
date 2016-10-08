@@ -1,0 +1,140 @@
+-
+    name: admin
+    mail: ''
+    subject: 'Pretty straight-forward'
+    hostname: 165.98.157.37
+    created: '1174757385'
+    body: 'Let us know how you contribute to the free software movement. If you contribute in multiple ways just let us know the primary way or choose other and comment.'
+-
+    name: ''
+    mail: ''
+    subject: 'All of the above'
+    hostname: 75.34.33.113
+    created: '1174762440'
+    body: 'I do all of these things, but would like to emphasized <a href="http://arc.nucapt.northwestern.edu/F/OSS">monetary donations to F/OSS</a>, as it is really easy for anyone to do & even small sums make developers happy.'
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'Those that learn, serve also'
+    hostname: 59.101.5.56
+    created: '1174766852'
+    body: "All of us, who are attempting to learn the 'nuts and bolts' of FS, are part of the contribution, too. As soon as we learn enough, our contributions will start to become useful in one way or another.\r\n\r\nOnline publications, like Free Software Magazine, are a valuable aid for those who are trying to learn."
+-
+    name: ''
+    mail: ''
+    subject: Translations!
+    hostname: 190.30.8.12
+    created: '1174775886'
+    body: 'I''ve translated a few short pieces of Free software into Spanish. I can''t really write code, but I want to return as much as I want to the free software movement.'
+-
+    name: undefined
+    mail: ''
+    subject: patches
+    hostname: 68.89.125.107
+    created: '1174789943'
+    body: "i consider \"writing patches\" separate from \"writing code\".  my patches have never garnered me the title \"contributor\" or \"team member\" on a software application's website, so i think the community would also agree that there is a difference between \"code\" and \"patches\".\r\n\r\nmy patches primarily address bugs that i've discovered (accompanying a bug report) or that i've encountered and the first to solve, though i've addressed \"new functionality\" a time or two.\r\n\r\nwith a job and family i really don't have the time to do more than \"write patches\".\r\n\r\ni also try to help users out when i know something they want/need to know with detailed mailing list posts or website comments.\r\n\r\nthat's my small contribution to foss."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Hard choice'
+    hostname: 68.93.224.4
+    created: '1174800091'
+    body: "The hard thing is deciding which thing that I do has the most impact. Is it more important that I write documentation, promote the ideas behind free software in my writing, or that I actually write some free software?\r\n\r\nI don't write a large volume of stuff myself, but I do practice what I preach. And I think maybe that's why I had to pick \"write software\" on this list. It's not what I do most, but it may be what I do that's most important.\r\n\r\nI think that, aside from the obvious benefits of growing the pool of software that is available and solving specific technical problems, it also gives you an important perspective on the ethical, pragmatic, and economic aspects that surround software. We have a lot of funny ideas pushed on to us by various special interests, and the only way to get a feel for how things really work is to try it yourself.\r\n\r\nI don't write free software out of some kind of martyr complex, I do it because it's fun, and for me, it's the most practical way to get what I want done (\"If you want it done right...\").\r\n\r\nI also picked it because it's what I did today! <em>Voila</em>, fresh out of the oven:\r\n\r\n<a href=\"http://sourceforge.net/project/showfiles.php?group_id=8578&package_id=226251\">Palimpsest 0.1-alpha</a> (<a href=\"http://sourceforge.net/project/shownotes.php?release_id=496146&group_id=8578\">Release Notes</a>).\r\n\r\n\"The purpose of Palimpsest is to unify access to metadata (especially attribution and licensing data) in a range of multimedia files. It implements a plugin scheme for fully-supporting native metadata in specific filetypes, as well as an XMP scanner for unrecognized files.\"\r\n\r\nIt's only a week since I started writing it, so it's still pretty primitive, but I plan to extend it considerably. I'll probably write a blog about it when it actually supports more than GIF files (don't ask me why I started with GIF, it wasn't exactly a rational decision, it just sort of happened -- PNG and JPG are coming soon, then probably SVG and Ogg Vorbis, as well as about 3 more abstraction layers in the interface which will make it a lot more useful).\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Patches are awesome'
+    hostname: 68.93.224.4
+    created: '1174800354'
+    body: "Don't underrate patching existing software! It's what makes free software go. I think it's easier to start software than it is to maintain and improve existing code. It's also an enormous boost to the people who do write software when you start getting contributions. So far, I've only had one package that got that far, but it was cool, just the same.\r\n\r\nI've started more projects than I've contributed patches to, but I'm not so sure that's anything to brag about. :-/\r\n"
+-
+    name: 'Raghu Kodali'
+    mail: ''
+    subject: 'All of the above'
+    hostname: 122.167.97.42
+    created: '1174800975'
+    body: "I do all of the above. But my primary and biggest F/OSS activity is advocacy. I did hundreds of installations for anybody who asks me for it in the past 10 years.\r\n\r\nI am an associate member of FSF (member no. 3822) for the past two years. In this way I make monetory contributions to the Free software movement.\r\n\r\n"
+-
+    name: gerel
+    mail: ''
+    subject: 'the fifth item hasn''t been voted yet!!'
+    hostname: 190.49.75.26
+    created: '1174834885'
+    body: "I hope we keep it like that..\r\n\r\n-gerel"
+-
+    name: 'Ciaran O’Riordan'
+    mail: ''
+    subject: 'Other: lobbying'
+    hostname: 83.217.158.46
+    created: '1174934167'
+    body: "<p>\r\n  I meet with politicians and tell them why our laws should protect software users, developers, and distributors against <a href=\"http://ciaran.compsoc.com/software-patents.html\">software patents</a>.  I also tell them how to do this since the mechanics of making the correct change in the law is usually obfuscated within some other more laudable change.\r\n</p>\r\n\r\n<a href=\"http://fsfeurope.org/projects/gplv3/\">GPLv3 - strengthening free software</a>"
+-
+    name: 'Ciaran O’Riordan'
+    mail: ''
+    subject: 'That''s an important contribution'
+    hostname: 83.217.158.46
+    created: '1174934965'
+    body: "<p>\r\nTranslations are a very important contribution, both for software and for websites.  I see this all the time in <a href=\"http://fsfeurope.org/\">FSFE</a>.  Most of our webpages are in 10+ languages.  I think translators really display the community spirit that free software exists to foster.  No one becomes a translator becuase they want to get famous, translators must be motivated by helping others.\r\n</p>\r\n\r\n<a href=\"http://fsfeurope.org/projects/gplv3/\">GPLv3 - strengthening free software</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'Helping others'
+    hostname: 201.253.244.48
+    created: '1174956756'
+    body: 'Yes, maybe. Ever since I switched to using mostly free software, I''ve tried to play fair - something I never did with proprietary software vendors. If people are developing software that I use for fun and profit, I SHOULD give something in return. I found out that Free Software is moralizing. And since I can only write terrible code in Gambas, I''d rather spend my time doing something that actually helps others. '
+-
+    name: ''
+    mail: ''
+    subject: 'Hey, I do that too'
+    hostname: 201.253.244.48
+    created: '1174957411'
+    body: 'That was precisely what drew me to free software. I AM a political activist (in a minor leadership role), and I decided to write an ordinance proposal making my city''s administration run only free software - mostly for the lower TCO, and transparency issues. But I thought it would be hypocritical to propose that when I wasn''t running a free OS myself (I did use Firefox, OOo and WordPress, among other Free Software products). Now my computer runs free software almost exclusively.'
+-
+    name: branch01
+    mail: ''
+    subject: 'Primary Way'
+    hostname: 75.28.66.17
+    created: '1175125372'
+    body: 'In the end I had to decide that financial support of the Free Software Foundation is the most important/primary.  If it wasn''t for FSF the poll wouldn''t even be relevant.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"If it wasn''t for FSF"'
+    hostname: 68.93.224.4
+    created: '1175169968'
+    body: "I think you're overstating the importance of the FSF to free software, just a little bit...\r\n\r\nThe GNU project, which is what the FSF directly supports, accounts for roughly 25% of free software. Another 25% is in several unaffiliated large projects (some of which are among the most important on the desktop: X, Mozilla, OpenOffice.org, Linux itself). The remaining 50% is created by \"the field\" -- independent developers.\r\n\r\nWhat would principally happen if there were suddenly no FSF today:\r\n<ul>\r\n<li>The term \"free software\" might go out of vogue (but I doubt it would disappear entirely)</li>\r\n<li>Important \"cathedral\" projects, like Gnash, for example, would founder -- because these projects are driven by user need rather than \"developers scratching an itch\". IOW, there are some projects that won't happen (or won't happen quickly enough) unless someone sponsors their development.</li>\r\n<li>Other people would have to absorb the burden of maintaining GNU utilities (but they are mostly mature)</li>\r\n<li>Infrastructure for fighting GPL violations would have to be provided by someone else.</li>\r\n</ul>\r\n\r\nOf course, that's if they disappeared today. They were more important in the past. Had FSF not invented the GPL, or originally written the GNU system, it probably would've taken longer to discover the copyleft idea and that would have had disastrous consequences.\r\n\r\nHowever, FSF didn't invent free software, they just gave it a name and a definition.\r\n"
+-
+    name: 'Kevin Cole'
+    mail: ''
+    subject: 'Install, Document, Teach.'
+    hostname: 192.26.10.192
+    created: '1175265614'
+    body: "Although I've done all of the above, most of my contribution has been in the form of installing, documenting and teaching, which I sort of think of as a single task with three parts.  (Much of the teaching has been in the form of e-mail exchanges and IRC/IM conversations which eventually become documentation in the form of web pages.)\r\n"
+-
+    name: ''
+    mail: ''
+    subject: '.. and the legal base!'
+    hostname: 83.228.205.185
+    created: '1175381513'
+    body: "I really hope that the FSF will not suddenly disappear because I consider their role more crucial than that of OSI or similar organisations. It was the FSF who devised the license which is today used by ca. 75% of all FOSS projects. And currently they kill themselves by coming up with a next version by wrapping their brains around legally, economically and politically difficult issues to which other leaders in the community show no interest or sometimes even disrespect.\r\nI agree with you, FSF is not the body/group of people who has contributed most of the free code in the world today. But without their contribution not so much code would (and perhaps could) have been written at all. \r\nThis is not about quantity, but about doing the right things. So, I think respect where respect is due."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'bits of three options'
+    hostname: 82.108.129.98
+    created: '1175616408'
+    body: "I selected \"other\" because I write and distribute free software, advocate and teach it and also have contributed documentation.\r\n\r\nOkay not everyone can (or should) code and it's good that a lot of people advocate but right now what concerns me is the low number of people contributing documentation. I think this is one of the great plus points of the free software world. The fact that you and I can join in by writing HOWTOs, guides and general tips means we can all take part without actually having to write code.\r\n\r\nI suspect that more people contribute than this poll indicates though because at first I thought it meant writing help files and the like for specific packages. Of course it can also mean writing helpful webpages, posting HOWTOs to TLDP, contributing to WIKIs etc. All of this is documentation - especially because the nature of software documentation has changed. Yes I still read books but increasingly the \"documentation\" I use includes bits gleaned from forums, mailing lists and other websites."
+-
+    name: 'Jure Repinc'
+    mail: ''
+    subject: 'Mostly translation, testing/bug reporting and advocating'
+    hostname: 89.212.91.146
+    created: '1175686565'
+    body: 'The largest part of my contribution to free software is translation into Slovenian language (my main work is on KDE). I also try to regularly test beta releases of various GNU/Linux distributions and report bugs that I found. I also do a lot of work by telling people about free software. I''m using <a href="http://jlp.holodeck1.com/blog/">my blog</a> for this and submit links to <a href="http://digg.com/users/jrepin/news/submitted">Digg</a>, <a href="http://jrepin.stumbleupon.com/">Stumble Upon</a>, <a href="http://del.icio.us/jrepin">del.icio.us</a> and <a href="http://reddit.com/user/JRepin/">reddit</a>. Telling people I meet in real life or online about free software is also a thing I often do. I''ve also started to work on learning how to program in C++/Qt so that I will some day be able to help even with programming.'
+-
+    name: leonpmu
+    mail: ''
+    subject: '2 of the Above'
+    hostname: 196.192.66.8
+    created: '1175713744'
+    body: 'My small business is based on Open Source / Free software.  I provide solutions based on Linux /  free software.  I encourage my clients to buy a box set, and exlpain to them that it is simply a nice gsture to the developers and that there are no strings attached and that they can install it on as many machines as they want etc.  I aslo make it a point of buying almost evry box set of my favourite distro.'

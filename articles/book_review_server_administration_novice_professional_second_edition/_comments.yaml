@@ -1,0 +1,7 @@
+-
+    name: shabitz
+    mail: ''
+    subject: 'Review is dead on'
+    hostname: 64.37.153.150
+    created: '1247494771'
+    body: "I wished I had read this review before I read this book. I'm new to linux and tried learning by picking up several other books. The problem is that most of the books I had covered older distrobutions which the changes are sometimes dramatic. I was having a hard time following along. I noticed this book and due to 8.04 still being offered on Ubuntu's site. I felt it would be a great way to install and follow it through the book.\r\n\r\nWell, I ran into several complications. Many of which took me hours to figure out it was a publication error. Google searches typically set me back on the right path or helped me figure out the error. I got very lost on the bash scripting chapter so I decided to skip it and go with a bash scripting book later. Also I also skipped the last chapter on xen virtualization. At work we started dabbling with Xen but Vmware is proving to be the better choice. So I'll likely go that route.\r\n\r\nThe one question I have though is what book would be a better book for learning Ubuntu Server?"

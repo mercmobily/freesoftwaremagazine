@@ -1,0 +1,14 @@
+-
+    name: ''
+    mail: ''
+    subject: 'link broken'
+    hostname: 84.112.45.45
+    created: '1174832421'
+    body: "Hey, the link http://www.oreilly.com/catalog/linuxpg/3 in the article is broken.\r\nThe correct one should be http://www.oreilly.com/catalog/linuxpg/"
+-
+    name: admin
+    mail: ''
+    subject: Fixed
+    hostname: 165.98.157.37
+    created: '1174864717'
+    body: Thanks

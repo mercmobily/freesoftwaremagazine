@@ -1,0 +1,364 @@
+-
+    name: 'Robert Pogson'
+    mail: ''
+    subject: 'Why Red Hat will go bust because of Ubuntu'
+    hostname: 64.42.205.164
+    created: '1154463423'
+    body: "In business, timing is everything. When RedHat started Fedora, there was no immediate revenue stream possible from the desktop. Look at Caldera! They had a very smooth distro and changed course. Thank goodness, RedHat had more sense. They did, in a way, abandon the desktop, but they have used Fedora as a testbed to keep their iron hot, and they have done good work with K12LTSP to make one of the smoothest GNU/Linux distros specialized for schools. That has planted seeds. Many students will have experienced GNU/Linux in schools thanks to RedHat. Many businesses will have experienced the reliability of GNU/Linux through RedHat on the server. RedHat has the ability to grow onto the desktop by several avenues: influences in education and widespread acceptance of GNU/Linux in business ( see http://www.redhat.com/rhel/details/clients/ ).\r\n\r\nRedHat is in it for the long haul and I would not count them out so quickly. They are huge in America and in a few other parts of the planet, such as India.\r\n\r\nUbuntu definitely has mindshare among the passionate and soon-to-be-passionate GNU/Linux lovers, and it is a more global movement. Mark Shuttleworth has definitely earned a big return in passion for a relatively small investment and the time is right to catch the wave.\r\n\r\nI am still convinced that RedHat can also catch the wave. Migrations/new installations are going to Linux at such a rate that there will be room for several profitable/widespread distros.\r\n---\r\n\r\nA problem is an opportunity."
+-
+    name: PhillipFayers
+    mail: ''
+    subject: 'It didn''t happen to Solaris'
+    hostname: 62.252.32.15
+    created: '1154466167'
+    body: "Many people, me included, thought that the same thing would happen with Solaris when Sun's desktop market declined due to competition from Linux (and the lousy price/performance of SPARC).  It didn't and in fact Solaris is experiencing a bit of a resurgance in use at the moment.\r\n\r\nI realise the situation isn't quite the same.  Firstly Sun had a high end hardware market which kept Solaris alive in the lean times.  Secondly there isn't really a lot of room in the market for profitable Linux distributions.  Thirdly its easier to switch between Linux distributions than it was for people to switch from Solaris to Linux.  But Redhat has a lot of mindshare in the Enterprise markets and it'll take quite a while for Ubuntu to challenge that.\r\n\r\n---\r\nPhillip Fayers\r\nhttp://phillipfayers.blogspot.com/"
+-
+    name: danwalsh
+    mail: ''
+    subject: 'Red Hat not so easy to dislodge'
+    hostname: 202.7.166.166
+    created: '1154470526'
+    body: "Before i go on let me say 'All hail Ubuntu', i am a believer.\r\n\r\nHowever, Red hat is not going anywhere but up for some time. Sitting in the corporate world the Red Hat edge is the infrastructure that supports corporate IT. Big IT will not go anywhere near unsopported products (this is corporate law). Sure, lots of GNU/Linux exsists across big IT shops but when it goes into production it MUST be supported. At this point it all comes down to who bought the CIO lunch last week......its likely he or she had a Red Hat business card ;-)\r\n\r\nRegards,\r\n\r\nDW"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Ubuntu definitely is interesting'
+    hostname: 68.93.224.4
+    created: '1154471145'
+    body: "I don't know if I would be so bold as to predict the demise of Red Hat, but Ubuntu is certainly going to give them a run for the money. Ubuntu has started out much more in tune with the philosophy of free software, and that gives them a strong lead with their core market. People will be passionate about Ubuntu in ways that people usually aren't about Red Hat.\r\n\r\nWhen I started working with GNU/Linux, I did from a \"principles first\" approach. I read Richard Stallman's \"Gnu Manifesto\" and his announcement of the GNU project, and I became very interested in the theory of free software development and what it was capable of. I'm a skeptical reader, though, and I don't really believe things like this until I see them work. On the other hand, I don't discount them, either.\r\n\r\nSo my immediate inclination was to go full steam ahead with the idea and see just how strong an idea it was. So, instead of going with Red Hat, which was a kind of amphibious, proprietary/free creature at the time, I went with Debian, because it was a full community-driven \"for users, by users\" distribution, and the whole mechanism was under free licenses. I figured I didn't want to get behind the idea until I had proven to myself that it wasn't just fairy gold.\r\n\r\nThe going was incredibly hard at first -- but I expected that. I knew, first of all, that ANY such total switch in operating system was going to hurt. I knew that because I'd already switched from TRS-80 to IBM to Mac to BSD Unix to Solaris to MS-DOS to Windows 3.1 (variously at home, work, and school), and had even tried Win 95 on a new job. Also, I knew Debian was an all-volunteer project, and I've been a member of enough of those (Boy Scouts, National Space Society, Planetary Society, even Junior Achievement, a couple of PTAs, and church groups) to know what that's like.\r\n\r\nWhat I was surprised by, though, was not the little foibles when compared with full-blown corporate enterprises, but rather the fact that you <em>could</em> compare it with <em>full-blown corporate enterprises</em>! Clearly the free software method <em>worked</em>. So when I first heard of Ubuntu trying to create a more end-user-desktopÃ¢â‚¬â€œandÃ¢â‚¬â€œcorporateÃ¢â‚¬â€œfriendly distribution built on Debian, I had a strong feeling that I was going to like it from the start.\r\n\r\nUbuntu has taken that wisdom and added the right amount of corporate backing in a very savvy way. Shuttleworth has avoided spoiling the process (a tricky thing to do!), and he's got momentum. Most commercial GNU/Linux companies seem to have a lot of conflict between \"community\" and \"business\" goals, but Ubuntu seems to know how to cut with the grain so that the \"community\" and \"business\" goals are the same.\r\n\r\nOf course, for a space junkie like me, it can't possibly hurt that the founder is one of the world's first space tourists!\r\n\r\nIn any case, Ubuntu is the first commercial GNU/Linux distribution to seriously tempt me away from mainline Debian.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Won''t happen overnight, certainly ...'
+    hostname: 68.93.224.4
+    created: '1154506704'
+    body: "But Ubuntu is making significant progress in the support area. The \"long term support\" option is positively unheard of in the computer industry. Six years might as well be \"lifetime\" in an industry where you pitch the hardware in the bin every two years (not that I do that -- I'm the one who cleans out the bins and keeps them running until the  battery-backed RAM and realtime clocks go belly up or the board gets cracked. Or at least I used to, I'm getting spoiled to merely 5-yr-old equipment lately).\r\n\r\nSeriously, though, Ubuntu is looking to become stiff competition and Red Hat is going to have to make changes if it wants to stay in the game, let alone on top.\r\n\r\nOne thing of course that Red Hat <em>does</em> have is more than six years of existence -- that six year policy would be more convincing coming from a company that had been around longer than Canonical has.  As conservative as corporate buyers are, that's going to matter quite a bit.\r\n\r\n"
+-
+    name: Frihet
+    mail: ''
+    subject: 'Why Red Hat will go bust because of Ubuntu'
+    hostname: 198.234.62.130
+    created: '1154523652'
+    body: "When Red Hat threw away its desktop community I was a support-paying customer. I dropped Red Hat the day the news was released and moved my machines to Mandrake, where I cheerfully paid for support until Ubuntu 6.06 hit the street. Now I send money to Ubuntu.\r\n\r\nAt that time, I wrote a short blurb in which I said Red Hat had forgotten how Microsoft knocked off IBM. Of course there were many reasons, but one was key. That key reason was that Microsoft conquered IBM from the desktop, not from the server room or the board room. Little guys everywhere were using Windows for Workgroups to get stuff done without the red tape and resistance they got from the centralized IT department. They took risks and simply ignored corporate policy. It was evolution in action. Darwin (had he been a hacker) would have been proud.\r\n\r\nI thought SUSE was going to win the battle with Red Hat, and so I wrote, \"If the desktop OS comes in a green box, the server OS will come in a green box.\" I was wrong about SUSE; it looks like the box will be brown.\r\n\r\n"
+-
+    name: tf
+    mail: ''
+    subject: 'Not so sure Ubuntu will be successfull'
+    hostname: 195.83.126.10
+    created: '1154527227'
+    body: "Having used Ubuntu Breezy during a few months and then used Dapper, I felt a lot of disappointment.\r\n\r\nTo my mind, the latest Ubuntu is a lot to buggy to be used for something serious. Furthermore, it doesn't provide you with xonfiguration tools like Yast or Webmin : if you don't like the default configuration, then you need to change every config file by hand. And finally, they have no clear focus : they seemed to be a desktop-oriented distro and all of a sudden they created a server version and released it with Long Time Support although it was the first version. The same is true for their Live-cd installer and there has been many reports on the Net that it is buggy.\r\n\r\nSo, all in all, I don't think they're doing themselves good advertisement with their latest distribution."
+-
+    name: jonathanbrickman0000
+    mail: ''
+    subject: 'For me, the key is availability and usability'
+    hostname: 24.255.208.64
+    created: '1154528245'
+    body: "For me, the primary reason I use and prefer Ubuntu, is availability and usability of all of the bits which I and my users need.  Some commentators on Ubuntu complain about the standard repositories, but that does not matter to me:  for me, the relevant datum is the fact that I have yet to find a major Linux software package for which someone has not made a good, reliable, and functional Ubuntu .deb.  Under most Linuxes I have tried, I have to consider using outdated rpms with prayer; under Ubuntu, I look far more for the best repository for the package I want, than I do for the proper .deb.  This is the best possible way, I think: the Ubuntu community includes a very careful subcommunity of package repositories, which is different and, I suggest, flatly better than any other Linux.\r\n\r\nAnd for less-than-major packages, I have yet to find a current .deb or binary installer I cannot load using Ubuntu.  As long as I have reliable software to load, I'm happy, and the .deb system has been tremendously better in my experience than the rpm system.  I used the rpm system on and off for years, in more than one distro including a few versions from RedHat, and had to regularly get in and fix its own damages.  When the rpm system first came out, it looked like it should work wonderfully...but bugs crept in which they never worked out, and today, if I load an rpm into a Linux, I have to wonder how much manual munging of the result I am going to have to do, almost exactly like the Slackware .tgz I started out in.  I have yet to have this problem with the .deb system.\r\n"
+-
+    name: dsas
+    mail: ''
+    subject: 'long term support'
+    hostname: 81.158.222.20
+    created: '1154538819'
+    body: "Uhm, there is 3 years support for desktop packages and 5 years support for server packages.\r\n\r\nsolaris 7 (considered a server os) is still supported from sun and was released in 1998, you can't buy it now though. Solaris 8 is still supported and purchasable and was released in 2000. Both beat Ubuntu 6.06 servers 5 years support.\r\n\r\nWindows 98 has only just lost security support 8 years after being released, beating Ubuntu 6.06 desktops 3 years support. "
+-
+    name: 'Rick Stockton'
+    mail: ''
+    subject: 'Ubuntu Technical Objections'
+    hostname: 75.15.197.63
+    created: '1154557866'
+    body: "For power users such as myself, the depth of Ubuntu's software repositories is fantastic. But, I have a BIG problem with the default 'anyone can sudo' management scheme. And for me, installing EVERYTHING into a single partition is a show-stopper: My Dapper install does crash from time to time, and I get really nervous about whether the sole partition will come up OK when it does that.\r\n\r\nWith others such as my main computer, I can easily 'tar' my important $HOME stuff to backup file(s) in /opt, a partition which doesn't get filled with temporary files as I do my work. /usr and /opt are otherwise read-only; I like it that way."
+-
+    name: toaster
+    mail: ''
+    subject: 'Why Red Hat will go bust because of Ubuntu'
+    hostname: 218.214.52.208
+    created: '1154587034'
+    body: 'Like Frihet, I too was a support paying customer of Red Hat until they dropped their desktop community. I moved to Suse, and stayed. The bottom line is that people will use what works, what has good support, and is easy to configure. Ubuntu, Xandros and a few select other distros have that core criteria. Of them all though Ubuntu alone has captured the imagination of the alternate os crowd (and lets face it many of them, (us)are system administrators), and has a product that is not only cool but very very functional. I spend a lot of time evaluating server and desktop software for clients, I usually test each and every distro as its released. Two stand out with neon lights blazing, Ubuntu and Simplymepis 6 based on Ubuntu core. Red Hat died and was buried several years ago.'
+-
+    name: rmjb
+    mail: ''
+    subject: 'Why it wont happen'
+    hostname: 201.238.76.15
+    created: '1154626562'
+    body: "At least not yet. When choosing a server flavour of Linux we are limited. Limited to what our hardware vendor will support on the server and limited to what our application vendor will support. SAP is not certified on Ubuntu. EMC most likely will not certify on Ubuntu, at least not yet.\r\n\r\nRedHat and SuSE have spent the last few years building expensive relationships with these hardware and software vendors, it will take some time for Ubuntu to do that.\r\n\r\n- rmjb\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'But they are making that investment'
+    hostname: 68.93.224.4
+    created: '1154757908'
+    body: "There's no doubt in my mind that you are right about the time it's going to take, but Ubuntu has been making the necessary effort in a way that Debian proper is (perhaps constitutionally) unable to do.\r\n\r\nFor example, IBM recently included Ubuntu in the supported distributions for its database products. True, that's one win out of dozens that are needed, but it's a start. I think Canonical has the will and ability to follow through, so I think it's just a matter of time.\r\n\r\nOf course, that doesn't necessarily mean the downfall of Red Hat. There's room for more than one top-flight commercial Linux distribution in the world. Ubuntu is the only one I would personally take seriously, though, because of my long time affinity for and experience with Debian.\r\n"
+-
+    name: scottc
+    mail: ''
+    subject: 'I don''t think your editorial'
+    hostname: 66.41.2.157
+    created: '1154875071'
+    body: "I don't think your editorial was overly inflammatory, Terry.\r\n\r\nI'm just getting going with using GNU/Linux, largely because I believe in the principle of free software.  (It's not for convenience -- it's a lot of work to make the move.)  I have Fedora Core 5 on an old P2 in my basement and it installed pretty well.  I haven't done very much with it yet to form an attachment or preference.  As I read about how Ubuntu is striving more to really be a <em>free</em> distribution, it seems like an easy choice to make to at least give Ubuntu a try.  From the little I know about the subject, I get the sense that things are shifting this way.  I'd think that \"mind share\" (if we must use that term!) is especially important in the free/open source community.  Even if large companies like the one I work for are currently using Red Hat, things have a way of changing from the ground up.  That's how GNU/Linux got in to the enterprise in the first place, isn't it?\r\n\r\n----\r\nScott C.\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Come on down! 'Moving to Freedom'\">http://www.movingtofreedom.org/</a>"
+-
+    name: scottc
+    mail: ''
+    subject: 'I meant *Tony*, not Terry!'
+    hostname: 66.41.2.157
+    created: '1154875289'
+    body: 'Sorry.  (Darn all those Terry comments on the same page :-)'
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'No worries at all :-D'
+    hostname: 192.136.45.2
+    created: '1154898229'
+    body: "Hello,\r\n\r\nNo problem at all Scott!\r\n\r\nThanks for your comment :-D\r\n\r\nMerc."
+-
+    name: lokeey
+    mail: ''
+    subject: 'Why Red Hat will go bust because of Ubuntu'
+    hostname: 66.142.235.97
+    created: '1155036712'
+    body: 'So true...so true! I busted my Linux cherry with Red Hat (5) and the last version that I used, which I think in my opinion was the best release of Fedora, does not compare or stack up even, to Ubuntu. I have already migrated my Fedora 4 server to Drapper and also switched my laptop to Ubuntu/Kubuntu as well. Fedora 5 did not "WOW" me at all! It would be interesting to see the number of Fedora systems compared to Ubuntu and not downloads, but actual users currently running either of these two.'
+-
+    name: ''
+    mail: ''
+    subject: 'Where are we going?'
+    hostname: 83.105.9.201
+    created: '1155070947'
+    body: "When I knew nothing, I heard about this thing called Linux which was a free version of Unix. Wow! I want some of that I thought. I managed with limited skills to install it from somewhere at the time, way back before there were easy installs or a decent GUI. So, it worked and I could practice my very basic Unix skills on it. Then I wanted more, and found I could get a better package by buying one. Buying it? I thought it was free! OK, so I understood someone had had to do the work to package it and that was worth money to me. I used several distributions and still have SuSe 8 installed somewhere.\r\n\r\nThen along came Ubuntu, quite simply it worked and it's free - someone finally got it right! But - here my cynical side comes out. Why? What's the long term plan? The guys who are giving us this great stuff are being paid, and someone somewhere happily sends me a bunch of CD's whenever I ask - this all costs money. I'd love to understand how this is a viable business, and if it is, will there come a time when I have to start paying? Still, Ubuntu having a larger global market share than Windows would have a kind of poetic justice....\r\n"
+-
+    name: ''
+    mail: ''
+    subject: '2 words'
+    hostname: 75.23.85.194
+    created: '1155090194'
+    body: 'Won''t happen - in the corporate of which I am a part off, RedHat rules. We have hundreds of RedHat servers and growing every day. Ubantu might sometime rule desktops, but not corporate servers. Dapper Drake - gimme a break, what idiot thinks up these names?'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: free
+    hostname: 68.93.224.4
+    created: '1155096317'
+    body: "Are you serious?\r\n\r\nRed Hat, SUSE, and Ubuntu all have exactly the same business model: they sell support contracts. You can download free versions of all of them from various places online, or make as many copies as you like of the disks.\r\n\r\nBut if you want somebody to solve your problems for you and help you out, then you pay for a support contract. As individual, hobbyist users, we're unlikely to blow money on that, but it all translates to money for a company: whether it's money paid to an inside expert or contracted to an outside one, it all comes off the balance sheet. Ubuntu, like Red Hat, and SUSE (and MEPIS and Mandriva and many, many others) basically make money by being that line item.\r\n\r\nIn a way, of course, you're a \"free rider\", but in reality you're more like \"advertising\", as well as \"quality control\".  Individual users test a distribution and they help it gain mindshare -- both contribute to the products success in the business environment where success is easier to monetize.\r\n\r\nYou can of course, try to get a similar win from individual desktop users, which tends to be the point of \"package\" distributions like MEPIS and some early versions of Red Hat. There's also \"value added\" distributions like Linspire and Xandros, which contain non-free packages which effectively make license fees possible, but it's not all that clear that their method is that successful.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Delibrate controversy'
+    hostname: 220.239.57.51
+    created: '1155102339'
+    body: "<strong><em>I donÃ¢â‚¬â„¢t like writing controversial editorials.</em></strong>\r\n\r\nI'm sure you don't, but you know its a necessary evil as a magazine editor or a journalist, to generate the necessary hits for ad dollars.\r\n\r\n\r\nI started with Linux using Fedora Core 3, and now I'm using a mix of Gentoo, OpenSUSE, Debian and Ubuntu. Throughout my short experience with Linux (over 18 months now), I've learnt to ignore the majority of opinions, editorials, Podcasts, etc. I find they're just a BIG waste of time, as I feel they don't push Linux or open-source in an active manner. What I'm saying is, such things aren't as effective as writing an application that fills a niche for open-source in general. (Sometimes, they cause more damage than promote a positive outlook).\r\n\r\nIf something is \"Windows only\", I sure would like to bring an application that would fill this niche into the open-source world. I don't doubt a LOT of folks would appreciate what I did...Its better than getting your \"10 minutes of fame\" on the web."
+-
+    name: ''
+    mail: ''
+    subject: 'You are just a biased Ubuntu fanatic'
+    hostname: 72.137.202.57
+    created: '1155132191'
+    body: 'Fedora is NOT bad. It is just a matter of preference. In my opinion fedora is better because a lot of programs just come in rpm format and are made for RHEL and they dont work properly on Ubuntu. Fedora gives me more applications to choose from and RHEL rpms work on it as they should.'
+-
+    name: ''
+    mail: ''
+    subject: 'This review shows my frustration with Ubuntu'
+    hostname: 72.137.202.57
+    created: '1155132375'
+    body: 'I installed Ubuntu on my dad''s pc and it had tons of issues that are stil wasting my time becuse he keeps on calling for help!'
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'Yeah right'
+    hostname: 192.136.45.2
+    created: '1155132764'
+    body: "Hi,\r\n\r\n>I'm sure you don't, but you know its a necessary evil as a magazine editor or a journalist, to \r\n> generate the necessary hits for ad dollars.\r\n\r\nYeah, sure. You can see the HUNDREDS of controversial articles we publish all the time to generate necessary hits fo ad dollars - not.\r\n\r\n>What I'm saying is, such things aren't as effective as writing an application that fills a niche for open-source \r\n>in general.\r\n\r\nOpinions are necessary for the world to _work_ and for people to think.\r\nNot everybody wants to think, unfortunately.\r\n\r\n>I don't doubt a LOT of folks would appreciate what I did...Its better than getting your \"10 minutes of \r\n>fame\" on the web.\r\n\r\nI have run Free Software magazine with Dave Guard for 2 years. The last thing I need is \"10 minutes of fame\".\r\n\r\nPlease check your facts before posting.\r\n\r\nMerc.\r\n\r\n"
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'I am biased'
+    hostname: 192.136.45.2
+    created: '1155133090'
+    body: "Hello,\r\n\r\nI am biased because I like Ubuntu 10 times more than Red Hat. However,  I am not a fanatic.\r\nI would love to have a list of programs that \"don't work properly on Ubuntu\".\r\n\r\nMerc."
+-
+    name: ''
+    mail: ''
+    subject: 'Not just Corporate IT uses Redhat servers'
+    hostname: 70.26.197.24
+    created: '1155229677'
+    body: "I work in Corporate IT and have brought that mindset home.  I run CentOS4 (don't want to pay EL4 license)for my home servers and Ubuntu desktop.  In my opinion, it's the best of both worlds.  I've used Redhat since RH7.2.  The EL4 server is rock solid.  However, RH or Fedora desktop has always been overly bloated.  This is where Ubuntu wins.  It's lean and to the point.  Just what I need and it worked from the start without any additions.  Down to my TV card.  Now that Dapper Drake has LTS (Long Term Support) and OpenOffice 2.0 with great Office software compatibility, we finally have a real desktop.  To balance the discussion, Redhat servers and Ubuntu Desktops.  \r\n\r\nIt is just my opinion and preference.\r\n\r\nlt."
+-
+    name: ''
+    mail: ''
+    subject: '2 words'
+    hostname: 75.23.85.194
+    created: '1155252473'
+    body: 'Won''t happen, RedHat has it''s place in the enterprise, I know, I work with over 400 of them everyday. You guys are mad because RedHat needed to make money to stay in business. Are you going to feel the same way if Ubuntu starts charging? You are looking for a handout....moochers.'
+-
+    name: ''
+    mail: ''
+    subject: '"Red Hat rules" -- but why??'
+    hostname: 68.50.53.137
+    created: '1155306077'
+    body: "I adopted Red Hat Enterprise Server for our business because the consensus out there seemed to be that it was \"the best.\"  (Well, to be fair, maybe a toss up between RHEL and Debian was the feedback I saw).  So, I agree that the PERCEPTION is that RHEL \"rules\".\r\n\r\nBut, my experience so far has been that a perception is all it is.  We've had plenty of driver issues with staples of enterprise computing such as 3ware, software compatability issues with standard enterprise components such as mod_perl, and just a bunch of headaches in general.\r\n\r\nI have no substantial experience with other Linux systems, but I feel like they HAVE to be better.  Maybe that's not true, but it's my perception (which is what drives future purchases).\r\n\r\nWe are entrenched with RHEL now, and that may prevent us from switching in the near future, but if I had to do it again, I'd try Debian, Suse, or Ubuntu.  IMHO, the only reason Red Hat still rules is momentum.  If they don't start doing a better job, they will lose that momentum, and a superior product will prevail.\r\n\r\nSincerely,\r\nJames"
+-
+    name: merdmann
+    mail: ''
+    subject: 'Why Red Hat will go bust because of Ubuntu'
+    hostname: 134.155.50.211
+    created: '1155548294'
+    body: "I also think, that the timing was right for Red Hat. They made their move, when many sysops were trained and used to Red Hat. Many servers run Red Hat at that time. Few controllers will allow their IT-staff to spent expensive working hours on re-setup the servers to another linux distro.\r\nI think Red Hat will be in widespread use for the next ten years (at least).\r\n\r\nBeside that...\r\n<snip>\r\n\"...First of all: Red Hat was my first love...\"\r\n</snip>\r\nMine was called Julia.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Here Here! Ubuntu is not the end all OS'
+    hostname: 67.188.120.218
+    created: '1155594022'
+    body: "I think that, for me, the biggest difference is the .deb/.rpm issue. After abandoning\r\nSuSE and their confusing sysconfig system, I obtained a copy of Ubuntu 5 from a regular\r\ncustomer at the coffee-bean slingery which signed my checks at the time.\r\n\r\nI will say that the install was cake. Pleasantly, I found that it did not take a lot\r\nof time. If you've used SuSE you know you can grow a beard before it installs. I liked\r\nthe desktop and thought it was clean. Then I tried to tweak it to my personal needs.\r\n\r\nNothing was there! No video, properly working firefox, missing perl mods, missing dev\r\nlibraries! It seemed that I couldn't find/understand things that I used to be able to\r\nhandle just by screwing with /etc. But, it's got repositories, so all of the files are\r\nthere, right? Sure, but when I wanted to play with them, I couldn't find them. When I\r\ndownloaded .deb packages, I couldn't figure out how to get them to work. When I tried to\r\nconvert .rpm to .deb, all hell broke loose. Enough was enough.\r\n\r\nWith Fedora 5, I did have to do some tweaking to set up the box, but when yum does an\r\ninstall, also from those wonderful repos, I know where the executables are and where\r\nthe config files are. They were quite easy to find. When I compile from source, I don't\r\nget errors. I can script, surf, listen to music, watch movies, create documents, run\r\na test server, the whole bit.\r\n\r\nIt's nice to feel like I have control over the box, which is why I switched away from\r\nwindows in the first place. Ubuntu may be great for someone that is used to working with\r\ndebian, but for an rpm guy, it doesn't make a lot of sense. The end all would be a \r\ndeb/rpm hybrid system, where the configuration is not some wacky, new idea."
+-
+    name: ''
+    mail: ''
+    subject: 'Oracle Corp is support Red Hat Linux'
+    hostname: 65.38.9.114
+    created: '1155938222'
+    body: "Oracle Corp is now supporting Red Hat Linux. Oracle Application Server 10G is developed on Redhat Linux. \r\n\r\nA pretty compelling reason would be needed to switch from Red Hat Linux. \r\n\r\nCY"
+-
+    name: ''
+    mail: ''
+    subject: 'Fedora Core is 100% Free and OpenSource unlike Ubuntu'
+    hostname: 24.201.107.22
+    created: '1156189964'
+    body: "\"<em>As I read about how Ubuntu is striving more to really be a free distribution, it seems like an easy choice to make to at least give Ubuntu a try.</em>\"\r\n\r\nIf you're concerned about freedom then you should be aware that Ubuntu packages non-free, proprietary software to drive video cards and other hardware devices (in the \"Restricted\" component).  Fedora Core on the other hand explicitly will not do this.  Ubuntu's supporting of this sort of hardware makes it less likely that there will be sufficient market demand from Linux users placed on hardware manufacturers.  \r\n\r\nIn all the posts above I have read vague, generalised assertions that Ubuntu is a \"better desktop\" with no specific data to back this up, or even a description of what the poster feels a \"better desktop\" should be.\r\n\r\nHaving used Red Hat for a long time (5.2 on to FC6Test2 now) and also tried out MacOSX, Win3.1, Win95, Win2K, WinXP and Debian, SuSE, Mandrake and now Ubuntu I am honestly unimpressed with any of them and think that the longer you spend with any one particular system the more comfortable you'll be with tweaking it to your own needs.\r\n\r\nFedora Core comes with a vast array of repositories to obtain any piece of Free Software that I wish (and if I were foolish enough to search for non-Free software there are repositories of that run by people that feel there's a need for it).  \r\n\r\nI'd honestly like to know from some of the posters above:\r\n1) What specifically is lacking in Fedora Core for the \"desktop\" experience\r\n2) Why do you feel comfortable with a distro that includes non-Free packages? \r\n\r\nOisin Feeley"
+-
+    name: ''
+    mail: ''
+    subject: SuSE
+    hostname: 193.109.81.100
+    created: '1157025432'
+    body: "I was a Redhat fan myself but with problems mounting to use Fedora on my desktop I thought of moving to another Linux distribution. There was a huge appreciation for Ubuntu. So I did go to Ubuntu. It was crazy. \r\n\r\nBut now I switched to SuSE 10.1 when a friend of mine recommended it. Everything started working straight out of the box. SuSE is definitely a superb desktop linux version. \r\n\r\nKabeer Ahmed."
+-
+    name: ''
+    mail: ''
+    subject: 'ubuntu still has a way to go on its "long march"'
+    hostname: 66.32.208.21
+    created: '1157328404'
+    body: "I wasn't as impressed with ubuntu 6.06 or any of its earlier incarnations as I wanted to be.  I had a difficult time getting it to work on my new laptop.  It had a pretty GUI even though it is still way too buggy to be taken seriously.  While I consider ubuntu to be still too buggy, it does show a lot of promise.  I look forward to its next incarnation.  Its progress has been phenomenal since it first started not too long ago.\r\n\r\nOn the other hand, SUSE 10.1 really impressed me.  It installed on the laptop with no showstoppers or major problems and actually ran much smoother than the 10.0 version, so much so that it should almost be version 11.0.  The only black mark was that idiotic beagle application (I uninstalled it almost immediately) - what a useless piece of software!  It's as bad as kwallet.  I've always used kfind or just plain old find if I needed to look for something on my disk.  Why reinvent the wheel?  Beagle only allows people to be mentally lazy and slipshod in how they organize their files.\r\n"
+-
+    name: jons
+    mail: ''
+    subject: 'Why Redhat . . .'
+    hostname: 216.79.141.104
+    created: '1157448583'
+    body: "Controversial editorial?  No, I don't think so!\r\n\r\nUbuntu (Dapper) was not my first Linux experience, nor my best, but it was a turning point.  I'd wanted to jump into Linux for quite so time, but I couldn't afford a large expense, timewise.  Since then, I've keep my eyes on Ubuntu (& Xubuntu) & I gotta' tell ya, these people are SERIOUS!  Their 'live cd' just flat works on everything that I've tried it on, so far.\r\n\r\ntf: Try the 6.06, try it, you'll like it, I think. Big improvement in 6.06.\r\n\r\n  Its really easy on my old hardware, which may be something that 'corporate' hasn't thought of yet; what a way to 'make' money by NOT spending any!\r\n\r\n  Come on people, IF Ubuntu, Redhat, or any other flavor will let business keep using their old hardware another year or two, hey just another six months, what a savings THAT would be!\r\n\r\n  Yes, there are concerns about support, but you PAY for it, just like every other business expense.  So the bottom line is, does it cost MORE, or does it cost LESS?\r\n\r\nAnonymous coward:  Yes, a \"new\" laptop, but did you try it on an older one? And your dad won't call you if he had Windoze, instead?\r\n\r\ndsas:  You mentioned Win98 & its 'longterm support'; but how much did it cost to license 250 seats (or more) w/ that, compared to a Linux flavor?\r\n\r\n  & as for Redhat, its in the game to stay, but so is Microsoft, & its not even in the same league anymore, IMHO.\r\n\r\n  No, this isn't about the 'demise' of Redhat, or about one of the other Linuxes, although some may pine for one of them.\r\n\r\n  What we're talking about is what a lot Linux aficionados have been looking forward to for quite some time;  Linux, of <EM>any</EM> variety, is finally getting some real traction where it counts, in the corporate world.  All those Linux desktops DO make a difference.\r\n\r\n  You like Ubuntu, or SUSE, or Debian, Redhat, that's fine.  Right now, there's a way to go, but time will shake out one or two that will raise above the others, whether its the best or not.\r\n (Personally, I still think OS/2 was better than Windoze.)\r\n\r\n  But the point is that 'open source,' of some kind, is in the hunt.  Some of you don't think that 'corporate' will switch, but compare software (IT) w/ personnel; If they'll 'dump' the old hands to save money up front, how long before they figure they can swap out software the same way?\r\n\r\n  Sooner or later, Ubuntu, Redhat, or maybe one of the others IS going to go big at one of the big names in business.  Everyone else will be watching, & if it looks like that business is doing good w/ Linux, others will follow.\r\n\r\n  In that regard, the Linux version will matter less than how well that 'early adopter' does in the marketplace, where success is dependent on the winds of fortune & fate as much as anything else.\r\n\r\n  Just an opinion. [:^) Keep looking up!]\r\n\r\njons"
+-
+    name: asokadd
+    mail: ''
+    subject: 'Ubunutu or Red Hat'
+    hostname: 192.248.40.6
+    created: '1158052312'
+    body: "I learned all my linux from Red Hat. \r\n\r\nMy hat is always up for them for making impossible possible. \r\n\r\nMy turning to Suse is for different reason. \r\n\r\nI have upto seven opersting systems in my home computer (including windows) except Ubuntu.\r\n\r\nKnoppix is my best utility. \r\n\r\nUBUNTU has its teathing problems yet but I don't want to discourage the effort they are making.\r\n\r\nGood Luck and long live all the distributions and their administrators.\r\n\r\nWithout your efforts the computer world would be boring.\r\n\r\nFlamming is little good for your soul but not your heart.\r\n\r\nThat is my advicee as a sympathetic doctor (by profession).\r\n\r\n\r\n\r\nVisit my site at www.geocities.com/asokaddd/index.html\r\n\r\nOr WWW.writeclique.net (British Council)\r\n\r\nAuthor name as Dr.S.B.Asoka Dissanayake\r\n\r\n \r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'I use RedHat AND Ubuntu, but prefer Ubuntu'
+    hostname: 139.169.211.105
+    created: '1158691115'
+    body: "I wanted to learn/use Linux 6 years ago when I started a small web-consulting business.  I had precious little resources and did not want to spend them on licensing fees for operating systems, database servers, development tools, etc, etc.  I paid $800 to build a robust (enough) server and $15 for 6 cd's of Red Hat 5.5, I think it was???  Wow!  What a great price to get up and going!  I soon got frustrated after several attempts to install/configure and gave up to go back to Microsoft.  What I could not afford most of all was the time I was pouring into this!  Ok, a few years later I got the urge to try Linux again.  A co-worker (I went back to a corporate IT department) gave me a copy of Ubuntu.  Funny name, pictures of half-naked people on the cd-sleeve... what the hell was this?  He told me to just install it and see if I like it (4.10 - Warty Warthog <who comes up with these names???>).  He also told me of a FANTASTIC site that every Ubuntu newbie needs to visit - ubuntuguide.org.  Anyway, I got it installed and IT JUST WORKED!  (To be fair, I imagine that the newer Linux distros have similiar \"ease of install\" features.)  Anyway, Ubuntu made me a Linux convert! I now have 3 servers, 2 desktops and 1 laptop running 6.06 Dapper Drake.\r\n\r\nOk, the real reason I prefer Ubuntu.....\r\n\r\nAt work we have 2 RHEL 9 boxes.  I am admin on them.  When I try to install some software to evaluate (document mgmt system, BPM Suite, CRM app, etc.) I inevitably have to install/upgrade packages like MySql, PHP, Perl, etc.  I kept getting dependency issues with the RPMs.  It took several extra hours tracking down misc packages to satisfy these dependencies.  In a way I liked it, it honed my Linux sys admin skills, but my boss doesn't like the extra time it takes to accomplish this.  Let me say this, we are a mixed shop and always will be - Windows and Linux.  I prefer it this way.  It keeps me current on more skills and more marketable.  Anyway, I decided to spend some company money and take some Linux classes.  The only thing that my company would pay for was SUSE.  Red Hat training was more expensive.  Anyway I took some SLES training and saw the future and the future was YAST!!!  Ok, YAST was cool, but I soon ran into problems with it as well.  I set up a SLEH box at work and had some YAST problems.  The system hung up sometimes while doing updates.  I could not get sound to work (this is not a big deal for a server, but it is for a desktop).  Anyway, at home I ALWAYS had Ubuntu working and was becoming more proficient with it.  By this time I had a desktop and a server with Ubuntu serving up a few websites and CMS sites for outside consulting work.\r\n\r\nI just set up an Ubuntu box here at work to test out an open-source DMS called Knowledge Tree DMS and it is working beautifully.\r\n\r\nI currently use RHEL 9 and Ubuntu 6.06.  I must say that I prefer Ubuntu because of it ease and simplicity.  I like the fact that it is installed from 1 cd and I can apt-get repositories from the web for updates.  I like apt-get vs. rpm and I think that is the main reason people will like Ubuntu vs. RedHat.  Don't get me wrong, Red Hat isn't going away, just like Windows is not going away.  I work for a VERY large govt agency (20,000+ users) and we will AlWAYS have a healthy mixture of Microsoft and Open-source solutions.  I am very proud and extremely excited that we are investigating more and more uses for open-source software.  We are in the process of selecting an OSS desktop to start experimenting with and see if we can, not phase-out Windows but phase-in open-source software.  As US-taxpayers we should all be happy that our Govt is exploring ways to cut back on licensing fees paid to any one vendor.  This is not only going on in Europe, Asia, Africa, but here as well.\r\n\r\nCan you tell I like the word anyway?"
+-
+    name: ''
+    mail: ''
+    subject: 'Anonymous coward'
+    hostname: 131.107.0.106
+    created: '1159463624'
+    body: "void RedHatCheck()\r\n{\r\n    if( Ubuntu.kills(RedHat) )\r\n    {\r\n\r\n        RedHat = Ubuntu = Junk;\r\n        return (Rise(SuSE) || Rise (openSuSE));\r\n\r\n    }//end if\r\n}\r\n\r\nI still think SuSE / OpenSuSE is the Linux Distro \"done right\". I fail to see what the big hype is about Ubuntu, in much the same way that I think Firefox is an over-hyped browser that's not really \"THAT\" phenominal (I use Opera btw and it kicks major FF butt!)\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Ubuntu vs Red Hat'
+    hostname: 68.199.111.32
+    created: '1159579383'
+    body: 'Ubuntu > Red Hat all the way, the stability and performance is just great, keep it up!'
+-
+    name: ''
+    mail: ''
+    subject: 'Not Fedora'
+    hostname: 200.21.36.98
+    created: '1159922402'
+    body: "I think Fedora is not good because of its short life.  Some 2 years ago I installed FC3 on our servers and now we are having problems because there isn't new versions of the binary RPMs.  Now I jumped from winxp to ubuntu on my PC and it worked like a charm, and now I'm trying on the server side.  Just one installer CD is a good idea.  I think editorial is very interesting for 'normal' sysadmins like me because we can know all of your opinions and points of view.\r\n\r\nThanks,\r\n\r\nPablo\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'The main reason I''m going'
+    hostname: 195.10.45.217
+    created: '1159971557'
+    body: "The main reason I'm going with Ubuntu is the long term support for my desktop and servers. As much as I like RH, I'm afraid they simply made themselves too expensive for the small guy.\r\n"
+-
+    name: tomviolin
+    mail: ''
+    subject: 'Non-free != evil'
+    hostname: 67.53.150.18
+    created: '1160125903'
+    body: "I do definitely prefer to use free and open-source software, when possible.\r\n\r\nI also happen to believe that the core OS (i.e. kernel) should always be free and open-source.\r\n\r\nHowever, I also recognize, having been involved with software development for many years, that \"non-free\" has its place in the world.  If a hardware manufacturer will only support Linux -- at least for now -- with a closed-source driver, so be it.  At least they are supporting Linux, in a world that is still so dominated by Windows that Linux could be easily ignored.  Same thing for application software.  If a company wants to sell a closed-source product to protect trade secrets, and the product does the job for me and is well-supported, I'm not going to rule it out on philosophical grounds.\r\n\r\nSo, for me, a distribution that offers both free and non-free packages is a plus; it allows me the freedom to choose the best of both worlds.\r\n"
+-
+    name: atlantia
+    mail: ''
+    subject: 'Thanks for the discussion'
+    hostname: 70.58.167.166
+    created: '1161252331'
+    body: "One more comment because ubuntu has caught my desktop distro slot.\r\n\r\nI am not a sysadmin, only an amateur that has been caught up in the idea of some college student's gift to the planet that seemed to have the support of some incredibly creative and giving people.\r\n\r\nWorking with Windows at work and then at home, read some Eric Raymond through a link online, played with an early Red Hat ( which I could never get to install after months of effort ) then spent hours trying to install Mandrake which finally took ( thank God ), had to play with some drivers to get it to work on an old notebook.  \r\n\r\nThen found Mepis, then SimplyMepis ( due to it being the distro of choice of the local LUG ).  Definately liked deb vs. rpm for the reasons listed above.  Then heard about MS ( Mark Shuttleworth - kind of like the coopting of those two letters ) and ubuntu - a space traveler and would send me a bunch of CDs for my relatives and friends in those slick covers - just boot with it and try it ... ( And me burning the ISO and flawlessly installing on only the second try made me feel like a god ) and I actually felt like I was contributing in my own miniscule way to the promotion of a linux distribution that even a long term noob like me feels confident about.\r\n\r\nIt truly came home now when I watch my partner use it on her laptop at home - a dual boot.  Even though she thinks the whole open source movement is .. nice .. it just had to work on her laptop as easily as Windows ..  Now after going back and forth for a few months, she rarely uses Windows and actually does her own updating and has even spent some time in a terminal to install Flash on Firefox.  She now is passing out the CDs in their nifty covers to friends at work who may or may not play with them.\r\n\r\nI know, a little off topic, and the reason the masses may come to use ubuntu is that most of us can drop in the CD and it works  -  can't say that for most of the distros I have tried.  Better than Red Hat? - Can't say definatively - I'm not a professional.  Ubuntu just works everytime I have exposed someone to the wonders of linux - I know I'll get flamed if I start espousing the free CDs and the slick packaging, its just that I can't tell you how many people seriously consider trying linux because some how MS ( see how it works .. ) gave it away for free in a nifty package that even my partner can praise.\r\n\r\nThanks Linus and Richard and Mark and Tony and yes You for making the world a little more fun \r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Re: Oracle Corp and rumors on Ubuntu'
+    hostname: 148.87.1.172
+    created: '1161648756'
+    body: "I Googled into this discussion because of rumors\r\nabout Oracle plans to compete against RHEL with\r\nUbuntu... Whether this is true or not - your post\r\nwas on 08/18 and it is just 10/22 now ... just a\r\nmeasure of how fast things change in this industry.\r\n\r\nI started with Fedora on the second partition of\r\nmy new Dell laptop... and went thro sheer hell\r\nwith the drivers.. and ultimately had to uninstall/\r\nclean up the machine...A friend suggested running\r\nLinux as a virtual server inside the Windows env.\r\n\r\nUbuntu, RHEL, Debian - whoever - the key for large\r\nscale adoption, IMHO, is driver certification for\r\nspecific desktop h/w configurations - either right\r\nat the vendor's site (a la Dell), or as a precertification\r\nprocess before install.\r\n\r\nMy 2c."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Except they didn''t -- fast indeed'
+    hostname: 68.93.224.4
+    created: '1162231351'
+    body: "In fact, just a few days after your post Larry Ellison of Oracle announced his company's intent to fork a version of Red Hat and compete against RHEL with <i>that</i>.\r\n\r\nSounds crazy, but that's apparently what the man said."
+-
+    name: ''
+    mail: ''
+    subject: 'Why is it not listed on the "Free GNU/Linux Distributions page"'
+    hostname: 87.127.70.142
+    created: '1162844488'
+    body: 'http://www.gnu.org/links/links.html#FreeGNULinuxDistributions lists free distributions, and Fedora isn''t on there, so I never considered it to be. Any idea why?'
+-
+    name: ''
+    mail: ''
+    subject: 'Utter Ignorance'
+    hostname: 74.136.106.168
+    created: '1168764366'
+    body: "Most of these responses are ignorant of fact. \r\n\r\nRed Hat has ALWAYS been considered a server distro.\r\n\r\nDon't get me wrong, I like Ubuntu and run it on one of my machines. However, Red Hat is still far more reputable than Ubuntu. Ubuntu, like ANY Linux distro is Linux (which is a kernel), and usually includes the options to install other packages. ANY Linux distro can be made as powerful as the next. The only real significant differences between the different distros are this: UI and/or presentation, support, business model, contribution to products which may be distributed with the product, configuration, and so on.\r\n\r\nAgain Linux is a kernel. It is not a desktop or a server. I really hope that from now on when people want to make arguments, they do it by first studying and understanding the facts of which they are speaking for or against."
+-
+    name: redenex
+    mail: ''
+    subject: 'Confused as hell....'
+    hostname: 202.83.62.157
+    created: '1173437265'
+    body: "Hiya guys! I am a n00b to Linux world, just scrapped my XP last weekend and got on with Ubuntu 6.06. I am pretty happy with the performance, though I will need to educate myself more with Linux.\r\n\r\nNow, I plan to do some web development and 2 friends have reccomended me Red Hat, and one even has brought a few CD's and help me with installation, but on major forums that I visit, I get the idea that Debian is more stable a system and Ubuntu is good enough for my requirement!\r\n\r\nCan someone help me clear my insanity? :)\r\n\r\nCheers and good day!"
+-
+    name: ''
+    mail: ''
+    subject: 'Russian Admin'
+    hostname: 82.207.40.185
+    created: '1175345857'
+    body: "Red Hat it is alive and will live, especially in Russia! \r\n\r\n<a href=\"http://search-herb.com\">reviewer</a>"
+-
+    name: sjuras
+    mail: ''
+    subject: 'Red Hat vs. Ubuntu'
+    hostname: 89.172.124.191
+    created: '1176152574'
+    body: "As a computer science student I have to say that Ubuntu 6.10. is the best linux distribution for novices and intermediate users. It contains all the applications you need - a web browser, presentation, document and spreadsheet software, instant messaging packed in nice GUI similar to windows, it's user friendly and anyone can install it and start working. For experienced users slackware is better choice.\r\n\r\nSasa Juras\r\n<a href=\"http://www.spacehoax.blogspot.com\">my blog</a>"
+-
+    name: Siraaj
+    mail: sirconquer@gmail.com
+    subject: 'RE: This review shows my frustration with Ubuntu'
+    hostname: 12.12.79.29
+    created: '1176438936'
+    body: 'My mom (49) and little sister (15) have been using Ubuntu 6.06 on a 500Mhz PIII since a little after its release, and called me for help once. Wanna know what the problem was? The cable modem was unplugged! :-)'
+-
+    name: 'Philippe Laquet'
+    mail: stom@free.fr
+    subject: 'Ubuntu / RHEL'
+    hostname: 88.140.239.236
+    created: '1193181837'
+    body: "[troll]FreeBSD?... :p[/troll]\r\n\r\nUbuntu was the \"best\" for you because of your experience started with it - I am not sure that one of those distributions are \"better\" than the other. Essential matters (IMHO) for an Entreprise Class distribution:\r\n\r\n* The editor's support (quality AND location a.k.a. \"presence\")\r\n* Hardware and software support (with vendor's contributions, support, drivers...)\r\n* How long will be the life cycle and support for the distribution itself\r\n\r\nYou can easily find almost exactly the same packages, GUI, update utilities even if the packaging is different, you can do the same on a RHEL and on an Ubuntu Server... The difference, today, is that Redhat as much experience, partnernships, coverage and experience in entreprise environment.\r\n\r\nMay be it will change in a near future, but for the moment, some may ask:\r\n\"why should I switch to Ubuntu instead of my current RHEL subscriptions, support, technical teams practice... ?\"\r\n\r\nI am using Debian/Redhat/Ubuntu/RHEL since 10 years - for personnal and professionnal needs.\r\nThat was just my humble opinion.\r\n"

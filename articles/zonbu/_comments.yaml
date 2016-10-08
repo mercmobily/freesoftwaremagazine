@@ -1,0 +1,77 @@
+-
+    name: 'Anonymous visitor'
+    mail: asdf@dot.com
+    subject: 'Zonbu =  eBox-4854 + Gentoo Linux'
+    hostname: 131.111.8.96
+    created: '1186422365'
+    body: "Well, it is interesting to note that the Zonbu hardware is not novel. It's directly derived from Taiwanese Ebox's product called eBox-4854:\r\nhttp://compactpc.com.tw/ebox-4854.htm\r\n\r\nZonbu just adds Gentoo Linux and charges for it.\r\n\r\nYou can see more enlightening comments here:\r\nhttp://www.engadget.com/2007/07/18/zonbu-launches-subscription-based-pc-service-plans"
+-
+    name: 'Anonymous visitor'
+    mail: matti@salmiset.com
+    subject: 'Thin client terminal rather than a computer.'
+    hostname: 67.169.184.70
+    created: '1186642089'
+    body: "Interesting but ...\r\n\r\nZonbu at a first glance appears to be a very close cousin if not an outright twin to a \"Thin client terminal\" device, rather than a computer. All your data is always stored at the Zonbu's remote servers, not in your computer which does not have a HDD for that purpose. Essentially you don't really buy a computer, you buy a service and a custom terminal device to access the service.\r\n\r\nThe total cost for two years of use is $99.00 + 24 x $12.95 = $410.00 + tax and shipping, all of it has to be purchased at once. \r\n\r\nDell has two Inspiron sub-$400.00 models and HDD where you can store your own stuff. Add any one of the free Linux distros to it for $0.00 and you have at least the same capabilities plus more speed and a real storage device. \r\n\r\nAll that fuzzy \"Green\" stuff is also somewhat misleading and means little to the planet per se: The non-green stuff runs at the Zonbu's site, the servers in full scale machine room, with large air conditioners and other equipment to keep your data safe, cool and available. So really, the couple of dollars that you might save in your electricity bills is just redirected to the Zenbu. \r\n\r\nBe sure to read the small print."
+-
+    name: 'Jeremy Turner'
+    mail: ''
+    subject: 'A true thin client executes'
+    hostname: 24.124.105.89
+    created: '1187047730'
+    body: "A true thin client executes applications on a remote server, which the Zonbu does not.\r\n\r\nAlso, the cost of putting GNU/Linux on a laptop or desktop may be $0.00, but will take you some time. The Zonbu has it preloaded and preconfigured.\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: john.mcginnis@tx.rr.com
+    subject: 'like others said....'
+    hostname: 72.190.96.105
+    created: '1187783633'
+    body: 'Yet another computer choice is decTop. Its $99 in base config. Can run Linux or CE. Comes with a 10Gb hard drive. And you don''t have to sign up for some storage plan that is twice the price of Amazon S3. '
+-
+    name: 'Leo S'
+    mail: leos@uvic.ca
+    subject: 'Bizarre software choices'
+    hostname: 24.108.208.155
+    created: '1187813161'
+    body: 'It seems they have a mashup of XFCE, KDE, and Gnome.  If I was making an efficient environment for a computer with limited power that''s about the last thing I would do.  The file manager might be from XFCE (or homebuilt?), the panel and many icons are from KDE, and a lot of the software is from Gnome (and not lighteweight stuff either, Banshee and F-Spot are both C# apps running on Mono).  Seems like everything could be made much faster by sticking with one environment and the corresponding apps as much as possible.'
+-
+    name: 'Roger Henderson'
+    mail: unicorn@ihug.co.nz
+    subject: 'Zonbu, install more RAM'
+    hostname: 203.21.31.218
+    created: '1187839637'
+    body: 'If they put 1GB RAM in them it would surely help the performance. Via''s Mini-ITX boards max out at 1GB RAM. Assuming it is a Via board, self-upgrades are not a good option either as Via''s Mini-ITX boards are irritatingly fussy about the RAM they work with.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'The hardware is nice'
+    hostname: 68.93.224.4
+    created: '1187980211'
+    body: "The hardware sounds nice, but not unique to Zonbu, as mentioned in comments above. Clearly, this is another \"give away the razor and sell the blades\" strategy -- one year of storage at the rates you quote is higher than the cost of the computer. One suspects subsidizing along the lines of game consoles (and that is a trap from the PoV of FS advocates). Not that I personally consider this unethical -- I just see the drawbacks from a consumer perspective. I'm sure that for some people it could be a good deal (just not me).\r\n\r\nHowever, I can certainly imagine wanting a remote-boot device like this, with <em>my own</em> server. This would be quite nice for a shop computer, for example, where the environment is variously hostile (T above 90 F (30 C) or below 30 F (0 C), grit, dust, oil, sawdust, metal chips, etc), or for an inexpensive home audio-recording studio where the solid-state silent operation would be a big plus.\r\n\r\nIn practice, though, there's always been enough \"semi-retired\" PCs around so I don't feel too justified buying a new one, even at $100 (reusing a 10-yr-old PC being nearly free, even more landfill-friendly -- the drawbacks being power-consumption, noise, and reliability).\r\n\r\nOne thing I would like to see is GNU/Linux distros with quick/easy \"X terminal\" or \"thin client\" or \"remote storage\" installation modes to make this sort of setup easier. By now, there are a number of named categories of FS-based computers (we might also add \"firewall\", \"router\", \"web server\", \"file server\", \"print server\", \"workstation\", \"laptop\", etc) for which there are fairly standard configuration choices.\r\n\r\nDebian has the \"task selector\", but IIRC, it doesn't really come very close to these sort of practical choices -- not as currently laid out.\r\n\r\nOr maybe this kind of specialization calls for hand-optimized niche Free O/S distributions?\r\n"
+-
+    name: 'Stephan Gromer'
+    mail: ''
+    subject: 'fit-PC is a true alternative'
+    hostname: 84.56.247.21
+    created: '1188168556'
+    body: 'Have a look at fit-pc.com. The offer a device which consumes only 3-5 Watt and has a build in hadrdrive (40 GB). It is designed for 24/7 use'
+-
+    name: 'Mr. Zonbu'
+    mail: jac1d@hotmail.com
+    subject: 'Real life with the Zonbu mini-PC'
+    hostname: 24.224.187.254
+    created: '1188409200'
+    body: "The unit is surprisingly useful day-to-day.\r\n\r\nI wasn't sure if it would be viable so I ordered one and I've been using it for the past 30 days as my principal home desktop.  I've been blogging about my experiences in-detail and a small community has emerged, discussing the hardware, software and business model issues.\r\n\r\nYou can find my blog here:  http://mrzonbu.wordpress.com/\r\n\r\n-Mr. Zonbu"
+-
+    name: 'Anonymous visitor'
+    mail: nobody@hotmail.com
+    subject: 'Remote booting'
+    hostname: 24.124.105.89
+    created: '1188785135'
+    body: 'I wondered about remote booting this device with something like <a href="http://thinstation.sf.net">ThinStation</a>. After more research, the video driver isn''t exactly standard, so you''re stuck with recompiling the kernel/Xorg, or using VESA.'
+-
+    name: 'Frederick Martini'
+    mail: frederick.martini@minot.com.mx
+    subject: 'A great solution'
+    hostname: 65.167.28.98
+    created: '1191940500'
+    body: "Hello\r\nWe have helped an school to make an implementation for the students.\r\nIt seems to be a great solution because of the low cost of ownership.\r\nA great solution.\r\n\r\nFrederick\r\n"

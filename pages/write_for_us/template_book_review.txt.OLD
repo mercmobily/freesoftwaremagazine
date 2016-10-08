@@ -1,0 +1,73 @@
+<p><i>Briefly</i> introduce the subject covered by the book. If it’s appropriate, introduce the book’s authors (bio, previous books, etc.) and the publisher (link). <b>Please try to remember that this first paragraph of the article will appear in the table of contents for the reviews page and on the home page</b>.</p>
+
+<figure>
+	<caption>The book’s cover </caption>
+	<file_name>cover.jpg</file_name>
+</figure>
+
+<p>Give the first impressions of the book</p>
+
+<zoom>Put at least one “zoom” in the article</zoom>
+
+<h1>The contents</h1>
+
+<p>Describe: 1) The book’s size in pages; 2) The book’s structure and contents (NOT a list of chapters); and 3) the topics covered by the book.</p>
+
+<h1>Who’s this book for?</h1>
+
+<p>Describe the book’s ideal audience: who will find this book most useful?</p>
+
+<h1>Relevance to free software</h1>
+
+<p>Describe how weighted the book is toward free software; whether the book promotes proprietary software; and the ways in which the book is relevant to users of free software.</p>
+
+<zoom>The review should be 700 to 800 words</zoom>
+
+<h1>Pros</h1>
+
+<p>Why people should buy it</p>
+
+<h1>Cons</h1>
+
+<p>Why people shouldn’t buy it</p>
+
+<table>
+	<caption>In short</caption>
+		
+	<tr>
+	<td>Title</td>
+	<td></td>
+	</tr>
+	<tr>
+	<td>Author</td>
+	<td></td>
+	</tr>
+	<tr>
+	<td>Publisher</td>
+	<td></td>
+	</tr>
+	<tr>
+	<td>ISBN</td>
+	<td><i>No dashes or spaces please.</i></td>
+	</tr>
+	<tr>
+	<td>Year</td>
+	<td></td>
+	</tr>
+	<tr>
+	<td>Pages</td>
+	<td></td>
+	</tr>
+	<tr>
+	<td>CD included</td>
+	<td>Yes/No</td>
+	</tr>
+	<tr>
+	<td>FS Oriented</td>
+	<td>(1 to 10)</td>
+	</tr>
+	<tr>
+	<td>Over all score</td>
+	<td>(1 to 10)</td>
+	</tr>
+</table>

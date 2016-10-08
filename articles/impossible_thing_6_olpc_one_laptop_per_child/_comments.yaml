@@ -1,0 +1,98 @@
+-
+    name: bogdanbiv
+    mail: ''
+    subject: 'Free culture'
+    hostname: 82.76.17.224
+    created: '1206951880'
+    body: "Great article Terry!\r\n\r\nThere is one thing stopping free culture to \"take off\":\r\ncollaborative art tools (if there are such things they are largely undermarketed and I know too little of them).\r\nFor example:\r\nversioning for graphic artists (is there a SVN/bazaar plugin for GIMP), music composers (does Audacity have a versioning plugin?), for office workers there is already http://odfsvn.sf.net;\r\n\r\ncollaborative Image labeler under a free license:\r\ngraphic artists cannot find other free artwork images they need to reuse, there is Google Image Labeler, but is is not under a free license (both the software and the results);\r\nNote: such tools exist for music (musicbrains.org, last.fm, Jamendo.com...)\r\n\r\nthere is no marketplace for artwork under free licenses -openclipart.org is not enough.\r\nThere needs to be some gallery with ranking, tags for office templates, animations, animation scripts, music sheets,..."
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'Image repositories and Money'
+    hostname: 85.5.183.180
+    created: '1207238038'
+    body: "<a href=\"http://commons.wikimedia.org/\">WikiMedia Commons</a> permits only free-licensed works. and everything that's licensed under a Creative Commons license should have some kind of metadata so you can find it, for example through <a href=\"http://search.creativecommons.org/\">search.creativecommons.org</a> which is kinda ugly though.\r\n\r\nI absolutely agree with you that there should be a subversion tool for GIMP, Inkscape, Blender, etc. files. the next step would be a market place à la jamendo where people can make donations to artists and projects.\r\n\r\nthen there is still the issue that small (micro) donations through PayPal aren't really economically as PayPal wants to make money too. some non-profit foundation should be set up to create an e-trade system that doesn't take margins on low transactions. maybe they should even create a new (community/social) currency that can be exchanged for dollars or euros, like Linden Dollars in second life."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Versioning images'
+    hostname: 68.93.224.4
+    created: '1209580980'
+    body: "Subversion actually does have support for versioning images, and in contrast to CVS, these are enabled by default.\r\n\r\nIt used to be that it was problematic to put binary data into CVS, because there was a chance that it would \"munge\" the data if it happened across one of the \"variable\" directives that it provided to insert dates, versions, and other control information into documents. You could turn this behavior off, but it required manual intervention.\r\n\r\nSubversion defaults to treating everything as if it might be a binary, and you have to turn _on_ such \"munging\" behaviors if you want them.\r\n\r\nOf course, versioning for bitmap images is still not terribly efficient, and it doesn't really provide a meaningful \"diff\" -- it's just a compressed way of storing lots of different versions of a bitmap.\r\n\r\nNaturally, if you do this, you should use XCF so as to preserve as much \"source\" info as possible.\r\n\r\nA better option for free art projects, is to use vector-based graphics as much as possible, and store those in SVG format (which is text). SVG can not only be versioned, but diffs based on it can be much more meaningful.\r\n\r\nGenerating graphical reports from such data is difficult, and that's a possible direction for new development.\r\n\r\nHmm. Actually, this gives me an idea. I realize that what we need is a [blink comparator](http://en.wikipedia.org/wiki/Blink_comparator) but I don't think I've ever seen an SVN tool that had one.\r\n\r\nWhich is interesting, because it wouldn't be hard to write one and patch it onto an existing SVN browser (as I write, I've just installed [PySVN Workbench](http://pysvn.tigris.org/) and I'll have a look at how hard it would be to patch such a tool onto it).\r\n\r\n"
+-
+    name: yonix
+    mail: ''
+    subject: 'Translate article to spanish'
+    hostname: 189.168.8.66
+    created: '1210130437'
+    body: "Great article Terry. I just translated into spanish. Please let me know if it's Ok.\r\n\r\nLibertad para todos con el proyecto One Laptop Per Child (http://sesolibre.com/?p=661 )"
+-
+    name: bogdanbiv
+    mail: ''
+    subject: 'Not too advanced of a blink comparator'
+    hostname: 82.76.17.224
+    created: '1210168310'
+    body: "It needs not be very advanced, it just has to expose the concept to a wider community. Then each and every member of the community could get their own features in it.\r\n\r\nUnfortunately, do not have the programming skills to do this project.\r\n\r\n<<Hmm. Actually, this gives me an idea. I realize that what we need is a blink comparator but I don’t think I’ve ever seen an SVN tool that had one.\r\n\r\nWhich is interesting, because it wouldn’t be hard to write one and patch it onto an existing SVN browser (as I write, I’ve just installed PySVN Workbench and I’ll have a look at how hard it would be to patch such a tool onto it).>>"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'blink comparator'
+    hostname: 68.93.224.4
+    created: '1210191839'
+    body: "I'm happy to write code to blink images once they are loaded. For me, the hard part is getting the images into the program and/or launching the program when you want to use it. Ideally, they'd be loaded directly from the Subversion client.\r\n\r\nI downloaded a copy of [PySVN](http://pysvn.tigris.org/) and its SVN Workbench GUI subversion browser, which seems like it would be a good way to launch this. I haven't managed to get it working though (it doesn't recognize my Subversion working copies, even though, AFAIK, they are configured correctly).\r\n"
+-
+    name: Jose_X
+    mail: ''
+    subject: 'Freedom for all means freedom for everyone''s hobbies and itches'
+    hostname: 74.233.2.56
+    created: '1210216683'
+    body: "I want to echo bogdanbiv about the value of extending the open/empowering movement beyond software.\r\n\r\nBesides binaries, there is a lot of source code involved in a FOSS (eg) art related workflow. Effects, filters, etc, plus automation through scripts of all sorts build the sort of art and works that lend themselves to growth through incremental peer contributions. Most of the tools already exist, but most people just aren't in the right frame of mind or have access to /awareness of them.\r\n\r\nOne sort of project (among several) that I think will help move things along in this direction will be building websites as FOSS projects. These would be sites full with configuration tools, demos, etc, that any user could easily take and adapt to their own needs. What do exist in this area (I think) are (at least somewhat) proprietary or not very developed at all. A full sophisticated site (eg, resulting from the collaboration of many webmasters and designers) that anyone could load up on their PC (using FOSS OS, servers, etc, naturally) and share with others is something I think would attract attention when it reaches a certain level of quality and utility. It has the effect of uniting many artists and others in an FOSS fashion. There is room for many to make contributions, something that is key to taking FOSS into mainstream. New generalized tools will arise from such collaboration to address many of the needs for this new environment. Current underused tools will be popularized and refined.\r\n\r\nETC. ETC.\r\n\r\nIt's very important to play our game on the playground of our target market [and no I definitely do not mean Windows.. I mean in a way where they will be engaged and see the effects of their own contributions working in synergy alongside the contributions of others to help reach the end goal that will have scratched their itch].\r\n\r\n..another important angle we can hit on is with our \"distros for everyone\" capabilities (in particular a la LiveCDs). You can't carry and share improvements to a pocket Windows or design throw away marketing Windows distros for the business occassion. The reason is because unlike us, they lack free price and access to source code, modifications, and redistributions, in user friendly fashions. A full working (and portable) distro goes beyond what you can accomplish with a simple file sharing, as it can lead to as an immersive a user experience as you want. Not to mention that really no one outside Monopoly Headquarters can do or guarantee all that much when you have to depend on Monopolyware.\r\n\r\nIf we have accomplished as much as we have with .. ummm.. 0.7% of the market, imagine once we have 85%+ engaged and contributing in one way or another (and not contributing to the alternative Monopolyware platforms).\r\n"
+-
+    name: Jose_X
+    mail: ''
+    subject: 'We have most of the tools and framework'
+    hostname: 74.233.2.56
+    created: '1210221007'
+    body: ">> A better option for free art projects, is to use vector-based graphics as much as possible, and store those in SVG format (which is text). SVG can not only be versioned, but diffs based on it can be much more meaningful.\r\n\r\nThe bottom line is that as a work grows, each new contribution is a small percent of the whole. There is a diff here. For example, even without vector graphics, a change can boil down to some strokes and controlled effects. This should be scriptable in a compact way (likely is if we are referring to the gimp). In this case, the total work would be: various snapshots of a complex entity (eg, a few pictures through a digcam), plus a long list of existing scriptable actions (eg, the various strokes, individual pixel modifications, and standard parameterized effects). New modifications would likely be of the latter kind (ie, a few more scriptable actions).\r\n\r\nThese text-based scripts that substitute for the modification of a very large number of pixels are very diff friendly AND compact in themselves. [Ie, (but flipping the order) a whole snapshot takes up little space AND versioning is space efficient.]\r\n\r\nThe other major gain of scriptizing changes is that new and very distinct looking items can be created easily by changing key script commands or parameters in the chain. This is a very end user friendly quality and adds satisfaction to those collaborating since their bang-for-buck is maximized. Also, this leads to new opportunities for more contributors to join in and help.\r\n\r\n..and the tools best suited for this sort of work currently and into the future are FOSS tools on FOSS platforms. Thus, through this FOSS environment, we should be able to reach farther using the open collaborative paradigm than groups relying on the proprietary environment would be able to reach (and while doing so, we require things like scripts for practical reasons but which necessitate the use of tools like the gimp, ie, we grow the use of our tools among the wider community that would want to participate).. all else being equal. [This last part is supposed to hint that we need more than just quality open environments, we need the hobbyist and pro artists on our side, we need the ecosystem, in order to seal the deal. We have to reach out and involve Jack and Jill on their terms (and I don't mean on Windows).]\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'The Windows thing...'
+    hostname: 68.93.224.4
+    created: '1210267475'
+    body: "I know there's some recent brouhaha over whether OLPC XOs might run Windows. I deliberately avoided talking about those sort of issues, because I think it's a flash-in-the-pan problem and will go away. The contacts I've spoken to who are involved with OLPC don't seem to think the Windows or dual-boot options are really plausible outcomes.\r\n\r\nOTOH, if by some chance, XOs do ship with Windows, I predict OLPC will go down in flames... but some other project will (in time) step in to replace it.\r\n\r\nI get the impression this is another case of Negroponte sticking his foot in his mouth in front of the press. Which I can kind of relate to. It's easy to distort what people say by pulling out a few soundbites.\r\n\r\nWhat I read of what Negroponte _actually wrote_ (as opposed to what people read into it) is quite sensible: Sugar is too monolithic, needs to be modularized for better maintainability, and ought to be cross-platform, so we can run it on more than just the XOs.\r\n\r\nIn principle, it ought even to run on Windows, just like FireFox did ... and if it did it might see more popularity and hence more development. Which is how I interpreted what he wrote.\r\n\r\nWhich I thoroughly agree with -- I particularly would like to be able to install it on some of the other ultra-low-end machines (like the ones I mentioned in the article). Given the difficulty of getting an actual XO to develop on, I feel it would be beneficial to be able to test my apps on (say) an Eee PC and have some confidence that it would run on an XO.\r\n\r\nISTM that Sugar needs to grow beyond the XO if it is to be widely developed and supported by the community.\r\n\r\nOtherwise, I feel that OLPC vastly underestimated the importance of getting XOs into the hands of open source developers.\r\n\r\nSo there's basically two choices: get more XOs in the hands of \"developed world\" developers or get Sugar running on the platforms that are available to them now.\r\n\r\nIt's this sort of poorly-thought-through community process that I would blame for the poor response on Sugar development. OLPC either has to be willing to simply pay developers, so that people will commit to it, or it has to make the platform widely-enough available so that people will be personally motivated to help.\r\n\r\nOLPC seems to have some issues with the social rules of the open source community (maybe they need to read the rest of this series as I get it written?), and unfortunately, this has led to some highly visible thrashing and \"loss of faith\" as they panic in trying to find solutions to what probably seems like a fiasco from where they're sitting.\r\n\r\nI don't think it changes the big picture though. In a few years, there will be ultra-low-end computers in the developing world, and they will run GNU/Linux.\r\n"
+-
+    name: 'Maurice Cepeda'
+    mail: ''
+    subject: 'A few questions'
+    hostname: 190.161.248.119
+    created: '1210622749'
+    body: "This is an interesting article. The fact that Python is being implemented is very interesting.\r\n\r\nThere seem to be a few issues left to be desired, I speak for myself such as ... maybe I missed it but when is the OLPC XO 1 project deadline? At what stage is the project? Is it purely theoretical, are there any plans that consider real hardware. Is there a working alpha or beta of this laptop with this version of Gnu-Linux port to Python? And finally, what specs are designed into the OLPC XO 1?\r\n\r\nMaurice Cepeda"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'They''re already shipping'
+    hostname: 68.93.224.4
+    created: '1210630647'
+    body: "One of the illustrations in this article is of the first XOs coming off of the assembly line. Several of the field photos are from trials, but I believe the ones from Uruguay from the initial deployment.\r\n\r\nThe laptops are running a version of Fedora, as I understand it, with a GUI system built on top of that, which is called \"Sugar\". Sugar is written in Python.\r\n\r\nNaturally, though, Sugar is still under development.\r\n\r\nIf you want to know more about the project, you should visit the [OLPC website](http://laptop.org)."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Spanish translation'
+    hostname: 68.93.224.4
+    created: '1211354392'
+    body: "Thanks!\r\n\r\nIt looks good, although my understanding of Spanish stylistics and usage is not good enough to comment on the accuracy.\r\n\r\nNote that there was a correction: LinuxBIOS was replaced by OpenFirmware sometime back. You'll probably want to update the translation too.\r\n\r\nTechnically, the license has been violated, both because I haven't actually released this article under a CC license yet, and because when I do, it will be Creative Commons \"Attribution-ShareAlike\" 3.0, not \"Attribution\" as your site default says.\r\n\r\nI'm more than happy to let you use it under CC-By-SA 3.0 right now, though.\r\n\r\nSo please just add the appropriate CC-By-SA 3.0 notice to clarify this. I prefer for the attribution to say \"Terry Hancock, originally published in Free Software Magazine\".\r\n"
+-
+    name: yonix
+    mail: ''
+    subject: 'Changes ready'
+    hostname: 189.168.8.66
+    created: '1211377388'
+    body: "Everything is ready now: OpenFirmware and CC-By-3.0 as required.\r\n\r\n"
+-
+    name: yonix
+    mail: ''
+    subject: 'Try Sugar yourself'
+    hostname: 189.168.8.66
+    created: '1211378529'
+    body: "I was curious about testing Sugar in my Laptop, I'm using Ubuntu Hardy and when I opened Synaptic I found some installable Sugar applications, I installed em all (including a sugar-emulator). So now I can test Sugar including Pippy the Python editor. \r\n\r\nOn the other hand Windows will fight to be there, if what Terry suggests about the natural generation of lots of \"free software developers\" with time, that is a real menace to MS market, so they will do something.\r\n\r\n"

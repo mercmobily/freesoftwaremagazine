@@ -1,0 +1,77 @@
+-
+    name: Siddly
+    mail: ''
+    subject: 'RE: FOSS fight in the UK'
+    hostname: 82.47.92.51
+    created: '1175816414'
+    body: "Not wishing to cast any aspersions on these people, but they are of a type that do not take lightly to change.\r\nI am not surprised at the reactions as it took these folks perhaps two decades to get used to PC's and they intend to die with what they now know. It will take a second revolution for them to accommodate something different. Give them Windows Vista and they will learn it because they must, anything else and they will resist stoutly - fact of life.\r\nThe number of times I have dealt with people who use Linux always from a reference point of Windows is countless. Constantly I remind them that I don't know what or how Windows does it, but to understand Linux is not Windows or a clone of Windows and so there is no use talking to me about Windows. I dub these folk as the \"hard of learning\".\r\n=====\r\nLinux used for all computing tasks"
+-
+    name: ''
+    mail: ''
+    subject: 'Once again the major'
+    hostname: 202.76.162.19
+    created: '1175820237'
+    body: "Once again the major dichotomy of the human condition. On one hand change is constant whether we like it or not, we live our lives in a perpetual state of flux. On the other hand the very mention of change strikes fear in most people, even though nothing is the same as it was yesterday.\r\n\r\nLinux, Windows, PC's, mobile phones, iPod's. These are all technologyies that have come into people lives and usually wiyth a majority of people resisting them.\r\n\r\n10 minutes later they are complaining that the mobile phone coverage is crap, Vist is way better than XP and they cant fit the 13,001 song on their MP3 players.\r\n\r\nEventually they get it. They always do.\r\n\r\nAnd then they complain about it."
+-
+    name: 'Robert Pogson'
+    mail: ''
+    subject: '"felt that moves to Linux would be a waste"'
+    hostname: 204.83.37.100
+    created: '1176173641'
+    body: "I hate that. The cost of installing GNU/Linux is way less than that other OS because of the licensing and the cost of upgrading FOREVER is less because GNU/Linux is designed to be modular. There are fewer unintended consequences. These folks are mathematically challenged. Often GNU/Linux pays for itself in the first year and the rest is gravy. There is a much bigger advantage to Linux if you go to thin clients, too, than with that other OS. Then, you only have maintenance of a few servers. How can they not see the advantages? Oh, that's right. They are not looking. Competitors will overtake these dinosaurs. I hope we do not have to wait for natural causes.\r\n\r\nOn the other side, the list of companies providing Linux on desktops and laptops is growing rapidly. They must have customers who see the light.\r\n\r\nA problem is an opportunity."
+-
+    name: nagyv
+    mail: ''
+    subject: 'sunk costs and other cost-benefit studies'
+    hostname: 212.51.93.33
+    created: '1176361099'
+    body: "nice case-study draft!\r\n\r\nI think that these guys simply don't know/understand the basic notions of economics, like sunk costs\r\n\"they had invested so much money on technical support and solving past problems that they felt that moves to Linux would be a waste of the money already spent\"\r\n\r\nThe main feature of already spent money is that it is already spent. So it can not be wasted (it is possible though that in the past, when it was spent, it was wasted). When one calculates costs and benefits has to consider only future cash-flows. \r\n\r\nSuch <a href=\"http://ec.europa.eu/enterprise/ict/policy/doc/2006-11-20-flossimpact.pdf\">a study was prepared be the EU</a>, and showed that FOSS is cheaper, and IS a viable alternative."
+-
+    name: Susie
+    mail: susie.halksworth@afl.org.uk
+    subject: 're foss fight in the uk'
+    hostname: 217.41.25.253
+    created: '1177932942'
+    body: "Hello all. I work with Chris who submitted the open letter and we support him absolutely: I definitely think it is a backwards move on the part of the ICT hub to cut funding for FOSS. We have been using Foss in our own organisation for a while, and it has both saved us lots of money and been more efficient.\r\n\r\nHowever I slightly resent the implication in some of the comments above that failure to adopt Linux instantly is just because people are slow adaptors or 'hard of learning' (a charming and particularly helpful phrase): we certainly couldn't all just go over to Linux as we are tied in to certain programmes which are not compatible with Linux desktops (we have been trying to develop a FOSS version of one of those programmes but this doesn't happen overnight, and it doesn't necessarily happen without development funding). Failure to go over to FOSS isn't just about resistance, it is much more complicated.\r\n\r\nMight I also suggest that to use Linux from the reference point of Windows is both natural and certainly initially a perfectly sensible way to become used to it. Most people start off by using Windows, after all, whether we like it or not.\r\n\r\nI could say much, much more, but anyone who cares about how foss has worked in practice for our org. can read my blog at www.afl.org.uk/susieblog (which documents these very issues) :-). \r\n\r\nSusie"
+-
+    name: 'Anonymous visitor'
+    mail: paul.webster@icthub.org.uk
+    subject: 'Oh there is more to it than'
+    hostname: 84.13.252.32
+    created: '1177971523'
+    body: "Oh there is more to it than a simple \"funding cut\". Government programmes only have so much money to go around and those distributing the funding have to make choices. The FOSS project simply did not come up with the goods in the time it was given and with the resources it had. End of.\r\nFOSS is being adopted in the UK VCS as Susie has pointed out, but there are others (not even ICT Hub related) that make MSoft very very attactive for non profits to aquire.\r\nI also resent the pitying and scornful tone of some of these comments which imply the VCS in the UK is some second rate sector being bullied by MSoft and the ICT Hub. This is simply not true, small charities just want a simple solution presented in a friendly way so they can get the job done.\r\nAs for that funding the money has not been cut from the ICT Hub its just going elsewhere into a programme that will draw out ICT Champions in each region who are able to address the wider issues the VCS have around ICT\r\nThanks\r\nWG"
+-
+    name: 'Chris Bailey'
+    mail: ''
+    subject: 'Why "End of"?'
+    hostname: 81.98.254.171
+    created: '1178275849'
+    body: "There is a confusion in Chris's original article that is now being compounded by WG. We are actually talking about two different FOSS projects here, both funded separately under the UK government's ChangeUp programme. The first one referred to by Chris was the East of England FOSS in the VCS project given £30,000 pounds ($60,000). I coordinated that project and I maintain strongly that it completed what it agreed to do and gave good value for money.\r\n\r\nThe project WG is referring to when he says \"The FOSS project simply did not come up with the goods in the time it was given and with the resources it had. End of.\" refers to a second project contracted by the ICT Hub with the National Computing Centre (NCC) for £350,000 ($700,000). I would agree with him that it produced very little for this money.\r\n\r\nBut surely the clear implication of the NCC failing \"to come up with the goods\" within the agreed time scale and budget is that it did not fulfil its contract? Why is FOSS being blamed? Why isn't the ICT Hub asking for the return of some of its money from the NCC and reallocating it to others who could carry out what the NCC was contracted to do, rather than now virtually abandoning deployment of FOSS in the VCS? \r\n\r\nAs Chris says, the research in our East of England project did show the potential for FOSS in the sector and it also pointed to key issues that needed to be addressed if this potential was to be realised. NCC carried out no similar research, which would seem to be essential, before starting its project. \r\n\r\nChris Bailey\r\nAdvice for Life FOSS in the VCS project"
+-
+    name: 'Anonymous visitor'
+    mail: phil-thompson@southwitham.com
+    subject: 'Jobs for the boys'
+    hostname: 80.177.204.42
+    created: '1178277956'
+    body: "\"the money has not been cut from the ICT Hub its just going elsewhere into a programme that will draw out ICT Champions in each region who are able to address the wider issues the VCS have around ICT\"\r\n\r\nmore jobs for the people in suits who don't actually know anything about the thing they are \"championing\" then ? The type of people that think VoIP is limited to Skype and that you can get emails on an iPod.\r\n\r\nNot really the sort of grass roots delivery and support that the FOSS project was starting to deliver before being cut off in its prime."
+-
+    name: 'Matthew Edmondson'
+    mail: matthew@m6-it.org
+    subject: 'This debate is really'
+    hostname: 195.10.248.18
+    created: '1178298110'
+    body: "This debate is really important.\r\n\r\nA real effort was made in the final few months of the project to work with as many grassroots projects as possible. Indeed it has been said that the project 'turned around' after I was made manager.  It seemed as if a seedling community was growing, within the challenging climate which is the interface between FOSS, funding, funders, old school cathedrals, etc. \r\n\r\nI am gutted at the way the project ended and the current state of play, but have been strongly advised not to share business information (i.e. express my views) or talk to clients of NCC. I no longer have a laptop or access to the openitup server to work with at this time.\r\n\r\nIf there is any way that I can assist those that have been involved with FOSS in the VCS over the last few years gain recognition and reward then I will do so.  I feel that we need a strong community if we are to build on our work over and not lose out to bandwagon jumpers that happen to socialise with the people who control the funding.  Watch this space, we may (or may not) get funding! It doesn't matter too much anyway.  We have the expertise, the technology, the ethics and philosophy, the community and the passion.  All we have to do is not get caught up in scrabbling and squabbling between ourselves for the tit bits of funding that may or may not come down to us.  Thank you to those that supported my efforts.\r\n\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: paul.webster@navca.org.uk
+    subject: 'In the post "Jobs for the'
+    hostname: 62.49.242.26
+    created: '1178638632'
+    body: "In the post \"Jobs for the boys\" you seem to have knowledge of who these \"Champions\" will be. ASFAIK they haven't been announced yet!! \r\nThe ones I do know of that are being funded are existing Regional people who have been championing ICT in the sector for a number of years - when i've met them they weren't wearing suits! They believe passionately about grassroots ICT development and would recommend a FOSS solution if it was the best fit for the job!"
+-
+    name: 'Susie Halksworth'
+    mail: susie.halksworth@afl.org.uk
+    subject: 'Agreeing with Chris'
+    hostname: 86.7.26.221
+    created: '1178649705'
+    body: "Just posting again to say that Chris (i.e. AFL's Chris Bailey, a couple of posts above) is absolutely right. The fact that the £350,000 given to the NCC (which I'm not sure I would exactly call a 'tit bit' of funding) didn't show results is *not the same thing as Foss itself not showing results*, and I think we need to be clear about that although I don't particularly want to get into the reasons why the results weren't there (because I don't know them, so I'm not going to presume to comment.)\r\n\r\nThe East of England Foss in the VCS project which Chris led on did certainly show results - it might have also showed there were challenges and things to be addressed (which is extremely useful information in itself, besides being realistic), but overall it was very positive, and I think some of the stuff Chris managed to develop while we were doing it will have long-term implications, certainly for AFL and possibly for the sector (and beyond?).\r\n\r\nSusie Halksworth\r\nAFL Resources Director."

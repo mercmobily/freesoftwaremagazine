@@ -1,0 +1,21 @@
+-
+    name: god
+    mail: ''
+    subject: 'Comments from the old system'
+    hostname: 203.59.90.115
+    created: '1143729641'
+    body: "<strong>From</strong>: Haakon \r\n<strong>Url</strong>: http://far.no/\r\n<strong>Date</strong>: 2006-01-22\r\n<strong>Subject:</strong> NX would be a nice addition\r\n\r\n\r\nIt would be nice if the article included NX technology, which compresses and caches the SSHed X-session, thus making it workable over the Internet. NX is GPLed, and allows printing and sound, much like CITRIX or RDP.\r\n\r\n\r\n\r\nOn GNU/Linux, the SSH service can use a Pluggable Authentication Module (PAM) to pass the authentication of users and location of home directories to a directory service like OpenLDAP. \r\n\r\n\r\n\r\nOnce the SSH-session is authenticated and the home directory mounted, your users can work with their regular desktops over the Internet. They need an NX client installed, or you must provide the NX Java applet.\r\n\r\n\r\n\r\nReferences:\r\n\r\n* FreeNX - the free NX, http://freenx.berlios.de/\r\n\r\n* NoMachine - the creators of NX, http://www.nomachine.com/\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Robert Pogson \r\n<strong>Url</strong>: http://www.skyweb.ca/~alicia\r\n<strong>Date</strong>: 2006-02-24\r\n<strong>Subject:</strong> FreeNX\r\n\r\n\r\nThe NXs still do not have a version for AMD64 which keeps me from running it on my Linux terminal server. The 64 bit version should be working this year.\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Mojo \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2006-02-25\r\n<strong>Subject:</strong> Excellent introduction to X\r\n\r\n\r\nWould just like to say thank you for an excellent introduction to X. It may not be something for the real newbies but this article has breadth and depth without being too long. A great article for intermediates like myself. Cheers!\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Bugfunder \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2006-02-28\r\n<strong>Subject:</strong> No mention of vncviewer and via\r\n\r\n\r\nOn page 10:\r\n\r\n\r\n\r\nssh myuser@centralbox.com\r\n\r\n\r\n\r\nindeed,\r\n\r\n\r\n\r\nvncserver :1\r\n\r\n\r\n\r\nindeed,\r\n\r\n\r\n\r\nand then:\r\n\r\n\r\n\r\nexit or ^D to exit, and from the local terminal:\r\n\r\n\r\n\r\nvncviewer -via myuser@centralbox.com localhost:1\r\n\r\n\r\n\r\nand that's it, type the password and work.\r\n\r\n\r\n\r\nNo explicit redirects, no login scripts, just work...\r\n\r\n\r\n\r\n<hr/>\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'The last comment which'
+    hostname: 128.253.28.128
+    created: '1160077424'
+    body: 'The last comment which mentioned the -via option was very useful. Is there any way to use it through a web browser?'
+-
+    name: 'Tug Ozbay'
+    mail: tug_ozbay@yahoo.com
+    subject: 'How to run Xterm with -display so it xterms to host executing '
+    hostname: 212.149.48.43
+    created: '1198000936'
+    body: "I have tried something like :-\r\n\r\n/usr/bin/xterm -T `hostname` -display <clients-hostname>:0 -fg blue -fs 6 -e xyz\r\n\r\nbut want to know how it a script with the contents above will guess the ip of the host that connects to it, and sets up the display accordingly to enable an xterm !"

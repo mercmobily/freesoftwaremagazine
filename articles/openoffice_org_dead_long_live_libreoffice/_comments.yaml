@@ -1,0 +1,14 @@
+-
+    name: 'Gary Richmond'
+    mail: ''
+    subject: 'Forking OpenOffice.org'
+    hostname: 89.242.103.132
+    created: '1286378553'
+    body: "Spot on Terry. I've written about forking before as well.\r\n\r\nYes, it can be a bit of a curse at times but as your article points out, it is the ultimate protection against the stuff being pulled by Sun/Oracle. Thank God for the GPL (whichever version you use). This fragmentation, as some might describe forking, is often sighted as one of the things that puts off non-political newbies - and there is some truth in that but it's a small price to pay for our software freedoms.\r\n\r\nIn the same vein,when Oracle took over Sun they also put the skids under OpenSolaris but the free software community \"forked\" that too. The glory of that distro was Btrfs and timeslider but these features are now being gradually incorporated into GNU/Linux now.\r\n\r\nE.M. Forster said, \"two cheers for democracy. Only the Platonic republic deserves three\". I think we can fairly add \"three cheers for forking\".\r\n\r\nI am planning an upgrade to or fresh install of Maverick Meerkat in the next week or so and if OpenOffice comes bundled, it's heading for a quick apt-get remove OpenOffice.org -P and being replaced by Libre Office."
+-
+    name: ajt
+    mail: ''
+    subject: 'Forks are good'
+    hostname: 195.112.55.75
+    created: '1286479914'
+    body: "Forks are very useful, without them eating would be messy! More seriously being able to fork a project gives the community a safety hatch.\r\n\r\nFor example there is only one version of Perl, anyone can fork it but no one bothers. Sun refused to release control of Java because they didn't want a fork, people haven't committed in the numbers they expected and the recent Oracle law suit now reinforces people's fear of something that isn't really free and fork-able.\r\n\r\nI agree that Oracle will probably let OO.org wither and die on the vine, I hope that the Go-oo community that has morphed into the libreOffice community will carry the project forward.\r\n\r\nThe fork keeps the \"dictator\" honest, no one wants to fork Linux and develop it themselves but because anyone can Linus and the big money that pay him and the other core developers have to stay honest.\r\n\r\n-- \r\nIt's not magic, it's work!"

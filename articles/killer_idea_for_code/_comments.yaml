@@ -1,0 +1,140 @@
+-
+    name: ''
+    mail: ''
+    subject: 'There''s certainly demand for such a thing'
+    hostname: 160.62.4.10
+    created: '1170937862'
+    body: "I'm learning coding myself, and putting my simple learning exercises on my blog as I go along.\r\n\r\nI get a surprising number of people coming in to those posts from Google searches for simple things like converting a number from one base to another. So a big site that had lots of examples would probably do pretty well."
+-
+    name: ''
+    mail: ''
+    subject: 'fundamentally agree'
+    hostname: 62.253.128.14
+    created: '1170945072'
+    body: "I've been thinking along a similar line for a while. For example \"The Ruby Way - book\" has almost two pages of ways to step through an array done as code snippets. On one hand it is useful (and in its context I think intended) to show the flexibility of the language and variety of ways to do things.\r\n\r\nBut I would like just one way shown for each, such as one way to iterate a range, one way to iterate each element of a container, one way to loop until a condition is met.\r\n\r\nAdditionally I want to mix onto it comparable constructs to other languages.\r\n\r\nWhat I haven't concluded is the best way to organise it to make it browsable as I think a layered browsing approach is more important to beginners or people wanting to glance through a new language than search ability."
+-
+    name: 'Steve 7'
+    mail: ''
+    subject: 'Could wikipedia or wikibooks be a possible solution'
+    hostname: 68.99.93.211
+    created: '1170947049'
+    body: "<a href=\"http://en.wikibooks.org/wiki/Main_Page\">Wiki Books</a>\r\n<a href=\"http://en.wikipedia.org/wiki/Main_Page\">Wikipedia</a>\r\n\r\nOr do you think that there needs to be a new single site effort with custom infrastructure to handle source code syntaxes\r\n\r\nPerhaps like the <a href=\"http://www.exampledepot.com/egs/index.html\">\"Java Developers Almanac\"</a> but more fleshed out, with best practices already in there. \r\nhttp://www.exampledepot.com/egs/index.html\r\n\r\nI have noticed most articles and books always state that this is not what you would want for a production system. So your idea would be to list a concept or task that woul dneed to be coded, and then have articles/entries showing how to do it.\r\n\r\nAllow for different lanuages doing the same thing. In your example link I would like to be able to find out how to do the same thing (Howto change a UNIX process and child process...) using python. \r\n\r\nPerhaps this could be folded into the <a href=\"http://www.google.com/codesearch\">http://www.google.com/codesearch</a> or <a href=\"http://code.google.com/\">http://code.google.com/</a> efforts."
+-
+    name: 'Steve 7'
+    mail: ''
+    subject: 'How bout Codecodex'
+    hostname: 68.99.93.211
+    created: '1170956927'
+    body: 'http://www.codecodex.com/wiki/index.php?title=Main_Page'
+-
+    name: ''
+    mail: ''
+    subject: 'For python learners'
+    hostname: 220.245.178.137
+    created: '1170999191'
+    body: '<a href="uselesspython.com">www.uselesspython.com</a> has a lot of very simple source code examples (and I can still honestly claim to be the largest single contributer with 7 scripts to my name, lol).  While learning python I went their numerous times, looked for a program that did what I wanted and just read the code to see how they did it.'
+-
+    name: ''
+    mail: ''
+    subject: 'Great idea.'
+    hostname: 204.15.85.162
+    created: '1171039804'
+    body: "I started my career as a developer using Perl. I quickly came to love and respect the CPAN repository. I believe it should be the envy of every other language. For those that are unfamiliar, CPAN houses a vast number of reusable libraries for the Perl programing language. If you need to get something done in Perl and you its something someone else has done before, you will find it on CPAN. I have never found anything like it for any other language. \r\n\r\nMy point in bringing this up is that such a site for ALL languages would be awesome for both the collection reusable code as well as an educational tool if it had the appropriate search tools.\r\n\r\nI have a server, time and some interest in seeing something like this develop. I have not started anything but would like to."
+-
+    name: ''
+    mail: ''
+    subject: 'Granted It''s Generally For Windows, But...'
+    hostname: 63.64.108.5
+    created: '1171051835'
+    body: "Checkout www.codeproject.com \r\n\r\nThat site currently has 3.7 million registered members, and almost 15,000 articles written by those members.  there's even some articles that aren't windows specific, and a lot of .net (Mono) stuff.  \r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Also O''Reilly and Prentice-Hall'
+    hostname: 206.124.29.13
+    created: '1171060251'
+    body: "I'm no programmer but it looks like O'Reilly's <a href=\"http://labs.oreilly.com/code/\">code search</a> is a good resource.  Also, all books in Prentice-Hall's <a href=\"http://www.phptr.com/promotions/promotion.asp?promo=1484\">Bruce Perens' Open Source Series</a> are released under the Open Publication License and may be a source for such a project.\r\n\r\nVance"
+-
+    name: ''
+    mail: ''
+    subject: 'google codesearch'
+    hostname: 80.171.183.51
+    created: '1171133544'
+    body: "Well, it would be much better if such a site was open itself, but much of the worlds open code is searchable via google (http://www.google.com/codesearch)\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'I Agree Completely'
+    hostname: 69.159.5.10
+    created: '1171138305'
+    body: "A lot of users do not even know how to compile source code, what it's doing etc, let alone how to read source code, let alone how to program.\r\n\r\nNo doubt that when developers tell people, \"if you don't like this, if you want something, etc. code it in yourself\" the users will be able to actually do that if a website exists that helps users learn the whole process and code from beginning to end."
+-
+    name: ''
+    mail: ''
+    subject: 'Missed a few?'
+    hostname: 82.74.223.207
+    created: '1171157824'
+    body: 'I can''t imagine you missed <a href="http://www.google.com/codesearch">Google Codesearch</a> or <a href="http://www.bigbold.com/snippets/">Bigbold Snippets</a>? It sounds like that''s what you''re looking for.'
+-
+    name: ''
+    mail: ''
+    subject: 'Krugle is there...'
+    hostname: 202.54.176.51
+    created: '1171339074'
+    body: 'http://www.krugle.com/ has a large code repository with nice interface to browse'
+-
+    name: raseel
+    mail: ''
+    subject: 'Easier said than done !!'
+    hostname: 203.124.159.50
+    created: '1171349745'
+    body: "Albeit the fact that this i a great idea, maintaining such a project would require some serious resources. Also. a lot of other trivial things like IPR, cpoyrights, liscence, etc. might interfere.\r\nJust my 2 cents.\r\n\r\nRaseel\r\nhttp://itvidya.com/blog/raseel"
+-
+    name: ''
+    mail: ''
+    subject: 'thanks for linking to my site'
+    hostname: 80.192.20.40
+    created: '1171366342'
+    body: "Hi Anthony. \r\n\r\nMany thanks for linking to my website. But the link that was more directly of interest to you was: <a href=\"http://codes.widged.com/\">codes.widged.com</a>. That provides a set of small code snippets to solve specific problems ;-). Comments and suggestions on how to improve this are welcome. Note that this kind of service abound. Check out <a href=\"http://snipplr.com/\">snipplr</a> for a nice web2.0 version.\r\n\r\nOn this \"Most importantly, it results in an open education framework, in which the code snippets can be reviewed and criticized, and the educational materials may be periodically revised to match the evolving world. It can become a resource for the experienced programmer looking for the best method to accomplish a specific task. (A recent example from my own world: how do you alter the process name of a running process?)\"\r\n\r\nWhat is needed, I believe, is not so much code snippets but the expression of many education problems in terms of design patterns. There is some explanation of what is implied by this at <a href=\"http://revolution.widged.com/wiki/tiki-index.php?page=exercistDesignPattern\">Design Patterns for Exercise Content</a>. There is a live example on my <a href=\"http://projects.widged.com/exercist/drupal/?q=taxonomy/term/6\">exercist project cms</a>. You cannot edit them for now (I mean you have to contact me to become an editor) but editing is done via a very simple form, that even the most technophobe teacher could manage. \r\n\r\nOn opencourseware, please visit the excellent website of my friend Gordon, <a href=\"http://iberry.widged.com/\">iberry.com</a>, the academic porthole, an Open Courseware Directory and other Higher Education Resources. \r\n\r\nI have been an academic for 10 years. I taught in the best universities. I became a drop out because I got fed up of the right tools and infrastructures not existing. I am trying to set them up, one by one... but I started only a year ago and this takes time. Anybody interested in doing something similar is welcome to contact me to try to synchronize our efforts ;-). "
+-
+    name: ''
+    mail: ''
+    subject: 'thanks for linking to my site'
+    hostname: 80.192.20.40
+    created: '1171366488'
+    body: "Hi Anthony. \r\n\r\nMany thanks for linking to my website. But the link that was more directly of interest to you was: <a href=\"http://codes.widged.com/\">codes.widged.com</a>. That provides a set of small code snippets to solve specific problems ;-). Comments and suggestions on how to improve this are welcome. Note that this kind of service abound. Check out <a href=\"http://snipplr.com/\">snipplr</a> for a nice web2.0 version.\r\n\r\nOn this \"Most importantly, it results in an open education framework, in which the code snippets can be reviewed and criticized, and the educational materials may be periodically revised to match the evolving world. It can become a resource for the experienced programmer looking for the best method to accomplish a specific task. (A recent example from my own world: how do you alter the process name of a running process?)\"\r\n\r\nWhat is needed, I believe, is not so much code snippets but the expression of many education problems in terms of design patterns. There is some explanation of what is implied by this at <a href=\"http://revolution.widged.com/wiki/tiki-index.php?page=exercistDesignPattern\">Design Patterns for Exercise Content</a>\r\n\r\nThere is a live example on my <a href=\"http://projects.widged.com/exercist/drupal/?q=taxonomy/term/6%2B7%2B8%2B5%2B4\">exercist project cms</a>\r\n\r\nYou cannot edit them for now (I mean you have to contact me to become an editor) but editing is done via a very simple form, that even the most technophobe teacher could manage. \r\n\r\nOn opencourseware, please visit the excellent website of my friend Gordon, <a href=\"http://iberry.widged.com/\">iberry.com</a>, the academic porthole, an Open Courseware Directory and other Higher Education Resources. \r\n\r\nI have been an academic for 10 years. I taught in the best universities. I became a drop out because I got fed up of the right tools and infrastructures not existing. I am trying to set them up, one by one... but I started only a year ago and this takes time. Anybody interested in doing something similar is welcome to contact me to try to synchronize our efforts ;-). "
+-
+    name: marielle
+    mail: ''
+    subject: 'thanks for linking to my site :-)'
+    hostname: 80.192.20.40
+    created: '1171367786'
+    body: "Many thanks for linking to my website. But the link that was more directly of interest to you was: <a href=\"http://codes.widged.com/\">codes.widged.com</a>. That provides a set of small code snippets to solve specific problems ;-). Comments and suggestions on how to improve this are welcome. \r\n\r\nCheck out <a href=\"http://snipplr.com/\">snipplr</a> for a nice web2.0 version of codes repository\r\n----------------------------------------\r\nMarielle Lange (PhD),  http://widged.com\r\nBite-size Applications for Education"
+-
+    name: marielle
+    mail: ''
+    subject: 'design patterns could be more useful than collections of codes'
+    hostname: 80.192.20.40
+    created: '1171367849'
+    body: "On this \"Most importantly, it results in an open education framework, in which the code snippets can be reviewed and criticized, and the educational materials may be periodically revised to match the evolving world. It can become a resource for the experienced programmer looking for the best method to accomplish a specific task. (A recent example from my own world: how do you alter the process name of a running process?)\"\r\n\r\nWhat is needed, I believe, is not so much code snippets but the expression of many education problems in terms of design patterns. There is some explanation of what is implied by this at <a href=\"http://revolution.widged.com/wiki/tiki-index.php?page=exercistDesignPattern\">Design Patterns for Exercise Content</a>. There is a live example on my <a href=\"http://projects.widged.com/exercist/drupal/?q=taxonomy/term/6%2B7%2B8%2B5%2B4\">exercist project cms</a>. You cannot edit them for now (I mean you have to contact me to become an editor) but editing is done via a very simple form, that even the most technophobe teacher could manage. \r\n"
+-
+    name: marielle
+    mail: ''
+    subject: opencourseware
+    hostname: 80.192.20.40
+    created: '1171367989'
+    body: "On opencourseware, please visit the excellent website of my friend Gordon, <a href=\"http://iberry.widged.com/\">iberry.com</a>, the academic porthole, an Open Courseware Directory and other Higher Education Resources. \r\n\r\nHe is in the process of reorganizing the content to take advantage of the nice taxonomy features of drupal <a href=\"http://iberry.widged.com/cms/\">iberry next generation, version alpha</a>\r\n\r\nIf you know of good resources, use the comment posting facility there to let Gordon know of these."
+-
+    name: marielle
+    mail: ''
+    subject: 'teachers need resources designed for them'
+    hostname: 80.192.20.40
+    created: '1171368705'
+    body: "On the link you give. The fairly linear structure of a wiki is not really good to organize bookmarks. All bookmarks will be reorganized with foksonomy tagging and presented within a web 2.0 interface. But I this will take me a few weeks to finish (more exactly, this will take me a few weeks to finish other projects before I can work on that one). You can see an early draft at <a href=\"http://projects.widged.com/exercist/assets/bookmarks/\">education bookmarks</a>, which gives you access to my personal collection of bookmarks.\r\n\r\nIf you type in etivities in the first box... then you will get a huge list of websites which contain examples of codes for learning activities. There is more on the reved wiki, under <a href=\"http://revolution.widged.com/wiki/tiki-index.php?page=TechnologiesSnippets\">Snippets & Templates</a>.\r\n\r\nI could do with helping hands... I am too busy for now with other projects like writing educational software and working on some ideas for a viral education game. \r\n\r\nWell, I have been an academic for 10 years. I taught in the best universities. I became a drop out because I got fed up of the right tools and infrastructures not existing. The problem within education is not about making codes and snippets available to teachers. The problem within education is that many teachers have great things to contribute but most cannot because of technical obstacles. You also have to take into account that most resources like koders or snipplr are not adequate for a teacher community. They simply don't have the time (or even not the interest) to browse through these large collections. You can estimate that a teacher has an hour or perhaps two to waste in a week. Not much more.\r\n\r\nI am trying to design tools that let teachers do what they do best, create great content without having to become technical expert or design experts or being expected to spend long hours commenting, rating, or contributing resources to the community (like asking them to provide learning object metadata or uploading their courseware onto a directory, which most do not, however keen they are on the idea of free and open software -- I know, I didn't do it myself, I was simply too busy when working as an academic). \r\n\r\nHowever, this takes time set them up, one by one,and I started only a year ago and this takes time. And I need to intermix these activities that bring no money with others that help me earn a living, somehow.\r\n\r\nAnybody interested in doing something similar is welcome to contact me to try to synchronize our efforts ;-). "
+-
+    name: marielle
+    mail: ''
+    subject: 'Problem of the gap between practitioners and experts'
+    hostname: 80.192.20.40
+    created: '1171369629'
+    body: "My own understanding of the obstacles to the development of better resources within the education arena is described here <a href=\"http://projects.widged.com/exercist/drupal/?q=node/721\">The Problems that eXercist is trying to solve</a>. The pyramid graphic there is relevant to an educational context in general, not just this exercist project. I would be interested to hear comments on this. \r\n\r\nOn open source code/software relevant to education, don't forget to check out <a href=\"http://eduforge.org/\">eduforge.org</a>. \"Eduforge is an open access environment designed for the sharing of ideas, research outcomes, open content and open source software for education. You are welcome to use our community resources or start your own project space.\" Nothing prevents you from using it to share code rather than full software."

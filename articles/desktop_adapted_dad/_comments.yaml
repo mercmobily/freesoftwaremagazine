@@ -1,0 +1,28 @@
+-
+    name: bogdanbiv
+    mail: ''
+    subject: 'I meant to vote for your piece, not against.'
+    hostname: 84.232.162.165
+    created: '1226905524'
+    body: "Darn, I pressed the wrong button! Sorry!\r\n"
+-
+    name: ajt
+    mail: ''
+    subject: 'Not to worry'
+    hostname: 195.112.55.75
+    created: '1227210898'
+    body: "I think I can live with a negative vote...!\r\n\r\nMore importantly I hope you found my DAD articles useful or interesting?\r\n\r\n-- \r\nIt's not magic, it's work!"
+-
+    name: Huan
+    mail: ''
+    subject: 'Work had some old desktop'
+    hostname: 86.100.82.246
+    created: '1285696153'
+    body: 'Work had some old desktop PCs going spare and I set one up for my father. Mostly because I didn''t want to have to remote admin a Windows machine I decided to install Debian on it.'
+-
+    name: ajt
+    mail: ''
+    subject: 'SSH is your friend'
+    hostname: 195.145.135.28
+    created: '1286539167'
+    body: "Windows not having built-in easy remote administration and security was a serious reason why I selected Linux. Debian GNU/Linux came with all the bits my father needed, all built-in and fully supported without any extra bits to maintain.\r\n\r\nGood luck with your installation, hope it's as successful as the deployment I did for my father.\r\n\r\n-- \r\nIt's not magic, it's work!"

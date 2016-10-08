@@ -1,0 +1,42 @@
+-
+    name: ccady
+    mail: ''
+    subject: 'If you''re writing something'
+    hostname: 24.4.191.6
+    created: '1144162567'
+    body: "If you're writing something big, or something complex, you more than likely want to use pre-written, pre-tested code.  But, there is the occasional task where everything you might use is just too big, hairy and complex, and you just need a simple solution.\r\n\r\nFor example, our company needed a very simple task recording and issue tracking web application, and we needed the results to be kept in a (hiss) SQL Server database.  Now, there definitely are applications out there which could do this, but what we wanted was so basic in comparison to the applications we found that it was worth our time to create the application ourselves.  And we did.  And it works like a champ.\r\n\r\nIf what you want is a very simple wheel, and all you can find are complex ones, I suggest you consider reinventing it."
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: "Hi,\nMaybe you're right."
+    hostname: 203.166.225.55
+    created: '1144238418'
+    body: "Hi,\r\n\r\nMaybe you're right. Maybe some wheels do need to be reinvented.\r\nHowever, I can guarantee that <i>this</i> particular one didn't :-D\r\n\r\nThe site runs on Drupal now, and it's absolutely fantastic.\r\n\r\nBye!\r\n\r\nMerc."
+-
+    name: 'Tom Chance'
+    mail: ''
+    subject: "Ahoy,\nIt would be great if"
+    hostname: 62.252.64.30
+    created: '1144338796'
+    body: "Ahoy,\r\n\r\nIt would be great if you could put together a page listing your customisations to Drupal, especially where you've introduced new modules. I'm sure lots of people would be interested in your system for peer review with good support for revisions, and also just a guide for those who are relatively new to Drupal.\r\n\r\nDisclaimer: I'm setting up a journal for the student grassroots network <a href=\"http://www.peopleandplanet.org\">People & Planet</a> at the moment with Drupal, so I have a special interest in what you've done ;)"
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: "Hi,\nWe are working on it!\nWe"
+    hostname: 203.166.225.55
+    created: '1144399342'
+    body: "Hi,\r\n\r\nWe are working on it!\r\nWe need to test the module a LOT more first - it's just too immature right now.\r\n\r\nPlease write to me in about a month!\r\n\r\nMerc."
+-
+    name: mixmac
+    mail: ''
+    subject: 'another running wheel'
+    hostname: 202.136.246.77
+    created: '1144732962'
+    body: "hi tony\r\n\r\nyou made the choice of drupal, which i do not know/use more than this.\r\n\r\nMy choice for years has been <a href=\"http://www.spip.net/en\">spip</a>, a CMS meant to publish \"editorial\" websites, including a powerful backoffice (three kind of reg users : admin, writers, visitors), versioning management of articles, peer-reviewing mechanisms, websites syndication, etc.\r\n\r\nspip started about 8 or 9 years ago in france. it became a huge multilingual community since (you can pay a visit to <a href=\"http://www.spip-contrib.net/\">spip-contrib</a>, the spip webmasters support site to get the picture).\r\n\r\nbtw, spip is released under the gpl.\r\n\r\n]m["
+-
+    name: paulbaranowski
+    mail: ''
+    subject: 'A CMS for Magazines and Newspapers'
+    hostname: 87.192.85.214
+    created: '1144836590'
+    body: "Another CMS written specifically for magazines and newspapers is Campsite (http://www.campware.org).  It understands what \"issues\" are, workflow, fine-grained access control for the backend, subscription management, RSS, and multi-lingual content.  It's also released under the GPL and has a team of full-time developers working on it.  (Disclaimer: I'm one of those developers :) )  It's in use by many real-world publishers around the world and a lot of work has gone into making it easy to use (e.g. for the journalist who just got his first computer yesterday). \r\n\r\nIf you want to give it look (the backend admin interface), check it out here:\r\nhttp://campsite-demo.campware.org/admin/\r\n \r\nDifferent CMS's have different strengths: some are for community portals, some are for blogs, some are for posting photos.  Campsite is for publishing magazines and newspapers.  Give it a look and let us know what you think!  "

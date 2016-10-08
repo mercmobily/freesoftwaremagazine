@@ -1,0 +1,49 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Missed aspect'
+    hostname: 203.97.103.206
+    created: '1161167091'
+    body: "I feel,one of the important parts of the FlightGear  experienced you missed was the awesome community. Multiple forums for the level of involvement you desire, numerous enhancement databases (scenery, aircraft and landcover) and an IRC channel also network enabled flying aids like Atlas. I have been involved with the FlightGear community for about 2 years now and have focussed on developing scenery for New Zealand. Initially NZ was a barren waste land as far as scenery went, I have added my own enhancements  (Ref: http://fgfsnz.blogspot.com/) and with the TaxiDraw, FG Tools and FG Scenery Designer utilities have enhanced the local flying experience with 3D ports, antenna structures and airport skybridges and static aircraft models. Adding AI models both of aircraft and scenery is a breeze. \r\n\r\nAgree that what you put into getting the most out of your hardware has a direct relationship to what you'll get out of FlightGear\r\n\r\nHave I missed anything? be hard pushed to think of a down side? For anyone who enjoys contributing as well as using, then FlightGear is well worth a try.  \r\nCheers\r\nZK-DENE"
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: 'Yes, I agree an awesome'
+    hostname: 213.46.16.239
+    created: '1161419734'
+    body: "Yes, I agree an awesome community and a realistic flight experience (with the right hardware).\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Suggestions for future software reviews'
+    hostname: 82.83.140.240
+    created: '1162346338'
+    body: "Hi, this indeed a nice review about Flightgear-however, admittedly I did miss some few things in this review and the following is really not intended as criticism as much as \"constructive feedback\" for possible future software reviews: \r\n\r\nWhen reading a review about software, it is in my opinion always appropriate to add information about what version of the corresponding software was reviewed, where it was obtained from, in what format is was obtained (binary/source), for which platform (this applies in particular to multi-platform software) and if it was built from source, how this was done and what dependencies had to be satisfied first, also providing a general overview of the test platform (as you did later on in the review) directly at the start of the review is probably a good idea as it enables readers to directly compare the corresponding test platform with their own machine (this is even moreso important for reviews about games or simulators, as hardware requirements can be extreme). \r\n\r\nWhile you did indeed provide some of this info, I feel that providing this info in an easily accessible/viewable fashion (i.e. at one glance) is particularly important when reviewing games or software in general. Adding a date to the review that illustrates when the actual review took place is usually also a good idea to help future readers put things into perspective.\r\n\r\nLikewise, I'm usually not only interested in the (relevant) previous experience of the reviewees (i.e. your flight simulator/aviation and computer background in this case) but also -if at all possible- in a comparison of the reviewed piece of software against other existing solutions (whether opensource or commercial doesn't really matter all that much). While of course nobody should truly expect an exhaustive review, even comparing some few things with approaches in other software may really help getting a better understanding of the software as a whole, even if it's just from a user's perspective.\r\n\r\nAlso, why I fully realize that providing criticism (or feedback) in general can be a controversial thing to do, I feel that positive reviews such as yours could gain quality if they actually contained an objective discussion about the (very) obvious strengths and weaknesses you were able to identify during the process of reviewing the corresponding piece of software.\r\n\r\nMy personal experience has been that while some few types of developers undoubtedly consider this unnecessary, many other contributors surely appreciate constructive feedback from people who are not affiliated with the project and provide an insight into their project from an outside perspective.\r\n\r\nIn particular, because it is this sort of info that enables users of other software (i.e. other flight simulators) to actually compare the strengths and weaknesses of Flightgear against the proprietary product they may be using right now.\r\n\r\nAgain, this is really not about writing exhaustive reviews, rather only about noting down the key issues you've encountered and your personal impressions about apparent pros & cons in the software.\r\n\r\nI'm only saying this because a good review of open source software -such as yours about the flightgear simulator- has inevitably some sort of \"momentum\" (for the lack of a better word) for the community around the project where it could be used to unite resources to address key issues mentioned in the review, so that it would really be a waste not to associate this momentum with some honest and <em>good</em> advice for the sake of the project.\r\n\r\nThanks again for your review, and please do take these lines as what they were meant to be: objective feedback.\r\n\r\nMike\r\n\r\n"
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: 'Objective feedback accepted'
+    hostname: 145.18.144.17
+    created: '1162366716'
+    body: "Hi Mike,\r\n\r\nthanks for your quality effort to communicate, a good read. I will reread your targeted criticisms again before my next reviews."
+-
+    name: Pollywog
+    mail: ''
+    subject: 'good info - thanks'
+    hostname: 69.12.173.117
+    created: '1163450304'
+    body: "I had been wondering whether there were such things as this simulator for Linux.\r\nI am going to try it out."
+-
+    name: thumperward
+    mail: ''
+    subject: 'A "tar gunzip file"?'
+    hostname: 82.41.153.28
+    created: '1164481852'
+    body: "The article states that new planes are available by downloading a \"tar gunzip\" file. gunzip (GNU unzip) is the program used to decompress gzip archives, not the archive name.\r\n\r\n - Chris\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: max_t77@hotmail.com
+    subject: 'How do you connect online again my wont work'
+    hostname: 67.182.243.202
+    created: '1191032544'
+    body: "plz somone show me how to connect online to flightgear\r\n"

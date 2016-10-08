@@ -1,0 +1,112 @@
+-
+    name: scottc
+    mail: ''
+    subject: 'Right on'
+    hostname: 66.41.2.157
+    created: '1155156154'
+    body: "In my tentative experiments with GNU/Linux over the years, I've always felt like I needed to master the CLI first, and I think this is one of the reasons I've been slow in making progress.  It seems overwhelming and easier to put off for tomorrow.  The way I learned Windows was to have this GUI that does most of the work for me and then gradually learn what goes on underneath.  I think people want to be able to do things right away.  Today.  I want my MTV and my instant gratification.  I do software development for my job both in Windows and on Unix/Linux servers and I muddle around with command line programs, but it's more natural for me to start from the ease and safety of a GUI.\r\n\r\nBut even though I like the GUI, I do want that command line interface underneath.  And what you suggest sounds like a good idea -- that the GUI should be better designed to help me learn the underlying complexities.\r\n\r\nHowever, while that might work for me, a kind of user-developer hybrid, and while I don't want to keep people in the ghetto, I just can't imagine most people wanting to learn this stuff.  So it becomes a question of how do you make a useable program without overwhelming the person who just doesn't have an inclination to understand the nuts and bolts?\r\n\r\n(As a vague side note slash tangent, I also think we should reject the often-made comparison with the car, that computers are like cars in that people used to know more about them and now they don't and they don't need to.  I believe that is mostly true for cars.  I don't need to know the details of how my car works.  It's a specialized device that really only does one thing: move stuff from one place to another.  Computers of course are so much more, and knowing more about them will enable people do a lot more, to their great benefit.  When you start closing down options to make things easier for the user, you're preventing them from doing as many things, where if I don't understand how my internal combustion engine works, I can still get from point A to B.)\r\n\r\n----\r\nScott C.\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"However, while that might'
+    hostname: 68.93.224.4
+    created: '1155172797'
+    body: "\"However, while that might work for me, a kind of user-developer hybrid, and while I don't want to keep people in the ghetto, I just can't imagine most people wanting to learn this stuff. So it becomes a question of how do you make a useable program without overwhelming the person who just doesn't have an inclination to understand the nuts and bolts?\"\r\n\r\nHere's an example I just thought of: what about the \"Javascript Console\" in Mozilla? You can launch this little window, and it will display the output from the Javascript in a webpage as you load it.\r\n\r\nWhy not have a GUI console that shows the messages as they go by for a front-end program? Or why not include the locations of key configuration files in the documentation accessible from the \"Help\" menu available in most GUI applications?\r\n\r\nI think there are a lot of different ways to make this information accessible without having to break stuff or make it difficult to use for pure GUI users. Most of these things would probably make the programs easier to debug and test, too.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'DOS works, but you can''t'
+    hostname: 71.197.20.203
+    created: '1155176333'
+    body: 'DOS works, but you can''t expect all people to learn DOS commands. I can work in DOS, but would also like to have the opportunity to learn *nix commands---even if I have a prompter to assist my learning curve.'
+-
+    name: scottc
+    mail: ''
+    subject: 'Absolutely.  Consoles and'
+    hostname: 66.41.2.157
+    created: '1155177281'
+    body: "Absolutely.  Consoles and accessible logs are good things.  Anything that lets you dig when you're ready and interested.\r\n\r\n(That's one of the frustrating things to me about Windows -- that you often have a hard time finding out what is going on.  The contrast between Windows and Unix is striking to me.  It seems like Windows and most Windows applications are stuck in binary.  You can't grep through and examine flat files.  It all has to be in some incomprehensible undocumented format, and when the tools provided fail you... good luck.  I think this is why the prescription for a problem is so often to reinstall software on Windows.  Whereas on the *nix servers, there are all kinds of tools you can use and most things are documented and accessible.  Things are modular and you don't have the monstrosity of the Windows registry.)\r\n\r\nIt would be good to have these consoles or other helpers, but I think there's the old challenge -- what's the incentive for free software volunteers to provide this functionality when it takes additional time and doesn't especially benefit them personally?\r\n\r\n----\r\nScott C.\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'Old GUI did this'
+    hostname: 81.56.120.37
+    created: '1155186903'
+    body: "I remember that on HP-UX, the configuration application (a GUI) did it like this: each command that was applied was logged and if you were curious about which modification was made under the hood, you could just read the log (from the application itself, no need to search for the log file).\r\n\r\nI remember being pissed at Mandrake whose GUI application to update the rpm was just a shell over a command, but this wasn't written in the 'About' section so I didn't know this and lost quite a lot of time over this crashing GUI whereas the command line conterpart was more useful.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'saving gvim font selections'
+    hostname: 60.231.55.39
+    created: '1155189796'
+    body: "All you have to do is set the font you want on a blank page, then save the session using the icon and a memorable name. When you start gvim load the session and voila. This way you can change settings to suit different documents, codings, etc. And all through the GUI.\r\n\r\nI imagine that having access to the source, you could add your other needed features even using something as rudimentary as an xdialog window listening to your application output. You could add a command line option to switch it on.\r\n\r\nIf you need a fully featured fast prototyping IDE, try Runtime Revolution for Linux for an easy scripting based method which also allows one to access shell commands. Once you have the runtime prototype tested and approved you can use an Open Source IDE to finalise the project.\r\n\r\nI like Linux because you can put your ideas into practice and then share them with the rest of the community."
+-
+    name: ''
+    mail: ''
+    subject: 'kde saves everything in ~/.kde'
+    hostname: 83.148.235.144
+    created: '1155192963'
+    body: 'no different than any other wm.'
+-
+    name: ''
+    mail: ''
+    subject: 'Printer friendly'
+    hostname: 71.0.196.213
+    created: '1155211728'
+    body: "It would be nice to have a printerfriendly option for those of us who have trouble reading large amounts from a screen.\r\n\r\nHenry Keultjes"
+-
+    name: 'Robert Romberger'
+    mail: ''
+    subject: 'Knowing where to look'
+    hostname: 207.233.102.21
+    created: '1155229244'
+    body: "Sometimes the information you seek is there, you just don't know where to look for it. In the case of gvim, you need to be able to go to command mode - press the esc key, then type :set and enter. You will then see the guifont setting with all of the proper modifiers. Once you have that info, just open up another gvim instance and edit your .vimrc (for MS Windows _vimrc) and then, on a blank line, type in \"set guifont=...\" (example: sets my guifont to DejaVu Sans Mono type with a size of 10 - \"set guifont=DejaVu_Sans_Mono:h10:cANSI\"). Save the file and exit all of the gvim windows, then restart gvim to show that you have set the guifont to what you wanted.\r\n\r\nWhile you picked on gvim, as well as KDE, sort of, I don't think many users understand that most of the FOSS packages use plain text configuration files. For the most part, changes to the configuration are saved in the program's config file whether or not the change was made using a gui or the cli - gvim doesn't save the guifont setting automatically in MS Windows, you have to edit the config file to put it in for subsequent use. Because the configuration file is plain text, you can add, change, remove, etc. settings to make the program work exactly like you want it to. The secret \"developer knowledge\" is knowing where to look for the configuration file and what the syntax is to make proper changes. That is where good documentation and/or internal help is necessary.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'and to shine some light on those configs'
+    hostname: 70.72.22.107
+    created: '1155233519'
+    body: "if one looks in `kde-config --prefix`/share/config.kcfg you'll find a bunch of xml files that describe various settings. the names of the files are generally the name of the apps. you can find all sorts of cute things in there.\r\n\r\nthat said, it is quite true that most cli frontends hide everything about those backends. which is unfortunate for power users. and of course it's not just cli frontends, it's network apps as well. i absolutely how kontact and the various kde pim apps have a little arrow in the status bar which, when clicked, pops up a nice widget saying what it is doing on the network, one entry per activity.\r\n\r\namarok does similar things as well... for those who couldn't care less these notifications are simply \"not there\" but for those who want or need (think: troubleshooting) to get to that info it's pretty darn useful."
+-
+    name: ''
+    mail: ''
+    subject: Standardization
+    hostname: 212.89.234.74
+    created: '1155294608'
+    body: 'This "revelation" feature is a great idea but it will only be useful if it works consistently across applications. I would suggest a "Session Log..." entry under the "Help" menu, right before "About..." - of course, there may be a more intuitive name than "Session Log" :-)'
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'Yes'
+    hostname: 200.75.226.160
+    created: '1155302354'
+    body: "Hello,\r\n\r\nIt's in the web site's todo list. We will add it as soon as we can!\r\n\r\nMerc.\r\n(Admin)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Yeah, I know ... whoa'
+    hostname: 68.93.224.4
+    created: '1155319416'
+    body: "Yeah, I know where KDE puts its config files, but have you <em>looked</em> under .kde?\r\n\r\nIt's \"a maze of twisty passages, all alike\", as they say.\r\n\r\nI'm sure it's possible to find your way around after a great deal of searching, but it shouldn't be that hard. Obviously every component in KDE knows where it needs to look to find its config files. The person writing the GUI must have access to that knowledge all during the process of designing the GUI.\r\n\r\nSo the idea is simply to share that info with the end user. You shouldn't <em>have</em> to know it, to use the GUI, but there should be an easy way for <em>a non-programmer end user</em> to come across it. Why a \"non-programmer\"? Because the whole point is that this is how we get people to want to <em>become</em> programmers!\r\n\r\nAnyway, that needs to be something in the GUI.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"That''s one of the'
+    hostname: 68.93.224.4
+    created: '1155320091'
+    body: "\"That's one of the frustrating things to me about Windows -- that you often have a \r\nhard time finding out what is going on.\"\r\n\r\nI mostly quit using Windows about when Win 3.1 was going out of style (that'd be 2000, for me ;-) ), and I knew my way around the WIN.INI and SYSTEM.INI files. But then they got sneaky and started doing everything through this new \"registry\" thing. One of many reasons I bailed out at that point.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Knowing where to look'
+    hostname: 68.93.224.4
+    created: '1155321496'
+    body: "Thanks for the tip! I didn't think of trying that, though it makes sense (works the same way as environment variables in most shells).\r\n\r\n\"While you picked on gvim, as well as KDE, sort of,\"\r\n\r\nPlease understand that I only \"picked on\" those because they were ready examples. I can think of few applications that work like I'm suggesting.\r\n\r\nEven FVWM doesn't do it right, because it doesn't provide the GUI in the first place.\r\n\r\nThe point is that KDE eliminated the necessity of editing the config files directly, making it easier for an end user to change configuration without having to acquire expert knowledge. But since that eliminated the need for end users to understand the config files, it caused two distancing processes: one, the priority for documenting the config files was greatly reduced; and two, there was no longer any obligation to keep their design simple (since only 'experts' would have to mess with them).\r\n\r\nIt's better than just having scripts (otherwise, I'd still be using FVWM, wouldn't I?), but it's not as good as it could be, nor is it doing exactly what we want from free software, IMHO.\r\n\r\nI think that free software GUI design is mostly derivative of proprietary GUI design. Everybody says \"Windows is easy to use\" so we copy it. But I think we copied a little too much -- the values, as well as the engineering.\r\n\r\nIt's just one idea, but it makes me think that we should re-examine some of our ideas about how GUIs should work. While people are currently thinking about things like \"better 3D eye candy\", I think maybe ideas like this should be in the mix, too.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Standardization
+    hostname: 68.93.224.4
+    created: '1155322048'
+    body: "That makes sense. Maybe \"Command Log\" or just \"Log\" would be reasonable, but \"Session Log\" makes sense to me, too.\r\n\r\nOf course, not every GUI app is a front-end with a CLI backend, so you can't always have that. Sometimes, there's just a configuration state stored in a file, and you have something more like a DOM, where it's easier to keep track of the state than of the changes.\r\n\r\nInkscape, for example, has a tool for editing the XML content of the SVG file you're working on, which is pretty impressive (of course that's the document, not Inkscape's config file).\r\n\r\nAn even lighter-weight solution is to just include the location of the config files in some item under \"Help\". Say \"hacking\" or \"scripting\" or just \"config\". Or it could be in the text on the Preferences menu (usually under \"edit\"), since that's where you change the configuration with the GUI.\r\n\r\nAnyway, it'd have to be a GUI guideline, and it would take time for it to get around, no matter what approach was taken."

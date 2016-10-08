@@ -1,0 +1,28 @@
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'But it''s worth it ... well, maybe.'
+    hostname: 82.108.129.98
+    created: '1152108531'
+    body: "<cite>Darn it, being a responsible Web developer is hard sometimes...</cite>\r\n\r\nI whole-heartedly agree. We're currently progressing moving our website to CMS - naturally we're using a FOSS one (exponent). One of the things I was keen to do was avoid (heck - ban) the use of tables and produce the whole thing using CSS .\r\n\r\nWe're using the so-called \"holy grail\", 3-column layout and trying to get this to render even remotely the same in each of the four main browser engines is a thankless task. Aside from the IE hacks you need to put into the CSS - which of course make it non-compliant with W3C standards, I've also come across a lot of issues between Opera/KHTML/Gecko.\r\n\r\nIn the end, though it's worth it as we'll have a site which will be wholly usable by all web users on their terms (OS, interface, browser, font preferences etc.) and with content manageable by our staff.\r\n\r\nAt least that's what I keep telling myself when I get bogged down figuring out why ltr renders wrong in Konqueror but right in Firefox, Opera and even Safari (IE? just don't go there!).\r\n\r\nA good post though. :o)\r\n\r\n"
+-
+    name: nederhoed
+    mail: ''
+    subject: 'Validate while developing'
+    hostname: 80.126.106.4
+    created: '1152264743'
+    body: "Have you tried validating your pages while developing?\r\n\r\n<ul>\r\n <li><a href=\"https://addons.mozilla.org/firefox/249/\">Firefox Validation Extension</a></li>\r\n <li><a href=\"http://validator.w3.org/\">W3C validation</a></li>\r\n</ul>\r\n\r\nI think using 'text/html' as mime-type with an XHTML DOCTYPE in every page should work fine.\r\n\r\n\r\nGood luck! Robert R.\r\n\r\n--\r\nWorking on being\r\n<a href=\"http://nederhoed.com/weblog/\">http://nederhoed.com/weblog/</a>"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'using text/html on all pages is fine... not!'
+    hostname: 84.100.56.81
+    created: '1153085249'
+    body: "The problem with using text/html with an XHTML 1.1 page is that there ARE differences between HTML4, XHTML 1.0 Strict and XHTML 1.1. One thing for example, 'object' stacking - allowing elegant fallback cascades of content (animated SVG => Apple Flash => JPEG...) wouldn't be supported by an HTML4 browser and would likely crash it.\r\n\r\nEven worse, your carefully crafted XHTML page would be rendered using Quirks mode, due to it containing a DOCTYPE incompatible with its mimetype.\r\n\r\nI actually tried all validators: all those using an XML validator failed due to incorrect mimetype with text/html. Using text/xml or better solved the problem. Those using an SGML validator (like W3C's) don't take the DOCTYPE into account due to them being SYNTAX (not structure) validator.\r\n\r\nActually, Firefox detects errors in case of incorrect mimetype: try using an anchor written this way: 'a id='thing' /'; it would be perfectly legal in XHTML1.1, but in HTML (or XHTML using text/html) the tag would be considered open until it met another 'a' tag.\r\n\r\nAnd Firefox does (starting with version 2.0; I submitted a bug report for 1.5, and it was solved in Bon Echo) highlight the slash '/'.\r\n\r\nMeaning that no, using text/html with XHTML1.1 isn't fine. And it only gets worse when embedding SVG or MathML.\r\n\r\nCheers!\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'The four main engines...'
+    hostname: 84.100.56.81
+    created: '1153085816'
+    body: "Heed my advice: remove as many DIVs as you can - it will solve most of the problems with Konqueror. Instead, don't hesitate to apply CSS to tags, even converting inline elements to blocks if need be. Don't use classes too much, but define id's for some primary layout elements and set styles for their children (like #leftcolumn {} #leftcolumn h2{display:block})\r\nCreate a single CSS file for Gecko, Konq and Opera (not too difficult), then only at the end  try to fix it for IE6 (IE7 reacts a lot like Opera). Don't hesitate to use the * html hack, and experiment with CSS expressions (the only IE6 CSS abuse that may become part of CSS3 specs...)\r\nIt worked not too badly on a 4-parts layout I recently cleaned up.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."

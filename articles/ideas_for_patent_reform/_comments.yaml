@@ -1,0 +1,77 @@
+-
+    name: 'An Anonymous Coward'
+    mail: wikipediankiba@gmail.com
+    subject: 'You can''t fix the patent'
+    hostname: 68.219.23.18
+    created: '1180130167'
+    body: "You can't fix the patent system.\r\n\r\nThe only way is to destory in its entirely.\r\n\r\nEven great innovations that are patented are detereant to innovations.\r\n\r\nAn example is James Watt, the guy who vastly improve the steam engine and credited for starting the industrial revolution.\r\n\r\nBut you know what he also did? He also stop innovators from building on his work and delay the industrail revolution.\r\n\r\nHe is just one of the many clever innovators in that age....who unfortunately allocate his resource to building a monopoly instead of innovating (And got there first).\r\n\r\nA patent is intellectual monopoly."
+-
+    name: 'Crosbie Fitch'
+    mail: ''
+    subject: 'What a defeatist attitude!'
+    hostname: 81.153.164.134
+    created: '1180135465'
+    body: "<em>\"Let's face it - software patents are going to happen, so we might as well be constructive about it and guide it in the right direction, so it can be implemented in a manner with which we are agreeable.\"</em>\r\n\r\nThe 'right direction' is the other fricking way mate - toward their abolition, not their amelioration.\r\n\r\nThis is the sort of strategy I'd propose...\r\n\r\nFor any given software patent:\r\n1) Modularise an exemplar of the algorithm.\r\n2) Provide a non-infringing alternative with the same API.\r\n3) Make the patent infringing version hot-swappable with the non-infringing version at compile/install time as appropriate.\r\n4) Let the end user specify whether they wish to violate the abomination of software patents, or whether they're a subjugated corporate happy to accept inferior performance if it'll placate the legal department.\r\n5) Oh, and if you want to make it squeaky clean, create a mechanism that enables the user to print off all the proforma licensing requests to enable them to approach each patent holder for the use of the respective patent - so they can use the patented software without violating any patents. If they really, really want to. ;-)\r\n\r\nRemember, patents are supposedly for the benefit of the public, so you might as well let the public decide whether they support the sacrifice of their liberty in this way.\r\n\r\nI really cannot foresee a future in which free software developers could give a fig if their code infringes any software patents. However, if someone like MS comes along and says, \"Ah. Quicksort. That's ours. $1 per cpu thanks!\", well, hot swap it with Bubblesort, and suggest MS chases each user who pretends they have a license to quicksort.\r\n\r\nIt's all virtual guys. There aren't really cast iron chassis, cogs, gears and incredibly high setup costs involved. If software can be patented, then infringement can be automated."
+-
+    name: webmink
+    mail: ''
+    subject: 'We''ve Not Lost Yet But...'
+    hostname: 81.86.155.12
+    created: '1180227944'
+    body: "Thanks for the reflections, Steven. I actually <em>don't</em> think software patents are inevitable; we successfully prevented them being introduced in Europe a while back and we need to remain vigilant to prevent their introduction by stealth. The pro-patent lobby is still hard at work, trying to create instances across europe that need \"harmonisation\", and the IPRED recently raised the stakes considerably if that happens.\r\n\r\nBut I don't agree with the AC above. Software patents do exist in the US and elsewhere, and an anarchist view is unrealistic. What's needed there are realistic proposals for reform that we can lobby into existence using the resources those of us opposing software patents and patent trolls can marshal. That's what my blog posting is about. If we take the view in the US, Australia and other sw-patent-blighted places that the only reform we'll tolerate is abolition we can expect to be ignored.\r\n\r\nCrosbie: Your proposal seems a reasonable enough approach but doesn't really help that much. Proposals that evade patents, or that improve patent quality (the usual remedy from large portfolio holders) don't help most of us much since none of us can foresee which aspects of our work will be covered by a patent that sneaks up on us from afar. All my proposals de-fang the patent system so that we're not affected so much when that happens. Take a look at my blog[1] and see what you think, you may find we actually agree.\r\n\r\n[1] http://blogs.sun.com/webmink/entry/patent_reform"
+-
+    name: 'Crosbie Fitch'
+    mail: ''
+    subject: 'Let''s be pragmatic'
+    hostname: 81.153.164.134
+    created: '1180263361'
+    body: "Webmink, I sympathise with all your proposals toward reform, but I do not feel they represent a pragmatic approach for software developers.\r\n\r\nUntil there's any change in patent law (and really, only when software is no longer patentable), developers still HAVE to code without consideration for patent infringement. It is unfortunate that free software coders have to pay far more attention to this than closed source developers, i.e. they're sitting ducks in a barrel and the only reason they haven't all been wiped out yet is that patent lawers are still working on their \"Duck a l'Orange\" recipe.\r\n\r\nSo, today we have to write first, and then let a million eyeballs find the bugs (including patent infringements).\r\n\r\nPatent infringements are only bugs in the sense that they are code in need of 'dualisation' - the provision of a compile/install/run time user-selectable alternative. Each user builds up a machine readable portfolio of patent licenses that they have (with expiry/renewal options), this is then read by each free software application in order to hot swap each algorithm/format as necessary.\r\n\r\nNaturally it is made extremely easy for the user to indicate that they possess all necessary licenses (or are the patent holder), e.g. \"Select All, Mark As, 'Patent Held', Yes.\"\r\n\r\nThis defers the patent infringement to the user (that <s>nasty, despicable creature</s> also known as an 'upstanding and honourable member of the public enjoying their human right to liberty').\r\n\r\nIt is possible that coders can still be prosecuted simply for unwittingly writing a line of code that infringes a patent, i.e. there's no penalty-free \"Take-down until patent is no longer infringed\" notice. That would require all free software authors to remain anonymous, since even if they duly diligently research potential infringement, there's always the risk they may miss one, and remain at the mercy of patent trolls (on barreled duck hunts) who'd probably be even more enthusiastic than the likes of RIAA."
+-
+    name: 'Crosbie Fitch'
+    mail: ''
+    subject: 'Oh, and I should add...'
+    hostname: 81.153.164.134
+    created: '1180264358'
+    body: "To those that exclaim \"But, it's illegal to even distribute patent infringing code, irrespective of whether the end user may possess a license to use it\", I suggest that there are millions of users who'd happily take on the responsibility of performing this illegal distribution.\r\n\r\nAll the software developers need to do is to facilitate the computerised auditing of software configurations to give each user the confidence that all the patent infringing modules they've nefariously obtained are bonafide/certified. To some extent you could simply distribute MD5s of software configured with 'all infringements enabled' - I mean 'all patents licensed'."
+-
+    name: webmink
+    mail: ''
+    subject: 'Doubly pragmatic'
+    hostname: 81.86.155.12
+    created: '1180271507'
+    body: "Crosbie:  I agree with you that that's a prgamatic way to behave in the interim until we are able to provoke change to the patent systems of countries that have foolishly permitted software patents.  I also believe we need to work out how we'd like the system changed in those countries, and to be pragmatic about it (they are most unlikely to just be eliminated). So there's two kinds of pragmatism we need here.\r\n\r\nBy the way, I don't think Free software developers have to be any more careful here than others. No developer should go looking for patents (finding them exposes you to greater risk; this is a basic reason why the social contract behind patents is being violated, in my view). No legal issue is involved until a patent holder places a given software user \"on notice\". I think we've all fallen for the fear that those most threatened by Free software wanted us to, become uncertain and started to doubt the effectiveness of the philosophy that unites us. And the best treatment for FUD is to continue energetically in spite of it. "
+-
+    name: 'Crosbie Fitch'
+    mail: ''
+    subject: 'Pragmatic and effective'
+    hostname: 81.153.164.134
+    created: '1180296889'
+    body: "There are three ways of rectifying the software patent problem:\r\n1) Lobbying - demonstrating the law is unethical, if not invidious and impractical.\r\n2) Rendering and demonstrating s/w patents as completely ineffectual and/or redundant.\r\n3) Demonstrating patent restricted s/w has a lower economic return than unrestricted s/w.\r\n\r\n1:- Good luck with the lobbying. ;-)\r\n\r\n2:- Create a standard s/w configuration infrastructure to rapidly adapt the moment s/w is put on notice for infringement. Demonstrate that patents simply create unnecessary work for the free s/w community to treat as damage to be routed around - inevitably avoiding patent licence revenue by providing both a rapidly deployable non-infringing alternative, and a deferment of licensing fees to the end user (should they insist on use of patented code).\r\n\r\n3:- Create a collective funding mechanism to facilitate the commission of free software.\r\n\r\n"
+-
+    name: 'Crosbie Fitch'
+    mail: ''
+    subject: 'In case my point isn''t clear'
+    hostname: 81.153.164.134
+    created: '1180299187'
+    body: "Because law in the field of IP is primarily the abominable spawn of commerce (protection of monopoly), it is only a commercially superior force that will have any hope of rectifying it. Simple argument from an ethical standpoint butters no parsnips.\r\n\r\nCopyright was unethical when it was created, but it is only now that it is demonstrably ineffective (and iniquitously policed) that suggestions of its demise (if not complete reform) are being entertained.\r\n\r\nThe same goes for software patents (and patents per se). They may be a double-edged sword for Microsoft, but they're at least tolerable. Either patents hamstring free software, or the ability of free software to ignore patents gives it an advantage. Until that aspect is clear, the commercial powers within the software industry will keep patents on the statute books.\r\n\r\nTherefore, as long as the incumbents find the status quo tolerable, until you demonstrate s/w patents are commercially disadvantageous, s/w patents will remain.\r\n\r\nSo, 2) Render patents as ineffective as DRM, 3) Render free software commercially more lucractive than non-free software. \r\nThen you can revisit 1) Lobby to remove redundant law.\r\n"
+-
+    name: 'Lawrence D''Oliveiro'
+    mail: ldo@freesoftwaremagazine.com
+    subject: 'Legal double-dipping'
+    hostname: 203.118.156.111
+    created: '1180401889'
+    body: 'Software is the <em>only</em> field of human endeavour that gets to be protected by both copyrights <em>and</em> patents--nothing else gets to "double-dip" the legal system in this way. What''s so special about software, that it should receive such special treatment?'
+-
+    name: 'Steven Goodwin'
+    mail: ''
+    subject: 'To Clarify'
+    hostname: 82.69.78.105
+    created: '1180431063'
+    body: "<i>I</i> think software patents are inevitable. This is due to their existance in the US, the consequential uber-control that the US (ab)uses in everything their administration do, and my generally pessimistic view of things. (I'm not known as the angry man of open source for nothing ;)\r\n\r\nSimon doesn't think that; it was my hastily written blog entry that might have erroenously inferred it. My apologies to Simon, and any confusion caused.\r\n\r\n"
+-
+    name: webmink
+    mail: ''
+    subject: 'Thanks for the clarification'
+    hostname: 81.86.155.12
+    created: '1180437614'
+    body: "Thanks for the clarification - appreciated.  As you say, I still believe we can prevent software patents taking hold in Europe. Politicians are now aware how controversial the issue is (and wary of the lobbyists who told them it wasn't!), the fact that interoperability is key to open markets is understood and the need for any patent system to permit that has become clear, and the unholy alliance of proprietary interests that comprises the pro- lobby has realised this is not a push-over like they thought.\r\n\r\nWe have to stay alert though. IPRED2[1] is part of a mosaic that activists for the pharma-media-software axis support, and their activities seem to have moved focus away from Brussels to the individual EU states where they are using their superior financial resources to fund lobbying for \"modernised\" IP laws in various countries. I'm convinced this is part of a strategy to come back to the EU in a few years and ask for \"harmonisation\" of the laws across the continent, with the effect of making software patents (as well as a basket of other participation-age-hostile measures) an obvious necessity to the new generation of legislators who will be in place by then.\r\n\r\nSo, in my blacker moments I can be as pessimistic as you, but I believe with vigilance and unity we can create a Europe where Free software makers have more liberty than the US.\r\n\r\n\r\n[1] http://www.fsfeurope.org/projects/ipred2/ipred2.en.html"

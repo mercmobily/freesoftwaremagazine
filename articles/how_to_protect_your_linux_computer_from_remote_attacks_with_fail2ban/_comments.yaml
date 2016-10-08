@@ -1,0 +1,14 @@
+-
+    name: dowdle
+    mail: ''
+    subject: 'How about a journald-based recipe?'
+    hostname: 153.90.195.54
+    created: '1434463632'
+    body: 'While a lot of folks still run rsyslog and journald in parallel... how about those of us who have turned off rsyslog?  Unfortunately denyhosts and fail2ban are looking for data in files that don''t exist anymore.  How about a recipe that makes these tools work on a systemd system running journald in persistent mode?  Hopefully it won''t take forever for the tools to be updated.'
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'It looks like it already exists..'
+    hostname: 151.26.140.72
+    created: '1434483180'
+    body: "Hi,\r\n\r\nIsn't this what fail2ban-systemd is for...?\r\n\r\nMerc."

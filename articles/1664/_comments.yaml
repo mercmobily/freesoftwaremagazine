@@ -1,0 +1,14 @@
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'IDE''s'
+    hostname: 72.75.141.172
+    created: '1152199734'
+    body: "One thing I have long wished to see is a portable gui/rad tool that actually does run everywhere, but unlike, for example, Java (or Mono/Pnet), does not do so executing like a club footed elephant on anything less than a P4 with a gig of ram.  The issue is not nessisarly one of portable bytecode, as I am not against native code generation, but rather consistent results on different platforms without rediculous runtime overhead.  Nor do all bytecode systems need be large and clunky, as Python demonstrates.  Perhaps paired with a good portable form design tool/forms architecture wrapped into a pretty IDE, Python could come closest today.\r\n\r\nIf we had \"vendor only\" tools, there would have been no GNU/Linux, no free'd xBSD's as we know them today, etc...Human creativity does not only happen exclusivily in a few thousand magical software farries residing inside castle walls, but can happen anywhere and everywhere.  If the tools are not available freely, then the creativity may never get expressed, for the greater loss of all.  Some of course wish to control human creativity, to make it very rare and scarce, and thereby profit on the backs of the few who they would permit the privilege of creating.  Free software is part of the freedom to think, and a question of basic human dignity.\r\n\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Absolutely agree'
+    hostname: 68.93.224.4
+    created: '1152318828'
+    body: "The free availability of development and authoring tools is what makes free content possible. Free software authoring tools are a special kind of free content that amplifies free content.  Free software software development tools are free content that amplify free content including themselves.\r\n\r\nThis self-amplifying capacity is the engine that powers the free software movement.\r\n\r\nIn order for free engineering, science, and art to see similar success, these amplifying tools need to be made available for all fields of human endeavor. The tools of creation should be the focus of new software development by people who are most interested in furthering free software and free culture.\r\n\r\nEngineering tools in particular have the capacity to bring new fundamentally enabling hardware that we are unlikely to get from proprietary culture. \r\n\r\nThis is why I've argued for the <a href=\"http://www.freesoftwaremagazine.com/articles/free_matter_economy_4\">creation of</a> and/or <a href=\"http://www.freesoftwaremagazine.com/node/1633\">use of existing</a> free-licensed, networked, collaborative, CAD software. And I was really pleased to hear Richard Stallman list CAD specifically in his <a href=\"http://www.groklaw.net/article.php?story=20060625001523547\">recent interview</a> regarding the GPLv3 and future priorities for free software development.\r\n"

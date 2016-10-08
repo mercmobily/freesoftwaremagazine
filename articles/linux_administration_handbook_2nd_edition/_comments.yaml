@@ -1,0 +1,28 @@
+-
+    name: clievers
+    mail: ''
+    subject: 'Nice review'
+    hostname: 68.145.109.51
+    created: '1178811603'
+    body: "Thanks for the great review Anthony. I was curious about this book. It has a neat cover that's for sure. I'm definitely a \"budding geek\", with a desire to learn Linux. I know how to do a few things, however a lot of books are definitely for the more advanced. It sounds like this book would be a good book for the next stage, after the \"beginning\" stuff.\r\n\r\n------\r\nlet's all play nice!"
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: Absolutely!
+    hostname: 76.188.155.238
+    created: '1178825900'
+    body: "This sounds like an excellent book for you. The original Unix Administration Handbook was invaluable to me. I learned a lot about Unix (and GNU/Linux, indirectly) from that book. The Linux Administration Handbook is, I think, even better. It makes fewer assumptions about your knowledge than the original book did, per my recollection.\r\n\r\nGood luck with your continuing geek education. It's a long, tough, rewarding road."
+-
+    name: clievers
+    mail: ''
+    subject: Thanks
+    hostname: 68.145.109.51
+    created: '1178831898'
+    body: "Okay, great! Thanks very much for your reply.\r\n\r\n------\r\nlet's all play nice!"
+-
+    name: trollzor
+    mail: ''
+    subject: 'Linux Administration Handbook'
+    hostname: 203.214.86.155
+    created: '1178978351'
+    body: "I would have to agree wholeheartedly with this review. I installed Linux (Turbo Linux 4 I think) first in 1998, but without documentation I didn't know how to get my 56k modem up and running and didn't return till a few years later. Lack of documentation is always a problem with some aspects of Linux, in my newbie days on Mandrake 8.2 and through the early Fedora releases I always wanted a definitive reference to help me out and explain the hows and the whys. After getting this book, I can say it is a good answer to many of these things, although focused on administrators this book will help the advanced user as the goal of both is to get the most out of their system. However, as Anthony points out, while it's huge but it doesn't cover everything you might want. After reading most of the book I thought they needed to remove the politics chapter (~65 pages) and slim down a few of the others and replace them with a good guide on the ins and outs of Bash. The authors defend their position saying this is background knowledge and that you should learn to read and modify perl and bash scripts and that for new projects you should learn perl or python more fully. Fair enough, but I think the base of those skills belong in this book, more so that some of the other content anyway. I think making those changes would make the book still just as useful for system administrators, while also bring power users into the fold more fully.\r\n\r\nAll that said, the book still hits the nail on the head for administration, even if a power user might feel some of the material doesn't apply it still has a vast amount of detail in those that do. I only have O'Reilly's “Linux System Administration” to compare it with. While the O'Reilly includes a section on Bash which I think is appropriate I would still recommend Linux Administration Handbook because of the detailed coverage of other areas even though the O'Reilly is around $5 cheaper. While the O'Reilly is has a better sense of what the market might want, this book totally dominates the rest of the subject matter with 1040 pages (good quality smooth-to-touch recycled paper) at only a slightly higher price than O'Reilly's 291 pages (good quality grain-to-touch thicker paper not recycled). With so few pages in the O'Reilly you can get to the how, but not to the why (+ a smidgen of history) which this book does with its lucid style. Thumbs up from me.\r\n"

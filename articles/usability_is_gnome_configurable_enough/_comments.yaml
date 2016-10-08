@@ -1,0 +1,35 @@
+-
+    name: ''
+    mail: ''
+    subject: 'With all due respect...'
+    hostname: 206.176.252.22
+    created: '1165942102'
+    body: "<cite> And I’m not Bruce Perens, so when I find that something doesn’t work the way I think it should, I won’t shout that it’s impossible. </cite>\r\n\r\nI'm not this Bruce Perens person, but I can certainly relate to his issue. I can't tell you how many times I've tried to install software on Linux, even with Debian's apt-get package manager, and it STILL doesn't work. I won't even go into the tarball hell I've had to wade through. It seems kind of foolish to have to spend hours upon hours just getting the software to run. Just last night I spend about 1 hour trying to get a Beryl plug in to compile. I just had to give up realizing life's too short. \r\n\r\nI don't think installing software/plug-ins is \"impossible\", just something I'm not \"elite\" enough to do, I guess. It looks like we're going back to the old days of computing, when only geeks/hackers could use software and the rest of us would have to sit idly by.\r\n\r\nI'm sure some people are gonna pull their hair out at this, but I can't remember the last time I double clicked on a \"setup.exe\" or \"install.exe\" file and had it abort saying I was missing some off-the-beaten-path library. "
+-
+    name: ''
+    mail: ''
+    subject: 'GNOME dominates nonetheless?'
+    hostname: 203.118.156.111
+    created: '1165945837'
+    body: "Interesting that the poll being run on the front page of FSM still shows GNOME with a comfortable lead over KDE and the rest. Maybe there are lots of people who don't agree with you?\r\n\r\nLawrence D'Oliveiro"
+-
+    name: ''
+    mail: ''
+    subject: 'A "kool" fix'
+    hostname: 80.164.49.243
+    created: '1165968013'
+    body: "You should really give digiKam a serious look, it has configurability if you want it, and if you don't, no problem, they're out of your way and no harm done.\r\n\r\nNot saying digiKam, or KDE itself for that matter, is perfect or anything. KDE does need to organize a few things a little better (KControl comes to mind), that I will agree with. But at least they treat the user like an intelligent being by kind of saying \"Hey, if you wanna configure things, here's the options of you want them\".\r\n\r\nIf both my mom and aunt can use KDE without any problem, it's not too complicated to use, and please note that none of them have a degree in computer science. My mom sometimes forgets how to attach a file to a freaking email (She uses GMail), even though it's right in front of her nose, and despite me having shown her how to do that about a zillion times.\r\n\r\nIf a car followed GNOME idea of \"usability\", I think you'd barely have a steering wheel, because \"we don't want to confuse the user with too many options\", sure, but how do I adjust the freaking radio!!!"
+-
+    name: ''
+    mail: ''
+    subject: 'KDE is where?'
+    hostname: 203.10.224.59
+    created: '1165976159'
+    body: "Probably the biggest problem preventing me from using KDE is the fact that I cannot find one *decent* distro with a large friendly community where KDE doesn't take a back seat to GNOME (ie Kubuntu) that uses KDE set up with nice defaults as its default desktop. What we need is for there to be a KDE version of Ubuntu, ie where GNOME takes the back seat and all development is centred on KDE. \r\n\r\nKubuntu is the basted child of Ubuntu and it shows.\r\n\r\n"
+-
+    name: 'Wouter Verhelst'
+    mail: ''
+    subject: 'Yes, that''s for sure, and it'
+    hostname: 81.165.16.76
+    created: '1166956644'
+    body: 'Yes, that''s for sure, and it shows. But that doesn''t have to mean I''m wrong.'

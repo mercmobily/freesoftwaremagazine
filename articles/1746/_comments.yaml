@@ -1,0 +1,42 @@
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'clients?'
+    hostname: 83.78.131.193
+    created: '1157280311'
+    body: "Sounds like a nice project! \r\nWhat client-application do you recommend the children to use?"
+-
+    name: 'Kirk Strauser'
+    mail: ''
+    subject: Psi
+    hostname: 208.162.254.122
+    created: '1157296275'
+    body: 'I suggest <a href="http://psi.affinix.com/">Psi</a>.  We''ve used that as the primary client for my office''s Jabber server for over two years now without any support issues whatsoever.  There are other nice clients (I use Kopete on my Unix desktops), but Psi is the only one I can personally vouch for on a wide scale.'
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'How does the support work?'
+    hostname: 66.41.2.157
+    created: '1157348469'
+    body: "Interesting project and it's a great use of free software.  How does the support work? I know you have the permision slip/waiver, but do they have your phone number for 24x7 on-call help? :-)  (I know, I know, it's a school.  Business day only.  Still!)\r\n\r\nI like the decisions you made and agree with them, especially using SSL.  Kids can be pretty cruel and I can imagine what would happen if some bright (but cruel) kid figured out how to eavesdrop on conversations.\r\n\r\nFor the logging, did you consider also that the students might be concerned about eavesdropping if the conversations were logged?  I thought of this when I read that part, but as I think further it occurs to me that at my job I assume there is logging of IM but it doesn't really inhibit what I type.  I'm guessing kids would be even less concerned.  Finally, I wonder if there are legalities involved -- any laws or regulations that say you *have* to log conversations?  (If not now I wouldn't be surprised to see them in the future.)\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>\r\nNow playing: <a href=\"http://www.movingtofreedom.org/2006/09/03/ralph-waldo-emerson/\">Ralph Waldo Emerson</a>\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Client
+    hostname: 130.243.4.29
+    created: '1157385281'
+    body: "For schools, you would like to consider Coccinella.  It's free cross-platform Jabber-client written in Tcl/Tk.  It's quite good to. Better XMPP functionallity than Gaim. More like Psi, which I would guess is a bit to geeky for ordinary schools.\r\n\r\nIt also have features like white bord and to play games.  And with a geeky dad that can add some more modules, who knows what can be done ;-)\r\n\r\nHave a look at <a http:\"http://hem.fyristorg.com/matben/index.html\">Coccinella's homepage</a> for more information."
+-
+    name: BitShifter
+    mail: ''
+    subject: 'This is a good idea.'
+    hostname: 61.246.103.233
+    created: '1163683242'
+    body: 'This is a good idea. Especially now that I am soon going to be a dad. I appreciate this idea more. I beleive when the time comes that my child goes to school, I''ll be attempting to do the same. And be sure to find me asking a whole of of questions here when I do! '
+-
+    name: eddiepetosa
+    mail: ''
+    subject: 'You should get the father of'
+    hostname: 89.41.221.4
+    created: '1252826940'
+    body: "You should get the father of the year award. You really deserve it. I never considered protecting my kids from accessing the internet. I really should have done so earlier. Now they're almost teenagers and they already know the internet and it's uses better than I do. \r\nEddie Petosa \r\n"

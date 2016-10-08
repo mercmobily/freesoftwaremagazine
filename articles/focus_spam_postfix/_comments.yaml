@@ -1,0 +1,133 @@
+-
+    name: ''
+    mail: ''
+    subject: reject_unauth_pipelining
+    hostname: 195.162.52.178
+    created: '1155277316'
+    body: "15 smtpd_recipient_restrictions =\r\n16   reject_unauth_pipelining,\r\n\r\nFrom: http://www.postfix.org/postconf.5.html\r\nNote: <strong>reject_unauth_pipelining is not useful outside smtpd_data_restrictions</strong> when 1) the client uses ESMTP (EHLO instead of HELO) and 2) with \"smtpd_delay_reject = yes\" (the default). The use of <strong>reject_unauth_pipelining in the other restriction contexts is therefore not recommended.</strong>"
+-
+    name: ''
+    mail: ''
+    subject: reject_non_fqdn_hostname
+    hostname: 213.84.187.201
+    created: '1163953813'
+    body: "In combination with Outlook the \"reject_non_fqdn_hostname\" in the helo restrictions will prevent your mail from the local network to be sent, even with \"permit_mynetworks\" enabled.\r\nI have not found a workaround for this problem, but to disable the fqdn requirement."
+-
+    name: ''
+    mail: ''
+    subject: 'Re: reject_non_fqdn_hostname'
+    hostname: 66.108.221.242
+    created: '1164063748'
+    body: "I had the same problem with Outlook -- I believe it uses a substring of the machine name for the HELO command.  Since we don't have too many Outlook clients, it was pretty easy to add the individual machines to my helo_access file.  I grabbed the HELO identification from the Outlook error message that popped up when a user tried to send a message (this is also available in the log file).  Then I put an entry in helo_access as follows:\r\n\r\nmachine_name   OK"
+-
+    name: ''
+    mail: ''
+    subject: Solved
+    hostname: 213.84.187.201
+    created: '1164140700'
+    body: "I got the solution to my problem. Somebody pointed out that my main.cf was not correctly configured. permit_mynetworks was not working because I set mynetworks = 10.0.0.0/32 instead of 10.0.0.0/8.\r\nHave a look here <a target=\"_blank\" title=\"Clark Connect forum\" href=\"http://www.clarkconnect.com/forums/showflat.php?Cat=0&Number=90519&an=0&page=0#Post90519\">this thread</a>."
+-
+    name: ''
+    mail: ''
+    subject: 'Outlook the "reject_non_fqdn_hostname"'
+    hostname: 83.40.145.24
+    created: '1168086643'
+    body: "FYI, it works if you use \"SMTP authentication\" which is probably a good idea anyway.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: relays.ordb.org
+    hostname: 141.154.81.247
+    created: '1168958210'
+    body: "Should remove line 25:\r\n\r\n<code>reject_rbl_client relays.ordb.org,</code>\r\n\r\nordb.org no longer provides any services.\r\n\r\nYou end up with a bunch of messages similar to this in your mail logs:\r\n\r\n<code>warning: x.x.x.x.relays.ordb.org: RBL lookup error: Host or domain name not found. Name service error for name=x.x.x.x.relays.ordb.org type=A: Host not found, try again</code>"
+-
+    name: ''
+    mail: ''
+    subject: relays.ordb.org
+    hostname: 200.27.72.45
+    created: '1170104867'
+    body: "It was announced a little while ago that ordb.org was no longer going\r\nto be maintained and it is now no longer available. That is why you\r\nare seeing the errors.\r\n\r\nIt you are using ordb.org as an RBL, remove it. "
+-
+    name: ''
+    mail: ''
+    subject: Greylisting
+    hostname: 189.168.10.154
+    created: '1170975216'
+    body: 'The greylist configuration in smtpd_recipient_restrictions is missing'
+-
+    name: ''
+    mail: ''
+    subject: 'workaround for outlook'
+    hostname: 206.191.28.104
+    created: '1171847565'
+    body: 'a better workaround: dont use outlook (='
+-
+    name: ''
+    mail: ''
+    subject: 'RBLs in general'
+    hostname: 63.201.8.198
+    created: '1172250379'
+    body: "Are the other two (RBLs) any decent at all?\r\n\r\nfrom my experience (most recently with www.tqmcube.com) is that RBLs blacklist a whole lot of legitmate e-mail servers and thus cause WAY too many false positives.\r\n\r\nso far the HELO,valid sender domain and greylisting is working wonders.  I have dropped spam making it through the e-mail server by 80-90%.  my bayesian filter (I use spamprobe) takes care of the rest, and since I put those additions into my e-mail server *knocks on wood* I haven't gotten any spam into my inbox.  yeah!\r\n\r\nand my end users of mailing list  run are ecstatic as well.\r\n\r\nbut RBLs, the mission statements sound good, but in practice, I don't see them actually living up to them."
+-
+    name: 'Anonymous visitor'
+    mail: oliver+freesoftwaremagazine.com@cosec.org
+    subject: 'No, it''s not. The following'
+    hostname: 62.65.148.234
+    created: '1176937290'
+    body: "No, it's not. The following line runs postgray.\r\n\r\n   check_policy_service inet:127.0.0.1:10023"
+-
+    name: 'Justin Timbaker'
+    mail: realmoneypoker@gmail.com
+    subject: 'I have a great alternative'
+    hostname: 71.197.184.72
+    created: '1181205460'
+    body: "Some of this stuff is really interesting, but a bit beyond me at some points.  I do have a great service that takes care of alot of this stuff.  It's a company out of LA and they did wonders for my Mailing.  \r\n\r\nCheers,\r\n\r\nJustin"
+-
+    name: 'Rubi Jan'
+    mail: rubijan@gmail.com
+    subject: 'Really?'
+    hostname: 89.110.8.129
+    created: '1183196665'
+    body: "So, what is it?\r\n\r\nRubi"
+-
+    name: 'Anonymous visitor'
+    mail: chantha@wirelessip.com.kh
+    subject: 'Postfix Client Problem'
+    hostname: 203.82.224.3
+    created: '1183449586'
+    body: "Dear\r\n\r\nI'm a system engineer at WirelessIP. My current mailserver is using Postfix. Recently i face with my client complaint about sending slow with large attachment from client side to my server. So Do u have any idea to solve this ? or to make it faster than usual.\r\n\r\nThanks and Good luck\r\n\r\nBest Regards,\r\n\r\nChantha\r\nEmail:chantha@wirelessip.com.kh"
+-
+    name: Ramakk
+    mail: ramakant.cso@gmail.com
+    subject: 'helo_access for Outlook clients'
+    hostname: 128.29.43.3
+    created: '1183488382'
+    body: "Hi have tried the helo_access file as well.  But, I simply have not been able to get Outlook to work.\r\n\r\nIs there a specific place one puts the helo_access lookup within main.cf?\r\n\r\nThanks in advance.\r\nRama"
+-
+    name: 'Imran Khan'
+    mail: mmimrank@yahoo.com
+    subject: 'problem in spaming control '
+    hostname: 203.124.48.108
+    created: '1192004416'
+    body: "dear sir \r\n\r\ni configured /etc/postfix/main.cf\r\n\r\nsmptd_delay_reject = yes\r\nsmtpd_helo_required = yes\r\nsmtpd_helo_restrictions =\r\npermit__mynetworks,\r\ncheck_helo_access\r\n           hash:/etc/postfix/helo_access,\r\nreject_non_fqdn_hostname,\r\nreject_invalid_hostname,\r\npermit\r\n\r\nbut after saving \r\n\r\npostfix server stop all mail\r\n\r\nwhen i check mailq\r\nerror\r\n\r\nmailq: fatal: /etc/postfix/main.cf, line 646: missing '=' after attribute name: \"permit__mynetworks,\"\r\n\r\nplease help me \r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: aexd@gg.com
+    subject: thanks
+    hostname: 87.101.240.6
+    created: '1192294560'
+    body: 'Thanks ;) Simpler setups with low and zero latency are also coming. I have it in Word, but it just needs to be made web-ready. (And I have some very busy days ahead of me.)'
+-
+    name: kreed
+    mail: ''
+    subject: 'right. i am not using mail'
+    hostname: 62.183.98.169
+    created: '1235592473'
+    body: "right. i am not using mail clients and don't have to download to my PC a crapload of sp.am\r\n"
+-
+    name: csorenson
+    mail: ''
+    subject: 'This page is so full of rich'
+    hostname: 190.244.41.54
+    created: '1260221640'
+    body: "This page is so full of rich information.\r\nThanks a lot to everyone for solving my problems!\r\nCarla\r\n"

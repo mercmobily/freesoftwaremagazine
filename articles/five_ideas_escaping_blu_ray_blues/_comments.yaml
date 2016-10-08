@@ -1,0 +1,70 @@
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: BitTorrent
+    hostname: 129.132.149.242
+    created: '1298896824'
+    body: "I think you forgot something!\r\n\r\nOption #6: distribute as BitTorrent. Actually, ThePirateBay.org hosted already a few movies in collaboration with the filmmakers and featured them prominently on their main/home page.\r\n\r\nAlso, BitTorrent is the cheapest way to distribute. Probably you will not reach people with a slow internet connection, but still a lot more than those that happen to stumble over your disk."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '25 GB is a big torrent'
+    hostname: 68.116.159.234
+    created: '1298952499'
+    body: 'Real HD/HQ video makes for pretty hefty downloads even by today''s standards. But I agree that direct download will become increasingly important.'
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Streaming?'
+    hostname: 62.140.212.3
+    created: '1298975250'
+    body: "All of your suggestions focus on giving the end-user a copy they can take away so to speak. Taking Mauro's comment into account I do think that Hard Disks are going to prove more important in future than optical CD-type media - particularly when you consider the falling cost of SSD.\r\n\r\nWhile I don't wish to take anything away from either of these principles, it would also seem that streaming is a reasonable option as well. Okay so this is still downloading and eats into any bandwidth the user may have but I suspect (certainly here in the UK) this is a key way movies will be distributed in the future. Connected devices, MythTV boxes etc. will simply display streamed content. We already have a considerable number of \"InternetTVs\" so it seems our market at least is looking in that direction.\r\n\r\nOf course this requires a certain minimum level of internet connection and I am aware that this is not available to a lot of people. It's also true that it suits the DRM-fanboy media companies even more than Blu-ray but it also provides the rest of us with a cheap-ish way to distribute our own content. The major issue there is server bandwidth and the streaming service but you could always go for icecast or similar.\r\n\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: '< 10 GB'
+    hostname: 129.132.149.51
+    created: '1298980122'
+    body: 'yes, 25GB is big. But you can get a pretty good 720p at 4.2GB (with x264 compression) and 1080p is still fine at around 9GB. There are lots of people downloading such files.. maybe not in the rural U.S. but yeah..'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Different media...'
+    hostname: 68.116.159.234
+    created: '1298997090'
+    body: "Well, like I said, I tend to see them as different media. \r\n\r\nAlready you're pushing the size and quality down to make a better download -- and that's what I see as the norm with online distribution: it's about getting a \"good enough\" video now.\r\n\r\nDownloads are of course going to be an important part of video sharing and distribution now and in the future.\r\n\r\nBut there will continue to be a niche for fixed media distribution and media that focus on quality-first, without consideration of downloads. This is the format for quality-conscious collectors, not just casual viewers who will watch and then delete.\r\n\r\nSomeday we may be even be looking at holodisks with losslessly compressed video.\r\n\r\nI'm not comfortable ceding that space entirely to DRM-laden proprietary solutions like Blu-ray.\r\n\r\nAnd as they say, \"Never underestimate the bandwidth of a 747 full of disks\".\r\n\r\nI might address the downloads approach in a later column.\r\n\r\n(Thanks for the comments, BTW)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Fixed media'
+    hostname: 68.116.159.234
+    created: '1298997544'
+    body: "Yeah, the focus on fixed media was intentional. (See also my response to Mauro below).\r\n\r\nI'm personally very leery of the DRM streaming model for distribution. It's true that it's partly because of my lousy internet connection (a solvable technical problem), but there are other (aesthetic and ethical) issues that bother me. I may write a column about that when I've focused my thoughts better.\r\n\r\nAnyway, I felt that addressing the download approach would make the column awfully long.\r\n\r\n(Thanks for the comment!)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'distribution versus sharing'
+    hostname: 68.116.159.234
+    created: '1299019454'
+    body: "On re-reading this, I think I may see one reason for the confusion: I said I was \"only considering DVDs for distribution\".\r\n\r\nWell, to me, the word \"distribution\" sort of implies distributing physical media. And so that's what I was talking about here.\r\n\r\nOf course, before we ever get to that stage, we'll be \"releasing\" or \"sharing\" the videos online via online video services, bit torrent sites, etc. That could also be called \"distribution\", but it's not what I meant here. :-)"
+-
+    name: mrguitarmann
+    mail: ''
+    subject: 'AVCHD?'
+    hostname: 92.25.220.251
+    created: '1299054071'
+    body: "It's like Blu-Ray, but goes onto a DVD instead. It may be worth researching.\r\n\r\nhttp://en.wikipedia.org/wiki/Advanced_Video_Codec_High_Definition"
+-
+    name: 'Marco Fioretti'
+    mail: ''
+    subject: 'Italian translation of part of this article'
+    hostname: 151.71.67.185
+    created: '1299082401'
+    body: "Terry,\r\n\r\nThanks for the piece. I wanted to let you know that I've translated and published with the same license as this article the part between the first two pictures for the Italian section of my digital rights webzine:\r\n\r\nhttp://stop.zona-m.net/it/2011/03/blu-ray-una-trappola-per-la-creativita-e-la-condivisione/\r\n\r\nMarco"
+-
+    name: 'Olle Gladso'
+    mail: ''
+    subject: 'Have you considerd physical media or devices like flash drives.'
+    hostname: 24.177.111.68
+    created: '1303001113'
+    body: 'They are certainly getting cheap. And no additional hardware expense for the consumer.'

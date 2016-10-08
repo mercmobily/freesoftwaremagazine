@@ -1,0 +1,42 @@
+-
+    name: TDSmith
+    mail: ''
+    subject: 'Package manager, or Google what I need'
+    hostname: 66.162.146.2
+    created: '1284747282'
+    body: "Almost always use the package manager. When I go about choosing what software I want I'll search with a keyword like say: Graphic editing, ogg, web browser, etc. But other times I read what it was online somewhere, and go investigate it. And the descriptions for the package can also be unhelpful. But if it seems like it can do the job, usually I install it, test it, and either use it or remove/leave it.\r\n\r\n\"[...]lynx, links or elinks up to high-end GUI ones like Firefox/Iceweasel, Konqueror and Chrome. Which one do you choose and why?\"\r\n\r\nGNU IceCat, updated more than Iceweasel (at the time of this writing), and more libre than Firefox.\r\n\r\n;-)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'My process...'
+    hostname: 68.116.159.234
+    created: '1284868132'
+    body: "apt-cache search _keyword_ _keyword_ _keyword_...\r\n\r\nweb search for concepts to build a keyword list\r\n\r\nwikipedia article on general concept (\"content management system\" etc). Look for \"list\" or \"comparison\" pages (there are lots of these).\r\n\r\nsourceforge -- remember, the search system (\"trove\" classification) allows you to specify platform, so you don't have to worry about false leads\r\n\r\nword of mouth -- find a forum related to topic and ask"
+-
+    name: pachelbel
+    mail: ''
+    subject: 'My recommendation...'
+    hostname: 190.46.7.204
+    created: '1284914011'
+    body: "I have to struggle with 3 worlds these days: Windows, Linux and FreeBSD and maintaining the cross-compatibility is sometimes a bit of a hassle.\r\n\r\nFirst, the recommended install mechanism is through the packages manager (dpkg, portinstall, emerge, xxx.msi.... whatever your system supports). It usually takes care of all the dependencies, which are the real burden. But this will be the final stage to get the app on the system.\r\n\r\nSourceforge is a great place to maintain your application but I would not use it for package selection because it is not the only place to find the software you need and the signal-to-noise ratio in the selection process is not ideal and there is no hint about the quality of the package. Anyway, your package maintenance application will get the application from there if it is.\r\n\r\nThe best place, in my personal opinion, are the words \"tutorial\" and \"howto\" in Google, as this will return a number of articles that discuss the complexity of the configuration process - which can be a significant criterion for the selection. Beware that these articles are always biased, as all try to convince you that their package is the best so take it with a pinch of salt. Finally, user-group forums tend to share a lot of insight and may be the best clue for success.\r\n\r\nKeep in mind that the applications you want to use may require some level of compatibility with other users and their opinion is probably worth more than anything else. The best choice is not always the best quality application in the market... Unfortunate but true."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Sourceforge = bleeding edge'
+    hostname: 68.116.159.234
+    created: '1284993583'
+    body: "You're right that Sourceforge can present a \"signal to noise\" problem.\r\n\r\nMy principal use of Sourceforge (and other development sites) is to find \"bleeding edge\" software -- the stuff that's still in development and so it's really up to date and has cool new features, but is probably broken half the time. This is a lot of trouble to maintain -- but there are situations in which it's worth the hassle:\r\n\r\n1) Development -- when you are designing your own software, and you want it to interact with _next years'_ applications\r\n\r\n2) Tools -- when you can't find them anywhere else, and you really need a special tool or features that don't exist in a stable package\r\n\r\n3) Research -- when you just want to know what's coming in the future\r\n\r\n4) Giving Back -- when you want to either help develop the software, or you want to contribute to the testing and debugging of the software to make it stable\r\n\r\nIf I just need basic functionality, though, I stick to my package manager and the Debian distribution (although I do use a few \"unofficial\" archives, like the \"Debian Multimedia\" distribution for more up-to-date versions of multimedia authoring tools).\r\n"
+-
+    name: 'Chris Watkins'
+    mail: ''
+    subject: 'Knowing what works'
+    hostname: 222.124.46.21
+    created: '1286677715'
+    body: "My problem with the package manager is knowing how active a project it is (e.g. how recent is the latest version) and how well it works. Even very crude voting would give me something to go on. \r\n\r\nSo I tend to check package manager early in the search, but also do a web search, and look for comments on Identi.ca and maybe Twitter before I install.\r\nmake\r\n\r\nI'll sometimes look at SourceForge, but I don't compile my own packages (with rare exceptions) - SourceForge is usually very confusing for regular users, especially those without years of experience.\r\n\r\n-- \r\nChris Watkins\r\n<a href=\"appropedia.org\">Appropedia</a> - wiki for sustainability, development, ICT4D."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: freshness
+    hostname: 62.140.212.3
+    created: '1286872730'
+    body: "Yes you're right I find the same problem. To be honest voting wouldn't help me as I'd be more interested in how fresh a project is than how popular. That's why I tend to use Sourceforge for finding and apt for installing. Sometimes of course I will just search on a keyphrase and install the first one apt suggests. It's kind of like russian roulette if you're running Sid ;)\r\n\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"

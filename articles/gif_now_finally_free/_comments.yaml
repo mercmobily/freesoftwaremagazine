@@ -1,0 +1,385 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Irrelevant indeed..'
+    hostname: 213.84.219.245
+    created: '1159456759'
+    body: "as IE7, as the last problematic browser, finally supports png's with alpha making gifs finaly irrelevant anyhow. Why bother with 256 colors and binary transparancy.. \r\nAnyhow, I'm sure that the lack of decent png in IE together with inertia are the reasons that gif is still around. More than this whole gif patent mess.. "
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"PNG not wildly successful"'
+    hostname: 68.93.224.4
+    created: '1159463405'
+    body: "I guess that depends on your definition of \"wildly\".\r\n\r\nPNG is the default and only seriously reliable format used by the Python Imaging Library (i.e. it's basically the \"native\" format). Inkscape only exports bitmaps as PNG. And so on.  And of course, PNG is the *only* widely used format that can represent true-color images without artifacts and data loss (the big problems with JPEG). PNG is my personal favorite for storing bitmaps, and has very good support and fidelity between many different programs (there are a few problems—but I have more trouble with GIFs and JPEGs, due to fundamental limitations of those formats).\r\n\r\nOn the internet, popularity has been less evident, but only because of the extreme conservativism that the existence of older web browsers introduces. Internet Explorer and Mozilla both had significant PNG display bugs until quite recent versions. However, the old versions are dying out, and most of the web-viewing public now views PNGs without even thinking (or probably knowing) about it.\r\n\r\nGIFs remain popular for animation. The MNG standard (the animated version of PNG) never saw much support, and animated GIFs are still the easiest and most portable form of animation on the web (despite the recent surge in Flash popularity).\r\n\r\nThe limitation of GIFs to 8-bit palette graphics, though, is a pretty serious limitation for any serious artwork, and it makes GIFs awkward to use.  I get a lot of mileage from JPEGs, especially by exploiting the characteristics of their lossy compression algorithm (e.g. you can get some cool fringe effects simply by overcompressing the JPEG, and get a smaller file to boot), but JPEG is not a good general purpose format.\r\n\r\nPNG was needed for purely technical reasons. Not to defend Unisys, but I'm actually kind of glad that we had obstacles that pushed us to use a newer and better format (\"it's an ill wind...\").\r\n\r\nI would call PNG a very successful format!\r\n"
+-
+    name: ''
+    mail: ''
+    subject: '"PNG not wildly successful"'
+    hostname: 159.53.78.141
+    created: '1159463969'
+    body: 'Both programmers from Elbonia use PNGs too.'
+-
+    name: ''
+    mail: ''
+    subject: 'What about LZW Compression'
+    hostname: 209.204.185.133
+    created: '1159468316'
+    body: "Tony,\r\n\r\nThis is an excellent summary of the state of the affairs regarding GIF file format.  There is however an additional problem that may have been overlooked.\r\n\r\nI can't claim to be 100% sure, but there was an additional problem about Lempel-Ziv (I don't know what W stands for) compression that was used in GIF file format that made the GIF formats all the more desirable as format of choice to many a designer and software developer, especially on the web.  Unisys is a patent holder on that one too, AFAIK.\r\n\r\nCan you or one of the readers comment on the state of LZW patent too ? Does expiry of this patent cover expiration of LZW patent ?\r\n\r\nTIA\r\nDevang."
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'Still not convinced...'
+    hostname: 82.53.115.142
+    created: '1159468602'
+    body: "Hola Terry,\r\n\r\nI see what you are saying. I guess I should have specidfied \"On the internet, PNG not wildly successful\". When it came out, I would have assumed it'd become \"the\" file format for the Internet.\r\n\r\nIt didn't happen; I was very disappointed.\r\n\r\nWhy was PNG support buggy? Because not enough people cared. Why didn't people care? Because the support was buggy, and nobody really used it anyway.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'LZW *is* what was patented'
+    hostname: 192.133.192.1
+    created: '1159471178'
+    body: "Compuserve released source code to \"their\" GIF format in the '80s.  But the comment in the code mentioned that the compression might be protected by a patent.  And it was.  Unisys owned a patent on the LZW (Lemple-Ziv Welch) compression that Compuserve used (and licensed) for their format.  \r\n\r\nThe patent that expires next week covers LZW compression, not GIFs."
+-
+    name: ''
+    mail: ''
+    subject: 'I am the png queen'
+    hostname: 66.28.87.10
+    created: '1159475737'
+    body: 'It is the only file format i use anymore.  I really like this post.  It educated a number of friends of mine in the graphic community..  also, it won an argument for me... thx'
+-
+    name: ''
+    mail: ''
+    subject: 'PNG''s not dead'
+    hostname: 69.85.252.129
+    created: '1159475911'
+    body: "\"It didn't happen; I was very disappointed.\"\r\n\r\nThe correct wording is it \"hasn't happened\".  PNG usage increases every day.  If IE7 will support it, then you can obviously appreciate the fact that PNG is far from dead on the web.\r\n\r\nAlso, if you do some reading, you'll see that PNG is a superior format to GIF and JPEG.  Of course, we're talking about image formats developed a decade ago, so it's hardly a fair fight :)\r\n\r\nBe prepared to see a continued rise in the use of PNG.  I recently switched all my images to PNG's for all my web based projects.  Of course, my target markets are very \"techie\" and 98% of them are equipped with the latest browsers (IE7 and Firefox 1.5.0.7).  I'm hoping to convince the other 2% to start upgrading."
+-
+    name: ''
+    mail: ''
+    subject: 'Correct ..'
+    hostname: 69.85.252.129
+    created: '1159476219'
+    body: "Thus the term \"GIF89a\"\r\n\r\nhttp://www.w3.org/Graphics/GIF/spec-gif89a.txt\r\n\r\nWant to take a guess as to where the \"89\" comes from? :)"
+-
+    name: ''
+    mail: ''
+    subject: 'Free "forever"?'
+    hostname: 128.174.233.218
+    created: '1159476243'
+    body: "Doesn't the fact that two patents were issued which cover the same algorithm (LZW) show us that another patent could be issued to cover LZW sometime in the future?  Apparently the USPTO isn't against issuing multiple patents that cover the same idea.\r\n\r\nAfter all, if the patent system worked the way it was touted to work (no more than one patent granted per idea), the latter of the two patents (IBM and Unisys') would not have been granted until it was rewritten to not cover the LZW algorithm which had already been patented.\r\n\r\nFinally, PNG's ongoing technical superiority should be good reason to switch to PNGs and motivate people to use a browser which will display them properly.  If you're of the inclination to bow to MSIE's weaknesses I know from experience that with a little effort, one can even get Microsoft Internet Explorer 6 to show them correctly.  I point you to the \"IE7\" LGPL-covered set of scripts at <a href=\"http://dean.edwards.name/IE7/\r\n\">http://dean.edwards.name/IE7/</a> which provide an easy means to make MSIE do a number of things it ought to do but doesn't.\r\n\r\nGiven these reservations I don't share your optimism that GIF will forever be free nor would I recommend its use today.\r\n\r\nJ.B. Nicholson-Owens\r\n<a href=\"http://www.digitalcitizen.info/\">http://www.digitalcitizen.info/</a>\r\n<a href=\"mailto:mail@digitalcitizen.info\">mail@digitalcitizen.info</a>\r\n\r\nP.S. Your preview messes up A elements by inserting a \"<br />\" in the end of them.  See the link to the IE7 site above; in the preview it shows up as a link to \"http://dean.edwards.name/IE7/<br />\".  Hopefully the submitted article won't appear that way."
+-
+    name: ''
+    mail: ''
+    subject: 'Not enough?'
+    hostname: 38.99.193.222
+    created: '1159476406'
+    body: "How about not the right people. The key reason PNG didn't take off is because MS did not properly implement them into IE, the number one browser for quite a while. Cause of this major flaw, nobody wanted to use PNG cause \"most\" of their users wouldn't be able to properly view them.\r\n\r\nNow why didn't MS fix IE? Cause they were trying to push across their own proprietary CSS calls. PNGs work in IE, but you have to use convoluted CSS call to fix them. In the end, it was just a pita that web developers didn't want to deal with, on top of the already pita problems with IE's poor CSS support."
+-
+    name: ''
+    mail: ''
+    subject: 'A sidenote about PNG. Gamma BUG.'
+    hostname: 213.140.6.112
+    created: '1159480470'
+    body: "Some time ago I tried to develop an entire site using PNG instead of GIF, just because I didn't need any alpha channel and so I could use it safely on IE.\r\n\r\nI was wrong. Plain wrong.\r\n\r\nI was wrong because even if without alpha IE handled the PNG well, another problem appeared: different browser adjusts the PNG GAMMA LEVEL IN DIFFERENT WAYS!\r\n\r\nSo, I ended up with a website colored in different ways... that should be ok, in some ways, but it got worse: a PNG green and an HTML green on some browser doesn't match, since the PNG has a gamma applied, while the HTML (CSS, whatever) doesn't.\r\n\r\nTerrific.\r\n\r\nI dropped PNG at all for the web.\r\n\r\nFolletto\r\ndigitalhymn.com"
+-
+    name: ''
+    mail: ''
+    subject: '...pay attention.'
+    hostname: 213.140.6.112
+    created: '1159481291'
+    body: "Check out the infamous gamma bad implementation... :|\r\n<a href=\"http://user.fundy.net/morris/?photoshop03.shtml\">http://user.fundy.net/morris/?photoshop03.shtml</a>\r\n\r\nFolletto\r\ndigitalhymn.com"
+-
+    name: ''
+    mail: ''
+    subject: 'Correction to the postscript.'
+    hostname: 128.174.233.218
+    created: '1159482028'
+    body: 'Apparently something was lost in the postscript part of my post.  This site inserts a &lt;br /&gt; after the link, hence the link to Dean Edwards'' "IE7" software.'
+-
+    name: ''
+    mail: ''
+    subject: 'gamma redux'
+    hostname: 70.230.209.30
+    created: '1159485000'
+    body: "This gamma problem in PNG is reasonably well known. I wish I could say I'm surprised it has not yet been addressed.\r\n\r\nThere is basically no good image format for web development.\r\nJPEG is lossy. GIF has too few colors. PNG has the gamma problem.\r\n\r\nI prefer PNG unless I must create elements which match CSS colors. Then I use GIF, but that constrains the kind of image I can have because of the color problem.\r\n\r\nAnd of course I lust for proper alpha. You have no idea how important alpha is until you design with it for a while and then must forego it.\r\n\r\nI have a feeling this problem would go away if Microsoft cared. But then of course their format would probably have DRM or similar dain bramage."
+-
+    name: ''
+    mail: ''
+    subject: 'Restrictive Patents = Death of Format'
+    hostname: 72.193.178.198
+    created: '1159487885'
+    body: "Let that be a lesson to any company.\r\n\r\nFrom Beta to GIF.\r\n\r\nIf you lock people out, they will simply go around you.\r\n"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'Technical superiority motivations?'
+    hostname: 69.180.163.110
+    created: '1159491406'
+    body: "Technical superiority motivations?  That may be fine for readers of FSM and other technical web sites, but what about the rest of the world?\r\n\r\nI wouldn't look at it as having an inclination to bow to IE7's weaknesses so much as a desire to cater to your audience.  Most people on the web are using whatever flavor of IE came with their Windows computer, and to dismiss them for doing this and not make the effort to give them a decent viewing experience is extremely arrogant.  I'm not saying that you specifically are doing this, but your tone suggests it.  I think it's also an unrealistic suggestion that people might try some add-on to change the way their IE works.  It is an very small segment that is going to want to do this, and again it doesn't address the circumstances of most Internet users.\r\n\r\nI'm not thrilled about how IE handles PNGs and CSS but I'm not going to let its users suffer more than necessary to make a point about which format is the best.\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'What about TIFF?'
+    hostname: 24.5.48.31
+    created: '1159509778'
+    body: 'Does this mean that TIFF with LZW is now free too?'
+-
+    name: ''
+    mail: ''
+    subject: 'Python considered dangerous'
+    hostname: 71.55.69.101
+    created: '1159523424'
+    body: "if you write a medium to large application in python, and accidently embed a space alongside a tab character in your source code, you can have logic errors but NEVER BE ABLE TO FIND THE SOURCE because the space character is hidden in all text editors.\r\n\r\nUse perl instead.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'This is like the dumbest python troll ever'
+    hostname: 202.59.74.16
+    created: '1159556112'
+    body: "You can find the problem in vi: /&lt;tab&gt;&lt;space&gt;RET (alternatively, &lt;space&gt;&lt;tab&gt;).  Similarly with Emacs, or Eclipse.  And if you can find it, you can replace it.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Perl considered dangerous'
+    hostname: 204.8.239.10
+    created: '1159557113'
+    body: "If you write a medium to large application in perl the excessive symbol requirements (${}%@ etc) will cause your code to be completely unreadable and if you have a logic error you'll never be able to find it. Also, prolonged attempts to read such garbage characters can lead to epileptic fits. &lt;/rant&gt;\r\n\r\nThe parent thread is complete FUD. Firstly mixing of tabs and spaces is easy to remedy in every decent text editor I can think of. Simply have it convert tabs to spaces on load and save. Secondly the python interpreter will throw a syntax error and will tell you what line you're indention is incorrect at. Thirdly many text editors DO have a show tabs/whitespace option so you can in fact see them, even if the first and second points where not true. \r\n\r\nHaving used C, C++, Java, and Perl for years.. I've recently switched nearly all of my development to python. It's a great language. Perl is not."
+-
+    name: ''
+    mail: ''
+    subject: 'This is your brain. This is your brain on Perl.'
+    hostname: 83.250.8.115
+    created: '1159558430'
+    body: 'Enough said.'
+-
+    name: ''
+    mail: ''
+    subject: 'As free as LZW is for the moment.'
+    hostname: 128.174.233.218
+    created: '1159561558'
+    body: 'Yes, until the next patent which covers LZW comes along like the second one of the IBM or Unisys patents did.  After all, it''s the LZW algorithm we''re really talking about, not so much the GIF image file format (which uses LZW).  By the same logic, compress(1)--an old Unix file compressor, some Postscript implementations, and other file compressors should now be free to employ LZW.'
+-
+    name: ''
+    mail: ''
+    subject: 'I think you might be confused about that "IE7" script GP linked'
+    hostname: 198.187.16.166
+    created: '1159563367'
+    body: "\"I think it's also an unrealistic suggestion that people might try some add-on to change the way their IE works. It is an very small segment that is going to want to do this, and again it doesn't address the circumstances of most Internet users.\"\r\n\r\nI could be wrong, but I don't think the script \"IE7\" (what a hellishly bad name, considering Microsoft is developing a product called IE7, which is the 'real' IE7, but moving on. . .) requires the users to seperately go download and install it like a FireFox plugin does. I think *you* as a web developer, include it in your pages (so it is downloaded as part of the page), and it makes your page work correctly in IE 5 and 6. So, this is something that would benefit users without them having to do *anything*, and benefits web developers by making it easy (if it works as it claims) to use standard HTML+CSS and have the script take care of making it work correctly in IE5/6. (And the additional overhead for developers can be made quite trivial - I know that, usually, when I'm developing a site, I have a couple standard include files, and one specifically for my head section that includes things like site-wide stylesheet file <link> tags, and the like - just edit such a global 'include' file to also include a <script type=\"text/javascript\" src=\"blah\"> tag, and you should be set. \r\n\r\nSeems like a fairly elegant solution, if it actually works. (I've not tested IE7, yet, and don't endorse it, but I'm certainly interested in playing with it to see if it's as good as it claims)."
+-
+    name: ''
+    mail: ''
+    subject: 'A couple of qualifications'
+    hostname: 66.213.116.3
+    created: '1159565773'
+    body: "> PNG is the *only* widely used format that can represent true-color images\r\n> without artifacts and data loss\r\n\r\nPerhaps it is the only widely-used raster image format with significant compression built in that can represent true-color images without artifacts and data loss.  Perhaps.  (A lot of consumer-grade hardware, such as scanners, use TIFF to a greater or lesser extent.  A lot of people still have BMP images kicking around because they used to be the only format well supported by certain very-widely-used software.  EPS is less obvious, but besides its niche uses (e.g., in prepub) it's also popularly used for consumer clip art e.g. in MS Word, and in a lot of those commercial clip art packages you can buy.  WMF and PCX are also arguable.)\r\n\r\nHowever, PNG use has grown significantly in the last couple of years and is certainly a major image format, probably the third or fourth most widely used at this point.  (JPEG/JFIF is obviously the _most_ widely used at this point; GIF is _probably_ second.)"
+-
+    name: ''
+    mail: ''
+    subject: 'Use a DECENT text editor'
+    hostname: 128.141.224.77
+    created: '1159567055'
+    body: ":set sts=4 sw=4 ts=8 et\r\n:retab\r\n\r\nProblem fixed."
+-
+    name: ''
+    mail: ''
+    subject: 'Previour art'
+    hostname: 128.141.224.77
+    created: '1159567224'
+    body: "If you manage (and it's probably easy) to file and obtain a patent for something that was already existing and known, the patent can be invalidated in court with a claim of prior art.\r\nIt's a pint in the ass, though :-("
+-
+    name: ''
+    mail: ''
+    subject: Bull
+    hostname: 74.225.100.218
+    created: '1159567318'
+    body: "If you put a space before a tab, it makes no difference.  If you put a space after a tab, and it's a valid indent, you can see the extra space.  If you put a space after a tab, and it's an invalid indent, you get an error on the line in question.\r\n\r\nIn short, you're talking complete nonsense."
+-
+    name: ''
+    mail: ''
+    subject: 'Not using the right tool considered dangerous'
+    hostname: 81.57.157.99
+    created: '1159569740'
+    body: 'If you write a medium to large application in Python without properly configuring you text editor to only use spaces, you are just looking for trouble.'
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: Ah...
+    hostname: 69.180.163.110
+    created: '1159577219'
+    body: "I see now -- my bad.  You're right, if it does the job as advertised with nothing needed on the client side, then it would be a nice thing.  (Not that I think it's great for people to be so passive in their computing experience, but it's just The Way It Is. :-)\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'your vi skill is poor'
+    hostname: 202.28.77.31
+    created: '1159596589'
+    body: ':set list'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Yes, but...'
+    hostname: 68.93.224.4
+    created: '1159673368'
+    body: "TIFF is not a very solid standard, simply because it's too large and complex (some would call it 'a whole set of standards marching under one banner' rather than a single standard). This has hurt its adoption. Outside of the printing industry few people use it.\r\n\r\nBMP of course, has no compression, the whole point being to load quickly and easily (although this decision was made at a time when CPUs were slower). There are applications for that, but the files are needlessly bulky, so BMPs aren't all that popular.\r\n\r\nEPS and WMF are both vector graphic formats, like SVG (which is meant to eventually supplant them both as a standard). Hard to say if it actually will. I suspect WMF will die, but EPS has a strong following.\r\n\r\nPCX is extremely niche. It's the native compressed bitmap (and I think palette-based even) format used by a particualar proprietary paint program.\r\n\r\nAnd of course, the real killer is that almost no one's browser will render TIFF, BMP, EPS, or WMF (I think there are plugins to do it on some browsers).\r\n\r\nThat said, of course, there are actually dozens and dozens of bitmap and vector graphics formats. I generally use ImageMagick to make conversions when needed, and yes, I do find the need to use different ones from time to time.\r\n\r\nBut I stand by my assessment. If you want a good, general-purpose, application neutral format to store images in that won't lose data, stick with PNG.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'PNG doesn''t have to store gamma'
+    hostname: 68.93.224.4
+    created: '1159674475'
+    body: "If you don't like the gamma setting in your PNG files, just turn it off. It's not required.  When you save, just turn off \"Save gamma\".\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'So this has happened to you, has it?'
+    hostname: 68.93.224.4
+    created: '1159676224'
+    body: "\"if you write a medium to large application in python, and accidently embed a space alongside a tab character in your source code, you can have logic errors but NEVER BE ABLE TO FIND THE SOURCE because the space character is hidden in all text editors.\"\r\n\r\nYou've never actually tried to write a program in Python, have you?\r\n\r\nYour comment is, of course, factually untrue. There is no way it could ever happen unless you actually had tabs set to <em>0 spaces</em> in your editor (any tab spacing of 1 or more, and a space would remain less than or equal to one tab, thus ensuring that it cannot interfere with the display of the indentation).\r\n\r\nYou <em>can</em> have problems with mixed spaces and tabs, but it's much more difficult (and rare) to have happen. Furthermore, it is fairly trivial to fix this kind of error, and in Vim and Emacs at least, it is possible to prevent it almost entirely by having the editor always substitute spaces for tabs.  Both editors also have means of highlighting tab characters to make it more obvious when they've been used in an existing source file.\r\n\r\nThe <em>advantage</em> to Python's \"significant whitespace\", of course, is that the interpreter reads the <em>same cues the programmer does</em> when determining logical groupings. This has tremendous ability to catch errors resulting from omitted brackets ({})—an extremely common error in languages like C and Perl which use them for grouping.\r\n\r\nNaturally, of course, programmers with any skill learn to use style conventions to keep their brackets in line, and so the problem is not fatal to C or Perl. But this is equally true of the comparatively rarer problems with significant whitespace handling in Python.\r\n\r\nDon't get me wrong. Python has its warts. But the use of \"significant whitespace\" to handle program grouping is definitely not one of them. If were ever to design a programming language, I would definitely use Python's significant whitespace rules.\r\n\r\nIt's also somewhat off the topic of PNG adoption. I'm sure that Perl and C also have excellent PNG support. It's just that, being a Python programmer myself (I used to program in C, too, but there was no PNG standard way back then!), I like to make sure I speak from a position of experience.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'one would think that having'
+    hostname: 81.188.78.24
+    created: '1159809660'
+    body: 'one would think that having an expired patent that covered the same invention would make invalidation slightly less of a pain in the ass.'
+-
+    name: ''
+    mail: ''
+    subject: 'Just use PNG''s key-color'
+    hostname: 68.83.39.253
+    created: '1159818056'
+    body: 'Just use PNG''s key-color transparency instead of the alpha channel, which works fine in all IE browsers.'
+-
+    name: ''
+    mail: ''
+    subject: 'A sidenote about PNG. Gamma BUG.'
+    hostname: 140.80.199.91
+    created: '1159908782'
+    body: "I would argue the gamma problem isn't a bug with the PNG format at all; it's a feature implementation problem on the part of the image reader (and maybe in a <strong>lot</strong> less cases, the source app).\r\n\r\nYou said it yourself best:\r\n<cite><strong>...without alpha IE handled the PNG well, another problem appeared: different browser adjusts the PNG GAMMA LEVEL IN DIFFERENT WAYS!</strong></cite>\r\n\r\nThat doesn't sound like a format problem to me. That sounds like poor format feature implementation or outright an lack of format support on the part of considerably popular browsers. Cause for concern and frustration? Certainly. Fault of the format? Hardly.\r\n\r\nMaybe if a line was drawn in the sand by someone of import on how the gamma subject should be approached would help immensely. Until that day, developers are left to their own devices and the patchwork graphics will continue for some. I'm sorry you've abandoned the format. Maybe it will win you back some day after everyone decides to play nice together and implement a standard practice. Full support for the format - all channels, gamma and bitdepths - by popular web browsers will help too ;)\r\n \r\nLong live PNG I say. It was all uncompressed TIFF for lossless imagery until I met ye."
+-
+    name: ''
+    mail: ''
+    subject: 'PERL SUCKS'
+    hostname: 216.31.211.11
+    created: '1159911314'
+    body: 'DON"T USE PERL. ITS LIKE PROGRAMING YOUR PERSONALITY IN. AND OTHER PEOPLE WILL ONLY UNDERSTAND YOUR CODE IF THEY KNOW YOU! hahahahA'
+-
+    name: ''
+    mail: ''
+    subject: '*gasp*'
+    hostname: 208.53.252.94
+    created: '1160064492'
+    body: 'Converting tabs to spaces?!?  What about every other user''s right to see the representation of a tab how they would like to?  Not to mention the wasted bytes ...'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'In this case, ''no gamma'' is what was wanted'
+    hostname: 68.93.224.4
+    created: '1160179689'
+    body: "\"Maybe if a line was drawn in the sand by someone of import on how the gamma subject should be approached would help immensely.\"\r\n\r\nIf he's trying to match HTML colors to the PNG, then he wants no gamma correction at all. For that application, it's more important that the colors match each other than that they match an external color standard.\r\n\r\nThis is trivial to do (Well, it's trivial in GIMP anyway), so it's easy to avoid the problem. But you do have to know your tools and materials if you want to get the results exactly the way you want.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Making a tempest in a teapot - PNGs, GIFs, TIFFs, LMNOPs...'
+    hostname: 161.11.121.158
+    created: '1160800546'
+    body: "\"Most people on the web are using whatever flavor of IE came with their Windows computer, and to dismiss them for doing this and not make the effort to give them a decent viewing experience is extremely arrogant.\" I have to agree with you Mr. Carpenter.\r\n\r\nHaving been around since ARPANET, if the user community had not been \"catered to\" by all of the user friendliness efforts software developers and vendors, and if the professional IT community had insisted on users becoming technically savvy to the point of adhering to the most minscule details of standards in order to get anything out of the net, there simply would not be an internet because most of the folks out there would not care for us forcing them to conform to the world of our whiz-bang technocratic idioms and anagrams. Simply put, no users = no net. \r\n\r\nWe can argue the fine points of formats, standards and the like ad infinitum, but none of that amounts to useful activity. All the speculative arguing over Unisys and this patent business is just ridiculous. Unisys has let more employee invented technology go without patent than you might believe, (such as the magnetic stripe cards), so suing an individual over use of GIF format images is a non starter. This is meant to discourage corporations from activity on a global scale, not Joe Programmer.  \r\n\r\nTHE Anonymous Coward"
+-
+    name: BitShifter
+    mail: ''
+    subject: 'GIf? Thats good news. I'
+    hostname: 61.246.103.233
+    created: '1163682961'
+    body: 'GIf? Thats good news. I couldn''t believe the stupidity of the CEO! Karma indeed! I only knew of this happening just now. A lesson for all the money grubbers out there to not be so greedy!'
+-
+    name: ''
+    mail: ''
+    subject: 'So, I ended up with a'
+    hostname: 83.167.112.205
+    created: '1163799060'
+    body: "So, I ended up with a website colored in different ways... that should be ok, in some ways, but it got worse: a PNG green and an HTML green on some browser doesn't match, since the PNG has a gamma applied, while the HTML (CSS, whatever) doesn't. http://askq.biz\r\n\r\nhttp://askz.biz"
+-
+    name: ''
+    mail: ''
+    subject: 'If you don''t like the gamma'
+    hostname: 83.167.112.205
+    created: '1163799180'
+    body: "If you don't like the gamma setting in your PNG files, just turn it off. It's not required. When you save, just turn off \"Save gamma\".\r\n\r\nhttp://askk.biz"
+-
+    name: ''
+    mail: ''
+    subject: 'We can argue the fine points'
+    hostname: 83.167.112.205
+    created: '1163799360'
+    body: "We can argue the fine points of formats, standards and the like ad infinitum, but none of that amounts to useful activity. All the speculative arguing over Unisys and this patent business is just ridiculous. Unisys has let more employee invented technology go without patent than you might believe, (such as the magnetic stripe cards), so suing an individual over use of GIF format images is a non starter. This is meant to discourage corporations from activity on a global scale, not Joe Programmer. \r\n\r\nhttp://askh.biz"
+-
+    name: ''
+    mail: ''
+    subject: 'Err... don''t mistake Unisys for CompuServe...'
+    hostname: 89.159.49.177
+    created: '1166359183'
+    body: "Unisys never invented the GIF format nor does it have any copyright or whatever on it.\r\nThe GIF format was invented by CompuServe (see http://www.w3.org/Graphics/GIF/spec-gif89a.txt).\r\n\r\nHowever, what Unisys DID invented (or so they claim) is the LZW encoding scheme, which is used by GIF (and a lot of other programs) has its compression system. So, even if they make improvements to LZW, it doesn't affect GIF much...\r\n\r\n\r\nDealing with gamma correction and PNG, you can either choose to disable it, or use palette + transparency (instead of alpha). The latter means you will see whatever color is \"under\" the picture, thus giving the impression that both your website & the picture are made of the same background color.\r\n\r\n\r\nLast but not least, GIF isn't really limited to 256 colors per file, it's limited to 256 colors per frame!\r\nWhich means that you can get true-colors pictures by:\r\n<ul>\r\n<li>using any number of frames, each containing its own local palette (limited to 256 entries),</li>\r\n<li>setting delay between frames to a very small amount</li>\r\n<li>setting the frame disposal method to 1 (\"Do not dispose. The graphic is to be left in place\")</li>\r\n</ul>\r\n\r\nSee online demonstration: http://phil.ipal.org/tc.html\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'PNG is a very successful format'
+    hostname: 68.167.27.3
+    created: '1167143790'
+    body: "PNG is a superior format to GIF, and is nigh-universally supported. In many applications, in fact, it is the default format. Competent web developers and savvy graphic artists stopped using GIFs *years* ago. This article may as well be called \"buggy whips NOW finally come in taupe\" -- in the 21st century, GIF is completely irrelevant.\r\n\r\n-- \r\nbblackmoor"
+-
+    name: ''
+    mail: ''
+    subject: 'If you start the python'
+    hostname: 62.253.128.14
+    created: '1167577665'
+    body: 'If you start the python interpreter with the -t option it will warn you if you mix tabs and spaces.'
+-
+    name: ''
+    mail: ''
+    subject: BMP
+    hostname: 83.244.128.209
+    created: '1170329514'
+    body: "\"And of course, the real killer is that almost no one's browser will render TIFF, BMP, EPS, or WMF (I think there are plugins to do it on some browsers).\"\r\n\r\nI may very well be so stupid I haven't understood your point properly, but it seems to me BMPs open just fine in IE6 and Firefox 1.5, with no plugins (just tried).... maybe not on older browsers I dunno? But that would still mean BMP is actually <em>more</em> supported than PNGs in a way (IE6 and FF easily most widely used browsers, both support BMP, but IE6 doesn't do PNGs unless you 'fix' it with a bit of JavaScript or something...)"
+-
+    name: sjuras
+    mail: ''
+    subject: 'Licensing GIF'
+    hostname: 89.172.118.50
+    created: '1175810701'
+    body: "This Unisys absurd attempt to license a GIF format is a news to me and it really made me laugh. If my memory serves me, Fraunhofer Institute tried similar thing with mp3 and all they accomplished was to provoke users and EPO rejected Frainhofer claims. There's always a way to go around. As to a PNG format I'm just acquainting with it but it seems to me that it doesn't have the right approach to a user and many weren't conversant to it's benefits.\r\n\r\nSasa Juras\r\n<a href=\"http://www.sjcreative.blogspot.com\">my blog</a>"
+-
+    name: abaro
+    mail: ''
+    subject: 'Fully agree with this, I'
+    hostname: 218.1.49.249
+    created: '1177985293'
+    body: "Fully agree with this, I like PNG format and think it will be very successful format. PNGs are designed to be a more efficient, flexible, and patent-free replacement for GIFs. As I know, images saved as PNGs are typically 10% to 30% smaller than GIFs, although in rare cases they can be larger. \r\n\r\nIMPORTANT:\r\n\r\nThe W3C published its first PNG recommendation in October 1996. The International Organisation for Standardisation (ISO) began work on its own ratification of the format two years later.\r\n\r\nShould the W3C and ISO both ratify the current drafts of the second edition, it will become available free of charge from the W3C under an exceptional agreement hammered out between the two standards groups. ISO normally charges for access to its publications.\r\n\r\nAt ISO, the PNG format last month reached its \"60.00 status,\" the penultimate stage in the ISO process. At ISO the document is titled \"ISO/IEC 15948.\"\r\n\r\n<a href=\"http://www.softsea.com/\">software reviews</a>\r\n"
+-
+    name: 'Dejan Lekic'
+    mail: dejan.lekic@gmail.com
+    subject: '"PNG not wildly successful" ???'
+    hostname: 159.92.101.117
+    created: '1178860576'
+    body: 'Mr. Hancock, I totally agree - PNG is the de-facto standard nowadays, so i seriously do not see how it has not been "wildly successfull".'
+-
+    name: 'Anonymous visitor'
+    mail: dalex_257@yahoo.com
+    subject: 'not quite true...'
+    hostname: 194.73.121.7
+    created: '1193398894'
+    body: "<cite> TIFF is not a very solid standard, ...</cite>\r\n\r\nThat's a pretty bold statement especially when every digital camera and scanner manufacturer uses it. TIFF is used as a container in lots of cases and most of the existing RAW  digital camera formats are really TIFF files. True, it is complicated but it was not designed to be just a single image holding file format, it does much more than that (layers, tags, multiple resolution images, different encoding scehemes etc) which makes it very popular with the imaging industry. In fact I don't know of any other open format that I would rather use to transport high quality image between various handling programs (like gimp, dcraw or others). Of course it is cumbersome to use just in browsers because of its diversity but then again, the imaging software industry is not just limited to web browsers, is it.\r\n\r\n<cite> And of course, the real killer is that almost no one's browser will render TIFF, BMP, EPS, or WMF (I think there are plugins to do it on some browsers).</cite>\r\n\r\nYou probably need to update your sources of information. Last time I checked, BMP is supported by every *major* browser and IE which still leads despite being rubbish will display WMFs. And that's without any plugins.\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: dustyd64@gmail.com
+    subject: 'Patent use'
+    hostname: 63.225.239.10
+    created: '1197421983'
+    body: "1. Unisys did in fact hold the patent on LZW compression methods. \r\n\r\n2. I promised myself a long time ago that I would not trash people who trash Unisys' efforts to recoup losses to patent violations, but it seems this group needs an especially big \"STFU\"!\r\n\r\n3. The sheer amount of software and proprietary product that Unisys has allowed the public to recieve for free is staggering.\r\n\r\n4. Do your research on Unix....you'll find that it was mostly developed on unisys time and budget.\r\n\r\nGet a life. Start paying for things."
+-
+    name: micheal
+    mail: ''
+    subject: 'Thanks."hasn''t happened".'
+    hostname: 88.252.248.122
+    created: '1243198796'
+    body: "Thanks.\"hasn't happened\". PNG usage increases<a href=\"http://www.sikisiyoruz.com/\" target=\"_blank\" title=\"erotik hikaye,sikis hikaye\"> </a>every day. If IE7 will support it, then you<a href=\"http://www.seksizleseyret.com/\" target=\"_blank\" title=\"sikis izle,adult film izle\"> </a>can obviously appreciate the fact that PNG is far from dead on the web.\r\nAlso, if you do some reading, you'll see that PNG is a superior format to GIF and JPEG. Of course, we're talking about image formats<a href=\"http://www.sikis-pornoizle.com/\" target=\"_blank\" title=\"sikis izle,porno indir izle\"> </a>developed a decade ago, so it's hardly a fair fight :)\r\nBe prepared to see a continued rise in the use of PNG"

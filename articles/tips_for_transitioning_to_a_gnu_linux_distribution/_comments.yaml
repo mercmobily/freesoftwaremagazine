@@ -1,0 +1,42 @@
+-
+    name: clievers
+    mail: ''
+    subject: 'Good choices'
+    hostname: 68.144.77.66
+    created: '1178411636'
+    body: 'These are some great choices. I''ve been using Firefox and Thunderbird for about 3 years now. I love all the various extensions you can get for them, specifically Firefox. With multiple computers, consider using the extension Google Browser Sync and you can share your bookmarks, history, cookies, previsously opened tabs, etc. I use it between home and work. And Thunderbird is a great choice for email. If you need calendar/alerts within it you can use the Lightning extension. Works great! If you''re needing to do image work, check out The Gimp.'
+-
+    name: cb400f
+    mail: martin.schlander@gmail.com
+    subject: 'Please just use ODF'
+    hostname: 90.184.91.189
+    created: '1178433671'
+    body: "Nice article, but please don't recommend people to use *.doc - or we'll never get out of the horrible situation of lock-in, monopoly and very bad interoperability.\r\n\r\nThe MSO plugins you refer too are already available and have been for a months. No less than two of them exist.\r\nhttp://www.sun.com/software/star/openoffice/\r\nhttp://sourceforge.net/projects/odf-converter\r\n\r\nPlease use ODF. If people complain that they can't open the documents with MSO, respond like this \"Really? That's strange, ODF is a completely open ISO-certified standard? I wonder why MS would not support that format, weird, talk about bad service for their customers.\" - and then point them to OpenOffice.org or one of the above plugins."
+-
+    name: 'Michael Fötsch'
+    mail: ''
+    subject: 'Relicensing your article?'
+    hostname: 212.183.67.63
+    created: '1178456399'
+    body: "Chris, would you be willing to relicense your article under the GNU GFDL (with no cover texts and no invariant sections)?\r\n\r\nThe reason why I ask: A few people from the BadVista mailing list are trying to put together a section about transitioning to GNU/Linux over at the BinaryFreedom wiki: <strong>http://wiki.binaryfreedom.info/</strong>\r\n\r\nI started with a FAQ at <strong>http://wiki.binaryfreedom.info/index.php/Switching_to_GNU/Linux_FAQ</strong>. Your article is excellent and would be perfect as a starting point for further extension (as would your previous articles, btw).\r\n\r\nThe wiki is currently licensed under the GFDL. If you would kindly consider relicensing the article, I'd like to make a few changes, like adding information on how to avoid using external media (an exchange partition), remove the links to the proprietary Wine extensions, elaborating here and there, etc.\r\n\r\nWhat do you say?\r\n\r\n(You can also contact me via e-mail at &lt;foetsch AT yahoo com&gt;.)\r\n\r\nKind Regards,\r\nM.F.\r\n\r\n"
+-
+    name: ComputerBob.com
+    mail: contact@computerbob.com
+    subject: 'Please make it clear...'
+    hostname: 71.98.201.208
+    created: '1178460773'
+    body: 'I will be linking to your excellent article in my online Journal today. I''d just like to ask that, to prevent confusion, that you please make it clear that users who use Mozilla Thunderbird and Firefox to convert their Windows email and browser data and settings must install those programs and do the conversions WITHIN WINDOWS, not within Linux.'
+-
+    name: 'Chris Mostek'
+    mail: ''
+    subject: 'Looks like this is perfect'
+    hostname: 68.12.164.1
+    created: '1178503640'
+    body: 'Looks like this is perfect for Word documents, but support for Excel and Powerpoint is in development.  I''ll point my friends and acquaintances who prefer using MS Office to these plug-ins.  Thanks for the inputs.  '
+-
+    name: 'Chris Mostek'
+    mail: ''
+    subject: 'Fair point.  Thanks for the'
+    hostname: 68.12.164.1
+    created: '1178503818'
+    body: 'Fair point.  Thanks for the feedback.'

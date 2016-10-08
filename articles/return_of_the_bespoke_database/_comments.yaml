@@ -1,0 +1,14 @@
+-
+    name: volunteer
+    mail: stantontas@fastmail.co.uk
+    subject: 'Thanks alot'
+    hostname: 86.16.102.253
+    created: '1197897361'
+    body: 'I''m enjoying your posts on this topic, as it''s becoming a pet subject of mine. I volunteer for a project that has one of those bespoke DBs on M$ and it''s reaching its limit. "But MS works" is the cry when any change is suggested, never mind that the computers are falling apart and the client data is grabbable by anyone with a mind for mischief.'
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'resisting change'
+    hostname: 82.108.129.98
+    created: '1197981350'
+    body: "Ah the old resistance to change cry that accompanies so much IT work. :o)\r\n\r\nI've encountered my fair share of this and I find it useful to identify your \"champion\" early on. This will be the person who is giving least resistance to the project and--if you are lucky--can actually see the benefits now. Using this person as a single point of contact will help particualrly if they are in a slightly senior position (without it becoming a dictat of course). Also sell it on better features as well. One of our Access databases was prone to people editing when they thought they were using \"find by form\" - hence a lot of records would have spurious asterisks in them. The new database prvented that by splitting the search and edit functions. Yes the Access database could have been changed to do that but we had other reasons for changing as well. But  for some users the new database was seen as an improvement for that reason alone.\r\n\r\nOnce you go through this a few times (and deliver on your promises of course) the resistance usually lowers for future projects. As an example I encountered some significant resistance to change when we rolled out the Intranet database I mention above. After the roll-out one of the more vocal users 'phoned to thank me that they were now able to do what previously took three weeks in fifteen minutes (yes the old DB was *that* bad). For the next project we both worked on I found to be them a considerable ally. I just wish they had sent me an e-mail and I could have had it framed :o)"

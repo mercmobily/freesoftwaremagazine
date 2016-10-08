@@ -1,0 +1,42 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Don''t give the BBC a Kickin'''
+    hostname: 132.185.132.12
+    created: '1175503183'
+    body: 'As well as OGG, why not write to the author and tell him about <a href="http://sourceforge.net/projects/dirac">Dirac</a>, an open, Free (both Beer and Freedom) video codec - and it''s written by the BBC. Chances are that he doesn''t know about it, so enlighten him.'
+-
+    name: axels
+    mail: ''
+    subject: 'copied and pasted'
+    hostname: 194.78.209.131
+    created: '1175512707'
+    body: 'went to the comments page and copied and pasted your lines in &;-)'
+-
+    name: ''
+    mail: ''
+    subject: 'huh?'
+    hostname: 84.92.170.120
+    created: '1175517844'
+    body: "The subject of this article is particularly ironic given that the BBC is itself developing an open standards video codec.\r\nhttp://dirac.sourceforge.net/\r\n"
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'wiki link'
+    hostname: 85.0.42.148
+    created: '1175524176'
+    body: "copied and pasted and added the following line:\r\nread more: http://en.wikipedia.org/wiki/Free_file_format"
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'There''s no such thing as the ''OGG family'''
+    hostname: 217.17.116.38
+    created: '1175529101'
+    body: "I've done that. However, though I don't know a huge amount about file formats, I don't think there's any such thing as the 'OGG family' of codecs. From my understanding, Ogg is only a container format, and the only thing codecs such as Vorbis and Theora (and sometimes FLAC) have in common technically is that they are all used together with it.\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: 'Jonathan Roberts'
+    mail: ''
+    subject: Assumptions!
+    hostname: 88.111.169.209
+    created: '1175551377'
+    body: "Yikes,\r\n\r\nyes I do know about Dirac :D (thanks to a Linux Format article several months back). It's great that the BBC are doing development work, and that it's open, BUT their mainstream press coverage of the technology world leaves a lot to be desired, certainly when considering the free software point of view. That's not mentioning the fact they only provide their online media in proprietary formats making access difficult (if not impossible) for those license payers who wish to use free software. "

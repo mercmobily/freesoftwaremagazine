@@ -1,0 +1,21 @@
+-
+    name: bhy
+    mail: ''
+    subject: 'google''s online software'
+    hostname: 89.176.185.217
+    created: '1150198827'
+    body: 'Aren''t all of the google''s online applications proprietary?'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Yes'
+    hostname: 68.93.224.4
+    created: '1150344540'
+    body: "As far as I know, yes, Google's online applications are proprietary. There may be exceptions, but certainly Writely is non-free.\r\n\r\nFor myself, that's enough reason not to use them. Talk about lock-in: not only can you not switch word processors at will, you can't even hang onto your old one, because you never had a copy!  That's \"software as a service\" for you.  I'd rather use one of the several free applications that can do the same things (including provide web interfaces for remote users).\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'But THIS web spreadsheet is GPL ...'
+    hostname: 68.93.224.4
+    created: '1151255906'
+    body: "This appears to have sprung up during the month of June:\r\n\r\n<a href=\"http://www.simple-groupware.de/cms/index.php?n=Spreadsheet.Home\">Simple Spreadsheet 0.3</a>\r\n\r\nI haven't tried it (I'm not a big spreadsheet user anyway, and when I do, I use Kspread). But of course, for groupware, a web-based spreadsheet would be more convenient.\r\n\r\nI think I'd use the Free one, if anything.\r\n\r\nOf course, the downside is that you have to handle the hosting yourself. Then again, that could be more of a plus than trusting everything to Google.  Excessive dependence on a single supplier always makes me nervous, no matter how much I like them.\r\n\r\n"

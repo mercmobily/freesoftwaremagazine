@@ -1,0 +1,21 @@
+-
+    name: rooy
+    mail: ''
+    subject: 'Drupal warning'
+    hostname: 58.187.192.40
+    created: '1181127840'
+    body: "Hi, I'm seeing these warning when viewing this page, but not any other one on FSM. The browser is Opera 9.20.\r\n\r\n[errors removed]"
+-
+    name: 'Andrei Protasovitski'
+    mail: ''
+    subject: 'Emacs - is an OS.'
+    hostname: 82.209.246.158
+    created: '1181138482'
+    body: 'Emacs - is an operating system that contains everything but text editor. :)'
+-
+    name: admin
+    mail: ''
+    subject: Thanks
+    hostname: 165.98.157.37
+    created: '1181157100'
+    body: 'The author used some tags that aren''t accepted by our system. It''s fixed now. Thanks for letting us know.'

@@ -1,0 +1,56 @@
+-
+    name: ''
+    mail: ''
+    subject: 'virtual box'
+    hostname: 80.137.254.234
+    created: '1172413507'
+    body: "Great read. I was wondering how this would compare to virtual box? Did anyone have some experience with it? It is also GPL.\r\n\r\nPat"
+-
+    name: ''
+    mail: ''
+    subject: 'There are other methods for testing'
+    hostname: 130.88.234.125
+    created: '1172457610'
+    body: 'Might be time to exit before Vista ''virtualisation tax'' kicks in. See browsershots.org, for example.'
+-
+    name: ''
+    mail: ''
+    subject: 'Web design fine, but...'
+    hostname: 76.97.197.94
+    created: '1172473393'
+    body: "Let me see. This is cool and all but why do I just dual boot?\r\n\r\n#1 Native speeds.\r\n\r\n#2 Full features. Full use of resources.\r\n\r\n#3 I don't have to have double the memory.\r\n\r\nKISS\r\n\r\nHmmm, maybe if we simply speed up booting, running in a window will not be so cool.\r\n\r\nIf you want to run popular Win apps, WINE does a fair job and as if native (with out Windows it's self.) But then, we don't need Win apps with so much to choose from, in open source.\r\n\r\nGet Kubuntu. If you have to work on Windows, use your old computer. While a dual boot is fun for comparison, todays Kubuntu really doesn't even need it(but you may want to start his way). Either I can do it in Kubuntu or I don't care about it.\r\n\r\nVM's are for developers (like the author).\r\n\r\nI sometimes use WINE (easy install) to run the actual Windows version of Firefox and the windows plugins as if native on Kubuntu; just to play. I also have IE6 with WINE (yes in Kubuntu) but I NEVER need it.\r\n\r\nI also use KMyMoney now instead of Quicken so Microsoft (and Intuit) can suck eggs.\r\n\r\nFYI"
+-
+    name: ''
+    mail: ''
+    subject: 'LONG REPLY...'
+    hostname: 68.16.246.220
+    created: '1172504390'
+    body: "ok.. here goes..   \r\n\r\ni have been using virtualization now for probalby 1yr..  presently using VMware's free server..  but being an admin demands (in my opinion) that i learn and keep up with what is out there...  aswell as the fact that id gladly use A GPL'd peice od software rather than a non-gpl...\r\n\r\nas of late.. i have been giving a few other \"free\" as in beer Virtualization software a try..  first i tried virtual box...  it is almost identical to vmware's server when it comes to the management console...  however.. there are limitiations.. of the top of my head.. there was lack of support for a few things in the free version..  the good thing is that just like vmware you do not need a newer processor with the virtualization extensions...  performance seemed to be on par with VMware...\r\n\r\nthen i tired the virtual iron.. the first thing that hits you is that you NEED to have a newer processor with the virtualization extension, which adds to the cost of free.. it is defenetly alittle more complicated to setup but not so hard that it cannot be done..  but it defenetly more complicated...  performance was nice.. i cannot say it was like native.. but im sure it was close..   the free versions limits you to a single processor VM  and i think a single managed box...  what i did not like was the fact that all the configuration is stored on the management console not on the box being managed.. \r\n\r\nlast but not least is xenexpress... this also needs the virtualization extension.. it is alittle more complicated then vmware but alittle easier than virtual iron.. performance is on par with virtual iron..   Oh and one other thing.. virtual iron and xenexpress both do not afficially support any windows version less then XP...  on the possitive side.. the configuration stays on the managed box.. so management can be done from any pc as long as you have the software installed.. aswell.. as if ytou so not have any management pc runing the box will still come up and run your vm's.\r\n\r\ni have not settles on any of the new ones yet.. still have to do more testing..  but just to give you guy alittle headsup maybe....   \r\n\r\nNOW.. as to WHY virtualize and not dual boot.. well.. you have everything running at once first comes to mind..  i run a Virtual windows machine ontop of my pclinuxos... if i need to pop into windows real quick to do something.. it is there running no need for a second machine.. no need to shut down linux and get into windows..  and i can have all the windows apps i need running without having to play with wine..    another plus is the fact that if you  need to try something and you are affraid it may screwup yur windows install.. just clone your windows VM ,install the software, test it.. once you convinced your good to go.. delete the vm and run it on your production VM..   once you have used virtualization.. everything else is just antiquated.. "
+-
+    name: ''
+    mail: ''
+    subject: 'I saw Microsoft has its own'
+    hostname: 84.12.185.216
+    created: '1172505304'
+    body: 'I saw Microsoft has its own virtualisation software out for free. But here''s the rub - you can only stick MS OS''s on it!'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Actually, not anymore'
+    hostname: 84.6.190.188
+    created: '1172567601'
+    body: "No, I think that Virtual PC 2005 release 2 can actually run Fedora Core. Note that MS didn't create Virtual PC, they bought it 2 years ago, along with the devs.\r\n\r\nWhy you'd run a stable system as guest with an unstable host though, that stumps me.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Need to substanciate'
+    hostname: 84.6.190.188
+    created: '1172568195'
+    body: "About #1: frankly, I can't find speed differences between emulated and native XP in such a setup: my machine, although not top-notch, has far more oomph than needed to run XP at full speed. Disabling themes has a drastic impact on XP usually, especially on non-accelerated video cards, and it holds true here - so if you go that way, shut down the 'Themes' service and revert to 'legacy' dektop themes.\r\nFor one thing, that gets rid of the Fisher-Price look everywhere, even on the login screen.\r\nAbout #2: the only thing the emulated system lacks is a 3D card. The rest's here. Using the accelerator, system overhead is very low.\r\nAbout #3: you don't need double the memory. In fact, memory/disk management on recent Linux kernel, being much better than Windows', allow you to setup a virtual machine with close to your system's full RAM capacity, and still do stuff on the side. Spare 128 Mb for Linux (or even only 64 Mb if you run lightweight desktop managers), give the rest to Qemu: enjoy.\r\n\r\nI must admit I didn't try other VMs recently; Qemu seduced me due to its very small size, versatility, and relative ease of use when you don't fear the command line. It's proven itself fast and stable until now, and when it ain't broke...\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'I know about browsershot, but...'
+    hostname: 84.6.190.188
+    created: '1172568358'
+    body: "...it is just that: a collection of screenshots. When you need to test CSS, DHTML or ECMAscript behaviours, browsershot is useless.\r\nNot to mention it may take a few hours and some retries before you get your browser shot.\r\n\r\nRight now I use it to ensure that Safari works (but I'm not too concerned about Safari/Webkit, I test under Konqueror...).\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."

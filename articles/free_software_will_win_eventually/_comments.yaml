@@ -1,0 +1,35 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Free software is conservative'
+    hostname: 68.93.224.4
+    created: '1200414029'
+    body: "The real reason why free software is destined to take over is that it is highly conservative. Once the community figures out how to do something, then it knows how -- *forever*. That's because we share the information.\r\n\r\nAn application that came out a little too early or only served a certain niche because it was missing some crucial element may very well sit unnoticed for years. But because it's available under a free license and you don't have to go asking permission or re-inventing the wheel, somebody can just pick it up and run with it. It's this enormous library of freely available material that makes that possible. With free software you really can \"stand on the shoulders of giants\".\r\n\r\nThe proprietary software model throws a wrench in the works by sequestering the enormous investment of labor under private ownership and secrecy. Information is lost. If someone else wants to write the next advance on the state of the art, they first have to re-invent the state of the art -- which is HARD.\r\n\r\nSo the proprietary industry is constantly being thrown back to the starting gate, while the free software world just keeps on plugging.\r\n\r\nThe only reason why there's any competition at all from the proprietary world is that the ability to earn enormous profits makes high levels of capital available, and thus it is possible to run really fast towards a solution by hiring lots of programmers and paying them enough so they can work full time on the project.\r\n\r\nBut there are hard limits on that kind of development. There are some things you can't build in a day, no matter how many people you can afford to hire. And even when it's feasible, it's wasteful. The proprietary industry literally throws away billions of dollars inventing things that are already invented.\r\n\r\nIt's kind of a hare-and-tortoise race. It's not as sexy being the tortoise, but at least you win.\r\n\r\n"
+-
+    name: Albertde
+    mail: ''
+    subject: 'Why Free Software is Better'
+    hostname: 74.57.207.132
+    created: '1200433728'
+    body: 'My experience leads me to agree with you. All complex software tends to suffer from bugs either from programming errors or from unforeseen interactions. In the proprietary world, there is no real incentive to kill the bugs. I remember once working (briefly) as a technical writer in a software development firm when a programmer suggested that they do a new release that would just clear the accumulated bugs in the software rather than develop new bug-ridden features. The project manager said no way. Customers are unwilling to pay for a new release that would just eliminate the bugs - the software was supposed to be bug-free, they were only willing to pay for the new features! '
+-
+    name: RedRat
+    mail: ''
+    subject: 'Why Free Software is Better'
+    hostname: 24.17.193.26
+    created: '1200511410'
+    body: "While I would like to agree, and more importantly, hope that what you say will come to pass, somehow I must disagree. If the question were \"Can Free Software be Better?\" then I would say a resounding yes! Why? Because proprietary software needs to be multi-functional, i.e., it has to appeal to the widest possible market in order to make bucks for the software company writing it. Free software can be very simple and therefore efficient in that it zeros in on a specific problem (after all that is why the programmer had to write it). \r\n\r\nHowever, other than ego, what is the programmer's motivation to extend or improve his program? Once he has written the program and it does what he wants, there is little reason to extend or modify it. He has made it free so he has no reason to do this. I will admit that there are people out there who might say I want to make the best operating system and make it free (Linus Torvald for example), his motivation was a realization for a need. Perhaps all programmers are that way, at least to some extent. \r\n\r\nI am relatively new to Linux (actually I got started back in the early Red Hat days, then fell away until just recently). I have been looking for a reasonably easy video editing program for Ubuntu but have found most are limited or just plain don't work. I finally found one in Kdenlive but can I be assured that if I find limitations in it, they will be fixed?\r\n\r\n"
+-
+    name: amazingkip
+    mail: ''
+    subject: 'I couldn''t agree more!'
+    hostname: 208.48.17.4
+    created: '1200512790'
+    body: 'It''s all a matter of time. Proprietary software cannot compete in an open world market. What proprietary software companies need to realize too is that there is a ton of money in the open source market; look at the $800 million acquisition of MySQL by SUN. $800 million for an open source company? That''s huge. Check out http://linuxhow2.com/Feature_Articles/The_Buzz_Word_Today_Is_Green.html, they talk a lot about how the Linux world is like the Japanese automaker, able to produce more for less.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"the" problem'
+    hostname: 68.93.224.4
+    created: '1200540572'
+    body: "\"The\" problem with this argument is the \"the\"! :-)\r\n\r\nYou state things as if there were only one programmer who can make these changes. And proprietary licenses indeed force something like this to happen (at least they make the pool of people who might work on the code very small).\r\n\r\nBut with free software, ANYONE can make those extensions. Odds are somebody needs the same feature you are missing and has the knowledge to fix it so that it works. And of course, if no one needs the feature, then it probably wasn't that important. So, you see it's not necessarily about motivating the original programmer to do something he otherwise wouldn't be interested in -- it's more about getting the people who are interested to contribute the necessary code.\r\n\r\nFree software is user driven because it's user written.\r\n\r\nThe only cases where this gets weak are the ones where the users of the program are almsot entirely people who can't program. That has to be pretty extreme though -- surely most artists don't program, yet programs like Gimp and Inkscape are doing just fine. Because there *are* some people who are interested enough to write that kind of software.\r\n\r\nThere is, of course, one very noticeable kind of sequestering that does go on in the free software world, and that is the boundaries based on programming language and libraries (e.g. the Gnome/KDE rivalry or Python/Perl/Java, etc). So steps towards resolving these conflicts are important (e.g. cross-platform libraries, automatic translators, foreign function interfaces, etc). But this is so much less limiting than the proprietary industry, and there often are technical solutions.\r\n"

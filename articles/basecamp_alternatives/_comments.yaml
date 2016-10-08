@@ -1,0 +1,49 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'What about the others?'
+    hostname: 68.116.159.234
+    created: '1286471604'
+    body: "A little \"devil's advocacy\"...\r\n\r\nThere are _26_ free-licensed open-source project management tools on this [list](http://en.wikipedia.org/wiki/List_of_project_management_software).\r\n\r\nYou've mentioned _2_. And 2 proprietary ones.\r\n\r\nAre you really sure that what you want isn't already out there?\r\n\r\nI'm still vague on what \"project management\" software really does, though. And does it actually save you more time than it uses? (Compared to say, just using a Wiki or a generic CMS tool). The only thing I'm really convinced could be useful is a collaborative calender -- but aren't there lots of those?"
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'It''s the scope + my mistake'
+    hostname: 2.38.52.79
+    created: '1286478240'
+    body: "Hi,\r\n\r\nMy mistake. I should have specified *online* project management software, and should have probably defined the scope better.\r\n\r\nAmongst the ones in the list that are online project management:\r\n\r\n * Collabtive is not actively developed\r\n * Dolibarr is an ERP, my focus was on project/task management\r\n * dotProject -- Development has stalled a while back. Forums seem dead\r\n * Endeavour is not a project management tool, but an Application Lifecycle Management\r\n * eGroupware -- More of a general \"enterprise management\" piece of software, not a project management one\r\n *...\r\n\r\n...I could go on and on. Believe me, I searched and searched. I am not saying that I am *perfect*. But I didn't find anything that was 1) Focusses on project management and contacts 2) Actively developed 3) Innovative in any way.\r\n\r\nBy \"online project management software\" I basically mean software that does what Basecamp + Highrise do: manage projects (that is, task lists, deadlines, milestones, possibly timers) and contacts with task on contacts. The calendar is a *bonus* (a nice one). That's the \"new age\" of project management, where the focus is on managing tasks and people doing them.\r\n\r\nPlus, I am really amazed that with incredible libraries like Dojo, JQuery, etc., people (proprietary software as well as free software) STILL develop 90s page-reload applications. It actually irks me a little: I see it as a huge waste of time, bandwidth and technology.\r\n\r\nBye,\r\n\r\nMerc."
+-
+    name: admin
+    mail: ''
+    subject: 'Comment moderation'
+    hostname: 2.38.52.79
+    created: '1286527313'
+    body: "Hi,\r\n\r\nThis post has been inundated (I mean: inundated) with posts from project management software makers saying \"there's us as well!\". We have received 6 so far. I am afraid it will only get worse.\r\n\r\nThere are plenty of places on the net where these make sense, but this page is not one of them. Sorry, but posts about \"check this one out as well\" won't be published.\r\n\r\nModerator"
+-
+    name: 'Ramiro Vergara'
+    mail: ''
+    subject: 'Alternatives to Basecamp'
+    hostname: 190.8.84.145
+    created: '1286547788'
+    body: "A few months ago I implemented ADempiere to a customer that uses Basecamp for managing all their internal projects. I really liked it and since I only implement FOSS based solutions, I started to look for a real FOSS Basecamp alternative. I installed Project Pier but it is still lacking in functionality.\r\nI finally found Teambox, which is as functional as Basecamp, it is FOSS and offers a free asp service for upto 3 projects. I really recommend teambox as an alternative to Basecamp\r\n\r\nRamiro Vergara\r\n"
+-
+    name: 'Ramiro Vergara'
+    mail: ''
+    subject: hmmmmmm
+    hostname: 190.8.84.145
+    created: '1286590307'
+    body: "try to post about my experience with a different solution. But I guess it was moderated. Just wanted to be on the record that I have no relationship with that product in case you moderated it under that presumption.\r\n\r\nGuess it is hard to give an honest opinion without being taken by spammer nowadays.\r\n\r\nRegards\r\n\r\nRamiro"
+-
+    name: chrys
+    mail: ''
+    subject: 'Not free as in freedom, but also not free as in beer'
+    hostname: 85.72.91.39
+    created: '1286988728'
+    body: "I tried apollohq and I was impressed. However I will not use it. The reason is simple: In the settings tab I get a message...\r\n\r\n\"We haven't quite decided what plans we'll offer yet.\r\nPlease stay tuned: from this tab, you will be able to pick which plan you want to use in Apollo! \"\r\n\r\nI am not expecting a free beer but at least I would like to find out how much the beer will cost me!\r\n\r\nSo,  in other words I cannot risk having lots of projects started and then one day Apollohq sending me an email saying \"ok, your free ride is over. Give us $100/month.\" To be honest, I find this \"undecided price plans\" method a little sneaky. \r\n\r\nUntil then, I will stick to Storm module of Drupal. Easy to use and covers all my needs."
+-
+    name: ''
+    mail: ''
+    subject: 'Project Management tools'
+    hostname: 27.33.233.17
+    created: '1287132240'
+    body: "Hi,\r\n\r\nThere are tons of <a href=\"http://www.projectmanagementtools.biz\">project management tools</a> out there. Thing is, project management is a methodology and a philosophy. I think way too much emphasis is being given to project management tools, and too little on the philosophy behind it.\r\n\r\nThis article is yet another example of this problem...!\r\n\r\nJoan"

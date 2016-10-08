@@ -1,0 +1,91 @@
+-
+    name: ''
+    mail: ''
+    subject: find
+    hostname: 70.72.36.56
+    created: '1173156671'
+    body: "Anthony!\r\n\r\nAlthough you mention the xargs I would like to give an example for the simplest implementation of the recursive grep\r\nfind . -type f|xargs grep -i <pattern>"
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: Thanks
+    hostname: 76.188.155.238
+    created: '1173188004'
+    body: "<p>Thanks. That's an excellent example.</p>\r\n\r\n<p>Here's the \"find and remove\" example from the body of the article, re-written to use xargs:</p>\r\n\r\n<pre><![CDATA[\r\n$ find . -name \\*~ -print | xargs rm\r\n]]></pre>\r\n\r\n<p><i>xargs</i> isn't hard to use. I just didn't want to get into explaining it, and I wanted to demonstrate another predicate for <i>find</i>. And I was lazy.</p>\r\n\r\n<p>Thanks again.</p>"
+-
+    name: ''
+    mail: ''
+    subject: '?'
+    hostname: 65.67.234.254
+    created: '1173204455'
+    body: "Maybe it's the resolution or something else on my computer but I can't seem to make out what the sign in front of each command is.  It doesn't look like an \"&\" or \"$\".  So what is it?\r\n\r\n\r\n"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: discus
+    hostname: 69.180.163.110
+    created: '1173217916'
+    body: "I've dimly known about df by using it at work.  (\"Hey, what's that command again that shows disk usage?\")  But now will have more occasion to use it on my emerging home GNU/Linux systems.  I also think discus is a neat little df \"prettifier.\"\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'making rm safer'
+    hostname: 203.118.156.111
+    created: '1173225530'
+    body: "<P>Just a note that a lot of these commands will give you feedback on what they're doing if you ask them for it. For instance,\r\n\r\n<CODE>find . -name \\*~ -print | xargs rm -v\r\n</CODE>\r\n\r\nwill tell which files it's deleting. Just an extra bit of reassurance that you've done the right thing. :)\r\n\r\nLawrence D'Oliveiro"
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'The sign'
+    hostname: 24.38.136.234
+    created: '1173283183'
+    body: "The '$' (\"dollar sign\") signifies a standard shell prompt-- that is, the dollar sign is often used by several of the canonical shells to indicate the shell is waiting for input (bash and ksh, for instance). \r\n\r\nYou don't type it in. It's used in this article to signify the user types in the following line.\r\n\r\nOutput from various commands is designated by <em>lack</em> of the dollar sign."
+-
+    name: ''
+    mail: ''
+    subject: 'find ...then do somethig'
+    hostname: 200.71.207.126
+    created: '1173292913'
+    body: "i use find with the -exec arg:\r\nfind . -ctime +10 -exec ls -l {} \\;\r\n\r\nmean:\r\nfind from this point (.) the files wich the creation time (.ctime) is more than 10 days (+10) and execute (-exec) a command (ls -l). The argument for this command is pased from find as  \"{}\" . to end the command write and scaped \";\" (\\;).\r\n\r\nin my servers i use this for process a lot of files, in combitation with awk (mmised it in this article) to make batch job files.\r\n\r\nFlavio Camus"
+-
+    name: mobilemail
+    mail: ''
+    subject: 'Newbie thanks'
+    hostname: 70.191.236.194
+    created: '1173792871'
+    body: 'I''ve been a Windows user since DOS/3.1, but I''m just now learning the guts of Linux. Practical clues like this make it easier.'
+-
+    name: ''
+    mail: ''
+    subject: 'Newbie thanks 2'
+    hostname: 202.161.131.70
+    created: '1173796398'
+    body: "Thanks for a wonderful article,\r\nIt will definitely help to make my life in Linux easier.\r\nSpecially the find command seems really powerful"
+-
+    name: ''
+    mail: ''
+    subject: 'find command'
+    hostname: 203.145.180.3
+    created: '1174121759'
+    body: 'how to execute a command as well as printing the args into a file using args and find'
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'tee to the rescue'
+    hostname: 76.188.155.238
+    created: '1174221955'
+    body: "That's an easy one. Use the \"tee\" command.\r\n\r\n\"tee\" will copy STDIN to a file, and spit it back to STDOUT. This essentally makes a copy of STDIN into the new file. So, pipe STDIN through \"tee\" before passing it on to \"xargs\", like this:\r\n\r\nfind . -name \\*\\.c | tee c.list | xargs grep -l sprintf\r\n\r\nThis would list all the files with the (slightly dangerous) \"sprintf\" function, while making a copy of all the files checked.\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: ktfs@sbcglobal.net
+    subject: Fynd
+    hostname: 76.215.212.15
+    created: '1177043520'
+    body: "I'm more used to the AIX version than the Linux version for \"find\". I'll have to try a couple of your other commands (du vs. df) as they seem pretty relevant to our current situation.  (AIX guru retired, all the kids are left to play and learn on our own).\r\n\r\nOn a different note, is this Tony Taylor that used to work / go to school at UAF ?\r\n\r\n-KS"
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'Yes, it is'
+    hostname: 76.188.155.238
+    created: '1177206858'
+    body: "Well, I imagine it depends on who you are, but since I went to UAF, I am most likely that very same Tony Taylor.\r\n\r\nIf you want, contact me at tony  (at the following domain) paperdove.org. I'd love to get in contact with old friends from UAF."

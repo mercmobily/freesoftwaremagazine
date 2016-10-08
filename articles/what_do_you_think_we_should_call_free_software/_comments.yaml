@@ -1,0 +1,315 @@
+-
+    name: admin
+    mail: ''
+    subject: 'A point of contention'
+    hostname: 203.59.46.6
+    created: '1160793963'
+    body: "Hi,\r\n\r\nIt'll be quite obvious to those who are familiar with free software (or whatever you want to call it) that there is contention in regard to its name. Some call it \"free software\", others \"open source\", there are those who try the middle ground and call it \"FLOSS\" or \"FOSS\", and those who go against the crowds and call it \"libre software\".\r\n\r\nWhat do you think we should call it and why?"
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'An essay by RMS...'
+    hostname: 203.59.46.6
+    created: '1160795531'
+    body: "Here's an essay by Richard Stallman on why you should use the term \"free software\" over \"open source\":\r\n\r\n<a href=\"http://www.fsf.org/licensing/essays/free-software-for-freedom.html\">http://www.fsf.org/licensing/essays/free-software-for-freedom.html</a>"
+-
+    name: FoW
+    mail: ''
+    subject: 'FOSS for me'
+    hostname: 66.227.166.54
+    created: '1160881035'
+    body: 'I prefer the term FOSS, as an acronym or not (as a techie, acronym usually though ;)). RMS''s essay Dave Guard linked to delineates the difference between free software and open source--one leans towards the ethical reasons, while the other the technical reasons. I like both.'
+-
+    name: 'Steve Cox'
+    mail: ''
+    subject: 'What''s in a name'
+    hostname: 69.204.154.4
+    created: '1160919659'
+    body: 'I think it should be called FSM just to keep it brief and to the point, but then I like acronyms.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'This is soooo rigged...'
+    hostname: 68.93.224.4
+    created: '1160967766'
+    body: "Oh come, what answer do you expect to get at a site called \"Free Software Magazine\"?\r\n\r\nI consider the whole issue to be pretty shallow. The <em>idea</em> of \"free software\" is far more important than what you call it, and I have little respect for valuing words over substance.\r\n\r\n\"Open source\" was conceived as a <em>marketing label</em> for free software in order to clarify what the term \"free software\" confused. It was never intended to replace \"free software\" as a term, and it certainly was never a \"new movement\" or a \"new concept\" in itself.\r\n\r\nThe FSF <em>created</em> a schism by insisting that \"open source\" didn't mean the same thing as \"free software\", despite the fact that it clearly does: the FSF's definition of \"free software\" includes, as a defining property, the openness of the source, and the OSI's definition of \"open source\", includes, as a defining property, the freedom of that source to be copied, modified, and redistributed. Each definition includes the properties of the other, hence, each is a subset of the other. Use your set theory: the only way this can happen is if they are the same set!\r\n\r\nYou'll also note that any license which includes only the \"freedom of the software\" (clearing legal obstacles) or only the \"openness of the source\" (clearing technical obstacles) is inadequate to satisfy <em>either</em> \"free software\" or \"open source\" definitions, making it clear that neither concept is complete without the other.\r\n\r\n(Any remaining differences between the FSD and the OSD are legalistic nitpicking details, inevitable when two different people attempt to codify the same concept in two different documents -- any free license worth using satisfies both)\r\n\r\nSo, my preferred term, in as much as I have one, is \"free-licensed open source software\".  This is because the two critical properties are the freedom of the <em>license</em> and the availability of the material in a transparent form for editing, which means having the source (an essential requirement for exercising that freedom -- as the whole DRM/TPM debacle with both GPLv3 and CCPLv3 makes ever more clear).\r\n\r\nIt's also quite clear that this complete name can be contracted in many different ways for convenience: \"free-licensed software\", \"open source software\", \"FLOSS\", \"free/open software\", and even \"free software\".\r\n\r\nWhich gets us back to the point which Shakespeare made (or tried to make, anyway) a <em>long time ago</em>: \"that which we call a rose...\".\r\n"
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'How is this "soooo rigged"?'
+    hostname: 203.59.46.6
+    created: '1160970840'
+    body: "<cite>\"This is soooo rigged...\"</cite>\r\n\r\nI can assure you there has been and will be no vote tampering of any kind and that this poll is in no way \"rigged\". The title of your comment implies that you think we are tampering with the results or are cheating in some way. This is not the case.\r\n\r\nHowever, it might be that you think the poll is \"rigged\" because the question says \"What do you think we should call <em>free software</em>?\" (emphasis added). I guess it could have been phrased \"What do you think we should call <i>it</i>?\", but I think that would have been a fairly vague title and I think the one we chose is fine the way it is. I would hope our community knows what \"free software\" is and the available answers make it clear that it's each individual's choice to call it what they like.  \r\n\r\n<cite>\"Oh come, what answer do you expect to get at a site called \"Free Software Magazine\"?\"</cite>\r\n\r\nWell, we we're expecting to find out what our community thinks. We can't really expect anything more than that can we Terry? As you can see not everyone who reads FSM thinks \"it\" should be called free software, and that's what we were interested to find out. Of course, we are hoping that the results won't end up suggesting we have the wrong name for our magazine -- it would be pretty bad if most of our community preferred the term \"open source\" while we have the name Free Software Magazine.\r\n\r\nFurther, we thought the FSM community would find this poll and its results interesting. If you disagree Terry, and/or have any suggestions for future polls, you know what to do.\r\n\r\nThanks a lot for the rest of your comment. Your opinions are always well informed and well thought out and always add a lot to a discussion. \r\n\r\nThanks\r\n\r\n\r\n"
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: '4 votes so far for "Something else"?'
+    hostname: 203.59.46.6
+    created: '1160983748'
+    body: 'For those of you who think free software should be known by a name that is not listed in the poll: please let us know exactly what you think it should be called by posting a comment.'
+-
+    name: maco
+    mail: ''
+    subject: well...
+    hostname: 161.253.10.24
+    created: '1161010712'
+    body: 'I voted for "Free Software" since it''s short and to the point without the explanation that FOSS or FLOSS requires.  I usually use FOSS when I''m online and the person is likely to know what I mean, but I use "free software" with people who are not familiar with the subject.'
+-
+    name: Mykewl
+    mail: ''
+    subject: 'Free For Me'
+    hostname: 24.32.77.119
+    created: '1161020828'
+    body: "Foss and Floss are fine for those who know what they are. When i first started searching for free software I would of never thought to search for those terms. Besides, with my budget free is always something I can afford :)\r\n\r\n\r\n"
+-
+    name: rae
+    mail: ''
+    subject: 'This isn''t really a valid poll'
+    hostname: 66.11.182.45
+    created: '1161036621'
+    body: "There is a reason there are two names - there are two kinds of licensing.\r\n\r\nMost BSD or BSD-like licenses, for example are *not* Free Software licenses.\r\n\r\nAs far as set theory, here you go: All Free software is a *subset* of \"Open Source\" software. That is to say, all Free software is also \"Open Source\" software. However, there is lots of \"Open Source\" software that fails to meet the licensing requirements of being called Free software.\r\n\r\nIn simplistic terms, unless the software uses the Gnu Public License, or something equally free (there is <a href=\"http://www.fsf.org/licensing/licenses/index_html#GPLCompatibleLicenses\">a list</a> on the FSF site), it cannot be termed Free software.\r\n\r\n\r\nThis poll is like asking \"What should Oranges be called? (a) Oranges  (b) Fruit  (c) Other\" because Open Source is to fruit what Free software is to oranges.\r\n\r\nNotice how I managed to avoid using an apple in the fruit analogy, just to avoid confusion. :-)\r\n"
+-
+    name: can.axis
+    mail: ''
+    subject: 'Free software = Logiciel libre'
+    hostname: 82.125.253.6
+    created: '1161041124'
+    body: 'In France, we talk about "Logiciel libre", it''s why i voted "Free Software" ... FLOSS and FOSS sound odd for us. And Confusion between open source and free software is dangerous for the future...'
+-
+    name: bong
+    mail: ''
+    subject: 'Free beer'
+    hostname: 85.160.6.57
+    created: '1161042745'
+    body: 'Free software is fine with me, however, I like <strong><cite>Software libre</cite></strong> a little more. While Free software can be understood by wider public in both the meanings --as in its <cite>freedom</cite> and in its possible <cite>availability at no cost</cite>-- Software libre stands out with its gentility, does not call for the misreception and is still in my opinion easily understandeable. I think we should at least try to avoid confusion with <cite>free beer</cite>.'
+-
+    name: kennyf27
+    mail: ''
+    subject: 'Names for consideration'
+    hostname: 69.136.213.140
+    created: '1161045697'
+    body: "CasualWare\r\nClearWare\r\nWhiteWare\r\nChoiceWare\r\nSpareWare\r\nAvailOS\r\nCopiOS\r\nLaissez-Waire\r\nGratOS\r\n\r\n\r\n\r\nAll knowledge, the totality of all questions and answers, is contained in the dog.\r\nFranz Kafka"
+-
+    name: kennyf27
+    mail: ''
+    subject: Yikes!
+    hostname: 69.136.213.140
+    created: '1161047014'
+    body: "Self-decriptiveness, or worse - boring - doesn't differentiate yourself on any level.\r\n\"Free Software\" is descriptive (and in this case, confusing and misleading), it cannot be trademarked and there can be a million people using the same name with impunity. \"FLOSS\"? Come on. Does that have a nice connotation to anyone?\r\n\"FOSS\"  - that's the building in my local hospital where I take physical therapy. And \"Libre\"? That's what \"Free Software\" is gonna' be called in Latin America and Spain. Lot of imagination went into that one, I can tell. And \"Software Libre\" is gonna' have latinos lining up around the Best Buy waiting for their free gift.\r\nHey - my submissions may stink too, but compared to the others I see, I think \"Something Else\" as the actual <strong>name</strong> should be in the lead.\r\n30 years in IT, CISSP, MCSE and burnt.\r\n\r\nAll knowledge, the totality of all questions and answers, is contained in the dog.\r\nFranz Kafka"
+-
+    name: ''
+    mail: ''
+    subject: Libre
+    hostname: 219.117.176.252
+    created: '1161047559'
+    body: 'Why the need to use a foreign language which, despite what you think, some people will not understand clearly? Picking up from my own language specialism (Japanese) you could call it "Software Jiyuu" and achieve the same alienating effect. Beyond that point, as a complete no nothing on what "free software" is, I haven''t got much to contribute, except to say that if you want "free software" to mean something other than software that doesn''t cost anything you need to think of a different name, because the average person will not get past that meaning.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"rigged"'
+    hostname: 68.93.224.4
+    created: '1161071208'
+    body: "Sorry if I ruffled your feathers, Dave.  No I don't imagine you are tampering with the votes. The point is, you don't have to.\r\n\r\nIn formal terms I am pointing out that the survey is rife with \"systematic bias\": you are asking the question of a group of people who came to a site called \"Free Software Magazine\", you used the term \"free software\" in the question, you then went on to immediately post your opinion (many people will always answer what they think a pollster wants to hear), and then linked to an article by Richard Stallman.\r\n\r\nYou also put the option \"free software\" first, and first answer always has a small bias. Also, only people who feel strongly will vote. Hence you are biased towards whatever the most zealous readers believe is \"right\" (and that's generally going to be biased towards the \"free software\" voters, there are probably many more people who actually use the term \"open source\", but the number who could actually be described as 'zealous' or 'self-righteous' about this practice is small, because anti-zealotry is a defining characteristic of that group).\r\n\r\nIn short, this is a very, very unscientific survey. If anyone is surprised that the current winner is \"free software\", or believes that it means anything strong other than \"we want to pat ourselves on the back\", then they are very, very gullible.\r\n\r\nI suppose it has some value to you as a \"normative exercise\" (sociologist-speak for \"preaching to the choir\").\r\n\r\nThe truth is that a <em>real</em> survey that actually <em>tells</em> you something beyond what you wanted the result to be is a rare and beautiful thing. So, there's no shame in it. But I wouldn't value the results too highly, if I were you. ;-)\r\n\r\nOTOH, it's a nice way to demo the new poll feature."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I think you are confusing "free" with "copyleft"'
+    hostname: 68.93.224.4
+    created: '1161071975'
+    body: "BSD licenses (minus the advertising clause, at least) certainly are \"free\".\r\n\r\nWhat they aren't is \"copyleft\" licenses. But the FSD doesn't require copyleft in its definition of \"freedom\". Nor is the list of licenses on the FSF site intended to be exhaustive -- they are merely a list of licenses that the FSF has vetted and classified.\r\n\r\nAs for \"lots\" of open source licenses that are not free software licenses, I call your bluff. Let's see some examples.\r\n\r\nAFAIK, the only real difference is the \"talk back\" clause. OSD recognizes licenses which require changes to be communicated back to the originator to be \"open source\". This is clearly just a disagreement over the implementation of copyleft, and calling it a major philosophical distinction is making a mountain out of a molehill."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'rhetoric versus definition'
+    hostname: 68.93.224.4
+    created: '1161074277'
+    body: "Two different ways of marketing the same concept is not the same as two different concepts, and is a natural result of taking an idea out of a small, sheltered group of \"like-minded\" people.\r\n\r\nSurely, it is true that the FSF and the OSI are <em>marketing</em> free software differently (political ideology versus pragmatic economics), but this is largely a false dichotomy.\r\n\r\nIt's false, because, on the one hand, the people who promote in the ideological mode, by and large, do so because this is how they conceptualize their entire world. To them, the economic consequences of free licenses are manifestations of their ideology.\r\n\r\nAnd on the other, those who promote the economic value of free licenses are generally those who maintain a belief in a moral imperative towards pragmatism. They have a worldview in which unpragmatic ideas are immoral, because they are unstable. From their PoV, promoting an unstable but otherwise apparently moral ideology is actually wrong, because it will lead to failure and that failure will lead to elimination of whatever good the ideology provided.\r\n\r\nIt's just two different ways of looking at the same problem.\r\n\r\nOf course, things are politically much worse than this, because there are  actually much more than just <em>two</em> ways to look at the problem.\r\n\r\nThere are in fact at least four major organizations or movements with differing worldviews which have a stake in this issue:\r\n\r\nThe <a href=\"http://www.fsf.org\">Free Software Foundation</a> is interested in ideology and social-engineering. They are ostensibly user-focused, but the actual constituency is overwhelmingly developers.\r\n\r\nThe <a href=\"http://www.opensource.org\">Open Source Initiative</a> is (or was, the site seems pretty under-maintained these days) interested in the practical marketing of the economics of free software specifically to developers and funding organizations. It could be argued that OSI is no longer really needed because they acheived their mission.\r\n\r\nThe <a href=\"http://www.debian.org\">Debian</a> project is exclusively interested in end user freedoms. From their point of view, the FSF is perhaps too obsessed with copyleft.\r\n\r\nThe <a href=\"http://creativecommons.org\">Creative Commons</a> is interested primarily in non-program content (art, music, writing, etc), and are focused primarily on meeting the needs of creators (a position which has caused some major friction, due to their continued support for \"non-free\" licenses, such as the \"non-commercial\" module).\r\n\r\nThen again, we can also mention the various BSD projects; in science and medicine, there is the concept of \"Open Access\"; and there is a slowly growing interest in \"Open Hardware\". Then there's the whole \"Open Standards\" movement, which even includes some proprietary software developers.\r\n\r\nOne of the reasons why I like the term \"free licensing\" or \"free-licensed\" rather than \"free software\" -- besides being much less ambiguous -- is that it applies to things other than software, such as \"free-licensed hardware design\" or \"free-licensed artwork\".\r\n\r\n"
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'Let''s go backwards...'
+    hostname: 203.59.46.6
+    created: '1161082260'
+    body: "<cite>OTOH, it's a nice way to demo the new poll feature.</cite>\r\n\r\nThat's right. Our first poll. We only hoped to have lots of people participating through commenting and voting and perhaps spark some good discussion on this issue. I think it's working in that regard. And I thank everyone for participating and encourage those who haven't voted to put in and be counted.\r\n\r\n<cite>The truth is that a real survey that actually tells you something beyond what you wanted the result to be is a rare and beautiful thing. So, there's no shame in it. But I wouldn't value the results too highly, if I were you. ;-)</cite>\r\n\r\nExactly right. But our polls are not meant to be \"real surveys\" as you describe them. For a start we aren't asking a random cross section of the global community; we are asking our readers and already know they are biased... but by how much? We also know that we will only get responses from the more active members. Anyone looking at any stats should always weigh up who did the survey and what sort of people participated.\r\n\r\n<cite>I suppose it has some value to you as a \"normative exercise\" (sociologist-speak for \"preaching to the choir\").</cite>\r\n\r\nAnd we wanted to hear what the choir would prefer to sing. :)\r\n\r\n<cite>In short, this is a very, very unscientific survey. If anyone is surprised that the current winner is \"free software\", or believes that it means anything strong other than \"we want to pat ourselves on the back\", then they are very, very gullible.</cite>\r\n\r\nScience has nothing to do with this survey and we have made no attempt to suggest it. I don't see where you get the \"pat ourselves on the back\" attitude? We all know free software is going to be the winner. But as I said it's the other results that are interesting. For example, quite a few people are voting for \"something else\". I'm interested to hear what those \"something else's\" are. Perhaps this survey should have been \"If free software wasn't called free software, what would you call it?\" But then you'd expect the answer to be \"open source software\" wouldn't you.\r\n\r\n<cite>You also put the option \"free software\" first, and first answer always has a small bias.</cite>\r\n\r\nGood point. I'll jumble them up next time. But I don't think \"something else\" should go first. Do you? :)\r\n\r\n<cite>Also, only people who feel strongly will vote. Hence you are biased towards whatever the most zealous readers believe is \"right\".</cite>\r\n\r\nAnd this is always the case in democratic communities where voting is not compulsory. I don't think I have to name examples I'm sure you can think of another one.\r\n\r\n<cite>In formal terms I am pointing out that the survey is rife with \"systematic bias\": you are asking the question of a group of people who came to a site called \"Free Software Magazine\"...</cite>\r\n\r\nWe can't ask anyone other than those who come to our site Terry. Further, we are only allowing people who log in to vote. I guess you won't like that either. The poll is also biased because we are only asking people who have net access, and people who can understand English. If we surveyed people at a train station, we'd be asking people who used public transport, who could read, and people who are capable of leaving their homes. The results would be skewed in a different way.\r\n\r\n<cite>...you used the term \"free software\" in the question...</cite>\r\n\r\nIt's difficult not to use some term or another to describe what the question is about. I could have said \"it\" and let the answers explain the question but that would have seemed a bit odd. Besides plenty of people haven't chosen free software as the answer; they obviously knew what the question meant.\r\n\r\n<cite>...you then went on to immediately post your opinion (many people will always answer what they think a pollster wants to hear), and then linked to an article by Richard Stallman.</cite>\r\n\r\nFSM and I are not the same entity. I had my say on the poll and tried to get the ball rolling by providing further info. I assumed (correctly) that other participants would provide further information that would perhaps go against my vote.\r\n\r\n<cite>Sorry if I ruffled your feathers, Dave. No I don't imagine you are tampering with the votes.</cite>\r\n\r\nI do object quite seriously to a prominent FSM author and community member (you) accusing FSM staff (us) of \"rigging\" a poll. And, whether you meant it or not, the use of the term \"rigged\" implies exactly that. Imagine the new community members/readers seeing your post. Don't make out as though you think you can't influence people with your rhetoric.\r\n\r\nIn future Terry, I'd really appreciate it if you'd discuss your concerns with us via email first (it'll stop me from wasting so much space here on the site explaining things to you). That way we can explain the situation to you before you go sounding the alarm bells. If we still can't quell your fears, you can go ahead and post away, but at least you'll know where we're coming from first. (Note: please don't leap to the conclusion I'm trying to censor you. I just think you should find out where we're coming from first.)\r\n\r\nOh and you'd have to get me up pretty early in the morning to ruffle my feathers Terry. :)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Okay, bad word choice'
+    hostname: 68.93.224.4
+    created: '1161156060'
+    body: "It's apparent that \"rigged\" was a bad choice of words, I probably should've said \"biased\". I felt that my one sentence explanation was sufficient to make it obvious what I meant, and it honestly never occured to me that someone would think I meant you were altering the votes. But I can see how if you thought this was seriously implied that it would be upsetting.\r\n\r\n"
+-
+    name: 'Phil Olynyk'
+    mail: ''
+    subject: '"Open Source Licensing" - the book, definitions & philosophy'
+    hostname: 206.248.156.78
+    created: '1161177757'
+    body: "Lawrence Rosen has written an excellent book which describes software licensing. He lays out two branches of license, the Academic (BSD style) and the Reciprocal (GPL style). \r\n\r\nThe Academic license is a free gift, allowing all the freedoms we know and love, and allowing the freedom to keep modifications private (or secret...). \r\n\r\nThe Reciprocal license includes a requirement that modifications be openly published; you might say it is 'less free'. On the other hand, the GPL guarentees that improvements become freely available, that public knowledge continues to grow. \r\n\r\nThe difference really exists, and it really is a matter of personal (or corporate) philosophy. \r\n\r\nAnd, if you are the original author, you have the freedom to choose which license to use.\r\n"
+-
+    name: 'Johannes Hutabarat'
+    mail: ''
+    subject: 'risky move... and SOMETHING ELSE'
+    hostname: 202.146.241.9
+    created: '1161186843'
+    body: "Initialy, my conclusion is that you are making a risky move by having this poll because, from my eye-glasses, it is widening the schism between the two main branches (or, would that be the trunk and its biggest branch?) of our dear movement, namely the \"free software\"-name philosophers and the \"open source\"-label pragmatists.\r\n\r\nOn second thought, this poll may provide an opportunity to unite the people in the two (or more) sets of the liberating movement universe, so here I vote for something else and propose\r\n\r\n     <strong>FREOPE</strong>\r\n\r\nto be its name.\r\n\r\nThat's right: FRE is from \"free\" and OPE from \"open.\"  The new word can be a noun, a verb (and a participle), an adjective (FREOPY) and an adverb (FREOPILY).\r\n\r\nIf adopted, its simplified forms as future dictionary entries could be as follows:\r\n\r\n<dl>\r\n<dt><strong>freope</strong> (vt) <strong>freoped; freoping</strong> [orig. from 'free' and 'open']</dt>\r\n<dd>to create a software product, book, artwork, design or other form of intellectual work that will allow others freedom to use it, look at its inner working mechanism or source, and modify it if possible--<cite>(\"When you go to college, learn how to ~ your programs properly.\"--JH)</cite></dd>\r\n<dt><strong>freope</strong> (n)</dt>\r\n<dd>a software product, book, artwork, design or other form of intellectual work allowing others freedom to use it, look at its inner working mechanism or source, and modify it if possible--<cite>(\"There are many good ~s out there.\"--JH)</cite></dd>\r\n<dt><strong>freopy</strong> (adj.)</dt>\r\n<dd>having the property of allowing others freedom to use it, look at its inner working mechanism or source, and modify it if possible: FREOPED--<cite>(\"Do they have ~ books in that new bookstore?\"--JH)</cite>~~<strong>freopily</strong> (adv.)--<cite>(\"The scattered programmers are ~ busy enhancing the latest application.\"--JH)</cite></dd>\r\n</dl>\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Yes, copyleft is a real difference, but...'
+    hostname: 68.93.224.4
+    created: '1161190271'
+    body: "Yep, the copyleft issue is a <em>real</em>, <em>substantive</em> difference.\r\n\r\nThe trouble is, none of these terms actually split on this difference: both  the <a href=\"http://www.gnu.org/philosophy/free-sw.html\">Free Software Definition</a> (which is usually what people regard as the definitive source for the meaning of \"free software\") and the <a href=\"http://www.opensource.org/docs/definition.php\">Open Source Definition</a> lump both cateogories into one.\r\n\r\nYou may also recognize the \"Open Source Definition\" as being closely related to the <a href=\"http://www.debian.org/social_contract#guidelines\">Debian Free Software Guidelines</a>. One is derived from the other, though I forget which came first.\r\n\r\nHowever, <a href=\"http://www.gnu.org/copyleft/copyleft.html\">\"copyleft\"</a> versus \"non-copyleft\" is a much more important distinction which <em>actually</em> says something about your values, whereas whether you use \"free software\" or \"open source software\" is pretty irrelevant -- at most it tells you what kind of mode you prefer to use in promoting the same idea.\r\n\r\nAnd this is not an academic point. At this very moment, there is a standing debate between the Creative Commons, which is currently determined to maintain a copyleft defense against the new threat of TPM measures. However, Debian is now promoting an <em>anti-copyleft</em> stance, claiming that \"user freedoms\" trump the bad effects caused by TPM copyleft breakage (their \"parallel distribution\" proposal fails to repair the damage that TPM distribution would do to the copyleft -- IMHO this is sufficient to make it untenable, but many within Debian apparently disagree. Of course we won't really know what the \"Debian Project\" thinks, until they have a \"GR\" and vote on the issue).\r\n\r\nAnd that's basically the point of the whole \"copyleft\" issue: which is more free? A license which preserves the freedom to innovate with a particular work indefinitely, or a license which allows the user all freedoms, including the freedom to destroy the freedom of the work?\r\n\r\n(Just to make things more complicated, CC argues that it is reasonable to apply this copyleft measure even to CC-By, because, unlike copyright law, TPM can remove <em>fair use/fair dealing</em> privileges. So, they argue, even the CC-By license needs this provision).\r\n\r\nI'm not going to try to tell you which is right (I have used and would recommend both approaches, depending on the circumstances), but deciding that says something real about your feelings and values.\r\n                     \r\nThe whole \"free\" versus \"open source\" thing is specious, though. It's like those Miller Lite beer ads: \"Tastes great!\", \"Less filling!\".\r\n\r\nWhich brings us back to beer analogies again, doesn't it? That's really too bad.  I hate beer.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Oh dear...'
+    hostname: 68.93.224.4
+    created: '1161190926'
+    body: "That's scary.\r\n\r\nOf course, I always thought copyleft could be marketed as \"stayfree\", but of course, that's trademarked already. ;-)\r\n\r\nMaybe \"libertyware\" could work?\r\n\r\nThe problem is, there's way too many people calling it \"free software\" and way more people calling it \"open source software\" already, so trying to market a new name for it is pretty much a lost cause, IMHO. Too many \"old dogs\".\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Mix it as you like.'
+    hostname: 88.112.169.69
+    created: '1161208637'
+    body: "That is:\r\n\"Free software\" is free software.\r\n\"Open source\" is open source.\r\nFree software can be open source (or not).\r\nFree software can be proprietary software.\r\nOpen source is typically free (sometimes with a string).\r\n\r\nSo, as an answer to the question about what free software should be called\r\nI suggest you call it \"Free Software\".\r\nOpen source I suggest you call \"Open Source\".\r\nRight now I belive the \"Free Software\" is loosing harts as it does not really\r\ntell anything about how, and why it was born and produced.\r\n\r\nBut wait, there is this FOSS and FLOSS too. Newer mind the \"L\".\r\nHm, we also need FNOSS (Free but Not Open Software) and NOSFSS (Not Open SOURCE but Free Software).\r\nRight now, I think \"Open Source\" is the word to use bye those who undertand about it and\r\nalso undertand that most people understand nothing about it.\r\nAlso understanding the fact that \"Open\" is a greater word than \"Free\" in this particular case where \"Free\" is more like something that happens once a week at such and such time\r\nfor such and such products. \r\n\r\n \r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"Free software can be open source (or not)."'
+    hostname: 68.93.224.4
+    created: '1161265607'
+    body: "\"Free software can be open source (or not).\"\r\n\r\nClearly you are rejecting the \"Free Software Definition\" when you say that, arguing that the term really should mean what we call \"Freeware\" (that is, freely downloadable in binary form, but without source, and possibly without modification rights, etc).\r\n\r\nI won't say that's \"wrong\", because it makes English-language sense, and we're talking about labels here.  Obviously, though, it was unintended.\r\n\r\nI agree with you that \"open source\" is the label that has stuck, outside of the small world of the already-sold. And of course, it's not really a problem for those of us who already know what we're talking about to use multiple labels, because, well, we already know what we mean.\r\n"
+-
+    name: fb9
+    mail: ''
+    subject: 'what to call free software?'
+    hostname: 74.32.199.207
+    created: '1161266282'
+    body: "answer: call it .....    <em>software</em>\r\nwhy?  if you call it anything ,anything becomes a target of discrimination.\r\nit is easy to say i won't use free software.\r\nit is hard to say i won't use software.\r\nsoftware choice should be based on value not a label.\r\nfree soft ware is now the hunted.\r\nif you are hunted why present a target?\r\n"
+-
+    name: 'Josue Abarca'
+    mail: ''
+    subject: 'Free software can not be proprietary software.'
+    hostname: 190.56.11.14
+    created: '1161384106'
+    body: "Only to clarify it:\r\n\r\nFree software can <strong>not</strong> be proprietary software.\r\n\r\n“Free software” is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech”, not as in “free ice cream”.\r\n\r\nIf your you have ocación, you can read this:\r\n<a href=\"http://www.fsf.org/licensing/essays/free-sw.html\">The Free Software Definition</a>\r\n\r\nRegards."
+-
+    name: kennyf27
+    mail: ''
+    subject: 'I did'
+    hostname: 69.136.213.140
+    created: '1161393104'
+    body: "All knowledge, the totality of all questions and answers, is contained in the dog.\r\nFranz Kafka"
+-
+    name: kennyf27
+    mail: ''
+    subject: 'Thanks for the Tome'
+    hostname: 69.136.213.140
+    created: '1161393521'
+    body: "I would argue that \"free licensing\" and/or \"free license\" are oxymorons. I would argue, but I'm really really tired.\r\n\r\n\r\nAll knowledge, the totality of all questions and answers, is contained in the dog.\r\nFranz Kafka"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I think you''re missing the point'
+    hostname: 68.93.224.4
+    created: '1161395820'
+    body: "I think the person you were responding to is rejecting that definition because it's too obtuse. Sure, the FSF <em>wants</em> you to interpret \"free software\" that way; that's what <em>they</em> mean when they say it; but you can't co-opt the language that way—at least not easily.\r\n\r\nTo many people \"free software\" will continue to mean \"software you can get for free\". No amount of chanting the litany of Stallman will change that.\r\n\r\nI think he's got a point. That's why the Open Source Initiative was started. All this claptrap about \"different missions\" and \"ideology versus pragmatism\" is mostly smoke thrown up by the FSF because they felt threatened, and because there were personal politics in the mix (<em>Eric Raymond</em> surely prefers the \"pragmatic\" approach, but it's not clear that that's what \"Open Source\" is \"all about\": to many people \"openness\" is as meaningful and evocative of ideals as \"free\" is).\r\n\r\n\"Open Source\" is not and never has been a \"separate movement\" as Stallman likes to insist it is. It's just a marketing campaign. Distancing the \"Free Software Movement\" from the \"Open Source Movement\" is like distancing the \"Nike Movement\" from the \"'Just Do It!' Movement\".\r\n\r\nThe most appalling thing is that Stallman, when confronted with the fact that he had chosen a very confusing and misleading slogan for his ideology, instead of recognizing his error and taking steps to fix it, chose to <em>blame the English language</em>.\r\n\r\nThat's like me saying \"French is stupid because 'parles' and 'parlent' are pronounced the same—so I'll just pronounce it differently anyway! Then I'll correct all those stupid French people!\" (Not entirely made-up, I started learning French from a book, and had to unlearn this habit when I started taking classes! I knew I was wrong, but I did <em>feel</em> like saying that a few times).\r\n\r\nConcepts have always transcended the boundaries created by words, that's what makes writing (and slogans and branding) so challenging and creative an exercise. In Japanese, for example, there are so many homonyms, it's amazing they ever manage to communicate, so you have to be extra careful (e.g. \"shi\" can mean both \"four\" and \"death\", and probably quite a few other things—such languages rely on \"bound words\" and formulaic phrases to add clarity in such situations. So does English on occasion).\r\n\r\nStallman's not the first person to get bitten by an ambiguous phrase. You've probably heard what happened when Chevy tried to market a car called (in America) \"Nova\" in Spanish-speaking countries, where the name means \"doesn't go\". Shall we blame Spanish for that ambiguity? Did Chevy blindly soldier on, \"educating\" Spanish-speaking customers of the meaning of the Latin word \"Nova\" and its modern usage in English? Or did they <em>just change the name</em>?\r\n\r\nThe coincidence between \"free of cost\" and \"free of restrictions\" is not so dumb in English, in my opinion: it conveys the very wise observation that cost <em>is</em> a restriction. Too often, I think the free software movement alienates people who know that by going ballastic whenever somebody talks about the advantages of software that doesn't cost anything. Dismissing the issue of cost is pretty alienating to anyone who's ever been deprived or disappointed because of it (and that's most of the world).\r\n\r\nThe truth is that as a matter of market reality, free software <em>doesn't</em> cost anything to acquire, and that <em>is</em> a major advantage of it. The fact that we want it to be free of <em>both</em> cost and restrictions is the real point. In practice, there are essentially <em>no examples</em> of software which is \"free of restrictions\" but \"costs money to acquire\". Companies who \"charge for free software\" aren't: they are either charging for the service of writing software or they are charging for the services of installation and support. Money-making in the world of free software is all about some kind of service, not software as a good. The license makes the latter illusion largely untenable.\r\n\r\nFor people in capital-poor situations, this is a major life-saver, because it means you have the option to substitute labor for capital (so-called \"sweat capital\"). In fact, free software provides major leverage for such people, because it makes that labor go a lot further than if they had to write everything from scratch. It's both the freedom and the openness of the software that makes that possible.\r\n\r\nI have a lot of respect for Richard Stallman. He's done some amazing things: starting the GNU project, creating the GPL, and I respect the line he's taking with the GPLv3 (even on the days I'm not sure it's the right one). But it is infuriating to see him then make stupid mistakes, refuse to recognize that they are mistakes, and create major schisms and political situations over trivialities.\r\n\r\nStallman's impression of what \"open source\" means, versus what \"free\" means is terribly subjective (and from my point-of-view at least, quite inaccurate). Yet he states these opinions as if they were objective facts. That's the kind of thinking that gets you pigeon-holed into a tiny little community of \"like-minded people\" instead of being able to make contact and motivate people in the wider world. The real reason why \"open source\" has been so successful is because the people promoting it were simply willing to learn how to <em>speak other people's language</em> when communicating the concept, instead of pedantically offering to \"correct\" their \"misuse of the language\". Can you <em>get</em> more arrogant than that?\r\n\r\nIn my opinion, it's the <em>idea</em> of free software that matters. If the words \"free software\" convey that idea, then, great—use them. Inside of our community, they work fine, and people recognize them as jargon. Outside of that community, though, they are practically useless. You need to adjust your language if you want to be understood. And the only way that communities grow is by managing to communicate with the world outside of them.\r\n\r\nIncreasingly, that world is introduced to the idea as \"open source software\". So, it would behoove the \"free software movement\" if it wants to continue to have any relevance, to send the message that \"free software\" and \"open source\" software <em>are two names for the same thing</em>, instead of harping on the idea that they are names promoted by different groups of people.\r\n\r\nIt's a truly Liliputian argument!\r\n"
+-
+    name: kennyf27
+    mail: ''
+    subject: 'FREOPE?'
+    hostname: 69.136.213.140
+    created: '1161404486'
+    body: "\"FREEDOPE\" would probably bring far more hits.\r\nAlso, a lot of people in the Appalachians might think that \"FREOPE\" is a plea to Free Opey Taylor. Don't forget, many of them think that \"TVLand\" (nee \"Nick at Night\") is one of the \"big three\" \r\nWhich reminds me: Does anyone know when and why prime time TV went from ALL rural/country (\"Gunsmoke\", \"Wagon Train\", \"The Rifleman\", \"Bat Masterson\", \"The Real McCoys\", \"Gomer Pyle\", \"Maverick\", \"The Andy Griffith Show\", \"Little House on the Prairie\", \"The Beverly Hillbillies\", \"Green Acres\" et. al., suddenly morphed into allowing ONLY urban/metropolitan settings, i.e. \"Friends\", \"Sex in the City\", \"Dharma and Greg\", \"Will and Grace\", \"Seinfeld\", \"Cheers\", \"NYPD Blue\", \"Just Shoot Me\", \"CSI/xxx\", \"Law and Order\", \"Hill Street Blues\", \"Streets of San Francisco\", \"Crazy About You, etc.?\r\nBy the way, is any of this giving anyone ideas for the elusive name for \"Free Software\" (sic)?\r\nIt made me really hungry. Later.\r\n\r\n\"If one gives up freedom to obtain security, they will end up with neither.\"\r\n(Paraphrasing) Ben Franklin"
+-
+    name: 'Josue Abarca'
+    mail: ''
+    subject: 'Ok, I got lost the point, in my last response ...'
+    hostname: 190.56.11.14
+    created: '1161418517'
+    body: "Ok, I got lost the point, in my last response, I only wanted to clarify the concept, \"that's what I mean when I say it\". (I know, it was not necessary)\r\n\r\nThe term \"free software\" has an ambiguity problem.\r\nThe term \"Open Source\" has an ambiguity problem.\r\n\r\nSofware exists of which we can access to the source but it is not \"Open Source\", \t\r\nso also we must explain the concept of Open Source. I believe that it is ok to have to explain the concept.  \r\n\r\nIn the words of someone else:\r\nI \"prefer the term free software because, once you have heard it refers to freedom rather than price, it calls to mind freedom.\"\r\n\r\nIn order to avoid badly understood I would prefer the term “Libre Software”.\r\n"
+-
+    name: eepman
+    mail: ''
+    subject: 'I think simplicity and minimalism is best.'
+    hostname: 69.160.90.61
+    created: '1161465459'
+    body: "For sake of simplicity and shortness, I think we should just call it FS.\r\nIt is free and it is software.\r\n\r\nFor instance, \r\n<cite>Hey man, you like that F-S on the internets.\r\nWhat is F-S?\r\nYou know, Free Software.\r\nOh yeah, love it.  That INSERT NAME HERE is so awesome!</cite>"
+-
+    name: ''
+    mail: ''
+    subject: 'Why free software is bad terminology'
+    hostname: 81.174.143.230
+    created: '1161702976'
+    body: 'Free software implies that software is delivered without cost to the user. Quicktime falls into this category, however it is free as in beer. Libre is a better term, however this isn''t a widely used word and some people don''t understand its meaning. Free as in freedom or FLOSS or FOSS are either too long or too obscure. Open Source is still another bad term, purely because it doesn''t express completely what the software stands for. Therefore all of the terminology used is bad, something new and expressive needs to be created, something that everyone will understand whether they''re a windows user who just bought a PC from where in the world, or business managers who don''t have a clue what the point of freedom is!'
+-
+    name: kennyf27
+    mail: ''
+    subject: 'You/ve got to be kidding'
+    hostname: 69.136.213.140
+    created: '1161888643'
+    body: "Right now, people are being slaughtered, raped and/or maimed in several places, for absolutely no apparent reason; our administration is bold-face lying to us on a daily business; the Iranian, North Korean and Venezuelan heads of state - two of whom are holding nuclear weapons or will have them soon - oh, and ALL or whom are dedicated to ours and Israel's destruction, along with millions upon millions of angry Islamists who are only waiting for the opening to commit genocide with us as the target.\r\nAnd you have the time to devote to beating this topic to death? Your poll has been lopsided towards \"Free Software\" for days, so why not just declare a winner and move on?\r\n\"Free\" is not \"Open Source\", and both have no clearcut definitions. So, I think they should both be avoided. That's my two cents.\r\nOn another topic - Any of you guys know about any hot jobs? I have the MCSE2000 and CISSP, plus 30 plus years of IT experience, but my head was chopped off with several of my colleagues in the great \"purge\" of 2003. I still read the trade rags, still \"live\" on my computer, still learning, but I'm 55, and believe me, it's a tough place to be. I'm also disabled, but that might actually work in my favor.\r\nWierd World.\r\nCaemoth MacAlpin, of that ilk. \r\n"
+-
+    name: kennyf27
+    mail: ''
+    subject: FSM
+    hostname: 68.63.122.202
+    created: '1162192556'
+    body: "FSM is an initialism, not an acronym. Trust me.\r\n\r\n\r\n\r\n\r\nAll knowledge, the totality of all questions and answers, is contained in the dog.\r\nFranz Kafka"
+-
+    name: kennyf27
+    mail: ''
+    subject: 'What an idiot!'
+    hostname: 68.63.122.202
+    created: '1162193265'
+    body: "Free software is software that doesn't cost any money. It is in no way tied to Open Source, as most freeware programs do not come with source code.\r\n\r\n\"Vote early, and vote often.\" Al Capone"
+-
+    name: kennyf27
+    mail: ''
+    subject: stayfree
+    hostname: 68.63.122.202
+    created: '1162194794'
+    body: "As the head of a trademark research firm for fifteen years, I can tell you that \"sanitary napkins\" are never going to be confused with \"software\", nor would they be located near each other on the shelves, nor even probably ever co-exist in the same store. That is called \"different avenues of trade\". The goal of a trademark - and the measure of its worth - is whether or not it could confuse the consumer as to the origin of the goods. In this case, \"stayfree\" for \"software\" would probably fast track right through to registration with the PTO. Stayfree (the pad) might try to fight it, given that they probably have a lot of lawyers and money, but, as a former \"expert witness\" on the subject, I could almost guarantee it would go through, no sweat. Add a unique logo, and the \"mark\" would be even \"stronger\". Unique packaging, even better. I mean, do you think people would think that the origin of the Open Source or Free Software would be, say, Proctor and Gamble? I highly doubt it.\r\nDo you think that somebody could remove or edit this intrusive \"Backup Platinum\" ad that covers a lot of the text on the screen?\r\n\r\n\"One who tries to have both security and freedom, will probably end up with neither.\"\r\nBenjamin Franklin"
+-
+    name: kennyf27
+    mail: ''
+    subject: 'Copyleft?'
+    hostname: 68.63.122.202
+    created: '1162194971'
+    body: "Copyright means granting the right to copy. Copyleft is gibberish.\r\n"
+-
+    name: kennyf27
+    mail: ''
+    subject: 'And another face in the crowd is heard from.'
+    hostname: 68.63.122.202
+    created: '1162195338'
+    body: 'I am glad you have an opinion, and that is all it can ever be - an opinion, because whether you and/or your supporting article make a case for your choice, it cannot be objective, but always subjective. As such, it will never be more than your opinion. '
+-
+    name: ''
+    mail: ''
+    subject: 'And there would be something'
+    hostname: 161.253.10.24
+    created: '1162211873'
+    body: 'And there would be something wrong with freeing Palestine from Israeli occupation?'
+-
+    name: admin
+    mail: ''
+    subject: 'Please don''t start on this topic'
+    hostname: 203.59.181.110
+    created: '1162212176'
+    body: 'This is really the forum for discussing this topic. Please don''t start!'
+-
+    name: ''
+    mail: ''
+    subject: 'Freedom Software'
+    hostname: 156.34.54.43
+    created: '1166547750'
+    body: 'I''ve often thought "Freedom Software" made more sense than "Free Software". What do you think of "Freedom Software"?'
+-
+    name: 'Euan Mee'
+    mail: xlucid@users.sf.net
+    subject: 'Ambiguity in a common word...'
+    hostname: 82.41.72.248
+    created: '1176913695'
+    body: "...is a bad thing.[note1]\r\n\r\n'Freeware' is easily understood in meaning.  \r\n\r\n'Free software' ends up in a paragraph-length explanation [note2]\r\n\r\nIf you want to convey 'freedom', I suggest using 'freedom software'.  As a bonus, it even condenses down to 'freedomware'.  \r\n\r\nIt's pretty plain to see that freedomware and freeware are different things, even to a passer-by.  Without need of long explanation.\r\n\r\n\r\n\r\n\r\n[note1] The commonest meaning will be what is understood by the listener, not the jargon meaning that you want  them to infer (by telepathy?)\r\n\r\nIf you want only a specialist group to understand you, then by all means use a secondary, jargon meaning applied against the common word that has a much more commonly understood meaning.\r\n\r\n\r\n[note2] \"Free software. Where the 'free' refers to freedom.  As in 'free speech', not as in 'free beer'. \"  Even in this specialist thread on a specialist forum, this explanatory paragraph has had to be repeated at least half-a-dozen times...\r\n\r\n\r\n"

@@ -1,0 +1,161 @@
+-
+    name: admin
+    mail: ''
+    subject: 'Pretty straightforward'
+    hostname: 124.168.110.146
+    created: '1165746029'
+    body: 'Last week we asked you what your favourite distro was. So this week it seemed logical to ask what your favourite Desktop Environment is. So please cast your vote and post a comment to let us know why you''ve voted the way you have.'
+-
+    name: 'Thilo Pfennig'
+    mail: ''
+    subject: 'GNOME, sure'
+    hostname: 84.141.166.42
+    created: '1165753017'
+    body: "Why not KDE? The major reason is the sound of breaking glass if something goes wrong in KDE. You think I am stupid because I can change that? Right, but thats waht I do NOT want from a Desktop Environment. I do not want to set up things. I think that is the typical GNOME user. The typical KDE user OTOH is somebody who likes or HAS TO set up his enviroment individually and if he cant he does not like the desktop. Not that you can noit set up GNOME to your preferences but the real power IMHO is when you just use it. Anyway - I also use KDE applciations and I am happy if people are happy with KDE instead of using Windows or Mac OS. In  the end that is what counts! The different DE attract different kinds of users and some users even switch back and forth.\r\n\r\n--\r\nThilo Pfennig\r\nBlog: http://vinci.wordpress.com/"
+-
+    name: Tyler
+    mail: ''
+    subject: Fluxbox
+    hostname: 142.177.138.252
+    created: '1165778690'
+    body: "Perfect for me. Light on resources, gives me enough to get to the apps I need, without any distractions. \r\n\r\nWhen I switched to GNU/Linux I wanted a real alternative to WindowsXP. Gnome and KDE felt like variations on a theme; Fluxbox is something different. The only things on my desktop are the apps I'm running, not a screenful of folders and files and other clutter. You don't get the configuration tools, but that means that when I want to change something I'm learning more about how my OS works, not how the DE interacts with it.\r\n\r\nTyler"
+-
+    name: bong
+    mail: ''
+    subject: 'Happy with KDE'
+    hostname: 88.103.10.150
+    created: '1165782963'
+    body: "I use KDE because it is a very coherent environment. I just adore the philosophy that everything is modular and helps to build a greater structure. In my eyes KDE is one of the best sw projects.\r\n\r\nOn the other hand I understand Thilo Pfennig. When I begun with KDE I felt that the system had no own image and all it offered was a lot of tiny clickables. However I gave it a try and stayed with it despite the gnome was simple (which is very good) and easy to learn. KDE offered me things I wouldn't find in Gnome at all. \r\n\r\nSure, I had to customize my KDE, but I would need to customize probably every environment just to find the quickest GUI schemes. I hate icon aiming and therefore i fell in love with the concept of active corners which I copied from the very promising Symphony OS' Mezzo same as using the mouse wheel to toggle windows/desktops etc. KDE just allows me very many useful things and all I have to do is to set them up. \r\n\r\nTherefore I would love to see KDE going after their own GUI concepts and image, because now in its defaults it doesn't use all its potential and doesn't look/work any more interesting than other desktops or systems. It seems to me that most users have to customize KDE anyway so why not offer a distinctive defaults instead of the cold unpersonal almost-like-windows settings. Exactly, Tyler, \"Gnome and KDE felt like variations on a theme\" even though KDE has the power to be something completely better.\r\n\r\nAnd last, not least: besides the integration of (KDE) programs and great functionality I like to see that KDE is actively taking part in the Freedesktop.org development. I think it will open a way so all the user pragrams can have unified GUI (depending on DE) and can interoperate no matter where they were 'born' (e.g. I hate that my KDE and Gnome apps (Firefox) have the confirmation buttons on the opposite sides of the pop-up window).\r\n\r\nThen maybe once, we will be able to see Adobe CS, Corel Painter or ArchiCAD labeled with \"Freedesktop.org compatible\" :)"
+-
+    name: 'Wouter Verhelst'
+    mail: ''
+    subject: 'Desktop Environment? What''s that? ;)'
+    hostname: 81.82.136.107
+    created: '1165798407'
+    body: 'I don''t use a DE. I did use Enlightenment for three years, but its bugginess finally killed it for me. I tried using GNOME for a while, but got fed up with it eventually. Now, I''ve switched to icewm, which is great for me: a simple to use interface, a <em>very</em> straightforward configuration file, and nothing more.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Could be true...'
+    hostname: 68.93.224.4
+    created: '1165820255'
+    body: "Certainly I am a tinkerer and I do like KDE better. So that might be a good theory. ;-)\r\n\r\nI like the ease of customizing KDE's appearance and behavior.\r\n\r\nHowever, I can't honestly compare this to Gnome, because I simply haven't tried it out enough to tell. I do know that the Gnome environment installed by Debian (Sarge) left me completely non-plussed, and I didn't know what to do with it, so I went back to KDE.\r\n\r\nI remember seeing a RedHat system a few years ago, though, which I believe was using Gnome, but I was hard-pressed to tell the difference from KDE. So I think it's actually possible to make them look very similar with enough customization."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'FVWM was nice, but I''m now using KDE'
+    hostname: 68.93.224.4
+    created: '1165820555'
+    body: "For years, I just used FVWM, which is not really a \"Desktop Environment\", but just a \"Window Manager\". I had some really nice custom launcher scripts for it, and it was useful.\r\n\r\nI have since moved to KDE, originally as an experiment, so I could review it, but I've gotten hooked on it. There is a downside, in that I find it difficult to create the kind of pre-coded scripts that I used for FVWM, leaving me with a somewhat arduous task of replicating my environment choices on each new install.\r\n\r\nKDE allows easy, GUI-based configuration of your environment, but it doesn't make it easy to encapsulate that into a user script (or if there <em>is</em> a way to do this, it isn't well-documented). I've gotten used to the KDE way of doing things, though, and I think I'm unlikely to go back."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'KDE, IceWM, e16 and Gnome'
+    hostname: 84.7.125.11
+    created: '1165827452'
+    body: "This is the order I followed when I started using GNU/Linux systems. KDE is very Win-like (without the many annoying wizards and some clever stuff added), and is filled with goodies and settings - no trouble there. After a while though, I found it too pervasive - it actually hid most apps from me under its glitz. Moreover it weights heavily on a system's resources (I use several 'ancient' machines with recent distros). So I switched to something lighter: IceWM, which has a similar basic layout but which is MUCH lighter - as a matter of fact, too light.\r\nSo I tried my had at Enlightenment ver. 0.16, which I appreciated immensely due to its very innovative (at least for me) interface, nice looks and light resource requirements. When I learned that development on e16 was basically at a standstill I tried e17, but I found most of what was appealing in e16 to have been removed.\r\nSo I tried going back to KDE, but it had gotten enven glitzier and heavier; so I took myself by the hand and started learning Gnome. It's bare, it's not really innovative (very MacOS-ish), it's not very easy to customize, but it does a lot of nice stuff by itself: plugging a device on a USB port results in almost instant integration in the environment, which is uncluttered and quite intuitive, it's a fair bit lighter than KDE and it is unobtrusive.\r\nBut then, to each his own.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Raghu Kodali'
+    mail: ''
+    subject: 'GNOME is my DE'
+    hostname: 125.22.84.243
+    created: '1165942575'
+    body: "why not KDE?  I dont know.  I just dont like it.  \r\nwhy GNOME?  I dont know. I just like it."
+-
+    name: 'Jon Peck'
+    mail: ''
+    subject: XFCE
+    hostname: 66.155.212.203
+    created: '1165976180'
+    body: 'I prefer lightweight, yet functionally complete software.'
+-
+    name: Thilak
+    mail: ''
+    subject: 'GNOME is better than KDE !!'
+    hostname: 59.144.56.226
+    created: '1166087658'
+    body: "I am using CentOS KDE,, but it is crashing now and then ,, once i got error message,task bar,terminal & everything gone.. But i didnt get any error messages in GNOME..\r\n\r\nGNOME is good to use !!"
+-
+    name: itanium
+    mail: ''
+    subject: XFCE
+    hostname: 125.163.200.114
+    created: '1166242031'
+    body: "i use KDE for almost 3 years, and feel tired because it's so heavy even on fast computer.\r\nAnd then i choose Gnome, feel good, but i found the one i like. XFCE."
+-
+    name: ''
+    mail: ''
+    subject: GNUstep
+    hostname: 80.219.74.47
+    created: '1166351285'
+    body: "<a href=\"http://livecd.gnustep.org/\">livecd.gnustep.org</a>\r\n"
+-
+    name: ''
+    mail: ''
+    subject: KDE
+    hostname: 213.112.198.5
+    created: '1166417364'
+    body: "I'd vote KDE if I could ;)\r\n\r\n(fvwm might be a decent window manager as light weight alternative if I wasn't to lazy to configure it.)"
+-
+    name: ''
+    mail: ''
+    subject: ION2
+    hostname: 80.89.99.196
+    created: '1166457201'
+    body: "If you really want to work with your computer, not with your Desktop, Icons blablabla... then there is only one real alternative its ion2.\r\n"
+-
+    name: 'Eric Kilgore'
+    mail: ''
+    subject: KDE
+    hostname: 75.46.156.170
+    created: '1166575526'
+    body: 'I play with tons of distros.  I predominantly use KDE, but I''m content to use whatever is available.  As long as it works, I''m not very picky. I''m really starting to like fluxbox the more that I play with it.'
+-
+    name: Guillermo
+    mail: ''
+    subject: Fluxbox
+    hostname: 190.7.30.138
+    created: '1166694896'
+    body: "Why not Fluxbox in the poll? I guess that it has a certain number of users and a very active community like to appear in the poll.\r\nMy preferences: i like the clean look and feel of FB, it's light and fast, has very customizable keybindings, and the styles off course! Although it lacks of many unnecessary eyecandy (imho) it has just the right amount of it and keeps attention on what you are doing."
+-
+    name: cobe571
+    mail: ''
+    subject: XFCE
+    hostname: 81.117.149.114
+    created: '1166698122'
+    body: 'I use XFCE because is very fast.'
+-
+    name: ''
+    mail: ''
+    subject: KDE
+    hostname: 82.135.6.82
+    created: '1166735839'
+    body: "I use KDE because I´m still happy with it.\r\nAnd I can´t live without my Konqueror ;-)"
+-
+    name: maccampus
+    mail: ''
+    subject: AQUA
+    hostname: 81.244.135.185
+    created: '1166792349'
+    body: "I use Aqua the default gui on Darwin BSD if bundled as OS X.\r\n\r\nI use Aqua because it's the only *nix gui that is really user friendly & bisides that it runs all my Cocoa software besides all other *nix breeds of software.\r\n\r\nOne big bummer is that you can only use it on a Mac - Aqua itself is also bound to Darwin as OS none of the other *nixes will run Aqua.\r\n\r\nThen again unfortunally it's no secret anymore that OS X can be customized to run on any PC if you just choose your components carefully & are fortunate to know where you can find those customized patches & a Intel version of OS X. I wont tell ya though , better get a Mac , compare the hardware you get & you'll see the price is worth it."
+-
+    name: Freejack
+    mail: ''
+    subject: 'KDE for its apps'
+    hostname: 84.58.42.97
+    created: '1166820923'
+    body: "In those days when starting with Linux, I (a windows user this time) found KDE 1.x was the most simple to use and configure DE. Although it was crashing quite often (mostly the task bar) I stuck with it, because I thought Gnome was a bit to incomplete and the rest a bit too complicated to configure for me.\r\n\r\nNowadays KDE is my first choice, because i use a lot of applications that integrate so nicely into the DE. E.g. kmail, k3d, <strong>konsole</strong>!!!, konqueror and so on. Fortunately the average computer is fast enough to handle the DEs fluently. \r\n\r\nBut maybe I am just to lazy to change my habits ;-)"
+-
+    name: ''
+    mail: ''
+    subject: 'Second the motion for Fluxbox...'
+    hostname: 24.170.112.9
+    created: '1166838142'
+    body: "I have tried out numerous desktop environments on my Gentoo machine, and I must say the bottom line is what the user wants, the user should go for...\r\n\r\nHence my usage of Fluxbox.  I've tried all the fancy XGL/Beryl/Compiz stuff, on top of Gnome, KDE, etc...and I must admit it's very pretty...I've tried e16/e17, XFCE, and XPDE...they're all nice.  But my main thing is efficiency.  I absolutely love Fluxbox for it's efficiency.  It's fast, lightweight, and, if I desire, I can add in stuff like adesklets and idesk.\r\n\r\nI guess if you want to run a XP-ish machine, or a Mac-ish machine, then run Gnome or KDE or whatever...toss in some eye candy and amaze your friends (I admit, I change sessions when a hardcore XP user comes over so I can wow them with XGL).  But when I want to get stuff done, I use Fluxbox."
+-
+    name: PenguinPete
+    mail: ''
+    subject: 'Another Yay for Fluxbox!'
+    hostname: 71.214.240.49
+    created: '1166859655'
+    body: 'Yep, I''ve tried them all, from KDE and Gnome to ratPoison and evilWM. While many have their strengths (Window Maker runs a close second), Fluxbox remains the favorite choice. It looks cool enough - can even be souped up - and yet is fast and efficient, getting out of your way when you need it to. I especially love that the whole thing can be configured from text files, so it''s easy to hack on too.'

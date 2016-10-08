@@ -1,0 +1,21 @@
+-
+    name: ''
+    mail: ''
+    subject: Cool
+    hostname: 152.121.16.100
+    created: '1166119672'
+    body: "I was looking at that one at the bookstore the other day. I was wondering if someone did a review and here one is.\r\n\r\nRobert"
+-
+    name: ''
+    mail: ''
+    subject: 'Thank you for this'
+    hostname: 68.102.194.182
+    created: '1166244065'
+    body: 'Thank you for this particularly helpful (and properly done) book review. I will be getting a copy.'
+-
+    name: aroberge
+    mail: ''
+    subject: 'Good review but...'
+    hostname: 24.137.108.33
+    created: '1167863409'
+    body: 'Yes, there is always a "but"...  I found the review to be informative and detailed enough to interest me in considering buying this book.  However, I would have found it much more helpful, and credible, if the reviewer would have done some comparison with other Python textbooks.  For example, how does it compare as a reference to "Python in a Nutshell"; or, as a learning text for beginners, to "Learning Python", "Programming Python" or "Beginning Python"; or, as a source of useful examples (alluded to in the "Cons" section) to the "Python Cookbook".  I always find I learn more from book reviews that have a comparative sections with other books that I may already be familiar with.  Also, as alluded to above, it helps to establish the credibility of the reviewer in his/her evaluation of the book.'

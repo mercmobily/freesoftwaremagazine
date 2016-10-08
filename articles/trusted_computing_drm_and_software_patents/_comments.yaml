@@ -1,0 +1,91 @@
+-
+    name: admin
+    mail: ''
+    subject: 'How worried are you?'
+    hostname: 165.98.149.154
+    created: '1172426460'
+    body: 'This one is fairly self explanatory... please let us know your thoughts by voting and by commenting below.'
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'Not sure'
+    hostname: 80.6.124.25
+    created: '1172429057'
+    body: "I'm not sure if my view is more 'A little concerned' or 'Very concerned'.\r\n\r\nI think Treacherous Computing could be very damaging to free (as in freedom) software if it succeeds in a big way, though I'm not sure if it will. For example, it'll be hugely damaging if it becomes impossible to access most web sites or other people's documents if you're running GNU/Linux or another free operating system, or if it becomes impossible to install one on computers from all the major manufacturers. Projects such as Open OEM could be become very useful if the latter happens. DRM for music seems to have become generally unpopular (as their problems have been well publicised), which is likely to make Treacherous Computing less likely to become a big threat.\r\n\r\nI'm not really sure about software idea patents. I think they could be very damaging if used to a large effect. Companies such as Microsoft have started using them as threats against free software, but they don't seem to have much evidence to back up their claims, so they probably don't have that much to actually go on. I'm quite optimistic that they won't be made legal in the EU (where I live), and I think if they start having a large impact in the US, then their problems will probably become quite obvious, and they might be abolished there.\r\n\r\nI also expect the GPLv3 will be quite successful in dealing with some aspects of these threats.\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: ''
+    mail: ''
+    subject: '"I''m not really sure about'
+    hostname: 86.128.98.61
+    created: '1172459768'
+    body: "<cite>\"I'm not really sure about software idea patents. I think they could be very damaging if used to a large effect.\"</cite>\r\n\r\nThey've already done plenty of damage. Patents by their very nature will cause damage and we'd just have to learn to live with software patents if they were fulfilling their overall purpose. Unsurprisingly however, they are not, and there isn't now and never has been any reason to expect they would.\r\n\r\n<cite>\"Companies such as Microsoft have started using them as threats against free software, but they don't seem to have much evidence to back up their claims, so they probably don't have that much to actually go on.\"</cite>\r\n\r\nTake a look at some of the hundreds of thousands of software patents in the patent databases. Visit latestpatents.com. Can you name any  medium to large free software projects which you think probably don't infringe any software patents? \r\n\r\n<cite>\"I'm quite optimistic that they won't be made legal in the EU (where I live)\"</cite>\r\n\r\nThey are \"legal\" here in the EU. At least in the opinion of the EPO, which has already granted tens of thousands of them. \r\n\r\nPLH."
+-
+    name: 'Kevin Dean'
+    mail: ''
+    subject: 'A Little Concerned'
+    hostname: 216.127.159.52
+    created: '1172465727'
+    body: "I vote \"A little concerned\". \r\n\r\nThese are huge issues. But I've come to see that they are also fairly simple issues. We, the geek community, often try to think of potentials, and hypotheticals and such, and our issues seem bigger than they are.\r\n\r\nThe average person doens't care about hypotheticals, they care about what they experience.\r\n\r\nThe good news, and why I say only a little concerned, is that once people see how DRM affects them, they dislike it. It's merely a matter of time in my mind before market forces make DRM, Treacherous computing and many other things non-issues.\r\n\r\nWhat I see as a connected, but different issue is that those same people don't recognize why the Freedom is important. It might only be a matter of time before the next threat to Freedom emerges, and it will take the militant geeks to inform them then too."
+-
+    name: clau85
+    mail: ''
+    subject: 'Very concerned'
+    hostname: 132.199.232.169
+    created: '1172487278'
+    body: "I voted 'very concerned'. Let's take it step by step:\r\n\r\n<strong>- Trusted Computing:</strong> now this is really scary. Once those restrictions are build in the hardware, it will be a lot harder to get around them. As far as I know, they have already started to build motherboards with TC-mudels build-in. If the pressure from some companies is beeing kept like that, it's a matter of time until more and more products of this sort appear on the market. I think, though, that there will always be non-TC hardware available, but much less than now. This may be a darker view of the future, but I had a look a while ago on <a>http://www.againsttcpa.com/</a>. It's interesting to see, that companies like IBM are members of the TCPA.\r\n\r\n<strong>- DRM:</strong> fortunately, people (and governments!) see, how bad DRM is. This is where I don't fear that much, because all I have read and seen so far points to a more-or-less fast death of DRM. I asked myself \"why did Microsoft implement an DRM system in their operating system? What does an operating system have to do with controlling, what media the users play? WHY?\" I have read somewhere that the music and film industries put pressure on them. The probably put money on them! If Microsoft hadn't implemented DRM, the industries wouldn't have the market to promote DRM products and they would to sell them without. But is not much that money can't do. Because if it wasn't for money, why else would Microsoft do it?\r\n\r\n<strong>- Software Patents:</strong> are bad! Look what they have done in the USA. Fortunately, here in the EU, people have realized this and big lobbyists like Microsoft don't stand a chance, although some try to bring them up. It has been written a lot about software patens and it is known why these are so bad. \r\n\r\nI have been thinking a lot about Free- and Open Source Software lately and how a world dominated by it would look like :) Maybe it's a too ideal world to be real, but the main goal is to bring freedom to the users, freedom to chose what software they want, freedom to play their (bought) media on whatever devices they own without restriction etc. Freedom is a beautiful ideal and I have a great respect for people who fight for it, who take action and make it real... Some things I always wanted to say :)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I would say "extremely"'
+    hostname: 68.93.224.4
+    created: '1172507956'
+    body: "I am extremely concerned about these issues, but I didn't choose \"they will eventually kill free software\", because that presupposes  defeat.\r\n\r\nI believe DRM/patents/trusted computing <em>won't</em> kill free software, because we'll kill them first. Society needs free software and wants free culture very badly, so it's not going to tolerate the things that interfere with them.\r\n\r\nI know the \"bad guys\" look big now, but honestly, we're the force to be reckoned with -- you just have to look at the growth pattern to see that. If I were entrenched in the business of selling proprietary software, I would be really worried right now.\r\n\r\nI'm sure you've heard the comment that the internet 'interprets censorship as damage' and 'routes around it'. Well, that's happening. Eventually it makes the censor give up and find something more useful to do with their lives. This is going to be true of proprietary software and culture companies, too. It's just that they are very big and they're going to fall long and hard. It'll be years before they actually hit the ground.\r\n\r\nBut man oh man, are they going to make a crater.\r\n\r\nTo continue this sort of bloody metaphor, I mean. ;-)\r\n"
+-
+    name: rag
+    mail: ''
+    subject: 'Clarity of thought'
+    hostname: 84.45.158.64
+    created: '1172527671'
+    body: "Trusted Computing, DRM and Software Patents, of themselves, are three different concepts. One can use trusted computing as part of a platform to enforce DRM, but equally one could use it as part of a platform that one controls oneself to run software that one signs oneself (my secure system approach). When trusted computing is under the control of someone else, and is used to enforce desiderata with which one disagrees, then there is a problem. In this sense there could be a strong link between trusted computing and DRM. (There is another debate as to whether DRM should be an enabler or a disabler of rights, and whose rights are to be managed. Historically discussion of DRM has been arguably rather one sided.)\r\n\r\nSoftware patents, so called, go way beyond trusted computing and DRM. Patents have an economic value in generating more wealth for society than would otherwise be the case. The case for hard patents is much easier to argue than it is for soft patents, such as business processes or \"software\". One can go on to suggest that software patents inhibit innovation, because of the dangers of being caught infringing by some unreasonable party, or a so-called patent troll (keeping the argument very short)."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'With respect ...'
+    hostname: 68.93.224.4
+    created: '1172705282'
+    body: "<p>With respect, those are kind of nitpicks on the terms. In the trade press, in society in general, and as meant here:</p>\r\n\r\n<ul>\r\n<li>\"Trusted Computing\" means \"can be trusted by the people who sell you proprietary software to lock you away from control of what is theoretically your own property.</li>\r\n<li>\"DRM\" <i>always</i> means taking away your rights, not providing licensing and attribution information.</li>\r\n<li>There are efforts like Creative Commons' licensing RDF and the XMP project (to embed licensing data into image and sound files more efficiently), but no one calls those things \"DRM\": the term is too tainted now.</li>\r\n</ul>\r\n\r\n<p>As for patents, even on hardware, having a net positive influence on innovation? I don't believe that any more. It might've been true in the 19th century, but it just doesn't make sense in the 21st. AFAICT, patents are now almost always a retardation of progress, not an inducement towards it. And overall, I don't think the few exceptions are worth the baggage of having patents.</p>\r\n\r\n<p>People make a big deal about pharmaceutical companies, but the truth is that a large part of the high cost of researching new drugs (the justification for having patents to protect their later profits) are in fact <i>caused</i> by the same patent laws.  Research is always easier in an environment of intellectual freedom and the free sharing of results—an acknowledged fact in the academic and scientific communities for centuries.</p>\r\n\r\n<p>Not to mention the fact that these patent protections, and the resulting price-gouging, have resulted in many drugs that get invented, but then are not available for the people who need them.</p>\r\n\r\n<p>And for that matter, drug patents have led to an extreme market distortion towards new, highly proprietary chemical compositions to solve problems that might well be better treated with stuff as simple as vinegar (the efficacy of the vinegar home remedy for fungal infections of the toenails is rumored to be about equal to that of the best proprietary drugs—and it's certainly cheaper) or sugar-water (there is a nearly free recipe for a rapidly-absorbed mixture to save cholera victims from dehydration and weakening that works extremely well). At the same time, doctors and patients are both being pressured by pharmaceutical companies to \"treat\" all sorts of \"conditions\" that weren't previously regarded as medical problems.</p>\r\n\r\n<p>So the patents may be helping pharmaceutical companies to make money, but <i>are they helping us as a society?</i> I think it's doubtful at best, and even without patents there would still be commercial incentives for innovation.</p>\r\n\r\n<p>The truth is, you might (starting from scratch) come up with a patent incentive system that promotes innovation more than simply eliminating patents entirely, but nothing we actually get is going to be that system. Patents either need to be abolished altogether, or <i>completely</i> reformed.</p>\r\n"
+-
+    name: tushargokhale
+    mail: ''
+    subject: "What is DRM?\nTushar"
+    hostname: 69.225.161.11
+    created: '1173201599'
+    body: "What is DRM?\r\n\r\n\r\nTushar Gokhale\r\nhttp://gr8tushar.tripod.com"
+-
+    name: guydjohnston
+    mail: ''
+    subject: DRM
+    hostname: 80.6.124.25
+    created: '1173220212'
+    body: "DRM is a technology which restricts people from copying information. According to the companies that promote it, it stands for \"Digital Rights Management\", but a more accurate name is 'Digital Restrictions Management'. There's a Wikipedia article about it at http://en.wikipedia.org/wiki/Digital_Rights_Management, and a good website about the dangers of it at http://www.defectivebydesign.org .\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: 'paul 3'
+    mail: ''
+    subject: 'trusted computing, DRM, and software patents'
+    hostname: 65.26.227.13
+    created: '1173230163'
+    body: "Each of these initiatives have been established by and are maintained by big money and their associated lobbyists (ie, political power). There is NO way that this can ever be good for the society. There is too much danger that trusted computing and DRM can become means to stifle innovation and competition just as software patents do already. \r\n\r\nMy response is 'extremely worried' because it's clear that our society is already suffering from the destructive effects of greed and the desire for short-term profit. It's easy to see how these three concepts can be used to support that behavior. Big money interests already have enormous legal and political clout to protect themselves and extend their influence. They do not need any more protection.\r\n\r\nWe need to encourage and support the opportunity for innovation within our business environment, not discourage or limit it."
+-
+    name: tushargokhale
+    mail: ''
+    subject: 'Thanks for explaining in'
+    hostname: 124.47.166.68
+    created: '1173657002'
+    body: "Thanks for explaining in detail the DRM concept. If that is the problem then why not comeup with open source formats and support it?\r\n\r\n\r\nTushar Gokhale\r\nhttp://gr8tushar.tripod.com"
+-
+    name: ''
+    mail: ''
+    subject: 'let them do what they want'
+    hostname: 159.121.204.129
+    created: '1173799859'
+    body: "The power has allways been the peoples no one is going to use java or microsofft in the future and as soon as they started to paten .gif .png came out. We will just make something better and never use them or there stuped little products agien\r\n\r\nrandY zeda.org"

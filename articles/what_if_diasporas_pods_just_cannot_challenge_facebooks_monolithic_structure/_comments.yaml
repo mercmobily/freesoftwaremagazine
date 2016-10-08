@@ -1,0 +1,21 @@
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'But it''s free software'
+    hostname: 62.140.212.3
+    created: '1328174468'
+    body: "Some good questions raised here Tony but surely the answer to most of them lies within the fact that diaspora is free software?\r\n\r\nIf you are really concerned over availability and security of a pod then perhaps the best answer is to host your own? Perhaps getting together with a group of trusted friends and pool resources to create one. After all one of the points of Diaspora was to address concerns about putting \"our\" data on somebody else's service. The DIY approach may be too complex, difficult or laborious for some users but isn't that the same situation as with any piece of free software? A distributed model gives you the user the power and freedom to choose where your data is hosted. If a pod is not up to date, if it is poorly implemented or has forked features a user doesn't like: the user can and should move. If the software is locked down so much that each pod is identical we might as well dispense with the distributed model and go back to facebook.\r\n\r\nApps? Yeah I suppose but to be honest the only app I use on facebook is selective tweets which allows me to post facebook status updates from my twitter feed (which is often fed by my identi.ca acount).\r\n\r\nMigration between pods is an important point though. As mentioned one big point of the distributed model is to give users freedom to choose, an easy way to migrate from one pod to another is an important part of that."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'An analog to "Google Takeout"?'
+    hostname: 98.20.154.224
+    created: '1328311919'
+    body: "ISTM that the main security requirement is a means of backing up your account data locally -- something like the \"Google Takeout\" idea that was promoted with Google+. (And then being able to upload it to a new pod, of course).\r\n\r\nI don't think focusing on making a few \"official\" pods is the right strategy -- that's just a return to centralization.\r\n\r\nCentralization is ideological -- it's not just about about solving technical problems. Even if there is a technical cost, it's worth having it. Similarly for using a free-software-based service."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: DEcentralization
+    hostname: 98.20.154.224
+    created: '1328312196'
+    body: 'Oops. I meant to say "_Decentralization_ is ideological."'

@@ -1,0 +1,14 @@
+-
+    name: god
+    mail: ''
+    subject: 'Good Overview'
+    hostname: 203.59.90.115
+    created: '1143631857'
+    body: "<strong>From</strong>: James Cornell \r\n<strong>Url</strong>: http://www.unixdevil.org\r\n<strong>Date</strong>: 2005-07-11\r\n<strong>Subject:</strong> Good Overview\r\n\r\n\r\nGood overview on virtual servers.\r\n\r\n\r\n\r\nKeep in mind that amongst commercial virtual servers during the last two decades both Microsoft and Sun Microsystems have implemented their own versions.  Sun's zones is almost comparable with the performance of a Linux virtual server, although the same to say of a Microsoft virtual server is not the same.\r\n\r\n\r\n\r\nThe reason Microsoft has yet to really outperform in this area is due to their roots.  Their OS was never designed multiuser, hence it cannot be as good at being a multiserver no matter how many hacks put on it nearly two decades later."
+-
+    name: god
+    mail: ''
+    subject: 'MS and stuff'
+    hostname: 203.59.90.115
+    created: '1143631888'
+    body: "<strong>From</strong>: Cat \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-07-15\r\n<strong>Subject:</strong> MS and stuff\r\n\r\n\r\nI hate to defend M$ but they have produced 2 destinct Windows operating systems.  Firstly the 9x series whcih ( as you say was never intened for multipleusers) and the NT-2k-XP-2k3 series, which was designed from the ground up with multiple users in mind, amongst other things.  \r\n\r\n\r\n\r\nCat\r\n"

@@ -1,0 +1,49 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Cool. I need this.'
+    hostname: 68.116.159.234
+    created: '1277100822'
+    body: "You know, this is something I've been increasingly concerned about -- I've been using Google mail for awhile now, and it's starting to represent a significant amount of my correspondence record, which is not so easy to download using the standard web interface.\r\n\r\nThanks for letting me know about a very useful tool!"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'You''re welcome'
+    hostname: 62.140.212.3
+    created: '1277121926'
+    body: "You're welcome!\r\n\r\nOne thing I forgot to mention is that Google seems to put a limit on the number of messages you can download via POP in any one attempt. This is largely undocumented but for me it seems to be around 400 messages.\r\n\r\nYou can workaround this by running getmail again afterwards at which point it retrieves the next 400 messages. Of course this will only be a problem if you leave it so long between POP downloads that you have in excess of 400 messages to download. In my case that's probably longer than a week. A regular cron job would resolve this also.\r\n\r\nRyan\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: pterion
+    mail: ''
+    subject: 'Can you put the mail onto / access from a private server?'
+    hostname: 217.91.218.184
+    created: '1281607536'
+    body: "Thanks for a very informative article!\r\n\r\nOnce you've backed up your mail from GMail what format does it have. I.e. can you upload it onto a private webserver and still access it with the usual client from there? How read, search etc. the mail you've just backed up?\r\n\r\nRegards,\r\nDaniel"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: "Hi,\n\nAs I say in the"
+    hostname: 62.140.212.3
+    created: '1281709306'
+    body: "Hi,\r\n\r\nAs I say in the article, the mail is in MailDir format. that means each message is a separate textfile and they are in turn stored in cur. new and tmp directories. To read it locally I use Mutt in a shell which is probably the simplest way to do it as you just run `mutt -f <path to maildir>` in the shell.\r\n\r\nPutting the archive into another mailserver is possible but the method you use will depend upon which server (MTA) you are using. If you are looking to read your GMail via another account, Google provide a forwarding service which will save you downloading the messages as I explain here.\r\n\r\nhope this helps\r\nRyan\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: TheCat
+    mail: ''
+    subject: 'Additional step needed'
+    hostname: 97.120.13.143
+    created: '1287241134'
+    body: 'I had to manually create the /new /cur /tmp directories in the destination folder.'
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: "Hmm interesting,\nI've not"
+    hostname: 212.159.106.192
+    created: '1287305554'
+    body: "Hmm interesting,\r\n\r\nI've not encountered that before.  Getmail should create the for you. What distro are you using?\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: TheCat
+    mail: ''
+    subject: 'I''m using a brand new'
+    hostname: 97.120.13.143
+    created: '1287322167'
+    body: 'I''m using a brand new installation of Ubuntu 10.10.'

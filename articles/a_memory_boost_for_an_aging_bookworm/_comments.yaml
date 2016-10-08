@@ -1,0 +1,35 @@
+-
+    name: 'Rom Feria'
+    mail: ''
+    subject: 'Delicious Library'
+    hostname: 121.97.196.78
+    created: '1165962301'
+    body: "I wish that someone will port the Mac's <a href=\"http://www.delicious-monster.com/\">Delicious Library</a> to Linux. Now that will surely help you with your collections.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Delicious For You...'
+    hostname: 202.133.209.66
+    created: '1165982967'
+    body: 'It could be delicious for you but only for you.  The rest of us would not use it as it will most probably be proprietary.  It really wouldn''t help GNU/Linux, BTW... ;P'
+-
+    name: ''
+    mail: ''
+    subject: 'Tellico''s Internet Search'
+    hostname: 68.183.82.170
+    created: '1166108082'
+    body: 'Edit->Internet Search, that will let you add books from Amazon in one step.'
+-
+    name: ''
+    mail: ''
+    subject: 'I second using Tellico''s Internet Search...'
+    hostname: 58.28.148.184
+    created: '1166959427'
+    body: 'Try the Internet search for Tellico... you went the hard way about adding books ;)'
+-
+    name: ''
+    mail: ''
+    subject: 'Tellico rules!'
+    hostname: 24.201.225.227
+    created: '1172166784'
+    body: 'Alexandria has huge bugs, and is quite limited in its options. Tellico, on the other hand, is wonderfully complete and customizable, and fun to use too! All the functions a librarian would expect from a collection manager.'

@@ -1,0 +1,21 @@
+-
+    name: ''
+    mail: ''
+    subject: 'SugarCRM?'
+    hostname: 203.118.156.111
+    created: '1173942010'
+    body: "Do you class SugarCRM as Open Source?\r\n\r\nLawrence D'Oliveiro"
+-
+    name: 'Chris Holt'
+    mail: ''
+    subject: 'yes'
+    hostname: 24.108.129.4
+    created: '1174078788'
+    body: 'Well I do as it is open and highly customizable...what do u think?'
+-
+    name: ''
+    mail: ''
+    subject: 'Out of date'
+    hostname: 88.111.14.204
+    created: '1175810016'
+    body: "The advice I was given by my hosters and on some website I googled to was NOT to use Fantastico because the programs there were not the latest versions. \r\nFor instance with phpBB I had to do all sorts of things to update the version Fantastico had on cPanel - had to do it because of security issues that phpBB were trying to solve.\r\nNow I just find what I want and upload it - not as easy in the short term - but saves umpteen updates."

@@ -1,0 +1,175 @@
+-
+    name: admin
+    mail: ''
+    subject: 'How often do you help?'
+    hostname: 124.168.127.175
+    created: '1162169940'
+    body: "If we do a good job of extolling the virtues of free software to our friends and family, one of them is bound to ask for help sooner or later. Whether it be help with installation of a distro, getting MP3’s working, or getting a troublesome piece of hardware working, let us know how often you help new users out and share some of your experiences. For example:\r\n\r\nDo you always help but that's because your friends/family don't try to become more computer literate and just continue to rely on you? Is it because you're a sucker and you always get roped into helping or is it because you don't teach them how to find the answers for themselves?\r\n\r\nDo you never need to help because your friends/family won't convert? \r\n\r\nOr do you never need to help because they never have problems?\r\n\r\nIt's hard to ask all of those questions in one, so we hope for you to share your reasons for voting and your experiences.  \r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Confusion?'
+    hostname: 124.168.127.175
+    created: '1162170076'
+    body: 'Is this a survey about my helping _or_ families and the frequency of their GNU/Linux problems.  If it is about my helping then the answer is seldom am I called upon to help BECAUSE my family rarely ever has problems with GNU/Linux.'
+-
+    name: admin
+    mail: ''
+    subject: 'That''s what we are looking for'
+    hostname: 203.59.181.110
+    created: '1162170907'
+    body: "Thanks anon, \r\n\r\nThe answer to your question is really both. We weren't looking for a hard and fast answer - not just the vote but the reasons behind it and your experiences in this area. You have done that by saying that you seldom help because they seldom need help... perfect.\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Yes, I''m the resident sys op'
+    hostname: 68.93.224.4
+    created: '1162191363'
+    body: "<p>Well, I'm definitely the go-to person when it comes to problems.</p>\r\n\r\n<p>As has been noted, there are really two questions here: one is whether these systems often have problems (yes, they do), and the second is whether I'm the one who usually fixes them (yes, I am). There's a third, too, which is, do the other members of the family try to figure their problems out themselves? (depends).</p>\r\n\r\n<p>My wife definitely figures a fair amount of this stuff out on her own, though she's not into it as much, nor has she been doing it as long, as I have. Generally, we work through problems together, which helps her to learn more about it. On the other hand, she took over the printer, and now she's the only one who knows how to print.</p>\r\n\r\n<p>My kids, are, well, 3, 8, and 11, so how much do you expect? My 11 year old has figured out how to install Windows game emulators so that they use Wine. This also creates an <i>enormous</i> .xsession-errors file, because Wine spews out complaints constantly (we're talking roughly 10 gigabytes a month of error messages). This occurs at least partly because the Linux versions of those emulators are often only available as source code, and he doesn't know how to do \"configure; make; make install\" (nor will I let him install anything as root). Likewise, he doesn't know how to run \"apt-get\".  We're probably getting close to time for him to learn these things, but as he can't yet remember to put his shoes up at night so he can find them in the morning, I have my doubts about his readiness for system administration.</p>\r\n\r\n<p>Of course, part of the reason for both of these, is that I'm the one who started this, and I've set certain patterns for our home LAN, which I try to keep the same. It's pretty simplistic setup: I use static IPs for every computer, wired connections (I'm a little paranoid about wireless connections on a LAN), and I try to keep the user IDs synchronized on all of the computers so that we can do NFS without having goofy user-mappings (and I've been avoiding learning NIS, though I know that's the real solution for that problem. But then, there's OpenLDAP too).</p>\r\n\r\n<p>My Mom is convinced that Linux is for \"ultra-smart programmer types\", and won't touch anything relating to installation or system administration. I try to tell her the root password on her computer and she closes her ears and hums (okay, I exaggerate).</p>\r\n\r\n<p>Now back to the root of the problems: why do we have so many? Well, at least one reason is that, since GNU/Linux can do <i>ANYTHING</i>, we are a <i>lot</i> more ambitious about what we expect it to do (that alone accounts for a lot).</p>\r\n\r\n<p>But there are <i>real</i> problems. The rate of change in the free software world is <i>enormously fast</i>. So by the time there's any documentation, it's already obsolete. What's worse, the evolution of the software is often barely controlled chaos, managed by multiple groups of contributors, and so the ideas behind it meander a lot. Someone gets a bright idea (we're doing this all wrong! I want to completely re-write the configuration system!), and everything changes.</p>\r\n\r\n<p>So for many programs (and many tasks), there's an \"old way\" and a \"new way\"—except, when you read the documentation for the \"old way\", it says it's the \"new way\", because of course, when the documentation was written, it <i>was</i> (in other words, it's newer than the \"even older way\"). And none of these people ever put <i>dates</i> on their stuff, so you can't figure out which \"new way\" is really the new \"new way\"!</p>\r\n\r\n<p>Fortunately, the \"old way\" often still works, even after the \"new way\" is written (but not always!).</p>\r\n\r\n<p>Anyway, the point is not that there is not enough documentation, but rather that there is too much documentation, and it often <i>conflicts</i>.</p>\r\n\r\n<p>So (e.g.), I learned to set up printers (server and client) with <b>lprng</b>, whereas my wife learned <b>CUPS</b>: hence our current printing problem.</p>\r\n\r\n<p>Which brings us to another point: choices, choices, choices. There's always a half-dozen different programs to do everything with free software: which one do you pick?</p>\r\n\r\n<p>All of this also tends to breed conservativism: because, once you go through all that trouble and get it working, you don't really want to change it. And if you have several different computers, you don't really want them all using different versions and different packages (but inevitably they do: we actually have one dual-boot Linux-Linux machine for this reason! One side boots Debian sarge with XFree86 4.3, the other Debian Mixed/Unstable with Xorg 7).</p>\r\n\r\n<p>So by and large, yes we do have \"more problems\" with GNU/Linux, but they're mostly the \"good problems\" (too much, too fast), so I can't really complain.</p>\r\n"
+-
+    name: maco
+    mail: ''
+    subject: 'None of my family uses'
+    hostname: 161.253.10.24
+    created: '1162212284'
+    body: 'None of my family uses GNU/Linux (if they manage to have their computer eaten by viruses again, they will).  They do use Mozilla, but the only help I''ve had to give with that is showing my mom how to right click "open in new tab".  A couple in my Japanese class switched to Ubuntu, but I know he''s computer savvy and used Red Hat a few years ago.  I don''t know about her computer skills, so maybe he helps her out and maybe he doesn''t.  My roommate''s switching, but when she was using it before, she didn''t have any problems.  I haven''t really tried handing a GNU/Linux disk to someone who''s not computer-savvy yet.  All the other Linux-friends I have were the ones helping me get started.'
+-
+    name: uslacker
+    mail: ''
+    subject: 'None one uses it'
+    hostname: 67.98.88.81
+    created: '1162215514'
+    body: "Pretty straight forward.  Even among my techie friends - I am the lone open-source wolf crying out in the wilderness...\r\n\r\n\\\\uslacker"
+-
+    name: FewClues
+    mail: ''
+    subject: 'Converts need help'
+    hostname: 75.14.6.114
+    created: '1162220094'
+    body: "I live in a retirement community (55+) and have been converting people to Linux since my arrival in 2000.  The first couple of years it was more a case of demonstrating and convincing.  But now that I have about 50 converts I am the resource when they have questions.   I am constantly amazed that here we are a bunch of old fuddy-duddies having a blast with Linux and I keep reading about it not being ready for the desktop - NONSENSE! So Yeah, I help frequently with a how to.\r\n\r\n"
+-
+    name: stevp2
+    mail: ''
+    subject: 'Helping Out'
+    hostname: 68.150.15.163
+    created: '1162230902'
+    body: 'I help but I also push it as much as possible to friends, family, businesses.  I work in an information intensive, non-profit field where the impact of free software is considerable.  There is still a lot of FUD to overcome.  If I can project budgets, resources, commitment levels it tends to help out.'
+-
+    name: kennyf27
+    mail: ''
+    subject: 'Helping with Linux'
+    hostname: 68.63.122.202
+    created: '1162233386'
+    body: "I grew up with BSD variants, so when I first saw \"Linux\", I thought it was plaguerized. At any rate, I've always been a \"computer guy\", and have no problem knocking down my hard drive and starting again with some other OS - every other day, if necessary.\r\nHowever, my family and friends unanimously (I think proudly) declare their computer illiteracy, and their intention to never learn anything new. Ah, but they expect you to help them when something breaks, because somehow, in their minds, my being a \"computer guy\" means I'm part of some sort of a vindictive crashing machine conspiracy.\r\nSo - the best advice I can give, and the way I handle problems with their Apples and \"IBM\"'s, is 1st, to rip that Mandrake CD out of their hands, and 2nd, hand them a copy of OS X or Windows XP Home Edition and some variant of MS-Office, and simply walk away. I don't know if too many other people share my near total disdain for \"users\", who only ever have to work in one or two programs, and yet, when anything goes wrong, they are obnoxious in their impatience and criticism of us.\r\nFace it: Most of us \"nerds\" (I refuse to use the term \"geeks\"; \"geeks\" was dead - who resurrected it?) Anyways, we \"computer people\" have often had to juggle various forms of *nix, Windows, DOS, OS2, Netware, OS-X, CICS, VM, OS400, ad nauseum - and then: ALL of the programs, protocols, security issues, backups, web servers, computer models, printers, monitoring, user spps. - one could go on forever about what has been crammed in our brains over the years and the ridiculous number of hats that we have had to wear. But, you know it, and I know it, we love what we do, but - for me at least - not who we do it for.\r\nMy wife, who has an advanced degree in Graphic Arts, does paginating and classified ads for a local newspaper. There are an increasing number of jobs listed that are looking for a \"Graphic Artist\" to work on their web sites, but I cannot convince my wife that in many companies (mine, eg.), the Graphic Artist is not the \"Web Designer\", nor one of the technical staff, nor the person who configures the web server, and certainly not the front end or back end software developer. She cuts herself out of bettering her salary and career because she is utterly unwilling to learn anything new. She's a great artist. I keep telling her that whatever format you do your artwork in, it is still your artwork.\r\nBut, you can lead a horse to water.......\r\nThose of us who have used GNU/Open Source/Free software have always been on the cutting edge of computer/network/communications literacy. For the \"typical\" end user who wants to learn Linux, there are a lot of adult ed. classes. Save your sanity: Give them a catalogue of courses from your local Continuing Education center.\r\nWhich also brings up something that has always bothered me, and it gets a little bit worse every day: Ads that portray the IT person(s) as lower than dirt.\r\nScenario 1 (TV): User asks network guy for a new laptop. Network guy has to waste 3 minutes going through a Swami routine, and then says, \"I got the same memo. I'll call CDW\".\r\nScenario 2 (TV): An office lunch outside, on a pier. The first topic for discussion is, \"who are they going to throw in the water?\". Unanimously, it is the \"network guy\". Then, a lady answers her cell phone and screams, \"They tested the sprinklers on 5 and all the records are ruined!\". The IT guy says, \"No they're not. I back them up to plastic.\" So now, thanks to the network guy, these people all still have jobs. So, what's the reward for the hero? They throw him in the water. Another variant on this is at a restaurant where the IT guy is dining with a bunch of the execs. They hear of a problem with the network back at the office. The network guy says \"it's taken care of\". His reward? \"You pick up the check\", followed by laughter.\r\nScenario 3: (IBM print ads in Computerworld and Networkworld) starring Gil and the guy who's keeping the logs. I don't know if Gil is this kid's boss or his underling. I don't even know what the hell the kid's function is, period.\r\nWell, in various scenarios, Gil puts the server room in the deep freeze, gives \"everyone everywhere access to everything\" to overcome a user rights problem. He orders more monitors than there are people. It just gets worse and worse. The bottom line for me, is that at least in Scenarios 1 and 3, the IT guy would be fired on the first day. In scenario 2, I would give him a bonus.\r\nI know who these ads are targeting: The big execs, who are clueless about technology, get their \"technology\" knowledge from the Wall Street Journal, and really resent the fact that we have more schooling than a neurosurgeon in a an exponentially more complex field, while they (my boss was the CFO) are still using the same dumb General Ledger program they have used for 10 years. I told my boss (the CFO): \"Numbers never change. Calculations never change. Math never changes. IT changes constantly\". But - they have the power, so they vent their envy of our talents by making us look like idiots at every turn. Because I think that they know that deep down inside (I, at least) am so conflicted between envy for the cushiness and payscale of their jobs and the fact that I picked a much more demanding and yet far less rewarding (in terms of money and stability) career.\r\nSo, what does anyone else think about the \"IT Paradox\"? I am sick of these executive jerks getting their IT ideas from the TV, who then come in and ram the solution down our throats. Then, they come unglued when their choice turns out to be unworkable or overbudget. Invariably, they'll blame us, not themselves.  \r\n\r\nkennyf27  CISSP, MCSE2000   \r\n\r\n\r\n\r\nAll knowledge, the totality of all questions and answers, is contained in the dog.\r\nFranz Kafka"
+-
+    name: Pollywog
+    mail: ''
+    subject: 'I don''t know people who use Linux'
+    hostname: 69.12.173.117
+    created: '1162234076'
+    body: 'People sometimes ask me to help them with their Windows machines and I tell them that I probably can''t help them since I use Linux and have little knowledge of XP.  '
+-
+    name: 'Johannes Hutabarat'
+    mail: ''
+    subject: 'Spirit-engaging poll'
+    hostname: 202.146.241.9
+    created: '1162289004'
+    body: "This is a spirit-engaging poll.  I must admit I am sucked into it!\r\n\r\nI share many of the experiences posted before.  Mine is just a grain of salt to a vast ocean.  But I'm intrigued to outline this grain of salt:\r\n\r\nIn my country the rate of software piracy still hovers at 87%, according to this <a href=\"http://www.bsa.org/indonesia/press/newsreleases/2006-Global-Piracy-Study.cfm\">BSA report</a>.  So 1 (can you have 1.3 persons?) out of 10 either licenses her proprietary software or uses free software.\r\n\r\nNow, since everyone else at one of my two workplaces (yes, TWO not one, but that's another story...) is still hooked up with the wonders of using Microsoft[TM] products for the cost of... (sorry, I have to censor here), I start introducing the wonders of free software by saving all the important documents in OpenOffice formats.  This way, they have to install OOo on their desktops in order to edit the documents.  And when they are having a sharp turn on their learning curve, they'd call you-know-who.\r\n\r\nPrior to this (at my previous workplace), I collaborated with our sysadmin to ensure that only GNU/Linux apps were used on the server side (firewall, internal routing, file server).  It was a rewarding experience in terms of learning and productivity, not to mention company's cash flow.\r\n\r\nAnd most recently, I assembled my sister's new PC and installed only Ubuntu as ready-to-use OS.  But I must beg your pardons because I created empty ntfs and fat32 partitions in case she asks for a Windows game...  (This has happened before, and guys, I'm still her brother you know, and to them a game is a GAME, they don't care whether it runs on Windows, Linux, GNU/Linux, UNIX, or <cite>Mannix</cite>...)\r\n\r\nSo I guess mine is \"Often\" out of those four choices."
+-
+    name: 'Tinku Sampath'
+    mail: ''
+    subject: 'At best'
+    hostname: 59.91.255.85
+    created: '1162364282'
+    body: "I have done my best to promote the GNU/Linux systems among my relatives and friends so far. During my college days, I frequently visited my friends house which are near around my college to make their system loaded with GNU/Linux system. I spent a few hours during the task with them and helps them to tune their system for their daily activities. The problem usually irritated me most of the times was that they were unable to get connected to internet in Linux due to the incompatible internel modems. Almost all of them have winmodems whose linux drivers are not available and some of the closed linux drivers are not at all working (eg: Motorolla SM56 modem). So majority of them are still unlucky to get connected to internet in a secure manner where they can forget viruses, trojans, spywares etc. They also hesitates whenever I suggest them to buy an external or linux compatible modem since that can result in spending couple of dollars. But I have only to suggest. Now, from past few months, hopes are increasing. Here in India, DSL connections are getting available at feasible rates. So internet users are saying good bye to the old dialup connections slowly. Now I recommends to buy Linux compatible LAN cards (even though almost all of them are supported) before preparing to take DSL connections.\r\n\r\nOur college lab bought a no. of new PCs a couple of months ago. Before tenders are invited from hardware vendors, me and my friends convinced my college authorities to include the Linux compatibilty requirement for the PCs and other accessories in the tender notice. We involved in the right time and now all of the new generation PCs in our college works finely with Linux without having any hardware issues at all.\r\n\r\nHere in Kerala, India, GNU/Linux and Free Software have great respect. From school children to NGOs, all of them are aware of Free Software ('Swathanthra Software') and its potential to build a better future. IT paper is included in State Govt. School Syllabus. Students of classes 8 and 9 are studying GNU/Linux systems and applications as a part of their syllabus from past few years. This year, class 10 syllabus is also going to stick with GNU/Linux only. These efforts are made from the Govt. level. This political awareness is really helping the Free Software to enhance its roots deep in the state. During time, even now, there was a demnand of GNU/Linux administrators who have to turn the PCs of school computer labs running with GNU/Linux. I had a chance to work in a Govt. School since they wanted to setup a LAN for their 30 PC lab.\r\n\r\nSo I am contributing to Free Software ( and related ) communities in all possible ways. I would like to continue this passion forever.\r\n"
+-
+    name: nemo
+    mail: ''
+    subject: 'helping friends with computer related problems.'
+    hostname: 82.45.86.50
+    created: '1162470465'
+    body: "I help as required,my friends are yet to be weaned off Windows,but I am working on that!\r\n\r\nViva Free Software."
+-
+    name: deniz
+    mail: ''
+    subject: 'seldom because...'
+    hostname: 81.215.43.186
+    created: '1162591837'
+    body: "Hi,\r\n\r\nI seldom help my friends because I'm a member of Linux Users Association (Turkey) and most of our members know better than me in technical field and for those who know less than me have the chance to reach more reliable info than I can offer, but if someone needs help and if I know the solution, sure I help. Regarding family: I am trying to help them with the Free Software running under Windows OS; such as Firefox, OpenOffice etc. Some of them are planning to try GNU/Linux because I insist them to do so, but this is something different than \"help with GNU/Linux problems\" I think.\r\n\r\nRegards.\r\n\r\n\r\n"
+-
+    name: dolink
+    mail: ''
+    subject: 'yes often.'
+    hostname: 222.223.150.162
+    created: '1162802518'
+    body: "There is few people using UNIX like operating system around me.\r\nand professionals are more less.\r\n\r\nso I help them who canot handle the problem by themselves."
+-
+    name: ''
+    mail: ''
+    subject: 'Very often'
+    hostname: 62.162.204.181
+    created: '1162833687'
+    body: "Back in the days very few friends of mine and schoolmates used GNU/Linux. Those were the days when persuaded people to just give a try with Linux, and not just with Linux but also with BSD variants and even commercial *NIX systems. Big part of them went back to Win instantly but some of them kept their Linux installation for the \"when I'll have more time\" situation.\r\n\r\nNow the situation is a lot more different. Maybe 50% of the people I know (ok, we're talking about computer science students) are starting to use GNU/Linux. I help them to setup this and that. Sometimes I don't have the time, but there are always the people that I helped before so they can help the newbies now. I think it's a cycle, first someone helps you out, and then you help other people. It's a chain reaction :)\r\n\r\nThat's the way GNU/Linux communities work, isn't it?"
+-
+    name: Topox
+    mail: ''
+    subject: 'I kind of never helps any of'
+    hostname: 85.24.112.212
+    created: '1162902013'
+    body: "I kind of never helps any of my familie or friends with these problems, I do have one friend I have actually met who uses Linux (and believe if I would be helping him I would be a linux genius I think, as he kind of solve every problem himself, he have been running Linux for five years and I think Gentoo most of the time)\r\nI myself uses FreeBSD on my main machine and got a windows machine also, but that is mainly for chess purposes, well my friends and familie are all on windows boxes, I cant really like any windows stuff at all.\r\nI would install Ubuntu on my laptop if I had not brought ChessBase 9.0, but well it is perhaps kind of okey to have a windows machine, as if I should develop software as much as I would like to do it might be neat to have one on windows (having two computers...).\r\nAnyway when I am very irritated at my windows computer I am booting up a linux on this machine as well. Then I am pretty happy with the whole thing.\r\n\r\nAnyway I never solve any problems there for friends and familie, and I am far from being good enough to solve a lot of problems on a forum or anything, have been running linux for about a year (well lately it have been FreeBSD but anyway I actually wanted to install a small partition with a Gentoo installation, on a partition, I should probably do that at some point when I get some time....\r\n\r\nGreetings Topox"
+-
+    name: shash_unais
+    mail: ''
+    subject: 'me tooo'
+    hostname: 222.165.172.87
+    created: '1163048015'
+    body: "yh..\r\nsuer...\r\nif i had problem i might ask from my firends if they got any problem i also halping them ok any way i'm unais frm sri lnka wat abt u plzz rep me ccc uu da.."
+-
+    name: 'Josue Abarca'
+    mail: ''
+    subject: 'I give and ask for help constantly'
+    hostname: 72.252.44.209
+    created: '1163091612'
+    body: 'In house we all use GNU/linux, in the university, I am a part of GNU/Linux''s user group, and in both places we always want to make something new, reason why I give and ask for help constantly.'
+-
+    name: sbenitezb
+    mail: ''
+    subject: 'Not yet'
+    hostname: 200.114.155.12
+    created: '1163120327'
+    body: 'I still couldn''t move anyone out of Windows. Most people that know me already know about Linux because they''ve seen it at home or because I''ve talked about it. But it seems that there''s little to no interest in changing OS. They are comfortable with Windows and unless there''s some new super destructive virus/worm that renders their computers unusable, I don''t see them installing Linux. I even feel glad that this doesn''t happen, as only the smarter end using it and enjoying it. I couldn''t stand a world of Linux with all the shit that currently surround Windows, like virus, worms, spyware, adware, spambots, trojans and all problems asociated. Things are fine the way they are. But if someone is really pissed off by Windows, I would recommend Linux, no doubt about that.'
+-
+    name: thiwanka
+    mail: ''
+    subject: 'I Help on every time'
+    hostname: 192.248.16.90
+    created: '1163129666'
+    body: 'I help people on there problems.http://www.lankantux.com is the web which stareted by me for help the sri lankan.new features will be comming soon.'
+-
+    name: 'Eric Lake'
+    mail: ''
+    subject: 'I try to help whenever I can.'
+    hostname: 65.209.134.66
+    created: '1163425936'
+    body: 'I am <strong>actively</strong> trying to pull one of my co-workers into the world of Linux. I work with him at least two days a week in our spare time to show him how to do the things that he is wanting to do. He is a longtime Windows user so I have had to try to teach him some new habits.'
+-
+    name: 'Giordano Cevallos'
+    mail: ''
+    subject: 'People don´t want to changue to Free OS'
+    hostname: 201.234.206.236
+    created: '1163558344'
+    body: "Here when I talk about linux with friends always response that: I don´t need changue my OS .\r\nSometimes says \"I need to learn to manage a new sistem\" I can´t to do it.\r\nReally the culture of free software are invisible in my country , actually municipal authoryties are in a program for teach to the people to manage informatic tools, but it is no free software (for people that don´t have a good economies for paid a license I think that a program with freetools are the target, but imagine that if exist cooperation between municipal autoritues and educational programs with microsoft donations (Hardware and licences, I believe) I imagine for one year (The next years this people need to pay licenses) then the switch is on.\r\nI don´t have problem with the property software when don´t exist a better tools in free software . But here the national promotion of free sofware will be justify for the economy.\r\nReally the community of free software is small here and most of they helps to others and sometaimes the spirit of free software changue a few, I help when I can do it and is a pleasure for me do it.\r\nSometimes I need help too , I m beggining with Linux and another free software.\r\n» \r\ndruid777"
+-
+    name: ''
+    mail: ''
+    subject: 'Here in India, DSL'
+    hostname: 83.167.112.205
+    created: '1163799840'
+    body: " Here in India, DSL connections are getting available at feasible rates. So internet users are saying good bye to the old dialup connections slowly. Now I recommends to buy Linux compatible LAN cards (even though almost all of them are supported) before preparing to take DSL connections.\r\n\r\nhttp://aske.biz"
+-
+    name: ajt
+    mail: ''
+    subject: 'Yes I help'
+    hostname: 84.12.191.1
+    created: '1163863417'
+    body: "I use to help out with Windows but I now I mostly refuse - I tell them to pay a professional instead. If it's Linux/BSD I'll offer to help for free.\r\n\r\nI found Windows users mostly wanted to steal software. They won't run free software, they want expensive software but don't want to pay for it! I don't like Microsoft but I refuse to run unlicenced software and I encourage the same in my friends and family.\r\n\r\nWith Linux/open source I offer to help, I take care of my father's PC remotely via SSH and I help friends and colleagues with Linux/open source. It's less of a drain on my time that Windows use to be so I don't mind.\r\n\r\n-- \r\nIt's not magic, it's work!"

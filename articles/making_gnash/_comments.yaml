@@ -1,0 +1,63 @@
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Packages
+    hostname: 68.197.66.72
+    created: '1183401926'
+    body: "Great article!\r\n\r\nJust a note: Gnash is in the Ubuntu repos for AMD64, I386, and PowerPC.  Unfortunately, only Gutsy users can use 0.8.  Debian has it as unstable for a lot more platforms, but it's only 0.7.  There are also 0.7 RPMs available.\r\n\r\n--\r\nAndrew Min\r\nhttp://andrew.timstown.net/dock.htm"
+-
+    name: 'Ashish Shukla'
+    mail: ''
+    subject: 'I thought Gnash is...'
+    hostname: 122.163.220.13
+    created: '1183412368'
+    body: 'FSF''s alternative to Adobe''s Flash Player.'
+-
+    name: 'Anonymous visitor'
+    mail: dnas.dnas@gmail.com
+    subject: 'Trying Gnash Out'
+    hostname: 74.140.120.132
+    created: '1183855114'
+    body: "Hmm,\r\n\r\nSo I'm very interested in trying Gnash out and seeing how well it works and following the progress. However, my siblings play flash games all the time and I occasionally need to use flash for things. So, I can't remove or break Adobe's flash on my computer. Sadly. :(\r\n\r\nIs there a way to have both Gnash and Adobe's player installed (or maybe having the former installed as a user) and be able to easily switch between the two plugins? Preferably on a per-user basis so that other accounts are not effected.\r\n\r\nThanks!"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Yes, you can'
+    hostname: 84.100.56.65
+    created: '1183884521'
+    body: "you merely need to install the plugins locally:\r\nAdobe Flash plugin:\r\n~/.mozilla/plugins/flashplayerplugin.so\r\nGnash plugin (other user):\r\n~/.mozilla/plugins/libgnashplugin.so\r\n\r\nThat should do the trick.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"Deserves the name?"'
+    hostname: 68.93.224.4
+    created: '1183945396'
+    body: "Wouldn't that mean that \"it's such a frustrating program, you would gnash your teeth and wail while attempting to use it\"!?\r\n\r\nHopefully, it <em>doesn't</em> deserve that kind of name!\r\n\r\n:-)\r\n\r\nSeriously, though, I'm happy to know that it is doing so well. The appearance of free tools for flash generation and viewing make the technology much more interesting to me now. I might actually stop boycotting flash websites. :-)\r\n\r\nThe news about Adobe opening up their flash runtime is interesting, too. Though, somehow, I get a certain irritation from hearing about lots of work going into a free, from-scratch implementation of something, and then, just when it's getting good, the commercial one is freed and somehow automatically trumps the free code.  I mean, it makes practical sense, but there's something bad for the spirit about it.\r\n"
+-
+    name: el_salmon
+    mail: ''
+    subject: 'Not the only opensource Flash Player'
+    hostname: 87.217.25.41
+    created: '1184710349'
+    body: 'Swfdec exits and it worked better than gnash when I tried it in my Linux PowerPC.'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Or is it...?'
+    hostname: 86.71.28.135
+    created: '1184745227'
+    body: "They may have considered it more sensible than maintaining two implementations of ECMAscript in parallel: I mean, since they are using Kscript (modified) which is under the GPL in Safari, the different licensing forced them into maintaining both repositories, for what is essentially the same language, completely separated.\r\nIf you consider that Adobe has decided to enter the browser market (Safari 3 beta is available on Windows, and parts of it are already widely used in iTunes), it does make sense that they'd consolidate their code bases and licensing - by freeing ActionScript 2.0 (now Tamarin), they can now merge it with Kscript (or suppress Kscript completely), by making the Mozilla Foundation the host for Tamarin they ensure some recognition for the engine by the heirs of Javascript's inventor (Netscape), essentially doing this consolidates the Free Javascript market (using Tamarin in Konqueror?). As a small-time JS coder, I must say that the less different versions, the better.\r\nNow GNU can keep their own JSVM, or decide to scrap it altogether and use Tamarin; they feel like doing the former, that's the power of Free software. Who knows, their implementation may end up being better than the original...\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: Minthos
+    mail: anayelh@hotmail.com
+    subject: 'To me, the name signifies'
+    hostname: 80.203.100.164
+    created: '1189202811'
+    body: 'To me, the name signifies the end of gnashing my teeth over Adobe''s linux-unfriendly implementation.'
+-
+    name: rekaya
+    mail: ''
+    subject: 'There is an existing issue'
+    hostname: 121.97.231.130
+    created: '1272960840'
+    body: 'There is an existing issue that the Adobe flash will not utilize in Apple products. Why won''t Apple want to do something that many of its consumers want? Well according to Apple adobe flash crashes OS systems too often to put into their products. They also feel how the flash player has an excessive amount of potential to deplete the batteries to their gadgets quiet easily; and will wear down their batteries life span. I can''t figure out if Apple is just trying to prove a point and stand by their values, or if they really want to give their buyers the very best products available. I will leave that for you to determine. '

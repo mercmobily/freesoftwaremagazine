@@ -1,0 +1,28 @@
+-
+    name: admin
+    mail: ''
+    subject: '4 Comments from old system'
+    hostname: 203.59.90.115
+    created: '1144559700'
+    body: "<strong>Comment from: David Sugar [Member] Ã‚Â· http://www.gnutelephony.org</strong>\r\n\r\n    11/04/05 @ 19:52\r\n    My experience was with telecommunications, where many of the \"standards\" have historically been locked away in a manner much like you describe. Some parts are held by the ITU, which expects a pretty penny for any of their standard documents, some by Bellcore, who charge even more, and some by other places. Others are deliberately patent encumbered and yet internationally \"mandated\" interoperable \"standards\", like G.729 codec's. We are so very luck that the internet came about through the IETF process, and not the ITU.\r\n\r\n\r\n<strong>Comment from: Darrell Harmon [Visitor] Ã‚Â· http://dlharmon.com/dspcard</strong>\r\n\r\n    11/08/05 @ 01:07\r\n    I have found the same problem with computer hardware standards. I wanted to implent the SD card socket in one of my hardware designs, but found that the only information available for free was 60 page overview of the standard. It was something like $6000 to buy a copy of the full thing. An NDA was also required. I gave up and soldered a flash chip directly to the board as the only free flash format is CF which was too large.\r\n\r\n    The specifications for all forms of PCI are also unreasonable to get. I understand PCI express is a real problem.\r\n\r\n    Ethernet is well enough known to implement, but requires a MAC address. IEEE sells blocks of these for $$$$. They sue anyone who tries to resell part of their block. The only valid way for people like me to get valid MAC addesses is to buy a bunch of old ISA nics, destroy them and use the MACs. Some people just choose to use a random string of hex.\r\n\r\n    One standards organization that has is right is USB. The whole document is available for download. They do sell vendor id's, but allow others to resell sections of thier space, so it is possible to pick up 16 vendor/device pairs for $25.\r\n\r\n    Hopefully things will move more toward the USB way of doing things and away from the NDA/$$$$ way of doing things, but I doubt it.\r\n\r\n    Darrell Harmon\r\n\r\n\r\n<strong>Comment from: Adam [Visitor]</strong>\r\n\r\n    11/08/05 @ 15:19\r\n    First an \"interpretation\": OpenDWG and JTOpen could be programs to \"open\" DWG and JT format, not open programs... Okay, it's a stretch. :-)\r\n\r\n    But on industry and CAD, you're not going to replace the current \"standards\" anytime in the next fifty years or so. Yes, OSS has cost advantages and can innovate faster, but there's such a large installed base, and such strong network effects, it's a lot worse than even Microsoft Office I'm afraid.\r\n\r\n    At some point a handful of companies in a certain niche or in the developing world might work with something like Inkscape or qCAD. But the costs of licensing are really relatively low -- compared to the cost of engineers, or international trade, let alone manufacturing -- so there's not much competitive advantage to doing so.\r\n\r\n\r\n<strong>Comment from: John Stracke [Visitor] Ã‚Â· http://www.thibault.org/</strong>\r\n\r\n    11/08/05 @ 15:39\r\n    USB is different because it came from Intel, who wanted to drive CPU sales. It's in Intel's interests to make it available to as many device manufacturers as possible.\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Adoption of free CAD...'
+    hostname: 66.118.56.242
+    created: '1147136153'
+    body: "\"At some point a handful of companies in a certain niche or in the developing world might work with something like Inkscape or qCAD. But the costs of licensing are really relatively low -- compared to the cost of engineers, or international trade, let alone manufacturing -- so there's not much competitive advantage to doing so.\"\r\n\r\nThis is making the same regrettable assumption that I've seen in the ISO and other places -- you are assuming that community-based production is impossible for hardware. That assumption is self-fulfilling when it is used as an excuse for not providing free standards.  Or you could say it is \"defensive\" in the same way that DOC format is (or \"was\", now).\r\n\r\nOf course, I realize that CBPP will continue to be a very small niche area in engineering for a long, long time, even if all the tools are made available, but size isn't always equivalent to importance: the free software foundation's GNU project has always been, and continues to be a dust-mote in terms of numbers of programmers, compared to the proprietary world, but that didn't stop them from making serious waves.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: wengophone
+    hostname: 212.138.64.177
+    created: '1164391105'
+    body: 'i need to do wengophone for free 100 %'
+-
+    name: 'Patrick Rourke'
+    mail: prourke@planning-technology.com
+    subject: 'High price of STEP standards'
+    hostname: 66.82.9.55
+    created: '1180143506'
+    body: 'The high price charged for the STEP standards is set by ISO and goes to support the ISO headquarters staff in Geneva.  There most certainly is NOT any industry conspiracy to make the standards inaccessible.  Everyone that I know from industry who worked on STEP is quite unhappy about the pricing.'

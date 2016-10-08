@@ -1,0 +1,14 @@
+-
+    name: 'Geoffrey Lehr'
+    mail: ''
+    subject: 'Go for Eggs'
+    hostname: 38.116.136.215
+    created: '1172598415'
+    body: "First off, thanks for writing these articles about PyCon.  I've enjoyed reading them very much, and am considering doing something similar when I attend the OSCMS Summit in March ( http://2007.oscms-summit.org/ ).\r\n\r\nI would think that the best way to go about delivering Python programs would be to use the Eggs, and let the distro maintainers determine the actual method of delivery on their system.  I haven't used Debian for a long time, but I would hope that they would have some sort of system to handle unusual packages.  Gentoo, for example, uses \"build scripts\", so installing an Egg using portage should be straightforward, at least no more difficult than installing/compiling packages from source, since you could merely pass the Egg to Python in the script and let Python handle it (Ok, ok, it's more complicated than that, but not much more)."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Nah, not eggs, I don''t think...'
+    hostname: 68.93.224.4
+    created: '1172678827'
+    body: "Eggs are fine for developers and Python fanatics, but they aren't the right way to go for user apps and libraries.\r\n\r\nThe problem is the \"language ghetto\" thing -- you'd wind up with multiple package formats by language (eggs, beans, gems, modules...) and of course that's added to existing multiple formats by origin (deb, rpm, and whatever that thing is that Inkscape uses).\r\n\r\nI don't know about commercial distributors like Red Hat, but Debian needs all the help they can get with 8000+ packages to worry about already, so it's better to package your own work if you can.\r\n\r\nThe real kicker about having all these different packages is \"package hell\" -- and now we'd have a multi-layered, multi-bolgia, highly Dantesque Hell!\r\n\r\nBecause, see, none of these packages recognize each other as dependencies. So you might be fine with Eggs within Python, but then Debian packages that depend on them, won't know they are installed, and APT will try to replace them with (possibly outdated) dpkg versions.\r\n\r\nSo, what we actually need is a package multi-format integration system, which would allow either:\r\n\r\nA pluggable APT tool that can read all of these formats and somehow magically figure out which is who, OR...\r\n\r\nA pluggable Cheeseshop (and the equivalent for Java, Perl, and Ruby, of course), which allows you to automatically convert Eggs into custom DEBs (or RPMs, or whatever) for download. In fact, we could just provide a \"cheeseshop\" DEB archive as an unofficial archive. Then APT would just work, as long as you had the cheeseshop in your sources.list file.\r\n\r\nI think the latter would be my preference. But of course, that's work to do on the Cheeseshop, then.\r\n\r\n"

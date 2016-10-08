@@ -1,0 +1,28 @@
+-
+    name: 'tony killey'
+    mail: tonybloo@blueyonder.co.uk
+    subject: 'export as.......'
+    hostname: 82.42.34.39
+    created: '1177616662'
+    body: 'Using stereo mix input  ie bbc radio channel 7 listen again feature. I can record ok either wav or mp3 onto hard disc,and play back within real player or windows media but when I want to burn a cd using nero the wav format is not compatible.The message is that file may be corrupt. anything exported as mp3 is ok. Commercial cd wav tracks put on hard drive can be added ok. Using Ms windows media burn facility has  the same problem.  The audacity recording sits in My Music with a wav format.  Utilising CDex prog and calling up Wav files for compressing the title does not appear. A nero problem you say as I did. However an audacity saved as mp3 file can be decompressed into a Wav file. This file now is acceptable to nero and windows media burn. Whatever is removed from file at this decompression CDex stage to make it acceptable to nero can it be eliminated at the audacity export stage, double recording it a touch tiresome. I trust you can follw this and do you have a solution please  A. Killey'
+-
+    name: pashabear
+    mail: pasha+column@runbox.com
+    subject: 'Don''t suppose you could post'
+    hostname: 88.204.146.235
+    created: '1178901293'
+    body: 'Don''t suppose you could post your file for us to hear the results?  I''m a big fan of ocean sounds too, and currently live a long ways away - in fact, I''m told this country (Kazakhstan) is the farthest away from any ocean of any country in the world!'
+-
+    name: 'Anonymous visitor'
+    mail: disgruntled.toaster@gmail.com
+    subject: 'Ubuntu version'
+    hostname: 99.245.173.200
+    created: '1178981274'
+    body: '*sigh* does anyone know why Ubuntu gutsy is still packaging only Audacity 1.2.6, and not 1.3.2?  Debian has a newer version!'
+-
+    name: RogerD
+    mail: l1k@myrealbox.com
+    subject: 'Audacity uses 32-bit files'
+    hostname: 211.28.223.13
+    created: '1179968916'
+    body: "Audacity uses 32-bit files internally by default ie. records to 32-bit. Nero probably needs standard 16-bit .wav files. Make sure the export format is right by going to Edit>Preferences>File Formats and set Uncompressed Export Format to <strong>WAV(Microsoft 16-bit PCM)</strong>. Then you can use the ExportAs>WAV function in the File menu to save new 16-bit .wavs.\r\nIt happened to me once when recording vinyl for CD transfer. Easy to fix  :)"

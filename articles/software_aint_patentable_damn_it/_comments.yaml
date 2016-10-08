@@ -1,0 +1,280 @@
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'Commerical or proprietary?'
+    hostname: 217.17.114.84
+    created: '1167841984'
+    body: 'It seems that in the last paragraph of this article, you''ve made a distinction between free software and commercial software. This magazine is about free as in freedom software, not free as in price software (freeware), so I expect that''s what you are referring to as well. Free software in this sense has nothing to do with price and can be commercial, and a lot of commercial free software exists today. The opposite of free software is proprietary or non-free software, which can also be non-commercial.'
+-
+    name: 'Jabari Zakiya'
+    mail: ''
+    subject: 'I meant Commercial'
+    hostname: 68.49.20.138
+    created: '1167844806'
+    body: "What I was alluding to is that the case involves the ability of Microsoft to sell its software without having to pay patent royalties.\r\nI wasn't emphasizing whether the software was FOSS or proprietary,\r\nbecause FOSS can also be \"commercial\" (sold) too. Since patent protection inherently involves the ability to commercialize (profit from) an \"invention\" patents more impede (though not necessarily exclusively) the dissemination of \"commercial\" software, because the aim would be to make money off of it, which would then infringe upon a patent holder's ability to exclusively do so."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"commercial/non-free'
+    hostname: 68.93.224.4
+    created: '1167862320'
+    body: "\"commercial/non-free software\" is usually interpreted to mean \"commercial software which is only available under a non-free license or EULA\".\r\n\r\nSo, no I don't think that's the distinction he's drawing.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Sounds like a really interesting case'
+    hostname: 68.93.224.4
+    created: '1167863292'
+    body: 'I will definitely be following this one. If this actually gets reviewed by the Supreme Court and given a fair hearing, there''s finally some hope that common sense may finally reign in the patent system.'
+-
+    name: ''
+    mail: ''
+    subject: 'To file or not'
+    hostname: 69.250.163.43
+    created: '1167871319'
+    body: "So Im an aspiring web developer and in the midst of creating a unique <a href=\"http://www.internetpatents.blogspot.com\">idea</a> on the web; I think it's unique(LoL) .  I am using standard web technologies to create my service.  Im deciding to file for a patent, but not for the software used to create service, but the idea.  Isnt the idea patentable? \r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'If the supreme court did'
+    hostname: 64.253.161.13
+    created: '1167874317'
+    body: "If the supreme court did decide against software patents this would indeed be ground breaking work.\r\n\r\nIt would revolutionize the software landscape in U.S. and indeed in the larger world.\r\n\r\nFor instance take Linux-on-the-Desktop. One of the common problems people have is that to enable legal playback of most media formats requires Free software that violates several patents. A strike against software patents would mean that the major barriers for multimedia playback will be lifted and Linux OSs will be able to play back the vast majority of formats out of the box and with no extra effort on the part of the end users. MP3, WMV, H.264, etc etc.\r\n\r\nAnd that is just one of the dozens of different things that hurt free software operating systems caused by the patent system."
+-
+    name: ''
+    mail: ''
+    subject: 'Have You Considered The Machine?'
+    hostname: 68.108.242.2
+    created: '1167875117'
+    body: "Zabari, \r\n\r\nMachines are patentable.  All machines are algorithmic in their operation. A general purpose computing device, when it is runnning a specific piece of software, is operating as a specific machine.  That specific machine is patentable and THAT is how patent attorneys claim software related inventions. A computer that is operating to x, y, z is a specific machine my good man.\r\n\r\nSummum Bonum\r\n\r\nKenneth Stein\r\n<a href=\"http://www.plexav.com>Plexav.com</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'Patent the machine, not the software on the machine'
+    hostname: 74.104.90.125
+    created: '1167879298'
+    body: " Yes a machine running software should be patentable, but as a whole piece, not the software running on the machine. In any other patent, the patent applies to the device, not to the ideas used in creating the device. It is the embodiment of the software (compiled binary embedded as hardware ROM, not RAM) that becomes part of the machine. Changeable code should not be patentable.\r\n\r\n   A comparison. One can patent a typewriter, but one can not patent the text written on the typewriter. Similarly, one can patent a particular computer design, but the code running on that computer is not part of the computer if it can be changed independently of the computer."
+-
+    name: ''
+    mail: ''
+    subject: Date
+    hostname: 66.58.188.159
+    created: '1167882893'
+    body: "Online on: 03/01/2007?  Change to the standard MM/DD/YYYY to prevent ambiguity.  March 1st hasn't happened yet.\r\n\r\nOtherwise, YAY!!!!!!!!"
+-
+    name: ''
+    mail: ''
+    subject: 'Re: Have You Considered The Machine?'
+    hostname: 82.153.160.179
+    created: '1167883486'
+    body: "Yes, specific machines are patentable. And yes, a particular general-purpose computer executing a particular set of machine instructions is operating as a specific machine.\r\n\r\nHowever, people do not program \"particular sets of machine instructions\", and haven't done so since the first assembler was written well over 50 years ago for the EDSAC. Source code is not directly executable (even in an interpreter, it must be converted into some more amenable structure before it can be processed), and as such is a description of an algorithm - an abstract, mathematical process - primarily intended for communication between humans. As such, it isn't a part of the \"specific machine\", and hence should not be patentable. This is especially true when one considers that there are any number of mappings from source code to the machine instructions that will constitute such a \"specific machine\" - it's far, far from being a one-to-one process. (If you doubt it, try to go the other way.)\r\n\r\nMoreover, the \"specific machine\" is constituted by the entire combination of general purpose hardware plus every piece of specific software running on that machine - in short, the entire system. Individual techniques used in such systems do not constitute specific machines any more than cogs and springs do when removed from a watch.\r\n\r\nTo further the analogy - to make the claim that a piece of source code, describing an isolated algorithm, is a \"specific machine\" is roughly equivalent to claiming that instead of a watch being patentable, a spring under tension should be the subject of a patent, and that any application of a tense spring would require a licence for such a patent. (And when we consider situations like the patent on XOR-ing a cursor onto a screen, we're getting into territory similar to the patenting of potential energy itself.)\r\n\r\nAt its core, this is why we jump up and down and insist that patenting software is Just Wrong. Yes, software patents have brought progress, experimentation and interoperability to a virtual standstill in the industry; but those issues don't help with the legal arguments. What matters is that the idea that Kenneth Stein outlined - that general purpose computer + machine code = specific machine, ergo source code = patentable - is <em>just plain wrong</em>, and the Supreme Court needs to be led to the understanding that it's wrong.\r\n\r\n-- Gwenhwyfaer"
+-
+    name: ''
+    mail: ''
+    subject: 'Machine?'
+    hostname: 71.90.131.237
+    created: '1167883880'
+    body: 'Define "machine" for me. I work in a machine shop where I turn the handles and wheels on a machine to produce some thing. Does this mean that I can patent the actions of my hands on said machine and anybody who uses said machine has to pay me to do so?'
+-
+    name: ''
+    mail: ''
+    subject: 'I had the exact same thought'
+    hostname: 70.122.13.41
+    created: '1167887065'
+    body: "I had the exact same thought as I was reading the article.  A software system is simply a machine built on a high level. It is just as much machine as an electronic circuit constructed of standard resistors, capacitors etc.\r\n\r\n"
+-
+    name: admin
+    mail: ''
+    subject: 'Date format'
+    hostname: 124.168.121.100
+    created: '1167887280'
+    body: 'We use the standard date format that <a href="http://en.wikipedia.org/wiki/Date_format#Date_format">wikipedia says</a> is "common to the vast majority of the world''s countries". I imagine you are from the US, where the less common MM/DD/YYYY date format is used. We are not planning on changing our formatting to suit the minority... sorry. We hope you understand our stance on this.'
+-
+    name: ''
+    mail: ''
+    subject: "Haha Pwnd\nTurns out you US"
+    hostname: 155.205.201.11
+    created: '1167892257'
+    body: "Haha Pwnd\r\nTurns out you US dont actually run the world who would have thought?"
+-
+    name: ''
+    mail: ''
+    subject: 'OT: Date format'
+    hostname: 202.169.221.215
+    created: '1167893569'
+    body: "The best way to prevent confusion with dates is the YYYY/MM/DD format. Which I believe is an ISO format, as opposed to just the american way, which only the americans use. ;)\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'if you are against Patents,'
+    hostname: 213.93.87.50
+    created: '1167912480'
+    body: "if you are against Patents, support FSF.org and the FFII.org. For a good indication of how bad it is, look at the webshop example at http://swpat.ffii.org.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Patentability of Software'
+    hostname: 63.120.104.173
+    created: '1167926891'
+    body: "Years ago software was considered unpatentable per se because it was just an algorithm.  But patent attorneys regularly circumvented that rule by reciting a memory containing the software, or a computer that runs the software. The patent office and the courts finally came around, and stopped requiring that attorneys use the extra verbiage.  \r\n \r\nAt this point software is patentable.  Whether that is a good idea or not is something that needs to be dealt with in Congress, not the courts.  I don't see much chance that the Supreme Court will find software patents unconstitutional.\r\n\r\nRobert Fish, patent attorney"
+-
+    name: ''
+    mail: ''
+    subject: 'Software to hardware'
+    hostname: 64.105.171.90
+    created: '1167932475'
+    body: 'Any software program can be mapped to a hardware language (through a series of methodical, deterministic steps) which in turn can be mapped to hardware gates or reprogrammable FPGAs (also through a series of  steps).  This hardware is not a general purpose machine but a device uniquely implementing  that software (i.e. a very specific control unit and data path). Therefore, any software program can be thought of as a direct representation of a patentable hardware device and as such would seem to permit protection by patent.'
+-
+    name: 'Geoffrey Lehr'
+    mail: ''
+    subject: 'More OT-ness'
+    hostname: 38.116.136.215
+    created: '1167937173'
+    body: 'Why not use YYYY-MM-DD (ISO 8601), as is used in the comments?  Then there''s <em>no</em> confusion whatsoever.'
+-
+    name: ''
+    mail: ''
+    subject: 'That''s a good way to think'
+    hostname: 203.80.164.12
+    created: '1167948028'
+    body: 'That''s a good way to think about it. It''s hard to classify what software really comes down to. Is it the algorithm, or is it the physical pattern of transistors embedded in a chip?'
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'Re: Date format'
+    hostname: 59.100.127.32
+    created: '1167956522'
+    body: 'No, DD/MM/YYYY is the only logical way to do it. In Australia we''ve always known that.'
+-
+    name: ''
+    mail: ''
+    subject: 'What if we make nothing patentable'
+    hostname: 217.42.70.69
+    created: '1167961955'
+    body: 'Patents are only ever used to control things for the sake of wealth. There are humans that''ll never do anything. There are humans who will only do something to get beer. There are humans that want to advance something, realising they''re merely born and one day will die. Then there''s the idiots who only want to get financially rich so they can say "look how rich I am".'
+-
+    name: ''
+    mail: ''
+    subject: 'What if we make nothing patentable'
+    hostname: 58.166.151.186
+    created: '1167970482'
+    body: "The problem is the recouping the costs associated with the development of the innovation.\r\nIf nothing is patentable, companies cannot justify spending years developing ideas, and so we will get mediocre products that take less than a year to develop and whose costs can be recouped before the competition get their copy to market.\r\nIn Australia they have an Innovation Patent costing about $80. If the product is viable and returns income, this can be used to get a real patent. If the market is global the patent costs can be over $250,000, so no profit for some years.\r\nI think we need a patent system so developers have time to recoup their costs and make a profit, but also need a way of getting low cost world patents similar to the Australian model. I think an International patent body could also manage Open Patents and the prior art repository.\r\nI also think that patents should last for a variable period depending on how long it would take to make 5 years profits for each one but no longer than 20 years. That should give the lawyers something to argue about and also bring the accountants into the mix.\r\nI do not support the idea of software patents and patents of methods and concepts otherwise maybe I could patent the Ten Commandments."
+-
+    name: ''
+    mail: ''
+    subject: 'So you''re saying that'
+    hostname: 142.58.74.123
+    created: '1167981268'
+    body: "So you're saying that software is patentable in the US because, rather than close a loophole, the courts eventually gave in and de facto changed the law to reflect the persistent use of the loophole by corporate patent attorneys?\r\n\r\nHuh.  Reminds me of why corporations are taken to have the rights of persons (Happened in the 1890s I believe; it was written into a court decision after the fact by the court recorder or someone and then taken as a precedent from then on--no judge, let alone lawmaker, ever made an initial ruling that it was the case)."
+-
+    name: ''
+    mail: ''
+    subject: Uhoh
+    hostname: 69.134.141.118
+    created: '1167988899'
+    body: "I'm not here to argue whether or not I think software should or should not be patentable, but I would like to express a concern I have...\r\n\r\nan entire industry has sprouted around the concept of software patenting - from companies, such as Microsoft, that produces thousands of them, to the law firms that back them up, to small-business entrepreneurs who hope to make it big.  I am in the third category: as of now I'm staking a good amount of time and dedication in what I consider a novel idea, and if I don't make it, that means some angry venture capitalists.\r\n\r\nThere are always two (or more) sides to every story.  In this case, the nullification of software patenting means the destruction of a (fairly) large industry, and less protection for what are often very novel ideas (from this area I digress from the author: to stake the claim that software patenting only covers obvious ideas is absolutism; this issue will exist for all types of patents, and while software patents are *far* from immune, there are many truly unique ideas out there that are being protected by patents).\r\n\r\nThat said, I'm not certain that software should be patentable. It has always irked me..."
+-
+    name: ''
+    mail: ''
+    subject: 'Yes, I have considered this machine'
+    hostname: 210.246.44.41
+    created: '1167989479'
+    body: "Yes, I have considered \"this machine\", and to be frank, I find your thinking imprecise and woolly.  What do you mean by \"this machine\"?  You don't say.\r\n\r\nTo wit, I am typing this on am imprecise version of an operating system, through none of my choice - it's running MS Win95.  In the background there are a few programs.  In an MS DOS Box PING is running, to maintain my dialup connection because the local Telecom has sat on its hands and twiddled its thumbs over the past few decades, consequently the copper isn't worth a brass razoo.  In the foreground Firefox is running, and I'm typing this on Notepad because of the imprecise API and background services that go with anything Microsoft, consequently nothing can fully be trusted, not even Firefox.\r\n\r\nWhat constitutes \"this machine\"?  There's a \"this machine\" constituted by the MS DOS Box running PING.  Or is it \"this machine\" represented by the MS DOS 7 kernel and the imprecise MS WinAPI machine running on top of that?  Which combination represents the genuine article, \"this machine\"?\r\n\r\nJust to let you in on the - open - secret, dividing by zero and dividing by infinity are undefined in the mathematical sciences.  When you add the various combinations of applications and operating systems, you wind up with a steadily exponentiating \"this machine\".\r\n\r\nNow if I had a decent laptop running an operating system designed by intelligent life, such as Linux, FreeBSD or OpenSolaris, and running various virtual machines running various other operating systems such as 7th Edition Unix, MS DOS, CP/M, MS Windows, VM/370, MVS38j, MUSIC, etc, \"this machine\" exponentiates even further, rapidly approaching infinity insofaras a humble laptop can comprehend such a concept.\r\n\r\nPlease explain to me how \"this machine\" could possibly be covered by a patent.\r\n\r\nI find, the more I debate this sort of topic, the more I feel like I'm assaulting a defenseless crippled cretin.  You're not supposed to check your brains in at the door, you know.\r\n\r\nWesley Parish"
+-
+    name: ''
+    mail: ''
+    subject: 'Tool paths, tool paths, tool paths'
+    hostname: 210.246.44.41
+    created: '1167990990'
+    body: "\"<cite>Any software program can be mapped to a hardware language (through a series of methodical, deterministic steps) which in turn can be mapped to hardware gates or reprogrammable FPGAs (also through a series of steps).</cite>\"\r\n\r\nWell, that's true enough.  Remember though, that the very first computers were programmed by soldering iron, and nobody then ever considered their soldering jobs so vitally inportant that they patented them.\r\n\r\nPerhaps the difference is that UNIVAC's programmers weren't idiots.\r\n\r\n\"<cite>This hardware is not a general purpose machine but a device uniquely implementing that software (i.e. a very specific control unit and data path).</cite>\"\r\n\r\nTrue, but then, we are not talking about special purpose machines when we talk about your common or garden, everyday computer.  We are talking about a very general purpose machine - as witness Microsoft's XBOX, which started out as a special purpose games box, and has been used for godknowswhat.\r\n\r\nAnd even then, you haven't gone down nearly far enough.  When you say \"computer hardware manufacturing\", you are talking among other things, about tool paths.  Most tool paths can be implemented in elementary CNC.  I would hate to think that CNC can't define most of the chip manufacture process, clumsily to be sure - considering that SystemC, a dialect of C, is considered capable of defining the end product, and to define the process, is broken down into steps.\r\n\r\n\"<cite>Therefore, any software program can be thought of as a direct representation of a patentable hardware device and as such would seem to permit protection by patent.</cite>\"\r\n\r\nThere's just one minor matter - to implement such a \"patentable hardware device\" in hardware, we need a factory, and massive investment therein.  To implement such a \"patentable hardware device\" in software, what we need is a group of people who understand the \"problem domain\" and at least one of the software tools to implement it, and the hardware to run it.\r\n\r\nAs a result of the Personal Computer developments dating from the 1970s, implementing this \"patentable hardware device\" in software is trivial - unless you happen to be Microsoft, the Elephant That Squeaked - and a trivial expense.\r\n\r\nYou haven't mentioned any of these factors.\r\n\r\nWesley Parish"
+-
+    name: ''
+    mail: ''
+    subject: 'Software to hardware -> Music to hardware'
+    hostname: 81.72.245.119
+    created: '1168004932'
+    body: 'Any MUSIC can be mapped to a hardware language (through a series of methodical, deterministic steps) which in turn can be mapped to hardware gates or reprogrammable FPGAs (also through a series of steps). This hardware is not a general purpose machine but a device uniquely implementing that MUSIC (i.e. a very specific control unit and data path). Therefore, any MUSIC can be thought of as a direct representation of a patentable hardware device and as such would seem to permit protection by patent.'
+-
+    name: 'Jabari Zakiya'
+    mail: ''
+    subject: 'That''s one of the big problems.'
+    hostname: 68.49.20.138
+    created: '1168017725'
+    body: "An entire industry has \"sprouted\" up around software (and the other scourge, business methods) patents, and that's one of the big problems\r\nwith software patents.  This \"industry\" has absolutely nothing to do with the intent of \"patent protection\" embedded into the U.S. Constitution in Article I, Section 8, Clause 8: \"To promote the Progress of Science and useful Arts by securing for limited Time to Authors and Inventors the exclusive Right to their respective Writings and Discoveries.\"\r\n\r\nHere \"Authors/Writings\" doesn't refer (in common vernacular) to literature or music, but to scientific/technological discoveries.\r\n\r\nAs you recognize, this industry of lawyers, IP vultures, and investors dependent on software patents, could care less about promoting the progress of science, especially since it has to actively fight to retard technological progress to profit off its patent portfolio.\r\n\r\nBut again, software (as US Supreme Court precedent has already established) is essentially no different than music or literature --  it is merely the expression of an idea of how to do something. Would you suggest that an architectural blueprint of a building, or a car design, are \"inventions\" that should warrant patent protection too?\r\n\r\nIt is unfortunate that the parasitic greedy nature of capitalism promotes the mere making of money by exerting the least amount of energy and intelligence. So, as you acknowledge, the current legal system, from lawyers to judges, have agreed among themselves, that they will promote this fiction of software patents because they stand to greatly profit from its creation and expansion.\r\n\r\nIf you were truly interested in making money off innovative technology then you probably shouldn't look at patenting it anyway, since that would force you to reveal the \"invention\" to anyone who sees the patent (and there are people/groups who just scan patents for ideas).\r\n\r\nMany companies who make \"real things\" don't even bother to patent them, they keep their inventions \"secret\" and just profit from the fruits of these inventions. These are referred to as \"trade secrets,\" which companies take great measure to keep secret. It is much better to try to maintain a \"trade secret\" into perpetuity than to patent the  same inventions (making it public knowledge) to eventually lose exclusivity to its use after a period of time.\r\n\r\nIt seems like you are more worried about being denied the ability to make \"easy money\" off of an idea that is not novel or non-obvious enough for you to just create a business around solely on the merits of the technology involved. But patent protection was never meant to allow profit from ideas just because you have an idea -- does it promote science, or just your pocket book?\r\n\r\nAs FOSS proves, you don't necessarily need patent, copyright, or trademark protection if you have truly novel ideas, and know how to effectively market and manage them.  The main problem with people in a capitalistic society is that you want to hoard solely for yourself the fruits of your ideas, even though you need other people's skills and labor to profit from them. If you thought holistically and realized your profit is best obtained by other people motivated to also profit from your ideas, then it could be win-win for a large group of people versus win-lose for primarily you, as this capitalistic economic system promotes.\r\n\r\nI would encourage you to think about technology more from the point of view of its usefulness to society, and not as a profit generating vehicle. If its useful, people will help you make money from it, if its not, then no amount of artificial protection will help you if no one wants to use/buy it in the first place.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'limit software patents another way'
+    hostname: 66.249.228.12
+    created: '1168035163'
+    body: "Why not allow some form of patents for software, but since the \"development\" and \"life\" of software \r\nis short compared to physical objects like large machinery, etc.--why not make software patents for only 4 years instead of 17 years?\r\n\r\nIt provides for time for development, yet promotes the general good by making them available to everybody quicker.\r\n\r\nYou don't have to build a factory, borrow millions of dollars to set up a production line, etc to write some code for a new idea you have.  reduced costs of development=reduced time of protection of idea.\r\n\r\nSoftware is unique in this way.  In my trade, I own a machine shop, I have to buy material for a part, then spend time making it, then sell it.\r\nCopy number 2, next week, costs pretty close to the same to make it as the first one.\r\nCopy 10, copy 200, etc--STILL require me to buy more material, then  machine it, to sell it.\r\nSoftware, once copy one is done, you buy a new Cd and buy a new box and copy two is much cheaper.\r\nthe more you sell the higher the profit margin.\r\n\r\nBefore anyone says software takes much longer to make than machined parts--they should look at the cost of the dies to make skins for a single automobile.  It is a process that is started 2-3 years in advance and the machining can take 18 months of that.\r\n\r\n "
+-
+    name: ''
+    mail: ''
+    subject: 'Very well put'
+    hostname: 71.255.94.31
+    created: '1168100179'
+    body: "please dont be offended by my horrendous spelling :)\r\n\r\nPatents exist to protect a person or group's research, development, and effort.  If a home-based scientist comes up with the answer to time travel, they - alone - deserve to be made immortal.  They should be repaid for their vast contribution to the human knowledge of scence by having their own period to make personal benifit from their creation without rich corperations suddenly moving in, stealing the work, and profiting.  This is what patents stand for.  If you know (and trust me, you _do_ know) that you are not going to profit because large corperations - or just other people just wanting to make a quick buck - are going to steal all your work and grab all the fame and fortune you diserve, you will _NOT_ even try to make the scientific advancments you would knowing you are protected.\r\n\r\nSoftware patents do not serve to to protect one's research, development, or effort - and this is not the only reason they are immoral.  They serve to give the large corperations a weapon with which they can destroy any possible threats to their monopoly.  If you look at how software patents work in the real world, you see the monopolies hard at work trying to patent everything remotely possible to add to the hundreds of thousands of patents they already have.  Individuals making intelectual discoveries end up with one, or mabey two patents, if they even beleive in protecting themselves, while the people who already have firm groundings in the industry only try to deepen their rock-solid grip even farther.\r\n\r\nThe legal reason why software patents are contradictory to existing laws or standards is that software is data.  If you write a story on paper, it is data.  If you write a story in a word processing program, it is data.  You dont patent the story, you copyright it.  If you were to patent parts of the story, you would be able to say that untill your patent expires, no other writer can have the antagonist of the story die from falling off a cliff, or that the main character's dog may not be a doberman.  WHAT KIND OF LUNACY WOULD SUCH A LAW BRING TO THE WORLD??  Unfortunately, the same is already true of software, which is technically no different from a written story except that it is written in a different language: one computers can interpret.  If you write down (on paper) an algorithm which decodes a file format, this is not a patentable \"invention.\"  It is not even an invention, it is just a mathmatical algorithm.  If you type the same algorithm into a word processor, it is still not patentable.  It is still just a mathmatical algorithm.  However - if you decide to write this algorithm in C (a programming language, for those who are just peering in on the problem and not actual developers), the program is now a patentable \"invention,\" even though it is still _just data_, no different from the story or the algorithm written on paper.\r\n\r\nSome argue that physical pattern in memory or on the hard drive is patentable, but what if the filesystem or operating system is encoded differently?  these patents are not grounded logically.  They are equal to patenting water as \"an apperatus to cooling things\" because it is _sometimes_ found in frozen form.\r\n\r\nI could go on, but I want to get back to work on my programming - god forbid any of the underlying technoledgies were legal (due to patent restrictions, see this for example: http://freetype.sourceforge.net/patents.html ).\r\n\r\n-- Zorro"
+-
+    name: ''
+    mail: ''
+    subject: 'an in most Spanish speaking'
+    hostname: 69.119.174.37
+    created: '1168107875'
+    body: "an in most Spanish speaking countries too is DD/MM/YYYY because it follows the convention of the language\r\nso today is \"6 de enero de 2007 (06/01/2007)\"\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 're: have you considered the machine?'
+    hostname: 24.253.79.24
+    created: '1168121428'
+    body: "I think what it comes down to is this:\r\n\r\n1. I invent a computer language where if you type the command \"print\" and compile it, it turns into \"1010011110001\", or machine code.  You could say that I'm the author of that machine code as well.  I invent another command call \"+\" to do addition and after compiling it, it turns into the machine code \"1000101101\".  I'm the author of that too.\r\n\r\n2.  Microsoft makes a program with the file word2.exe in it.  This file is nothing but machine instruction that contains the machine code for \"+\" and \"print\".\r\n\r\n3.  Microsoft patents this program, but he just patented my machine code as well.  That's not fair.\r\n\r\nPut another way, I invent a human language called espositus.  Shakespeare's great, great, great, great, grandson named Shakie makes a play using espositus and patents it.  He's patenting my language.  He can't patent the words that I invented.  But he has other remedies by law to prevent me from saying that I'm the author of Shakie's play."
+-
+    name: ''
+    mail: ''
+    subject: 'Re: Date format'
+    hostname: 84.163.136.122
+    created: '1168121600'
+    body: "Whenever I see slashes, I assume this to be the illogically sorted US format (just as illogical as so many other things going on over the pond - sorry for that cheap shot ;).\r\nDD MM YYYY sorting IMHO should best be indicated via . or -, i.e. 01.03.2007 (European format), and slashes should be <em>avoided</em> here.\r\nBut then I'm preferring the ISO format, too, since this is now a universal format and - most importantly! - properly machine-sortable (in filenames etc.).\r\nAfter all, with a large number, lower units (frequently changing digits) are on the right side, so why not do the same (days on the right side) with date format?"
+-
+    name: admin
+    mail: ''
+    subject: 'More on Dates'
+    hostname: 203.59.204.147
+    created: '1168135417'
+    body: "After discussion between FSM staff it has been decided that we use the YYYY/MM/DD format. This has now been implemented. I hope that this suits everyones taste.\r\n\r\nThanks"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: ...
+    hostname: 69.180.163.110
+    created: '1168190153'
+    body: "Suits me.  It seems the most logical as it puts the most significant number first.  (And avoids tedious arguing about national differences when both mm/dd/yyyy and dd/mm/yyyy are lacking and create confusion in mental translations.) :-)\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: ''
+    mail: ''
+    subject: "Hi,\n  This entire thing"
+    hostname: 206.173.25.156
+    created: '1168969240'
+    body: "Hi,\r\n  This entire thing about the patentability of software is to me incredibly strange.  The analogy that comes the closes to me is the phonograph, which has been around for a long time {okay obsolete now for most part}, so there is a long history.  The phonograph is patentable, the recording media was patentable,whether as the original cylinder, or the improvement to 78s or later 45s, LP 33s or quadraphonic, but the songs embedded in the media... sorta like a embedded software is embedded in a ROM chip, was only copyrightable.  Imagine all the music we would have missed had the first recording studio and artist, say the Chiffons, had patented the look and feel of the Motown Sound. There would have been no Four Tops, or Temptations and the like. The media thing needs to be examined a bit more.  This machine argument just doesn't get it I am afraid.  What a stifling thing it will be to ongoing development.  \r\ngene"
+-
+    name: 'Anonymous visitor'
+    mail: joaquin24@uolsinectis.com.ar
+    subject: 'Hi this question might be'
+    hostname: 190.30.19.240
+    created: '1180074301'
+    body: "Hi this question might be subreal, but I am thrilled to know the answer  and might was as well other readers not living in the US.\r\n\r\nIn the spanish countries/speakers, the language is rulled by this RAE see <a>http://buscon.rae.es/draeI/SrvltGUIBusUsual?TIPO_BUS=3&LEMA=ventana</a>\r\n(window in spanish)\r\n\r\n in some sense all the words are copyright, every spanish speaker country agrees and subcribes with the RAE, just for the sake of the language, so everyone more or less can understand which is the broad sense of each word.\r\nNarrowing it down (notice the copyright under the site <cite>Real Academia Española © Todos los derechos reservados</cite>), also means that someone cannot name a company mambo and team-mark it, just because \"plain sense\", anyone else has full-rights to name their company mambo as well.\r\n(unless they write a mambo in a funky way like M4mb0- )\r\n\r\nThis is extremely usefull, in special cases such as writing and getting things clear in an essay/document, etc... the grammar \"paladins\" could eventually dictate a novel/document/essay invalid in or censor it because is that not complies the rules that every country suscribe to (i.e such essay uses funky letters and capital where shouldn't).\r\n\r\n \r\nIs there anything alike in the US or maybe the commonwealth?\r\n\r\njust curious, can I team-mark a:  Word(tm) \r\n"
+-
+    name: 'Anonymous visitor'
+    mail: gentoo@uolsinectis.com.ar
+    subject: 'Linux Pünks: nothing new over here.'
+    hostname: 190.30.19.240
+    created: '1180076212'
+    body: "it all explains by itself with the recent presentations realeased by dell about virtualization and linux \r\n\r\nhere:http://linux.dell.com/files/presentations/LinuxWorldExpo_Boston_2006/Kettler_Keynote_slides.pdf\r\n\r\n<strong>there are you have your  Linux Pünks</strong>\r\n\r\nleeching and not giving anything back.\r\nWilling to destroy any common sense, by the sole and only meaning of ...how much profit can I get? how more? how far?\r\n\r\nthis is not new at all.\r\n\r\n\r\nJoako.-"
+-
+    name: PiAndWhippedCream
+    mail: PiAndWhippedCream@gmail.com
+    subject: 'Legal Fiction?'
+    hostname: 69.59.67.68
+    created: '1181709086'
+    body: 'You (The Author) used the term "Legal Fiction" incorrectly, Legal Fictions are facts taken as truth for the sake of argument, when it suits the purposes of the court, but not necessarily true.  One example is the doctrine of survival: if it is impossible to make a correct unambiguous decision about which of two people died first, the oldest person is arbitrarily declared to have died first.  This curiosity is an unfortunate but necessary part of the Western judiciary system, which requires facts, sometimes above truth. The institution of software patents is not legal fiction then, but a short sighted malfeasance resulting from a Legislature, Executive Power, and Judiciary, that have a collective ignorance of technology and software.  '

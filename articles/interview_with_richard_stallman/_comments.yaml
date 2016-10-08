@@ -1,0 +1,35 @@
+-
+    name: Fzzy
+    mail: ''
+    subject: 'For instance, *B’liar* wanted to abolish'
+    hostname: 196.30.245.149
+    created: '1200925666'
+    body: 'Was that deliberate?'
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'On the part of RMS? - probably'
+    hostname: 82.108.129.98
+    created: '1201022863'
+    body: "I would think so.\r\n[This page](http://www.stallman.org/archives/2007-jan-apr.html) in the archives of RMS' personal homepage has the following entry\r\n> 24 April 2007 (Abandoned interpreters)\r\n> __B'liar__ has abandoned Iraqi interpreters who worked for the Bush forces in Iraq, and now need to flee for their lives.\r\n>\r\n>I don't have much sympathy for Iraqi collaborators, who are rightly being attacked as traitors by their countrymen. But this policy shows the moral corruption of __B'liar__ — the same moral corruption that led to his participation in the attempt to conquer Iraq. \r\n\r\n(emphasis mine)\r\n\r\nAnd it's by no means unique on his homepage. So \"B'liar\" is it seems the way RMS refers to Tony Blair. It's not been an uncommon practice over here in the UK either and is often seen on banners and placards at anti-Iraqi war rallies.\r\n\r\nHTH\r\nRyan"
+-
+    name: LockLizard
+    mail: ''
+    subject: 'DRM does have a place'
+    hostname: 81.153.30.119
+    created: '1201281936'
+    body: "Not everyone is prepared to spend hundreds of thousands of dollars on creating intellectual property (whether it be software, music, content or videos) just to give it away for free.  Publishers have a right to protect their income just like anyone else - no one works for free.  If someone wants to create free software then fine.  On the other hand, if someone else wants to get paid for theirs then so be it.  That is for the individual to decide.  Apart from protecting content against casual copying, DRM can provide further benefits to publishers like selling time limited or print limited versions for a low fee.  The issue always comes down to price and the willingness to give purchasers the choice i.e. between purchasing a printed book for $10 or a DRM protected ebook version for $5.  If the purchaser chooses the $5 ebook version then there should be no need for complaint.  I provide consultancy services for www.locklizard.com and I know most of their publishers give users the choice of formats and prices.\r\n\r\nBrian Evans"
+-
+    name: Balzac
+    mail: ''
+    subject: 'Not on my computer. '
+    hostname: 208.120.233.249
+    created: '1201730716'
+    body: "It's a question of security. If your operating system has built in support for DRM, it's functionally a root-kit or a Trojan to violate your privacy and control you. \r\n\r\nThe developer of the DRM has a sovereign environment within your computer. To keep you from violating the terms of their license, the DRM will have an auto-update feature and all kinds of permissions to violate your privacy, just to insure that you're not getting away with something.\r\n\r\nYou're welcome to swallow the poison pill, but I won't do it."
+-
+    name: yarvin
+    mail: ''
+    subject: 'Once again, you'
+    hostname: 68.62.118.177
+    created: '1203277464'
+    body: "Once again, you copyright-types show you simply <em>do not understand</em> the free software movement.\r\n\r\nYou said: \"Not everyone is prepared to spend hundreds of thousands of dollars on creating intellectual property (whether it be software, music, content or videos) just to give it away for free.\"\r\n\r\nA lot of people get <em>paid</em> to work on free software.  Under the moniker of \"open source,\" it's become very big business.  It's probably only a matter of time before a similar situation develops in the multimedia world.  We're seeing the start of this with companies like Magnatune and various authors and artists releasing work under Creative Commons licenses.\r\n\r\nYou said: \"Publishers have a right to protect their income just like anyone else\"\r\n\r\nNo one has a right to protect their income through immoral means.  This statement is based on a moral value - that artists own their works - that the free software movement (not to mention US legal precedence) <em>does not share</em>.  So, from our perspective, you are forcing your values on us.\r\n\r\nYou said: \"no one works for free.\"\r\n\r\nTwo points: (1) People get paid in many more ways than money.  (2) No one's forcing them to do it.  While we all value innovation, the free software movement rejects innovation fetishism.\r\n\r\nYou said: \"If someone wants to create free software then fine. On the other hand, if someone else wants to get paid for theirs then so be it.\"\r\n\r\nAgain, free/proprietary is <em>not about money</em>.  Many people do get paid to write free software.  The issue is whether or not developers' restrict users' freedoms in the name of money or control."

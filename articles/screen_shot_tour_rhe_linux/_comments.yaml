@@ -1,0 +1,21 @@
+-
+    name: asokadd
+    mail: ''
+    subject: 'Red Hat Enterprise Linux'
+    hostname: 192.248.40.6
+    created: '1157439033'
+    body: "My encounter with RED HAT\r\n\r\nIt all began with Red Hat Linux version 8. After getting 22 copies of corrupt Red Hat 8 CDs (copied) that were not working, I never gave up. Luckily the 23rd finally worked and the journey of Red Hat was something I enjoyed very much with books with each version up to 9. \r\n\r\nCome Fedora I went upto the Core 4 and got fed up and turned to SuSe (their public relationship is better than Red Hat). \r\n\r\nToday I am going to the city (Kandy) to get a copy of Red Hat Version 3 (DVD version)from one of my friends to try it.\r\n\r\nMy question is why the Red Hat Enterprise is not working on a book with a Editors Copy for poeple (poor) like me to obtain the same from a local bookshop (who had to wait for years to get a enterprise version)?\r\n\r\n\r\nVisit my site at www.geocities.com/asokaddd/index.html\r\n\r\nOr WWW.writeclique.net (British Council)\r\n\r\nAuthor name as Dr.S.B.Asoka Dissanayake\r\n\r\n \r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Red Hat Enterprise Linux'
+    hostname: 64.180.114.24
+    created: '1160383772'
+    body: "May I suggest trying out CentOS 4.4?  It is the latest offering (as of September 2006) from the folks at CentOS and it is based on Red Hat Enterprise Linux.  They maintain their offering of Linux as being binary compatible with RHEL, but are free of charge.  Mostly they only remove the copyrighted images, etc. from RHEL.  You can download their ISO images freely by starting at -- http://www.centos.org/modules/tinycontent/index.php?id=13\r\n- Jerry"
+-
+    name: ''
+    mail: ''
+    subject: 'redhat linux based terminal server'
+    hostname: 218.248.0.65
+    created: '1168352823'
+    body: 'readhat linux based terminal server creat what service is acive in server configuration and what will be required for the made by terminal server '

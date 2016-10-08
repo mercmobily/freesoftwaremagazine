@@ -1,0 +1,7 @@
+-
+    name: levon33
+    mail: ''
+    subject: '“Autoconfiscating” A Project'
+    hostname: 217.10.60.85
+    created: '1223383787'
+    body: "Dear Mr. Calcote,\r\n\r\nAs it would be noticed by my question, I am new to the subject.\r\nI would like to ask you if I would like to use, the GNU Autotools in a way, that I have to preserve the already existing GNUAutomake files, and their functionality. I would like to simply use the Makefile.am file as a substitution list of variables, which are defined in the Makefile.in(former GNUAutomake).\r\n\"...The important thing to notice here is that the Autoconf variables are the only items replaced in Makefile.in while generating the makefile. ...\"\r\n\r\nDoest this mean, that there is no way to implement my need by simply writing in the former GNUAutomake, now Makefile.in (only changed name), definition of an example variable named,\r\nUNIT = @UNIT@, and this variable to be defined in the Makefile.am file.\r\n\r\nThanks in advance.\r\n"

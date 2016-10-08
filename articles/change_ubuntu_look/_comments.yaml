@@ -1,0 +1,105 @@
+-
+    name: ''
+    mail: ''
+    subject: Blubuntu
+    hostname: 204.42.17.251
+    created: '1155055727'
+    body: "You screenshots look great! I have compiled a montage about <a href=\"http://brentroos.com/2006/07/29/blubuntu/\">Blubuntu</a>, if you would be interested in seeing it. I have provided easy instructions, so that anyone can easily have a blue desktop for their Ubuntu system.\r\n\r\nCheers"
+-
+    name: ''
+    mail: ''
+    subject: FYI
+    hostname: 84.45.197.14
+    created: '1165752476'
+    body: 'Just in case anyone is following this (as we just have had here:- https://answers.launchpad.net/distros/ubuntu/+ticket/2673 ) in later versions of Ubuntu the "Login Screen Setup" menu option is now called "Login Window".'
+-
+    name: ''
+    mail: ''
+    subject: Brown
+    hostname: 203.10.224.61
+    created: '1165962099'
+    body: 'And watch magically when future upgrades restore some of the ugly brown bits.'
+-
+    name: curlyspell
+    mail: ''
+    subject: 'Thanks i will tke u up on'
+    hostname: 68.238.98.181
+    created: '1168683672'
+    body: "Thanks i will tke u up on that.   I promised myself that i would conquor this world I have avoided too long so, here I go \r\n\r\n                      Thanks Again"
+-
+    name: ''
+    mail: ''
+    subject: Backgrounds
+    hostname: 87.5.148.66
+    created: '1173880989'
+    body: 'Is it possible to know in wich directory Art-Manager saves the backgrounds I install from it? I would like to modify a few of them but I can''t find where are located. thanks :)'
+-
+    name: ''
+    mail: ''
+    subject: Backgrounds
+    hostname: 87.5.148.66
+    created: '1173881060'
+    body: 'Is it possible to know in wich directory Art-Manager saves the backgrounds I install from it? I would like to modify a few of them but I can''t find where are located. thanks :)'
+-
+    name: ''
+    mail: ''
+    subject: 'backgrounds directory'
+    hostname: 87.5.148.66
+    created: '1173881133'
+    body: 'is it possible to know in wich directory Art Manager saves the backgrounds downloaded?'
+-
+    name: 'Luka Manser'
+    mail: ''
+    subject: 'Ubuntu look'
+    hostname: 161.53.169.192
+    created: '1177514160'
+    body: "Personally I don't like Ubuntu's default brown theme or it's icons (Update: dapper has beautiful icons). They are just not for me. The good thing with Ubuntu (and linux in general) is that it's possible to modify everything you want. Now I know where to find other themes (gnome-look.org). I have done everything ok but Firefix.\r\nCan you tell me if this is the right way to make firefox look like those themes:\r\n sudo apt-get install firefox-themes-ubuntu?\r\nThanks,\r\nLuka Manser\r\n \r\n"
+-
+    name: 'Anonymous visitor'
+    mail: xxx@xxx.com
+    subject: 'So what now?'
+    hostname: 91.122.20.100
+    created: '1183311516'
+    body: 'So what now?'
+-
+    name: 'Anonymous visitor'
+    mail: anarchyojo@gmail.com
+    subject: 'I''m with you, I can''t find the files either!'
+    hostname: 71.208.108.143
+    created: '1189367174'
+    body: 'I used the art manager to download some new login screen themes and cannot find them anywhere on my computer.  I used the terminal to search for them but cannot access them still.  Anyone know where my downloads went?  Many thanks my friends...'
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'Does this help?'
+    hostname: 190.184.17.177
+    created: '1189480762'
+    body: 'By default art manager seems to save everything to your home folder. However, when you try to download a file, it does ask you where you want to download it to. Perhaps if you go back in there and try to download something else you will find where you saved it last time.'
+-
+    name: 'Anonymous visitor'
+    mail: samgo1975@gmail.com
+    subject: 'I installed the ubuntu 7.10'
+    hostname: 64.3.133.130
+    created: '1194550980'
+    body: 'I installed the ubuntu 7.10 but i cant find the themes option in system-preferences, does any one help me how to get the themes option to change my desktop look.'
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'They''ve changed things around in 7.10'
+    hostname: 190.184.55.214
+    created: '1194816307'
+    body: 'You will find themes in System -> Preferences -> Appearance now. '
+-
+    name: arielsegal
+    mail: ''
+    subject: 'A Very useful article'
+    hostname: 84.94.39.125
+    created: '1194835311'
+    body: "I'm new to Linux, and have installed Ubuntu to an old PC. I don't like the default theme at all, so I changed the background to an image I downloaded from the Internet, and other appearance items.\r\nThank you for this article, now my desktop will really look the way I wanted it to look."
+-
+    name: anonymouse
+    mail: phrizvince@yahoo.com
+    subject: 'about ubuntu'
+    hostname: 203.111.234.60
+    created: '1195476919'
+    body: "hello im just a new user of the ubuntu and i dont know more about it... just wanna ask some questions so please give me some replies on it... 1.how will i install ubuntu to my windows XP as a partition?\r\n2.how will i change my themes to make it more lively just like the kubuntu (well kubuntu looks like a vista but more than a mac)\r\n3.how you make my desktop more presentable coz, the default theme is so boring and i dont like to use it..\r\n\r\nso any ideas ???\r\n\r\nill wait for your answers please e-mail me at;\r\nphrizvince@yahoo.com\r\n\r\nplease help i really need it.. thank you..\r\n\r\nby the way I'm an Information Technology Student in the Philippines so i want to know more about Linux and other OS. "

@@ -1,0 +1,14 @@
+-
+    name: txtechdog
+    mail: ''
+    subject: 'Factual error in your post'
+    hostname: 24.242.131.98
+    created: '1274330415'
+    body: "Your post makes it sound like X86 support for Solaris became available at the same time as OpenSolaris appeared.  This is absolutely not the case.  Solaris has run on the X86 architectures for years before OpenSolaris appeared.  It was never as popular as the Sparc version, but Solaris first became available on X86 hardware in 1993.  OpenSolaris didn't appear until 2005, some 12 years later and the first truly complete version of OpenSolaris didn't appear until 2008.\r\n\r\n<em>This has already been done and StormOS is a good example (it is derived from Nexenta), where ZFS has been ported and combined with Ubuntu and Apt to give the best of three worlds: ZFS, extensive software repositories (13,000 packages) and easy package management through Apt, Getdebi and something called apt-clone.</em>\r\n\r\nThe statement above is also misleading in that it makes it sound like StormOS is Ubuntu with ZFS added.  This isn't the case.  StormOS combines a OpenSolaris kernel with userland utilities from Ubuntu, so they didn't port ZFS to Ubuntu, but ported Ubuntu userland to OpenSolaris.\r\n\r\nYou also have a paragraph heading where you typed in ZSH instead of ZFS."
+-
+    name: pete_l
+    mail: ''
+    subject: 'Uhh, where''s the other half of the article?'
+    hostname: 94.8.83.220
+    created: '1275852926'
+    body: "You know, the bit that talks about all the other killer features: like bootable clones, zpools and data checksums (though you can leave that last one out if you're in a hurry).\r\nPersonally, as a software guy, I'm not interested in all the legal malarkey about licensing but I would like to hear about all these other, exciting features that Solaris has - any chance?\r\n\r\nBTW, Sun had a whole range of desktop boxed going back to the 80's - long before they branched out into the server field. Their origins were in world-leading graphical interfaces 10+ years before windows or Macs."

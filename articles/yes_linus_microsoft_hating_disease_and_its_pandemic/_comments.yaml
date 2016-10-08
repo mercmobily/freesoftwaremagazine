@@ -1,0 +1,119 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'This is the nature of free software'
+    hostname: 68.116.159.234
+    created: '1248739159'
+    body: "It's the nature of free software that we can't hold on to competitive advantages, nor can we effectively exclude anyone, whether we like them or not.\r\n\r\nPerhaps it would be useful to imagine the result of _not_ including the code...\r\n\r\nConsider. Torvalds refuses the code, branding himself as an \"activist\" and alienating at least one faction of the people who support Linux.\r\n\r\nMicrosoft, or more likely Novell, adopts the maintenance of the patched kernel with the Microsoft code. That version of Linux supersedes kernel.org's for many users. In essence, it becomes a competing product, which is under tight control by Microsoft.\r\n\r\nNot only would that put Microsoft in full control of a \"value-added\" product, it can say it did so by _being more open than the community_, without using any proprietary licensing.\r\n\r\nDo I need to spell out the next few steps? This would be a disaster on multiple levels -- the best possible outcome would be that Linus eventually relents and lets the code back into the kernel.org kernel. \r\n\r\nIt's much better to adopt the code now and avert the disaster entirely. Sure Microsoft's motivations for submitting it are self-serving. That's the nature of corporate competition. But a simple-minded shunning of Microsoft contributions is not an effective response.\r\n\r\nTorvalds is sticking to his values, and it's the right thing to do, both ethically and politically. "
+-
+    name: 'Paul Gaskin'
+    mail: ''
+    subject: 'Linus Torvalds is misrepresenting Free Software again.'
+    hostname: 71.167.77.229
+    created: '1248749667'
+    body: "Nowhere in the official literature of the Free Software Foundation do you find the word \"hate\" used in reference to Microsoft.\r\n\r\nAlso, there is no extremism allowed in the Free Software community. I actually find Steve Ballmer to be very entertaining and funny. I find Bill Gates to be a decent, likable, and misguided monopolist.\r\n\r\nThere is no hatred emanating from our camp. But there is jealousy emanating from Microsoft because GNU is such a powerful brand among developers.\r\n\r\nLinus Torvalds should stop misrepresenting the Free Software foundation. Resistance to being subjugated is not hateful nor is it extreme. It's the only response when someone methodically and deliberately tries to curtail your freedom using unfair business practices, lobbyists, ridiculous legal tricks and billions of dollars.\r\n\r\nLinus Torvalds needs someone to send him a GNU stuffed animal to remember how benevolent and good the GNU project is. There should be a complete reconciliation between the penguin and the GNU, rather than the penguin running into the sweaty embrace of Steve Ballmer."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Understandable position, but a bit too alarmist.'
+    hostname: 84.100.54.240
+    created: '1248769644'
+    body: "The Microsoft contribution is a pack of 3 device drivers; it's not part of the kernel's \"heart\" (it doesn't touch the scheduler, nor the memory manager, whatever); it can be added, removed, loaded as module etc. without any effect.\r\n\r\nHaving specifically released the code under the GPLv2, Microsoft is now bound by the license's terms and can't argue in court that it doesn't recognize it (see SCO). They retain the copyright to their code, but it's now open for the Open Source world at large to take and modify it.\r\n\r\nThat Microsoft people usually have an 'agenda' can't be discussed: they do. However, this part of the code was released by MS engineers, many of which have actually publicly expressed interest in FOSS, if only as a development practice.\r\n\r\nLinus' disinterest in the code doesn't stem from his lack of understanding of the repercussions from it, but because he probably understands them better than you do; if, for any reason, Microsoft decides to attack Linux because of that code, Linus will merely remove it and be done with it; Microsoft will be banned once and for all from the community, and that will be all.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ngoni2002
+    mail: ''
+    subject: 'Keep this in mind'
+    hostname: 121.221.131.130
+    created: '1248773657'
+    body: '"Keep your friends close, and keep your enemies closer."'
+-
+    name: immerohnegott
+    mail: ''
+    subject: 'Worried that Torvalds is apolitical?'
+    hostname: 98.223.226.113
+    created: '1248795507'
+    body: "Why should this be a worry? If anything, it serves to further the openness and inclusive nature of the Linux kernel. Were Linus worried about the politics of this matter, we would end up with a counter-intuitive exclusion of people from the community for no other reason than that they would be running the kernel in a Windows-based VM. \r\n\r\nThese are drivers, not an integral part of the kernel. Right now Linus isn't worried because there isn't anything to worry about. Sure, the code's purpose is to allow Linux to run under a Windows VM, as opposed to a native Linux system, but Linux IS being run. To me, this seems far better than the alternative of snubbing the code and thereby shafting people out of support, FORCING them into selecting one OS or the other. Does that tactic sound familiar to anyone? \r\n\r\nIf Microsoft DOES submit more core kernel code (task scheduling, memory management, etc), then start worrying.  "
+-
+    name: 'Michael Fötsch'
+    mail: ''
+    subject: '"Torvalds’ determination to remain apolitical" Really?'
+    hostname: 217.29.151.166
+    created: '1248807276'
+    body: "You say, \"the really worrying part of this excerpt is his admission that he he is a big believer in technology over politics.\"\r\n\r\nBut is he really?\r\n\r\n<cite>There are “extremists” in the free software world, but that’s one major reason why I don’t call what I do “free software” any more. I don’t want to be associated with the people for whom it’s about exclusion and hatred.</cite>\r\n\r\nSo, he says free software is about exclusion and hatred? I'm glad he remains so genuinely determined to focus on technology, not politics!\r\n\r\n(No, I'm <strong>not</strong> being sarcastic here. Well, that's what I <strong>claim</strong>, but does that make it true?)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'The tone of your post negates its point'
+    hostname: 68.116.159.234
+    created: '1248813450'
+    body: "You may not like the term \"hate\", but you exhibit it even here in your post: there is an enormous amount of material from the FSF that is fundamentally negative in its appeal. I.e. \"You should support us, because 'they' are evil\".\r\n\r\nMaking it your business to call someone else \"unethical\" on the web is pretty much what constitutes a \"hate site\" -- for example, see the [Bad Vista](http://badvista.fsf.org/) page, sponsored by the FSF.\r\n\r\nYour rebuttal may possibly serve to \"justify\" your hate position towards Microsoft, but it certainly doesn't _deny_ that position.  Get over it -- hating Microsoft (and other proprietary software companies) is fundamental to the FSF position."
+-
+    name: 'Haakon Meland Eriksen'
+    mail: ''
+    subject: 'Harmful effects - no intent needed'
+    hostname: 80.212.185.135
+    created: '1248901736'
+    body: "I admit it - I like free (as in freedom) software, even when it costs money. In fact, I have and am willing to pay money BECAUSE it is free - that's how I want my software. My slogan would be \"I want to pay to stay free!\"\r\n\r\nThe dictionaries tells us \"hate\" is to \"dislike intensely; feel hostility toward; loathe; detest\". The dictionary even tries to give an explanation for it: \"intense hostility and aversion usually deriving from fear, anger, or sense of injury\".\r\n\r\nThey also tell us that \"evil\" is \"morally corrupt, motivated by intent to harm or destroy, producing destructive effects, characterized by bad acts or harmful effects\".\r\n\r\nGiven the above definition, proprietary companies don't even register on my \"hate meter\". I don't dislike them intensely, I don't feel hostility towards them, I don't loathe, detest or feel intense hostility and aversion to them either. Maybe it is because I don't fear them? They're benevolent stupidity may anger me sometimes when I can't do what I want to, or make me feel a sense of injury because of their mindbogglingly silly mistakes which prevents me from achiving my goal yet again - with no way to improve my situation using either my wallet or my wits. Unlike free software.\r\n\r\n\"Never attribute to malice that which can be adequately explained by stupidity, but don't rule out malice\" can be used to exclude intent, and I find this often quite handy in real life. Used on the above definition of \"evil\" we are left with a meaning of evil that is \"producing destructive or harmful effects\". Now, as evil things go, software is really low on my list. However, with this definition of evil, I definitely have proprietary software on my list of evil things in life. With this definition I also have the free software Ubuntu installer, which beautifully asks me for my chosen language and then does not make use of the information. I want Norwegian bokmål, that means æ, ø, å on the keyboard, that means daylight saving time does apply, that means Oslo is the capital of my country, Norwegian kroner is our currency and so on. Please, don't waste my time with stupid questions. No, \"some people might need it\" does not justify wasting time for \"the rest of us\". Not knowing how to multiply and feeding \"the elite\" is EVIL. Do you hear me, Mark Shuttleworth? \r\n\r\nI also wonder why revision control systems aren't automatically included as started daemons in all GNU/Linux distributions and used by default to track changes at least to the configuration directory /etc. This is also EVIL. \r\n\r\nWhy doesn't GIMP, Inkscape, Scribus, OpenOffice, KOffice, Kpovmodeler, Blender, Cinelerra or whatever auto-detect the company's revision control system and offer the user the chance to use it from their SAVE-dialogs? A group of professional graphic artists will rarely use free (as in freedom) software, because keeping track of file changes on a customer project including the Full Monty of advertising material - covering paper, TV and web - is paramount, and with the mentioned free software this isn't as easy as the proprietary offerings. In short, this is EVIL.\r\n\r\nPersonally then, I have failed to \"hate\" either proprietary or commercial free software, but I have felt their EVIL - no intent needed.\r\n\r\nStallman, and by extension the FSF, does talk about \"evil\" and \"moral dilemma\", like in this speech - http://www.gnu.org/philosophy/nit-india.html - yet, I find it very hard to find the word \"hate\" or take \"evil\" to mean anything else than \"harmful to the end user, regardless of intent\". \r\n\r\nI don't agree that the FSF is a \"hate site\" just because it finds proprietary software has harmful effects. That would be like saying the Ministry of Health is a \"hate site\" just because it warns people of the dangers of smoking.  \r\n\r\nCheers,\r\nHaakon Meland Eriksen"
+-
+    name: arito
+    mail: ''
+    subject: 'Why do you insist on talking about "hate"?'
+    hostname: 84.250.7.43
+    created: '1248907296'
+    body: 'Terry, your play with words is pretty transparent and not very clever. You actually embark into quite an acrobatic mental jump by stating that if you call someone unethical on your web site, the site is a "hate site", which which again implies that you are a hater. Why is it so important to you to use the word "hate", when there are other words that describe the reality much better. People are more often annoyed, frustrated, irritated, appalled, etc. by Microsoft''s behaviour than hating the company. Using misleading words on purpose equals lying to the extent the words used differ from the known reality. What''s your reason for doing this?'
+-
+    name: 'Paul Gaskin'
+    mail: ''
+    subject: 'Reel it in, Terry.'
+    hostname: 24.188.231.232
+    created: '1248928323'
+    body: "It just so happens that Steve Ballmer does indeed sweat a log, he does a Hare Krishna-styled hopping and clapping dance while chanting \"developers, developers, developers\" and he uses a strategy of \"embrace, extend and extinguish\".\r\n\r\nAll things considered, my comment is firmly based in objective reality, full of good humor and good will. You are too consternated about this. I hope you will get outside more.\r\n"
+-
+    name: harfad
+    mail: ''
+    subject: 'Torvalds is not "apolitical,"'
+    hostname: 92.29.26.153
+    created: '1249049865'
+    body: 'He just doesn''t like the politics of RMS, and I am inclined to agree with him.'
+-
+    name: 'Paul Gaskin'
+    mail: ''
+    subject: 'Once Terry compared the FSF to Hamas.'
+    hostname: 71.167.77.229
+    created: '1249072242'
+    body: "I received an email notification of this particular comment before he amended it to be less extreme. I was ready to forget about it until he started again with this ridiculousness.\r\n\r\nThe FSF is not the least bit extreme. It is quite an \"extreme\" and harmful misrepresentation to compare the FSF to Hamas. I don't think it's necessarily \"hateful\" of Terry to say this, because I don't know what emotions motivated these smears.\r\n\r\nNow speaking of Bill Gates and Microsoft's negativity towards Free and Open Source Software, don't forget them mocking \"open source\" as \"open sores\", comparing GNU GPL-licensed software propagation to spreading cancer, and also this:\r\n\r\n\"Since when has the world of computer software design been about what people want? This is a simple question of evolution. The day is quickly coming when every knee will bow down to a silicon fist, and you will all beg your binary gods for mercy.\"\r\nBill Gates \r\n\r\nMaybe Terry ought to have Linus Torvalds trim his beard because it's causing eccentric behavior. You must be a well-balanced personality to be able to wear a long beard without also being very eccentric. \r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Who are you replying to?'
+    hostname: 68.116.159.234
+    created: '1249257444'
+    body: "Did you mean to reply to my earlier post, or did you mistake the author of the post you responded to?\r\n\r\nCheers"
+-
+    name: zeke123
+    mail: ''
+    subject: 'Ever hear of Mac?'
+    hostname: 216.239.95.22
+    created: '1249271281'
+    body: "Oh great, dollar store psychoanalysis is included.\r\n\r\nStop acting like someone's granny and wanting people to admit their sins of hate.\r\nHate is not a new thing. Hate sells.\r\nPeople buy Mac because THEY hate Windows. \r\n(people who call me in the middle of the night so I can come do a Linux live CD rescue all hate Microsoft)\r\nEver visit a Mac site of hear the insufferable prophets of Mac like Merlin Mann, Ihnatko and company? Even though they have a better toy than MS, the hate they spew (and that's nothing to what they spew on Free Software!) on Microsoft is abundant.\r\nYou may like your current Mac more than your children but the reason you switched is your hate of Windows.\r\nSo what?\r\n\r\nPlenty of people hate plenty of things.\r\nPedophiles? Everyone hates them.\r\nLawyers? Almost as many.\r\nPoliticians and used car salesmen? Close behind.\r\nParking tickets and soda bottles that are flat, beer thats hot, pizza that's cold? \r\nYup, everyone hates those (except Brits and beer).\r\n\r\nHate is a normal reaction to certain situations.\r\n\r\nYoure family was eaten by sharks? You probably hate them.\r\nThe fraternal organizations of paisans who suggested that you pay them to make sure than your little bakery doesnt catch fire? My wife's coworker who closed hers 10 yrs ago still hates them with a passion.\r\nCops shot your brother who was unarmed? Chances are pretty damn good you will hate them.\r\n\r\nSome hates can be irrational. \r\nAnd some hates can be anywhere in between rational and irrational. \r\nSome hates, like let's say Red Sox fans, arent hates as much as annoyances.\r\n\r\nTrying to bunch all of these into one group is\r\nvery weak.\r\n\r\n\r\nMicrosoft's actions are well documented (and lets face it, all those things we 'thought' Microsoft did was shown by court documents to be a lot worse than we thought) and some people feel strongly about those. DOes this hate make the reasons behind them less valid?\r\n\r\nIf hate was the ONLY raison d'etre, there would be a problem but its not (although I would never speak for people I have never met and lets face it, our communities are very diverse). \r\n\r\n\r\nAs a person, I hate being threathened. Threathen my family and I will do things that would not be in my nature. That is an extreme case.\r\nAs a Red Hat user, I hate being threathened by Steve Ballmer who claims that I, as a RH user, owe Microsoft money because Linux has some stolen IP in it and RH hasnt paid the extortion scheme (Steve is nice enough to remind us that Novell has paid the extortion and is the legit thing).\r\n\r\nMy hate at being threathened by Ballmer as a \r\nRed Hat user is nowhere close to what it would be if someone threathened my family.\r\nThey are different things altogether.\r\n\r\nHate like all emotions is natural.\r\nIt paralyzes some, while it spurs others on to action. It comes in all shapes and forms and is a part of the human makeup.\r\n\r\nPlenty of people hate and plenty of people are ok to be hated (cmon, you can get a free shot at Mike Vick or Steve Bartman!)\r\n\r\n\r\nAnd if you hate hate so much, then I would suggest you stay away from Mac centric sites: the hate will overwhelm you.\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"exclusion and hatred"'
+    hostname: 68.116.159.234
+    created: '1249317950'
+    body: "> So, he says free software is about exclusion and hatred?\r\n\r\nNo. He says precisely that it shouldn't be. But since the people who coined the term are using it to support \"exclusion and hatred\" (he asserts), he is no longer comfortable using the term."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'strictly true, but meaningless'
+    hostname: 68.116.159.234
+    created: '1249319637'
+    body: "This is strictly true, but also meaningless.\r\n\r\nIf I recall correctly (and since I'm being criticized for a _draft_ of a post, I think I can be forgiven for being foggy about it), I suggested that the FSF's relationship to the open source community was akin to the relationship between Hamas and other groups favoring Palestinian independence. Like the FSF, Hamas is focused on destroying what it sees as the enemy (\"proprietary software\" / \"Israel\"), rather than on doing positive things for the community (\"developing or promoting free software\" / \"a viable Palestinian state\").\r\n\r\nI deleted the comparison because it is politically volatile and therefore in somewhat poor taste. It could have been seen as making light of the political situation in Palestine or of the people who live there, and I don't wish to do that.\r\n\r\nOf course, attacking me over my choice in facial hair is pretty atrocious behavior. I ignored it the first time, but on this second pass I've got to comment on what incredibly poor taste that is.\r\n\r\nYou should realize that attacking a man for wearing a beard may often constitute religious persecution, since beards are encouraged in both Judaism and Islam as religious observances (not unlike wearing hats). As it happens, this doesn't apply to me, but you had no way of knowing that.\r\n\r\nIn any case, such personal attacks do nothing to support your position, nor to gain favor for it. It just makes you look rude and uncouth.\r\n"
+-
+    name: 'Paul Gaskin'
+    mail: ''
+    subject: 'I guess it wasn''t a draft if it reached my inbox. '
+    hostname: 71.167.77.229
+    created: '1249373672'
+    body: "It was a published comment which you were graciously granted the right to change because your host figured you were deserving of a chance to amend your rancid comment. \r\n\r\nIn making that comparison again, you've joined the disreputable Rob Enderle by fraudulently fabricating an association between the Free Software Foundation and a terrorist group.\r\n\r\n“I have a hard time seeing the Zealots as any different from terrorist… I strongly believe that if September 11 showed us anything, it was that zealots” — Rob Enderle \r\n\r\n\"Pros, Priests and Zealots: The Three Faces of Linux\" By Rob Enderle\r\nhttp://www.technewsworld.com/story/31899.html\r\n\r\nMany people lack the education to understand how a very oppressive security state is the end result of intersection of totalitarian policies and information technology. Just recently a man was was ordered to pay over $600,000.00 for downloading 30 songs and allowing the file-sharing daemon to make them available to others for downloads.\r\n\r\nMicrosoft is pushing software patents to restrict our ability to share ideas and software. Everywhere you look, some huge company is trying to curtail your digital freedom. And here you are, speaking as a mouth-piece for digital totalitarianism. Anyone who resists the total control of Microsoft must be a terrorist. Do you have a poster of Darth Vader on your wall?\r\n\r\nLet's make a deal - you don't compare the FSF to Hamas and I won't compare you to the Unibomber. You don't try to instill fear of bearded Free Software enthusiasts and I won't suggest you're due for a trip to the barber yourself. "

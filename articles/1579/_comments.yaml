@@ -1,0 +1,49 @@
+-
+    name: bong
+    mail: ''
+    subject: alternative
+    hostname: 69.4.97.202
+    created: '1149371486'
+    body: 'Maybe DjVu could do the job?'
+-
+    name: 'Edward Macnaghten'
+    mail: ''
+    subject: 'There may be more to this than meets the eye...'
+    hostname: 62.253.128.14
+    created: '1149381720'
+    body: "See <a href=\"http://www.microsoftmonitor.com/archives/015754.html\">http://www.microsoftmonitor.com/archives/015754.html</a>\r\n\r\nEddy"
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: 'Thought generating link'
+    hostname: 80.56.225.142
+    created: '1149411356'
+    body: 'Difficult to know what the real truth is I suppose I must wait until the dust settles a bit.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I think PDF really is an open standard'
+    hostname: 68.93.224.4
+    created: '1149435294'
+    body: "Recently, the Linux Printing conference favored going to PDF as a standard for the Linux printing system (instead of Postscript).\r\n\r\nThere is a myth that PDF is proprietary and Postscript is open, but the truth (apparently) is that they have exactly the same legal status. Both were created by Adobe, and both are fully-specified by free design documents. Adobe has patents, but has disclaimed any ability to sue based on them.\r\n\r\nNow there is some wiggle room. \"PDF\" means more than one standard. In particular, the Linux Printing report refered to two international standards based on PDF (I'd have to look up the names, \"PDF/X\" I think). Anyway, the point was that the full \"Adobe Acrobat PDF v5.x\" version of PDF included extension that were not regarded as useful for an international data standard, so the standard PDF has those pulled out.\r\n\r\nBased on this, it does not, on the surface, sound like Adobe has any legal standing to control who bundles PDF support.  But, there may be further details I'm not considering.  For example, Adobe may be invoking non-competition clauses in contracts that would only come into play with Microsoft. This may be a reaction to an \"embrace and extend\" threat.\r\n\r\nMy instinct is that something's not right or complete about this story.\r\n"
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'Free File formats'
+    hostname: 87.118.30.187
+    created: '1149535986'
+    body: "Which file formats are free, or usable under what terms, or which ones are at least open documented? PDF, Postscript, rtf, MPEG-4, h.264?\r\nIt'd be nice to have a trustworthy source, a kind of directory for such things. Unfortunately the Free Software Directory of the Free Software Foundation http://directory.fsf.org/) does only include programs..."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Open Standards Definition'
+    hostname: 66.118.56.217
+    created: '1149811026'
+    body: "First of all, you have to define what an open standard is, and that can be tricky, because there's a lot of fuzzy areas.\r\n\r\nSecondly, the biggest threat against standards are patents (software patents). These are doubly tricky, because of so-called \"submarine patent\" strategies:  Unisys waited until GIF was established as an international standard for graphics interchange, before deciding to enforce their patent, and the same tactic is being attempted for JPEG (though I think they are losing that battle).  I think this is unethical and ought to be illegal, but it's not.\r\n\r\nBut yes, some kind of listing would be a good community service."
+-
+    name: PauloJ
+    mail: ''
+    subject: 'I really admire Adobe’s'
+    hostname: 121.97.231.132
+    created: '1271218380'
+    body: "I really admire Adobe’s perseverance to give the best program/software they can give to the users same as Apple want. But I was surprised to know that the <a title=\"Apple Adobe: The rivalry heats up\" href=\"http://personalmoneystore.com/moneyblog/2010/04/09/apple-adobe-rivalry-heats/\">OS 4.0 iPhone</a> won't run Adobe flash. Though it's tempting to mock Apple zealots who got payday cash advances to get in line to buy their new trinket and won't stop slobbering, it doesn't do everything Droid Does! Here I thought the purpose behind smart phones was flexibility and functioning as a PC and cell phone at once. The sooner Adobe and Apple get over their respective beefs, the better it could be for everybody. \r\n"

@@ -1,0 +1,14 @@
+-
+    name: ''
+    mail: ''
+    subject: 'How can I translate a module of MySQL 5 to Portuguese(Brazil)'
+    hostname: 200.142.156.19
+    created: '1158588409'
+    body: "Hi there. I`m a young boy. I`m graduating informatic and wanted contribute of some way with the translation of the manual of MySQL to portuguese Brasil.\r\n\r\nI don`t know how I can to make use for do it. Then I`m here asking you how.\r\n\r\nMy e-mail is <a href=mailto:marcos_804@yahoo.com.br>marcos_804@yahoo.com.br<a>\r\n\r\nThank you for helping me."
+-
+    name: ''
+    mail: ''
+    subject: 'Portuguese translation'
+    hostname: 89.247.129.203
+    created: '1158679793'
+    body: "Hi Marcos,\r\n\r\nwe have a Portuguese translation of the MySQL Reference Manual on http://dev.mysql.com/doc/refman/4.1/pt/index.html, but it's quite old. It could need an update, but don't even think of trying this: The Manual has 2000 pages by now, which takes a full-time translator about half a year.\r\n\r\nBut what about translating the MySQL (GUI) Tools? Particularly MySQL Query Browser is very popular among developers, and it's fairly easy to localise. You may translate the user interface (so that the program \"speaks\" Portuguese), or the manual, or both.\r\n\r\nLet me know if you'd like to try this! Send a mail to stefan@mysql.com. Thanks!\r\n\r\n-Stefan\r\n"

@@ -1,0 +1,7 @@
+-
+    name: mjjzf
+    mail: ''
+    subject: Runbox
+    hostname: 195.50.35.4
+    created: '1332921696'
+    body: "I have found that a runbox is essential, and that Xfrun4 is annoying for the lack of tab completion.\r\nI started using dmenu_run with Xfce. As you type the name of the app you want to run, it matches expressions and shows a list of programs in path. When I enter 'inksc', for instance, the only name left on the list is Inkscape.\r\nI have a video of how it works at http://syntaktisk.dk/files/dmenu_run.ogg - text is in Danish, but it should serve to illustrate."

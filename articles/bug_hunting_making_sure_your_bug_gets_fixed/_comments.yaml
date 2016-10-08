@@ -1,0 +1,7 @@
+-
+    name: 'Matthew Sharp'
+    mail: ''
+    subject: 'Binary search takes log base 2, not square root.'
+    hostname: 220.245.178.137
+    created: '1169686926'
+    body: 'Your maths is a bit off.  A binary search takes the log base 2 of the space to search, not the square root.  With the example you give (1000), it takes 9-10 tests, not 31-32.  Try it.'

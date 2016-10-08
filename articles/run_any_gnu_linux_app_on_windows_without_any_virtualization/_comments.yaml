@@ -1,0 +1,63 @@
+-
+    name: mpenabad
+    mail: ''
+    subject: 'Run any GNU/Linux app on Windows without any virtualization'
+    hostname: 193.144.51.234
+    created: '1191593104'
+    body: "Nice title \"Run any GNU/Linux app on Windows without any virtualization\",\r\nbut you should have added \"..by buying another computer\""
+-
+    name: 'Anonymous visitor'
+    mail: xiegeo@gmail.com
+    subject: 'Why not use something like'
+    hostname: 70.68.30.24
+    created: '1194842604'
+    body: "Why not use something like AndLinux? http://wiki.gp2x.org/wiki/AndLinux\r\nIt only uses 30-40 mb of ram on start up."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: agreed
+    hostname: 82.108.129.98
+    created: '1194878575'
+    body: "Good article but the title is confusing and it doesn't help.\r\nYou are not running anything, except Xming, on your Windows box. You are, as you confess, controlling your Ubuntu box from another PC - which happens to be running Windows.\r\nFor the Windows box to be running the software I would expect that software to have access to all (or most) of the resources on the Windows box.\r\nThe features you discuss are cool and useful and you explain them well but the title doesn't help.\r\nRyan"
+-
+    name: Raguanu
+    mail: dumukkumails@gmail.com
+    subject: Rocks!
+    hostname: 59.93.49.222
+    created: '1195374362'
+    body: "Thanks for the nice article. It's very useful.\r\n\r\nInitially, I too thought this article is about running Linux apps from/within the local system. But it's much more fun and useful now.\r\n\r\nI have an old Win-XP laptop and New Ubuntu/XP desktop. Now I could run my linux programs from my laptop using plink. This, \r\n\r\n1. opens up a new selection of softwares runnable by my laptop, including some unique programs like Zim, Tomboy, Dia, Kguitar etc. \r\n2. Improves the performance of my laptop greatly, because apps actually run on my more powerful desktop. \r\n\r\nunfortunately, amarok didn't work. I get blank window titled amarok. Rhythmbox works fine. :)\r\n\r\nThanks a bunch.\r\n\r\nRaguanu"
+-
+    name: 'nikolay vladimirov'
+    mail: ''
+    subject: pulseaudio
+    hostname: 78.90.114.76
+    created: '1195677143'
+    body: "You can start a pulseaudio daemon on the windows machine and configure the pulseaudio client on the linux box to use the other machine as server. So when you X-forward applications that can use plulseaudio as output plugin you can hear their sound on the windows machine.\r\n\r\nIt's simpler than it sounds :) \r\n\r\n--\r\nNV"
+-
+    name: trinux
+    mail: ''
+    subject: 'Permission to translate'
+    hostname: 217.216.184.146
+    created: '1197486596'
+    body: "Hi Nathan Sanders,\r\n\r\nI am interested in translating his article to my language (Spanish). I hope your permission. I communicate with you primarily to avoid duplicated efforts. If someone else wants to translate his article, please know that someone else is working on the translation. My mail trinux (at) gmail (dot) com.\r\n\r\nThank you, forgive me for my English, but it is enough to make a translation.\r\n\r\nGreetings.\r\n"
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Eh...
+    hostname: 68.197.66.72
+    created: '1197556897'
+    body: "You could just run it virtually. Not the best solution, but still works.\r\n\r\n--\r\nAndrew Min\r\nhttp://andrew.timstown.net/"
+-
+    name: trinux
+    mail: ''
+    subject: 'in spanish'
+    hostname: 217.216.177.201
+    created: '1197742155'
+    body: 'http://solognu.wordpress.com/2007/12/15/ejecutar-cualquier-aplicacion-gnulinux-en-windows-sin-virtualizar/'
+-
+    name: meszi
+    mail: ''
+    subject: 'What about FreeNX/Neatx? And audio?'
+    hostname: 77.12.81.138
+    created: '1297605987'
+    body: "Hi there,\r\n\r\nI played around a bit with Xing/SSH already but I find it much easier to use some FreeNX or Neatx based solution. Of course, this article is somewhat older but today one has to pay for Xing while FreeNX client software is still available for free.\r\n\r\nJust in this moment I am visiting this site with some Firefox running on some other Ubuntu machine while I am sitting in front of a Windows XP machine. Using Neatx on Ubuntu and NoMachine's FreeNX client.\r\n\r\nOne other thing: As for Pulseaudio being able to stream its output over the network it should be possible to have it stream to some Windows client, too? Isn't it? I am just checking the possibilities. This might make it possible to have a secure Linux client offer the web browser and to also visit pages that provide audio content. Maybe you want to write an article about this topic, too.\r\n\r\nCU,\r\nMészi.\r\n"

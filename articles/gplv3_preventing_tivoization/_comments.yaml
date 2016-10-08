@@ -1,0 +1,49 @@
+-
+    name: admin
+    mail: ''
+    subject: 'GPLv3 on tivoization: good or bad?'
+    hostname: 165.98.157.37
+    created: '1185424747'
+    body: 'When designing the GPLv3 the FSF intentionally included measures to prevent <a href="http://en.wikipedia.org/wiki/Tivoization">Tivoization</a>. Some people think that TIVO-like companies shouldn''t be allowed to create hardware that only runs specific software, because doing so renders modified software useless. Other people feel that TIVO-like companies should be able to do so, that hardware and software are two different things, and that the GPL is stepping out of the software boundaries. What do you think about this? Good, bad, in between or neither?'
+-
+    name: ali_deren
+    mail: ''
+    subject: 'an unavoidable end  '
+    hostname: 88.233.72.23
+    created: '1185441664'
+    body: "we have to make hardware free also. we need this. manufacturers must consider about. and i think that this is just a modest step forward. \r\n\r\nAli Deniz EREN"
+-
+    name: 'Anonymous visitor'
+    mail: arnold_raynor@yahoo.co.uk
+    subject: 'I think your question should'
+    hostname: 88.106.131.144
+    created: '1185563566'
+    body: 'I think your question should include a clear definition of "tivoization".'
+-
+    name: 'Lawrence D''Oliveiro'
+    mail: from-free-software@geek-central.gen.nz
+    subject: 'Re: definition of "tivoization"'
+    hostname: 203.118.156.111
+    created: '1185780840'
+    body: '<a href="http://fuckinggoogleit.com/?query=tivoization">F***ing Google it</a>'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Only time will tell'
+    hostname: 68.93.224.4
+    created: '1185966491'
+    body: "I voted \"don't know\", because the truth is that we're all speculating. There are a number of ways in which it can be argued that \"tivoization\" is irrelevant -- for example, as it becomes easier to make your own hardware and open hardware designs are available, then the move to hardware that fully supports free and open software will be driven by market forces.\r\n\r\nOn the other hand, there's the horror story of a totally locked-down society with highly-centralized (or monopolized) manufacturing. I do believe there are people out there who want this to happen, but I've never seriously believed that they will succeed -- not in the long run, anyway. It's difficult to create and maintain such a monopoly, and there are far too many motivated people willing to make up the difference. The only way it can really happen is if people are really, really passive (on the other hand, that part is not so far-fetched).\r\n\r\nIf market forces are such that tivoization will die anyway, then I think that the FSF made a mistake writing this language into GPLv3, because it very well may have unintended consequences. On the other hand, if tivoization and trusted computing were to become truly ubiquitous, then these provisions may be the only thing keeping us out of the fire -- and thus they would be essential.\r\n\r\nOf course, as with so many things surrounding IP issues, we'll probably never <em>really</em> know, because we can't turn back history and repeat with a different input (no controls, so no experiment). We'll only know what we did do.\r\n\r\nISTM that GPLv3 is good enough, even if the anti-tivoization language was a bad idea. It'll take years of test cases, though, before we really understand what the implications of all the new language in the GPLv3 are.\r\n"
+-
+    name: AllanP
+    mail: ''
+    subject: Vote
+    hostname: 70.66.135.250
+    created: '1186619350'
+    body: 'After taking more time to read about and understand tivoization I realize I should have voted in fovour of the FSF doing the right thing.'
+-
+    name: uslacker
+    mail: ''
+    subject: Lame
+    hostname: 70.110.145.176
+    created: '1187108887'
+    body: "So 87 people vote and your email declares:\r\n\r\n \"An overwhelming 71% of you voted for \"The FSF did the right thing in using the GPL to prevent tivoization\"... we have a winner!\"\r\n\r\nPlease.  Can we try something scientific before we declare GPL v3 anything?  \r\n\r\n\\\\uSlacker"

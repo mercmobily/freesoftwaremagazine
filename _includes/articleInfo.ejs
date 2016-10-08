@@ -1,0 +1,41 @@
+
+<% // ***************************************** %>
+<% // ************ toLink function ************ %>
+<% // ***************************************** %>
+
+<%
+  function toLink( rootPath, list, bracketed ){
+    var o='', c='';
+    if( list == '' ) return;
+    if( bracketed ) {
+      o = '[';
+      c = ']';
+    }
+
+   list.split(',').forEach(  (item) => {
+%>
+    <a href="/<%-rootPath%>/<%=item%>">
+      <%=o%><%=item%><%=c%>
+    </a>
+<%      
+    });
+  };
+%>
+
+<% // ***************************************** %>
+<% // ************ Displayed info  ************ %>
+<% // ***************************************** %>
+
+<%=toLink('authors', info.authors)%>
+
+
+<%if( info.section ) { %> <%=toLink('sections', info.section, true )%> <% } %>
+<%if( info.book ) { %> <%=toLink('sections', info.book, true )%> <% } %>
+
+<div class="article-published"><%=new Date(info.published).toLocaleDateString()%></div>
+  
+<h1><%-info.title%></h1>
+
+<a href="http://fsmsh.com/<%=info.nid%>">fsmsh.com/<%=info.nid%></a>
+<%=toLink('tags', info.tags || '', true)%>
+

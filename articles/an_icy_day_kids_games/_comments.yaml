@@ -1,0 +1,21 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Gotta love those kids...'
+    hostname: 63.238.104.170
+    created: '1168893048'
+    body: "...but Chris you have way too muck time on your hands.  <WEG>\r\n\r\nWilliam \"Papa\" Meloney\r\nhttp://pa-2-linux.blogspot.com"
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: 'My kids are also complaining'
+    hostname: 68.93.224.4
+    created: '1168994734'
+    body: "My kids are also complaining about not enough time on the computer.\r\nThey have their own computer but it is down because it got so hot the CPU fused to the heatsink and we had to take it apart. I understand withdrawal, but then again parents love hogging the computer. It's the priviledge you get for being the big person in the house.\r\n\r\nHA! HA! HA! I'm not getting off now, you have to wait until you can grow up and buy one of your own.\r\n\r\nSorry. Got a bit carried away there.\r\n\r\nEnjoy the icicles!"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"fused"'
+    hostname: 68.93.224.4
+    created: '1169083842'
+    body: "Not quite accurate...\r\n\r\nI don't think the overheat is attributed to the heat sink sticking to the CPU, and I think that probably has more to do with cold than heat. Apparently heat sink grease becomes very solid and sticky when it gets cold. When I disassembled the computer to remove the heat-sink and fan (I want to clean it and reassemble to see if the problem is dust or something) the heat sink pulled the CPU right out of its ZIF socket. (!)\r\n\r\nI found that if I microwaved some water in a dish, then set the heatsint/CPU in the water (with the CPU up, out of the water), the heat sink conducts enough heat out of the water into the grease so that it loosens up. Then I could remove the CPU without damaging it, and reinstalled it into the ZIF socket. You can't install one of these while attached to heat sink, because you have to be able to operate the lever on the ZIF socket, and it would actually be inside the heat sink when it's open, so it wouldn't fit anyway. I like to post this, because it might come in handy for somebody. Be careful not to cook the CPU, though.\r\n\r\nThe sad thing is, with us iced in, I can't go to the store to buy more heat sink grease to reassemble it, so the kids'll have to wait until the weather improves to get their computer back. Even then, I might still find that the heat sink is no good, and I have to start all over with a new one. Sigh.\r\n\r\nI remember when CPUs didn't need heat sinks and fans and were just epoxy-covered chips like all the others. (!)\r\n"

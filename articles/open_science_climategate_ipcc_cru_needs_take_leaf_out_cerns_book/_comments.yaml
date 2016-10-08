@@ -1,0 +1,70 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Pretty biased sources'
+    hostname: 68.116.159.234
+    created: '1260949899'
+    body: "Some of those sources you're quoting are clearly biased slurs, regardless of what malfeasance may be going on.\r\n\r\nFor example, going through the list of supposedly offensive emails, almost every single criticism is a misinterpretation of some kind, usually based on a lack of context.\r\n\r\nFor example, in one email, the scientists are discussing how they created sim data from real data sets to explore the phase space. This is perfectly normal -- there's nothing unusual about creating an artificial data set. The only thing that would be wrong is if you then publish this as if it were an analysis of real data (but so far, I'm not seeing anything that indicates that).\r\n\r\nIn another place, the scientists are talking about the way graph data is presented. The reviewer accuses them of trying to falsify the graphs because they insist on using a single baseline temperature. But that's precisely what you _must_ do in order for the graph to be sensible (also, there are many \"correct\" ways to draw a graph -- there's nothing strange about trying to make a particular feature clear in a graph).\r\n\r\nAnd so on. I gave up after about a dozen or so with no clear evidence of scientific dishonesty. The case for fiscal or procedural dishonesty seems a little easier -- but that's just not on the same ethical scale as what the accusers are claiming.\r\n\r\nThere may be something wicked going on here, but I'd have to do a lot more digging to find it. For the most part, this criticism \"contains no news\".\r\n\r\nAs for scientists being poor programmers, I know that from personal experience. Nor is it unusual to find them sticking to Fortran even when it isn't really appropriate. But this is just a matter of sticking to the familiar. Fortran remains very valuable for number-crunching work -- and that's still what the cores of these programs do.\r\n\r\nCode quality in the I/O layers is really not as critical for scientists -- they know that only other scientists (and often themselves) will be running the code. So when it breaks, they'll know how to work around the bugs. It's a very different standard -- the critical parts of the code are the mathematical algorithms, and so that's where the effort goes. Frankly, spending a lot of time getting the interface right is generally a misuse of a scientist's time. These are usually single-application programs -- more like \"jigs\" than \"tools\".\r\n\r\nBringing in people who know software, but not the underlying math, has risks -- it's not too difficult to wind up with code that very smoothly and effortlessly gives you completely wrong answers!\r\n\r\nIt's intriguing, but honestly, it's pretty hard to get past the politics on both sides. Clearly these sources want to prove that global warming is some kind of fraud, and they're willing to use any tactic to make this case, no matter how dirty. Since they're trying to prove the other side is just as dishonest, we're left with a cat fight and no real information. There just don't seem to be any genuine neutral observers.\r\n\r\nPolitics is very, very bad for science!\r\n\r\nBut of course, your basic point on open review is perfectly correct: the only way out of this situation is to be as rigorously scientific as possible.\r\n"
+-
+    name: nan
+    mail: ''
+    subject: 'DDOS on climate science'
+    hostname: 41.215.40.250
+    created: '1260968172'
+    body: "Sean Gillies argues in his blog that Climate-gate  is a [DDOS on climate science](http://sgillies.net/blog/970/ddos-on-climate-science)\r\n\r\nThe question if the the [CRU data is “suspect”](http://www.realclimate.org/index.php/archives/2009/12/are-the-cru-data-suspect-an-objective-assessment/) you may answer yourself after looking at the [sources](http://www.realclimate.org/index.php/data-sources/)\r\n"
+-
+    name: alandmoore
+    mail: ''
+    subject: 'I know this article is'
+    hostname: 72.150.96.46
+    created: '1261025814'
+    body: "I know this article is biased, but I have to agree with the fundamental point.  This is climate science -- it's supposed to be about \"saving the planet\" and whatnot; it's not about developing a new anti-baldness drug or aerospace technology.  The results of these studies are being used to determine policy around the world; they'll affect people's lives, freedoms, economic realities everywhere.\r\n\r\nIMHO this kind of research demands more than peer review; it demands public review and scrutiny -- that includes data, methods, operating conditions, software code, etc.  "
+-
+    name: 'http://phayes.myopenid.com/'
+    mail: ''
+    subject: 'Thanks. :('
+    hostname: 81.152.218.148
+    created: '1261535749'
+    body: "“a conference which might never have come about if its evangelical camp followers had adhered to the principles and practices of conducting scientific research in an open and free manner.”\r\n\r\n“McKittrick and Ross did a devastating demolition job on the infamous graph, showing it to be fundamentally flawed as it was possible to reproduce it using stock market data or just noise.”\r\n\r\n“The leaks have confirmed the worst suspicions. Social network analysis reveals that the whole process was in fact thoroughly incestuous”\r\n\r\nAnd on and on. Fail after burningly stupid fail. Beyond parody...\r\n\r\nTo think that I felt embarrassed by another fellow FOSSer's mild idiocy over at badscience.net recently! FOSS in science and open science advocacy needed this extreme example of ignorant anti-science ranting like a hole in the head. Thanks a lot.\r\n\r\n"
+-
+    name: terryfunk
+    mail: ''
+    subject: 'the fraud is indesputable'
+    hostname: 24.174.215.251
+    created: '1261684136'
+    body: "Earlier commentors are trying to suggest that no matter what, regardless of the fraudulent science, there is definitely global warming.\r\n\r\nDon't try to tell me that my hair isn't on fire when it IS on fire. With flawed programming, emails indicating efforts to fudge or suppress data and numerous infractions of their so-called peer review puts into question the whole effort trying to subjugate the world with this data.\r\n\r\nWhen you look at why Copenhagen failed it is no surprise that they revealed their true nature...it's all about the money. It has nothing to do with real science, which in this case, is largely ignored."
+-
+    name: nan
+    mail: ''
+    subject: 'follow they money'
+    hostname: 196.207.19.26
+    created: '1262599106'
+    body: "follow the money trail, it is much better paid to be a climate change denialist then to do proper science ;)\r\n\r\n(just google for: [climate change money trail](http://www.google.com/search?q=climate+change+money+trail))"
+-
+    name: stanleymilgram
+    mail: ''
+    subject: 'Dreadful article.'
+    hostname: 86.157.229.99
+    created: '1262981235'
+    body: "\"double blind trials (aka peer reviewing).\"\r\n\r\nNo, No No No No.\r\n\r\nA double blind trial is a completely different thing from a peer review.\r\n\r\nYou may not be \"anti-science\" but you need to learn some. Very disappointing."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"double blind trials" vs "peer reviewing"'
+    hostname: 68.116.159.234
+    created: '1263528023'
+    body: "Good point. To be a little more specific:\r\n\r\nA \"double blind trial\" means a test (experiment) in which neither the subject nor the experimenter knows what the outcome means (or what it is, if that's not possible). The idea is that if they don't know, they can't possibly be biased.\r\n\r\nA \"peer review\" is an editorial process in which a paper is reviewed by someone else with similar qualifications, but who is not affiliated with the writer. Obviously, there is a weakness here if the field is so narrow that there aren't any qualified people who are not affiliated (or if the reviewers aren't really unaffiliated). That at least is a legitimate concern when research is conducted and reported inside a single institution.\r\n"
+-
+    name: Baz
+    mail: ''
+    subject: 'Did I stumble on Fox News by mistake?'
+    hostname: 121.73.22.128
+    created: '1266103384'
+    body: "How did this garbage move from the deniersphere to a free software advocacy site?\r\n\r\nComing up next: how vaccines don't protect us from disease, how HIV doesn't cause AIDS, and how the Moon landings were a hoax. By an M.Phil in seventeenth-century English. \r\n\r\nJeez."
+-
+    name: RyanFatz
+    mail: ''
+    subject: What
+    hostname: 74.55.61.150
+    created: '1268156251'
+    body: 'Are these the same scientists that said on midnight dec 31st 1999 all the clocks would stop working? I think Y2k was a bigger scam.'

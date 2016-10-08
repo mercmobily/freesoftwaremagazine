@@ -1,0 +1,21 @@
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'link to fix'
+    hostname: 85.1.40.154
+    created: '1166640002'
+    body: "Nice article!\r\n\r\n(Altough the first link istn't working properly, missing the : after http)"
+-
+    name: admin
+    mail: ''
+    subject: 'Missing Link Fixed'
+    hostname: 203.59.204.147
+    created: '1166669717'
+    body: 'Thanks Mauro.'
+-
+    name: ''
+    mail: ''
+    subject: Thanks
+    hostname: 24.108.129.4
+    created: '1167365765'
+    body: 'Thanks for reading.'

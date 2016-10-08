@@ -1,0 +1,56 @@
+-
+    name: BillHarris
+    mail: ''
+    subject: DiceWare
+    hostname: 71.117.3.28
+    created: '1149693745'
+    body: "Thanks for the article; I hope it helps others get started with encrypted email.\r\n\r\nI've found Diceware (http://www.diceware.com/) handy for generating passphrases."
+-
+    name: ''
+    mail: ''
+    subject: 'PGP is fine if recipients have PGP. What about everyone else?'
+    hostname: 207.213.216.244
+    created: '1157210798'
+    body: "I found that Voltage's IBE technology makes it easier to get started with encrypted email.  No keys to generate, no recipients to plead with to generate their own keys.\r\n\r\nVoltage just launched a new service at http://vsn.voltage.com that has an Outlook and Outlook Express plugin as well as a web interface for everyone else.  The interesting thing about the service is that they don't store keys (part of IBE) and they don't store any messages (even when using the web interface).\r\n\r\nThe thing that is most hindering the use of encrypted email is usability...and it looks like Voltage has helped us past this."
+-
+    name: ''
+    mail: ''
+    subject: 'Even better solution'
+    hostname: 64.83.223.150
+    created: '1160770310'
+    body: "I found an even better solution, www.briefile.com. The program is free and you don't have to use passwords to send/receive emails. (I have too many passwords already)\r\n\r\nIt also has no additional license cost for multiusers. This is great for me, because I can use this program with my customers, partners and contractors as they come and go without having the try to manage how many licenses I have or need. \r\n\r\nThe program also blocks printing and forwarding, which is great for me because then I don't have to worry about an employee forwarding a confidential document outside the company - leaking it to a competitor. \r\n"
+-
+    name: 'Kevin Cole'
+    mail: ''
+    subject: 'Encrypted E-mail for Dummies'
+    hostname: 192.26.10.192
+    created: '1165938832'
+    body: "Well, maybe.  If folks are finding PGP/GPG tough sledding, Ciphire Mail purports to make thing simple. See\r\n\r\n<a href=\"https://www.ciphire.com/\">https://www.ciphire.com/</a>\r\n\r\nfor details.  (When I couldn't get enough people using PGP/GPG, I set up a few people with Ciphire and it appeared to work okay.)\r\n"
+-
+    name: ''
+    mail: ''
+    subject: thanks
+    hostname: 141.161.83.178
+    created: '1165957282'
+    body: "hey thanks for the article... it was great... helped me get extra credit for class... appreciate it...\r\nrick"
+-
+    name: ''
+    mail: ''
+    subject: 'Email Encryption'
+    hostname: 84.64.167.141
+    created: '1171622416'
+    body: "Like one of the other commentators, I firmly believe identity-based encryption is the best technique to use for email encryption. It doesn't have the infrastructure problems of PKI / PKC; you can encrypt a message the way email works, just by knowing someone's email address, without having to obtain their public key first.\r\n\r\nThere seem to be two main id-based email encryption providers: <a href=\"http://www.voltage.com/\">Voltage's SecureMail</a> (see previous comment) which seems to be geared towards enterprise-level implementation and <a href=\"http://www.privatepost.com/\">Private Post</a> which is free for home use.\r\n\r\nMark."
+-
+    name: ''
+    mail: ''
+    subject: 'Spam Comments'
+    hostname: 85.212.139.66
+    created: '1174465910'
+    body: 'Shame about all the spam comments above about competing (and probably non-compatible, proprietary) products. As if a solid public key encryption system could be built without basing it on open standards and open source! Yay GPG!'
+-
+    name: 'secure email'
+    mail: anonymousblogger@anonymousspeech.com
+    subject: 'PGP Secure Email'
+    hostname: 84.227.163.179
+    created: '1187883695'
+    body: "I found a dozens solution on the web to implement openPGP into ones email client. \r\nHowever I did not knew abut Engimail. Is this based on GnuPG or does it has its own OpenPGP implementation?"

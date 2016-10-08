@@ -1,0 +1,7 @@
+-
+    name: admin
+    mail: ''
+    subject: '2 Comments from old system'
+    hostname: 203.59.90.115
+    created: '1144562100'
+    body: " \r\n<strong>Comment from: Grig [Visitor] Ã‚Â· http://agiletesting.blogspot.com</strong>\r\n\r\n    03/22/06 @ 16:15\r\n    Terry,\r\n\r\n    Glad to see you enjoyed the doctest talk. I hope it was the one I gave :-) .... but I'm not sure. Anyway, it seems that testing has been a hot subject at PyCon this year, and this can only warm my heart.\r\n\r\n    Grig\r\n\r\n    [EDIT: It was indeed Grig Gheorghiu's talk that I attended, but I didn't remember to include his name.]\r\n\r\n\r\n<strong>Comment from: Paddy McCarthy [Visitor] Ã‚Â· http://paddy3118.blogspot.com/</strong>\r\n\r\n    03/23/06 @ 18:34\r\n    Its nice to see greater exxposure for something that makes Python stand out from the crowd, i.e. Doctest."

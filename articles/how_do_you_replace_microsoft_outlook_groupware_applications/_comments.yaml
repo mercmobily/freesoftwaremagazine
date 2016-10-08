@@ -1,0 +1,77 @@
+-
+    name: 'Antonio Censi'
+    mail: ''
+    subject: 'Egroupware Brazilian version'
+    hostname: 200.186.122.72
+    created: '1206041555'
+    body: "Look at http://www.expressolivre.org/html/expressolivre/index.php?page=comunidade\r\n\r\nEven if in Portuguese, I hope you can grasp the important parts.\r\n\r\nProbably one of the largest eGroupware deployments, with some additional modules and functions.\r\n\r\n"
+-
+    name: garyc
+    mail: ''
+    subject: groupware
+    hostname: 82.69.61.28
+    created: '1206055680'
+    body: 'Hi mate, have tried most of these, and I think XXXX is the best (www.XXXXX.com) [EDITED: This is about a non-free product, and this comment is too marketing-speech. Also, the user was created just to leave this comment. Too suspicious.]   . It has a truly excellent web based interface, and is free for 10 premium users (slightly older version 10 is free for 25 users). Premium users can use the provided outlook connector (for versions 2000 thru to 2007). Unlimited Number of "standard" users can be added, who are confined to (brilliant) web interface, which can be accessed internally as well as externally (i even found it ran at acceptable speed on a laptop with 56k dialup connection). Stability is outstanding, my mail server has been running for 4 years now with around 500k emails and never has been down once. Zimbra also had a nice offering if i remember correctly. Good Luck !'
+-
+    name: xurxosanz
+    mail: ''
+    subject: 'And Zimbra?'
+    hostname: 84.126.199.1
+    created: '1206094088'
+    body: "Hi,\r\n\r\nVery interesting post but I wonder why you missed the Zimbra suite (http://www.zimbra.com).\r\n\r\nI have no idea about how good or bad it is but IMHO it's at least a nice app to test (or write about).\r\n\r\nBest regards\r\n--\r\nXuRxO\r\nhttp://www.geomaticblog.net"
+-
+    name: henningsprang
+    mail: ''
+    subject: 'Did you try Zimbra and considered Zarafa?'
+    hostname: 85.177.113.226
+    created: '1206115299'
+    body: "Hi,\r\nWe use Zimbra in our company and are quite happy with it. For clients that need or insist on having a fully outlook compatible Groupware server, we sell and recommend Zarafa, a MAPI Server running on Linux that looks to outlook clients as an exchange server, and has a web interface(I cannot say uch about it as I didn't try it myself - I'm currently workjing more in the areas of virtualization, automatic installation and Java development)."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Zimbra + Exim?'
+    hostname: 212.159.106.192
+    created: '1206229648'
+    body: "> Very interesting post but I wonder why you missed the Zimbra suite [http://www.zimbra.com](http://www.zimbra.com).\r\n\r\nWell it hasn't really crossed my radar that much - not sure why but there you go - so I guess it slipped my mind when researching. When I have looked into it I've heard of some issues with integrating it with [Exim](http://www.exim.org)--which is [what](http://www.freesoftwaremagazine.com/articles/exim_and_anti_spam_spamassassin) we [use](http://www.freesoftwaremagazine.com/articles/the_perfect_network_server) as an MTA and would like to continue doing so. If anybody knows different--feel free to comment. Shame really because at first glance it looks good.\r\n\r\nthanks\r\nRyan"
+-
+    name: awilliam
+    mail: ''
+    subject: 'OGo & Skyrix'
+    hostname: 206.114.45.107
+    created: '1206725509'
+    body: "\"I guess the relationship is similar to that between Openoffice.org and StarOffice.\"\r\n\r\nIt isn't.  The relationship is described in a recent interview over at Linux World.\r\n\r\n\"OpenOffice.org is a much larger community than the OpenGroupware.org community, and Sun is a much larger company than SKYRiX, so the projects cannot meaningfully be compared. SKYRiX is a small company which works together with a few other companies on the development of OGo [OpenGroupware.org].  OGo is a very open project and SKYRiX places very few restrictions on OGo's development. Contributors to OGo do not need to assign copyrights to SKYRiX. The most active members of the OGo community are not employed by SKYRiX, although a few occasionally do paid work for SKYRiX customers.\""
+-
+    name: wreker
+    mail: ''
+    subject: 'Scalix is definately worthwhile'
+    hostname: 70.44.78.66
+    created: '1207303020'
+    body: "I have been using it for about a year. The community edition is free. You can pay for support if you want. There is a large community if you want help. Yes I did register to leave this comment. Though I may likely keep the account.\r\n\r\nMy problem with Zimbra is the cheesy web interface. It just looks terrible. \r\n\r\n_[Edited to remove marketing type speech]_"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Scalix is not free software'
+    hostname: 82.108.129.98
+    created: '1207310802'
+    body: "> The community edition is free. You can pay for support if you want. There is a large community if you want help. Yes I did register to leave this comment. Though I may likely keep the account.\r\n\r\nI and many others have a problem  with the licence used by Scalix. It's a modified Mozilla Public Licence and although you do get the source code the modifications place restrictions on your use of the software. Specifically there is a clause which insists you place the Scalix logo on every page produced. So although the community edition is open source (although the OSI have never approved it), _it is not free software_ and that is why I did not consider it.\r\n\r\nYou probably realised this but when we speak of free software here we do not mean cost but freedom. It's to do with what you can do with the software rather than what you pay. Have a look at the following links for more information on what we mean by free software.\r\n\r\n[Beginners guide to free software (FSM issue 15)](http://www.freesoftwaremagazine.com/articles/beginners_guide_understanding_free_software)  \r\n[Free Software Foundation (FSF)](http://www.fsf.org/licensing/essays/free-sw.html)\r\n\r\ncheers  \r\nRyan"
+-
+    name: McNee
+    mail: ''
+    subject: eGroupware
+    hostname: 209.181.241.113
+    created: '1207602858'
+    body: "I have been using eGroupware for a couple years now, and overall have been very pleased with it. However, from an admin standpoint it is not 'easy'. Installation took me awhile, and I consider myself fairly savy. \r\n\r\nI recently upgraded to the newest version, choosing to do a fresh install for a variety of reasons, and while the installation has not gotten any easier, it went smoothly. I was never able to get the imap mail client to work in the previous install, but it is working great.\r\n\r\nWe're a construction company, so having shared, remote access on job sites was the major reason for moving to eGroupware from previously using ACT!, and the bonus of it being open-source for me was huge. I've also just recently helped a friend set it up for his company.\r\n\r\nWe both work for small companies, (dozen or fewer employees) so I can't speak to how well it works on a larger scale, but it has met the majority of our needs consistently, and I would recommend it.\r\n\r\nRob Portinga\r\nwww.upmykilt.net"
+-
+    name: mschering
+    mail: ''
+    subject: 'Group-Office groupware'
+    hostname: 62.131.249.237
+    created: '1227803185'
+    body: "Please consider Group-Office as an altenative too. We developed a brand new version with an interface that's very close to a desktop application but it's still web based and works in all major browsers. You can share projects, calendars, e-mail, CRM and synchronize this information with mobile phones. The link: \r\n\r\nhttp://www.group-office.com"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Already are'
+    hostname: 82.108.129.98
+    created: '1227805518'
+    body: "As it happens we are seriously considering this. In fact I think you've been communicating with one of my team regarding it (Charity discounts ring a bell?).\r\n\r\nIt should be noted for completeness sake and the benefit of FSM readers that the core and majority of the suite is free but the billing module and the ability to edit documents within the browser (using Javascript) are both proprietary. Neither of these interfere with the kind of functionality I've described in this article and you can of course use the suite as free software without these reasonable niche modules.\r\n\r\nOddly enough I am just composing a follow up to this regarding Group-office but yes it is very good.\r\n\r\nthanks  \r\nRyan"

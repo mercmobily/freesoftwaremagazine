@@ -1,0 +1,7 @@
+-
+    name: jbirrell
+    mail: ''
+    subject: 'DTrace for FreeBSD'
+    hostname: 71.140.63.214
+    created: '1205013081'
+    body: "The comments made about DTrace for FreeBSD are incorrect. They do not reflect the current status of the project. I expect that DTrace will be added to FreeBSD-8 after my current trip to the US. The merge back to FreeBSD-7 is planned, but there is no date set. I hope it can be before FreeBSD 7.1 is branched.\r\n\r\nI am presenting a paper on DTrace for FreeBSD at the BSDcan conference in May. See http://bsdcan.org/ ."

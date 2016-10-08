@@ -1,0 +1,7 @@
+-
+    name: KonstantinDmitriev
+    mail: ''
+    subject: 'Translation comments and script formatting'
+    hostname: 92.124.229.91
+    created: '1279805393'
+    body: "About comments I can add one thing. As mentioned, moving them to discussion page is undesirable, but most probably we want to keep final script clean. In this situation it is possible to put comments inside of \"&lt;!--\" and \"--&gt;\" tags. Then they will be hidden during ordinary page view, but will appear at edit time.\r\n\r\nAlso, if we will want output from MediaWiki to “spec script” format it is possible to use Wiki2LaTeX extension to generate PDF (http://www.mediawiki.org/wiki/Extension:Wiki2LaTeX). With a little tuning we can get desired result."

@@ -1,0 +1,21 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Flaky editor?'
+    hostname: 24.179.156.192
+    created: '1167678109'
+    body: "You wrote:\r\n>>>Joomla! probably came the closest, but its wysiwyg editor seemed flaky in Firefox.\r\n\r\nHaving used Joomla a bunch, you can choose between at least 2 WYSIWYG editors (and can certainly cut and paste using NVU).\r\n\r\nAnd there is always (gasp) IE Tab as a Firefox extension which lets you run IE as a tabbed Window in Firefox if you are running Windoze or Linux.\r\n\r\n"
+-
+    name: 'Matt Barton'
+    mail: ''
+    subject: Joomla
+    hostname: 74.60.83.72
+    created: '1167765582'
+    body: ">>Having used Joomla a bunch, you can choose between at least 2 WYSIWYG editors (and can certainly cut and paste using NVU).\r\n\r\nHow do you do this? I only have two options: TinyMCE and NO TinyMCE. Does this involve installing a plugin, perhaps?"
+-
+    name: jonesy
+    mail: ''
+    subject: 'Um... switch *hosts*'
+    hostname: 69.141.162.131
+    created: '1167867663'
+    body: "Dude, if your host isn't letting you get past 25 simultaneous mysql connections, but drupal is otherwise a usable system for you, then SWITCH HOSTS. \r\n\r\nI run http://linuxlaboratory.org. I started it in 2001. Since then I've tried/used/scrapped somewhere near 50 different systems. Most of them suck in one way or another. If you already know you like drupal, then find a host that'll deal with it. 25 simultaneous connections isn't unreasonable, but I *would* love to know which routines are causing all the connections. One stupidly written 'foreach' loop could be enough to make 10x the number of required DB connections :-) \r\n\r\nbrian."

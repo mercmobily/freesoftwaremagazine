@@ -1,0 +1,42 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"well known"'
+    hostname: 68.93.224.4
+    created: '1162417824'
+    body: "Nice coverage!\r\n\r\nAfter a bit of research, I confirmed my guess that the \"well know Linux kernel developer\" is Alan Cox, but I wasn't too sure. I recommend including names like that: famous as such people may be, we mostly know their names, not their faces (or I do, anyway).\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Correction
+    hostname: 194.66.175.81
+    created: '1162465322'
+    body: "If any editors are reading:\r\n\r\n\"...I was surprised to see Girsoft at the expo with their AVG anti virus package...\"\r\n\r\nIt should be Grisoft, and the link is wrong too (should be http://www.grisoft.com/)."
+-
+    name: admin
+    mail: ''
+    subject: Fixed!
+    hostname: 203.166.227.245
+    created: '1162484652'
+    body: "Hi,\r\n\r\nThank you - that's fixed.\r\n\r\nAdmin"
+-
+    name: ''
+    mail: ''
+    subject: Haka
+    hostname: 222.153.152.140
+    created: '1172392755'
+    body: "I find your comments about the Maori display incredibly insulting. You may have considered the activity contrived, but the days of describing non-English culture as “Hung-a-boong-a” are well and truly passed, here in New Zealand at least.\r\n\r\nI'm not sure if you're an ignorant child or a sheltered old man, but if I wasn't already a free software advocate your comments would taint my view of our community."
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'Eddy didn''t mean to insult them'
+    hostname: 203.166.226.59
+    created: '1172408220'
+    body: "Hello,\r\n\r\nThis is what happens when you get something from New Zealand and place it in the U.K....\r\nI live in Australia, and I can see how you found Eddy's comments insulting. However, I also know that his comments did not mean to be insulting at all.\r\nI personally live in Australia, know some Maoris and would _love_ to see the Haka Dance. But, it's easy for me to appreciate it because of my location.\r\n\r\nBye!\r\n\r\nTony Mobily"
+-
+    name: 'Jon "maddog" Hall'
+    mail: maddog@li.org
+    subject: 'News of my retirement is greatly exagerated'
+    hostname: 64.222.186.101
+    created: '1182175533'
+    body: "Hello,\r\n\r\nWhile this comment is a little late, I have been receiving comments over the past year about  my \"retirement\", and had not been able to find out where they were derived.\r\n\r\nI do not remember the actual statement at the event, but I think that I might have pointed out that the need for pure evangelism of FOSS is coming to a close, and that a lot of people now understand the concepts of Free Software, even if all of them are not using it yet.  Therefore I am switching my thrust of speaking from pure evangelism to more practical matters of migration, integration, and extension of Free Software.\r\n\r\nI am \"only\" 57, and plan on being in the Free Software space for many more years.\r\n\r\nWarmest regards,\r\n\r\nmaddog"

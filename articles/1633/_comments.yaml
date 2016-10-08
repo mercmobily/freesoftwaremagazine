@@ -1,0 +1,56 @@
+-
+    name: lastangelman
+    mail: ''
+    subject: 'Animation tool, too?'
+    hostname: 70.251.229.90
+    created: '1151805444'
+    body: "It looks very interesting. Could it be adapted to use as a 3-D animation tool?\r\n\r\n\r\nlastangelman in dallas tx"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I wouldn''t recommend it'
+    hostname: 68.93.224.4
+    created: '1151895438'
+    body: "While I'm sure it's possible, that sort of thing is what <a href=\"http://www.blender.org\">Blender</a> is specifically designed to do, and by all accounts it is much better equipped.\r\n\r\nDespite the complaints about the interface, the program is really very powerful, and once you get used to it, even the interface is not so bad (I'd compare it to using some of the venerable old programmer's editors like vi and emacs -- lots of hotkeys to learn).\r\n\r\nIn general, I don't learn programs by carefully following tutorials, but Blender is an exception -- I really recommend that you do start by following some of the available tutorials, as it is otherwise easy to <a href=\"http://www.freesoftwaremagazine.com/node/1614\">get in over your head</a>.\r\n\r\nHowever, I did produce some nice renderings and animations using it awhile back (unfortunately I then proceeded to forget quite a bit of it, so I'll have some re-learning to do next time I try it out).\r\n\r\nHowever, Blender is not so good for technical applications which is what BRL-CAD <em>is</em> good for. I'm not really sure what the status is, but I have even heard some discussions of compatibility tools to get information from one into the other (although they use quite different internal models, so this isn't trivial to do).  I hope to look into that further.\r\n\r\n(Both are free-licensed, of course).\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Reprint Notice'
+    hostname: 68.93.224.4
+    created: '1153526883'
+    body: "My blog entries at Free Software Magazine may be reprinted with this notice:\r\nCopyright (C)2004-2006 Terry Hancock / License CC-By-SA 2.5+<br/>\r\nhttp://creativecommons.org/licenses/by-sa/2.5<br/>\r\nOriginally at http://www.FreeSoftwareMagazine.com<br/>"
+-
+    name: ''
+    mail: ''
+    subject: 'About Nurbana'
+    hostname: 72.57.79.40
+    created: '1156740928'
+    body: "It looks like the Blender folk were able to incorporate much of the Nurbana code.\r\n\r\nhttp://mediawiki.blender.org/index.php/BlenderDev/NurbsCurvesNurbana\r\n\r\n-Sebastien Bailard\r\nreprap.org - self-reproducing 3D printer project"
+-
+    name: ''
+    mail: ''
+    subject: 'Translate?'
+    hostname: 82.161.166.186
+    created: '1158393240'
+    body: "Terry Hancock,\r\n\r\nAm I allowed to translate this blog entry to the dutch language for our www.cad4linux.nl portal. I will put your Copyricht notice  under the translated text:\r\n<code>Copyright (C)2004-2006 Terry Hancock / License CC-By-SA 2.5+\r\nhttp://creativecommons.org/licenses/by-sa/2.5\r\nOriginally at http://www.FreeSoftwareMagazine.com</code>\r\n\r\nThanks in advance,\r\n\r\nEmiel van Rossum\r\n\r\nhttp://www.cad4linux.nl"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Yes'
+    hostname: 68.93.224.4
+    created: '1158532672'
+    body: "Yes absolutely, that's one of the main reasons I like to use the By-SA.\r\n\r\nI do appreciate being told, because everybody likes props, but it's not actually required by the license.\r\n"
+-
+    name: claymore1977
+    mail: ''
+    subject: '7.8.0 Import features.'
+    hostname: 128.63.16.28
+    created: '1163084798'
+    body: "Greets all, just wanted to give you some detailed info as I work with BRL-CAD daily and am very involved with the development team.\r\n\r\nThe windows distro of BRL-CAD is nowhere near completely ported.  BRL-CAD has its roots in the *nix systems and the distros of those platforms are very very complete.  As it stands, BRL-CAD for windows 7.8.0 has the ability to convert ASCII, FASTGEN-4, STL and IGES to BRL-CAD native format (.g).  7.8.0 for Irix, for instance, can convert ASCII, AutoCad DXF, Elysium Neutral Facetted, ELUCID, FASTGEN-4, IGES, Jack, NASTRAN, Pro/E, STL, TANKILL, Unigraphics and Viewpoint to BRL-CAD native format.  Details on this reside on the brlcad.org website at: http://ftp.brlcad.org/VolumeIV-Converting_Geometry.pdf\r\n\r\nThe most refined of the converters is the AutoCad DXF and since most commercial CAD packages, both CSG and BREP, will export to DXF.  There is currently efforts in motion to port more of the converters over tothe windows version.  Work is also underway to implement NURB support natively in BRL-CAD and allow for conversion of STEP file format to BRL-CAD native format... but its still a year or so away.\r\n\r\nAs BRL-CAD is an open sourced project, community contributions are always welcomed... including gripes and complaints.  The dev team spends a substantial amount of time creating custom scripts and functionality for job specific tasks, so if there is something that doesn’t exist and you need it to, just ask!\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Need to use libraries to convert from IGES format to BRL CAD'
+    hostname: 129.15.99.109
+    created: '1172365801'
+    body: "Hi,\r\n\r\nI'm looking for open source C++ libraries that convert iges files to another format which enables easier comparison of 2 models. I was wondering if the BRL format might be good option. Also, can the open source C++ libraries included in the BRL-CAD package be used in VC++ on Windows XP. \r\n\r\nI need libraries (open source) that I can use - just the converting software won't suffice for my work.\r\n\r\nAny help will be greatly appreciated !\r\n\r\nThanks a bunch,\r\n\r\n-Karthik"

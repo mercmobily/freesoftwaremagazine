@@ -1,0 +1,49 @@
+-
+    name: 'Jaro Larnos'
+    mail: ''
+    subject: 'Just one problem not related'
+    hostname: 70.230.73.20
+    created: '1144406141'
+    body: "Just one problem not related to the article itself:\r\n<cite>This article is made available under the Ã¢â‚¬Å“Attribution-SharealikeÃ¢â‚¬? Creative Commons License 2.5 available from http://creativecommons.org/licenses/by-nc-nd/2.5/.</cite>\r\nThe link is to a different license (attribution-noncommercial-noderivs) than the mentioned Attr-Sharealike license.\r\n\r\nJust thought I should mention it.\r\n\r\n- Jaro -"
+-
+    name: admin
+    mail: ''
+    subject: 'Thanks - Fixed'
+    hostname: 203.59.90.115
+    created: '1144632580'
+    body: "Hi Jaro,\r\n\r\nThanks for pointing that out. \r\n\r\nThe link was correct; the text was not.\r\n\r\nFixed.\r\n\r\nBye"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Good article + missing tar file?'
+    hostname: 82.108.129.98
+    created: '1146833865'
+    body: "Good article, thanks. I assume that OOo under Windows renders the same as OOo under Ubuntu. It'd be interesting to know if there's any differences between platforms.\r\n\r\nFTA: \"Please note, all documents mentioned within this article are contained in a tar file referenced in the resources section.\"\r\n\r\nCouldn't see the tar file - am I missing something?"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'rendering in OOo under different OS''s'
+    hostname: 82.108.129.98
+    created: '1146835129'
+    body: "<cite>I assume that OOo under Windows renders the same as OOo under Ubuntu. It'd be interesting to know if there's any differences between platforms.</cite>\r\n\r\nSorry to reply to myself but I figured I may as well try it out myself and it does render the same on both OS's.\r\nRyan"
+-
+    name: 'Rick Stockton'
+    mail: ''
+    subject: 'KOffice 1.5'
+    hostname: 69.104.117.248
+    created: '1147074064'
+    body: "At the time you wrote this, the RC had been out for only a few days... and no one builds \"live CD\" Distros out of pre-release software, so you were kinda stuck with using the really stale KOffice 1.4.\r\n\r\nRelease 1.5 is <strong>HUGELY</strong> better at ODF than 1.4 was. It's worth another look."
+-
+    name: admin
+    mail: ''
+    subject: 'The tar file'
+    hostname: 203.166.225.55
+    created: '1147103974'
+    body: "Hello,\r\n\r\nThe tar file is now there!\r\n\r\nStaff."
+-
+    name: ListenLocally
+    mail: ''
+    subject: 'Good article'
+    hostname: 61.247.242.16
+    created: '1147537920'
+    body: "Good article. I was searching for it for long time. It has made my day. Thank you.\r\n\r\n"

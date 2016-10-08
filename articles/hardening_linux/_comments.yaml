@@ -1,0 +1,42 @@
+-
+    name: ''
+    mail: ''
+    subject: Thanks
+    hostname: 67.158.115.163
+    created: '1175776190'
+    body: "This is a great artical very down to earth practial stuff that eveyone with a web applacation should be checking for.\r\n\r\nThanks,\r\n\r\nFrank"
+-
+    name: 'Raymond Itabor'
+    mail: rayitab@yahoo.com
+    subject: construction
+    hostname: 212.100.73.220
+    created: '1179459486'
+    body: "I will be happy to hear from you thank's.\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: flyingboxcutter@yahoo.com
+    subject: 'Thanks for putting this'
+    hostname: 68.166.144.114
+    created: '1184099667'
+    body: 'Thanks for putting this together.  Though the docs for Apache stuff are pretty good, they didn''t get into SQL injection.  At least now I know what to look for and can research this for more in depth knowledge.'
+-
+    name: cthings
+    mail: creativethings@gmail.com
+    subject: '/tmp on virtual server'
+    hostname: 195.241.111.113
+    created: '1191166300'
+    body: "Hi,\r\n\r\njust a quick comment:\r\nIf you're on a virtual server with no control over the fysical filesystems, but with the ability to mount filesystems, you can use a piece of system ram to create a ramdisk and use that as a place to put the session stuff from either apache, java or php:\r\n\r\n/bin/mount -t tmpfs tmpfs -o size=16M,nodev,nosuid,noexec /mnt/ramdisk/\r\nmount --bind /mnt/ramdisk /chroot/apache2/tmp\r\n\r\nThe above will give you a 16Mb ramdisk, which is mounted nodev,nosuid,noexec\r\nThe second mount command will add this as \"tmp\" to the chroot'ed apache jail created with mod_security.\r\n\r\nKeep in mind to clear out sessions periodically!\r\n\r\nregards,\r\nNiels"
+-
+    name: 'Anonymous visitor'
+    mail: 1bm@gamil.com
+    subject: visit
+    hostname: 61.146.99.196
+    created: '1193386511'
+    body: "Hi,\r\nMCGRAW_HILL-Osborne_Hardening_Linux  \r\nhttp://www.soyo123.com/HardeningLinux/\r\nThis book is dedicated to the army of skilled people who have a vision for a world in which ideas may be freely communicated and where the application of those ideas can benefit all of society. The Linux operating system platform is one of the fruits of the exchange of such ideas, their implementation and ultimately their use the world over.This book can not cover everything that is to be known about securing Linux, but without input from many generous folks who gave their time and who continue to take great care and have pride in their efforts this book could not be a powerful tool in helping you to secure your Linux servers.\r\nJohn Terpstra\r\n\r\nhttp://www.soyo123.com/HardeningLinux/"
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'Sorry to ask, but...'
+    hostname: 124.169.168.20
+    created: '1193421360'
+    body: "Hi,\r\n\r\nHummm sorry to ask, but... is this link actually legal?\r\n\r\nMerc."

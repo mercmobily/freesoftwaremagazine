@@ -1,0 +1,7 @@
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'I still do it the old fashioned way'
+    hostname: 72.75.141.235
+    created: '1149993184'
+    body: "I start from latex, and transform that as needed to html, pdf, etc.  But it is a pain to edit and maintain that way, although xml is not immediately a perfect solution on it's own either, as it is designed for machine parsing more so than human reading :).  I would love to start from an editor that produces transformable xml for feeding to other formats, and with the backend transformation tools.  I have this starting from tex today.\r\n"

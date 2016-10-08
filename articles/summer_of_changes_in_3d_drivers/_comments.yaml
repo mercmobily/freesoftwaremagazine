@@ -1,0 +1,35 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Open Graphics will be taking orders soon'
+    hostname: 68.93.224.4
+    created: '1191293719'
+    body: "Although ATI and Intel have stolen some of their thunder -- releasing better binary Linux drivers and/or source code releases of parts of their driver sets, there is also progress on the \"totally free\" front...\r\n\r\nThe Open Graphics Project has completed its design and testing for the OGD1, which is its development board, and is about to go into production. These FPGA-based graphics cards are hardly price-competitive with consumer graphics cards (at about $1500 a piece), but they are also more flexible, since they are really reprogrammable large-scale FPGA boards with extensive video interfacing. It's even possible to use them for things other than video.\r\n\r\nMore practically, the video firmware on these cards will be flashable, so that users will have the option of updating to the latest version of the graphics-processing unit (GPU), as the OGP continues to work on improving it.\r\n\r\nFurthermore, the money spent is an investment in the production of real free and open hardware to support free software operating systems. If you're more inclined to contribute directly, there will also be a discount program for developers directly assisting the Open Graphics Project.\r\n\r\nThe OGD1 boards will be available from <a href=\"http://www.traversaltech.com/products.phtml\">Traversal Technology</a>. No official date has been set, but I would personally guess they will be taking orders before the end of this year.\r\n\r\nObviously, I can't recommend these boards to everybody, but if you've got the interest and the available cash, it will be a really cool product -- and 100% open hardware (GPL). Needless to say, the drivers will also be free.\r\n\r\nLater on, of course, if the OGP continues with its present success rate, there will be a consumer-priced ASIC-based board which will implement the best available GPU at the time it is made (of course it won't be upgradable). I'm not sure when that will happen.\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: unknown@email.com
+    subject: 'Nice article'
+    hostname: 193.170.48.242
+    created: '1191549960'
+    body: 'Really nice article, thanks.'
+-
+    name: 'Anonymous visitor'
+    mail: rikun@vantaalainen.com
+    subject: Matrox
+    hostname: 82.181.46.53
+    created: '1191960838'
+    body: 'Does Matrox really support free software operating systems and open up their source code? Maybe with their older video cards, maybe even up to G550, but not with the newer ones that have at least half decent 3D support. Last time I checked their newer cards - with half-decent 3d support - had only proprietary drivers. Of all the 3D card companies, Matrox has been among the worst in supporting free software. No support for Compiz either whatever Matrox card you use as far as I know. But if you are conservative, don''t care for 3D, Compiz and such things, and are happy with close to 10 year old video card design, Matrox might be ok.'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'True - but then...'
+    hostname: 86.71.28.73
+    created: '1192549937'
+    body: "...their latest products are hardly worthy of being called 'graphic cards'. And yes, from G100 to G550, they did/do provide source code for their cards.\r\nFor their most recent offers, which are mainly multi-monitor external appliances, the current X model makes opening up their source code the same way they did before not only quite useless, but also counterproductive: maybe, when Randr is more finalized and multiple screen configurations are better managed in X, will it be of any use for the community to get Matrox's code. For now, it's merely a risk of copyright infringement on both sides if Matrox open their sources.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: Nash
+    mail: raul_ray56@hotmail.com
+    subject: 'Discounts on Computers & Laptop from CouponAlbum'
+    hostname: 59.94.224.197
+    created: '1193142524'
+    body: 'I found latest products related to Computers & Laptop with most discounted coupons, offers and coupon codes from many major stores at Couponalbum.com.......!!'

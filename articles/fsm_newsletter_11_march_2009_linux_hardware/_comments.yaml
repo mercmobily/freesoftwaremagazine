@@ -1,0 +1,21 @@
+-
+    name: sys49152
+    mail: ''
+    subject: 'Market penetration'
+    hostname: 194.231.195.227
+    created: '1237414201'
+    body: "Hi,\r\n\r\nthere are vendors selling laptops and desktops with Linux preinstalled. Dell do so, Lenovo do so.\r\nI do not know if they sell such devices in Australia but they do in Germany.\r\nBut I think the amount of such offers in the market is far to low, but there is good news at last.\r\n\r\nRegards\r\n"
+-
+    name: alandmoore
+    mail: ''
+    subject: 'Fragmentation not a problem'
+    hostname: 72.237.174.2
+    created: '1237561488'
+    body: "Regarding fragmentation, I don't see why this should be an issue for device support.  Drivers live in the kernel, so why does it matter what's up the stack from there?\r\n\r\nAnother good question is why, in 2009, do we still need unique drivers for so many basic pieces of hardware -- network, for instance.  Basic wired NICs haven't done anything new since the 1990s, apart from maybe a speed increase.  Why is there not a generic industry spec a la VESA to give basic network functionality on any card, out of the box?"
+-
+    name: alexandrei
+    mail: ''
+    subject: 'Driver certification'
+    hostname: 193.226.3.221
+    created: '1237562228'
+    body: "<cite>I am going to cause a few angry comments with my proposed solution, but I think many out there share my view: “Ubuntu”. Ubuntu should become the default desktop distribution for GNU/Linux.</cite>\r\nNo problem here.. as long as I can use my favourite one.. Although..i don't think this is necessary.\r\n\r\n<cite>Vendors should coordinate with Canonical to make sure that things “just work”, and maybe even have a logo there. Canonical should provide logos and a lab to make sure that certified hardware actually works.<cite>\r\n\r\n<cite>Other distributions should be able to say “whatever is certified for Ubuntu, will work for us too”</cite>\r\n\r\nWouldn't be better for vendors to coordinate with the Linux foundation,or with the Kernel developers, so that hardware support is certified together with a kernel version. That way, it will not matter what distribution you use, as long as you have a current kernel. I think that's already the case - it's up to the distribution to update it's kernel.\r\n\r\nAnd, honestly, I would rather buy a gadget with the Linux logo on it, instead of Ubuntu's. Why? I often change distributions.. Maybe in several years, Ubuntu will wear off, and something else will be your prefered choice (or mine, or someone else's). \r\n\r\n(For the reference: running Arch, Mint 6, and Windows XP. I have nothing against Ubuntu, but I can really see a difference between Ubuntu and Linux, and I prefer it like that)\r\n\r\nCheers, \r\nAlex"

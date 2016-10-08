@@ -1,0 +1,21 @@
+-
+    name: ''
+    mail: ''
+    subject: 'yes great'
+    hostname: 87.194.63.152
+    created: '1170706983'
+    body: 'great! a couple of screenshots of the game itself could have been more useful'
+-
+    name: 'Marco Marongiu'
+    mail: ''
+    subject: Screenshots
+    hostname: 217.133.8.17
+    created: '1170711662'
+    body: '<p><a href="http://www.berniw.org/trb/gallery/gallery.php">here we go</a>. Enjoy!</p>'
+-
+    name: chrisnddie
+    mail: ''
+    subject: SOurce
+    hostname: 119.160.48.59
+    created: '1284485400'
+    body: "You can compile it from source of course, but you also can have it in binary precompiled format. Some distributions also have it pre-packaged. My Debian testing, for example, has it, but it has been purged of the files that are non-free; your mileage may vary (well, what else can I say talking about cars? :-) I don’t spend much time playing with my PC F-150 engine\r\n"

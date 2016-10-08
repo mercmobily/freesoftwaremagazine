@@ -1,0 +1,14 @@
+-
+    name: depi
+    mail: ''
+    subject: 'nice editors'
+    hostname: 62.65.183.34
+    created: '1150562443'
+    body: "Hi.\r\n\r\nThanks for review. I own this book too and I would liketo ask you what do you mean by: \"nice text editor\" ? :) I enjoy Zend Studio, but it is really pity that it is commercial, I know it is there PHP Eclipse too, but I don't like it so much as Zend Studio."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Well, there''s gVim and Emacs for starters'
+    hostname: 68.93.224.4
+    created: '1151745015'
+    body: "The killer apps of the \"programmer's editor\" genre. I'm a vi user. Looks like yes indeed, I do have syntax coloring for PHP. Though, to be fair, it says \"PHP 3-4\".\r\n\r\nThere's also a dozen or more lesser-known editors with their own advocates.\r\n\r\nI've never much liked IDEs, myself. Too much upkeep. gVim (which is a vi variant) does what I need.\r\n"

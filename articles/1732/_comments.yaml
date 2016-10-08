@@ -1,0 +1,28 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"central"'
+    hostname: 68.93.224.4
+    created: '1157129805'
+    body: "\"Central\" as in \"of great importance\" is a good idea. \"Central\" as in \"running on one server in one building removable by a single air strike (or more mundane disaster)\" would make me a lot less happy.\r\n\r\nI think archive.org is pretty cool, but I think we're going to want more a distributed database for \"the sum total of human knowledge\". For the long run, I think we want to store this kind of information in a more distributed way, with copies all over the world. This would also help with the mirroring, bandwidth, and even censorship problems.\r\n"
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: 'Distributed caching'
+    hostname: 145.18.144.17
+    created: '1157355059'
+    body: "Yes,\r\n\r\nI like the idea of a protocol simular to the one used by search engines which allows the distribution of content between servers."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: protocol
+    hostname: 66.118.56.253
+    created: '1157560366'
+    body: "I guess you're talking about that trick by which Google will pass a search onto a site which provides a search interface? That sounds like a good thing, though I never really investigated how that works (hint hint: want to write a blog about it, Alan? ;-) ).\r\n\r\nI've already mentioned the \"single point of failure\" problem, but maybe my deeper concern is the \"single point of control\": I certainly don't want the \"sum total of human knowledge\" to be under any one person, corporation, or nation's thumb. Nor do I want them to be able to control what does and does not get listed. I'd rather deal with the inaccuracy of unreviewed material than face the long term stagnancy problems endemic to review systems, let alone intentional censorship.\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: laptoprecording@gmail.com
+    subject: 'The persistency of data'
+    hostname: 125.239.53.109
+    created: '1182416287'
+    body: "The persistence problem is a big one!\r\n\r\nI believe that the evolution theory applies to knowledge just as it does to DNA...But...I also think that leaves us still completely free to decide how much information to keep. All of it sounds kind of useful right?\r\n\r\nIf we could simply set up a torrent file, on about 1000 sites and share one file, you don't even need all of it, just however much you can take. OK, maybe 100,000 seeds.\r\n\r\nWould be nice if it was one nice searchable file, that we could all share. everyone...open source yeah?\r\n\r\nMike\r\nCheers\r\n\r\n:)"

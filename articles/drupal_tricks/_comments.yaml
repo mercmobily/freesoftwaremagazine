@@ -1,0 +1,28 @@
+-
+    name: xiffy
+    mail: ''
+    subject: 'Drupal 6'
+    hostname: 195.169.69.20
+    created: '1213709836'
+    body: "Thanks for the clear explanation. Unfortunatly, every new drupal version needs revision of almost any hacks. No exception for this one.\r\nTo get the tertiary links in Drupal 6 you would do\r\n$m = menu_navigation_links(variable_get('menu_primary_links_source', 'primary-links'), 2); \r\nbecause menu_primay_links() has lost it's footprint in Drupal 6\r\nhth\r\n"
+-
+    name: theneemies@drupal.org
+    mail: ''
+    subject: 'This site looks like a great'
+    hostname: 124.170.232.217
+    created: '1219124381'
+    body: "This site looks like a great Drupal implementation - have you considered submitting a case study for drupal.org?\r\n\r\nAlso, a usability tip - if you're posting code http://drupal.org/project/geshifilter might be of use."
+-
+    name: dener
+    mail: ''
+    subject: ehm...
+    hostname: 87.211.101.27
+    created: '1220479627'
+    body: 'tnx for the explanation. But I''ve encountered the following problem; the script seems to place the entire tertiary menu under the secondary instead of placing it in between the chosen menu-items. anyone any idea what might be the reason?'
+-
+    name: wownet
+    mail: ''
+    subject: 'Added to'
+    hostname: 76.123.14.251
+    created: '1239711741'
+    body: 'Added to http://DrupalSightings.com'

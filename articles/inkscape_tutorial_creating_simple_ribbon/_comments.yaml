@@ -1,0 +1,7 @@
+-
+    name: szurcher
+    mail: ''
+    subject: 'Selecting objects'
+    hostname: 24.25.252.217
+    created: '1218501774'
+    body: 'I had to do a bit of trial and error to find out that to select the different stacked objects I needed to Alt+click (otherwise all I could access was the top gradient).  That seems to cycle through the different objects that are underneath the point your mouse is at.  If there''s a button or menu item for this behavior I missed it.  Now I have a nice light blue ribbon :)  Thanks for the introductory tutorial!'

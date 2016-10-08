@@ -1,0 +1,140 @@
+-
+    name: dorgan
+    mail: ''
+    subject: AWSOME
+    hostname: 167.206.55.158
+    created: '1181058373'
+    body: 'This article rocks and will allow me to have one less things to integrate.  Thank you soo much.'
+-
+    name: 'Edmundo Carmona'
+    mail: ''
+    subject: 'I forgot to mention...'
+    hostname: 201.244.44.190
+    created: '1181082398'
+    body: "...that in the downloads of the article is a helper to authenticate against ActiveDirectory as a real example.\r\n\r\nAnd thanks for that comment!\r\n\r\nGlad to be helpful (even more if there are some ISA servers to be replaced as a side effect  of the article :-D)."
+-
+    name: valen_willie
+    mail: ''
+    subject: 'This is alternative to NoCat, I suppose'
+    hostname: 122.199.10.254
+    created: '1181092673'
+    body: 'Excellent article. My company is working on providing Internet pre-paid system to miners who are in the middle of nowhere. The only backhaul we have is Satellite, so we have to treasure our bandwidth. We are tinkling with NoCat at the moment. This article opens up a new possibility of a whole new system all together. Of course, we have to think of how to block all traffics that squid cannot proxy, or else there will be holes in this system (`iptables'' to the rescue!). Also, how to tunnel other traffics via HTTP.'
+-
+    name: 'omid mohajerani'
+    mail: omid.mohajerani@gmail.com
+    subject: 'Problem with your Script'
+    hostname: 217.219.63.254
+    created: '1184404718'
+    body: "hi \r\nfirst thank you for your nice  article . I have a problem with the script \r\nwhen i want to run it ( /bin/php /etc/squid/script.php)\r\nit says :\r\n\r\nConstant STDIN already defined in /etc/squid/script.php on line 3\r\n\r\nplease help me.\r\nbest regards"
+-
+    name: 'Edmundo Carmona'
+    mail: ''
+    subject: 'That''s a PHP problem'
+    hostname: 201.244.41.171
+    created: '1184548813'
+    body: "I thought the  if (! defined()) would avoid that (at least, it does avoid that problem over here).\r\n\r\nMake sure you included the \"!\" in the conditional on line 2. If you did, that'd be weird... but anyway it seems that your \"PHP machine\" already has STDIN defined, so you can comment line 3, where it's \"redefined\"... or remove that whole checking section altogether (the conditional and definition of STDIN).\r\n\r\nHope that works."
+-
+    name: 'Anonymous visitor'
+    mail: kakuz@suryasoft.net
+    subject: problem
+    hostname: 210.187.65.34
+    created: '1184667163'
+    body: "i have problem when using this document. this is the error :\r\nThe basicauthenticator helpers are crashing too rapidly, need help!\r\n"
+-
+    name: 'Edmundo Carmona'
+    mail: ''
+    subject: 'sounds like...'
+    hostname: 201.245.214.139
+    created: '1184692344'
+    body: 'sounds like your program is crashing right after squid starts it (or them, if you have many children). Did you test it as a standalone console application before using it with squid to see that it receives the username/password pair and replies with OK/ERR in an infinite cycle?'
+-
+    name: 'omid mohajerani'
+    mail: omid.mohajerani@gmail.com
+    subject: 'Undefined Offset'
+    hostname: 84.11.4.35
+    created: '1184741573'
+    body: "first tanx for your answer ; I have delete that line and now my script( ofcourse yours ) is like this\r\n\r\n<?\r\nwhile (!feof(STDIN)) {\r\n        $line = trim(fgets(STDIN));\r\n        $fields = explode(' ', $line);\r\n        $username = rawurldecode($fields[0]); //1738\r\n        $password = rawurldecode($fields[1]); //1738\r\n        if ($username == 'hello' \r\n            and $password == 'world') {\r\n                fwrite(STDOUT, \"OK\\n\");\r\n        } else if ($username == 'fo'\r\n            and $password == 'bar') {\r\n                fwrite(STDOUT, \"OK\\n\");\r\n        } else {\r\n                // failed miserably\r\n                fwrite(STDOUT, \"ERR\\n\");\r\n        }\r\n}\r\n?>\r\n\r\nand now result of excuting /bin/php script.php is :(of course when i enter a string)\r\n\r\nPHP Notice:  Undefined offset:  1 in /omid/omid.php on line 10\r\nERR\r\n\r\nany suggestion ?\r\n"
+-
+    name: 'Edmundo Carmona'
+    mail: ''
+    subject: 'email me'
+    hostname: 201.244.253.23
+    created: '1184852822'
+    body: "Why don't you email me? I just copied (verbatim) your script and tried it over here and it worked:\r\n\r\n$ php prueba.php\r\nhello world\r\nOK\r\nfoo\r\nERR\r\nfoo bar\r\nERR\r\nfo bar\r\nOK\r\nit's ok\r\nERR\r\n\r\nMaybe the problem is here:\r\n$ php -version\r\nPHP 5.2.3-1ubuntu2 (cli) (built: Jul  4 2007 16:13:07)\r\nCopyright (c) 1997-2007 The PHP Group\r\nZend Engine v2.2.0, Copyright (c) 1998-2007 Zend Technologies\r\n\r\nAnyway, email me so we can take a closer look at what's going on. eantoranz at google's public mail service, you know, right? :-D"
+-
+    name: 'Edmundo Carmona'
+    mail: ''
+    subject: 'Solved Omid''s problem'
+    hostname: 201.245.245.48
+    created: '1184962843'
+    body: "The problem is the define call. I have the fopen() right in the define, and it fails that way. If you do the fopen and save the result in a temporary variable, it works.\r\n\r\nTry with this:\r\n\r\nif (! defined(STDIN)) {\r\n        $temp = fopen(\"php://stdin\", \"r\");\r\n        define(\"STDIN\", $temp);\r\n}\r\n\r\nIt worked with version 5.1.2 that way.\r\n\r\nIt worked with 5.2.3 the original way... I guess it's a bug in 5.1.2"
+-
+    name: AHMED.S
+    mail: shajan_ahmed@hotmail.com
+    subject: 'Problem with script on Windows 2003 AD'
+    hostname: 217.155.137.166
+    created: '1189761388'
+    body: "Thanks for your wonderful article. I am having problems with your script. I believe it is due to the fact that my windows 2003 AD requires authentication to do any LDAP binds. I have another php LDAP application that connects to my AD successfully as it has a variable to configure a user account to connect to the AD with. \r\n\r\nCan you please tell me how I can edit your script to bind to ldap using a username and password? \r\n\r\nthanks"
+-
+    name: 'Edmundo Carmona'
+    mail: ''
+    subject: 'Did you see the attachments?'
+    hostname: 201.245.213.215
+    created: '1189961258'
+    body: 'Ahmed, in the article''s attachments, there''s a PHP script that authenticates against AD through LDAP, and it binds to AD using the username/password provided by squid. Are you having problems with that script? Email me if you have any problems: eantoranz at gmail dot com.'
+-
+    name: 'Tobias K.'
+    mail: tobias.kastner@gmx.de
+    subject: 'Transmitting username and password as cleartext?'
+    hostname: 88.66.8.145
+    created: '1190745858'
+    body: "Thanks a lot for your nice article and for writing for the freesoftwaremagazine.\r\n\r\nIn many environments the transmission of usernames and passwords as cleartext is not acceptable.\r\n\r\nDo you haven an idea of how to solve this problem an transmit the authorization data between client and proxy encrypted?\r\n\r\nRegards.\r\nTobias"
+-
+    name: 'Edmundo Carmona'
+    mail: ''
+    subject: 'There are some other methods'
+    hostname: 201.244.251.101
+    created: '1190811726'
+    body: "If you check my example (and the attached script), I always used the \"basic\" method. However, there are some other methods: digest, ntlm, negociate, so don't stick with basic if you want to do it some other way.\r\n\r\nAs I'm reading squid.conf's details of each method, helpers will interact with squid in different ways, so take a close look at that."
+-
+    name: admin
+    mail: ''
+    subject: 'A comment received by email...'
+    hostname: 98.216.111.246
+    created: '1213406214'
+    body: "Contacted Mr. Carmona today concerning the PHP script that authenticates against AD through LDAP. It no longer appears to be in the downloadable section of this article. I made mention of this in my email and requested help if he could provide.\r\n\r\nI barely got the email sent before he responded. Not only did he respond he sent me the code after a very short time. Plus he said if I needed more help just email him.\r\n\r\nVery impressed.\r\n\r\nTis my opinion the world needs more like him. Thanks for sharing this and thanks for all the help"
+-
+    name: Danbo
+    mail: ''
+    subject: 'Authentication Helpers'
+    hostname: 78.135.0.164
+    created: '1230191867'
+    body: "Hi everyone,\r\n\r\nI am a web designer and I have limited linux knowledge but I have set up two linux boxes.\r\n\r\nOne that runs a Voip system and another running Squid.\r\n\r\nI have managed to get NCSA authentication working on the Squid proxy server but what bothers me is, that, the NCSA authentication method allows the same username and password to make simulataneous multiple logins which I don't want.\r\n\r\nI need to write an authentication helper to restrict logins to one machine per session. Can anyone help me with this?\r\n\r\nKind Regards and Seasons Greetings!\r\n\r\nDanbo"
+-
+    name: rosdi
+    mail: ''
+    subject: 'Squid on Windows 2003'
+    hostname: 202.75.57.8
+    created: '1235705879'
+    body: "If you install Squid on Windows Server (2000/2003) and your requirement is simple, it is easier to use mswin_auth.exe provided in libexec.\r\n\r\nThen you can login to Squid using your windows login id and password.\r\n\r\nCheck out mswin_auth.exe in libexec folder."
+-
+    name: jensen
+    mail: ''
+    subject: 'Thanks for the article. For'
+    hostname: 217.5.215.251
+    created: '1243528388'
+    body: "Thanks for the article. For a squid rookie like me the perfect entry point. As I intend to use squid mainly for elaborate authentication and logging purposes could you (or someone) tell me\r\n-if there's a way to define a chain of authentication helpers and\r\n-if there's a way to define a logging helper?\r\n\r\nthanks a lot jens"
+-
+    name: jensen
+    mail: ''
+    subject: 'Multiple authentication helpers?'
+    hostname: 217.5.215.251
+    created: '1243529902'
+    body: "First of all thanks for your article. For me as a rookie it was a good entry point.\r\nAs i want to use squid mainly for authentication and logging there are two questions left: Is there a way to define a chain of authentication helpers? Can i define a logging helper in the same way as a authentication helper? Thanks for any clue,\r\njens"
+-
+    name: amit_shogun
+    mail: ''
+    subject: '-k reconfigure issue / question'
+    hostname: 209.88.177.69
+    created: '1256621118'
+    body: "First, Great article, helped me a lot. Thanks.\r\nWhen using 'squid -k reconfigure' seems like my auth program (written in C++) is duplicating it self, i,e: If i have 32 children - i get 64, 96 etc...\r\nWhat am i missing. I need '-k reconfigure' to always keep 32 (in my case) children.\r\nThanks in advance, Amit"

@@ -1,0 +1,14 @@
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: 'One more suggestion'
+    hostname: 68.93.224.4
+    created: '1152298432'
+    body: "I just wanted to add another reference that someone suggested to me after the first blog.\r\n\r\n<a href=\"http://glenmoyes.com/articles/to_those_learning_3d.shtml\">To Those Learning 3D - by Glen Moyes</a>\r\n\r\nIt talks about learning how to understand a 3D environment before modelling in it, as well as the  limitations of technique driven tutorials."
+-
+    name: ''
+    mail: ''
+    subject: RTFM
+    hostname: 75.161.4.241
+    created: '1171668899'
+    body: 'This entire adventure should be retitled "what happens to people who naively expect complicated interfaces to look like fischer price, and refuse to RTFM."  All of the things that confused you are described in the tutorials at blender.org.  Please buy yourself some patience and read them.  Blender''s different interface is an advantage.  Yes, undo isn''t under Edit.  But if it catered to UI expectations of other apps, Blender would ultimately be harder to use -- even if it might make n00bs feel more welcome at first.  So it doesn''t.  And after taking time to learn it, reading a lot, and not panicking, I''m glad for it.  I now wish other apps that do have Edit->Undo were more like Blender.'

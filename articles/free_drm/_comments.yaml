@@ -1,0 +1,21 @@
+-
+    name: god
+    mail: ''
+    subject: 'Free Software DRM cannot work.'
+    hostname: 203.59.90.115
+    created: '1143695465'
+    body: "<strong>From</strong>: Philip Ward \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-08-04\r\n<strong>Subject:</strong> Free Software DRM cannot work.\r\n\r\n\r\nWhen DRM was invented it was \"Digital Rights Management\", but a better name is \"Digital Restrictions Management\".\r\n\r\nEssentially DRM systems place restrictions on users, either by encryption (you can only decrypt the data if you have the key), or by refusal (the software won't render the data unless you have the key).\r\n\r\nThe nature of Free Software is that neither of these situations can exist.\r\n\r\nWith encryption based DRM at some point the data must be decrypted in the clear. Anyone with the source code can add routines to save that data in the clear to disk and remove the DRM.\r\n\r\nWith refusal based DRM all a user has to do is hack the DRM app source code and remove the tests that make the app refuse to render the content.\r\n\r\nIf your DRM software is Free then users can hack it to remove the restrictions."
+-
+    name: god
+    mail: ''
+    subject: 'Open Source DRM Software is impossible based on current idea'
+    hostname: 203.59.90.115
+    created: '1143696637'
+    body: "<strong>From</strong>: Louis Zhuang \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-08-05\r\n<strong>Subject:</strong> Open Source DRM Software is impossible based on current idea\r\n\r\n\r\nRestriction-based DRM can not be implemented by open source because it can always bypass such restriction by changing code. It is the time to change the basic idea how DRM should work and balance interests between content providers and community.\r\n"
+-
+    name: DEANdra
+    mail: deandra_dn@yahoo.com
+    subject: 'free software DRM'
+    hostname: 125.160.98.114
+    created: '1183169611'
+    body: "i was download some movie but its protected by DRM \r\ni hope u have solution for that..\r\ntxs n sorry for my bad english\r\n\r\n\r\n\r\n\r\nDEAN\r\n\r\n\r\nIndonesian"

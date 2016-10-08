@@ -1,0 +1,420 @@
+-
+    name: admin
+    mail: ''
+    subject: 'Let us know what your favourite email program is'
+    hostname: 203.59.106.173
+    created: '1169987336'
+    body: 'Don''t forget to let us know what your "other" program is if you use a different one from the ones listed. '
+-
+    name: ''
+    mail: ''
+    subject: KMail/Kontact
+    hostname: 213.103.243.201
+    created: '1169991285'
+    body: '(I can''t vote)'
+-
+    name: ''
+    mail: ''
+    subject: 'What''s your favourite email program?'
+    hostname: 83.140.105.209
+    created: '1169995931'
+    body: "Icedove version 1.5.0.9 (20061220)\r\n"
+-
+    name: dbdkmezz
+    mail: ''
+    subject: 'I voted other, since my'
+    hostname: 82.36.96.75
+    created: '1169996203'
+    body: 'I voted other, since my favourite email program is Kmail.'
+-
+    name: ''
+    mail: ''
+    subject: 'KMail missing'
+    hostname: 193.170.48.242
+    created: '1169997442'
+    body: 'I am a mutt user, but if I used a GUI mail client, it definitly would be kmail'
+-
+    name: shastry
+    mail: ''
+    subject: 'I use ...'
+    hostname: 59.92.171.253
+    created: '1169997508'
+    body: kontact/kmail
+-
+    name: admin
+    mail: ''
+    subject: 'Kmail added and votes adjusted.'
+    hostname: 124.168.116.215
+    created: '1169998871'
+    body: 'Obviously a glaring omission on our part. Apologies '
+-
+    name: plh
+    mail: ''
+    subject: "Gnus.\n"
+    hostname: 86.128.98.61
+    created: '1170016573'
+    body: Gnus.
+-
+    name: ''
+    mail: ''
+    subject: 'more options'
+    hostname: 84.9.172.171
+    created: '1170020724'
+    body: 'What about <strong>seamonkey</strong> and <strong>claws-mail</strong>?'
+-
+    name: 'Raghu Kodali'
+    mail: ''
+    subject: 'Thunderbird & Evolution'
+    hostname: 217.140.104.20
+    created: '1170059150'
+    body: "I use thunderbird because evolution is too Outlookish. I am not sure why we need to copy Look & Feel of M$ products.\r\n\r\nBTW: How do I bottom post in Evolution?\r\n\r\nRaghu\r\n<a>www.raghukodali.com</a>"
+-
+    name: 'Matthew Sharp'
+    mail: ''
+    subject: 'Other: Claws-Mail'
+    hostname: 220.245.178.136
+    created: '1170113877'
+    body: 'I also use mutt quite often, but claws-mail is definitely the favourite.'
+-
+    name: ''
+    mail: ''
+    subject: sylpheed
+    hostname: 67.78.114.62
+    created: '1170120284'
+    body: sylpheed
+-
+    name: themacmeister
+    mail: ''
+    subject: Sylpheed-Claws
+    hostname: 58.169.69.10
+    created: '1170143014'
+    body: "I like Sylpheed-Claws. My second choice is of course Thunderbird (if only Thunderbird and Firefox could PRINT PROPERLY!!!)\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Mutt and Kmail'
+    hostname: 125.23.181.225
+    created: '1170144091'
+    body: 'I use mutt and kmail depending on whether I''m running X or curses'
+-
+    name: ''
+    mail: ''
+    subject: 'Nobody uses pine?'
+    hostname: 203.59.106.173
+    created: '1170145118'
+    body: "Hello,\r\n\r\nGoodness me... nobody uses Pine anymore...?!?\r\nOh well, never mind! I wouldn't have thought that was the case.\r\nI guess the word has moved on...\r\n\r\nMerc."
+-
+    name: ''
+    mail: ''
+    subject: SquirrelMail
+    hostname: 84.246.5.4
+    created: '1170151276'
+    body: "May sound stupid, \r\nbut having SquirrelMail on my home server\r\nrealy made my live simple and save"
+-
+    name: ''
+    mail: ''
+    subject: 'Another vote for Squirrelmail'
+    hostname: 163.1.203.203
+    created: '1170159149'
+    body: 'Access anywhere, through any browser, and keep all your settings and filters? It has to be a winner :)'
+-
+    name: tinker
+    mail: ''
+    subject: 'While I voted for Kmail as'
+    hostname: 213.169.107.81
+    created: '1170159213'
+    body: 'While I voted for Kmail as it is what I currently use I am considering switching to something else, not sure if it will be Evolution, Thunderbird or build my own LAMP based system - guess that would be tinkermail then :D'
+-
+    name: ''
+    mail: ''
+    subject: 'Evolution, helps me keep my'
+    hostname: 134.146.0.6
+    created: '1170159819'
+    body: "Evolution, helps me keep my Calender and tasks to.\r\nWould not know if it looks like Outlook because I don't use it."
+-
+    name: timtipton
+    mail: ''
+    subject: "Gmail/web\n"
+    hostname: 63.171.234.11
+    created: '1170167591'
+    body: Gmail/web
+-
+    name: ''
+    mail: ''
+    subject: 'Outlook Express. It does'
+    hostname: 198.54.202.226
+    created: '1170170328'
+    body: '  Outlook Express. It does more than any ''nix version or thunderbird. Also it combines with a newsreader which I like - mozilla never got this right.'
+-
+    name: ''
+    mail: ''
+    subject: 'Cannot vote'
+    hostname: 209.13.47.46
+    created: '1170172192'
+    body: 'Is the poll closed? I don''t see any place where to vote. Thanks.'
+-
+    name: ''
+    mail: ''
+    subject: Gmail!
+    hostname: 66.16.195.194
+    created: '1170172929'
+    body: 'Gmail! =D'
+-
+    name: bong
+    mail: ''
+    subject: 'Gmail of course'
+    hostname: 88.103.10.150
+    created: '1170173968'
+    body: "Firefox running Gmail is my choice. I haven't tried many desktop clients (only Thunderbird once) and they would probably work more fluently in some areas, however Gmail has a lot that email clients couldn't offer. Running it on 2 PC's and 3 OS's Gmail is always the same on all of them.\r\n\r\nI hope I will find a client that will support server side organization of my messages (labels, stars etc. on Gmail) and will feature what I miss now -- good (kde) desktop integration and ideally interaction with something like Google Talk as well."
+-
+    name: ''
+    mail: ''
+    subject: 'I chose Evolution several years ago...'
+    hostname: 84.143.133.88
+    created: '1170177408'
+    body: "...when it was the only one I found that reliably synchronised calendar, contacts and tasks with my old PalmPilot PDA. Right now others do this as well. But while the Thunderbird project has my big sympathy for being the most well-known free software mail client, I'll neither use nor advocate it as long as the Mozilla Corporation has this ghastly attitude of judging theoretical security attacks to be more important than users losing their mails for more than one month. See\r\n<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=360409\">https://bugzilla.mozilla.org/show_bug.cgi?id=360409</a>"
+-
+    name: terra453
+    mail: ''
+    subject: Sylpheed-claws
+    hostname: 209.195.110.177
+    created: '1170180601'
+    body: 'I''ve used most of the others at one time or another, but I''m happiest with this one at the moment'
+-
+    name: ''
+    mail: ''
+    subject: Opera
+    hostname: 200.86.10.225
+    created: '1170189899'
+    body: 'By far I use Gmail+Opera Browser Email (not Opera mail!)'
+-
+    name: yale2011
+    mail: ''
+    subject: 'I know this sounds lame, but'
+    hostname: 75.72.113.172
+    created: '1170192281'
+    body: "I know this sounds lame, but I use Opera's built in mail client.\r\n\r\n----------------------\r\nVote Leonard Bernstein for President\r\n<a href=\"http://www.chaska.net/users/bernsteinforpresident/\">BernsteinForPresident</a>"
+-
+    name: 'Matthew Sharp'
+    mail: ''
+    subject: 'For those who don''t know, sylpheed claws = claws mail'
+    hostname: 220.245.178.136
+    created: '1170196307'
+    body: 'Sylpheed Claws changed its name to Claws Mail in early December with version 2.6.1.  Of course sylpheed claws was a fork of sylpheed in the first place.'
+-
+    name: 'Matthew Sharp'
+    mail: ''
+    subject: 'Why would you do that if you can use mutt?'
+    hostname: 220.245.178.136
+    created: '1170196396'
+    body: 'Why would anyone use pine when they could use mutt? :P'
+-
+    name: admin
+    mail: ''
+    subject: 'Log in to vote'
+    hostname: 124.168.116.215
+    created: '1170204689'
+    body: 'You have to subscribe and log in to vote. It''s free to subscribe.'
+-
+    name: AnalogJim
+    mail: ''
+    subject: '"other" Email program'
+    hostname: 216.193.144.62
+    created: '1170215950'
+    body: "PocoMail 4. I like it because I can sent out newsletters to a large mailing list as individual Emails. BCC would work in other Email clients, but I can also individualize each Email if I wish using templates.\r\nJim"
+-
+    name: leonpmu
+    mail: ''
+    subject: Kontact
+    hostname: 196.192.66.8
+    created: '1170383188'
+    body: "I know that you listed kmail, but I use it as part of kontact, so it is part of the suite, which gives me more than evolution.\r\n\r\nI offer Thunderbird with lightining to my windows based clients, as Kontact is not available to them."
+-
+    name: ''
+    mail: ''
+    subject: "thunderbird\n"
+    hostname: 125.17.7.230
+    created: '1170412283'
+    body: thunderbird
+-
+    name: darthsabbath
+    mail: ''
+    subject: Pine
+    hostname: 69.59.127.75
+    created: '1170476571'
+    body: "Wow... no Pine love. :'(  I've always loved Pine's interface, and if I were to switch from Gmail back to an email client, I'd go back to Pine in a heartbeat. \r\n\r\nHeathens. :-) "
+-
+    name: blablok
+    mail: ''
+    subject: sylpheed-claws!
+    hostname: 83.17.152.226
+    created: '1170678926'
+    body: 'Of course. '
+-
+    name: 'Andrei Protasovitski'
+    mail: ''
+    subject: 'SeaMonkey Mail'
+    hostname: 82.209.244.181
+    created: '1170680972'
+    body: 'I just like it. :)'
+-
+    name: jlowe
+    mail: ''
+    subject: 'My favorite email program'
+    hostname: 198.146.155.198
+    created: '1170682771'
+    body: 'I have used the light version of Eudora, and now the sponsored version, for years and years. Eudora will soon drop its paid mode because it is moving to open source.'
+-
+    name: 'Mark 1'
+    mail: ''
+    subject: 'Voted KMail but....'
+    hostname: 207.191.223.15
+    created: '1170685058'
+    body: 'I would have preferred to vote for Kontact as I only use KMail through Kontact.'
+-
+    name: twoolley
+    mail: ''
+    subject: 'Opera mail'
+    hostname: 72.160.77.113
+    created: '1170699646'
+    body: 'I''ve used Opera web browser for years and Opera mail for a couple of years.  I think more people should give them a try.'
+-
+    name: jay__online
+    mail: ''
+    subject: Sylpheed
+    hostname: 195.178.57.154
+    created: '1170700294'
+    body: 'Sylpheed. No other comment.'
+-
+    name: 'Phil Thane'
+    mail: ''
+    subject: 'Favourite Email Program'
+    hostname: 82.3.67.224
+    created: '1170704549'
+    body: "Kmail. I prefer KDE to Gnome particularly because everything is so well integrated. I use Kontact for work: Calendar, Contacts, Email and RSS all in one package. Works well with Konqueror for web-browsing.\r\n\r\n--\r\nRegards\r\nPhil Thane"
+-
+    name: 'Anders Jackson'
+    mail: ''
+    subject: 'Read mail? Oh, you mean that funny envelope!'
+    hostname: 81.224.169.37
+    created: '1170711217'
+    body: "I use:\r\n<ol>\r\n<li>Gnome/Evolution\r\n<li>Firefox/Gmail\r\n<li>Emacs/gnus\r\n<li>cat /var/spool/mail/jackson\r\n</ol>\r\nIn that order. It's kind of lot of work to set up gnus right. Or else I would only use that. Emacs is the only OS you realy need :)"
+-
+    name: coolowl2006
+    mail: ''
+    subject: 'Mail App'
+    hostname: 203.134.101.75
+    created: '1170712083'
+    body: "Apple Mail since I'm still using OS X - one day, Linux but today Apple.\r\n\r\nE"
+-
+    name: emarkay
+    mail: ''
+    subject: 'Browser based for me.'
+    hostname: 216.49.121.218
+    created: '1170717237'
+    body: "SeaMonkey (the old Mozilla Suite) Mail.\r\nAlso email.com for varying correspondences."
+-
+    name: kldupree
+    mail: ''
+    subject: 'email client'
+    hostname: 192.91.173.42
+    created: '1170718830'
+    body: "Other - I'm using balsa.\r\n"
+-
+    name: TomSr
+    mail: ''
+    subject: Thunderbird
+    hostname: 72.70.210.242
+    created: '1170726345'
+    body: 'I use Thunderbird for my desktop email application, although I do find myself using Gmail more often.'
+-
+    name: mindy6886
+    mail: ''
+    subject: 'My favorite email program'
+    hostname: 65.189.202.114
+    created: '1170737313'
+    body: 'I use incredimail and have for awhile now. I really like it.'
+-
+    name: ''
+    mail: ''
+    subject: 'Pegasus Mail'
+    hostname: 80.228.160.231
+    created: '1170786991'
+    body: "It's free as in beer ... but such beer!\r\n\r\nOh -- and on Linux, Evolution.\r\n\r\nAnd when I'm travelling, Squirrelmail.\r\n\r\n"
+-
+    name: Moparx
+    mail: ''
+    subject: 'I personally use Mutt-ng and'
+    hostname: 65.6.185.138
+    created: '1170791336'
+    body: "I personally use Mutt-ng and I don't think I'll ever use anything else.\r\n\r\n-- \r\nLinux: The choice of a GNU generation.\r\n<a href=\"http://www.linuxinfusion.com\">Linuxinfusion.com</a>"
+-
+    name: jzarecta
+    mail: ''
+    subject: 'Gmail and Opera Mail M2'
+    hostname: 192.131.85.3
+    created: '1170797253'
+    body: "These are the clients I mostly use. Since I am an opera user for a long time, it just make sense to use this mail client. I like that is really fast since it uses SQLite as the engine.\r\n\r\nAlexandro Colorado"
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'Proprietary software'
+    hostname: 80.6.124.25
+    created: '1170801474'
+    body: "I won't be doing that I'm afraid as Opera is proprietary software.\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: 'Santanu Chatterjee'
+    mail: ''
+    subject: 'Gmail (Web Based)'
+    hostname: 203.200.188.2
+    created: '1170832882'
+    body: "Gmail (Web Based)\r\n"
+-
+    name: seaeagle
+    mail: ''
+    subject: 'Kmail for me'
+    hostname: 210.1.205.194
+    created: '1170896407'
+    body: "I changed from Thunderbird to Kmail a couple of months ago.  Although it's not as friendly as Thunderbird when it comes to html formatting outgoing messages, it has several other advantages for me.  The main one is that it is integrated into the Kontact suite.  It's nice having my email (Kontact), usenet (Knode), RSS feeds (Akregator), calendar & alarms, address book, to-do's & several other modules all contained in the one program.\r\n\r\nI also like the way it auto-detects & integrates Spamassassin, Bogofilter & Clam-AV."
+-
+    name: PipFree
+    mail: ''
+    subject: Depends
+    hostname: 203.59.209.200
+    created: '1170934978'
+    body: "At home: Eudora, at work:Gmail or webmail ... :)\r\nFamily pc's:Thunderbird x 3 Eudora x 2\r\nbased on access, time, suitability, toolset, functionality, purpose, audience... etc\r\nflexibility and choice"
+-
+    name: 'Fred Chu'
+    mail: ''
+    subject: 'I use Opera/M2 mail client'
+    hostname: 221.237.77.178
+    created: '1171167495'
+    body: "I use Opera/M2 mail client for work and home.\r\n\r\nOn Windows or *NIX"
+-
+    name: ''
+    mail: ''
+    subject: Thunderbird
+    hostname: 202.63.44.33
+    created: '1171341213'
+    body: Thunderbird
+-
+    name: ''
+    mail: ''
+    subject: 'Sylpheed Claws also dropped'
+    hostname: 68.166.253.196
+    created: '1171854387'
+    body: 'Sylpheed Claws also dropped windows support for a while and I switched to Thunderbird.  I just took a peek; and claws does have a binary for Windows.  Damn, I missed claws.'
+-
+    name: gordon_yb0
+    mail: ''
+    subject: 'IncrediMail is my favorite'
+    hostname: 222.93.145.86
+    created: '1172316379'
+    body: "IncrediMail is my favorite\r\n"
+-
+    name: 'Arno Lutz'
+    mail: lgd@arcor.de
+    subject: Claws-Mali
+    hostname: 88.65.3.180
+    created: '1181770634'
+    body: "indeed i use claws-mail in Linux and XP.\r\nTest many clients, in both OS must work.\r\nIf only for Linux best is kmail, for XP TheBat.\r\nThere are not many clients work in both OS so claws-mail is handy, lightweight and fast and handle IMAP."

@@ -1,0 +1,21 @@
+-
+    name: Snappy
+    mail: ''
+    subject: 'Remember DOS boot floppies?'
+    hostname: 203.211.158.253
+    created: '1151897336'
+    body: "Interestingly enough, mid80s era PCs came with no harddisks and required bootdisks which contained the whole operating system. So in a certain sense, LiveCDs are really an evolutionary growth from bootable disks, although I must say that LiveCDs are very very advanced compared to those bootdisks. ;)\r\n\r\n"
+-
+    name: 'Apravasi Arun'
+    mail: hamaraadotcom@gmail.com
+    subject: 'It will make a lot of difference'
+    hostname: 122.162.147.41
+    created: '1187115423'
+    body: 'Live CDs will make a lot of difference in computing world by giving the user freedom to travel with his essential needs. '
+-
+    name: 'Daniel Escasa'
+    mail: ''
+    subject: 'Live USB sticks'
+    hostname: 124.106.141.163
+    created: '1187340384'
+    body: "I'd prefer to run my OS off USB, and I was hoping Harish would mention Puppy and some other USB-capable GNU/Linux distros. USB -- maybe even 1.1 although I haven't tried it yet -- is faster than CD. At least, that's my experience with BeleniX (http://www.belenix.org), another live CD (based on OpenSolaris) that you can also install on USB.\r\n\r\nSpeaking of FreeSBIE, it's not only a live CD but a set of tools for creating live CDs. Since it's a BSD tool, I'm guessing that it can create only live BSD CDs but I have to check. It's what the DesktopBSD project (http://www.desktopbsd.org) uses -- DBSD is a live CD that's also installable, and is what I'm running. If I recall rightly, Dragonfly (http://www.dragonflybsd.org) is also a live BSD CD, also installable. Lastly, there's the OpenBSD-based Anonym.OS. So that's at least three BSD live CDs. There's also a small 50MB BSD live CD, mainly for rescue, whose name escapes me at the moment.\r\n\r\nAs an aside, although I give them props for the neat tools, I retch at the forced acronym -- Free System Burned In Economy.\r\n\r\nI believe DistroWatch lists down those live CDs in addition to several others, some of them DOS-based, and either points to or hosts the .torrents.\r\n---\r\nDaniel O. Escasa\r\nIT consultant and writer for hire\r\ncontributor, Free Software Magazine (http://www.freesoftwaremagazine.com)\r\npersonal blog at http://descasa.i.ph"

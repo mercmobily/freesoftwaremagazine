@@ -1,0 +1,77 @@
+-
+    name: sepreece
+    mail: ''
+    subject: 'Another argument'
+    hostname: 64.198.211.64
+    created: '1220044570'
+    body: "While I agree that the pragmatic reason for extending copyright to binaries was that Congress accepted the argument that there needed to be a way to protect software, I think there is also a reasonable rationale.\r\n\r\nThe argument (which I don't claim as original to me!) is that the binary is not an independent work, exactly because it is mechanically-produced. Rather, it is the SAME work as the source-code version, merely in a different form, and therefore protected by the work's original copyright. This is pretty much the same as would apply if someone tried to print a book reset in a different typeface. It's still the same book, despite the mechanical processing. The very lack of creativity creates the equivalence.\r\n\r\nNote, though, that even if you treated the binary as a translation of the source code, which would be more natural, it would still be protected, since translation is one of the rights reserved to the author.\r\n\r\n[IANAL/TINLA]"
+-
+    name: steveballmer
+    mail: ''
+    subject: Cheapscates!
+    hostname: 98.244.150.240
+    created: '1220150890'
+    body: "Whay can't you people ever want to pay for anything?\r\n\r\n\r\n\r\nhttp://fakesteveballmer.blogspot.com\r\n\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Really about hardware, of course...'
+    hostname: 68.93.224.4
+    created: '1220234298'
+    body: "Perhaps. It's one of those edge cases where you could argue back and forth endlessly. The problem I see with your argument, is that it still assumes that the manufactured product made from the design is a \"work\" (in the copyright sense) at all.\r\n\r\nThis is not considered to be true for PC boards or chip masks, for instance -- even though they are actually made by printing processes! Nor is it seen to be true for parts made on a cutting machine or a 3D printer, even though these are equally mechanistic \"copies\" of their respective design documents. It certainly doesn't apply to CNC lathe or mill products made from CAM files, no matter how much or little supervision is required in applying them.\r\n\r\nA compiler, on the other hand, often requires extensive supervision to produce a usable binary on any given new platform -- so it could be argued that it is much more like a CAM file than like a printing press. So, I think it's easier to understand the inclusion of binaries as an exception.\r\n\r\nOf course, the point here is not so much that copyright \"shouldn't\" extend to binaries, but rather that it would've made just as much sense for it not to have been so extended. And that would've made the copyleft in the currently written GPL practically toothless.\r\n\r\nI'm hoping that this \"what if\" approach makes it easier to understand what the problem is with creating copyleft licensing for hardware (or any design derivative which _isn't_ copyrightable). IOW, the problem with copyleft for open hardware is exactly the same problem as would've occurred for free software had the courts decided not to extend copyright to binary executables.\r\n"
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'an ugly solution?'
+    hostname: 85.5.103.146
+    created: '1220647789'
+    body: "To summarize: the problem with physical products/hardware (as opposed to digital files/software) is that copyright law doesn't acknowledge the step of manufacturing hardware based on a plan/documentation as making a derivative work. Thus, to prevent people from building hardware based on your plans without sharing their modifications you cannot use copyright law, right? \r\n\r\nSo we need contract law (like EULAs use). But there the problem is: when and where does the act of concluding that contract take place? \r\n\r\nOne ugly solution would be to require people to go to a website and click on a 'I agree to the following contract'-button in order to being able to download the plans or documentation. That way you'd have your contract signed. Obviously it would need to contain a clause that says you aren't allowed to copy/redistribute the plans/documentation but through a similar mechanism where the new recipient has to sign the same contract again. I admit, it's complicated and ugly but I guess it would work, wouldn't it?"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'That''s option #2'
+    hostname: 68.93.224.4
+    created: '1220671204'
+    body: "Well, that was my option #2. I've already pointed out the holes in that one in the article. I don't think it would work in practice, and a lot of people would consider it \"non-free\" as well.\r\n\r\nI prefer option #3 (that's why it comes last!): make creating a derivative work trigger an agreement to copyleft the products.\r\n\r\nThis doesn't require a EULA, clickwrap, or any of that kludgy stuff.\r\n\r\nIt has the downside that people who simply manufacture from your design don't have to deliver source code to the customer. But that's okay, because the customer can get the source code directly from you (because it's the same source code as you delivered to the manufacturer).\r\n\r\nBack before the internet made dissemination of information so easy, that might have been burdensome (on the designers), but it just isn't a problem today.\r\n\r\nThe critical thing is when a manufacturer _improves_ the design (standing on your shoulders, so to speak). When that happens, you want the _quid pro quo_ of copyleft to kick in and make sure that those improvements go back into the pool of available information (or at least to the customer who receives the product).\r\n\r\nBut in order to make that improvement, the manufacturer had to _derive_ (or \"adapt\") the original work. That is a copyright privilege, so doing it implies acceptance of the license (just as with any other free license).\r\n\r\nIf the license then includes an agreement to distribute source code with the resulting product, then the improved design will be published as an obligation of deriving from the original design work. And that closes the copyleft gap.\r\n\r\nWhich is my recommended solution to the problem."
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: yeah
+    hostname: 85.5.103.146
+    created: '1220692125'
+    body: "yes, it's option #2, except that you couldn't get around clicking the button by just removing it from the open source code because the file you want is on a server...\r\n\r\nah, yes, seems you are right. I thought it was legal to make an unauthorized derivative work as long as you don't publish it. But at least under US copyright law this doesn't seem to be the case and thus your option #3 works great! \r\n\r\nSo why doesn't that <a href=\"http://www.openhardwarefoundation.org/\">Open Hardware Foundation</a> employ a lawyer to write a general free/open hardware license based on that principles!?"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Well, because lawyers are'
+    hostname: 68.93.224.4
+    created: '1220721405'
+    body: "Well, because lawyers are expensive.\r\n\r\nSo I'm writing the draft (my second attempt, actually -- the first one was too complicated). Fortunately, a lot of this can be done by learning from other licenses. Which is not unprecedented.\r\n\r\nDiscussion is on the OHF licenses list, which you can join at:\r\n\r\n[OHF Licenses (mailing list)](http://openhardwarefoundation.org/mailman/listinfo/ohf-licenses_openhardwarefoundation.org)\r\n\r\n(Though having just had a hard time finding that, I realize we are not doing too well at marketing).\r\n\r\nOnce we have something to start from, then we'll start hacking it apart again to make sure we're covering the things designers will be concerned about.\r\n\r\nAfter that, I hope we can have a lawyer _review_ the license. This is not that different from what has happened with other free licenses.\r\n"
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'wow, that''s cool! As soon as'
+    hostname: 85.5.103.146
+    created: '1220733588'
+    body: "wow, that's cool! As soon as you have a draft I'd recommend making it available for review and announce it at some places to get feedback from as many free/open hardware developers/participants as possible. \r\n\r\nIf the OHF's name is their motto, they are certainly the right forum to draft, discuss, finalize and then promote such a license. Good luck!\r\n\r\nAnd just as a suggestion: maybe it would help to reorganize the OHF website a bit in order to get the following three things a bit differentiated (as I stopped looking for a Open Hardware license when I had read the general 'about' text on the home page and thus didnt find your efforts either):\r\n<ol>\r\n<li>Open Hardware definition, license, distribution, theories etc.</li>\r\n<li>Open Graphics Project</li>\r\n<li>General stuff about Open Hardware and other projects</li>\r\n</ol>"
+-
+    name: Jovomia
+    mail: ''
+    subject: '"...there are many other'
+    hostname: 118.96.181.64
+    created: '1257743700'
+    body: "\"...there are many other cases where an information product (a design, schematic, or Computer-Aided Design/Computer-Aided Manufacturing (CAD/CAM) file) is used to drive production of products which are not covered by copyright...\" Do you have any proof of this statement? I'm working as CAM freelancer and never found copyright issue.\r\n\r\nMia Jovovich"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Misparsing?'
+    hostname: 68.116.159.234
+    created: '1259850712'
+    body: "I think either you are misunderstanding what I said, or I'm misunderstanding what you said:\r\n\r\nThe text you quoted is essentially just a _definition_ of CAM, which you obviously know exists: you use a computer file in combination with some CNC machinery to make a physical product.\r\n\r\nYour statement appears to confirm what I said, not refute it -- copyright does not interfere with you making products from copyrighted plans.\r\n\r\nAre you asking for _additional_ proof to confirm your own experience?\r\n\r\nI think it's a fairly basic legal principle that copyright doesn't extend from a plan to a thing made using that plan, even for CAM data. I don't have any legal precedents to back it up, though, and I am not licensed to give legal advice anyway. If you really want to make sure that what you are doing is legal, you'd probably need to consult with a lawyer.\r\n"
+-
+    name: designthemedia
+    mail: ''
+    subject: 'still looking for the best license for my open source hardware..'
+    hostname: 82.243.78.217
+    created: '1301134680'
+    body: "hello,\r\ncurrently designing a new opensource hardware soundmachine.\r\n\r\nI targeted a GPLv3, but I'm interested by TAPR OHL.\r\n\r\nI'll license the software with GPLv3\r\nBut the hardware ?!\r\nI read about the OSHW (http://freedomdefined.org/OSHW)\r\n\r\nMy purpose:\r\nforbid any company to kill the opensource chain!\r\nit is my main purpose.\r\n\r\njulien bayle"

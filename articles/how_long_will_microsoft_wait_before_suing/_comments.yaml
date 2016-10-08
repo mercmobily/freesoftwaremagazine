@@ -1,0 +1,112 @@
+-
+    name: 'Edward Macnaghten'
+    mail: ''
+    subject: 'Microsoft have more to lose than gain over real action'
+    hostname: 62.253.128.14
+    created: '1163380977'
+    body: "The greatest advantage to MS over this is FUD - that is Fear, Uncertainty and Doubt over the IP of Linux.  They do not have to sue anyone to spread this to those who matter to Microsoft (CTOs who are thinking of switching from MS solurtions).\r\n\r\nAlso, if they sue the negative publicity they would get in mainstream press would be enormous, and if they should lose the damage would be extraordinary.  They will try and get the uncertainty to simmer indefinately.   That is where the gains to them are IMHO."
+-
+    name: funkinspain
+    mail: ''
+    subject: Domination
+    hostname: 196.25.255.195
+    created: '1163432294'
+    body: "It is a possibility that MS are trying to ensure that they stay in the server/desktop market by allowing Novell Suse boxes to play nice and enhance services, but there is also the wee chance that MS could just be trying to learn from the pros and use the \"experiment\" to seize an opportunity to bring out there own MS *nix server, which would allow MS *nix servers to be implemented at a marginal cost, bundling in Windows server licenses... Then they can pounce on anybody who has any proprietary implementation of code etc in their distro. Mmmmm. Maybe we should all just play nice with those out of the MS bed, keep developing separate projects (go PHP/Perl/Python/Ruby) and just try to creep in a better option than .NET (net = trap!!!).\r\nI reckon they will try and do one over on most/all linux distros, but the open source movement seems to be quite resiliant. (K)Ubuntu... keep inspiring!"
+-
+    name: beranger
+    mail: ''
+    subject: 'They might not sue, but...'
+    hostname: 86.35.80.10
+    created: '1163433462'
+    body: 'They might not actually sue anyone -- but they might want to ensure that legally-wary corporations would only buy Linux from a single vendor (Novell), thus diminishing the market share of Linux.'
+-
+    name: thlinux
+    mail: ''
+    subject: 'Microsoft Smash!'
+    hostname: 207.13.167.2
+    created: '1163435578'
+    body: 'Contrary to my subject I don''t think they have any interest in persuing legal action. Outside of piracy it would not behoove Microsoft to draw attention to itself by initiating lawsuits. I think Microsoft should avoid anything that could put it on the international radar as the big bad wolf. They already have half of Europe coming down their trail.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I agree that FUD is their goal, not real legal action'
+    hostname: 68.93.224.4
+    created: '1163437440'
+    body: "I don't think Microsoft will sue until conditions force them to in order to maintain credibility. They are better off with just maintaining a threat, because an actual lawsuit carries too many risks.\r\n\r\nIn a way, we want them to sue, because that will force either a quicker realization that their patents lack merit, or indeed that the whole concept of software patents lacks merit, making it easier to tear down our present broken system. But of course, that's not what Microsoft wants.\r\n\r\nThe one really good thing about this agreement, in my opinion is that it makes Microsoft's threat much more concrete than it was before, perhaps so much so that declaratory judgements can be pursued to prove that Microsoft's patents are invalid, even before they attempt to take legal action. That'd be expensive, though, and I'm not sure who'd be willing to pay for it.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Are MS patents even valid?'
+    hostname: 213.132.153.91
+    created: '1163590355'
+    body: 'Last time I checked, M$ holds a patent on scrollbars. When did M$ invent the scrollbars? please help me here because I''m lost'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Are any software patents valid?'
+    hostname: 68.93.224.4
+    created: '1163626384'
+    body: "That's not really the point. Software patents are an absurdity to begin with (they're on par with patenting mathematical expressions, in my opinion). So in a way, <em>all</em> software patents ought to violate the obviousness criterion.\r\n\r\nBut the courts have not seen fit to interpret it that way, so they remain an unpredictable threat.\r\n\r\nThat's why Microsoft is better off <em>threatening</em> lawsuits rather than actually pursuing them: there's too much chance they would lose. Even if they don't lose, there's also a chance that the action would prove to a much broader public just how ludicrous and destructive software patents are (for example, it might keep them from ever being instituted in Europe, and might even get them eliminated in the US).\r\n\r\nBut as long as they don't have to put their cards on the table, they can get a lot of mileage out of bluffing -- look how long SCO has gotten away with it (and don't forget that many people think Microsoft is using SCO as a test balloon to try out the strategy it wants to pursue against the free software 'menace').\r\n\r\n"
+-
+    name: chanakya
+    mail: ''
+    subject: linux
+    hostname: 219.64.70.94
+    created: '1163702131'
+    body: 'till now i don''t know about linux but i want to learn linux in one month because it is essential to manage the database systems.'
+-
+    name: 'Branko Majic'
+    mail: ''
+    subject: 'For how long?'
+    hostname: 195.252.116.144
+    created: '1163777622'
+    body: "The real question all of us should be asking is for how long will we be \"protected\" from those kind of lawsuits. At the moment, we, as users, are not affected that much. It's not profitable for big corporations to sue indivudals - yet. But, if the legal system changes, we might find ourselves pretty deep in you-know-what.\r\nAs for the developers, well, it just depends of how big the developer team is. It's not that easy to sue on the KDE or GNOME development teams, they're just too big. But some smaller developers, especially the individual programmers, might find it problematic, beacuse all the big corporations need to do is send them a threatening letter. They wouldn't have, except for several head-through-the-wall people, neither the will, nor the resources to fight off such big companies. For example, here is what happened with the developers of <a href=\"http://club.cdfreaks.com/showthread.php?t=138061\">pxlinux</a>.\r\nBy the way, I think that M$ is pretty well established in Europe, primarly beacuse of the (sigh) \"piracy\" (arrgh;). For example, my country, Serbia (formerly part of Yugoslavia, if you'd like), has a contract with M$ for using their operating systems throughout the government. And, to be honest, it's just beacuse the politicians here received money (bribe) from M$ (yeah, I don't have proofs, but I do know our polliticians). Not to mention that you can buy a CD with M$ XP almost anywhere on the street, or the fact that universities, especially those involved in informatic and programming, are approached by M$ and offered a \"free\" use of their OS-es during the schooling of a student.\r\nBesides, the M$ doesn't have to sue the free software project teams, but only the distro maintainers - and I think that this move with Novell clearly shows that.\r\nI'd also like to agree that, at this time, they will mostly gain benefits from this contract with Novell beacuse of the FUD effect.\r\nWell, we're gonna fight them, and we're gonna fight them with all we've got!"
+-
+    name: Pollywog
+    mail: ''
+    subject: 'oh, suing not "using"'
+    hostname: 69.12.173.117
+    created: '1163821255'
+    body: "When I first read the poll and replied, I read it as \"...how long do you think Microsoft will wait to start using...\"\r\n\r\nI visited the site today and either the question has changed or I made a mistake when I saw it the first time... it is \"suing\" not \"using\".\r\n\r\nI think they will start suing in a year or so, as opposed to \"using\" in 5 yrs."
+-
+    name: ajt
+    mail: ''
+    subject: 'They will threaten to sue'
+    hostname: 84.12.191.1
+    created: '1163862788'
+    body: "I think MS will threaten to sue, enough to cast FUD about. They don't really want to actually sue anyone, it's expensive, makes them look bad/stupid, they could lose, and worst of all they may wake IBM up who have more patents than god.\r\n\r\nBasically MS want everyone to think they own all the core bits in Linux and other OSS projects and then hand them money - sort of like a protection racket. It's much easier and safer to threaten something than it is to actually do anything.\r\n\r\nMicrosoft are in an awkward place and they know they are - even if Balmer and Gates are in denial:\r\n\r\n<ul>\r\n<li>MS software is costing them a lot to develop</li>\r\n<li>MS software is slow to develop</li>\r\n<li>MS have canibalised pretty much all the PC market they can</li>\r\n<li>Everyone in the industry hates or distrusts them - even their partners</li>\r\n<li>MS products cost more than OSS to buy and run - and most people know it</li>\r\n</ul>\r\n\r\nMicrosoft know that their monopoly bubble will either burst or opensource software will gradually erode their margins to such a point that Microsoft can't afford to compete anymore. Vista must have cost a fortune to develop, compared with GNU/Linux what does it offer that's new and or better? It may be a better XP, but frankly so what? Microsoft can only afford to pay their huge labour costs with high margins, you can't build a cathederal without a lot of cash!\r\n\r\nUnless Microsoft do something radical - which is possible, they are currently drinking at the last chance saloon."
+-
+    name: ''
+    mail: ''
+    subject: 'Why ?'
+    hostname: 71.167.171.52
+    created: '1164058391'
+    body: "Microsoft does not own FOSS. So why should I be sued by them for writing or using FOSS ? Did I miss something ? Since when did Microsoft become supreme  God and Lord of anything and everything computer related ? Do I have to get permission from Gates, Ballmer  and the Gods of Redmond to write printf(\"%s\\n\", \"Hello World\");   ??\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Its the same strategy of the RIAA'
+    hostname: 83.49.142.96
+    created: '1164066684'
+    body: 'Sue a handful users and scare the rest away from Linux, this is relatively cheap but most damaging. There is an important difference, though: Linux users are doing absolutely nothing illegal: To successfully perform this plan Microsoft must be able to bend the law in such a way that it outlaws independent Linux development althogether, and this is something that is sooner or later come in the way of some big company (Google, for one could arrive as a white knight, and would earn BIG KUDOS and eternal gratefulness for defending the community, moreover, they use their own distro of Linux, derived from Ubuntu, which, by the way does not pay Microsoft protection tax)'
+-
+    name: ''
+    mail: ''
+    subject: 'Mutual Assured Destruction'
+    hostname: 155.104.37.18
+    created: '1164219204'
+    body: 'While Microsoft is and has produced a great deal of FUD about patent infringement, it is unlikely that they will actually initiate any action against users or even developers.  Large companies tend to use their portfolios of software patents as defensive weapons.  They use their portfolios to sign cross-licensing deals with each other as a method of self-defense.  This leaves the little guys out in the cold, but even then it would be unwise for someone like MS to go after the little guys, because even they may have a patent or two up their sleeves,and MS stands to loose more than they would gain.  The real threat is from patent firms, companies that produce nothing but acquire intellectual property.  They have no products and therfore do not infringe on anyone elses patents, thus no counter-claims are possible to keep them in check.  Should MS start suing individual open source developer/users, they would most likely unleash a flood of patent lawsuits and counter-claims against MS filed by those same developers.  MS has historically faired poorly in patent lawsuits having to cough up millions to other firms.  If big software business thought things all the way through they would realize that software patents are the industry''s version of mutual assured destruction (MAD), and like nuclear weapons, its not big guys you have to fear, its the little guys.  The only real solution is complete disarmament, get rid of software patents.'
+-
+    name: morleron
+    mail: ''
+    subject: 'Re: Microsoft have more to lose than gain over real action'
+    hostname: 71.115.168.63
+    created: '1164239343'
+    body: "You are essentially correct.  However, the FUD will be greatly enhanced when MS announces their first patent suit.  The folks at MS don't care how we perceive them, they only care about how Joe User or Syd the PHB see them.  The strategy will revolve around calling those of us in the F/OSS community communist-oriented rebels who are intent on destroying all that is right and good about America, beginning with the destruction of Intellectual Property rights.  When one considers how little most people understand the issues involved it will be easy to paint us as the evil ones and cloak MS as the company that dares to stand up and defend the American way.\r\n\r\nThe best way for us to fight back is to continue to educate the public about what our movement is about - liberty and the freedom to do what you want with the computer equipment, CDs, DVDs, etc. that you own.  We need to come up with a convincing demonstration of the advantages of our way versus the the harm caused by MS-backed Digital Restrictions Management.  It wouldn't take a lot of investment to do it.  I think that if Joe and Jane User see a demonstration of what the future of DRM holds for them they'll vote with their pocketbooks and all the lawyers of the RIAA. MPAA, MS won't be able to resist the economic pressure to change their ways.\r\n\r\nJust my $.02,\r\nRon\r\n--\r\nThe problem with the U.S. is that the people fear the government\r\nmore than the government fears the people. - Me\r\nGnuPG key available at: pgp.mit.edu"
+-
+    name: 'Branko Majic'
+    mail: ''
+    subject: 'Ah, the law...'
+    hostname: 195.252.116.45
+    created: '1164273592'
+    body: 'The problem is that this is not about common sense, it''s about the law (at least the USA''s law). I do agree with your opinion, but the problem is the way the legal system functions. There is law, and there is justice, and those two terms are NOT the same - in fact, quite often, the law goes againts the justice.'

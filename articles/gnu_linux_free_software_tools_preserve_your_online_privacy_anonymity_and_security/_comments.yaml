@@ -1,0 +1,35 @@
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Nice piece, but...'
+    hostname: 212.159.106.192
+    created: '1215814854'
+    body: "Well constructed argument, well presented. Nice one.\r\n\r\nBut - I'm not entirely convinced that setting up your own DNS server or cache will necessarily increase protection to your privacy. Whilst you may not be requesting the IP address from the ISP, you will be routing the web content via them and surely any ISP worth their salt will log client web requests. The fact that those requests are for IP addresses may not do much to protect you in the long run. Your request (e.g. visit to that site) is still logged on their servers.\r\n\r\nAnd there's little you can do to prevent that data being logged somewhere. Along the path between the webhost and you those packets will pass through several routers, some of which will log your IP address and that of the page you were visiting. To  certain extent the sheer size of the datastream will protect you but given enough time and resources who knows...?\r\n\r\nOh great - now I'm going to be thinking about this all night!\r\n\r\nStill, great article though.\r\n\r\nCheers  \r\nRyan"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'encrypted proxy'
+    hostname: 68.93.224.4
+    created: '1215819750'
+    body: "AFAIK, Ryan, the only way to avoid the issue you're describing is to use an encrypted proxy to a trusted server. Then, requests can be traced to the proxy, but it will be difficult to trace it back to you.\r\n\r\nThere are [anonymizing services](http://en.wikipedia.org/wiki/Anonymizer) such as [Tor](http://en.wikipedia.org/wiki/Tor_%28anonymity_network%29) that allow many different people to use the same proxy network, and have their message routed through random different proxies, with all users' requests mixed up.\r\n\r\nIn that situation, it becomes possible to track what sites are being visited collectively by members of the network (I don't think it's easy, but it should be possible), but not which members are viewing which sites.\r\n\r\nThe Wikipedia article I linked to explores some of the strengths and weaknesses of such systems -- they aren't perfect.\r\n\r\nNeedless to say, that kind of privacy is appealling, but I've never actually used it, because AFAICT it's not that easy to set up, and might not work with all sites (some sites will block proxies, apparently).\r\n"
+-
+    name: Tyler
+    mail: ''
+    subject: 'ping trick...'
+    hostname: 142.68.253.201
+    created: '1216089870'
+    body: "How does ping know the address of www.google.com is 64.233.167.99? Doesn't it have to look it up from a DNS server, just like your web browser? If it doesn't need to look up the address, then why do we need DNS for other applications? \r\n\r\nSomething isn't right here...\r\n\r\n"
+-
+    name: iraysyvalo
+    mail: ''
+    subject: 'Nice review'
+    hostname: 193.6.151.39
+    created: '1216114032'
+    body: "Hi Terry, nice review.\r\n\r\nFor the DNS cache part, I have also one remark, your cache would still need to fetch the IP address at least once, so from which DNS server would it get that ? \r\n\r\nOne solution maybe is to point the DNS cache to some public DNS ???\r\n________________________\r\nLet's go party."
+-
+    name: punund
+    mail: ''
+    subject: excuse-moi
+    hostname: 84.245.215.40
+    created: '1217198495'
+    body: "How on earth setting up a DNS server can improve anyone's privacy??\r\n\r\nIf you make a paranoid assumption that an evil ISP logs your requests to their DNS servers, what would stop them from logging _any_ DNS requests since all your traffic is flowing through their gateways anyway?  Cache or not, it needs to be fetched once in a while, every cache expires sooner or later.\r\n\r\nEven if you manage to hide your DNS requests somehow, you were not making them just for the sake of it.  Probably you needed IP addresses of hosts to connect to them.  So all your other traffic is absolutely the same, http, smtp, p2p or anything else, free to be logged and analyzed.  If I were that ISP, I would be even thankful for filtering out nonsensical DNS traffic for me, so I can concentrate on the really interesting stuff: websites you visit, authentication data etc.\r\n\r\nBesides, anonymity on the net has made it pile of garbage, at least, vast amounts of it.  There are very rare cases when anonymity is justified, and there can be no justification for _massive public_ anonymity, as on almost every forum.  People are so much more selective as to what to say when held accountable for their words."

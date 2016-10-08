@@ -1,0 +1,42 @@
+-
+    name: Fercen
+    mail: fercen@gmail.com
+    subject: 'Well researched and nicely'
+    hostname: 194.237.142.7
+    created: '1177508634'
+    body: 'Well researched and nicely written article. Thank you for sharing the knowledge.'
+-
+    name: 'Chris Trotman'
+    mail: chris@ilikelinux.geek.nz
+    subject: 'Ext2/3 Under windows'
+    hostname: 203.173.160.10
+    created: '1177565865'
+    body: 'http://ext2fsd.sourceforge.net/ - ext2fsd works fine under windows with my ext3 journaled partition, my only hassle with it is that it doesn''t automatically mount my partitions for me :)'
+-
+    name: 'Lawrence D''Oliveiro'
+    mail: ldo@freesoftwaremagazine.com
+    subject: 'Linux, not GNU/Linux'
+    hostname: 203.118.156.111
+    created: '1177576355'
+    body: 'Just a note that none of the filesystems you mention have anything to do with GNU. Native development of ext2/3/4 has always been part of the Linux kernel, and NTFS support for Linux was also done for the kernel, not for GNU. Thus your use of the term "GNU/Linux" is incorrect, it should be "Linux".'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: Explanation
+    hostname: 84.97.181.253
+    created: '1177752632'
+    body: "There is one occurrence of 'GNU/Linux' in my article: when I talk about a system to compare with Windows - right now, the only 'pure' Linux systems one can find are embedded ones (or highly experimental Linux/BSD or Linux/Solaris ones). Don't forget that as soon as you get a Bash shell, you're basically using a GNU/Linux system...\r\nOtherwise as you said, since the ext2/3 drivers are part of the kernel, I use 'Linux' alone. And that I did - thus my single use of 'GNU/Linux' was correct, and I did exactly as you said for the rest.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Not sure it''s much better'
+    hostname: 84.97.181.253
+    created: '1177754031'
+    body: "From what I could read, it doesn't support journaling either - it may just disable the journal when mounting an ext3 partition (it used to not mount an ext3 partition as rw, only as ro). Note that Ext2ifs does the same, the journal is merely re-enabled when mounted under Linux afterwards (I'm talking about the kernel, here).\r\nExt2ifs is much older, has reached 'stable' status, comes with a nice installer and management tool... For now I recommend it.\r\nNote that there are two drivers by this name: one by John Newbigin (version 0.3) which I have tested and which works quite well altogether and is GPL, and another by Stephan Schreiber (which is merely freeware). For the purist I recommend Newbigin's version (it is GPL but doesn't work under Windows XP SP2), otherwise Schreiber's version (version 1.10, no sources) works very well. Between the two it's a toss-up (although Newbigin doesn't recommend the use of his driver any more, he recommends the use of read-only explore2fs user-mode utility).\r\nNote that Free implementations of Ext2/3 file system drivers have stalled; all the ones I could find are at least 2 years behind.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Warning: security fix in version 1.516'
+    hostname: 84.100.56.107
+    created: '1179438862'
+    body: "If you used ntfs-3g 1.417 setuid root on a system without fuse loaded at startup (but dynamically loaded at mount time), there was a risk of privilege escalation on specially rafted machines. Upgrade to 1.516.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."

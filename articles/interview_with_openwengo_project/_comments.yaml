@@ -1,0 +1,21 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Centralised Contacts'
+    hostname: 193.251.54.112
+    created: '1175757971'
+    body: 'I think this point is the key to the adoption of any VOIP/Messenging software. If you look back at the development of Skype, it didn''t integrate this feature t first and was as a consequence not very well adopted. As soon as this feature was implemented, Skype took off. Look back in their forums and you will see what I mean (compare the date of posts and the rate of deployment of skype)..... Nough'' Said.'
+-
+    name: 'Graham Perrrin'
+    mail: grahamperrin@gmail.com
+    subject: 'very crashy release candidate'
+    hostname: 139.184.30.18
+    created: '1176829295'
+    body: "I tried 2.0, too unstable. \r\n\r\nToday for the first time I tried 2.1 release candidate 2 for Mac (Intel). \r\n\r\nCrash after crash after crash after crash after crash. \r\n\r\nI have filed bug reports but with respect, I should never expect this level of instability from a release candidate. "
+-
+    name: abaro
+    mail: ''
+    subject: 'I had downloaded and tried'
+    hostname: 218.1.49.249
+    created: '1177984942'
+    body: "I had downloaded and tried this latest version from OpenWengo, it is really great product, it is going ahead fast. OpenWengo fixed lot of errors, like some audio error message is only in French, it can work fine for Mac, Win and Linux. Great free software.\r\n\r\n<a href=\"http://www.softsea.com/\">software reviews</a>"

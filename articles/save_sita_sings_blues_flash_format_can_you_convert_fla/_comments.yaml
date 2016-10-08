@@ -1,0 +1,35 @@
+-
+    name: stonebit.org
+    mail: ''
+    subject: 'It''s available in OGG & more...'
+    hostname: 153.2.247.34
+    created: '1264818236'
+    body: "http://www.archive.org/details/Sita_Sings_the_Blues\r\n\r\nIt's available in OGG, h.264, mov (QT), & DVD ISO (unencrypted) for video. This is in a number of resolutions, including 480p through 1080p (h.264), and available uncompressed (QT). I think the OGG video is SD res/quality. In just audio: wav, flac, ogg, & mp3.\r\n\r\nI'm guessing you didn't try google and if you did, you didn't check the 2nd link down (googled \"download sita sings the blues\").\r\n\r\nAnyway, yes flash sucks. But don't go knocking something (like Sita) before doing a little research."
+-
+    name: stonebit.org
+    mail: ''
+    subject: 'and there''s always bit torrent'
+    hostname: 153.2.247.34
+    created: '1264818545'
+    body: 'Since it''s legal to redistribute the film, just get it from a torrent site, like the one with the pirate ship and what not.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'SOURCE CODE'
+    hostname: 68.116.159.234
+    created: '1264981103'
+    body: "Please pay attention: This article is about converting the _source  data_ of the _Sita_ film from its original Flash-specific proprietary format to a free _source_ format.\r\n\r\nExamples of the latter include SVG and SIF format.\r\n\r\nThe video is of course available in a variety of free formats, and the original source format (FLA) has been made available by the author.\r\n\r\nNo one is \"knocking\" Sita!"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'More on source data...'
+    hostname: 68.116.159.234
+    created: '1265081265'
+    body: "When I said that Nina Paley didn't know how to convert the files, I wasn't guessing -- I _asked_ her about it, and she said she didn't know how to do it (but would like to convert them). This article is an attempt to pursue the problem further so as to help her out with that problem. I will of course, also be attempting some other channels.\r\n\r\nThe reason we want source data for the film is the same reason you want it for a piece of software -- it would allow you to make derivatives and reuse the materials in more complex ways.\r\n\r\nFor example, it is possible to create art composed from Sita by freeze-framing the video and carefully selecting elements from it with Gimp. But the image quality will generally be low, and you're limited to compositions that actually occur in the film.\r\n\r\nThe FLA on the other hand, contains vector representations of many of the animation \"cels\" which are used in animating the film. Being able to extract these and work with them directly would enable extraction of arbitrarily scaled, high-quality artwork. It also gives you the same kind of compositional freedom that the artist had when she put them together to make the film.\r\n\r\nIf Paley herself were to attempt to create further derivative works from Sita, or use elements in later works created using Synfig, she would need this capability. Not being able to do it means that she is \"locked in\" to using proprietary Flash software to do her animations.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Erratum: Hanuman -> Ravana'
+    hostname: 68.116.159.234
+    created: '1265151725'
+    body: "Um, I appear to have made a slip of the brain... it should read \"the evil king _Ravana_\", not \"_Hanuman_\". Hanuman is a \"good guy\" in the story -- the monkey king who finds Sita.\r\n\r\nApologies. (It's fixed now -- Thanks Tony!).\r\n"

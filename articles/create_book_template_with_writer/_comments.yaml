@@ -1,0 +1,21 @@
+-
+    name: Harry
+    mail: hrry@hot.ee
+    subject: 'short and fine, very'
+    hostname: 88.196.34.232
+    created: '1193914682'
+    body: 'short and fine, very explanationary, thank you'
+-
+    name: 'Anonymous visitor'
+    mail: spoogle.warren+spam@gmail.com
+    subject: 'Great, just one more question...'
+    hostname: 165.132.193.205
+    created: '1196698840'
+    body: "Ok, I lied, two:\r\n\r\n1) How do you get page numbering to differ throughout the book?\r\nEx. If I want the title page and copyright to have no numbering (and not be counted in later page numbers), the Forward to have i, ii, iii, iv numbering, and to start on its first page and not be counted as part of the book's normal page numbering, and then for the Table of Contents and the rest of the book to use normal page numbering... How do you manage that?\r\n\r\n2) On a related note, how do you get headers/footers (containing titles, page numbers, whatever) to mirror on the 'outside' of the top/bottom of pages (on the Right_Pages they're on the right, and on the Left_Pages they're on the left)? \r\n\r\nThanks for the really great tutorial! You should let Lulu.com know, they'd almost certainly link some of their FAQ's to your page (traffic = good!)"
+-
+    name: 'Anonymous visitor'
+    mail: spoogle.warren+spam@gmail.com
+    subject: 'One other idea'
+    hostname: 165.132.193.205
+    created: '1196878280'
+    body: 'One other thing that would be useful would be using headers/footers to display the book name and the chapter title - I''m looking around now to see how to get chapter title fields into the header...'

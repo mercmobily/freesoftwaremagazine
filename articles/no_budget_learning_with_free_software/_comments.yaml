@@ -1,0 +1,21 @@
+-
+    name: 'Robert Pogson'
+    mail: ''
+    subject: 'Good article on user software but what about the infrastructure?'
+    hostname: 24.76.250.60
+    created: '1186413708'
+    body: "TFA presents a reasonable plan to maintain/synch a collection of thick clients. SSH scripts in the school can easily maintain a bunch of thick clients this way and copies can be distributed to students/parents to share the environment.\r\n\r\nIn the long run, expect the system to grow. If the budget of the school is tight (a given, these days), how is it go grow? If thick clients are added some new problems arise: back-ups, space, power consumption, and noise, to name a few. I strongly urge any organization to consider thin client architecture. Most of the problems of growth can be minimized by restricting power, noise and back-ups to the server room. Old/donated PC can serve as thin clients and the hard drives can be removed/disconnected or just used for booting if the BIOS does not support PXE. A 1.5 GHz PC, with 50 MB RAM per client+256 MB for the OS can support 10 to 15 clients and only one machine needs software maintenance/back-up. Eventually, the school may be able to have one newish PC with abundant resources and it can serve most if not all of the school. New thin clients are very inexpensive, about $139/box. Combined with LCD monitors, a new thin client is a very compact and quiet client. Some fairly large organizations buy used thin clients on e-bay very cheaply. These things are simple to install and last for years.\r\n\r\nAnother technology worth examining is the multi-seat thick client. Using multiple video cards/keyboards and mice, the cost of a new box per seat can be $100 or so. Old machines with added memory and video cards works well. A gigabit/s NIC helps if these are used to make X connections to a terminal server. Modern PCs lean towards very powerful video cards so suitable used cards can be very cheap. A single PC can thus serve 6 to 12 seats in a classroom or library, making excellent use of hardware and budget. Groovix publishes their scripts for multiseat with Nvidia cards freely. They support Ubuntu.\r\n\r\nIT can be a force multiplier in education. I suggest looking to the future and considering what is needed in education. With a good server, one can add databases, PHP scripts, encyclopaedia, image databases, course and school management and search functions to support education/learning. Using a cluster of older machines, even a school on a tight budget can do a lot. Centralizing the desktop can provide many benefits, among them avoiding the need to install software on many machines.\r\n\r\nRobert Pogson\r\nCanada\r\nsee http://pogson.6k.ca for articles on Linux in education\r\nsee http://www.freesoftwaremagazine.com/articles/linux_terminal_server for how easy it is to set up a Linux terminal server with EdUbuntu. Ubuntu also has LTSP-related packages.\r\nsee http://ltsp.org for information on Linux terminal servers\r\n\r\nA problem is an opportunity."
+-
+    name: 'Thilo Pfennig'
+    mail: ''
+    subject: apt-cache
+    hostname: 86.103.200.222
+    created: '1186417527'
+    body: "Hey btw: You dont need to be root to run apt-cache because this is just a search tool so! So you can forget about the \"sudo\".\r\n\r\n-- \r\nThilo Pfennig\r\nBlog: http://flinux.wordpress.com/"
+-
+    name: Kletskous
+    mail: ''
+    subject: 'Good news'
+    hostname: 77.250.66.120
+    created: '1186485233'
+    body: "Good news from the Netherlands! Gave it some thoughts on my (dutch) blog:\r\n\r\nhttp://www.kletskous.com/2007/08/07/vrije-software-in-het-onderwijs-negentiende-editie-free-software-magazine/\r\n\r\n\r\nCatharina\r\n\r\nhttp://www.open-of-course.org"

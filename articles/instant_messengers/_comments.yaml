@@ -1,0 +1,49 @@
+-
+    name: rooy
+    mail: ''
+    subject: libjingle
+    hostname: 58.187.197.207
+    created: '1181075227'
+    body: "Great summary, I like history lessons.\r\n\r\nAccording to this page http://wiki.jabber.org/index.php/Jingle_(XEP-0166), there's at least two things named Jingle, which are XEP-0166 and Google's libjingle. There might be confusion when talking about the name.\r\n\r\nAnd I see from http://code.google.com/apis/talk/libjingle/license.html that Google's libjingle is free software, so other clients can implement it. Probably with a different filename than XEP-0166 implementation."
+-
+    name: CyberCod
+    mail: straightshootincomputin@yahoo.com
+    subject: 'You seem to have left Qnext'
+    hostname: 66.38.51.68
+    created: '1181094403'
+    body: "You seem to have left Qnext out of your little article there, its a java-based multi-messenger, connects to the big four, plus IRC, as well as their own protocol.  Don't quote me but I think it has webcam support via their own protocol, and its available for Win, Mac and *nix.  It also has built in remote desktop control (windows only) and peer to peer (ie no filesize limits) file transfers, photosharing, user-hosted chat, and some simple games.  Being Java based, most of it works the same regardless of which OS it is on.  You should check it out.   \r\n\r\nwww.qnext.com"
+-
+    name: mattflaschen
+    mail: ''
+    subject: Kopete
+    hostname: 71.224.192.74
+    created: '1181098306'
+    body: 'Good article.  I like Kopete, but I''m not picky since I don''t use audio or video.  However, Kopete does let you assign names to buddies (right-click, "Rename contact").'
+-
+    name: 'Anders Jackson'
+    mail: ''
+    subject: 'There is one more solution to multi protocoll clients'
+    hostname: 130.243.4.29
+    created: '1181171747'
+    body: "First, a good article.\r\n\r\nYou could also use a server side gateway to connect to other IM services.  And Jabber support that, which they call Transport.  It works as well (or even better) than the multi protocol clients I tried (which usally is quite bad when it comes to Jabber).\r\nMy experience is that they support many protocols, but not very good.  Jabber-only clients usally supports Jabber much better.  And it is just a matter of register at a Transport service at a jabber server, for instance Jabber and ICQ, to be able you connect to other IM services. There are lots of gateways out there that give you that service for free.  \r\nOne more thing with Jabber which makes it a better choise, in my opinion, is that there are more services than just chat that is comming along in Jabber.  Like connections between different web services and your IM account.  The other propritary protocols are much harder to use for this kind of services.  Just ask <http://imified.com/> about that (which is a cool application by the way).\r\n\r\nYes, and you can be logged into same account from many computers at the same time.  Try that with MSN and your account on the other machine will be logged out (except through a Jabber Gateway).\r\n\r\nAnd I forgot, I use Gajim, http://gajim.org/, as it is an excellent Jabber client which has a very god integration with Gnome. And I chat with MSN, ICQ and IRC with that one. And yes, you can rename contacts and put many contacts togethere under one name."
+-
+    name: MindReader
+    mail: mindreader@email.com
+    subject: 'The Future of IM on Linux'
+    hostname: 71.56.30.64
+    created: '1181349678'
+    body: "Things look good for the future of IM on Linux. Most projects seem to be moving toward using and contributing to the Telepathy project which provides an set of connection managers that can be used via Dbus.\r\n\r\nCheck it out:\r\nhttp://telepathy.freedesktop.org/wiki/"
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Thanks
+    hostname: 68.197.66.72
+    created: '1182366618'
+    body: "Thanks for the heads up!  It does indeed look promising.\r\n\r\n--\r\nAndrew Min"
+-
+    name: 'Anonymous visitor'
+    mail: root@anon.com
+    subject: 'Nice. Thanks.'
+    hostname: 77.46.198.214
+    created: '1184865138'
+    body: 'Nice. Thanks.'

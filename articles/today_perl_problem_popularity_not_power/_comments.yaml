@@ -1,0 +1,70 @@
+-
+    name: 'Roland Lammel'
+    mail: lammel@cpan.org
+    subject: 'With a grain of salt...'
+    hostname: 148.198.192.17
+    created: '1195215799'
+    body: "Very nice article.\r\n\r\nAlthough very subjective on the topic, the article expresses an undispiteful truth that perl lost momentum in popularity some years ago. This was also addressed in an inspiring lightning talk on YAPC::Europe 2007.\r\n\r\nNo perl is not dead, it probably never will be. Very recent results from the perl survey (http://perlsurvey.org/) show that perl is still alive and well, but loosing ground for the younger programmers. But...\r\n\r\nIn today's IT decision for projects are not based on \"the right tool for the job\", but rather on the \"most popular tools for the job\". Therefor IT managers and project leaders tend to decide for the big players, backed by big companies like Java, C#. On the other hand, away from commercial interest, people tend do decide on tools for easy development and deployment. So many decided to go for the PHP and in the later years python route, perl is not popular enough, that mod_perl is installed on every host, nor are the pitfulls in developing mod_perl application easy to grasp.\r\n\r\nThis mostly results in people outside of the very active perl community, to not even consider perl for their project. Of course reducing the chance of actually being chosen to 0.\r\n\r\nBut let's not forget, Perl is not facing a problem with it's power, but more with the popularity. This is also one of the things that the community starts to realise. It is not enough the we, how know perl, like it... we have to get the word out for perl. Focus at least in a marketing context to reduce choices and flexibility but on the other hand make perl more accessible to newcomers and managers.\r\n\r\nRecent efforts like perlbuzz.com are the first signs of getting there."
+-
+    name: 'Anonymous visitor'
+    mail: jjn1056@yahoo.com
+    subject: 'I''d like to add that the'
+    hostname: 66.11.223.82
+    created: '1195238667'
+    body: 'I''d like to add that the Moose framework (http://search.cpan.org/~groditi/Moose-0.29/) has added a whole new spirit and dimension to Perl5 which is great since it''s inspired by the Perl6 meta object model.  I''d really encourage anyone to explore it!'
+-
+    name: 'Anonymous visitor'
+    mail: visitor@freesoftwaremagazine.com
+    subject: 'Would you please cite'
+    hostname: 216.170.235.248
+    created: '1195265045'
+    body: "Would you please cite numbers to back your claim that Perl popularity is declining?  Thank you.\r\n"
+-
+    name: PerlPilot
+    mail: perlpilot@pobox.com
+    subject: 'perl''s popularity'
+    hostname: 75.55.116.165
+    created: '1195426377'
+    body: "<cite>The effort that led to starting the Perl6 project aimed, beyond other things, at improving the strengths of the language (i.e. its power) while, at the same time, attempting to regain some of its former popularity.</cite>\r\n\r\nThat's strange.  I don't recall it <b>ever</b> being a goal to \"regain perl's popularity\".  Perl 6 has always been an effort to take the lessons learned from Perl 5 and other languages and build a better tool.  If that makes it \"more popular\", great!  If it doesn't, oh well. Useful tools will be used though."
+-
+    name: 'Flavio Camus'
+    mail: chicuco@gmail.com
+    subject: 'PERL''s power'
+    hostname: 200.71.207.126
+    created: '1195495228'
+    body: "As system administrator, i only can express teh joy of program in perl. Easy, short, powerful. Iv been using it since 8 years, and i never been disappointed. Its the  swiss army chainsaw at last. \r\nI think other projects like python can left behind perl only for simplicity or fancy code, but the complete set of modules still in the hearts of the old fashioned 'nix system administrators.\r\nGood article.\r\n "
+-
+    name: 'Marco Marongiu'
+    mail: ''
+    subject: 'Re: *'
+    hostname: 217.133.8.17
+    created: '1195596860'
+    body: "Hello everybody\r\n\r\nI am replying to this comment to reply to all others. Moreover, since this post is quite similar to the ones posted by chromatic on the \"use Perl;\" site (see http://use.perl.org/~bronto/journal/34907), I am posting a slightly modified version of the reply I posted there, leaving it to you to go and read the full thread.\r\n\r\nYes: I think that Perl6 is not going to gain a sensitive audience compared to what Perl5 has. That's what I wrote, it's my own, personal opinion, and in fact it is in my blog on FSM (no, it was not an article).\r\n\r\nLet me stress again that I am not scorning what the developers are doing to make Perl6 finally dock. Being into the \"free software movement\" (for whatever it means) for many years I know that people does what they can, when they can, and unless some \"external intervention\" comes up, no one can tell when a certain piece of software will be released (Debian GNU/Linux, my favourite distribution, is one good example of that).\r\n\r\nI am not saying that Perl6 is going to fail. No, not at all. Go back, read it again. I'm not saying that.\r\n\r\nI'm not criticizing the amount of effort developers are putting into Perl6. No. My opinion is that you will succeed in improving the language and empower the people that are currently using Perl5 and all those that will want to give Perl a try. Nobody's questioning Perl5 power (not me), and nobody is saying that Perl6 would be worse than Perl5 (not me, again). I am talking about my personal feelings on the matter, that are shared by someone (like larsen on Perl.it or Roland Lammel here on FSM...), and not shared by others (like chromatic on use.perl.org).\r\n\r\nAbout the point that popularity was not a goal for Perl6, which arose here on FSM, I remember an article I read years ago that I can't find again (if someone has a pointer that would be greatly apreciated). That article told of a meeting about Perl's future held at OSCON2000, with Larry Wall and all other Perl's \"core people\" of that time. In that meeting someone (maybe brian d foy?) strongly said that if something didn't change, Perl was not going to succumb to Java and all the other emerging languages of the time. From that one could deduce that along the goal of making Perl better than Perl, there was also the goal to make Perl more popular.\r\n\r\nI'm sure the objective of making Perl6 better than Perl5 will be achieved.\r\n\r\nWhat I am questioning is that Perl6 is not going to make Perl more popular than before. And no metrics exist for that (as well as there probably aren't to measure whether Perl6 will be better than Perl5). These are opinions. If we talk about a \"measurable\" demonstration of an opinion, we are not talking about an opinion anymore, but about a truth. That's why I am not sure it does make sense to discuss the matter this way (in fact, I think this could be more spoiling for Perl6 thank my opinion alone).\r\n\r\nBut since you ask for numbers and facts, I'll do my best to bring them. Done that, I'm not going to discuss anymore unless the discussion cools a bit.\r\n\r\nIf you take the \"State of the Onion\" of 1999, Larry Wall showed a little statistic based on the job offers in dice.com (see http://www.perl.com/1999/08/onion/talk.html). Not finding any detail about that research anymore, I did my own little research a few hours ago for the following keywords:\r\n\r\n  * java\r\n  * c++\r\n  * c#\r\n  * Visual Basic\r\n  * Javascript\r\n  * perl\r\n  * PHP\r\n  * python\r\n  * cobol\r\n  * ruby\r\n  * smalltalk\r\n\r\nNote I: c#, PHP  ruby are newcomers compared to 1999 research;\r\nNote II: the following numbers for Visual Basic are the sum of the research for \"VB\" and \"Visual Basic\"\r\n\r\nThis is what came out at around 15:30 GMT+1 on Sunday, November 18th:\r\n\r\n   1. java         17169\r\n   2. c++           8424\r\n   3. c#            7656\r\n   4. Visual Basic  7228\r\n   5. Javascript    6771\r\n   6. Perl          5768\r\n   7. PHP           2384\r\n   8. python        1335\r\n   9. cobol         1146\r\n  10. ruby           672\r\n  11. smalltalk       68\r\n\r\nSo we have Perl at 6th place, 5th if you leave the C# newcomer out. Compared to the 1999 research, this is a -3/-2 places.\r\n\r\nIf we take the newcomers into account, perl has 9.84%; it's difficult to tell from the graphs how much it had in 1999 precisely, but it doesn't look that bad. If we don't take newcomers into account and we limit ourselves at the 1999 competitors, we have a 12.04%.\r\n\r\nNow, every statistic should be interpreted. My interpretation is that Perl is less requested than more other languages, which means to me that it is less popular than before. By the way, it is almost keeping its market share, which means to me that he's keeping its old audience while the other emerging languages are competing between them for the top of the chart.\r\n\r\nNow you have numbers, but you had opinions again -interpreting a statistic is giving an opinion, isn't it?\r\n\r\nThere could be more things to say, but this comment is too long already.\r\n\r\nCiao\r\n--bronto\r\n"
+-
+    name: ricegf
+    mail: ''
+    subject: 'One Pythonista''s Opinion'
+    hostname: 70.249.136.80
+    created: '1195649681'
+    body: "I used Perl exclusively for my dynamic language until around 2004, when I transitioned (for the most part) to Python. The biggest driver for changing was the growing size of the apps I was creating - Perl's object-oriented support just seemed primitive next to Python's elegance, or maybe my brain was just shaped wrong for OO Perl. I even came to love Python's significant indentation, to my surprise.\r\n\r\nThat said, I still return to Perl when I just want to shred a few text files and produce a report. It's unmatched at quick-and-dirty text processing.\r\n\r\nI've watched Perl 6 rising from afar, rather disappointed at the \"slow\" pace but generally approving of the design. It shows great promise.\r\n\r\nOnce it's \"finished\", I hope that Python-on-Parrot becomes a major Python alternate implementation (like Stackless, Jython, IronPython, or PyPy - the BDFL is very approving of alternate implementations...). I would love to be able to mix Python, Perl and Ruby in the same app with a common set of libraries on a widely-ported virtual machine. It might even replace CPython as my favorite dynamic language environment.\r\n\r\nSo though I haven't said it in a while - Go, Perl!  :-)\r\n\r\n"
+-
+    name: fragglet
+    mail: ''
+    subject: 'It''s horrible.'
+    hostname: 217.35.91.11
+    created: '1196785819'
+    body: "I programmed in Perl for a while because at the time it was the best tool for the job.  It's really useful and important to know a high-level scripting language, as low level languages like C simply aren't appropriate for many things.\r\n\r\nHowever, I always hated it.  It has an inconsistent and confusing syntax, and once you get beyond the simplest of operations, higher level programming concepts like OOP are simply hacked in to the language in the most horrible way.  To top it off, it doesn't even have a proper garbage collector.\r\n\r\nI was hugely glad when Python and Ruby became popular enough to be as useful as Perl, and for me, they have now completely replaced it.  It's been several years since I needed to write a Perl script now; I have no need to do so and I would never choose to do so.  I can think of no real reason to recommend learning Perl nowadays.  Everything that it is useful for can be done in other languages, and those languages are simpler, more consistent and, frankly, much less painful to use."
+-
+    name: fragglet
+    mail: ''
+    subject: 'Programming language popularity'
+    hostname: 213.123.201.126
+    created: '1196786343'
+    body: "It's easy to assume that picking a programming language based on its popularity is just an arbitrary choice, something done by managers without any real logic.  The fact is that there are real world reasons why it is a very good idea to use popular programming languages.\r\n\r\nFirstly, the more popular a programming language is, the more libraries there are likely to be for that language.  A programming language by itself isn't very useful; often there is some specific external library that you need to use.  If you want to process XML, you need an XML library, for example.  Even if you think it has all the libraries you need, you might need to extend your program in the future.\r\n\r\nSecondly, as with any piece of software, the more popular it is, the better tested it is.  This extends to the libraries as well as the interpreter/compiler; it's all very well having an XML library but if it's just something a teenager hacked together in a few days and doesn't work very well, then it's next to useless.\r\n\r\nFinally, maintainability is a key issue.  If you pick an obscure language for writing a piece of software, and get hit by a bus tomorrow (or leave the company) then the company is screwed.  Suddenly they don't have anyone who can maintain the software crucial to the business any more.  In contrast, it's much easier to find Java or C developers."
+-
+    name: darkat
+    mail: ''
+    subject: 'It WAS the best'
+    hostname: 87.12.5.141
+    created: '1255987087'
+    body: "I agree with the author about the qualities of Perl. I wrote in Perl for over 10 year and still do, from time to time. \r\nI loved Perl but I moved away from it due to new and more consistent languages that appeared on the scene. These languages incorporated many of the strong points of Perl and left off the weaknesses. Knowing Perl could be still useful but it is not mandatory as 15 year ago."

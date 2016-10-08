@@ -1,0 +1,14 @@
+-
+    name: ''
+    mail: ''
+    subject: 'NTSC frame rate'
+    hostname: 203.118.156.111
+    created: '1170975064'
+    body: 'Yes, ffmpeg is a pretty useful tool. Just a note, the -r value for NTSC is 29.97, not 29.'
+-
+    name: ''
+    mail: ''
+    subject: 'Is Soxmix packaged with Sox?'
+    hostname: 67.180.17.194
+    created: '1173943889'
+    body: "I downloaded Sox from sourceforge, configured and made it, but it doesn't seem to include soxmix.  \r\nIs there a special configuration flag that needs to be set in order to enable soxmix?\r\nI'm trying to find a command-line tool that can mix two MP3s, and soxmix seems to be a perfect fit."

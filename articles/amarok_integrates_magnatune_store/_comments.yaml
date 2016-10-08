@@ -1,0 +1,77 @@
+-
+    name: ''
+    mail: ''
+    subject: 'They should still leave a'
+    hostname: 74.119.160.168
+    created: '1162733826'
+    body: 'They should still leave a version of it without that. I don''t want that crap cluttering ym music player.'
+-
+    name: 'Tim Cowlishaw'
+    mail: ''
+    subject: 'well, as it is free software...'
+    hostname: 212.58.231.174
+    created: '1162744750'
+    body: '...you could always create a Magnatune-less fork of the project! ;o)'
+-
+    name: ''
+    mail: ''
+    subject: 'Re: cluttering'
+    hostname: 80.203.65.49
+    created: '1162745855'
+    body: 'You can right-click on the vertical tab and uncheck Magnatune store if you like, but a better option would be to have it like a plugin of course...'
+-
+    name: ''
+    mail: ''
+    subject: 'It''s simple to remove it'
+    hostname: 80.202.137.23
+    created: '1162748425'
+    body: "It's realy simple to remove the music store from the Amarok interface. So whats the big deal?\r\n\r\nI think the Amarok team did a very good job intigrating it. Well Done! I also think it's nice  of Magnatune to let you chose the format you want. MP3, Ogg, Flac or even Wav."
+-
+    name: ''
+    mail: ''
+    subject: 'quite true, but we don''t'
+    hostname: 68.48.94.77
+    created: '1162756362'
+    body: 'quite true, but we don''t need pointless forks.  We need developers who understand that some people want a music PLAYER not a music STORE that plays music.  So, have an option and all will be cool and no needless forks.  Forks have their place (the GCC problems), but it''s better to try and get it resolved first.'
+-
+    name: ''
+    mail: ''
+    subject: 'what do you mean'
+    hostname: 68.149.170.14
+    created: '1162762239'
+    body: "what do you mean \"cluttering\"? It is in a separate tab, which you can disable from the \"Manage Tabs\" menu if you don't like it.\r\n\r\nIMO it is a really great addition to Amarok, I just bought an album from Magnatune to support it."
+-
+    name: ''
+    mail: ''
+    subject: 'You don''t have to look at it'
+    hostname: 24.50.92.60
+    created: '1162763292'
+    body: 'you can easily hide the tab so you never see it.'
+-
+    name: ''
+    mail: ''
+    subject: Magnatune
+    hostname: 84.9.221.176
+    created: '1162765632'
+    body: 'Now all Magnatune needs is a decent music catalogue.  How about an Amarok interface with evil iTunes? There is already an application called Sharp Musique which will allow you to interface with the iTunes music store, just  integrate that into Amarok.  Probably a lot of red tape involved. Big problem I run into trying to convert MS devotees to Linux is the infamous question, "Will I be able to use iTunes on it?"  Then I switch into my Amarok sales pitch which doesn''t go very far.'
+-
+    name: ''
+    mail: ''
+    subject: 'Music Player?'
+    hostname: 24.182.251.176
+    created: '1162786330'
+    body: 'Uhh, it seems to me that Amarok has been much more than a music player for a very very very long time.'
+-
+    name: ''
+    mail: ''
+    subject: 'Magnatune a direct Alternative to iTunes??  I think not...'
+    hostname: 70.65.13.13
+    created: '1163628824'
+    body: "Until Magnatune can get some mainstream artists into it's catalog, I wouldn't be calling it an alternative to iTunes.  At the moment the best I think it can be called is a complement to iTunes.  It seems like a good place to go and get some great music from minor artists (which I personally plan to check out) and their catalog seem quite large for a startup which is impressive.  However, in the previous poster's Amarok sales pitch, this is probably one of the reason's why his/her pitch dies so fast.\r\n\r\nUnfortunately, not all people are willing to spend the extra time in the \"unknown\" to find things (be it solutions to problems, or music they like), as I find most Open-Source users to be.  Most iTunes users I know go to iTunes for a couple reasons:  first it has most of the mainstream artists available (and they are simply not into indie bands unless they have been played on the local radio stations) and secondly, it is far easier for them to pay a bit to iTunes to get a good digital copy of something, rather than rip it themselves (or \"borrow\" a copy off limewire or whatever).\r\n\r\nDon't get me wrong, I think Magnatunes is a great idea, and I for one will be taking a close look at it.  But then, again, I am an open-source user and love to find new indie artists, etc.  Perhaps Magnatunes integration with Last.fm would be a smart move as well, since there seem to be a lot of people on there that have a wide variety of musical tastes."
+-
+    name: ''
+    mail: ''
+    subject: 'MagnaTune isn''t a music player'
+    hostname: 128.61.73.81
+    created: '1168329539'
+    body: "You're barking up the wrong tree.  Amarok's a \"media manager\" or whatever you want to call it.\r\n\r\nUnrelated note: The post says, \"This work is licensed under the Creative Commons Attribution-ShareAlike 2.5 License.\"  I don't know if this means the blog post or what, but Magnatunes music is apparently under Attribution-NonCommercial-ShareAlike 1.0 (http://creativecommons.org/licenses/by-nc-sa/1.0/).  See http://magnatune.com/info/license"

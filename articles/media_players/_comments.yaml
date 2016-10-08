@@ -1,0 +1,189 @@
+-
+    name: Lorian
+    mail: ''
+    subject: MPlayer
+    hostname: 80.6.186.72
+    created: '1186407880'
+    body: "I think you're not being fair with MPlayer. MPlayer is primarily a command line program, it was never meant to be a GUI program. The GUIs thare are put on top of MPlayer are often quite poor.\r\n\r\nIf you know how to use MPlayer it can be very powerful and works well without an unnecessary GUI getting in the way.\r\n\r\nMPlayer is designed for the more advanced user. There are better alternatives for the average user, but if you know what you're doing nothing beats it."
+-
+    name: Nobody
+    mail: amarok@dodgit.com
+    subject: Amarok
+    hostname: 216.145.49.21
+    created: '1186431407'
+    body: 'Amarok doesn''t play video, but it''s beautiful for music. Absolutely beautiful.'
+-
+    name: 'Naresh V'
+    mail: ''
+    subject: 'I agree with Lorian'
+    hostname: 220.225.2.107
+    created: '1186435458'
+    body: 'Just take a look at http://www.mplayerhq.hu/DOCS/man/en/mplayer.1.html and be amazed :}'
+-
+    name: martin-s
+    mail: martin.sandsmark@gmail.com
+    subject: 'Codeine?'
+    hostname: 193.90.237.195
+    created: '1186438438'
+    body: "Codeine is *the* video player when it comes to ease-of-use. Install it and play. It's for KDE, but for me that's just a bonus.\r\nIt uses Xine as a back end, so it is configurable, but you really don't have to configure it, Xine has pretty sane defaults.\r\nAnd just adjust your contrast, and stop whining about the washedoutness? (Press \"v\" in codeine to get video settings with brightness, contrast, etc.)"
+-
+    name: 'Tinku Sampath'
+    mail: ''
+    subject: 'A little contribution to the review!'
+    hostname: 202.53.13.106
+    created: '1186462898'
+    body: "In the review, you really missed other important media players like Kaffeine, KMplayer etc. \r\n\r\nFor me, Kaffeine's interface is best comparing that of all other media players available for GNU/Linux. At the same time I expect more and more work from Kaffeine developers to make its interface more easy to use. Kaffeine in default is based on the popular Xine libraries. It gives an option in its menu to adjust the 'Xine Engine Parameters'. I think the area where the Kaffeine developers has to work is to simply these configuration options especially the 'media device' settings where they are representing the CD/DVD devices using the unix name (eg:/dev/hdb etc.). It would be better if they can represent these devices in detailed manner (eg: SONLY CD/RW etc.) like Totem. And other things which I would like to see is the placement of 'sound equalizer' and 'video controls' beside the play control tool bar since these options are not visible at a glance. KMplayer's strength is that it is based on the high quality Mplayer libraries. But its interface has to grow a lot. \r\n\r\nI think after the arrival of different front ends (both Qt and GTK based) to both Xine and Mplayer liraries, the XineUI and GMplayer become less tried now a days."
+-
+    name: 'Anonymous visitor'
+    mail: none@none.com
+    subject: 'If you want a good MPlayer'
+    hostname: 87.204.12.85
+    created: '1186471544'
+    body: "If you want a good MPlayer frontend try SMPlayer ( http://smplayer.sourceforge.net/en/index.php )- it's easy to use, rich featured and avaliable for Linux and Windows. \r\nOh, and it's my default player on my Kubuntu laptop :)."
+-
+    name: 'Eric Drake'
+    mail: ''
+    subject: 'This is barely an article on media players.'
+    hostname: 74.94.221.221
+    created: '1186523342'
+    body: 'It''s difficult to take an article like this seriously at all.  I mean what is the point if your are already running Windows as your native operating system and for which there is plenty of "free" / "open source" software for watching video, to watch a video in a virtual Ubuntu installation ?  (Other than maybe pretending to write an article on video players for Linux).  I can''t really  think of a reason why the average user (forget enterprise here) would ever need to run a virtual Linux box on Windows.  Now running Linux natively with a virtual Windows machine I can understand because there might be some things one is doing for which there is no substitute in Linux, but the other way around simply makes no sense at all.  Or am I missing something ?  It''s doubtful that setting up virtual Linux machines on Windows is hardly going to take the average Windows user world by storm as a somehow preferred way of watching a video.  So who is this article for ?  People who are running Linux as their native operating system don''t need to know how it runs in Windows !'
+-
+    name: 'Eric Drake'
+    mail: ''
+    subject: 'This is barely an article on media players.'
+    hostname: 74.94.221.221
+    created: '1186523687'
+    body: "It's difficult to take an article like this seriously at all.  I mean what is the point if your are already running Windows as your native operating system and for which there is plenty of \"free\" / \"open source\" software for watching video, to watch a video in a virtual Ubuntu installation ?  (Other than avoiding a reboot).  I can't really  think of a reason why the average user (forget enterprise here) would ever need to run a virtual Linux box on Windows.  Now running Linux natively with a virtual Windows machine I can understand because there might be some things one is doing for which there is no substitute in Linux, but the other way around simply makes no sense at all.  Or am I missing something ?\r\nThis article takes \"kludge\" to the application level."
+-
+    name: CedricMC
+    mail: ''
+    subject: 'Totem over-rated.'
+    hostname: 81.202.28.184
+    created: '1186563793'
+    body: 'Even if my prefered player is Totem, I think it has been over rated. Totem really sucks with DVD playback, despite of it has a lot of minor user unfriendly bugs. But I trust Totem developers will correct them. '
+-
+    name: Kubuntenado
+    mail: juanantonio_garcia_01@yahoo.es
+    subject: 'Of all I have tried: vlc,'
+    hostname: 88.112.249.152
+    created: '1187589128'
+    body: "Of all I have tried: vlc, maplayer, kmplayer and a bit of totem. Kaffeine is by far the best: easy of use, good interface, and lot of possibilities.\r\nWorks best with videos, and Internet streams, as well as mplayer and vlc.\r\nThe digital DVB TV is integrated, supports channel scanning and works as a Personal Video Recording, you can schedule multiple recordings.\r\n\r\nThe truth is that I use several of them as follows:\r\n- Kaffeine for the videos and DBV TV\r\n- vlc for Internet video strams\r\n- mplayer for streaming capturing and converting it to Xvid (mencoder)\r\n\r\nThat is the good thing about Linux, you can do almost everything, but you have to have to get the right tools."
+-
+    name: 'Anonymous visitor'
+    mail: jurgenalansen@gmail.com
+    subject: 'Comment on article'
+    hostname: 133.51.7.235
+    created: '1187591040'
+    body: 'Apart from the fact that the author of this piece is running Linux on a VM, he neglects to comment on what media types the different players can handle. [edited by admin, since it was left as anonymous]'
+-
+    name: 'Anonymous visitor'
+    mail: galuh.utama@gwutama.de
+    subject: 'mplayer is a command line'
+    hostname: 137.226.103.35
+    created: '1187606532'
+    body: "mplayer is a command line application, read the 7954-lines manual and you'll find more features than totem or vlc.\r\n\r\nAlso, you should consider that not everyone uses Ubuntu (or gnome in particular). Totem would likely pull many gnome dependencies when one installs it along with KDE or XFCE. In this case, VLC or mplayer is far better in term of installation."
+-
+    name: 'Ashish Shukla'
+    mail: ''
+    subject: 'Caption on Figure 4 is incorrect'
+    hostname: 122.163.248.237
+    created: '1187628091'
+    body: "Its not VLC media player, its MPlayer.\r\n\r\nAshish Shukla\r\n--\r\nhttp://wahjava.wordpress.com/\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: all_your_base_are@belong.com
+    subject: 'Figure 4 is "Screenshot of'
+    hostname: 83.14.171.202
+    created: '1187646846'
+    body: 'Figure 4 is "Screenshot of the VLC media player", should be "Screenshot of MPlayer"'
+-
+    name: 'Anonymous visitor'
+    mail: dupa@niepodam.org
+    subject: 'MPlayer has one great'
+    hostname: 83.4.123.166
+    created: '1187648787'
+    body: 'MPlayer has one great frontend - SMPlayer. And this article sucks :P'
+-
+    name: irbis
+    mail: ''
+    subject: 'Mplayer & Totem'
+    hostname: 213.243.177.87
+    created: '1187684289'
+    body: "Totem is great but I think Mplayer would have deserved more feature points than just 7 compared to 9 given to Totem. Mplayer features may not be as readily available as in Totem, but there are lots of them. My experience has been that of all the media players for Linux, Mplayer has been the player that has played practically any media I've thrown at it, whatever the format. An example, with Mplayer it is possible to watch ISO files for video DVDs even before they are burnt on a CD/DVD. Try that with Totem.\r\n\r\nwhat Mplayer, mainly a video player, achieves with its rather small GUI, is unobtrusive interface that doesn't fill the screen with unnecessary buttons and bloatf, but gives room for the actual video instead. However, all the options are still there, available via a right mouse buton menu, should you need them.\r\n\r\nI used to have lots of problems with Totem, especially when used with Gstreamer 0.8, and that has been one reason why I have preferred Mplayer instead. However, this article did convince me to try Totem again with all sorts of media material - and, I was positively surprised. Totem has indeed developed a lot, and may also become my other favorite video player for Linux, so thans for the hint. \r\n\r\nHowever, I don't quite agree that Totem would be so much more userfriendly than Mplayer or VLC. For example, it may be a bit too difficult and unintuitive to, for example, go to a fullscreen video mode in Totem. Ok, not that difficult to find that option though, but when I first time tried it, I remember to have tried several things in order to get the still visible and somewhat irritating big controls beside the full screen video to disappear to the background in order to see the video only - before I finally got it that there is just a time period of some seconds after which the controls hide themselves automatically (maybe too long, should be a bit shorter?). (Ok, not that difficult now when I think about it, but it wasn't obvious the first time, at leat for me...) However, it is quite nice from usability point of view that you get to see the controls beside the fullscreen video again simply by just moving your mouse, and don't have to remember some cryptic key codes (like ctrl+F or F) for it."
+-
+    name: admin
+    mail: ''
+    subject: Fixed!
+    hostname: 87.3.177.128
+    created: '1187719475'
+    body: "Hi,\r\n\r\nFixed - thanks!\r\n\r\nAdmin"
+-
+    name: admin
+    mail: ''
+    subject: Fixed!
+    hostname: 87.3.177.128
+    created: '1187719479'
+    body: "Hi,\r\n\r\nI just fixed it - thanks!\r\n\r\nAdmin,"
+-
+    name: 'Chris Lees'
+    mail: webmaster@dancepop.zzn.com
+    subject: 'Incomplete review'
+    hostname: 58.179.211.51
+    created: '1187782024'
+    body: "Any review of Linux media players is incomplete without Kaffeine.\r\n\r\nYou''ve reviewed the Gstreamer backend, VLC, and the Mplayer backend. The other major backend for video playback is Xine, which you didn't review. Kaffeine uses Xine."
+-
+    name: AmyRose
+    mail: amyrose1024@gmail.com
+    subject: 'Yeah, I''m with the rest of'
+    hostname: 69.81.118.3
+    created: '1188150734'
+    body: "Yeah, I'm with the rest of the people who claimed that this review was incomplete; the most glaring omission being Kaffeine.\r\n\r\nYou also neglected to mention that Totem can use either GStreamer or Xine, which really affects compatibility with certain file types. Also, as mentioned before, Totem isn't very good for people who don't use GNOME."
+-
+    name: AmyRose
+    mail: amyrose1024@gmail.com
+    subject: 'Oh, and... Who in their'
+    hostname: 69.81.118.3
+    created: '1188150838'
+    body: 'Oh, and... Who in their right mind would evaluate media players in a VM?!'
+-
+    name: clau85
+    mail: ''
+    subject: 'poor article'
+    hostname: 217.10.60.85
+    created: '1188202601'
+    body: 'This is a very brief, subjective, poorly written article. It is based on summary use of 3 players under Gnome. Really not worth reading, sorry...'
+-
+    name: 'Robin Monks'
+    mail: ''
+    subject: 'Had to use a VM'
+    hostname: 142.167.18.84
+    created: '1188236940'
+    body: "Since my video card is so new no good Linux drivers are available (I'm waiting for the next release of Ubuntu, and hoping that will work with it) VM is the only way.  That said, the video from the VM was just as good as native with no lag, so I don't think it biased the reviews.\r\n\r\nRobin"
+-
+    name: 'Robin Monks'
+    mail: ''
+    subject: 'Re: VM'
+    hostname: 142.167.18.84
+    created: '1188237016'
+    body: "Please look at <a href=\"http://www.freesoftwaremagazine.com/articles/media_players#comment-73631\">my comment</a> above for why I had to use a VM.\r\n\r\nRobin"
+-
+    name: 'Robin Monks'
+    mail: ''
+    subject: 'Planning a revisit'
+    hostname: 142.167.18.84
+    created: '1188237181'
+    body: "I'm planning a revisit of this subject, since it was obvious that I didn't cover many other good free software media players; I want to right that wrong.  As far as subjectivity goes, in the end rating video quality is very subjective, that's why I included the split-frame between the players so people could make their own judgments.\r\n\r\nRobin"
+-
+    name: 'Amy Rose'
+    mail: amyrose1024@gmail.com
+    subject: But...
+    hostname: 69.81.118.3
+    created: '1188877036'
+    body: 'Yeah, but testing video players in a VM seriously threatens your credibility.'
+-
+    name: 'Anonymous visitor'
+    mail: daz@daz.net
+    subject: 'I agree, this comparison is'
+    hostname: 84.9.161.64
+    created: '1191339743'
+    body: "I agree, this comparison is absolutely unfair.\r\n\r\nmplayer is a command line program, meaning that it does not really have a GUI.\r\n\r\nAnd this GUI sucks very badly, like Totem!"

@@ -1,0 +1,329 @@
+-
+    name: 'Desktop Lover'
+    mail: alejandroazarate@gmail.com
+    subject: Yawn
+    hostname: 201.253.128.137
+    created: '1180985182'
+    body: 'I don''t see why different types of computers cannot coexist... the article sounds a lot like people saying "I don''t know why people buy desktops anymore". Some of us like to have a big powerful square box we can dive into, and many non-techies like it because it''s easier to maintain (ever heard of a desktop computer becoming unusable because of coffee spillage? Me neither). Phones/tablets, etc are great, but they''re not going to replace the desktop anytime soon.'
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: portability..
+    hostname: 62.203.135.39
+    created: '1180989924'
+    body: "yeah. maybe you're right. for sure things will get more portable. whethever this is because everybody's got a highly capable phone, a really thin A4-sized tablet-PC (as i proposed earlier...), a OS-on-USB-dongle, or Google will trump us all with one single log-in for its server-side applications - or a mix of them.\r\n\r\nbtw, the only way currently in sight to battle the iPhone:\r\nhttp://en.wikipedia.org/wiki/OpenMoko"
+-
+    name: 'Bridget Kulakauskas'
+    mail: ''
+    subject: 'Microsoft thinks not...'
+    hostname: 165.98.157.37
+    created: '1180995854'
+    body: 'Haven''t you people heard the news? Small is out! Big is in! Microsoft is bringing out a computer the size of a small coffee table! So... do you think they know something we don''t know, or are predicting retro fashion back in a big way, or they are just trying not to be ignored...'
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: 'The desktop may go, but not the desk'
+    hostname: 68.93.224.4
+    created: '1180999533'
+    body: "Although the desktop as we have it today may go the way of the dodo, the role of the desktop will never go.\r\n\r\nOffices will always have desks. Whether the computer is part of the desk, or the desk is a dumb monitor, or the monitor is floating above the desk, I think that people will still work sitting down.\r\n\r\nThe question is where will the memory be stored? Will it be on a phone, or a portable box or somewhere else?\r\n\r\nMy best guess is that in the future, all memory will by stored on centralized multiply- backed-up encoded servers, and that you won't need a phone, just an address and an encrypt key so that you can access everything from any terminal including your phone.\r\n\r\n-R\r\n"
+-
+    name: Corfy
+    mail: ''
+    subject: 'Still a ways to go...'
+    hostname: 74.140.88.77
+    created: '1181005307'
+    body: "I have heard a lot recently about \"the death of the desktop\" and \"the death of the laptop\". Everything from mega-smartphones (my term for \"desktop killers\") to apps that run entirely on the web (like Google Apps) are supposedly making the desktop and laptop obsolete.\r\n\r\nPeople who say that overlook some things, IMHO. \r\n\r\nI spent most of Memorial Day weekend at my in-laws' house. I had my laptop, and my cell phone with me (yes, it is still a cell phone, not a smartphone, although this one does have a built-in camera, I don't use the camera for anything other than changing the picture on the phone screen). My in-laws live deep in the woods and hills out in the middle of nowhere. Cell phones don't get a signal out there, or at the very least, are unreliable. They don't have a computer, but even if they did, they live far enough out that they probably can't get broadband internet. Cable isn't offered in there area (although they can pick up TV signals from two different cities... three when the weather conditions are good).\r\n\r\nThe point is, my laptop was completely cut off from the outside world for that weekend. But other than losing the Internet connection, I didn't lose any capability. I could (and did) write a couple of letters and other documents using OpenOffice.org Writer, crunched some numbers on a personal spreadsheet using OpenOffice.org Calc, I played some of my favorite games, I processed some photos my wife and I took over the weekend using GIMP, and I burnt a couple of FOSS CDs. I even did some searches for old emails from my POP3 account which were stored on my computer, even though I couldn't access new emails.\r\n\r\nIn short, I had no trouble doing my \"work\" on my laptop. If I relied totally on Internet apps, I would have been out of luck. And while mega-smartphones aren't totally reliant on the Internet for applications, the Internet does play a heavy part in their capabilities. \r\n\r\nSo until a mega-smartphone can do most of the work of a desktop without having Internet access, I don't think laptops and desktops have anything to worry about."
+-
+    name: 'Anonymous visitor'
+    mail: bill.gates@microsoft.com
+    subject: nope
+    hostname: 75.56.193.208
+    created: '1181019062'
+    body: 'Wrong.  For people who write documents for a living, including researchers, secretaries, lawyers, etc. the desktop ain''t going nowhere.  Please.  The need for a large keyboard and large monnitor will NEVER go away.'
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'Each to their own'
+    hostname: 165.98.157.37
+    created: '1181020360'
+    body: "I'm an editor and I edit every single piece of content on this site and more. I use a GNU/Linux laptop. My girlfriend is a writer and she uses... a GNU/Linux laptop too.\r\n\r\nI would/will absolutely drop my laptop in a second for what Tony is talking about."
+-
+    name: djheadley
+    mail: ''
+    subject: 'I agree.  I''m one of those'
+    hostname: 4.244.132.92
+    created: '1181021820'
+    body: "I agree.  I'm one of those people who live \"out in the sticks\" and I wouldn't trade it for anything in the world.  No, I don't have broadband or cable but I manage to get along without them.  That doesn't mean that if they were available that I would turn them down!  No, I don't think that desktops or laptops are going away any time soon.\r\n\r\nDJ"
+-
+    name: 'Anonymous visitor'
+    mail: bill.gates@microsoft.com
+    subject: 'missing the point'
+    hostname: 69.228.150.108
+    created: '1181025659'
+    body: 'The point is that there will still be a significant demand for screens and keyboards large enough to use comfortably.  Incidentally, my definition of large kbd/mouse includes laptop keyboards, but even then, lots of people over 40 years of age much prefer larger screens.  The 50+ crowd won''t be impressed at all with the tiny screens all the 20-somethings predict will replace everything.'
+-
+    name: Stubs
+    mail: stuart@mailinator.com
+    subject: 'Each to their own part 2'
+    hostname: 80.229.21.38
+    created: '1181040116'
+    body: "As Dave said above - each to their own.\r\n\r\nI also write (type) a lot for my job. I work in IT on the technical side and there is absolutely no way a small screen phone / pda / whatever is going to replace what I use day to day.\r\n\r\nWhy? Easy, because you cannot realistically display large scale network drawings on a small screen no matter how good the resolution. At best you would be able to see 3 or 4 connected items and their details but after that an awful lot of scrolling around would be required. It would work only if said document could be printed out but then that defeats the point of having the portability.\r\n\r\nThese things will always be useful tools but trying to combine multiple appliances will always leave one feeling dissatisfied with one aspect of the combo. I for one will never seriously buy a phone for its camera - the quality is quite simply too poor and will remain so for very many years to come."
+-
+    name: 'Jonathan Roberts'
+    mail: ''
+    subject: 'Missing the point!'
+    hostname: 88.110.90.7
+    created: '1181042806'
+    body: "I think most of these comments have missed the point! In the article he clearly says that the key to adoption will be an easy way to connect your PDA/Smartphone to *any* larger screen, keyboard and mouse(i.e. You're at a friends house, you want to write a long e-mail: \"Oh, sorry, could I just connect to your screen and keyboard a minute - I've got a long e-mail to write\" - almost straight from the article).\r\n\r\nLarge screens and comfortable keyboards are important! They're not going anywhere, but there's no reason in a world of wi-fi that we can't have small, mobile computers and large screens. Let's not forget systems are getting increasingly powerful too! I'm keeping my eye out for something along these lines, and when it's out - and affordable! - I'll be buying one :D\r\n\r\nThe article was spot on with where things are heading. When/If they'll get there is a different matter, shockingly predicting the future is *hard*!\r\n\r\nJon\r\n"
+-
+    name: 'Matthew Roley'
+    mail: ''
+    subject: 'Interoperability is key'
+    hostname: 82.153.26.195
+    created: '1181042891'
+    body: 'What you''re saying is definitely true for a lot of people, particularly for ''casual'' users who just go in for games, surfing and email.  What''s important though, is not which device a particular person favours, be it desktop, laptop, console, handheld, thin google client or chip-in-the-brain (they all have their applications and I personally don''t believe there is such a thing as ''dead'' technology, someone, somewhere will always find a use for it); the main issue is how these devices will interoperate with each other.  With manufacturers churning out different devices, each with their own slightly differing methods of talking to other devices you end up with the kind of problems we currently see on the desktop; and the success of any particular device will ultimately depend on its ability to successfully communicate with other devices cleanly and without problems; beaming data from my phone to my LCD (or surround sound system, or TV, or coffee-maker) is great, but only if it works everywhere and not just with a subset of devices made by the same company or by a partner of the company.  The Linux kernel is the undisputed king of interoperability, it works and works well on more hardware than any other operating environment, free or otherwise; it can and has been adapted for everything from TVs through consoles to washing machines but the issue remains that none of these systems can really talk to each other except in the most basic and specific of ways (copying photos, sending emails etc).  Yes I want the ability to dynamically switch between my phone display and TV and I want it to be effortless (and resolution independent :), but I also want the rack of processors in my back cupboard to share the load if I''m doing a lot of intensive work on my phone (or desktop, or laptop).  I want my oven to tell my phone (or my TV, whatever I happen to be looking at) it''s finished cooking my dinner or my entryphone to reroute to my mobile if I''ve had to pop out for a few minutes, and I want full and easy control over the whole process.  So many appliances now have processors in them, and so many of them run Linux, but none of them really talk to each other.  In my opinion the Linux community really has to capitalise on its interoperability advantage and design a good solid protocol so that all these upcoming (and current) devices can work together, and ensuring that the centre of our computing world is based upon non-proprietary standards that can work for free for any device, and compelling enough that even proprietary device manufacturers will gain value from implementing it.  Then we''ll start seeing the really cool stuff.'
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Agree
+    hostname: 68.197.66.72
+    created: '1181051459'
+    body: "If I understand you correctly, you think that PDAs are going to be sort of a replacement for the actual computer, but the keyboards and mice are staying.  I agree.  There's no way that keyboards or mice are going anywhere soon.  It's faster to type than even a speech-to-text program.\r\n\r\nThe problem is, I don't think this is going to happen until PDA makers change their thinking.  The idea for now is to cram everything into a tiny \"thing\" that fits in your hand, with a 26 key keyboard and a tiny ball that you use for a mouse.  Surprisingly, it looks like Microsoft is the first to actually embrace your idea (with their UMPC).\r\n\r\nActually, there are some other alternatives (until the PDA makers start moving).  John T. Haller has put together a terrific collection of Portable Apps.  Also, there's the web.  What if every house had a terminal that let you connect to your virtual desktop hosted by Microsoft, Canonical, or someone else?  DesktopOnDemand has already done something like this (you connect via NX to a Linux desktop with 1 GB of space).\r\n\r\n--\r\nAndrew Min"
+-
+    name: 'Matthew Roley'
+    mail: ''
+    subject: 'Smart toilets'
+    hostname: 82.153.26.195
+    created: '1181052049'
+    body: 'I''d also love a smart toilet that can detect my mobile falling and catch it before splashdown; apparently *850,000* mobiles per year in the UK alone suffer this undignified fate.  Could be an untapped market there :o)  Bump to Jon''s post above, the article clearly states the continued need for screens and keyboards.'
+-
+    name: 'Anonymous visitor'
+    mail: m.kleinfeld@gmx.com
+    subject: 'After all you have to keep'
+    hostname: 134.147.31.29
+    created: '1181053470'
+    body: "After all you have to keep in mind that with all these everything-is-connected-at-all-cost thinking for most of the business users reliability is the big thing and that's why the \"I have a phone and an encryption key and access everything over the Internet\" is something that maybe will work somewhere but certainly not for the great mass. For my job in the engineering branch this solution would be by far to unreliable besides the fact that no mobile hardware can live-up to the hardware I have to use in my job and will never do in the forseeable future ( it always comes down to power consumption and waste heat ) . The thing that big screens and keyboards are never going to disappear ( maybe they'll be replaced with some equivalent useful technologies ) is out of question. Moreover it's a proven fact that mobile devices have a much shorter lifetime, lesser resistance to mechanical stress and get stolen by far more often. Those arguements may seem ridiculous to you but for the company I'm working for those are the reasons why they stopped experimenting with different mobile solutions and stayed with a combination of desktop and laptop ( that's usually used as a stationary pc at home by most of the employees :) ).\r\nReliability and security. "
+-
+    name: Ozeuss
+    mail: ''
+    subject: 'evolution but not extinction'
+    hostname: 84.109.59.150
+    created: '1181054176'
+    body: "though PDA might evolve greatly, so will desktop and laptops. laptops still don't overthrow the desktop completely, since they also have their advantages. plus- until there is a major hardware leap in technology, i doubt that a small sized PDA can achieve the computational ability of a desktop. non-techies will still use it. indeed, i think the abilities will overlap more in the future.\r\ngood and interesting article. \r\nwhat I would like to see in this future, is a docking station that could boost the PDA performance aside from charging it/connecting it to peripherals.\r\n"
+-
+    name: 'Cory Mills'
+    mail: coryam@gmail.com
+    subject: Pshaw.
+    hostname: 209.12.46.2
+    created: '1181055024'
+    body: "Pshaw I say, in whole-hearted Wayne's World style.  This will not happen for decades, and for one reason that is not deniable, games.  Assuming people are using large monitors and keyboards with their phone-computers, this will still never come to fruition.  You can't even buy a laptop right now that can match a desktop for pure gaming power.  You think you could fit a DirectX10 capable video card and a quad-core 3ghz processor in a phone?  In 10 years, probably.  But then your gaming desktop will have a 10 gig video card with a super advanced processor that likely produces ungodly amounts of heat, you going to fit a good liquid-cooling system in your phone?\r\n\r\nGamers will always demand the best available, size is irrelevant (to a degree).  Gamers and others that require the highest end drive the market, and as one of that category, I wouldn't even want something like a phone to be my gaming rig.  Something that small won't upgrade or be modified easily.  Want to add 3 more fans to your phone to reduce your CPU temp by 4°C?  Good luck with that.  Oh super advanced game systems like the PS3 will replace computers for gamers..   That thing's doing awesome, right?"
+-
+    name: 'Cory Mills'
+    mail: coryam@gmail.com
+    subject: 'No way'
+    hostname: 209.12.46.2
+    created: '1181056729'
+    body: "Not a chance.  Gamers.  Can you fit a DirectX10 capable video card in a laptop, let alone a phone?  Where's the Quadcore 3ghz processors in these laptops?  Where's the 10k rpm Cheetah drives?  All these aren't even in laptops yet, and have been out in desktops for months.  They'll be in laptops in another 2 years or so, and in 10, maybe in phones.  Then your desktops will outperform them by a factor of 100 again.  \r\n\r\nGet real, gamers and professionals that need extreme hardware drive the R&D and new hardware market.  You will never convince the gaming community that a phone that is 1/100th as powerful as something else they COULD have , regardless of price or size, is a good idea.\r\n\r\nDelving even further into the geek community, how are you going to slap a liquid-cooling system on your phone so you can overclock that sucker?  What if I want to add 3 fans to my phone so I can reduce my cpu temp by 4°C?  30-50 years?  Maybe, if some sort of technology comes out that completely eliminates size as a factor.  But right now, even laptops aren't even in the same league as real gaming machines, phones/pdas/palmtops aren't even playing the sport.\r\n\r\n"
+-
+    name: kcredden
+    mail: ''
+    subject: 'Another thing to consider'
+    hostname: 65.173.142.126
+    created: '1181057355'
+    body: "<em> It will start in 3 or 4 years: there will be a technology to send the signal from your phone to an LCD screen. (This is, in my opinion, the real missing piece in the puzzle.)</em>\r\n\r\nThat I totally agree with. The PDA screen (I use PDA in this, meaning PDA, smart phones, etc.) is almost useless to write anything other than simple text messages, and to read long passages is difficult at best. You got to have a nice screen, and a normal sized keyboard (at least the qwerty keys) to type.\r\n\r\nFor PDAs to even be considered to replace laptops, not to mention desktop, requires several things. \r\n\r\n#1: Laptops have been said to be the desktop killer. But it hasn't happen for one major reason; open architecture. Want a new video card? Open the case and plug it in. Doing that is almost impossible with a laptop. \r\n\r\nGoing into a PDA, your even MORE limited. Want a new OS? That may be nigh impossible. Add a new program? Has to be specially made for PDAs limits, which limits you even more to the amount of software. \r\n\r\n#2: Phone companies want you to subscribe/pay for every little thing. I've thought before it'd be nice to have at least cell phone internet to get e-mails while on the road. Uh uh. The cost would be prohibitive. Last I checked, it was like $30 a month for 28.8kbps. Then your also paying for every byte you download too. It could easily run into $100s a month. \r\n\r\n#3: The biggest thing. DRM. This is another thing that's blowing the foot off music players. Well known fact that even Itunes/Ipod is having problems because people are sick and tired of being told what they can do with devices they buy. I refuse to buy an Ipod because of DRM. I refuse to buy anything though Itunes because of DRM. \r\n\r\nI will not buy a book reader (like Sony's) because of DRM\r\n\r\nThe main thing is; if you want people to buy your devices, stop restricting what they can do with it. Desktops and laptops aren't restricted.\r\n\r\n#4: Proprietary architecture. If you want a particular PDA, you have to buy (for example) Cingular. Go to a different area, you'll need a Sprint phone. \r\n\r\n#5: My main gripe. Hardwired batteries. I've ranted about this before, and it's still a burr in my shorts. I wont' buy a brand new device in 6 months to a year because the batteries died. If you need LION batteries, then allow them to be replaced like regular AA type batteries. Laptops have such, why can't PDAs? \r\n\r\nThe bottom line: Cost, and restrictions. Solve those two problems, then you MIGHT replace the laptop. Until then, I'll keep my trusty T22 Thinkpad.\r\n\r\n- Kc"
+-
+    name: maiis
+    mail: brian.seel@gmail.com
+    subject: 'Remember the *others*'
+    hostname: 158.73.247.16
+    created: '1181060594'
+    body: 'While we may be thinking of how geeks would use these (I actually own a phone very similar to what he is talking about), I don''t think that it will happen that way just because of the "normal people". The people who think that if you get spam, that you need to get a new computer to get rid of it. The people who are scared to even try to do something new on their computer because they think they will break it. The people who fall for the phishing scams. They are out there and they are a huge part of the world. Not everyone adopts/ understands technology like the audience of this site, and they are the reason why this would never happen (widespread).'
+-
+    name: 'Anonymous visitor'
+    mail: jenny@spaml.com
+    subject: feed
+    hostname: 124.43.209.251
+    created: '1181060632'
+    body: "i once left my mobile phone in a taxi. it is pretty easy to lose a mobile phone :(\r\n\r\n\r\nJenny\r\nhttp://www.spaml.com"
+-
+    name: Briski
+    mail: briski101@yahoo.com
+    subject: 'I guess we never learn'
+    hostname: 69.25.144.172
+    created: '1181060979'
+    body: "I love to hear the death of any item being predicted.  The death of television, analog radio, and now PC's and Mac's.  They only die when something better replaces them and people abandon the old technolgies.  Ie...disk over punch cards etc...  A cell phone or a pda cannot do what I need it to do in my job.  And don't forget the baby boomers are getting older.  Small screens will be hard to read.\r\n\r\nSo I guess my feeling, is until something better comes along.  We will wait!\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: whitney.mathew@gmail.com
+    subject: 'missing the (article''s) point'
+    hostname: 65.88.216.214
+    created: '1181062142'
+    body: "You seem to have missed the entire section of the article that discussed the possibility of technology coming up with a way to hook the device up to a monitor (keyboard and mouse is already there with bluetooth).\r\n\r\nMy desktop at home hasn't even worked for a month now, and I'm taking my time getting it running again simply because I only use it as a file server and backup for the laptops in the house. The printer is wireless, the keyboard and mouse on the desktop are wireless, the only wired network in the house is for the crusty last-gen console game systems, and if I need to sit down for some serious typing, it only takes a second to hook up a keyboard to my laptop. If I really wanted to, it would only take a few minutes (and less time after the first) to hook the output up to the living room television. The idea that the same could be done with a smaller device is not in the least bit outrageous or unrealistic, it's simply a matter of time.\r\n\r\nOn the other hand, the bigger systems will still have their places, but not on administrative and editorial desks, rather they will be on the desks of developers and tucked into people's closets or sitting where their DVD players do now. When everyone's using their own computer it should be a relatively short time before they realize they need a good solution for their data to be backed up, and also have a central place to share data with one another (not to mention performing the functions of the DVR and storing the household movie and music collections)."
+-
+    name: Hazydave
+    mail: dave@frogpondmedia.com
+    subject: 'Not gonna happen'
+    hostname: 67.142.130.42
+    created: '1181063787'
+    body: "I don't believe this for a second. Certainly, PCs will evolve along with everything, and my cellphone may some day hook as easily into my PC, my TV, my WiFi network as my DVD player, my digital camera, or my camcorders do. Well, in fact, it does, but I don't have much use to dock the RAZR today. \r\n\r\nThe problem with every Phone++ idea is that, while they add cool PDA, PC, or MP3 player capabilities, they wind up being crappy phones. Back in the days of the fixed-function phone, I had a tiny flipphone that fit in my pocket, and I got a week+ on a battery. Today, the RAZR does a few additional things, it fits my pocket, and the battery lasts two days.. assuming I just use it as a phone. If it's my MP3 player, it'll be common for me to miss calls because the battery died. \r\n\r\nMost PDA/cellphones, while not as large as a PDA and a cellphone duct-taped together, aren't far from it, and may well drop capabilities along the way. If the PDA/Phone doesn't fit my pocket, to me it's not a useful phone, because I'll be leaving it home, just as a left my PDA home back when I used it (I have a Sharp Zaurus, running Linux, but battery life is so bad as make the whole thing pointless... it's collecting dust on a shelf here... and it's too large for the pocket, anyway). \r\n\r\nAnd of course, every cellphone has to run from batteries, or maybe fuel cells some day, but it's inherently a low power device. The cellphone ten years from now might achieve the kind of CPU power my PC has today, but it's never enough, at least in some field (video, CAD, etc)... my PC of the future will still be 250x faster.  Same with display... having a 320x400 pocket display is pointless for virtually everything I do on my PC, it's even painful reading email. I have dual 1600x1200 monitors on my PC, and will certainly upgrade to something HDish (both) once the prices drop a little. The useful work I do is marginal with 100MB storage... I have 2TB on my home computer. So something very revolutionary has to occur in storage to make it pocketable... and I'm not talking hard drives here, since that'll kill your battey life. Probably something like MRAM, and tons of the stuff. \r\n\r\nUntil then, sure, there are some web-based things people do that may play on small screens. Some today maybe real, most are likely just Gee-Whiz, ain't this cool stuff. Anyone using an Web application is not really PC-dependent today... they could do that same thing on a smart terminal or the Nokia pad or anything else that can run a Web browser... so moving them to a different web browser isn't really displacing the PC in the way being suggested, unless you someone imagine everyone's going to give up the security of fast, local computing and storage for something remote and slow. When I can edit my 50GB video files over a wireless internet connection as fast as I can locally, independent of any activity-based slowdowns (eg, all the problems the net has today), let me know.\r\n\r\nAnd there's big resistance to change for change's sake, or even for good reasons. If you're just using the Web, maybe that Nokia tablet is a good idea... but who's using it. Much of corporate America today could dramatically reduce office costs going to cheaper PCs running Linux and, in fact, run functionally more reliable systems as well... but what little of this has happened is slow, piecemeal stuff. The fact of not needing a Windows PC today doesn't automatically make people change to something else... they need a dangling carrot, something that makes that \"something else\" better. \r\n\r\nOnce you solve the battery power issue, the having to run trailing edge CPU power, the display problem (4K virtual display in my eyeglasses.. sure, I'll have that), the storage problem, etc.; once you have something actually useful that fits in the pocket and replaces the PC, you'll discover that thing in your pocket IS the PC. Here's the simple reason: making a PC into a cellphone is a simple matter of adding a simple baseband chip and some software -- PCs are starting to get this already, with built-in EVDO modems (that's what Verizon uses for their VCAST sevice). You can't begin to add a $10 part to a cellphone to make it replace you PC. So while the PC may mutate, and you may in the far distant future carry it in your pocket and make cellular (or, more likely, cellular VoIP calls over something like Skype.... once it's a PC in your pocket, it's all just data)"
+-
+    name: 'Edward McCain'
+    mail: edward@mccainmedia.com
+    subject: 'Main Frames are dead! Long Live the PC'
+    hostname: 65.6.122.90
+    created: '1181063821'
+    body: "The Year: 1990.\r\nThe Statement: Mainframes are dead. Soon they will cease to exist and every business will be run a personal computers - PC's are the future.\r\n\r\nAnd my professor was wrong, wrong, wrong.\r\n17 years later blade and rack's are still going strong.\r\nBig Iron Rules :)\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: gandhii@derekparr.com
+    subject: 'it appeared to me that the'
+    hostname: 24.199.159.12
+    created: '1181064718'
+    body: "it appeared to me that the author was talking about having a full size keyboard/mouse/screen at one's home or work and that the \"smart phone\" would be the cpu.  In affect, this would be no different than the laptop you are using now.  It would just fit in your pocket better when you're walking around.  Smart phones do not require an internet connection to be used any more than any other type of computer.\r\nWhile on a trip to Bonaire a few months ago I had my treo's phone connection turned off for the whole trip.  Yet I found it very useful for reading and checking schedules and whatever I had put on there before leaving.  The only thing limiting it from being as useful as a laptop is the limited program selection and memory.\r\n\r\nA more valid critique would be in regards to the fact that you need a larger box to house faster and hotter processors, as well as more ram, hard drives, tv cards, etc etc etc.  Your general average person that doesn't do anything with a computer other than treat it like a typewriter that does email and web may not care, but there are very many who do processor intensive activities that will always require more computing power.  Such as graphics people and people who like 3d games for a short list.   There will always be something more that can be done with a faster computer that many many many people will want to do.  The 20% to 30% of computer users that do strictly text and similar activities may very well abandon a larger faster system for what is being suggested by palm...   but I question that too.\r\n\r\nIt will be only a matter of time before someone makes an application that syncs with a smart phone and a desktop/laptop in a similar way.  And can it really be said that there are that many people who wouldn't find an occasional non-standard thing that requires more speed and such?   It is possible that the VR thing may kick off in the next decade."
+-
+    name: 'D. Scott Carlson'
+    mail: carlson@isp.com
+    subject: 'Add me to the list of the'
+    hostname: 205.208.227.47
+    created: '1181065887'
+    body: "Add me to the list of the \"forgotten few\" who live in areas not serviced by wireless or broadband technologies.  I'm not more than a half hour outside a fairly major metropolitan area, but live in a canyon which signals don't reach.\r\n\r\nAs long as there are those of us who rely on plugging a modem into the old phone jack on the wall, yesterday's technology will live on."
+-
+    name: introspectif
+    mail: introspectif@nanogeex.com
+    subject: 'Yes, but only for ''basic personal computing'''
+    hostname: 218.186.8.10
+    created: '1181067751'
+    body: "... which I loosely define as checking of email, reading news, getting stock quotes, churning out documents etc.\r\n\r\nHow about gaming? Can we expect the PDA to replace the desktop PC in providing the intensive CPU and graphics processing required by popular games today? At this moment, I do not yet see a trend in that direction. But perhaps someone can enlighten me on this.\r\n\r\nHow about development? I am sure there are many geeks and amateurs out there who love to leave a PC on at home, acting as a file server or running some other server software -- which means the desktop PC is here to stay. I myself belong in this group.\r\n\r\nI sense that there are benefits in maintaining some things big and non-mobile. As Desktop Lover has mentioned, mobile computers are more easily mishandled whilst portable. I might add that they are easier to lose too, and some of us just cherish the stability of having a desktop PC running safely at home. \r\n\r\nWe might also bring to attention how battery technology has not caught up as quickly as processing technology (i.e. batteries don't last long, and take significant time to recharge) even when the latter very much depends on the former to be useful in mobile devices."
+-
+    name: Ultimaswc3
+    mail: wrong@aol.com
+    subject: 'Good point, however...'
+    hostname: 129.15.78.96
+    created: '1181083167'
+    body: "The author has identified that smaller devices will be capable of filling in as the CPU because the technology for small powerful chips is decreasing in cost. However, I believe the author has exagerated a bit too much. First of all, this is something that many companies have to coordinate on. The idea has to be very successful intially for it to do well in the long run and for even more businesses to cater to it.\r\n\r\nReasons why this article is incorrect about \"the death of the desktop\":\r\n-1\r\nCell phones are similar to laptops in that its hard to replace individual components when they fail. In most instances, you cannot replace the component. When this component goes bad, you have to basically trash your laptop/phone and buy a new one. Buying new computers/phones is expensive.\r\n\r\n-2 \r\nHard drives provide cheaper memory than what cell phones use. Users have lots of files and documents that will not fit onto the phone memory. Furthermore, the phone is more proned to get lost or take damage than a desktop computer. Its not practical to store important things on your phone. Think about this: How many times have you misplaced your wallet or keys? \"Oh shit, I lost my computer\"\r\n\r\nThere are more but I think these alone are enough.\r\n"
+-
+    name: Feargal
+    mail: ''
+    subject: 'Evolution yes'
+    hostname: 78.16.3.67
+    created: '1181084236'
+    body: 'Look at the music industry.  I had a three in one system, with huge speakers, that was state of the art when I got it.  I had to build a cabinet for it.  I now have an MP3 player/radio connected to slimline speakers and sub woofer.  My first PC had 8MBs ram and a 512MB hard drive.  I''m writing this on a laptop that I connect to a keyboard and mouse at home.  So what if I move to a handheld device, just so long as I can keep my private stuff private.'
+-
+    name: 'Edmundo Carmona'
+    mail: ''
+    subject: 'About the energy suply'
+    hostname: 201.244.44.190
+    created: '1181085868'
+    body: "Maybe my memory is putting me in another embarrassment.... but anyway... here it goes...\r\n\r\nBack in the days (say 20 years ago, when I was a teenager) I saw a TV show talking about radio, waves, etc... and I remember very clearly the example of a person who used a light bulb in the wild. It had two wires attached to it that if set correctly, the extremes of the cables would match the length of a radio wave (from Radio Station near by, maybe) and then the light bulb would light up... dimly, but it did light up. Has anybody seen such a thing? Is it my memory making me look like a fool? again :-)?\r\n\r\nMaybe that could be a way to get energy from \"wireless\" sources."
+-
+    name: valen_willie
+    mail: ''
+    subject: 'Don''t involve religion'
+    hostname: 122.199.10.254
+    created: '1181089230'
+    body: 'Can you write something without relating it to religion?'
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'I think he''s on to something'
+    hostname: 165.98.157.37
+    created: '1181092151'
+    body: "Perhaps Tony's time frame is off but I think what he is saying will happen. Let me expand on what Tony is suggesting. \r\n\r\nThere will still be desktops but not as they are today - stand alone machines. Instead, they will become simply docking stations for portable devices which everyone will have. Basically, these portable devices will be very powerful (by today's standards) PDA/phones.\r\n\r\nThe portable devices will be carried around by people and will be used independently - mini PCs in their own right. But when mobility is not required - at home or at work - they can be docked, probably wirelessly, into these desktop docking stations and can be used to drive them.\r\n\r\nThese docking stations would consist of a monitor, keyboard and mouse (or whatever I/O devices we are using by then) and would probably have additional hardware like more RAM, processors, better sound and graphics cards etc. The portable device would hold all of your personal/private info and preferences and the OS. It would control all of this extra hardware, once docked, gaining additional processing power, memory, etc. \r\n\r\nPeople complaining about only having dial-up connections and poor reception or none at all will be moved out of the stone age by the time all of this happens. \r\n\r\nThis all sounds like it would work with the plan another author, Matthew Roley, has <a href=\"http://www.freesoftwaremagazine.com/articles/a_revolutionary_idea_for_tomorrow_s_pcs\">here</a> at FSM. The PDA/Phone would be just another hot-swappable component of his \"distributed desktop\".\r\n\r\nOf course, we are only theorising from our current paradigm. Who knows which way things will shift.\r\n"
+-
+    name: maravind
+    mail: ''
+    subject: 'Predictions can go wrong...'
+    hostname: 202.88.253.242
+    created: '1181113995'
+    body: "It was believed that RISC was the future and that Microkernels will dominate the software arena.\r\n\r\nIntel was believed to perish and success was attributed to Motorola 68K.  But saying that PDAs will overrule laptops/desktops seem like a joke.  Of course the world is shrinking.  But desktop/laptops will retain their current position for a foreseeable future."
+-
+    name: Raithlin
+    mail: ''
+    subject: 'Yes, and no.'
+    hostname: 196.33.55.141
+    created: '1181119890'
+    body: "I have a Windows Mobile phone, and while to a certain extent I agree with where the technology is going (my wife's Samsung phone comes with connections for the TV), I doubt that the desktop will die. There are many reasons for this; quite a few have been mentioned already. Size, heat, etc. are one that in time may still be overcome. I also agree with the fact that phones have a tendency to be stolen/lost/broken/dropped/\"washed\" more regularly than desktops/laptops - also something that the future may see solved in some ingenious way.\r\n\r\nHowever, one thing is clear: PDA/phone combinations are becoming more ubiquitous, and are far more powerful (and stable) than their predecessors. Phones also outsell computers in their various forms by a ridiculous figure. That said, at the end of the day (for now, at least), I still like to sit down to my desktop and pound at my keyboard in a futile attempt at world domination. ;)"
+-
+    name: 'Matthew Roley'
+    mail: ''
+    subject: Agree
+    hostname: 82.153.26.195
+    created: '1181123874'
+    body: "I think Dave sums up nicely the kind of system I had in mind when writing my article and how it fits together with Tony's predictions (and he described it in *much* fewer words :).  In fact, a mobile or PDA could serve as the 'kernel box' that I describe in the article, this would be intuitive and actually add more to the system in that the mobile could serve as a 'univeral remote' for the other devices.  But it should not be a requirement, what the replies to this article clearly show is that (unsurprisingly) different people have different uses for technology and have preferred ways of working with said technology.\r\n\r\nMy main point is that there will always be different ways of doing things, desktop, smartphones, consoles etc., with more and more ways appearing as technology evolves. Rather than focusing on how a particular component would work (and hence disregarding all those who don't (or can't) use that component, I feel it is essential to focus on the interoperability between devices; it won't then matter what the user prefers as their computing weapon of choice because it should work transparently with other devices.  What I hope everyone can agree on is that whatever technology you're using it needs to be able to talk to other technology (literally in the case of mobiles).  No-one can predict what devices will emerge in future but we DO know that they will need to talk to other devices, so why don't we nail down a protocol for doing this; then when those new devices do emerge they will just work with everything else, rather than us having to go through the whole hassle of *getting* them to work with everything else, which is pretty much what we're forced to do now everytime a new gadget comes around, be it a TV, phone or console.  Backward compatibility is a big issue that has hounded all systems for *decades* now, I really think it's time we started thinking more about forward compatibility.\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: figjam88au@hotmail.com
+    subject: 'Specs. in 5 years'
+    hostname: 203.217.49.110
+    created: '1181230224'
+    body: "Mobiles can get a lot more powerful than they are currently, AMD's sub 1W processor is currently stuck at 130nm process, if this is reduced to 32nm in the next 5years your Phones will have just as much processing power as your current PC has, also the Graphics processing power of phones in 5years will be better than current integrated gfx for PC's. With the Flash memory on phones being probably over 16G in 5years if not more.\r\n\r\nCan anyone else see Vista Running on your phone in 5 years?"
+-
+    name: bradbaumgartner
+    mail: ''
+    subject: 'I agree, to an extent...'
+    hostname: 64.254.97.10
+    created: '1181309668'
+    body: 'I agree that desktops and laptops will diminish to the point that they can almost be considered ''dead'' (but will always have niche markets).  However, I don''t think it will be just phones and PDAs that brings this about.    It will be the fact that so many other devices will have internet connection and computing ability (home appliances, cars, music players, stereos, TVs, bathroom mirrors, etc. - even kid''s toys, and hopefully the common everyday light switch).   And I definitely agree that one big missing piece is the ability to communicate to another screen via wireless technology, and I think your timeline is pretty accurate - maybe 10 to 15 years.'
+-
+    name: 'Jeremy Turner'
+    mail: ''
+    subject: 'Internet Data'
+    hostname: 12.217.55.204
+    created: '1181414222'
+    body: "I think the key to all of this is the distribution of data.  The old paradigm of all my data stored on my desktop, and I \"hotsync\" it to my PDA, my phone, etc.  Therefore, now I have a copy of of my data in multiple locations.  If I make changes to my PDA or my phone, those need to be \"hotsynced\" back to my desktop.\r\n\r\nI was tired of my old, free cellphone, and dived in to the PDA phone concept.  I bought a XV6700 (aka HTC Apache or PPC6700) back in October.  It's served well as a cellphone, but it also does a good job at syncing my contacts.  For calendar events, I found an application that will sync my events between my phone and Google Calendar.  It's pretty slick.  I don't mind the idea of the hotsync, but the availability of hotsyncing someplace and having the data available for multiple devices goes a long way towards the elimination of the \"desktop\".  Another nice feature that I have on my PDA phone is a mobile web interface to <a href=\"http://www.mp3tunes.com>mp3tunes.com</a>, which is a free, online storage for my MP3 and OGG files.  I can play them back over the Internet on my phone.  I can also listen to them via my Motorola bluetooth stereo headphones with a slightly degraded quality, or via any normal pair of stereo headphones.\r\n\r\nWhat would really help for Tony's concept to take off?  I think massive coverage, wireless Internet coverage would do the trick.  The cell phone companies have that cornered right now, and charge pretty high rates for access (my XV6700 cost $45/mo for \"unlimited\" data access).  Wifi 802.11b/g will be around a while, but the inclusion of WiMax or some other longer-distance wireless service would be key.  I still have the vision that the Internet and online services will drive the move from the traditional desktop to more personal devices."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I continue to use desktops for 3 reasons...'
+    hostname: 68.93.224.4
+    created: '1181445119'
+    body: "I continue to use desktop computers for 3 reasons:\r\n\r\n1) Interoperability of components. Because of the large form-factor and relative simplicity of hard-wired buses, it is easier to assemble a desktop out of separate components from separate manufacturers. I almost never buy a computer as a single purchase. This requirement of flexibility and pluggability of components is also one of several good reasons why I use free software. I have a much finer degree of personal choice when I use both desktop systems and free software applications.\r\n\r\n2) Ergonomics. The size of keyboard and position of your hands becomes important over time. When you're young, you can handle uncomfortable positions even when typing, but you pay for it later. Since I'm starting into the \"paying for it\" stage, I'm even more concerned about it now. Laptops can be okay, but they'll never be as comfortable for long duration sessions.\r\n\r\n3) Price. Desktops are still cheap. Especially when you buy them the way I do, which is in pieces, often of slightly-out-of-date used equipment when it is being liquidated. My last computer purchased cost about $150. $500 is more typical for me. I go through CPUs and cases faster than monitors (which tend to be the limiting factor in cost for me) and keyboards -- so I often get away with paying only for the CPU, motherboard, and peripherals as separate, small expenses. This monitor has been used on at least 3 different computers and is at least 6 yrs old. I like LCDs because they don't get fuzzy when they get old like CRTs do (they also aren't as environmentally hazardous to dispose of when they do fail).\r\n\r\nOf course, there is a higher price paid in effort when you do things this way -- lots of stuff doesn't integrate well, and sometimes installation is a real pain. On the other hand, with a desktop, if you don't like one of the expansion cards, you have the option to just buy one that works instead of spending (as I once did) 2 weeks trying to get the sound to work on a laptop (I was stubbornly trying to get ALSA 0.5 running on an HP ThinkPad running Debian -- it did finally work though).\r\n\r\nI'm still interested in getting a laptop or a PDA, though, because it is a real lack when travelling (I was really at a disadvantage when covering PyCon 2007 because of this -- I was the only person I noticed taking notes on -- horrors! -- <em>paper</em>). I've been contemplating the difficulties of installing Debian on that $500 laptop that Walmart has been selling lately.\r\n\r\nStill, I don't travel that much. So the anchoring effect of using a desktop just isn't that much of a hassle for me.\r\n\r\nIn any case, though, I don't think the PDA or laptop will be replacing my desktop system. When I upgrade, it'll be to another desktop.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Actually that sounds pretty cool'
+    hostname: 68.93.224.4
+    created: '1181540853'
+    body: "The active screen coffee table sounds like a pretty neat concept to me.\r\n\r\nOf course, Dillinger had one in <strong>Tron</strong> in the early 1980s. :-) So it's not exactly a \"new idea\", even though this may be the first real one of this size.\r\n\r\nI find I don't hate Microsoft nearly so much when they stick to hardware I can run free software on. We should encourage this if at all possible -- it's always a bad idea when cornering a bear to give him only the one escape path which leads through you, after all."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Rectennas
+    hostname: 68.93.224.4
+    created: '1181541704'
+    body: "It's called a \"rectifying antenna\" or \"rectenna\", and is the same basic concept as has been proposed for carrying solar power from satellites down to the Earth for basic energy supply. The light bulb basically demonstrates the same principle that they work on.\r\n\r\nI recently saw this demonstrated by placing a light-bulb in a glass of water in a microwave oven (this is probably a \"don't try this at home\" example -- you have been warned). You get a pretty bright light when you do that. Of course, I suspect that if you do it too long, the bulb may break.\r\n\r\nHowever, there are a number of reasons why this might not be so desireable for mobile devices:\r\n\r\n<ol>\r\n<li>High-powered microwave signals could cause serious radio interference</li>\r\n<li>If it can power your device, it can also induce heat in a conductor of the right length, which could be a problem!</li>\r\n<li>Although there has <em>NEVER</em> been any kind of indication that such radiation is unhealthy for you, it has not of course been extensively tested, and there are people who are paranoid about just living near high-tension power lines -- so the issue is guaranteed to come up (in the case of solar power satellites, you have the option of beaming to some desert or otherwise relatively uninhabited area to assuage any health concerns. Microwave ovens are definitely not helping to market this idea (even though they work by quantum, not classical, resonance and are thus dependent on a very particular choice of wavelength).</li>\r\n</ol>\r\n\r\nOn the other hand, as power needs go down, the amount of power required gets very small. Consider solar-powered calculators -- if you can read the display, you have enough power to run them!\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'There''s always satellite service, of course'
+    hostname: 68.93.224.4
+    created: '1181542471'
+    body: "If you really live out in the sticks there is still one broadband option, which is satellite internet. All you need for this is access to the sky. There are some tradeoffs: satellite is pricey -- it costs about the same as DSL monthly, but you have to buy the equipment, which can cost as much as $2000 (there are services that fold this cost into your monthly payments, but you're still paying for it).\r\n\r\nThe throughput of a satellite link can be pretty extraordinary, which is nice, but there is a factor you're probably not used to, which is light-time latency. So, you can download a megabyte in hardly more time than a kilobyte -- but you have to wait 0.5-1s for either, just because that's how long it takes for the signal to propagate to geosynchronous orbit and back (plus processing at the downlink center).\r\n\r\nStill, I nearly purchased a satellite system myself. Just before that, though, I discovered there was a line-of-sight wireless service in my area after all, and I prefered the lower latency.\r\n\r\nI've occasionally wondered if I made the right choice, though: as things stand I have one ISP with no competitors, so they're not exactly a \"lean and mean\" organization. Their server does stuff I don't approve of, and I have a slight suspicion they don't actually <em>know</em> what it's doing, let alone how to change it, which is the real reason they won't talk to me about it. :-)\r\n\r\n"
+-
+    name: tlahtopil
+    mail: ''
+    subject: 'Yes, but nope.'
+    hostname: 189.169.39.182
+    created: '1181583266'
+    body: "This \"a computer in every hand\" utopia may be true for the general \"communications consumer\", but there are certain things I don't believe will happen, not soon at least. On one side, there are software requirements and applications that won't run enough fast or securely in a mobile device subject to lots of anonymous connections and power limitations (call it electric or processing), diskless and RAM-less, say, graphic design, accounting, managing or CAD. On the other side, maybe desktop PC heels are now steadily bitten by laptops, in terms of processing power, I concede, and PDA bites laptop's in terms or portability, but user-time and processing-power demanding apps usually drive to sit the PC on a table rather than on the lap, attached to external screen, mouse and keyboard (that's true), making an expensive desktop box of it, or a very base desktop box of a PDA.\r\n\r\nNo matter how small the PC becomes, or how powerful the PDA, there are two unbeatable niches that will force them, as they do today, to always behave as desktop boxes: enhanceability of security-power (a modular way to make the machine stronger, that requires internal and virtual room), and comfort (call it ergonomy: human body has limits that bring down miniaturization back to Earth)."
+-
+    name: Rhonald
+    mail: rhonaldmoses@gmail.com
+    subject: 'No, I dont think so, not in next 10 years.'
+    hostname: 213.42.173.66
+    created: '1182503067'
+    body: "I don't think the mobiles are going to terminate the desktops completely. Perhaps the one segment it can capture which is the 'light user' who use their computer for just e-mails, surfing, listening music, writing documents. But apart from these 'light users' who definitely makes quite large in numbers, power users cannot stick with mobiles though they will have one for their e-mail, surfing & documents purpose on the move. \r\n\r\nAfter decades of Desktops playing dominant player, now Laptops have gained almost equal share (at least with regards to a home user) only because now laptops are as powerful as normal desktops. Again note that laptops are just powerful as 'normal' desktops, but not really a workstation or a CAD/3DS Max designer's or gamers’ desktop. I don't see the extinction of Desktops for next 10 years. Maybe in 10 years, the technology grows up to dizzying heights to have multiple core processors in a mobile; it is possible that at least 40% of the desktop users will switch to multi purpose mobile phones. \r\n\r\nBut definitely there is a possibility, but not in next 10 years as I see. One of the reason behind this is that ever increasing power hungry applications. Though Google docs and spreadsheets are there as light weight online versions, it will take another 2 years for people to consider it seriously and 5 years for it to get world wide mass adoption (considering that people will be safe to let companies like Google manage their data & broad band reaches all major cities and towns).\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: feedback@ve3sre.com
+    subject: 'decline but not disappear'
+    hostname: 69.158.10.74
+    created: '1182652354'
+    body: "That small portable devices will become ubiquitous as our society becomes increasingly disconnected from landlines and network cables I have no doubt.\r\n\r\nBut disappear altogether?   I don't think so.   Let's look at a very old technology...namely AM (mediumwave) radio broadcasting.   It's early 1920's technology!   But its still very much with us and here in Canada I recently read that it's the most profitable sector of the radio industry.\r\n\r\nIt has some unique properties that aren't replicated in our networked world.  I can use a $10 device and certainly at night listen to programming from hundreds of miles away.   Often I don't even need batteries these days.   I can use a cranking device and charge an internal battery.\r\n\r\nIt might change if DRM...(no not the bad kind...but \"Digital Radio Mondiale\") ever takes off.   DRM will allow digital mode radio signals to be broadcast over the long, medium and shortwave broadcasting bands.\r\n\r\nBooks are what...15th century technology?   Computers have made production alot simpler, but books are still with us.   Electronic books are still a pain in the ass...and speaking of asses...I can enjoy a book in the ...ahem....\"reading room\".\r\n\r\nI do see the role of the desktop PC and notebook declining...but for certain types of applications users will still need the computing power of these devices for quite some time."
+-
+    name: 'John R Wilson'
+    mail: john_wilson@telus.net
+    subject: 'I can hardly wait for crackberry everywhere'
+    hostname: 206.116.130.216
+    created: '1184376203'
+    body: "I think I can wait for both this \"revolution\" and the overly complicated mobile devices that are supposed to drive it.\r\n\r\nAfter all, it would be nice to get one that you can set up and use with relative ease without having to read a huge manual or search for days on Google for information.\r\n\r\nSay what you will about them, at the moment these things are more hype than practical and are, I submit, likely to stay that way.\r\n\r\nWhile these \"Death of\" articles are interesting, as others have pointed out the so called \"futurists\" get it wrong close to 100% of the time and are likely be now.\r\n\r\nBefore we get carried away with the possibilities let's pause to consider a couple of things.\r\n\r\nOne of the increasing health and safety issues in the work place is the crackberry..oops..blackberry and it's ilk.  It demands attention to the extent that people actually do suffer asymptomaic withdrawl when they don't work, batteries die and so on.  I've personally had to send two twenty-somethings home because they were a danger to me, themselves and others because their phone/PDA wasn't working for some reason and they were stressed so much that they were unfit for work.  Not to mention in one case not having slept of 72 hours.  Extreme case to be sure but very real.\r\n\r\nFinally:\r\n\"People complaining about only having dial-up connections and poor reception or none at all will be moved out of the stone age by the time all of this happens.\"\r\n\r\nNo they won't.  Particularly in rural and semi rural settings communications companies move with the speed of glaciers and that's getting worse, not better.  The markets they're interested in are urban, better yet, urban with populations of a million or better where they can drag the profits in with a conveyor belt.  I'm not being critical here but remember that cablecos, telcos and power companies exist to make money.  The cost per customer in a highly urbanized setting are tiny compared to the cost per customer in a highly rural setting.  The cost goes up, of course, when the rural setting in question is mountainous as it is on the west coast of the Americas where even that impressive mountain you can see out your window becomes an issue for wireless up to and including satellite communications.\r\n\r\nHey, Toto...this isn't Kansas anymore.\r\n\r\nttfn\r\n\r\nJohn\r\n\r\nThis begs the question about people who have a life away from the office, for example, and would like to turn the thing off for a while or do something that won't end up everywhere they go.\r\n\r\nI agree that processing power of hand held devices is increasing but so is the \"soon-to-be-possibly extinct\" desktop.  Laptops are also very powerful now and will continue to become more so.  Adding a PDA/Phone docking station for whatever needs will be trivial.  \r\n\r\nI'll remain rather, more than less, skeptical as long as the world continues to become more increasingly split between MS style proprietary systems and FOSS.  Do you need anyone telling you what you can and cannot do with your device or is that a decision you want to make for yourself?\r\n\r\nThe target, of course, is something like Matthew Roley's \"distributed\" desktop once all the bugs are worked out though I'd suggest that it's more like 10 -15 years down the road before it even becomes practical and univerally usable.  That prediction, of sorts, has more to do with looking at the world now with both open protocols and proprietary protocols, document formats and a host of other things to trip on that have nothing to do with hardware itself.\r\n\r\nA question, though, do you really have to be connected all the time?  Is it necessary to take the office to the washroom with you?  (You'd be surprised how many people actually do answer their cell or crackberry in the loo.) Don't you ever want to turn the noise off?  Keeping in mind that it's healthier than leaving it on consuming power, adding stress and contributing to global warming and all. :-)\r\n\r\n\r\n"

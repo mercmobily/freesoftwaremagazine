@@ -1,0 +1,56 @@
+-
+    name: god
+    mail: ''
+    subject: 'Comments from old system'
+    hostname: 203.59.90.115
+    created: '1143701640'
+    body: "<strong>From</strong>: MAd MAco \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-08-10\r\n<strong>Subject:</strong> Don't fight against paleo-toys, buy a new one!\r\n\r\n\r\nOk..   you are fighting against this Baby-Dino-Disk... but have you ever mind about buy a cheap laptop with a 200GB HDD???  ..  ..  all these toys at your server have less info than my Digi-cam!!!\r\n\r\n...please, don't be selfish...   buy a real one!\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: melissa \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-08-10\r\n<strong>Subject:</strong> :)\r\n\r\n\r\nalthough i'd say 89% of this article made no sense to me.....je je je.....i must say....nice work, sir ;)\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Tormak \r\n<strong>Url</strong>: lineak.sourceforge.net\r\n<strong>Date</strong>: 2005-08-26\r\n<strong>Subject:</strong> Device order?\r\n\r\n\r\nHow did you determine the order that the disks were in?\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Redbox \r\n<strong>Url</strong>: www.pv.com.pl\r\n<strong>Date</strong>: 2005-08-27\r\n<strong>Subject:</strong> I must say...\r\n\r\n\r\nGREAT JOB!!!\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Moxy \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-08-27\r\n<strong>Subject:</strong> More info required.\r\n\r\n\r\nHow about publishing your Java class to see how you analysed and rebuilt the aid image?\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: rich gregory \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-08-28\r\n<strong>Subject:</strong> disk based backup\r\n\r\n\r\nHere is a simple way to add a disk based incremental backup\r\n\r\nto a production file system.  \r\n\r\n\r\n\r\n\r\n\r\nhttp://www.people.virginia.edu/~rtg2t/samba/system.admin.html#backup\r\n\r\n\r\n\r\nIt MUST be integrated with a full backup system to tape or disk.\r\n\r\n\r\n\r\nIt is a simple way to use an older PC and a 80-120GB IDE drive to give sys admins of big raid systems some pice of\r\n\r\nmind.\r\n\r\n\r\n\r\ncheers,\r\n\r\n\r\n\r\nrich\r\n\r\n<hr/>\r\n\r\n<strong>From</strong>: Adrin \r\n<strong>Url</strong>: \r\n<strong>Date</strong>: 2005-10-03\r\n<strong>Subject:</strong> RAID 5 failer,  Maybe you should look at RAID 1\r\n\r\n\r\nWhile that is great you got the data back I have some questions.  The Raid died on April 29, and you didn't get it back until May 15.  I hope the practice wasn't down that long.\r\n\r\nI hope you where able to restore form backup and get them going in the mean time.  \r\n\r\n\r\n\r\nPerhaps you should think about the raid setup. While raid 5 is great for makeing one large disk with smaller disks.  You are screwed when there is a major failer.  Perhaps you should think about a mirrored raid.  Yeah you loos a lot of space, but one desaster and it is paid for. \r\n\r\n\r\n\r\nYou brought up NTFS partition in you article. Another reason for me to hate windows crash recovery.  I have yet to see a good disk recovery.  Like the one I use in Unix but this is not the place to spam it and it is not free. \r\n\r\n\r\n\r\n<hr/>\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'lol 18 gig drives, those'
+    hostname: 67.102.108.36
+    created: '1158189984'
+    body: 'lol 18 gig drives, those would have to be old..I''d go ahead and replace the server or at the very _minimum_ implement a backup system of some kind.  although with that old of server, you could be looking at possible other hardware failing in the futute, so you''d want to make sure to backup the data to a medium that another machine definitely will read.  such as, don''t trust old HP dat tape drives!!'
+-
+    name: 'Edmundo Carmona'
+    mail: ''
+    subject: 'Answering the comments (after 1+ year)'
+    hostname: 201.209.98.168
+    created: '1166373333'
+    body: "I see there were some comments posted.... I think I replied to some in due time, but I'm not so sure... my memory sucks.\r\n\r\nI can see there were some people talking about getting new hardware. Of course, that's one answer to the problem.... but when you are working on a public institution (in Venezuela, should I add) things are not that simple here (are they anywhere?). We have to work on a very very <strong>very</strong> tight budget and crack our heads to get the most out of everything we have at hands (even dyno-hardware).\r\n\r\nNo, the practice wasn't affected for that long. The main system of the hospital (though it was affected) was restored in basically no time. The data that was affected was \"Users' Docs\". Users had local copies of documents... but perhaps not all documents... and certainly not old documents. They carried on with what they had at hand at the time and waited for us to (hopefully) get the whole think back.\r\n\r\nComing to a more technical side of the article: how did I (we) determine the order of the disks? That took a little binary math to achieve. When we studied the images we noticed that there were <cite>markers</cite> that could be read in fixed positions in different chunks of the image of the disks (things like the string \"FILE*\" that were part of the structure of the NTFS partition). There were 5 disks in the array. For every chunk \"row\", 4 of them would have data and one disk would have the XOR checksum of the other 4 chunks (remember that checksums are spread among all the disks). If you calculate the XOR of 4 times the same value (like <strong>FILE*</strong>) you will get a beautiful 0 (for each byte), and so we were able to see were the data chunks and checksum chunks were (luckily there were 5 disks. Had they been an even number of disks, it would have taken a little more trickery because the XOR of an odd number of times of \"FILE*\" would be \"FILE*\"). We already knew where the partition table of the disk was (so the first data chuck) and could see where <strong>that</strong> image had its first checksum chunk, together with the position of the other checksums in the other disks, you can know which algorithm was applied and the order of the disks. I'm wondering if that was clear enough. :-? If you have questions, ask Tony for my email address. I'm sure he will kindly provide it. ;-)\r\n\r\nThe source code? It's there, right? It's a Free Software Magazine after all, isn't it? ;-)\r\n\r\nCheers!"
+-
+    name: mcontestabile
+    mail: ''
+    subject: 'My experience...'
+    hostname: 89.97.102.209
+    created: '1229430897'
+    body: "Hello everyone...\r\nMy name is Marco, and I had the same experience...\r\n2 weeks ago my server go down...all disks whit red led on...\r\n\r\nThe first thing I thought \"i've lost all data...all db..all users folders...\"...the last backup was a few months ago!!\r\n\r\ni tried to change the controller, but nothing to do...the controller don't recover the raid configuration from the disk.\r\n\r\nSearching in internet i found this guide...and reading it i've seen that what Edmundo write is the samne thing that happen in my office...i think \"ok...i want to try...\"...\r\nMy raid is a single raid5 array with 8 disks...in the array 2 logical drives.\r\n\r\nAfter three days of work...and with the valuable help of Edmundo (How much patience has this guy? :)))) )...i've recovered all data from the disks...recovere all db and users folders...in few words...all i need to restore the office software.\r\n\r\nI want to again thank Edmundo for his help... :))\r\n\r\np.s. the first thing that i've installed in my office after the recovery of the data...is a very good system backup :))\r\n\r\nsorry for my english...i hope that who read this can understand :))))\r\n\r\n\r\nMarco\r\n"
+-
+    name: yoavsil
+    mail: ''
+    subject: 'Recovery RAID Online'
+    hostname: 212.235.124.198
+    created: '1265029982'
+    body: "Hi Edmundo, \r\n\r\napparently the company Raid-Recovery-Online.com can recover all RAID arrays remotely in no time (providing 24/7 services)... So next time you need to <cite>Save the Republic </cite>, just contact them without all that fuss... and it's not even that expensive.\r\n\r\nCheers,\r\nYoav"
+-
+    name: 'Edmundo Carmona'
+    mail: ''
+    subject: 'The library has been translated to python'
+    hostname: 201.232.227.254
+    created: '1297443227'
+    body: "Hello, everybody.\r\n\r\nWith the desire to get rid of using java to rebuild the images I have decided to translate (and correct... I think I found a couple of problems) the library to python.\r\n\r\nThe library is here:\r\nhttps://code.launchpad.net/~eantoranz/+junk/raidpycovery\r\n\r\nI've already written a couple of articles on my blog about it:\r\nhttp://maratux.blogspot.com/2010/11/broken-raid5-you-said-dont-use-java.html\r\nhttp://maratux.blogspot.com/2010/11/testing-raidpycovery-through-mdadm.html\r\n\r\nThere you go!"
+-
+    name: ShaneW
+    mail: ''
+    subject: 'Little help please'
+    hostname: 58.170.80.198
+    created: '1301096980'
+    body: "Hey man nice article. I was looking for abit of advice, if possible.\r\n\r\nI have a 3 disk hardware raid 5 that has collapsed. The backup was incomplete :) so I have been asked to recover it. With abit of messing around with the hardware I have 2 full disk images and 1 half disk image. What I need advice with is determining the chuck size and algorithm. I had a go rebuilding the 3rd drive myself with left-sync and 512k chunk size then compared what I got with the partial image. I found 50k-ish chunks of identical data in identical locations but the rest was junk. Then I saw this article, what should I be looking for to determine chunk size? what should I be looking for to determine the algorithm?\r\n\r\nWould it be worth my time to create the first say 200M of the third disk with your script (using a variety of variables) and compare to the other disk I have? \r\n\r\nI am of course working in knoppix.\r\n\r\nCheers\r\nShane "
+-
+    name: 'Edmundo Carmona'
+    mail: ''
+    subject: 'The library has been translated to C++'
+    hostname: 190.27.151.180
+    created: '1320421499'
+    body: "Hi!\r\n\r\nFirst, I had said that it was translated to python and life was beautiful... but on python the recovery process was horrendously slow. Last night I migrated it to C++ and let me tell you that it's MUCH faster!\r\n\r\nhttp://maratux.blogspot.com/2011/11/remember-times-with-i-used-python-for.html\r\n\r\nCheers!"

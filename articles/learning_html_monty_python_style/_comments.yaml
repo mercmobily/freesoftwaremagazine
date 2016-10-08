@@ -1,0 +1,28 @@
+-
+    name: Fzzy
+    mail: ''
+    subject: Nice
+    hostname: 196.30.245.149
+    created: '1201683328'
+    body: 'Thanks, i really enjoyed this. Maybe free software mag should regularly feature tutorials.'
+-
+    name: 'Anders Jackson'
+    mail: ''
+    subject: 'Great introduction'
+    hostname: 90.227.204.179
+    created: '1203285960'
+    body: "But you forgot one thing, and that is that all img should have an alt.  Like in \r\n&lt;img src=\"picture.jpg\" alt=\"A picture\" /&gt;<img src=\"picture.jpg\" alt=\"A picture\" />"
+-
+    name: castral01
+    mail: ''
+    subject: 'Some Missing Stuff.'
+    hostname: 76.94.14.28
+    created: '1204101863'
+    body: "A lot of people come across XHTML thinking that it really is as basic as you describe it, but theres a lot more information that you're missing about XHTML. Namely that IE does not support XHTML at all and considers it tag soup whenever it encounters it, and also that most XHTML that verifies in the W3C validator is not actually valid when sent as true application/xhtml+xml mimetype to browsers that actually do support XHTML (ie. Mozilla/Firefox and Opera). Here are some additional (and more technical) pointers:\r\n\r\n<ul>\r\n    <li>Use a server side language to determine if the client's user agent accepts the application/xhtml+xml mimetype and send the appropriate headers. Details can be found here: http://www.w3.org/2003/01/xhtml-mimetype/content-negotiation</li>\r\n    <li>Include a proper xml 1.0 declaration for application/xhtml mimetype content (note that this causes IE to go into quirks mode, so make sure you check the user agent beforehand). This is on the very first line and looks like:</li>\r\n</ul>\r\n<code><?xml version=\"1.0\" encoding=\"utf-8\"?></code>\r\n<ul>\r\n    <li>Make sure your code follows Appendix C of the W3C's XHTML standard. It can be found here: http://www.w3.org/TR/xhtml1/#guidelines</li>\r\n    <li>And just to play devil's advocate, you should certainly be aware of this document which, though old, is still very relevant: http://hixie.ch/advocacy/xhtml</li>\r\n</ul>\r\n\r\nAll these things tend to be annoying, but easy to follow if you're aware of them all from the outset of a project. Sticking to all the information in these document will allow your XHTML to be the most compatible XHTML code possible. Happy hacking."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Some (more) missing stuff'
+    hostname: 84.100.54.206
+    created: '1204533633'
+    body: "castral01 said it well, but his comment is the abridged version...\r\n\r\nWhen you're not sending an application/xhtml+xml MIMEtype, most web servers (Apache 2.x included) default to text/html, which isn't completely incorrect per se, as following XHTML 1.0 Strict, Appendix C, an XHTML 1.0 document formatted right can pass off as a slightly quirky html 4 document in most user agents, but it is actually wrong: in 'pure' HTML, you should be able to short-close a tag with '/' alone - making the following '>' extraneous (which leads to an unwanted displayed character, or a parsing error, since '>' must be entity-encoded when used outside of an HTML entity). It only works because the majority of user agents implement only a subset of HTML.\r\n\r\nFor a local file, an XHTML document must be saved with the .xhtml suffix: the .html suffix is for HTML only, most OSes/UAs do suffix to MIMEtype matching from the suffix - see above for restrictions.\r\n\r\nIf you are getting started with XHTML, go for Strict compliance, as it is actually easier to learn than Transitional: less redundant tags, less rendering quirks...\r\n\r\nBe careful with XHTML 1.1, the text/html MIMEtype is wrong - you must use at least text/xml, or application/xml (somewhat understood by IE which attempts to load the page but fails because msxml3, built in IE, isn't actually XML compliant), or application/xhtml+xml (which leaves IE completely baffled).\r\n\r\nNext: as said, you must add the XML prologue to any XHTML file you create, but only in the case when you use the correct MIMEtype, and in that case you must also remove all 'META http-equiv' tags, which are here only for Appendix C compatibility (they replace the data contained in the XML prologue, like encoding).\r\n\r\nOn <img /> tags, required attributes are height, width and alt - those attributes are actually _required_, and will create an error in the W3C validator, as well as a parsing error  in Firefox and Opera when using the correct MIMEtype (because those browsers will then use their XML parsers, which is much less forgiving than the HTML one).\r\n\r\nWhile the article stems from a good intention, I can't recommend it because it demonstrates bad coding habits.\r\n\r\n(Now where is my Holy Hand Grenade again?)\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."

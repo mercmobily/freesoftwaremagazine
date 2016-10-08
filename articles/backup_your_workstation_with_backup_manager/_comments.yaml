@@ -1,0 +1,21 @@
+-
+    name: savoyant
+    mail: disgruntled.toaster@gmail.com
+    subject: '" Since there are a few'
+    hostname: 99.245.173.200
+    created: '1179937320'
+    body: "\" Since there are a few things that need to be done as root and typing sudo for every command gets tiresome, becoming root will save some keystrokes.\"\r\n\r\nWhy not use \"sudo -i\" instead :)  Anyways great article.\r\n\r\nHave you checked out BackupPC as well? "
+-
+    name: dubski
+    mail: ''
+    subject: Restore
+    hostname: 203.206.72.84
+    created: '1182247612'
+    body: "How about a little section on how to restore from backup?  I'm asuming that I will use the incremental backup strategy.  Is it as easy to restore files either from online servers or DVD?  This is one thing that I have not figured out how to do easily with Linux.\r\n\r\nCheers,\r\nPete\r\n\r\n"
+-
+    name: proweb-bg
+    mail: ''
+    subject: Result-list
+    hostname: 213.91.132.34
+    created: '1315401504'
+    body: "You can see backup progress if you use -v parameter:\r\n\r\n#backup-manager -v\r\n\r\nhttp://www.proweb-bg.com/"

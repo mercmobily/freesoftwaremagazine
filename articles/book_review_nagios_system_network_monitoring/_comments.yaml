@@ -1,0 +1,7 @@
+-
+    name: Marza
+    mail: ''
+    subject: 'Now I have to look into it.'
+    hostname: 209.157.48.1
+    created: '1152898516'
+    body: "My first comment is damn you!  :)\r\n\r\nI was not going to give Nagios a look because we have a monitor system in place.    It is geared towards PCs with some ropes into the Unix/Linux world.   When we purchased it, we only had a few Linux and Solaris boxes.   That has changed.\r\n\r\nWhat looks interesting is the NRPE which sounds like it could make some checks easier to do.\r\n\r\nWhat would have been nice for this review would have been the preferred OS.\r\n\r\nOther than that; thank you and I have ordered the book."

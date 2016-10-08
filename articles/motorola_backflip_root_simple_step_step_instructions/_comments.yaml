@@ -1,0 +1,28 @@
+-
+    name: minnoccia
+    mail: ''
+    subject: 'step 9'
+    hostname: 131.118.63.139
+    created: '1289543727'
+    body: "my error is \r\nmount: No such file or directory\r\n: read-only file system /system/xbin/su\r\n: No such file or directoryn/su\r\n: No such file or directoryn/su\r\n: read-only filesystem /system/app/Superuser.apk\r\n: No such file or directory/Superuser.apk\r\n: No such file or directory/Superuser.apk\r\n#\r\n\r\nWhat did i do wrong?"
+-
+    name: agromsl
+    mail: ''
+    subject: 'Defective script at step 9?'
+    hostname: 142.169.118.204
+    created: '1312753219'
+    body: "Thank for the guide, the first one among tens found that works further than second step.\r\n\r\nEverything went fine for steps 1 through 8.\r\n\r\nIn fact, I had to correct this command line at step 6:\r\nadb push /home/amin/Desktop/g.sh /data/local/tmp/g.sh\r\nfor\r\nadb push Desktop/g.sh /data/local/tmp/g.sh\r\nbecause the directory did not exist.\r\n\r\nAt step 9, \"Make your root permanent\", the script generate these errors:\r\nmount: no such file or directory\r\n:read-only file systemstem/xbin/su\r\n:no such file or directoryn/su\r\n:no such file or directoryn/su\r\n:read-only file systemstem/app/Superuser.apk\r\n:No such file or directory/Superuser.apk\r\n:No such file or directory/Superuser.apk"
+-
+    name: regnadkcin
+    mail: ''
+    subject: 'THANK YOU!'
+    hostname: 99.146.127.50
+    created: '1316084236'
+    body: "Excellent guide and worked like a charm!   \r\n\r\nOriginally had the same problems as previous comments, however entering each line on the terminal individually worked, so I think it may have been an issue with creating g.sh on the host side.  \r\n\r\nRegardless, the su and Superuser.apk that you link in this guide are exactly what the doctor ordered for the backflip.\r\n\r\nThanks again!"
+-
+    name: jose_am
+    mail: ''
+    subject: 'Step 9'
+    hostname: 201.192.208.32
+    created: '1320004560'
+    body: "Hello\r\nEverything was working perfectly fine until I got to step 9 where it gives me the same error mentioned on the first 2 posts, when I tried to manually enter the lines as regnadkcin mentioned, I can't enter the > symbol so I can't continue, can you please help me pass this step?\r\nthanks!"

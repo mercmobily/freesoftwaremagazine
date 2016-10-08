@@ -1,0 +1,126 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Nice article'
+    hostname: 86.34.237.177
+    created: '1159868560'
+    body: "This is what I also feel about Microsoft technologies, like VB and .NET ... very friendly languages, very nice tools ... but I migrated to Python, C++ and Java and I couldn't be more happy.\r\n\r\nI am finally in control of the platform on which I spend my time and with which I make money."
+-
+    name: thlinux
+    mail: ''
+    subject: 'VB 6 - drowning in limitations'
+    hostname: 207.13.167.2
+    created: '1159883091'
+    body: "Ahem... [GARGLE]... COUGH!\r\n\r\nThese are the sounds of an application created in VB6 as we migrate to Windows Vista. I'm not saying this will happen to all VB6 applications, but Vista RC1 has thoroughly trashed our company's flagship application. I don't think I've seen a greater parade of Runtime errors. They are colorful to look at but spell the death of our application. My concern is we are moving to development in .NET. What will happen in 4-5 years when Vista has a new baby brother?\r\n\r\nVista 2 infant stages: WAAAAAAAAAAAAAHHHHHHHHHH!!!!! (followed by the sound of chewing up .NET and spitting it out.)\r\n\r\nI'm not bitter."
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: Oops
+    hostname: 69.180.163.110
+    created: '1159921076'
+    body: 'Oops, maybe I made a bad assumption about Vista there :-)  I guess we''ll see with the final release.  I suspect some companies will take this opportunity to move away from Microsoft, but most are probably migrating to .NET.  And then on to baby brother/sister/puppy as they each arrive in turn...'
+-
+    name: ''
+    mail: ''
+    subject: 'Learning VB6 was a pinnacle'
+    hostname: 203.177.102.253
+    created: '1159953963'
+    body: "Learning VB6 was a pinnacle in my life 5 years ago. Up until 2004, I loved using VB6, specially the fact that I use VBScript for my ASP's. But, after working for a couple of projects which specifically had to be in PHP and MySQL, I felt that in the long run it would be more practical for me as a developer. \r\n\r\nAfter a year and a half, the web application I created needed a major over-haul and a lot more functionalities. I developed the internal user application with VB6 and the website in PHP4. This time around, PHP was already in version 5 and I had a couple of little hiccups upgrading the PHP side. However, upgrading my VB6 application was a bit more tricky, VB.NET was already out and it needed a lot of scouring into the seemingly endless abyss, the internet, to get some help on my codes.\r\n\r\nI now work with PHP and MySQL on most of my projects."
+-
+    name: ''
+    mail: ''
+    subject: 'Free compatible Visual Basic support'
+    hostname: 200.109.92.146
+    created: '1160484310'
+    body: "Visual Basic community had about 6 millions programmers. Enterprises have millions of code lines in Visual Basic that represents billions dollars.\r\n\r\nMicrosoft had broken Visual Basic 6, VB.NET is not compatible with VB6, so enterprises have a big problem, they have to switch to another language (costing billion dollars) or they have to keep working with VB6 (a not maintained, killed language.)\r\n\r\nWhat will happen with those million programmers and with those billion dollars invested in software by these companies?\r\n\r\nThis is a very big opportunity for Linux and free software community. If they support VB6, many people abandoned by Microsoft would migrate to Linux.\r\n\r\nHow can be done?\r\n\r\nFirst, making high quality and powerful controls (OCX) and DLLs for the Visual Basic environment, modernizing and enhancing the tools for the VB6 programmer. These objects will prepare the migration for Linux (see below.)\r\n\r\nSecond, making a VB6 compatible compiler. The compiler will be free and will work on Windows environment. It will have full backward compatibility, full OOP paradigm, code folding, etc. The Visual Basic programmer will be able to migrate the existing code easily and will have the benefits of a modern language and development environment.\r\n\r\nThird, making the compiler to work on Linux. The Visual Basic programmer won't be able to translate all the code to Linux if he or she uses Windows specific code (Windows APIs, controls, etc), but it will be able to translated code easily if he or she use controls, DLLs, etc, developed in the first step, so it is very important to develop a rich set of objects for the programmer.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Worth billions?'
+    hostname: 68.93.224.4
+    created: '1160616158'
+    body: "If it's worth billions to industry, then industry should probably pay for its development. That'd be a really cheap solution (what you ask for is probably less than a million $ of work, if I had to guess).\r\n\r\nOTOH, if you just wait for free software developers to develop such a thing on their own time, they generally won't bother.\r\n\r\nWhy? Because too many of them regard VB as a fundamentally flawed, inferior system, and they don't want to waste time on elaborate development projects for something that's fundamentally flawed (I could be wrong of course -- there may be a group of free software programmers out there who love VB and want it implemented badly enough to spend the time on it, I just haven't encountered any).\r\n\r\nIt's like asking expert craftsmen to build a beautiful Victorian mansion on a cracked foundation. They'll build \"for the fun of it\", but only if it's cool, and a cracked foundation isn't. So the only way they're going to do that, is if you pay them.\r\n"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'Free VB'
+    hostname: 69.180.163.110
+    created: '1160684740'
+    body: "Wow -- a million dollars to replicate VB on Linux?  You're pretty optimistic, Terry. :-)\r\n\t\t\t\r\nInstead of the cracked foundation metaphor, can we instead suggest VB can build you a nice dollhouse or playhouse or maybe even a decent tree house, but not a Victorian mansion or even a skyscraper?\r\n\r\nI agree that the people who would be able to implement a free VB already have all the tools they need so why bother."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'You think?'
+    hostname: 68.93.224.4
+    created: '1160771418'
+    body: "\"Wow -- a million dollars to replicate VB on Linux? You're pretty optimistic, Terry.\" :-)\r\n\r\nGiven that Guido van Rossum knocked together Python in his spare time, Linus Torvalds wrote the first versions of Linux in his house, and Larry Wall basically wrote Perl while he was working on something else at JPL, and each of these projects took only a few years to get started, why not a million dollars?\r\n\r\nThat's a lot of money if you think of it as salary for one or two people (if you have two programmers employed fulltime for, say, $100,000/yr (which I think is pretty high), that's funding for 5 years to develop what is basically just a new interpreted language -- except it isn't new, there's a fully-developed prototype which provides a fully-tested spec).\r\n\r\nBut who cares?  If it's going to save \"billions\", they could budget $25 million or $50 million and still be happy. You're talking about comparing ludicrous amounts of code redevelopment to port to a new platform instead of just making the platform compatible. And the only reason is because the platform is \"unchangeable\". That's the absurdity of proprietary software development -- constant reinvention of the wheel.\r\n\r\nAs for the metaphors, I wasn't talking about what one can build with VB, I was talking about building a VB interpreter. Many programmers view the language design as fundamentally flawed, so they'd want to \"improve\" it -- or rather create a whole new language, rather than just writing a program to run VB code. (It's also not my opinion of VB -- because I haven't got one, never having used it myself. I am merely relaying the hostility to the language I have heard from others.).\r\n\r\nAlso, I didn't necessarily mean VB on Linux. Could be on Windows, for that matter.  Of course, there's the whole question of how much environment the typical application will need.  Obviously this could become an excercise in replicating Windows (but then again, there's Wine and ReactOS already).\r\n\r\nRemember that we are positing that this is a free software interpreter, so we don't have to re-invent everything. We basically need to provide the basic syntax, and any libraries etc that the typical VB programmer expects (or that typical VB applications rely on).\r\n\r\nI imagine there'd be enough interest to contribute to such a thing once it got started, but if the \"industry\" actually cares this much about VB, it should fund a project to create a free software VB interpreter.  Should be a real bargain.\r\n\r\nHeck, if I had somebody paying for it, <em>I'd</em> probably be willing to work on it (not that I'm a good choice -- I don't even know VB), so I feel certain there's somebody out there who could do it.\r\n\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Some links'
+    hostname: 68.93.224.4
+    created: '1160772508'
+    body: "This might be an interesting starting point for anybody interested in doing this:\r\n\r\n<a href=\"http://www.mono-project.com/VisualBasic.NET_support\">Mono VisualBasic.NET</a>\r\n\r\nSomebody wanting to translate VB code to Linux in a more direct way, might be interested in:\r\n\r\n<a href=\"http://sourceforge.net/projects/vb2glade\">VB to Glade</a>\r\n\r\n(converts VB GUI to Glade GUI -- I suspect combining this with an existing free BASIC interpreter might be a good start?)\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Billions?!!'
+    hostname: 200.109.74.232
+    created: '1160832180'
+    body: "Some links:\r\n\r\n<a href=\"http://www.bitwisemag.com/copy/bytegeist/bytegeist7.html\">...The Disaster Known As Visual Basic</a>\r\n\r\n<a href=\"http://visualbasic.about.com/od/imhoinmyhumbleopinion/a/BradJSueMS.htm\">Should Microsoft be sued for dropping support for VB 6?</a>\r\n\r\n<a href=\"http://www.grimes.demon.co.uk/dotnet/vbpetition.htm\">VB Classic Petition</a>\r\n\r\n<a href=\"http://classicvb.org/\">Classic VB</a>\r\n"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'Money, money, money'
+    hostname: 69.180.163.110
+    created: '1161043766'
+    body: "I agree that if it's worth so much to business than it would be worth funding an open alternative for a few/several million dollars.  (Are there copyright/patent issues, I wonder?)\r\n\r\nEven though it's just porting to something that already exists, I think it would be a huge effort to make all the existing code work.  It's wouldn't be something that would grow more organically like Perl.\r\n\r\nIt would definitely have to be paid -- there wouldn't be a lot of \"itch scratching\" incentive for free software developers to bail out the corporate users that would most benefit."
+-
+    name: ''
+    mail: ''
+    subject: 'Market share'
+    hostname: 200.109.74.87
+    created: '1161130813'
+    body: "\"...It would definitely have to be paid -- there wouldn't be a lot of \"itch scratching\" incentive for free software developers to bail out the corporate users that would most benefit.\"\r\n\r\nOne incentive:\r\n\r\nA Free Visual Basic, with true OOP and many other improvements, that work on Windows and Linux could attract a huge market. hundred thousand Visual Basic developers and thousand bussineses that have a lot invested on Visual Basic applications. This could fuel Linux market share and erode Microsoft market.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'That''s not really motivation for developers'
+    hostname: 68.93.224.4
+    created: '1161157914'
+    body: "Frankly, in my experience, <em>developers</em> don't care about \"Linux market share\".  I mean, in a \"Hooray for our team\" way, yes they do, but as a motivating factor? No, not really.\r\n\r\nTheir main concern is more selfish: will Linux do what I need? Will the hardware manufacturers respect the platform enough to provide specs? And so on. Yes, there are a few idealistic developers who would take an interest in freeing an application in order to \"support the revolution\", but most of those would be the ones who <em>don't</em> use VB, if you think about it.\r\n\r\nWhether Linux has 5% of the desktop or 95% doesn't make a huge difference to most of them. They're always going to be on marginal, bleeding-edge systems anyway, whether the distinction is due to the O/S, the hardware, or some other factor. So the stigma of being a Linux user that bothers so many end users just doesn't have much bite for developers.\r\n\r\nThe point is, developers are pretty busy people, usually with dozens of ideas of their own to pursue. Odds are pretty good they have something else more interesting they'd rather be doing than this.\r\n\r\nAlso, not to sound cynical, but you know those billions of dollars spent on re-engineering enterprise applications? Who do you think will get that money? Some may even be able to convince the management that the smart thing is to port the application to Python (or Ruby, or Scheme, or whatever).\r\n\r\nAny way you slice it, the people who save money by having a VB clone would be the management in those enterprise-level corporations. So if they want it, they really should just hire programmers to write it. They should do it as an open source project, for maximum efficiency, but there should be a fairly traditional core developer group deployed to solve the problem.\r\n\r\n<em>Not</em> having a VB clone is probably a marginally win for the average free software developer, in a game-theoretic way of thinking. Paying for a development program is a logical alternative, because it would change that dynamic by giving a direct incentive to some programmers to solve the problem.\r\n\r\nThe thing you have to realize is that developers are great at doing what they want to do, but they're pretty hard to herd. If you really want to control what interests them -- well, the smell of cash does help. ;-)\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'An incentive for some enterprises'
+    hostname: 200.109.74.87
+    created: '1161315486'
+    body: 'But can it be an incentive for some enterprises like Novel, IBM, Sun,...? (To take market share from Microsoft?)'
+-
+    name: BitShifter
+    mail: ''
+    subject: 'I am one of those dweebs who'
+    hostname: 61.246.101.111
+    created: '1163498590'
+    body: 'I am one of those dweebs who use Visual Basic. And yes, I do have the same gripes about it. Free software is available everywhere with numerous updates and upgrades available. BUt, can anyone tell me the best program? I just recently got tired of ol'' VB. Any suggestions?'
+-
+    name: ''
+    mail: ''
+    subject: 'That''s not the problem...'
+    hostname: 84.148.98.132
+    created: '1163510619'
+    body: "I totally do believe that money could be made this way.\r\n\r\nBut: VB6 is still proprietary software and M$ won't let anyone near it because they want everyone to migrate towards VB.NYET. \r\n\r\n\r\nThat's the way they earn their money: Use brute market force to create quasi-standards, wait until people have gotten used to it, then invent some new standard and have them all migrate for lots of $$$.\r\n\r\nOr as Akio Morita said (founder of Sony): \"If the market for the product isn't there, we'll make one.\""
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'Java?'
+    hostname: 69.180.163.110
+    created: '1163539663'
+    body: "Java is looking good to me since I've been using it for several years now, and with this week's news it's looking even better.  I haven't really programmed GUIs with it, though, and I need to learn how to do that.\r\n\r\nWas also thinking about trying out Python for something new to try.\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: ''
+    mail: ''
+    subject: Heh
+    hostname: 24.11.163.118
+    created: '1167509483'
+    body: 'I wouldn''t assume anything written in .Net is automatically Vista-proof (or Vista ready) either.  You might want to start looking at all of the new hoops to jump like UAC and other changes.'

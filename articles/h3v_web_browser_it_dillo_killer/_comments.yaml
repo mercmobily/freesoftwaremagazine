@@ -1,0 +1,49 @@
+-
+    name: AdamW
+    mail: ''
+    subject: Thanks!
+    hostname: 24.84.172.249
+    created: '1228133234'
+    body: "Great article, thanks for the pointer. I've packaged hv3 up for Mandriva, it will be available in a while (I need to complete the Tcl/Tk 8.6 migration first). More at my blog:\r\n\r\nhttp://www.happyassassin.net/2008/12/01/hv3-light-tcltk-based-web-browser/"
+-
+    name: maruadventurer
+    mail: ''
+    subject: 'H3V,  advancement unlikely as SEE is unavailable'
+    hostname: 72.190.96.105
+    created: '1228154810'
+    body: "Mr. Richmond,\r\n\r\nOne might wish to reconsider whether this effort, in alpha, will make it. I just did an internet scan for one of the underlying tools, Simple ECMASript Engine, and it is no where to be found. Oh references to the software is there but SEE is not available. Even the link provided by the H3V homepage does not work. \r\n\r\nSo in light of the fact that SEE is not available or possibly not in development anymore how is one expected to see this advance? I would expect a tad more diligence for an article of this kind. \r\n\r\n"
+-
+    name: paxdomine
+    mail: ''
+    subject: 'HV3 - Impressive so far'
+    hostname: 24.171.216.199
+    created: '1228156866'
+    body: "I came across HV3 about a month ago and am really impressed with the work so far (the rendering is fantastic). Not only does it beat out Dillo but it also renders much better than another minimilistic windows-only browser - OffByOne (though it does support SSL and loads faster than any browser I've looked at including Lynx).\r\n\r\nEMCAScript (JavaScript) is turned off by default and nothing is saved on the system when the browser closes (command-line options allow saving locally).\r\n\r\nThe rendering engine (Tkhtml) was also used by another decent browser, BrowseX, but it appears that work on this browser has ceased.\r\n\r\nI'm looking forward to continued work on HV3. If they continue on track I have to agree with the sentiment of this article - they'll be the low-end (cross-platform) browser solution to beat.\r\n"
+-
+    name: GoblinRFD
+    mail: ''
+    subject: 'Well, Ive yet to see the speed but heres to hoping!'
+    hostname: 78.86.75.104
+    created: '1228361788'
+    body: "I read with interest your great article, and started testing it myself.\r\n\r\nPlease keep in mind my firefox is minimalist no plugin latest version.  I am running Ibex 8.10.\r\n\r\nLets see, I call up Microsoft Watch front page on both Firefox and H3v.  Memory footprint:\r\n\r\nH3v is 17mb approx\r\nFirefox is 122mb approx\r\n\r\nFirefox shows 5pc CPU usage for calling up the page, H3v displays 2pc CPU usage for the same.\r\n\r\nNow lets get to my real issue.  Firefox loads the page in about 2seconds fully.  H3v takes around 14 seconds and appears to crash, only to recover a few seconds later.\r\n\r\nI understand this is a beta, but with so many alternatives around is it needed?\r\n\r\nOf course Ive yet to give it the Fedora or Gentoo treatment, and I have numerous other hardware configs to give it a go on.\r\n\r\nInitial findings, not impressed yet.\r\n\r\nOpenbytes! - The Linux blogazine!\r\nwww.openbytes.wordpress.com"
+-
+    name: Woody
+    mail: ''
+    subject: 'Statefile works for me'
+    hostname: 85.176.237.245
+    created: '1228396611'
+    body: "I have had no problem creating and using the statefile with the -statefile option. Perhaps your problem is that you used the incorrect name by typing H3v (incorrect) rather than Hv3 (correct) -- as you did multiple times in your article (even in the title!).\r\n\r\nI must admit that I typed exactly the same incorrect name several times before noticing my error! So your criticism of the name is, IMO, justified. But perhaps a typing refresher course would help me avoid such errors ...\r\n\r\nNevertheless, I hope that the Hv3 project continues to be developed further.\r\n\r\n-- Woody"
+-
+    name: alandmoore
+    mail: ''
+    subject: 'Actually, it''s alpha, not'
+    hostname: 72.237.174.94
+    created: '1228436049'
+    body: "Actually, it's alpha, not even beta.  You might consider that.  \r\n\r\nDespite there being a large number of browsers, there are gaps that aren't currently filled by the range of browsers.  Most of them aim for the everything-and-the-kitchen-sink featureset on one end, and the ncurses/cli-only ones on the other.  In between, i keep searching for a good, fast, lightweight browser that covers the basics:  HTML, CSS, ECMAscript.  I've often needed a lightweight browser like this for use in kiosks or on older machines.  Dillo's lack of CSS support makes it useless for rendering the vast majority of websites made in the last 10 years.  Even a totally vanilla firefox is painfully slow on an older system, and there are so many features to lock down in a kiosk-type situation.  I've found workable solutions to date, but nothing that quite hits the spot.\r\n\r\nMore work in the \"minimal/lightweight\" end is going to pay off as the mobile/MID/netbook market continues to expand and evolve.  "
+-
+    name: GoblinRFD
+    mail: ''
+    subject: Correction
+    hostname: 78.86.75.104
+    created: '1228614946'
+    body: "Appologies, my error.  It is an Alpha not Beta.\r\n\r\nOpenbytes! - The Linux blogazine!\r\nwww.openbytes.wordpress.com"

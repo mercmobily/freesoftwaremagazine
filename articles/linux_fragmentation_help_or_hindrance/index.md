@@ -1,0 +1,61 @@
+---
+nid: '2135'
+title: 'Linux fragmentation: help or hindrance?'
+authors: 'Gary Richmond'
+published: '2007-03-13 20:22:22'
+tags: 'packaging,fragmentation,choice'
+license: verbatim_only
+section: opinions
+listed: 'true'
+
+---
+Here is a familiar list for readers: vanilla kernel, custom kernel, debs, rpms, Tgzs, source files, Apt-get,Emerge, Yum, Urpmi, Synaptic, Kpackage, Adept, Kyum, Yumex, Smart, Klik and Autopackage. I could go on but you get the idea.
+
+Every user of GNU/Linux knows the mantra that everthing is a file but they also know that it promotes itself under the banner that it is all about choice and therefore power and flexibility. That is true and it is what attracts so many of us to use GNU/Linux in addition to the political freedoms guaranteed by its open source nature and the specifics of the GPL (whichever version you support).
+
+
+# Loose in the Candy store
+
+Choice, power and freedom: it's quite a heady brew and sometimes it precipitates a veritable chain reaction of events. Distros fork as people have "political" disagreements, new file systems evolve, new package managers ( command line and GUI) come out. Sometimes, the rate of change can be dizzying and the end-user is left reeling from the sheer muliplicity of choice available. Choice implies knowledge and as the choice expands the learning curve seems to become vertical which can tend to put off some newcomers. You can sometimes feel like a starry-eyed child in a shop where all sweets are free. There is always a danger that you might starve to death for want of knowing where to start.
+
+Fragmentation has, perhaps, some negative connotations. It suggests things falling apart, the centre unable to hold like some Yeatsian falcon flying off at a tangent, but of course in Linuxland fragmentation is another name for freedom and choice. It means that any individual or group is free to develop their distro their way. This is very empowering as you can basically cherrypick you components. It can be compared to the difference between buying a suit off the peg and purchasing a bespoke item - the latter will be specifically tailored to your dimensions. In computer terms you have built your PC and ignored that shiny new model in the shop any anyway you will get exactly what you paid for. Why pay expensively for that top of the range graphics card when you don't play games and all you want is to surf,  e-mail and do the odd spreadsheet or word processor document?
+
+
+# Where there's a will
+
+On the software side, if a large corporation has its programming locked down in a proprietary format it can and does make decisions which affect you as the end user, up to and including being in control of the release cycle for updates and new products as well as decisions to discontinue support for legacy systems. In GNU/Linux, if you have the will, determination and technical know how you can decide to maintain that legacy system individually or in consort with others. That kind of fragmentation is clearly a good thing for it allows individuals to exercise a modicum of control over their own computing experience and retain features of an operating system which they like and use. Additionally, fragmentation can also reflect people developing or extending concepts, programs and ideas to meet new challenges. To take just one example: the Live CD.
+
+When Klaus Knopper developed his Live CD he could not have imagined how others would take it up and run with it. Many use it to showcase GNU/Linux to newcomers, others are dissatisfied with the lack of certain features they want - a kernel module, support for a particular graphics card, better package management, faster boot times and the ability to run on different computer platforms to name a few. The live CD has been a boon to those who were wary of installing to the hard drive for fear of wiping another operating system. In response, a live cd can be used to test for hardware compatibility prior to a full install and now of course it is possible to to do the testing first and if you like what you see to proceed to a full install from within a running live environment. Entire live distros have been built to cater for security, file repair and rescue, clusters, multimedia graphics etc.
+
+
+# The Bad News?
+
+The downside to all of this is of course the dreaded phrase "steep learning curve". It is one of the most common complaints you will hear from those who are reluctant to adopt GNU/Linux and they will invariably invoke the bogeyman of fragmentation as irrefutable proof. However, a closer look at this familiar objection reveals that it it more of an issue for businesses adopting it than it is for private individuals. This is a fair point as the requirements of a business will differ markedly from yours or mine. A business will be looking for continuity, reliable upgrade cycles, technical support and all the things that users of closed source, commercial, proprietary operating systems would expect - and there are many enterprise versions of GNU/Linux which render such support and do it well; Suse (sorry, Microvell), Redhat and Mandriva to mention a few.
+
+
+# The Good News
+
+For the individual user of GNU/Linux these things are not unimiportant but they are not necessarily critical deal breakers. Unlike a business, you or I can behave like promiscuous distro tarts and change our loyalties more frequently than Winston Churchill changed parties. Indeed, for many, this is precisely the attraction - the novelty of trying out new distros, new features that someone has included in the latest live version which was either not available in the distro or in the package repository. Take a specific example of the bewildering choice. You have a hard disk install of say, Mepis Linux (Ok, I'm writing this on it!). and you fire up, say, Synaptic (or Kpackage or Adept or ......) and you do a quick Apt-get update in anticipation of installing that killer piece of software you have promised yourself.
+
+Horror! It isn't available. If it is, you discover that it has a series of unmet (or unmeetable) dependencies. Against your better judgement you force it to install. Disaster. It either doesn't work or it generates system instability so you unistall it and go off on a search on the internet for a third party rpm or deb or whatever is the flavour of your distro. That doesn't work either. Dependency hell. Hmmm..... You have a think and change strategy. Of course, why make life difficult for yourself! Give it the old three card trick and install from source but using make, configure and make install method, freeing you from the dependence (no pun intended) on package developers but you then discover that every version of GNU/Linux does not install by default all the development packages which installation from source requires. So, off you go and install them one by one to meet each error message. You've done it at last. The application has installed and it is working beautifully.
+
+Being perverse you decide to remove it and reinstall just to prove to yourself that it was no fluke and claim bragging rights on Linux Street. Oops! It was a source install and there is no rpm or deb to unistall via your chosen package manager. Should have installed Checkinstall and substituted that command at the make install stage. That would have created a binary package that would be registered in the database and could have been uninstalled easily by the familiar package manager instead of hunting for the developers' uninstall config. files.
+
+However, you aren't too technically minded and you just don't fancy all that faffing about on the command line but the "fragmentation" of GNU/Linux gives you several more options. If Oranges aren't the only fruit then rpm and Apt-get are not the only package managers. If you are using Gentoo you have Emerge for installation and it would keep a configuration tweaker happy to the crack of doom but its relative complexity puts you off. Enter SMART.
+
+For once it's not yet another Linux recursive acronym. It means just what it says. Its developers claim that it uses a very smart algorithm which is superior when solving dependencies and using the best, weighted, optimal solutions. They claim that what fails to install under Apt-get, say, will install under SMART. If even SMART should fail you could always go for an off the shelf solution - KLIK. For example, I could not install Democracyplayer by any of the conventional routes but KLIK did the business. It not only worked but left my file system intact and could be painlessly removed by simply dragging the desktop icon onto the trash icon and you can of course save to an external, removable medium and use it on other systems. Mileage will vary of course but it does represent yet another weapon in the installer's armoury.
+
+
+# An Embarrassment of Riches
+
+There are four more solutions: Autopackage (which, once you have installed the first package, is as near as you are likely to get to a Windows-style install) but the range of available packages is small compared to the repositories for Rpm and Debian distros. Debian fans used to joke that Apt-Get was what RPM wanted to be when it grew up and it was subsequently ported to RPM distibutions as was YUM which is used in Fedora but was ported from Yellow Dog Linux. Alien too is an ideal solution if you want to do a binary install but cannot find  one suitable for your distribution. On the command line you can convert one binary package format to another format (deb to rpm and vica versa). Then there is CNR (click and run) from those nice people whom brought you Lindows, aka Linspire and latterly Freespire. The package management system is CNR which, if I understand it correctly, is like SMART and acts as a meta-manager. It has not been released yet (2nd quarter of this year if you are interested) but when it is it is planned to support the following versions of GNU/Linux: Debian, Fedora, Freespire, Linspire, OpenSuse and Ubuntu with support for other versions planned for 2008.
+
+It looks extremely interesting and it will be an enormous achievement if it turns out to be the Rosetta Stone of package management. I'm certainly going to try it out when it becomes available and test it to destruction. Doubtless, for command-line purists it will bring out the hives but if the Gordian knot of fragmentation is to be cut and mass uptake of GNU/Linux is to happen then this sort of development is crucial. It does not need to replace existing package managers or deprecate command line tools (which I love) but if it draws in the Windows techno-phobes and answers their objections then perhaps Bill and Steve should start to feel uncomfortable.
+
+
+# All's Well That Ends Well
+
+Finally, although Windows dominates the desktop this is not always necessarily a bad thing. When professional phishers and bored script kiddies are targetting networked computers the sheer preponderance of Windows machines and their lamentable security record ensure relatively easy picking for the hacker. As if to add insult to injury most will be using Internet Explorer and Outlook. If a hacker has to program a malicious script he or she knows that it can catch most users as they will most likely be using these programs. Over at Planet Linux the hacker will have to design for numerous e-mail clients - Sylpheed, Pine, Kmail, Evolution and Thunderbird - and for numerous browsers - Dillo, Firefox, Seamonkey, Epiphany, Flock, Konqueror, Links, Lynx, Galeon and Opera (Ok, Opera and Firefox and Flock are available for Windows) I think that there is an acceptable degree of fragmentation, for in it, paradoxically, lies our best protection. The trick is to expand the base without endangering those aspects of GNU/Linux which attracted us to it in the first place.
+
+This symbiotic balance is at the core of the efforts to spread this operating system without diluting its power or security. Fragmentation may well be the ghost at the banquet, the price to be paid for freedom and empowerment but if badly handled it might inhibit private and enterprise uptake. As for me all I can say is that I love GNU/Linux . Hell, why don't I just come out and admit it? If I was a woman, I'd marry it and have all its babies!
+

@@ -1,0 +1,14 @@
+-
+    name: 'Rob Strover'
+    mail: ''
+    subject: 'Comment on Paternalistic Attitude shown by Canonical'
+    hostname: 124.168.107.22
+    created: '1325492381'
+    body: "The paternalistic attitude of Ubuntu/Canonical has been around for quite some time. I've always had issues with GNOME about how difficult it can be to alter system characteristics (gconf-editor, etc.) which is why I have tended towards the KDE approach.  However within the scope of GNOME2 customisation was possible and generally well documented.\r\n\r\nThen we come to the Ubuntu Netbook Remix/Edition. The first couple of releases were fine and interface changes could be carried out in the usual GNOME manner. With the 10.04 release (last before the Unity interface on UNE) some interface changes were simply *not* possible within the UNE interface - one had to boot into 'normal' GNOME, change the task bar application set up and then switch back to the UNE interface - not straightforward even for the reasonably adept - the user was required to activate an alternative set of logon scripts. Note also that at the same time Canonical also changed the way the titlebar max & min buttons were displayed. \r\n\r\nThis was when I realised  that Canonical were determined to take their own path and did not really care how this affected the rest of the Linux world.  Their approach as shown by these sort of changes (together with the full move to Unity) has been a long term move towards a more centrally controlled approach - The manufacturer tells the user how things will look or work and the user has little or no way to counter this. \r\n\r\nIn some respects the current approach of Canonical reminds me more of Apple and Microsoft than of the 'traditional' Linux approach to customisation - particularly in regard to the graphical interface."
+-
+    name: chingchunguk
+    mail: ''
+    subject: 'like lots of different seasoned'
+    hostname: 202.154.236.150
+    created: '1328614920'
+    body: 'like lots of different seasoned GNU/Linux persons, will not be leaving it whenever shortly however Ubuntu’s days as top puppy may be numbered. When you attempt to be all things to all men you at times come to a point satisfying nobody.'

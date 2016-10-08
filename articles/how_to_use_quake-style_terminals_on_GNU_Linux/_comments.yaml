@@ -1,0 +1,28 @@
+-
+    name: milianw
+    mail: ''
+    subject: 'wallpaper in yakukae screenshot'
+    hostname: 87.187.26.175
+    created: '1187116860'
+    body: "Hello Andrew!\r\n\r\nI'm also using yakuake all the time, it's a very neat program.\r\n\r\nCould you possibly point me to the place where I can obtain the wallpaper shown in the yakuake screenshot?\r\n\r\n\r\n--\r\nhttp://milianw.de"
+-
+    name: offset
+    mail: offset@ggmail.com
+    subject: 'I would personally recommend'
+    hostname: 68.192.3.113
+    created: '1187125860'
+    body: "I would personally recommend YeahConsole.  Its probably the lightest of the bunch.\r\n----------------------------------\r\n\r\nhttp://phrat.de/yeahtools.html\r\nhttp://freshmeat.net/projects/yeahconsole/"
+-
+    name: nh2
+    mail: nh2@libretlemcen.org
+    subject: 'doesn''t compile'
+    hostname: 41.201.250.194
+    created: '1191492772'
+    body: 'YeahConsole seems great but it didn''t compile on my ubuntu :-('
+-
+    name: zenmatt
+    mail: zenmatt@gmail.com
+    subject: 'in Feisty universe'
+    hostname: 74.129.160.159
+    created: '1191610009'
+    body: "In Feisty you should be able to install yeahconsole using Synaptic if you've enabled the universe repositories.\r\nhttp://packages.ubuntu.com/feisty/x11/yeahconsole"

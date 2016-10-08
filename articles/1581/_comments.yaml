@@ -1,0 +1,42 @@
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: 'The situation is getting better'
+    hostname: 80.56.225.142
+    created: '1149659966'
+    body: 'Yes, truly a problem, but one that is getting much better over time. Yesterday I upgraded my Ubuntu distribution by changing one file then running apt-get dist-upgrade. Whoosh 746 MB of upgrades and a smiling happy coffee drinking over stressed developer relaxed within 15 minutes. Sure things like WiFi for me have the cold feeling of painful playtime, but just think of the pleasure of telling your grand children how you solved a specific issue with lsprob while juggling vi replace tokens. No just kidding, the situation is getting better. Look at how easy installing a printer driver using a <a href=http://www.freesoftwaremagazine.com/articles/printing_ubuntu>CUPS</a> wizard is these days'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '(Ã¢â‚¬Ëœ384kbps dn/128kbps upÃ¢â‚¬â„¢Ã¢â‚¬â€?but they only have'
+    hostname: 66.118.56.227
+    created: '1149706551'
+    body: "<p>In fairness, I have to say that this particular complaint turns out to be a misunderstanding.  Apparently my current bandwidth woes are not due to filling the upstream pipe, but due to straightforward antenna feed problems. The technician did tell me that they used a \"T1\" but I either I misunderstood what he meant by that, or he was misinformed.</p>\r\n<p>I'm so glad I didn't mention the name of my supplier.</p>\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Getting better all the time ...'
+    hostname: 66.118.56.227
+    created: '1149707027'
+    body: "<p>Sure, but actually, the things you're talking about all have to do with things we have some control over. But educating folks from your local rural wireless broadband company is a long, hard battle. Business has always run on \"a little grease between the cogs\" -- the little lies and fudge-factors that we tolerate, which may actually be illegal or non-compliant to standards.</p>\r\n\r\n<p>Engineers know this, and they expect to have to do a little fudging and experimenting any time two independently developed systems have to interact, even when theoretically everything should \"just work\" because of standards compliance. However, when we rely on standards for the end-user experience, things get sticky. There's a certain amount of \"engineering moments\" that we just can't protect the end user from, if we are using a free platform.</p>\r\n\r\n<p>The temptation is to insist on particular platforms whenever dealing with end-users, and this is the source of much of the market pressure against GNU/Linux.</p>\r\n\r\n<p>I don't know what to do about it, but it's an obstacle. Of course, as the platform gets more widely used, it will gradually be able to compete as a standard desktop <i>platform</i>. But I think that's still years away. Especially out here \"in the sticks\".</p>\r\n\r\n\r\n"
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: Greased
+    hostname: 80.56.225.142
+    created: '1149710162'
+    body: 'This year the number of developers for Linux should be greater than for Windows so the grease factor should get a little less greasy and fast. '
+-
+    name: BenTremblay
+    mail: ''
+    subject: '"Don''t tell me how it works, tell me how to use it!"'
+    hostname: 68.148.26.220
+    created: '1149735130'
+    body: "Not to contradict your \"<i>Ã¢â‚¬Å“DocumentationÃ¢â‚¬? for newbies, however is imperativeÃ¢â‚¬â€?it just tells you what to do, and doesn't bother explaining. That means that instead of relying on technology standards about the thing you're actually doing, the documentation relies on platform standards.</i>\" too often I find that online docs are *surprise?* written from the coders' perspective.\r\n\r\nWhich is to say *D'uh!* that something like documentation can suffer from a cloud of symptoms (\"syndrom\", anyone?), any one of which can lead to a number of confounds. SNAFU to the nth degree.\r\n\r\nTraditionally / historically companies that hire and pay actual tech_doc types have tuned into the unanticipated benefits attendant with that expense. \"Write docs that explain\" generates \"But it doesn't walk folk through the process!\" and vice-versa.\r\n\r\nNot infinite, that cloud of symptoms ... just complex and chaotic. heh\r\n\r\n\r\nWhen you look to see how the system works\r\nLikely you will find that it does not."
+-
+    name: 'Rosalyn Hunter'
+    mail: ''
+    subject: ' Look at how easy installing a printer driver using a CUPS wizar'
+    hostname: 68.93.224.4
+    created: '1150581401'
+    body: "Don't talk to me about CUPS.\r\n\r\nI just connected my printer using it, and now I find that most software is still trying to print using my old configuration, and so I have to try to change each program by hand.\r\n\r\n I still haven't gotten GIMP to print, and I found a Bios bug that halts my boot cycle if the printer is plugged in, but that's an aside.\r\n\r\nReally, I hate following Windows instructions for everything. When are more manuals going to come with Linux instructions? It'd be better even if they said, \"Here is the diagram. You'll have to figure out how to connect this yourselves\"\r\n-R"

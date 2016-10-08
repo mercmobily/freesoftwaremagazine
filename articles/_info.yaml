@@ -1,0 +1,4 @@
+filters: fsm-tags,markup-markdown,make-summary
+postFilters: layout
+postProcessFilters: template-ejs
+layout: article.html

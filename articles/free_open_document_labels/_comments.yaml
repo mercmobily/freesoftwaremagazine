@@ -1,0 +1,21 @@
+-
+    name: ''
+    mail: ''
+    subject: 'GPL is not the same as public domain'
+    hostname: 213.148.143.146
+    created: '1156177428'
+    body: "See\r\nhttp://www.gnu.org/philosophy/categories.html#GPL-CoveredSoftware\r\nand\r\nhttp://www.gnu.org/philosophy/categories.html#PublicDomainSoftware\r\nfor further details. The diagram\r\nhttp://www.gnu.org/philosophy/categories.html#diagram\r\nis also nice."
+-
+    name: zzo38
+    mail: ''
+    subject: 'I just use Plain TeX for this'
+    hostname: 24.207.49.17
+    created: '1322749976'
+    body: "I just use Plain TeX for this stuff, and then output in DVI format, and convert DVI to PCL. Far better than OpenOffice/LibreOffice in my opinion.\r\n"
+-
+    name: rhayden
+    mail: ''
+    subject: labels
+    hostname: 71.168.95.38
+    created: '1324141746'
+    body: "re TeX -- Yeah, that works for the 0.000001% of the population that uses TeX;-)\r\n\r\nre labels -- business cards are used as an example of many labels with the same text, but I could not find a template for business cards."

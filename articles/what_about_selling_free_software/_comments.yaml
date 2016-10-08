@@ -1,0 +1,84 @@
+-
+    name: 'Crosbie Fitch'
+    mail: ''
+    subject: 'Non-profits?'
+    hostname: 193.113.235.182
+    created: '1166052579'
+    body: "This works just as well for 'for-profits'.\r\n\r\nLet's be careful before we start evangelising free software as ideal for those antithetical to profit.\r\n\r\nIf you discover you can sell a GPL work in a particular market for more than the costs of your labour and materials in packaging it, where in the GPL does it stipulate that profit must be avoided, or that it must be disposed of in a particular way?\r\n\r\nThe GPL is about liberty, not profitability.\r\n\r\nFree as in freedom, not as in beer.\r\n\r\nDon't get me wrong, I'm not against charity, nor in charities or non-profits exploiting free software, I'm just reminding you that the fact that some free software is free of charge can similarly be observed for proprietary software. The ethical superiority of free software does not come from being 'free of charge', but by being 'free of encumbrance'.\r\n\r\nEthical businesses choose free software because it does not suspend the public's liberty.\r\n\r\nWhether it's sold at a profit or not is a matter independent of the public's liberty. You can give it away or sell it for a 200% mark-up, the price is not determined by the GPL.\r\n\r\nThe GPL embraces your right to charge any amount for your labour. It does not oblige a non-profit economy.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Non-profits? Sell things?'
+    hostname: 194.113.59.80
+    created: '1166097193'
+    body: "Actually, in most jurisdictions non-profits may not sell anything; what they may do is hand out goodies as an incentive to donating.\r\n\r\nHowever, unless these are specifically technically-oriented non-profits, they would first have to find someone to reliably put together a good software collection, document it, test it, etc, or the whole thing may backfire.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Sell Free Software'
+    hostname: 220.233.53.52
+    created: '1166106097'
+    body: "I think this is a great idea for anybody in general - not just for non-profit orgs. This idea proposes something positive that will increase the usefulness of Free software. Works such as these leads to a win for the user. \r\n\r\nSo go right ahead, improve and sell some Free software so you can help support non-profit charities do what they do best. Your proposed idea is what free software is all about - users having the freedom to improve and share their software so they can help their neighbours. Non-Free and Partially-Free software will never have this advantage."
+-
+    name: ''
+    mail: ''
+    subject: 'Does this include local'
+    hostname: 220.233.53.52
+    created: '1166106570'
+    body: 'Does this include local sports clubs (that aren''t profit oriented) that sell food at their games to help offset their costs?'
+-
+    name: ''
+    mail: ''
+    subject: 'They don''t need permission'
+    hostname: 4.228.9.139
+    created: '1166108708'
+    body: "\"Why not let non-profits package up useful free software and sell it on CDs as a fund raising idea.\"\r\n\r\nWhat do you mean \"let\" them?  There is nothing stopping them.  At least not for GPLed software."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Thin, thin margins'
+    hostname: 68.93.224.4
+    created: '1166119011'
+    body: "Um. A little economics lesson and a small dose of reality for those who may need it: making a big profit by duplicating something anyone else can duplicate is almost impossible. It's certainly not a get-rich-quick scheme.\r\n\r\nThere are a few companies which have specialized in keeping the costs of disk-duplication low, and thus can offer low prices on a wide variety of public domain and free-licensed software (including \"content\"). But the margins are thin, and the product is \"perishable\".  Consequently, their margins are very narrow.\r\n\r\nMass-pressings of free software tend to create a lot of waste, because as soon as the new version of the software comes out, the old version becomes nearly worthless (probably less than the cost of duplication). On the other hand, short runs involve less-reliable CD-R or DVD-R media, which means more customer-dissatisfaction, and the accompanying costs of service and replacement costs. Then there's the whole problem of taking orders and shipping efficiently (\"fulfillment\").\r\n\r\nI don't want to imply that it's impossible to make any kind of living doing this kind of publishing—some people have clearly managed to. It's just that it's not going to be \"easy money\" by any stretch of the imagination.\r\n\r\nNow, for a non-profit, you do have a small edge, because you aren't really selling the disks or the software, you're selling goodwill, but if people are going to buy that, then adding a premium is really only a small inducement (though that can be helpful, of course).\r\n\r\nThis sort of thing can work at conventions or other events, if you can find a lot of people dedicated to a single cause in one place, or if the premium represents a kind of souvenir of the event.\r\n\r\n"
+-
+    name: 'Chris Holt'
+    mail: ''
+    subject: Margins
+    hostname: 24.108.129.4
+    created: '1166142786'
+    body: 'Oh yes the margins are thin, but then the capital and labour costs can be very low and if a nonprofit is only trying to raise a modest sum and sells only locally it might work. Also most non-profits, at least Canadian ones, can enter social enterprise and raise up to 10% of their annual budget through sales before it begins to affect their charitable status.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'More on margins...'
+    hostname: 68.93.224.4
+    created: '1166464504'
+    body: "I agree that it can be done, but it's not as easy as it sounds. I don't want to be a killjoy, but I've tried this a little, and they don't sell like you might hope. I'm just trying to remind people to have realistic expectations.\r\n\r\nCustomers expect free software to be nearly free in cost, and they become very sensitive to the packaging costs. This is sort of counter-intuitive: logically, if the software costs you nothing, you shouldn't be worried about spending an extra $10 on the packaging, just so it'll look nice on your shelf (it'll still be $100+ cheaper than the proprietary alternative).\r\n\r\nHowever, Human nature being what it is, people disrespect what they get for free. They figure “it's free, therefore it must be worthless, so why I should I pay to get it?” We don't want them to think this way and it isn't logical, but that's still the way they think. So, it becomes very hard to sustain even $5 per disk for selling CDs.\r\n\r\nThat's problematic, because although it is <em>possible</em> to manufacture, package, and distribute disks for less than $1 (today we have a number of retailers selling $1 DVD movies, so I surmise the marginal costs must be lower than that—if I had to guess, I'd say $0.30-$0.50 each, including disks, labels, clamshells, shipping, and handling), but those have to be done in mass pressings.\r\n\r\nFor a small business or organization, it's more realistic to imagine buying CD-Rs and labels, and copying them on a PC with a CD burner (or at most, a specialized duplicator that can usually do 6-10 CDs at a time). Even if you assume the labor is free (volunteers with free time on their computers to make copies), the costs involved in making each disk are going to run you around $2-$3 in most cases.\r\n\r\nYou can't push that too far, because if you try to skimp too much (e.g. use ‘generic’ disks or not include labels), you wind up with a shoddy or unreliable product (disks that won't read, or that you can't recognize from the packaging). If all you're really selling is the packaging, then the packaging needs to look good!\r\n\r\nSo, it's difficult to overcome those scale economies. Cottage industry is not a very efficient way to do that. Instead, you see some commercial interests who specialize in disk-duplication and packaging, who duplicate <em>all kinds</em> of disks, and then sell those at rock-bottom prices (at least this was true a few years ago. I haven't checked on them lately, and I bet broadband is eating into even their market).\r\n\r\nSo, if you're the Red Cross or the American Heart Association, you could probably get away with this (hire a high quality duplicator to make you a million copies of a themed GNU/Linux distribution). But if you're a homeless shelter in Austin, you're not going to have an easy time of it.\r\n\r\nOne place you might be able to go as a business idea, is to actually sell the fund-raising aspect of it. Get good at the duplication, and create a flexible branding system. Then market packages as local fundraisers, the way they do with chocolate bars and coupon books here in the USA (do they do this in other countries?). I've always been a little suspect of these schemes, but local school districts and other groups keep buying into them, so they must work at least a little bit.\r\n\r\nOne edge you'd have over the others is that it's relatively easy to put local branding on a distribution (change splash screens, KDE theme, etc to advertise the cause you are supporting). Supporters of these organizations, would be happy to have such reminders of the group they are supporting, and they'd provide visibility for the group.\r\n\r\nIn fact, of course, given that many of us would just like to see free software achieve this kind of market penetration, one could imagine a non-profit GNU/Linux-promoting group providing this service, which would make it easier to present would-be fund raisers with a better deal than the chocolate bar and coupon book people can offer. You've got to do the marketing right, to position it as a superior alternative to those things, of course, and non-profit or not, it'd have to produce enough money to sustain itself, or it'll wind up failing on you, and leaving the community with a bit of a black eye, instead of net promotion of free software.\r\n\r\nI wrote though, because I saw what to me seems like a bit of undue excitement in the comments. Yes, it's cheaper to produce CD-ROMs nowadays, but the same technologies that make it possible for you and me, make it possible for all the competition, and other technologies like broadband, make CD-ROMs less relevant than they used to be. Thus, the per-disk cost you can expect to ask for is dropping, and that puts you in a sticky place financially. I'd especially consider it dubious for for-profit ventures, who'll have to pay for the labor straight-out.\r\n\r\nNon-profits have a bit of an edge in that they can often summon volunteer help, so that ‘sweat equity’ can be turned into revenue.\r\n\r\nI've not addressed the question of whether non-profits can sell things. I'm not a lawyer, but I believe that they can under certain conditions, in some jurisdictions, and under certain legal organizations (there's more than one legal entity called a “non-profit” in the USA for example, usually distinguished by the part of the law that defines them: you'll hear labels like ‘501C’ or ‘503B’ referring to their particular legal status). Non-profits, as the name suggests, can't legally turn a profit, but they can raise funds and they can pay salaries, just like other corporations.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Correct
+    hostname: 24.108.129.4
+    created: '1167365855'
+    body: 'Yes , you are correct, nothing to stop them.'
+-
+    name: raseel
+    mail: ''
+    subject: 'I couldn''t have said it'
+    hostname: 125.99.84.100
+    created: '1167762787'
+    body: "I couldn't have said it better myself. Even while I was reading the article, a \"reply\" to the same effect was forming in my mind. \r\nPeople !! Lets not forget what \"FREE\" in Free Software stands for !!"
+-
+    name: raseel
+    mail: ''
+    subject: 'I completely agree with you'
+    hostname: 125.99.84.100
+    created: '1167763192'
+    body: "I completely agree with you Terry. \r\nI was once involved in helping a friend start-up his own OSS Distribution venture (http://www.opensourcedeal.com).\r\nAlthough we did break even pretty soon, there were no sizeable profits involved. People are somehow vert skeptical in buying Free/Open Source Software.\r\nThis sort of a venture is a healthy option as a side-business, non-profit involvement in the OSS community, etc. , but hoping that you will one day be juiciest comnpany attracting millions of dollars of revenue on your online store, a house-hold name that s/w engineers cannot do without or a one-stop monolpolized shop for Free Software , is just being _too_ optimistic."
+-
+    name: Sameer
+    mail: sam216@hotmail.com
+    subject: 'If the users have to pay a small fee, i feel its ok!! but.....'
+    hostname: 219.91.240.198
+    created: '1180971998'
+    body: 'Several softwares on the web are free( take for example a free GRE online exam software, www.maxmytest.com ) but are backed up by advertising models so why cant people sell open source softwares for a small fee.I think its ok!!'

@@ -1,0 +1,21 @@
+-
+    name: imgx64
+    mail: ''
+    subject: Nitpicking
+    hostname: 109.63.38.53
+    created: '1327986741'
+    body: '"you''re EULA" should be "your EULA".'
+-
+    name: HueyV
+    mail: ''
+    subject: 'iBook doesn''t sound like free software'
+    hostname: 71.135.103.85
+    created: '1328072461'
+    body: "If there is DRM in the iBook software, then it is by definition not free. Software that is free needs to guarantee at least the four fundamental freedoms stated in the GNU General Public License:\r\n\r\n<ol>\r\n<li>The freedom to run the program, for any purpose.\r\n\r\n</li>\r\n<li>The freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this.\r\n\r\n</li>\r\n<li>The freedom to redistribute copies so you can help your neighbor.\r\n\r\n</li>\r\n<li>The freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.\r\n\r\n</li>\r\n</ol>"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: umm..
+    hostname: 62.140.212.3
+    created: '1328174721'
+    body: 'Whilst your point is valid I can''t find anywhere in the article where Gary says iBook is free software. In fact there are places where he specifically mentions it is proprietary and the article is about how iBook is a good example of why proprietary software is a bad idea. Heck he even says "Don''t use it". So I''m not sure why you were making the point you were really.'

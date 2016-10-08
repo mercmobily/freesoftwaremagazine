@@ -1,0 +1,322 @@
+-
+    name: 'Crosbie Fitch'
+    mail: ''
+    subject: 'GPLv3 not so silly now eh?'
+    hostname: 86.138.119.86
+    created: '1162721166'
+    body: 'It looks like this will help demonstrate that GPLv3''s approach to software patents is justified.'
+-
+    name: ''
+    mail: ''
+    subject: 'M$ go to hell!'
+    hostname: 89.34.112.142
+    created: '1162724252'
+    body: "Bravo!!! Wonderful article! I love the end, M$ thug should die!\r\n\r\nNovell has made the BIGGEST mistake of their life, they will be sorry for this in a couple of months, if not earlier."
+-
+    name: ''
+    mail: ''
+    subject: 'Welcome to Microsoft GNU/Linux!'
+    hostname: 72.177.92.8
+    created: '1162735265'
+    body: "This is a major attack on the paradigm of GPL'd software... at it's roots. Ignore the GPL, don't even test it. Attack by discrediting the philosophy at it's core. Use this “smoke screen” agreement with Novell, and threaten and instill “fear” in the rest that don't sign up. Absorb then erase the competition from within. The CONVICTED MONOPOLY thrives! \r\n\r\nIt looks like Novell is at risk as a future “SCO like” casualty. Really, why did Novell REALLY do this? If an all out WWIII of patent war broke, Novell's stockpile may be in question. IBM and Red Hat have strong patent arsenals but really who would be stupid enough to initiate this holocaust? It would grind to a halt software evolution in this country as the lawyers suck up what Wall Street depends on. A rewrite of US patent law throwing software patents out would be the only solution to this insanity.\r\n\r\nBy staying globally united and behind free software, the GPL can survive, technology can thrive and the playing field is level with proprietary philosophies.\r\n \r\nYet somehow the BSD license looks stronger every day."
+-
+    name: ''
+    mail: ''
+    subject: 'Novell in bed with Microsoft'
+    hostname: 202.7.166.169
+    created: '1162742904'
+    body: "Upon hearing of the announcement that Novell had reached an agreement with Microsoft I immediately removed the Novell  software SLED10 from my computer. \r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Great Post'
+    hostname: 62.117.45.149
+    created: '1162743195'
+    body: "Well thought out and written article. I loved the end too especially the part about:\r\n\r\n\"If Novell has violated the letter of the GPL as well as its spirit, those of us who maintain packages that are distributed today as part of SuSE/Novell GNU/Linux must exercise our option to issue cease and desist orders\"\r\n\r\nHope Novell & Microsoft both get what they deserve. Also hope that the GPLv3 will be adopted since GPLv2 is vague on many details and there are more threats on software freedom now (the TiVoization of linux for example)."
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'Microsoft != Legal'
+    hostname: 76.188.155.238
+    created: '1162743640'
+    body: "<em>For Novell, hoping to become the \"only\" legally permitted GNU/Linux vendor, it actually means their GNU/Linux business will now go into decline . . . </em>\r\n\r\nThis only assumes that Microsoft is the only company with valid patents, which is clearly untrue. That makes this whole thing even <em>more</em> bizarre. I can't imagine the original negotiations. Perhaps Microsoft strong-armed Novell to the table in the first place. Perhaps Novell approached Microsoft. I do not know, though I would like to know.\r\n\r\nMicrosoft does not have a lock on software patents, by a long way. There are many companies and individuals with patents that could conceivably target Linux or GNU software. Novell is only marginally \"safer\" than any other Linux choice. Considering Microsoft's past dealings (a history Novell has experienced first-hand), I would say they are perhaps less protected than they seem. This certainly doesn't increase Novell's legal standing with GNU/Linux, nor shield them from patent litigation. To claim otherwise is disingenuous.\r\n\r\nIn any case, I do not believe Microsoft will safely be able to attack GNU/Linux directly with patents. Instead, it looks as if they are taking the indirect route, and attacking GNU/Linux with patent threats.\r\n\r\nThat is what Microsoft was after, I believe. They needed a credible GNU/Linux company to act as a patsy, which gives them the ability to question the validity of other vendors.\r\n\r\nThis is what they learned from SCO: the assertions of impropriety are more effective than trying to prove impropriety."
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'This only assumes that Microsoft is the only company with valid'
+    hostname: 72.90.4.99
+    created: '1162744584'
+    body: "That is an interesting point, and yes I agree it does make the whole exercise seem even more bizzare.  I can at least partially understand the narrower parts related to interoperability of specific things, although I completely disagree with their approach to that as well, but why would they willingly choose to be Microsoft's new SCO, that I do not understand.  Maybe the financials of Microsoft's funny money payment to Novell over using Novell things when the SEC filings appear may make it clearer if it is all just about the size of the bribe.  Maybe they also really have a much huger disconnect with the community and the likely response (never impossible to make really stupid moves with group-think) or really believe they were going to be able to drive other vendors out of the market.  No possible explanation I can find speaks in any way well of their motives, and any of them speak volumes about why it is far better now to put down the rabid Novell dog.\r\n\r\n\r\n"
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: 'Not an attack on the GPL'
+    hostname: 76.188.155.238
+    created: '1162752792'
+    body: "<em>Yet somehow the BSD license looks stronger every day.</em>\r\n\r\n<p>BSD-licensed software is not immune to patent attacks. The GPL does not increase exposure to this sort of shenanigans. In fact, there is nothing that would stop Microsoft (or anybody else, for that matter) from taking BSD code, taking it closed-source, and denying its use to anyone else by means of patents.</p>\r\n\r\n<p>The GPL has a mutually-assured destruction clause that would invalidate the use of GPL code should someone try that tactic. So in one sense, the GPL is has stronger defenses than the BSD license.</p>"
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'I do not see the connection'
+    hostname: 72.90.4.99
+    created: '1162752996'
+    body: "I do not see how this has anything favorable to say about BSD, and I believe it would require even less effort to undermine a BSD community given the lack of any enforced reciprocity that is found in copyleft licensing like the GNU GPL as well as lack of any patent retaliation clauses in BSD licensing.  It does say that the GPL needs a stronger patent mutual protection clause, though.  But I may be misundertanding your perspective.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Article is spot on'
+    hostname: 88.109.241.164
+    created: '1162763292'
+    body: 'Article is spot on.  Especially the part about Apple and Sun.   The only consolation is that a company so generally hated cannot in the end survive in its present form.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Surely the point is to make "Linux" a company?'
+    hostname: 68.93.224.4
+    created: '1162776027'
+    body: "Microsoft's problem with GNU/Linux and free software in general has always been its decentralized nature. By using FUD to force Novell into a key position of control over Linux (at least in the commercial world), they can (or I should say \"probably hope to\") \"make Linux a company\". They expect this to work for them, because they already know how to subvert and defeat a company. IOW, it seems like the whole effort is designed to convert a problem they don't understand into one they do.\r\n\r\nThe fact that they seem to think this will work is very telling about the deep strategic misconceptions they still suffer from. This is not going to be pretty, but it may be about time for it to happen. In short, I expect that Microsoft will see its bluff called, and that will get interesting.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Just wondering ...'
+    hostname: 86.34.237.177
+    created: '1162779985'
+    body: "\r\nDo you guys have any idea if Miguel de Icaza was involved in this ?\r\n\r\nAnd ... should we stay away from MONO, or should we continue using it ?\r\nCommon sense is telling me to stop using it because it is the one application with the best chances of infringing on Microsoft's patents, but on the other hand every complex application infringes on someone's patents, and if we stop using Mono it will be a short-term victory.\r\n\r\nWhat do you think ?"
+-
+    name: ''
+    mail: ''
+    subject: '"They expect this to work'
+    hostname: 70.77.126.82
+    created: '1162780202'
+    body: "\"They expect this to work for them, because they already know how to subvert and defeat a company.\"\r\n\r\nSeems I recall something about a deal with Microsoft that nearly caused IBM to go under years ago. "
+-
+    name: ''
+    mail: ''
+    subject: 'weak Microsoft Office plugin for ODF'
+    hostname: 66.87.140.128
+    created: '1162780334'
+    body: 'The weak / lame plugin is for MicroSoft Office to support ODF.  Office has native support for Open XML.'
+-
+    name: ''
+    mail: ''
+    subject: 'They expect this to work'
+    hostname: 124.152.22.246
+    created: '1162802993'
+    body: 'During the SCO affair, Novell claimed they still owned the Unix patents and rights. At that time Microsoft took out a Unix license from SCO.  If Microsoft manage to aquire Novell, does this mean the whole SCO affair is on again?'
+-
+    name: ''
+    mail: ''
+    subject: 'Anyone for Mono ?'
+    hostname: 65.28.7.22
+    created: '1162812495'
+    body: "I think the real intent behind this is that Microsoft has finally come to the\r\n conclusion that its aging, buggy, bloated, and generally broken software stack\r\n is in dire need of a replacement, and the GNU/Linux Platform is the ideal choice.\r\n\r\nShould they build it them selves, no, do as they always do,\r\n let some half-witted sap do all the real work, (the FOSS Community via Novell),\r\n acquire there assets and destroy there competition.\r\n\r\nTo successfully make the transition to a FOSS base they need to do it\r\n carefully, especially with the release of Vista just around the corner,\r\n why would there investors, and customers upgrade to another round of the lock-in,\r\n if MS is going to Embrace the competition, no they will wait a couple more\r\n years to officially make the jump.\r\n\r\nIn the mean time, they need to begin to take controll of one of the top 2\r\n competing vendors, Red Hat, or Novell, RH wont do it, but Microsoft's Long time\r\n lap dog, Novell always takes the bait, after all they have had several\r\n \"strategic partnerships\" with Novell over the years, and everytime they screwed\r\n Novell, Hard, and the fools at Novell just took the punches and came back for\r\n more. Now there back again, and we already know whats going to happen,\r\n apparently Ron Hovespan neglected to dig into his company's history of past\r\n dealings with MS, and the o' so wonderfull results gained.\r\n\r\nNow lets consider what MS Needs in a FOSS based Future OS,\r\n Foremost is Complete 'backwards compatability' with there existing software,\r\n and Solid Interoperability with there 'File Formats' and 'Filesystem's' \r\nThis is why there Indemnification is targeted at Samba (SMB/NMB/CIFS),\r\n Active Directory + Novell's eDirectory, and .Net/Mono.\r\n\r\nThe .Net/Mono point is Very important, as the problems OpenSuSE 10.1 have had,\r\n with there package/patch management tool relate directly to the next step,\r\n enshuring that they have controll over the core set of the apps that define\r\n the difference between distro's of GNU/Linux:\r\n the \"System Administration, and Configuration Infastructure\".\r\n\r\nNovell has been pushing very hard (and mostly behind the scenes, outside of the\r\n OpenSuSE development team)  to recreate the System Administration Toolchain\r\n (SuSEConfig, YaST, and SaX) using Mono/.Net.\r\n\r\nMono, relies heavily on MS's IP, Proprietary .Net Specifications,\r\n and Documentation as Mono is intended to be an (barely) OSS implamentation of\r\n .Net, the capability to Port Mono apps too .Net is very easy, and by providing\r\n More Internal details about the Proprietary API of .Net, they use one of\r\n the often overlooked points of Contamination in software design and development\r\n Proprietary Documentation of Specifications, Methods, and Procedures used in\r\n the Source Code, then you get asked a question like this:\r\n \"Did you learn how to implement that feature by accident, or did you pull it\r\n  out of the documentation that was handed to you?\"\r\n\r\nAnd wasn't this one of SCO's main claims, that parts, or whole chunks of the\r\n Linux Kernels code contained Proprietary Legacy System5 code, or what about\r\n the thousands of other separate applications, libraries, and documentation\r\n that constitute a standard GNU/Linux Distribution.\r\n  \r\nSo MS can say \"we wont come after you, for using our IP\", the real point is\r\n that they Want, and Need Mono developers to Use there Proprietary information.\r\n\r\nOnce Novell has Recreated its Administrative Toolchain w/ Mono,\r\n and Microsoft has Contaminated the Novell/SuSE enviroment,\r\n getting Novell to do the grunt work of porting, and developing the tools\r\n needed to transition MS's customers to there future OS,\r\n and destroyed the effectiveness of the other Distro's to Controll the Corporate\r\n FOSS landscape.\r\n\r\nThen they can take over Novell, rebrand SLES,SLED,OES as\r\n Microsoft Linux, cut off what ever might be left to OpenSuSE,\r\n and then the Legal war will begin, as MS will Own the Number 1 Linux Distro\r\n for Corporate, Embeded, and Consumer Environments, and have an vested interrest\r\n in gaining absolute controll over all of those separate pieces I mentioned\r\n above, how many of those Individual, unpaid developers could withstand\r\n a lawsuit from mighty Microsoft, when they make a claim that so and so coder\r\n is doing something bad to a piece of Microsoft's Linux OS ?, very few.\r\n\r\nThey will have a little talk with them, something like this: \r\n \"we can settle out of court, just sign this NDA, and transfer the licence of\r\n your code from that evil GPL, to our Shared Source Licence, or, we will sue you\r\n for 10 Million dollars.\" then one by one everyone of them will cave in,\r\n and of the few who don't, there apps can be Replaced entirely.\r\n\r\nMicrosoft has Embraced Linux with Novell,\r\nNovell has agreed to Extend the OS for Microsoft,\r\nMicrosoft will Exterminate the competition.\r\n\r\nMicrosoft Wins, Everybody else Loses, Game Over."
+-
+    name: ''
+    mail: ''
+    subject: 'What needs to happen (IMHO)'
+    hostname: 71.217.238.79
+    created: '1162814933'
+    body: "This all boils down to patents and money, which seems obvious.  Novell sunk a lot of their money into the SCO battle, and they are trying to recoup their losses (which anyone would do).  I think two people have hit on the patent subject without actually saying it.  So here goes my opinion.\r\n\r\n1.  Novell knows that if it came down to an Intellectual Property patent suit (between Linux and Unix), Linux wouldn't hold up.  No, Linux isn't using copied Unix code, but IP-wise it's close enough that the courts would probably rule in Unix'es favor.  That's why Novell asserted it's patent ownerships.\r\n\r\n2.  Microsoft could easily persuade Novell to enforce it's IP rights to Unix, seeing as how Novell actually has the patents.  If this happens, then Linux is effectively dead in the water.\r\n\r\nSo, what needs to happen is this.  Either portions (or all) of Unix need to be GPL'ed, or Novell and anyone else that holds patents for Unix (or at least the portions that Linux are derived from) need to make it publicly known that they will never enforce their patent rights against Linux.  If there is a legal-binding patent agreement that can be signed (basically one that says that the holders of the Unix Patents will never enforce them on anyone involved in the Linux development or use), then it needs to be signed.\r\n\r\nI really wish it was a perfect world.  At least in my home, Linux and Windows coincide perfectly together.  Neither one makes a fuss about the other, and they both know their purpose (and do their purpose quite well, actually).  Now, it's just a matter of convincing the people who have power that they can coexist.  Then, we'll probably see an end to this entire patent mess.  \r\n\r\nImagine it this way.  If corporations as a whole turn away from the Microsoft/Novell deal, and start backing other Linux distros, then Microsoft and Novell wouldn't have a solid leg to stand on.  Yes, Novell may have the patents, and Microsoft may have the money, but if enough big corporations say \"We're not going to pay you for this, when we can get it from xyz for free (or for the cost of minimal support).\" and the corporations put their money behind xyz and the other companies (if a legal challenge comes up), it's a lot of money that's weighing against Microsoft/Novell.  Maybe enough to run them under like SCO.\r\n\r\nIn all fairness and honesty, I should point out that I do use (and beta test) Microsoft products.  For me, it's a question of making a product the best that it can be.  It doesn't matter who's product, just the spirit of being involved in making it as good as possible.  Although some of my reasons for using their products are going by the way-side."
+-
+    name: ''
+    mail: ''
+    subject: 'What happened to gNewSense?'
+    hostname: 71.217.238.79
+    created: '1162815082'
+    body: "You know, in all of the huffing and puffing about the Novell/Microsoft deal, something was lost.  What about gNewSense?  Were they just mentioned to get their name out in the public eye?  I, for one, would like to hear more about it.  So, could we have a follow-up blog entry strictly about them, and what they're doing right?\r\n\r\nPatrick."
+-
+    name: ''
+    mail: ''
+    subject: 'Patents not a problem in my country'
+    hostname: 201.209.182.172
+    created: '1162815983'
+    body: "You all think this is going to have a lot of repercussions. Well, that might happen in the US. But what about the countries that do not share your patent system? Do you think China or Europe is going to stop developing or using Linux if Microsoft sues?\r\n\r\nThe problem is in your IP system. "
+-
+    name: ''
+    mail: ''
+    subject: 'Patents not a problem in my country'
+    hostname: 201.209.182.172
+    created: '1162816882'
+    body: "I think the problem is with your patent system. You think China or Europe are going to stop using or developing Linux because of the software patent threat?\r\n\r\nKeep dreaming Microsoft! Americans are doomed if they don't change the patent system."
+-
+    name: ''
+    mail: ''
+    subject: 'Your packages in SUSE'
+    hostname: 217.169.38.126
+    created: '1162817010'
+    body: "hi,\r\n\r\nwhat are your plans for the packages you wrote that are in SUSE? \r\n\r\n\r\n\r\nspiffx"
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 're: Your packages in SUSE'
+    hostname: 72.236.162.59
+    created: '1162818897'
+    body: 'If, as it appears, that they have generally violated section 7, then we will send them a cease and desist notice from further distribution.  But I would imagine that if this is clearly the case we would not be alone in doing so.  We are also reviewing other options.'
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'That is true'
+    hostname: 72.236.162.59
+    created: '1162819246'
+    body: "Yes, I agree that they were largely lost in all the discussion of the Novell fallout.  Even I only used them to contrast the vast difference that now exists because of the coincidental timing of their arrival with the self-destruction of SuSE, but I completely agree gNewSense is very worthy of a long and detailed blog all of it's own, along with some honest and extensive reviews, some parallel discussion of what makes a distro truly free as in freedom, and something about Ututo in comparison which is often overlooked, rather than simply saying \"here is freedom, go get liberated\".  Maybe next week :).\r\n\r\n"
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'It is claimed he and Nat Friedman were principally involved'
+    hostname: 72.236.162.59
+    created: '1162819587'
+    body: "I have seen that stated a number of places, and I gather in reference to something said in Miguel's interview on the matter, and some mention of this in the coverage on Groklaw as well.  I do not have the links to reference offhand, though if you have some to share that substantiate that, it would be helpful to know.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Heh...
+    hostname: 12.146.241.20
+    created: '1162820775'
+    body: "No, Darl, it doesn't. Now, you and little Bobby Enderle go play in the backyard, and leave the adults alone.\r\n\r\n;)\r\n\r\nSCO and it's mockery of a case against Linux is dead. It was braindead to begin with. With the evidence that has come to light *against* SCO's facetious claims, I'll be/am surprised if it actually makes it into a courtroom."
+-
+    name: ''
+    mail: ''
+    subject: 'I''m not so sure about that.'
+    hostname: 148.134.37.3
+    created: '1162823181'
+    body: "What Novell has done is used a major competitor with a dominant share in the desktop market to effectively endorse their product.  It means that businesses are going to take more note and reconsider their liability when switching to Linux for their desktop needs.  I think this will ultimately boost Novell's market share, and I suspect that's been their plan all along.\r\n\r\nHow does this help Microsoft?  Additional buffer against anti-trust lawsuits.  This corporate-friendly government won't last forever, and more than a few states are still bitter about being forced into a settlement.  Microsoft hasn't so much changed their business practices as modified their marketing strategy.  Sooner or later someone is going to point out that the claims of reform are just smoke and mirrors and attempt to go after them again for anti-competitive practices.  Microsoft is gambling that they can maintain their stranglehold on the OS market while maintaining the appearance of being friendly to competition.\r\n\r\nHowever it pans out, increased penetration of Linux for corporate desktops means increased visibility of Linux in the core user base.  People like to use at home what they use at work.  The more people are educated on the stability and user-friendlyness of modern Linux distributions, the better it will catch on.\r\n\r\nNovell's agreement with Microsoft is a two-edged sword.  It as all sorts of potential for abuse particularly with regard to patents and the like, but at the same time it will boost Linux awareness and get people to realize that Microsoft isn't the only option for their personal desktops.  Which side of the sword will cut deeper remains to be seen."
+-
+    name: gattu
+    mail: ''
+    subject: 'Does GPL v 3, has anything against this?'
+    hostname: 59.95.2.235
+    created: '1162823673'
+    body: "I would like to know!! Does GPL v 3 has any sort of clause to stop such a thing.. And if not, can it be added.. Someone send this to RMS ;)\r\n\r\n--\r\nLife is not about solutions to problem, its about living the problem.\r\n\r\nGattu"
+-
+    name: ''
+    mail: ''
+    subject: 'You Anyone for Mono ?'
+    hostname: 128.112.201.219
+    created: '1162824158'
+    body: "you did hit nail. That is really what is going to happen.\r\n\r\nCan I use your comments?\r\n\r\nThanks\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Sadly GnuSense isn''t really the answer...'
+    hostname: 204.126.130.10
+    created: '1162824915'
+    body: "I'm no fan of M$ at all, but GnuSense and other \"Totally Free\" distros I've tried have proven to be  totally unsuitable for a typical desktop. Lets take a moment and think about what people use their computers for. I use mine for Playing 3d games like Quake, Downloading, Riping, Playing and Burning my music (MP3 Files in nearly every case) Watching Videos on YouTube, Google Video and News sites. Ripping my DVDS and watching them on my HTPC system, Reading documents my boss sends me (PDF) and so forth. \r\n\r\nFor any \"Free\" Distro to be actually useable in the real world for real people they MUST find a way to support 3d from ATI and NVIDIA, MP3, iTunes, All the regular Video formats typically found on the Web, and PDF and Office documents. \r\n\r\nSurely there is a way for an OS to be free of lawsuit and patent unpleasentness and yet be able to do the things that people really use their computers for."
+-
+    name: ''
+    mail: ''
+    subject: 'take their versions'
+    hostname: 62.253.128.14
+    created: '1162826563'
+    body: "I'm probably being simplistic here but if this agreement covers openSUSE and all the code in the repositories can still be taken under GPL. Surely if you take it from there repositories then patch so it is all the same as yours again you have in effect taken on board the negotiated protections of the deal?\r\n\r\nIf that cannot be done it must surely indicate a license violation because they have changed the terms with which they took the software in order to use it."
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 're: Does GPL v 3, has anything against this?'
+    hostname: 12.161.228.66
+    created: '1162827387'
+    body: "First, both RMS and Eben are well aware of the issue.  The GPLv3 does have some extra patent retaliation language which some vendors (hmm, including Novell) had been lobbying strongly against.  I imagine it will be revised as needed.  My packages are all GPLv2 or later, so we will migrate to GPLv3 as soon as it is ratified.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'You have missed the point of Free Software'
+    hostname: 86.34.237.177
+    created: '1162830972'
+    body: "You are choosing commodity and safety over freedom ... the same thing americans are doing now by accepting all the shit that the Bush administration is feeding them.\r\n\r\nThe answer is to fight companies that do not want to give you freedom.\r\nThe answer is to force ATI and NVidia to release open-source drivers.\r\nThe answer is to advocate for open-standards, to make the world know that by using open standards, like OGG or ODF, nobody is getting left out.\r\n\r\nThe only reason you have the luxury of choosing commodity is because of stupid eggheads that fight for freedom.\r\nBut just try to imagine a world where you have to pay for the very air you're breathing.\r\nBecause companies and administrations that give you safety and commodity, but not freedom ... want to take you in precisely that direction.\r\n\r\nSo, be careful what you wish for, because someday it might happen ;)\r\n\r\nPS: some of use really value freedom and the self-empowerment that come with it."
+-
+    name: ''
+    mail: ''
+    subject: 'An increase in suicide rates'
+    hostname: 195.229.242.90
+    created: '1162831762'
+    body: "I took the decision to be free and stop using MS 3 weeks ago only. It took me around 1 day to get used to the GUI in Linux, another week or so to execute few commands on the Shell, & I'm currently spending my free time to learn BASH Scripting. Despite being used to MS Windows since the first Ver. 3.0, I've found it easy to switch to GNU/Linux. \r\n\r\nNovell & MS would make it easier to MS Windows users to get used to the GNU/Linux environment & thus to spread the knowledge of Linux, and to trigger the curiosity of using or even just trying the other free distributions of GNU/Linux. Switching to other OS and leaving MS Windows behind will never become easy without the Novell MS agreement.\r\n\r\nSUSE was the poisoned pill for MS. In my opinion, this agreement will kill MS & the real GNU/Linux revolution is yet to begin.\r\n\r\nRegards, & happy GNUing \r\n\r\nMohammed"
+-
+    name: ''
+    mail: ''
+    subject: 'Anyone for Mono ?'
+    hostname: 67.37.58.150
+    created: '1162840994'
+    body: "I wanted write a few rebuttals to your points. IANAL, please beware.\r\n\r\n\"Mono, relies heavily on MS's IP, Proprietary .Net Specifications, and Documentation as Mono is intended to be an (barely) OSS implamentation of .Net, the capability to Port Mono apps too .Net is very easy, and by providing More Internal details about the Proprietary API of .Net, they use one of the often overlooked points of Contamination in software design and development Proprietary Documentation of Specifications, Methods, and Procedures used in the Source Code, then you get asked a question like this:\r\n\"Did you learn how to implement that feature by accident, or did you pull it out of the documentation that was handed to you?\"\r\n\r\nWorst case scenario, GPL'd Mono code has become contaminated with Microsoft (MS) IP. The developer would have to go to court, but all we, the rest/users/coders would have to do is take the source and strip the MS IP out and rewrite the code. Thus eliminating an issue for all of us. Or?\r\n\r\n\"Once Novell has Recreated its Administrative Toolchain w/ Mono, and Microsoft has Contaminated the Novell/SuSE enviroment, getting Novell to do the grunt work of porting, and developing the tools needed to transition MS's customers to there future OS, and destroyed the effectiveness of the other Distro's to Controll the Corporate FOSS landscape.\"\r\n\r\nAgain, with us having the source, how could MS control us, short- or long-term? It may make it tough(er) but I believe we have people on our side that are just as good and probably more highly motivated than MS.\r\n\r\n\"Then they can take over Novell, rebrand SLES,SLED,OES as\r\nMicrosoft Linux, cut off what ever might be left to OpenSuSE,\r\nand then the Legal war will begin, as MS will Own the Number 1 Linux Distro\r\nfor Corporate, Embeded, and Consumer Environments, and have an vested interrest\r\nin gaining absolute controll over all of those separate pieces I mentioned\r\nabove, how many of those Individual, unpaid developers could withstand\r\na lawsuit from mighty Microsoft, when they make a claim that so and so coder\r\nis doing something bad to a piece of Microsoft's Linux OS ?, very few.\"\r\n\r\nAgain, fighting FOSS is a lot different than fighting another company. Even if a development team falls, nothing inhibits/prohibits a new group to form and start over/continue. If MS wants to isolate their version of Linux (I don't see entirely how they could do this, but lets say they succed) then they would, as is my belief, only hurt themselves.\r\n\r\n\"Microsoft has Embraced Linux with Novell,\r\nNovell has agreed to Extend the OS for Microsoft,\r\nMicrosoft will Exterminate the competition.\"\r\n\r\nFOSS, and Linux as a sub-set, is too big to chew off of for MS. My prediction would be that if they did this, they would only hurt themselves.\r\n\r\nWhat I do think is going on here is that Microsoft is getting into the consulting business and needs to have a poster example of working with a major Linux vendor to point to in order to show customers that they \"get\" Linux now, finally.\r\n\r\nJust my 2 cents."
+-
+    name: ''
+    mail: ''
+    subject: 'You''ve got a point.'
+    hostname: 84.58.33.41
+    created: '1162841040'
+    body: "But there is still a Red Hat out there, alive and kicking.\r\n\r\nMoreover, some 85% of all linux installations with paid support contract are RHEL ones. SUSE, whatever its merits, is an also run in the corporate world, and only the third most popular among hobbyists, easily beaten by Debian/Ubuntu/Knoppix and Fedora/CentOS.\r\n\r\nWhat we can do is to try to influence <em>Linus Torvalds</em>; especially w/r/t his cooperation with <em>Eben Moglen</em> and his support for a meaningfull and strong GPL3.\r\n\r\nIn the meantime let's replace all and sundry SELs and SLEDs with Fedora, or Debian. Nothing helps Novell understand the economy better than a sudden lizardectomy. Can the Chameleon. LoSE the SuSE. Novell Tohell. Snuff openSUSE.\r\n\r\nNOW !\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'The self-destruction of SuSE'
+    hostname: 62.252.0.10
+    created: '1162849281'
+    body: "It's not SuSE who has self-destructed, it is Novell who have (potentially) destroyed SuSE by taking them over and exposing them to Microsoft's predatory actions.  It seems likely that Novell got into this position because they were running out of money.  Whether SuSE would be able to survive on their own is not clear to me, but the value of their own products alone, rather than being allied to the failing NetWare, should have made them more likely to survive. I am now going to Kubuntu.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'its almost a good thing'
+    hostname: 216.239.82.114
+    created: '1162868149'
+    body: "Well, I did say 'almost'.\r\n\r\nSeriously, I hope this does wake people up who have been dragging their feet or claiming that there was no reason for v3.\r\n\r\nThat same week I had a long discussion with people in our IT dept. who were claiming that the v3 discussion was a waste of time that no one cared about and my response was that it was better to do it now as opposed to say one day we should have done it. Considering this was 48hrs before the start of the Patent Wars and Ballmer's direct threat to other distros, let me tell you that I used up my quota of 'I told you so' today.\r\n\r\nThe thing we always have to to worry is FLOSS being coopted by forces that want to neuter it. Just like US politicians are doing to the constitution they have sworn to uphold but have been clawing at for years or the Hollywood stars who are doing their charitable PR work and supporting terrorists in Kosovo and Bosnia or doing sham events like Live8 which is nothing more than shilling for the multinationals who are screwing the poor nations. (You got to love the RED campaign: help the poor buy increasing the sales of Apple, Amex, Armani and others..)\r\n\r\nAs much as Perens, Eben, RMS are villified by superficialists, the 'humanitarian' business has shown us how multinationals like Coke, ClearChannel and others like that have managed to hijack the social activism aspect of popular culture for their political and social uses.\r\n(Imagine if Live8 happened in the 70's, would the Lennon's of the day allowed Bush and Blair, war criminals to the world, be called 'compassionate, generous and saint like?')\r\n\r\nThat's why it is so important to have watchers and rules to make sure that underhanded manoeuvers and loopholes are minimized.\r\n\r\nOver the years, we have come up with quite a number of scenarios which could seriously hindered Linux (ok, Ill even say GNULinux) with various poison pills or patent scenario so Im pretty sure major corporations with armies of soul sucking leech...uh, lawyers, have also planned to attack vulnerabilities in the GPL.\r\n\r\nAs much as we love FLOSS and the way it allows for technology to flow instead of being stunted for monetary reasons, the GPL is the means to make sure it stays like that. That's why I dont understand FLOSS promoters  and users who think the GPL is more of a hindrance. \r\nMy only problem with it is there is to many GPL violations that arent being taken to court because of the decentralized system. Which of course is not fault of the GPL.\r\n\r\nPapa Chango"
+-
+    name: ''
+    mail: ''
+    subject: 'MONO is the backdoor'
+    hostname: 71.143.224.109
+    created: '1162903732'
+    body: "MS can essentially support Novell to the hilt and thereby annihilate Red Hat because Red Hat uses Gnome which is connnected To Mono.\r\nThey n they ensure that SUSE is not as \"good\" as Vista by limiting MONO or plating to its weaknesses and the Linux community is gone."
+-
+    name: ''
+    mail: ''
+    subject: 'Die Novell Die'
+    hostname: 216.150.131.207
+    created: '1162910453'
+    body: "As I've been saying everywhere ... it's those two brats from Ximian (who call themselves \"Novell\" these days) who are at the helm. They, not RedHat, are *truly* \"The Microsoft Of Linux.\" They've been playing the Microsoft-style \"Not Invented Here\" game for years, deliberately balkanizing the free software community with divisive projects like GNOME and Mono. They've pulled that particular stunt at least half a dozen other times as well, each time preventing an existing killer app from becoming ubiquitous. Now they're pulling out all the stops, and showing exactly where their loyalty is. I personally think that they are still indirectly on the Microsoft payroll somehow ... follow the money trail and you'll probably discover kickbacks of some sort.\r\n\r\nAs free software enthusiasts and defenders of the revolution, we all know what to do. It is time to boycott Ximian (who call themselves \"Novell\" these days) entirely. Here's hoping that Red Hat is correct, and these traitors are out of business (or at least irrelevant) by this time next year."
+-
+    name: ''
+    mail: ''
+    subject: Chaos
+    hostname: 166.70.52.80
+    created: '1162913078'
+    body: "SJVN,\r\n\r\nI've generally agreed with your excellent articles but this time you are wrong.\r\n\r\nI've used SuSE since 8.1. As far as distros go SuSE was the best. Install and everything just works and works well. SuSE made life easier than any other OS. \r\n\r\nHowever, as much as I liked SuSE, after I watched the webcast I instantly understood the implications. I eradicated SuSE from my server and desktop boxes and removed my paid-for SLED from my laptop immediately.\r\n\r\nThis is not about MS aquiring their own Linux distro nor is it about helping customers. Microsoft's expansion in the enterprise is limited by the growing adoption of enterprise Linux. Namely Red Hat. Novell hopes to gain at Red Hat's expense and they may realize some short-term gains but MS wants something else. MS wants to expand in the enterprise at the expense of Linux in general. They also want to prevent any potential growth of desktop Linux.\r\n\r\nThe FUD created by the \"patent covenant\" will do alot of the job. But with Red Hat now offering indemnification MS may have no choice but to sue a couple of Linux companies. Novell has pushed risky Mono code throughout Gnome which is a part of most distros. Mono seems to be the focus of the \"patent covenant\".(it is assumed because we don't know what is involved in the patent agreement) The community doesn't have the financial resources to win a fight against MS in court. The result will be one choice. Novell Lnux. When this agreement expires all bets are off.\r\n\r\nWhere is IBM? Sun?\r\nAll of this becomes a non-issue if an IBM or Sun pledges to use their patent portfolios to defend Linux/FOSS in case of an MS attack. What would these companies stand to gain from the \"death\" of Linux? Possibly rejuvenated sales involving AIX and Solaris? Sure MS would gain but there are plenty of enterprises who would still need if not prefer a \"nix\" even if that means unix.\r\n\r\nBy entering into this agreement Novell has legitimized the MS claims of infringing IP and provided a golden opportunity for MS to spread FUD against the entire community. For this reason and for the sake of Linux/FOSS it is incumbent on the community to reject Novell in order to reject the \"IP\" infringement assertions and send a strong message that we will not be intimidated and we will fight back. It would also serve as a powerful warning to others that the community won't stand for betrayal.\r\n\r\nThis MS/Novell deal is far more dangerous than SCO ever was and by continuing to use SuSE you SJVN are enabling the comming attack on the software you claim to love."
+-
+    name: ''
+    mail: ''
+    subject: 'New name for Microsoft'
+    hostname: 125.22.33.179
+    created: '1162915802'
+    body: "New name for Microsoft\r\n\r\n\"The company who must not be named\"\r\n\r\nNot out of fear but out of disgust.\r\n\r\nBye the way I am not Anonymous coward \r\nMy name is \"Ashish Yadav\""
+-
+    name: ''
+    mail: ''
+    subject: 'Linux kernel'
+    hostname: 209.158.58.214
+    created: '1162930882'
+    body: "Maybe I'm being simplistic as well, but since Linus Torvalds GPL'd the kernel that every Linux distribution uses, how can SUSE (or any other distribution, for that matter) sell their product as proprietary without releasing the source code freely, as described by the GPL?\r\n\r\nQuoted from Linus Torvalds himself, \"The Linux kernel is under the GPL version 2. Not anything else. Some individual files are licenceable under v3, but not the kernel in general.\" (http://lkml.org/lkml/2006/1/25/273)  Also, I found this in the GPLv2 interesting:\r\n\r\n\"7.  If, as a consequence of a court judgment or allegation of patent infringement or for any other reason (not limited to patent issues), conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License, they do not excuse you from the conditions of this License. If you cannot distribute so as to satisfy simultaneously your obligations under this License and any other pertinent obligations, then as a consequence you may not distribute the Program at all. For example, if a patent license would not permit royalty-free redistribution of the Program by all those who receive copies directly or indirectly through you, then the only way you could satisfy both it and this License would be to refrain entirely from distribution of the Program.\" (http://www.gnu.org/copyleft/gpl.html)\r\n\r\nBasically, I agree with most of what I have read so far.  Microsoft has come to terms that Linux is not just for hobbyists anymore.  What angers me and most of the people I know is that Microsoft has to buy out everything and everybody so it can be theirs and theirs alone.  If they tried working with the Linux community on its terms (meaning no money is involved and no threats of suing people who do contribute programs and code freely and willingly under the GPL) the world would be a much better place.  Just an example of what money is capable of and the driving force behind it.  Thanks to this, I will always use Linux now.  No more dual booting.  Go Red Hat!  Go Ubuntu!"
+-
+    name: gattu
+    mail: ''
+    subject: 'What''s the way to fight back??'
+    hostname: 59.95.14.182
+    created: '1162941153'
+    body: "It seems the only way to fight back is, to stop using Mono and Novel altogether. Now i dont have proper knowledge about the licensing issues and dont know whether the following is possible: \r\n\r\nAsk the Software Contributers for Mono to Fork the Project and free the fork from all the patent infringing code. Put a clause against such tie-up in GPL v3 and put the fork under GPL3+. It seems like a logical solution (dont know whether its practically possible).\r\n\r\nHope this episode pursues, Linus Torvalds, and all GNU/Linux developers to upgrade their licenses to GPL3.\r\n\r\n--\r\nGattu\r\n\r\nLife is not about solutions to problem, its about living the problem."
+-
+    name: 'Ivan Ivanovsky'
+    mail: ''
+    subject: 'No Well'
+    hostname: 217.29.24.83
+    created: '1162965733'
+    body: "-\r\n\r\nYou have made right thing. I did the same. <strong>Nowell sues Linux.</strong>\r\n\r\nIt sounds dangerous for me  "
+-
+    name: ''
+    mail: ''
+    subject: debian
+    hostname: 80.198.7.20
+    created: '1163009597'
+    body: "Stay and support Debian.\r\nThe core and the kernel.\r\nThe environment is complete.\r\nSupport Ubuntu.\r\nWe are going to be a target.\r\nirc?"
+-
+    name: 'Eric Drake'
+    mail: ''
+    subject: 'An evolutionary persepctive.'
+    hostname: 68.39.159.235
+    created: '1163868850'
+    body: 'In America anybody can sue for anything and it is often used not only by corporations but also by individuals as a means of intimidation and even survival.  Look at all the "Judge n" shows on television.  Those are cultural/psychological "memes" (to use Dawkins'' term) that have been passed on to the current generation of minds.  The marketplace is the environment in which natural selection actually takes place and the animals in this environment mostly possess the aforementioned "memes" and they want to live.  This kind of action is par for the course. Novell it seems has evolved into being symbiotically parasitic on the "beast from Redmond".  It has taken 25 years for Stallman''s "meme" to spread to the point that it is now and this occured in a more hostile environment than we have now.  We will no doubt see new forms of life spawned by his "meme"  but it has proven itself quite resilient in a very short period of time and in my view is unstoppable in the long run.  '

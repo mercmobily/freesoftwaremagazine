@@ -1,0 +1,28 @@
+-
+    name: 'Anonymous visitor'
+    mail: whit@transpect.com
+    subject: 'In reference 1, that should'
+    hostname: 207.136.236.67
+    created: '1191788206'
+    body: 'In reference 1, that should be: http://www.networkupstools.org/ - "eu1" is no longer a valid address.'
+-
+    name: undefined
+    mail: ''
+    subject: 'minor note'
+    hostname: 68.93.98.201
+    created: '1192499669'
+    body: 'zcat ${FILE} | less => zless ${FILE}'
+-
+    name: trinux
+    mail: ''
+    subject: 'Permission to translate'
+    hostname: 217.216.188.82
+    created: '1196015360'
+    body: "Hi Ken Leyba,\r\n\r\nI am interested in translating his article to my language (Spanish). I hope your permission. I communicate with you primarily to avoid duplicated efforts. If someone else wants to translate his article, please know that someone else is working on the translation. My mail trinux (@) gmail (dot) com.\r\n\r\nThank you, forgive me for my English, but it is enough to make a translation.\r\n\r\nGreetings.\r\n"
+-
+    name: trinux
+    mail: ''
+    subject: 'in spanish'
+    hostname: 217.216.184.146
+    created: '1197470724'
+    body: 'http://solognu.wordpress.com/2007/12/09/sai-sistema-de-alimentacion-ininterrumpida-instalacion-y-configuracion/'

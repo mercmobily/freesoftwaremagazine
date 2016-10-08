@@ -1,0 +1,70 @@
+-
+    name: 'Crosbie Fitch'
+    mail: ''
+    subject: 'Demonstrate infringement'
+    hostname: 86.138.119.86
+    created: '1162981595'
+    body: "Perhaps one idea might be for all GPL coders to itemise all the patents (especially the ridiculous ones) that their software infringes?\r\n\r\nOne could categorise all the software patents in terms of frequency in the field and help coders figure out which of them they've infringed.\r\n\r\nAs GPL source agglomerates it would build up an ever longer list of infringed patents.\r\n\r\nThat way if these non-coder hand-wringing innovation enthusiasts could see how farced-up their thinking was, they might think twice.\r\n\r\nNot least, they might realise precisely how much infrastructure would have its plug pulled. It shouldn't just be a case of drip-drip litigation and extortion as the patent holders pore over the source code of each victim.\r\n\r\nIf we're not careful Europe will want to catch up with the highly innovative US and also legislate software patents."
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: ...
+    hostname: 69.180.163.110
+    created: '1163037087'
+    body: "Minnesotans also know what lynxes are. :-)\r\n\r\nI worry a lot about this, and it's hard to imagine that lawmakers will ever understand the nuances of the subject, or see the harm that is being done, until it is much harder to undo.\r\n\r\nMaybe with this new Democratic congress in the U.S., we can lobby that free software (that is, software that meets the free software definition) should be excluded from patent considerations.  Argue it from the public good and watching out for the little guy angle.  Stress that it would benefit the poor and disenfranchised.  It would be an easy thing for them to grant, costing no money.\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'Re: Demonstrate infringement'
+    hostname: 203.109.206.61
+    created: '1163046369'
+    body: "&gt;Perhaps one idea might be for all GPL coders to itemise all the patents (especially the ridiculous<BR>\r\n&gt;ones) that their software infringes?\r\n\r\nNot a prudent move&#8212;ask a lawyer and they'll tell you. Under the US system, if you <em>don't</em> know which patents you infringed, then you can use that as a defence that the infringement wasn't wilful. So if you <em>do</em> know which ones you infringed, then that makes the infringement worse.\r\n\r\nA few years ago the FSF, I think it was, sponsored a study to find out which patents were likely to be infringed by free/open-source software. The consultants they hired came up with a list of about 200. But that was all we were told&#8212;just the number, not the details. Because if anybody involved in those projects found out which exact patents they might be infringing, then bang goes their chances of defending a lawsuit.\r\n\r\n<P>Lawrence D'Oliveiro"
+-
+    name: ''
+    mail: ''
+    subject: 'Big software corps not rabbits'
+    hostname: 142.58.74.38
+    created: '1163048253'
+    body: 'The big corps are more like big, cannibal foxes.  They figure to eat both rabbits and other foxes until in the end they''ll have eaten most of the rabbits and all the other foxes, at which point they''ll be this huge, landscape-dominating mutant fox, ruling the barren wasteland.  They imagine that when that happens they can maintain a few rabbits in a hutch to keep themselves fed.'
+-
+    name: ''
+    mail: ''
+    subject: 'It''s a matter of metrics (bad ones)'
+    hostname: 124.148.117.235
+    created: '1163049456'
+    body: "Submitted by Chris Barnard on 9 November 2006\r\n\r\nPoliticians and public servants want to put simple numbers on everything so that they can show how successful they are. You can count patents.  The trouble is, counting patents is NOT a good measure of innovation.  I wonder is there an effective measure of innovation?"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: LOL
+    hostname: 69.180.163.110
+    created: '1163050861'
+    body: ':-)'
+-
+    name: 'Anthony Taylor'
+    mail: ''
+    subject: Lawmakers
+    hostname: 76.188.155.238
+    created: '1163082765'
+    body: "<A href=\"http://pashdown.org/\">Pete Ashdown</a> (founder of XMission) would've been a great choice. We would've had the side benefit of getting ride of Orrin Hatch, one of the worst lawmakers with respect to technology and consumer rights.\r\n\r\nHowever, since I don't live in Utah, I couldn't vote for him.\r\n\r\nIn 1995, Newt Gingrich wrote in his introduction to Alvin and Heidi Toffler's \"Creating a New Civilization: The Politics of the Third Wave\":\r\n\r\n\"The reality is that transformation is going on everyday in the private sector among entrepreneurs and with citizens who are inventing new things and creating new solutions because bureaucracy doesn't stop them.\"\r\n\r\nIt's important to court both major parties in the United States. There <em>are</em> intelligent Republicans who understand where the future is leading us. We (meaning geeks and free software enthusiasts and free software businesses) need to find out who they are, and work closely with them to help them craft intelligent, forward-thinking (that's a phrase they love) policy.\r\n\r\nMr. Gingrich's quote sums up exactly how we need to approach the Republicans. We need to convince them that software patents increase bureaucracy, which in turn inhibits \"innovation\" (a word that has been co opted by marketers and breathless tech journalists).\r\n"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: Absolutely
+    hostname: 69.180.163.110
+    created: '1163109424'
+    body: "Right. I was playing off the Democrats as the defender of the meek theme, but I agree it's going to take some convincing of people on both sides, with different emphasis for each.\r\n\r\nI've been thinking about a letter writing campaign with my senators and representative, and maybe trying for a meeting with some staffer or the congressperson myself.  Two of the three are Republicans.  Not sure if this would be effective in the least, but I guess I could print the letters here or at my own blog so it wouldn't be wasted effort.\r\n\r\nSome interesting thoughts about what the election might mean for some \"freedom\" issues at <a href=\"http://www.publicknowledge.org/node/709\">http://www.publicknowledge.org/node/709</a>.\r\n\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: 'Pieter Hintjens'
+    mail: ''
+    subject: 'There are metrics, if anyone wanted to count them'
+    hostname: 213.193.162.190
+    created: '1163156444'
+    body: "Here are some ways of measuring innovation over different periods/geographic areas:\r\n<ul>\r\n<li>Amount of VC investment</li>\r\n<li>Number of researchers and engineers</li>\r\n<li>Number of new small firms</li>\r\n<li>Investment in R&D by firms</li>\r\n<li>Number of publications</li>\r\n<li>Number of new projects (in free software ecologies)</li>\r\n<li>Number of new standards under development</li>\r\n<li>Number and size of industry events (trade shows)</li>\r\n<li>Number of trademarks sought in high-tech sectors</li>\r\n</ul>\r\n\r\nAll these are measurable using modern techniques such as cluster sampling - you take (e.g.) twenty random areas and sample every single firm in that area.\r\n\r\nHowever the patent industry largely drives the debate and it works hard to promote its own studies, which are typically based on interviews with \"stake holders\", i.e. patent holders.  To my knowledge, no-one has done a proper study to measure innovation vs. patents.  It would be a ground-breaking piece of research, and I'm willing to bet that the results would show a \"rabbits and foxes\" pattern, in any given industry.\r\n\r\nSuch a study could also be conducted on historical data, in industries that were heavily patented in the past.\r\n\r\nPoliticians, driven by the easy rhetoric of the patent industry, make the sins of confusing correlation with causation.  Only a few of the above indicators actually has an <em>effect</em> on innovation.  Perhaps publications, and number of researchers and engineers.\r\n\r\nMy thesis is that innovation comes simply from specialisation and competition, the main drivers of all economic activity.  I.e. to get more customers for my bakery, the best way is to specialise, i.e. focus on a particular type of bread or cake, and then innovate, i.e. make that better (and cheaper) than anyone else around.\r\n\r\nSo the best way for governments to drive innovation is to create bigger markets (so that more people can buy my bread), to remove barriers to competition (so that cake making is not a protected monopoly) and to make communications cheaper (so I can exchange recipes with others).\r\n\r\nPatents that cover underlying principles rather than specific products, which includes all software patents, are a barrier to competition, so are bad for innovation.  Patents on bread or cake recipes would be catastrophic for innovation and competition in the bakery industry.\r\n\r\nPerhaps the US patent system is one of the causes of America's loss of competitiveness, falling from 1st place to 6th place last year.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"Perhaps the US patent'
+    hostname: 68.93.224.4
+    created: '1163230750'
+    body: "\"Perhaps the US patent system is one of the causes of America's loss of competitiveness, falling from 1st place to 6th place last year.\"\r\n\r\nSee this is why we have to get Europeans to legalize software patents. That way their economy will be as hobbled as our is!\r\n"

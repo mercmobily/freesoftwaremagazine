@@ -1,0 +1,91 @@
+-
+    name: 'Anonymous visitor'
+    mail: harmc@moerstaal.nl
+    subject: 'Linux isn''t Linux anymore'
+    hostname: 80.126.189.143
+    created: '1192694819'
+    body: 'Some years ago Linux was really wacky with non-conforming methods to do things, but now it turns to be just another Windows, losing the geek value.'
+-
+    name: 'Aitor 0'
+    mail: ''
+    subject: 'Qwery keyboard'
+    hostname: 212.170.156.253
+    created: '1192705192'
+    body: 'I completely agree with you. For example, qwerty keyboard is not the best choice nor even the most faster way to type, but it is widely used because of its popularity. I think the same applies to Windows. It will be very difficult, even I think impossible, that Linux or MacOS overtake Windows in the future.'
+-
+    name: 'Brian Tipton'
+    mail: mr.tipton@gmail.com
+    subject: 'Here!  Here!'
+    hostname: 75.66.158.14
+    created: '1192799180'
+    body: 'As much as I like Linux, what you say is exactly true.  There has to be a compelling reason to do so.  The fact is, I love Linux and would love to switch, but I have 3 applications for which there is no sufficient Linux counterpart.   So here I am in Redmond land.'
+-
+    name: 'Scott Drummer'
+    mail: ScottDrummer@gmail.com
+    subject: 'Best Tech Doesn''t Win'
+    hostname: 198.12.16.4
+    created: '1192812205'
+    body: "Back in the day...\r\nWindows 95 came out. \r\nWas it a serious competitor against Mac, OS/2 or even the Amiga?\r\nNot even close, but it won.\r\nBetaMax vs. VHS?\r\nThe best technology rarely wins."
+-
+    name: oso
+    mail: ttenpas@gmail.com
+    subject: 'A different take on the issue'
+    hostname: 69.215.133.241
+    created: '1192828259'
+    body: 'Unfortunately, I don''t think Linux adoption has much to do with whether or not it''s a better OS. Most people are not geeks. They don''t really care what OS they''re using as long as it does what they want it to. They go down to the local computer/electronics store, buy a computer, and use whatever OS is pre-installed on it. 100% of the time that is Windows. Until you can go down to Best Buy or Circuit City and purchase a Linux based system, Windows is not going to lose any significant market share.'
+-
+    name: eldar
+    mail: ''
+    subject: eldar
+    hostname: 82.141.167.23
+    created: '1192870182'
+    body: "It's true that Windows is fine for most people because it does everything they want to do with a computer. Another point is that people are fairly comfortable with Windows because that's what they know and use daily at work, in the office, at home, on their PDA, etc. When a lot of companies start to use Linux on the desktop, because of security/economic/whatever reasons, people may decide to start using it at home as well, because they will get used to it. That's when the real change might begin.\r\n\r\nAnd an idea for where could technology make a difference: I'd love to see a simple way of automating tasks across multiple applications without having to do scripting. For example: watch my incoming e-mails, and if you receive a mail saying that the new Ubuntu release is available, then download it, burn it to CD, and power off. To a human, it is a fairly simple task, but it is a hell to make it work automatically... I'd love to see a framework for tasks like this in Linux. I think it would make a nice competitive advantage."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'FSM has a forum for that'
+    hostname: 68.93.224.4
+    created: '1193070873'
+    body: "Bear in mind that Free Software Magazine has a forum for bringing up \"application needed\" questions. We'd like to know <em>which</em> 3 apps you feel you can't replace.\r\n\r\nBecause maybe you actually can replace them.\r\n\r\nI went through about 3 years of this -- trying to find a replacement for everything I needed to do (of course that was a few years ago, when the range of free software apps was a lot weaker). But in time I passed that point, and now I have a whole series of apps I only know how to do on Linux (which has its own downside of course -- for example, I learned Scribus, but the publishing industry wants experience with In Design or Quark. <em>Sigh</em>. I wish I knew what to do about that.).\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: bob@dodgeit.com
+    subject: 'Value Free Software'
+    hostname: 202.92.44.173
+    created: '1193094026'
+    body: 'Teach people to value free software. Once they understand and agree with the logic of why non-free software is evil, they''ll have less resistance to using free software. Of course, for this to happen, the tutor has to understand why non-free software is evil.'
+-
+    name: Toni
+    mail: asnasc@gmail.com
+    subject: "@eldar:\nDo you mean there is"
+    hostname: 189.25.46.253
+    created: '1193189224'
+    body: "@eldar:\r\n\r\nDo you mean there is some kind of framwork for Windows to do all those tasks you described in your example (parse email, donwload, burn, turn off)?\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'No I think he just meant'
+    hostname: 68.93.224.4
+    created: '1193247347'
+    body: "No I think he just meant \"gee it'd be cool if I could do this\". Or possibly, \"If Linux could do this, then it would have clear advantages over Windows\".\r\n\r\nOf course, what he's talking about is just scripting. I can do all of that with Python (or Perl or bash or whatever) if I have two things:\r\n\r\n1) Enough desire to make it worth the testing time\r\n\r\n2) MODULES instead of PROGRAMS\r\n\r\nThis is a big deal: if you want to automate processes, you need programs you can call like subroutines (or \"use like objects\") instead of GUI programs that have to be run by hand.\r\n\r\nMost applications, even free software ones, don't bother to supply both kinds of interfaces, so the two tasks wind up being separate, when in principle they don't have to be.\r\n\r\nAn example of an exception to this is a program like Skencil. Skencil is a Python, GUI-based interactive vector graphics editor. But it is ALSO the skencil module in Python, which can be scripted extensively.\r\n\r\nCommand-line programs -- at least the stream I/O model ones -- can be used like programs by shell scripts, and via OS calls like os.system(...) in Python. But these usually provide a rather primitive interface compared to callable object-library modules.\r\n\r\nOne development I would really like to see is an enhancement to both GUI and CLI interfaces that would allow users to migrate back and forth more easily -- simply by identifying the counterparts. For example, it'd be really cool if every GUI app would have a menu item under \"Help\" that told you what the command was to start the program from the CLI.\r\n\r\nOn the flip side, it would be nice if we had snazzy GUI terminals that would be able to give you intelligent context-sensitive help on what you're typing. For example, you could get something like \"tooltips\" that would post the brief man listing in a bubble when you mouse-over a command in the text window. I'm sure there are many other enhancements that could be made.\r\n\r\nTo make this process a little more intuitive there have been attempts to create graphical pipeline-based programming languages. I believe this was true for Smalltalk and there is a language called Overflow, though I haven't actually tried either myself.\r\n\r\nIn principle, though, it is possible to model many applications as \"components\" with \"pins\" -- which actually send arbitrary data messages, not just electrical impulses as the name implies -- which can then be connected graphically to create data flows. A 2D grid with connection lines gives much more flexibility than the CLI's \"pipe\" feature.\r\n\r\nThen, creating a script would feel a lot like a graphical editing session with Dia (which is at least something I'm quite comfortable with).\r\n\r\nHowever, most of the applications of such software have been limited to complex simulation and data processing tasks, and it's not clear that end users would find them \"easy enough\" to use. I know I've never (yet) found it worth the trouble to install and test them.\r\n\r\nI hate to say it, but I think that this is partly just because the problem is intrinsically hard -- even with this kind of help. You say it's easy for a Human, but that's because Humans are awfully darned smart!\r\n\r\nSo far, the GNU/Linux environment has been defined as a conflict between the archaic Unix-based CLI model and the friendly-but-excluding Windows-like GUI mnodel. This reflects the social reality that users and developers have always been distinct people in the proprietary software world.\r\n\r\nIdeally though, in the world of free software, we should find a gentle, graded slope between end-user on one extreme and core-developers on the other -- with power users, testers, contributors, and developers filling the spectrum in between. To me, a <em>fusion</em> interface that tried to combine the power of CLI and scripting with the entry-level ease of use of GUI -- without creating a social or technical barrier in between -- would seem like the right one for that society.\r\n\r\nIt's this sort of <em>original approach</em> that I think could push GNU/Linux out of the also-ran category and into the lead. So long as we define our interfaces by looking back -- or even sideways -- we're not going to be the ones to follow. We have to look ahead."
+-
+    name: eldar
+    mail: ''
+    subject: 'That''s right'
+    hostname: 213.253.200.34
+    created: '1193383771'
+    body: 'I think it would be cool, and no I don''t know of anything similar available on Windows. And of course you can do such things with scripting, but that is a) time-consuming and b) not really an option for the average user, who doesn''t know (nor should) much about scripting.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Why is scripting inappropriate for users?'
+    hostname: 68.93.224.4
+    created: '1194294940'
+    body: "I think though, that before we jump to the conclusions either that 1) scripting is not appropriate for end users or 2) that an \"easier\" GUI method of combining tasks is needed,   we need to ask WHY is scripting too hard for end users?\r\n\r\nIs it the text? (There are real visibility and readability issues with terminal text, as opposed to rich text)\r\n\r\nIs it the fact that commands, function-calls, and/or objects are not self-documenting? (in other words, you can't see what all the usage possibilities are when you are writing them, so you have to switch back and forth between documentation and editor)\r\n\r\nIs it that even if they ARE self-documenting (as in fact they are in Python with doc-strings), that end users don't know how to get the help and can't or won't spend the time to find out? (Maybe the documentation needs to be more \"intuitive\"? Or maybe the fault is educating new users in computer use?)\r\n\r\nIs it an irrational fear of the command line itself, built up by programmers and other CLI users to defend their \"professional domain\"? (This is absolutely possible -- many people certainly are afraid of the CLI)\r\n\r\nOr is it that the <em>task itself</em> has too much complexity for on-the-fly use and thus requires the discipline for software testing to use? (If it's this, we're probably out of luck, because this is the part you can't make go away -- or at least it's a very hard problem).\r\n\r\nSince what's being sought here is essentially a way to script without having to write scripts, one has to think carefully about the interface -- what must it have that a simple text environment lacks? How can it be made flexible enough to implement the full scope of scripting ability (which means being Turing-complete!), and yet remain easy enough for \"just anyone\" to use?\r\n\r\nIt <em>does</em> seem likely that, given the amount of brain power there is in the free software developers' community and all of the huge library of GUI technology that has been built over the years, that we ought to be able to do better than what is basically a vintage 1970s idea (the command line interface).\r\n\r\nBut what's \"better\"?\r\n\r\nThe WIMP* GUI as we know it (a 1980s idea) is not the answer, or at least not the whole answer, because it lacks the flexibility and expressiveness of the CLI.\r\n\r\nWe need a 21st century idea. :-)\r\n\r\n*Yes, this is a real acronym, not a slam: \"Windows-Icons-Mouse-Pointer\" -- not much used today, but we  shouldn't limit \"Graphical User Interface\" to meaning only this WIMP environment.\r\n"
+-
+    name: sam-c
+    mail: ''
+    subject: 'Computers are not only PC''s'
+    hostname: 79.181.255.157
+    created: '1195420663'
+    body: "sam-c\r\nComputers for the Good and Fun of Mankind.\r\n\r\nDon is close to the real Issue.\r\nAfter 26 years since IBM PC the Industry has not Grown up. Internet went commercial around 1995, just 12 years ago. Flash Memory MP3 MP4 just yesterday. Many people take the easy route of \"Whats good for MS is good enough for me\" Linux is nearly ready for the PC, but not just Now.\r\nas the OLPC project that shows that even Third World Children can use a Linux based computer.\r\nBUT do not forget that Linux has taken over from Mother UNIX, and is the only real Alternative to the Main Frames. Linux is a few steps from the Desktop.\r\nAnother Model MS tried to kill is the Network Computer, Or Thin Clients Model. MS joined in with Citrix and Terminal Services. Remember that a Cellphone is basicly a thin Client.\r\nSoon all this will have to integrate and be User Friendly...\r\n"

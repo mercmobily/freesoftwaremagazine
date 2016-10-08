@@ -1,0 +1,126 @@
+-
+    name: ''
+    mail: ''
+    subject: 'AIGLX on Fedora Core'
+    hostname: 134.129.215.169
+    created: '1158186646'
+    body: "I've been using AIGLX on Fedora Core 6 test series now for some time... It performs amazingly well on my laptop's meager 915 shared memory graphics chip.\r\n\r\nIf you're into the Fedora scene, once FC6 goes final (and right now in the test series), you can enable AIGLX+Compiz from within Gnome via System Menu -> Preferences -> More Preferences -> Desktop Effects.  Just click the \"Enable Desktop Effects\" and enjoy, or file a bug report ;)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Radeon 9200 is pretty solid'
+    hostname: 68.93.224.4
+    created: '1158373157'
+    body: "I'm sorry I don't know the chipset number, but the ATI Radeon 9200 card works pretty well for me. The biggest win with this card is that the free-licensed DRI driver for it works well.\r\n\r\nI have an nVidia on one of my machines, but when I went from the 2.4 to the 2.6 Linux kernel, I lost the proprietary binary driver modules, and simply have not had the time or desire to reintegrate closed-source drivers. I'm planning to spend a little money on buying an ATI 9200 that I know will just work out-of-the-box with Debian.\r\n\r\nUnfortunately, from what I hear, the later ATI cards are closed and undocumented, which means this will probably be the last ATI model I buy, too.  Which leaves something of a vacuum.\r\n\r\nI'm hoping that the consumer model of the <a href=\"http://opengraphics.org\">Open Graphics Project</a> video card will be coming out in a year or so (they are currently gearing up to manufacture the prototype/developer FPGA-based boards, which is promising, but there's still a lot of work remaining on the project). When the ASIC-based card hits the market, I'll probably start using those instead of any of the closed proprietary cards.\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Re: Radeon 9200 is pretty solid'
+    hostname: 84.6.221.65
+    created: '1159350783'
+    body: "I think I made a mistake on my array: I mentioned the 9200 in 2 ranges, while it should be in only one.\r\n\r\nBasically, 3D works solidly on older Radeon hardware, while Rage is something else: it supports 3D operation, but ALL rage hardware (be it mach64-based or 'pure' Rage128, up to and including models higher than the Rage II and Rage Fury) can't support AIGLX or XGL.\r\n\r\nRadeon 7000 to 9200 are based on r100 and r200 cores, which benefited from limited sources released by Ati, thus leading to a very solid free implementation. r300 uses some functionalities from previous generations, and the rest is being reverse-engineered to get a more complete support. "
+-
+    name: ''
+    mail: ''
+    subject: 'help plz.....'
+    hostname: 202.65.134.36
+    created: '1164539127'
+    body: 'I have ATI RADEON 200 . I am not able to get the desktop effects enabled'
+-
+    name: ''
+    mail: ''
+    subject: 'I found that compiz was not'
+    hostname: 147.11.47.213
+    created: '1165175375'
+    body: 'I found that compiz was not installed as part of my upgrade to Fedora Core 6. I had to ''yum install compiz'' to be able to do System->Preferences->Desktop Effects and enable compiz'
+-
+    name: ''
+    mail: ''
+    subject: '200M and AIGLX?'
+    hostname: 130.239.193.182
+    created: '1165336984'
+    body: "sounds good!! Did you use xgl and the fglrx drivers or did you use the ati/radeon drivers and AIGLX? If so (with AIGLX), could you tell me, which configuration you used in xorg.conf?\r\n\r\nTHX a lot! Benedikt"
+-
+    name: ''
+    mail: ''
+    subject: 'Radeon 7000 Mobility'
+    hostname: 211.131.157.49
+    created: '1168102727'
+    body: 'Radeon 7000 Mobility with 16Mb on video RAM on my notebook works quite nicely with AIGLX and the open source "radeon" driver. I can run compiz and 3D games. Of course not with T&L as this card does not support that. '
+-
+    name: ''
+    mail: ''
+    subject: 'ATI Radeon 9800 Pro (R350) Seems to be fine'
+    hostname: 68.52.116.85
+    created: '1171445065'
+    body: 'I have not been using it for long, but it appears that Beryl on X.org 7.1 (AIGLX) with the "ati" open source driver is working well for me.'
+-
+    name: ''
+    mail: ''
+    subject: 'ATI Mobility Radeon X1300'
+    hostname: 192.6.76.74
+    created: '1173790451'
+    body: "I have an ATI X1300 in a nc6400 HP Laptop and using the ATI/AMD fglrx proprietary driver doesn't allow to get AIGLX and Composite extension :-(\r\n\r\nI'm trying to see how to enable the XGL instead of X with AIGLX, but didn't find any way so far.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: SiS
+    hostname: 24.7.120.82
+    created: '1174382873'
+    body: 'I have a SiS 661/741/760/761 PCI/AGP VGA Display ... do you know if Compiz/AIGLX will run on this?'
+-
+    name: 'Anonymous visitor'
+    mail: nasihas@iit.edu
+    subject: 'ATI Mobility Radeon X1300'
+    hostname: 24.12.169.169
+    created: '1176574013'
+    body: 'I have a nc6400 too and I''m using omega drivers but they are unable to display 1440*900 with a 75hz refresh rate for an external LCD monitor.With a 60hz refresh rate the monitor looks too wavy.Any suggestions.'
+-
+    name: 'Anonymous visitor'
+    mail: fhfgfh@fgfgf.com
+    subject: 'I have an AGP x1300 and no'
+    hostname: 24.177.11.207
+    created: '1176861508'
+    body: 'I have an AGP x1300 and no luck for me either usung the ati drivers from their website.'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'look at the table. No'
+    hostname: 84.97.181.253
+    created: '1177233543'
+    body: "look at the table. No 3D.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Not driver'
+    hostname: 84.97.181.253
+    created: '1177233749'
+    body: "Your problem is more than likely a lousy external DAC - it can only do 60 Hz refresh in ????x900 resolution on the external display. Try resolutions with less lines (like 1280x768) and see if you have a higher refresh rate. If not, you can try configuring your xorg.conf file by hand to force it to output higher refresh rates. It's unlikely to work though.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Is your x1300 using shared'
+    hostname: 84.97.181.253
+    created: '1178263978'
+    body: "Is your x1300 using shared system memory, turbocache, or its own complete framebuffer?\r\nIf it's using turbocache, I think even proprietary drivers can't make 3D work on this card. Either shared RAM or local RAM are required.\r\nfglrx requires you to use XGL and disable Composite.\r\nradeon should work nicely with AIGLX and no options required.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: '- since I hadn''t logged in'
+    hostname: 84.97.181.253
+    created: '1178264357'
+    body: "- since I hadn't logged in when submitting the previous post - r300 has gotten VERY solid: I've tried it on a 9500, and many people report very good success with 9500/9700/9800. It should work very well with all the other cards (9600) with the free driver.\r\nA 9800 is a nice card, even by today's standards: it supports fully programmable shaders, it's clocked high enough to roar, and, well, I still haven't found a 3D app on Linux that could saturate it.\r\nIf you can find one, go for it - it is a VERY big upgrade over the 9200, which is basically a tweaked and overclocked 8500.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: Patrick437858247598345
+    mail: pjcurran@wisc.edu
+    subject: '"ati" driver'
+    hostname: 76.201.159.67
+    created: '1188960394'
+    body: 'It looks like the "ati" driver is a wrapper to autodetect the card.  It seems that the "atimisc" is what gets loaded if your rage128 isn''t really a 3D card.'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: indeed
+    hostname: 86.71.28.151
+    created: '1190729130'
+    body: "the ati driver, in fact, covers:\r\nmach (mach32/64, and early Rage which were in fact 2D mach with a triangle unit)\r\nr128 (other rage chips)\r\nradeon (r100 to r400).\r\nyou can either specify the generic ati driver, or select the one most appropriate to your card's generation.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."

@@ -1,0 +1,28 @@
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'DRM could create more pirates.'
+    hostname: 82.108.129.98
+    created: '1151590150'
+    body: "The metaphor is excellent - shows what will happen if/when DRM causes everyone to obey the full extent of the EULA's they didn't really read.\r\n\r\nWhat I found interesting was that some of those frustrated by the \"protest\" took - illegal and dangerous - action of their own. Witness the white van on the hard shoulder. Had this short period of forcing them to obey been more permanent I think we'd have seen more of that sort of thing and anarchy would break out. And I think that we'll see the same if DRM ever gets a fuller grasp. As Princess Leia said \"The tighter you squeeze, the more we will slip through your fingers\" (or something like that).\r\n\r\nNow just imagine if halfway along that road there was a sign pointing them to a road where they could drive faster than 55 as long as they allowed others to do the same :o)\r\n\r\nDRM could be a huge \"marketing\" point for FOSS and open standards."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Um, it''s a flash animation'
+    hostname: 68.93.224.4
+    created: '1151651290'
+    body: "Still don't have Gnash installed (it's still an alpha, I think!)\r\n\r\nToo stubborn to install the non-free flash plugin."
+-
+    name: Marza
+    mail: ''
+    subject: 'Piracy is a fact of software.'
+    hostname: 69.228.200.41
+    created: '1151826314'
+    body: "When I was much younger and did not have a job, I traded software with people.   I probably had 800 floppies of assorted programs.    I probably used 10% of them.\r\n\r\nA great deal of the software of the time was garbage.   I would have been ripped off if I spent what little money I had if I bought what sounded like good software.   \r\n\r\nThe programs that were good.  I did purchase a copy.\r\n\r\nCompanies can complain about losses and to some point they are right.   However, in many cases there would have been no income in the first place as people could not have purchases a license.   Does it justify it?  Not really.   \r\n\r\nWho is the villain in this situation?  The user?  The creator?\r\n\r\nBoth are doing wrong.  Circumventing the EULA is basically the same thing.  It's finding an excuse to use something without paying for it when the creator wants money. \r\n\r\nIn the matter of the software vendor, the EULA is now becoming a weapon for spyware.   You have to be VERY careful with purchasing anti-spam software.   You think you are buying a solution and you will be surprised to find it will not do what you think.   The Anti-spam software vendors will not openly admit it but their products are guided by lawyers.   If they say it's not malware or spyware, it will not be removed.  I asked this of 5 major anti-spyware vendors at the last RSA conference and they all said their legal department was involved with spyware definition.\r\n\r\nIf it's in the EULA where it states by using our product, you agree to let us install spyware on your machine.\r\n\r\nDRM may market for FOSS but how long before FOSS starts installing spyware to help offset development expenses?\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"The programs that were'
+    hostname: 68.93.224.4
+    created: '1151896540'
+    body: "\"The programs that were good. I did purchase a copy.\"\r\n\r\nThis is really the business model of shareware, not free software. Free software is generally motivated by different concerns than direct sales of copies.\r\n\r\n\"DRM may market for FOSS but how long before FOSS starts installing spyware to help offset development expenses?\"\r\n\r\nI find that statement mystifying: The nature of free software licenses is that they do not make this sort of scam feasible -- the minute somebody finds out about such an attempt, a \"DRM-stripped\" fork would appear (and due to the software being open source, that revelation would be pretty quick). That's the reality of the way the community works. There's always going to be more people motivated to distribute clean software than people interested in collaborating with a DRM/spyware scheme.\r\n\r\nIt's basically a case of eliminating the central point of control.\r\n\r\nPeople are often somewhat confused about how free software gets written. Let me say, as a some-time developer, that the main motivation is simply this: you want a piece of software, and free is the easiest way to get it written. The lowered cost and improved quality of development offsets any gain you might get through sales (and a penny saved now is often worth more than a dollar that might be earned next year!). Also, it's often easier to spend a little creative effort rather than part with precious capital.\r\n\r\nEssentially free software is written by 'customers' for themselves, eliminating the need for a 'vendor'.\r\n\r\nOf course, there are commercial models, too, but the 'do-it-yourself' approach is the most common situation in my experience.\r\n"

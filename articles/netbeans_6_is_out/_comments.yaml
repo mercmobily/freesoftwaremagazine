@@ -1,0 +1,35 @@
+-
+    name: 'Aitor 0'
+    mail: ''
+    subject: 'Two major differences (right now)'
+    hostname: 212.170.156.253
+    created: '1197374754'
+    body: "Right now, the major difference between both IDEs are Matisse, and well SOA support in Netbeans side. The rest of features are almost the same in Eclipse, and even better, for example, plugin support/development and availability.\r\nBut it is feasible that Eclipse will offer a good SOA support in a near future."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I remain unconvinced that IDEs are a good idea'
+    hostname: 68.93.224.4
+    created: '1197387225'
+    body: "It is true that a lot of people are loyal to various IDEs (though I'm reasonably sure that the universe of popular IDEs is a lot larger than just Eclipse and NetBeans -- both seem to me to be highly Java-biased, based on who uses them, and I NEVER use Java).\r\n\r\nBut I'm not sure that I see the point of IDEs in the first place.\r\n\r\nThey lock you into a small controlled environment which is highly integrated. Which has advantages. But the flipside is that you are <em>locked</em> into one choice (which is why there can be any concept of competing environments in the first place).\r\n\r\nIntegrating programming tasks, though, is a uniquely EASY process (nowhere near as difficult as, say, embedding spreadsheets in a word processing document). It's almost entirely about moving text around -- and that is something that any decent desktop environment will do with ease (at least I have no problems cutting and pasting in KDE or even FVWM).\r\n\r\nSo why not use the \"small sharp tools\" approach and just pick a great editor, a good terminal environment, and an appropriate GUI builder without concern for frameworks? I routinely use a combination of gVim, gnome-terminal, mozilla, inkscape, and/or glade under KDE (Note the lack of a unifying theme here! And of course, the choice of tools depends on the project).\r\n\r\nWith an appropriate selection of tools -- and there is a big universe of development tools out there (that being what free software is absolutely best at) -- you can, ISTM, be more productive than with <em>any single IDE</em>, because choosing an IDE is a form of lock-in that prevents you from always being able to pick \"the right tool for the right job\".\r\n\r\nSo I have to wonder, what would I be buying by trading off that freedom?\r\n"
+-
+    name: 'Rambo Tribble'
+    mail: jim@oregoncanoesport.com
+    subject: 'It''s nice to see NetBeans'
+    hostname: 75.175.55.202
+    created: '1197783029'
+    body: 'It''s nice to see NetBeans getting a little praise. I have to wonder, though, where the articles are about the excellent KDevelop suite. '
+-
+    name: 'Rambo Tribble'
+    mail: jim@oregoncanoesport.com
+    subject: 'A reply to why'
+    hostname: 75.175.55.202
+    created: '1197783355'
+    body: 'To respond to Mr. Hancock''s inquiry from my own perspective: While I don''t find IDEs particularly advantageous for straight coding, they can be a convenience for rapid prototyping. '
+-
+    name: 'Paulo Ferreira'
+    mail: paulo_viz@yahoo.co.uk
+    subject: 'Eclipse vs Netbeans 6.0'
+    hostname: 195.23.115.151
+    created: '1197886874'
+    body: "I've tried Netbeans 6.0 and I liked it a lot but I won't event consider leaving Eclipse for these two reasons:\r\n\r\n1. Mylyn - http://www.eclipse.org/mylyn/;\r\n2. Better Subversion Integration (to handle the \"svn:needs-lock\" property, I have to manage SVN from outside the IDE in Netbeans);"

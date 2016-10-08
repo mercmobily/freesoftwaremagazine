@@ -1,0 +1,63 @@
+-
+    name: scottc
+    mail: ''
+    subject: 'What''s in front of us'
+    hostname: 66.41.2.157
+    created: '1156091481'
+    body: "Is it terrible that your primary reason for using GNU/Linux is that it was just placed in front of you?  Of course not.  That's most people's primary reason for using Windows, after all, which is I think what you're getting at.  It's just what's normal.\r\n\r\nNow, should we be concerned about the commitment of these kids to free software if they really didn't care originally what they were given?  I don't think so.  They might not care about GNU/Linux vs. Windows now, but if they grow up with free software and being able to do whatever they want with it, they will bitterly resent the loss of that freedom if they are later forced to use MS Windows for their job or whatnot.  We can hope, anyway!\r\n\r\n----\r\nScott C.\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'Wrong state'
+    hostname: 71.107.158.45
+    created: '1156102002'
+    body: "Actually, the state with the ACCESS program is Indiana, not Louisiana.  But Linux is making progress in a lot of US schools, such as this program in New York state: http://in.sys-con.com/read/262426.htm\r\n\r\n\r\n\r\n "
+-
+    name: 'Bridget Kulakauskas'
+    mail: ''
+    subject: Ooops!
+    hostname: 203.217.6.80
+    created: '1156123042'
+    body: 'So sorry! You are absolutely right, it IS Indiana NOT Louisiana, as clearly stated in the linked article. That serves me right - I''ll never talk to my friend Louisa while I''m writing about Indiana again. Thanks for picking that up - it should be fixed now. :-)'
+-
+    name: ''
+    mail: ''
+    subject: 'To some extent...'
+    hostname: 201.98.115.97
+    created: '1156138432'
+    body: "To some extent, the article is right. When my daughter began using my Linux laptop instead of her Windows PC, she asked me what were the steps required to turn the machine on, login, logout and turn it off.\r\n\r\nNow that I turned her PC into a dual boot machine, she indistinctly uses one or the other system, and she seems comfortable working with both.\r\n\r\nAfter countless nights solving my friends' troubles over the phone, I started putting Linux on their machines. After a very short introduction to the desktop and menu systems, they quickly adopted the new system without complaints. \r\n\r\nMidnight calls asking for support are over. \r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Using it because too poor'
+    hostname: 144.199.176.12
+    created: '1156151642'
+    body: "Not all people have the luxury to upgrade their machine spec every 2,3 years. Thats my reason. After using my pc for 5 years (some of the component are actually 6 years old), the windows is begining to kill it.\r\nTo bootip, to load movies and all the other stuff.\r\n\r\nInstalled linux, boot to gnome, and Voilaaa! my 6 years old Duron 1GHz, 650MB PC133 RAM feels like brand new. Even my Geforce 2 GTS is looking sharp :)"
+-
+    name: ''
+    mail: ''
+    subject: 'Abe''s Amazing Adventure roolz!'
+    hostname: 203.22.197.45
+    created: '1156163247'
+    body: "And Master Seven doesn't care what platform runs <a href=\"http://abe.sourceforge.net/\">Abe</a>, just so long as it runs!\r\n\r\nOh... that and <a href=\"http://kiki.sourceforge.net/\">Kiki the nanobot</a>, of course. (-:"
+-
+    name: ''
+    mail: ''
+    subject: 'Stuck in Windows programs'
+    hostname: 63.17.29.167
+    created: '1156223105'
+    body: "And some of us are stuck with our data in proprietary programs for which we haven't yet found a good Linux replacement. (I have 1600+ contacts in ACT!, and I haven't figured out how to move the 80 fields of data from each record - plus my calendar info for the next five years - into Kontact.) Suggestions welcome!\r\n\r\n(And then there's the fact that on this 350 MHz PII with 385 MB of RAM, Win 2000 'just works.' KDE + Open Office might be a challenge.)\r\n\r\nFr. Stephen \r\nwww.holytrinityspokane.org "
+-
+    name: ''
+    mail: ''
+    subject: 'By the way...'
+    hostname: 203.173.156.115
+    created: '1156329569'
+    body: "...I will only start referring to Linux as \"GNU/Linux\" the day that Richard Stallman starts referring to the GNU project as the \"Linux/GNU\" project. Rather than GNU being crucial to the success of Linux, it was Linux that was crucial to the success of GNU. Particularly since, in the last 15 years, Linux has been successfully ported to two dozen different major processor architectures, while Stallman has yet to get his Hurd kernel to work properly on even one.\r\n\r\nLawrence D'Oliveiro"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'GNU/Linux vs Linux'
+    hostname: 68.93.224.4
+    created: '1156409372'
+    body: "I too prefer to just say \"Linux\", but in fairness...\r\n\r\n\"GNU/Linux\" is a preferred (more accurate or more complete) term for a <em>complete operating system distribution</em> containing both <em>Linux</em> (which is the O/S kernel) and the <em>GNU</em> utilities and shells which collectively provide the POSIX/Unix-like command line environment with which you are familiar. So your particular objection isn't all that logical.\r\n\r\nMy issue with this is that GNU+Linux is <em>also</em> a very incomplete and unfairly abbreviated term. After all, <em>X</em> isn't GNU or Linux, it's maintained by X.org (or XFree86 before that). Likewise, there is KDE, Mozilla, Inkscape, etc. All produced by different organizations with different goals.\r\n\r\nIs X less important than GNU? I could be quite happy with an alternative set of utilities (e.g. FreeBSD derived or Busybox), but X is <em>essential</em> to my needs (I don't know of any replacement, and X, being a GUI is an enormously complex and highly interdependent piece of software -- I'd wager it was a much harder project to complete than the GNU utilities).\r\n\r\nIn fact, that's a pretty important point: Linux may be small compared to the collected body of GNU utilities (I'm not certain about that statement, since the Linux kernel code is quite large), but compared to any single one, it's huge. And, unlike a bunch of separate utilities, the Linux kernel is a highly interdependent system. As any system engineer understands, that corresponds to a highly non-linear increase in difficulty (the \"combinatorial explosion\"), and thus many more programmer-hours to complete -- especially with regard to testing. Linux may be only \"one part\" of the system, but it's clearly the most important part.\r\n\r\nEmphasizing the GNU part is, if anything, only reasonable for political and historical reasons -- acknowledging the important role of the project in championing the GPL license and proposing the idea of a complete free software operating system (though, considering BSD, that wasn't truly an original idea either).\r\n\r\nSo I'd probably rather say \"Linux/X\" instead of \"GNU/Linux\", or even Linux/X/KDE, or maybe GNU/Linux/X/KDE/Mozilla/...  and as you can see, that way lies madness.\r\n\r\nOf course, even \"Linux\" isn't truly important. There's more than one Unix-clone out there that I could use. So the real point is that I'm using a <em>free software operating system</em>. Of course, focusing on that is the whole point of this magazine, as opposed to all the Linux-focused ones out there.\r\n"

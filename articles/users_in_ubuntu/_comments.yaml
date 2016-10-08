@@ -1,0 +1,210 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Group privileges'
+    hostname: 20.142.32.68
+    created: '1155314623'
+    body: "Crucial to the use of groups is allowing groups access to directories and files.  I am a beginning Ubuntu user (after two years, I still think I'm a beginner!) I've set up Samba so the Ubuntu machine can act as a file server.\r\n\r\nPlease correct these instructions if I remember them incorrectly:\r\n\r\nPick a directory you want the group to share say group: games, directory /games_dir.\r\nAs root create the directory\r\nmkdir /games_dir\r\n\r\nchange the ownership so the group is always games and the group will be inherited in subdirectories (-R)\r\nchown :games -R /games_dir\r\n\r\nchange the permissions so that the owner and other members of the group can read and write.  Those outside the group can do nothing.  The initial \"2\" sets the \"sticky bit\" for the group permissions.\r\n\r\nchmod 2660 -R /games_dir\r\n\r\nWIthout these ownership and permissions settings, whenever I saved pictures from my wifes account to /pictures I'd be unable to edit them later.  This way, we can both read and edit.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Corrections
+    hostname: 81.190.46.45
+    created: '1155317553'
+    body: "A very nice read indeed, especially for casual Linux users.\r\n\r\nHowever, there are some small misspellings, that take away some fun of reading your article:\r\n<ul>\r\n<li>(Page 1)\r\nUbuntu should also automatically create your new userÃ¢â‚¬â„¢s folder under the <strong>/home</strong> directory.\r\n<li>(Page 2)\r\n<code>cd /home\r\nsudo rm -rf john</code>\r\n<em>(I can't remember \"delete\" command, really)</em>\r\n<li>The errors you may see include: <strong>$HOME</strong>/.dmrc not properly configured, or that the <strong>/home</strong>/user does not exist.\r\n</ul>\r\n\r\nDon't forget about \"<code>sudo userdel -r john</code>\" which does two things at once: it removes the user's account and their home directory in one shot.\r\n\r\nAnd for NOT enabling the root's account but still be able to run programs on his behalf:\r\n\r\n <code>sudo bash</code>\r\n\r\n(remember, in Linux there are more ways to do the same thing)\r\n\r\nRegards,\r\nSirYes"
+-
+    name: allanregistos
+    mail: ''
+    subject: 'Home users/groups'
+    hostname: 203.131.100.54
+    created: '1155364490'
+    body: "I will create these groups for home users:\r\n\r\nkid\r\nboy\r\ngirl\r\nadult\r\nparent\r\nfamily\r\n\r\nA boy or a girl under the age of 18 will have the group kid as their secondary group. Same to boy or girl 18 above will have the group adult as secondary. Parents of course belongs to the parent group and will have no secondary group. All users have access to contents of the family group. In this way, I can manage contents that are unique for each home users. Just a thought..\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Simultaneous Screen Users ala Windows XP?'
+    hostname: 64.81.192.227
+    created: '1155367661'
+    body: "I know that Linux is a multi-user OS, however, I'm wondering if there is a way to have multiple users on a single physical screen ala Win XP.  \r\n\r\nThis is a nice feature - allowing multiple users to use  different logins on the same physical screen without forcing either one to log out and terminate their respective applications.\r\n\r\nThis would be very useful, for instance, when I have visitors over and I want to let them use my system, but I don't want them use my login and I don't want to terminate my running programs.  They would instead use a guest account running from the same screen.  \r\n\r\nI know there's the possibility of running multiple X servers, but this seems cumbersome.\r\n\r\nCosmo Lee\r\ncosmolee at bigfoot dot com"
+-
+    name: ''
+    mail: ''
+    subject: 'Loging in second user when another user is active'
+    hostname: 74.64.82.17
+    created: '1155444767'
+    body: 'Cosmo: yes, you can log in another user without logging out the previous one.  To do this, choose "Switch User" from the "Quit..." menu item under the "System" menu (can also be accessed by clicking on the open door with arrow found on the right-top of the desktop).'
+-
+    name: ''
+    mail: ''
+    subject: 'Simultaneous screen users'
+    hostname: 193.47.80.25
+    created: '1156170641'
+    body: 'Furthermore, you can choose to open several sessions from one session either in fullscreen or in nested windows!'
+-
+    name: ''
+    mail: ''
+    subject: 'Thank you'
+    hostname: 222.152.33.50
+    created: '1156199741'
+    body: "I wanted to take a moment to thank each of the readers who took time to reply on the article.  \r\n\r\nIndeed it is my hope to write more articles regarding Ubuntu and appreciate your kind replies and guidance on some of the notations above.\r\n\r\nwith kind regards, \r\nmark rais"
+-
+    name: ''
+    mail: ''
+    subject: 'Administrator Deletion'
+    hostname: 203.190.199.66
+    created: '1156730796'
+    body: "I was given a Hard drive with Ubuntu installed, but since I wanted to be the Administrator now that I deleted the existing admistrator but now I canon load programs without the password and I cannot restor the administrator account even to' I can log in as Adinistrater using his name and password.\r\nSystem/Administration section is only half the size now.\r\nCan anyone help please. I am loosing all respect for Ubuntu and I din't want this, I realy want to mak it work.\r\nRex Gladding\r\nrexd@istnet.net.au"
+-
+    name: ''
+    mail: ''
+    subject: 'Unrealistic expectations'
+    hostname: 69.242.232.60
+    created: '1158569069'
+    body: "Don't lose respect for Ubuntu for your mistake. If you made that type of mistake in Windows, you would experience the same problem. \r\n\r\nYou obviously are not very experienced with computers, so maybe you should take your computer to the local repair shop where they can help you out."
+-
+    name: ''
+    mail: ''
+    subject: reinstall
+    hostname: 70.184.72.38
+    created: '1159547039'
+    body: "Do that kind of thing to any multiuser OS and it'd be broken!\r\n\r\nAnother option after killing an installation in this way is to reinstall -- go to Ubuntu.com and ask them to send you a new CD. It's probably easier that way, and you'll learn stuff :-)\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'shell under root'
+    hostname: 84.53.76.15
+    created: '1162545697'
+    body: ">And for NOT enabling the root's account but still be able to run programs on\r\n>his behalf:\r\n\r\nThis works also and gives you the root environment:\r\n\r\nsudo su -\r\n\r\n>(remember, in Linux there are more ways to do the same thing)\r\n\r\nciao ek"
+-
+    name: vgrisham
+    mail: ''
+    subject: 'Am I root?'
+    hostname: 12.189.48.130
+    created: '1163539455'
+    body: "My account is the account created on install. I can create users and am apparently a superuser. When I try to install software (firestarter) however using apt-get, I get a message that says:\r\n\r\nE: Could not open lock file /var/lib/dpkg/lock - open (13 Permission denied)\r\nE: Unable to lock the administration directory (/var/lib/dpkg/), are you root?\r\n\r\nWhat am I doing wrong?\r\n\r\nThanks in advance."
+-
+    name: ''
+    mail: ''
+    subject: "Are you using sudo?\n"
+    hostname: 70.10.203.121
+    created: '1164417831'
+    body: 'Are you using sudo?'
+-
+    name: ''
+    mail: ''
+    subject: 'this article'
+    hostname: 220.238.66.2
+    created: '1165392277'
+    body: "What is the point of this article if you use the GUI? \r\nThe comments are more useful than the article it self."
+-
+    name: ''
+    mail: ''
+    subject: 'Not able to login to destop UBUNTU.'
+    hostname: 59.92.246.188
+    created: '1165824644'
+    body: 'I have installed a fresh copy of UBUNTU. In login screen I enter the correct user name and the password. Even then its not accepting the username and password and so i am not able to login. Could you please suugestme how exactly i can know about the login username and password.'
+-
+    name: ''
+    mail: ''
+    subject: 'same problem here'
+    hostname: 134.58.253.114
+    created: '1166437227'
+    body: 'I also installed ubuntu without any problems. It never asked for a username or password, but now I want to start and all it does is asking username and password.'
+-
+    name: ''
+    mail: ''
+    subject: 'Cannot log in...'
+    hostname: 121.73.16.44
+    created: '1170571791'
+    body: 'I renamed my administrator account and changed the default home dir. now i cannot log in as the home dir doesn''t exist. I have created a new user but only with limited rights. is therte a way i can restore my orginal login?'
+-
+    name: ''
+    mail: ''
+    subject: 'mouse not dectated'
+    hostname: 61.2.229.19
+    created: '1170832155'
+    body: 'in my ubuntu mouse is not deteacting so help me to activate my mouse'
+-
+    name: ''
+    mail: ''
+    subject: sudo
+    hostname: 24.151.95.54
+    created: '1171510296'
+    body: "apt-get needs to be run as root. In ubuntu, that means the command would be:\r\nsudo apt-get\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'same thing happened to me'
+    hostname: 71.246.187.120
+    created: '1172425131'
+    body: 'This would NOT have happended in windows actually. Becuase in windows you cannot delete the the administrator account. So the one reply to your post, that guy dosent know about computers. '
+-
+    name: ''
+    mail: ''
+    subject: 'The fix'
+    hostname: 24.208.240.36
+    created: '1175545635'
+    body: "If you boot your system into single user mode:\r\nhttp://wiki.clug.org.za/wiki/How_do_I_reset_my_root_password%3F\r\n\r\nThen add a user: yourusername\r\n\r\nthen just make sure to add your user to the \"admin\" group, reboot and you are good to go.  If you need more help, you can contact me (sharms on irc.freenode.org) and ask on #ubuntu"
+-
+    name: 'Anonymous visitor'
+    mail: paladin_1991@gmail.com
+    subject: 'to not have to type "sudo"'
+    hostname: 209.195.119.227
+    created: '1179810279'
+    body: 'to not have to type "sudo" in front of every command, you can type "sudo -s" and you will be root, and you can type all commands normally.'
+-
+    name: 'Anonymous visitor'
+    mail: paladin_1991@gmail.com
+    subject: '1. check to see if it''s'
+    hostname: 209.195.119.227
+    created: '1179810394'
+    body: "1. check to see if it's plugged in.\r\n2. check to see if it works on a nother computer.\r\n3. try rebooting\r\n4. come back here."
+-
+    name: BobT_KY
+    mail: bobtallman@insightbb.com
+    subject: 'I did this as well and had'
+    hostname: 170.119.0.39
+    created: '1182873808'
+    body: "I did this as well and had to startup a failsafe terminal session (use F10 when logging in to get safe mode menu options).  I then used \"su\" to switch to root.  Created /home/new__username  and used \"chown\" new_username /home/new_username.  I then had to hard shut down the PC (could not figure out how to exit the root temrinal session, tried \"exit\" \"quit,\" ctrl-z, ctrl-c etc.)  and logged in as new_username and all was ok.\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: robert.radamant@gmail.com
+    subject: 'about settings on the internet'
+    hostname: 83.131.91.107
+    created: '1184159216'
+    body: 'i installled ubuntu, i did this thing with the admin settings. but i cant get acces in the internet settings. it beheaviour like i dont done the step before. i cant type my ip adres, my username and anything else. what to do?'
+-
+    name: 'Anonymous visitor'
+    mail: sam@sam.com
+    subject: 'I assume "john" is Mark''s'
+    hostname: 75.66.40.193
+    created: '1184282103'
+    body: 'I assume "john" is Mark''s ''partner''.  '
+-
+    name: MRais
+    mail: rais@reallylinux.com
+    subject: 'John?'
+    hostname: 222.155.26.108
+    created: '1184721819'
+    body: "Hmmm.\r\n\r\nActually, I have been writing so many user guides that I ended up just using \"John Smith\" and/or \"John\" as simple example users.  \r\n\r\nNote that I use \"John Smith\" more like \"John Doe\" than someone specific like \"Captain John Smith\".  ;)\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: rjbaker@mhtv.ca
+    subject: 'If you were given a disk'
+    hostname: 207.34.157.134
+    created: '1195911657'
+    body: "If you were given a disk with another install already on it, you may already have built in problems and the easiest and cleanest thing to do would be a reinstall.  If you can access a system with internet access you can download an image of feisty fawn from ubuntu.org, make a cd, and boot to it.  Double-click Install... you will have to give it user information, and choose a password.  Write it all down!  Choose to overwrite the current install, have a cup of tea, or two, and you will have a fresh, clean start.\r\nIt's very important to be patient, and persist.  It took me 3 years to really learn windows, and Linux is no different.  Theres a learning curve to any OS, but persistance, and patience is the key.  Solving your first problem may take awhile and a lot of research and trial and error, the second will come easier, and so forth, and it really won't be long, you'll wonder why the whole world isn't using Linux.\r\nUnless you are wealthy in the extreme, you will never be able to afford to do the things in Windows that you can in Linux for free."
+-
+    name: newlyweds
+    mail: ''
+    subject: 'sudo permissions'
+    hostname: 132.19.75.24
+    created: '1201717714'
+    body: "I have some folders i cant get into with my initial user priviledges. I am very new to using another type of operating system such as linux but with ubuntu it is a fairly easy transition thus far. My friend is a tech nerd and is the one who installed it for me but he is deployed and i want to try to resolver this my self. \r\n\r\nhere is the issue. \r\n\r\nI have two folders that are designer within my hardware for mass storage but I do not have read, write, or execute permissions to them is there a way that I can essentually give myself aka my account the neccessary permissions to them. my friend believe they fall into the root permissions or something like that. \r\n\r\nAny help would be amazing!!! when replying please refer to my username. LOL thanks"
+-
+    name: jpmd
+    mail: ''
+    subject: 'How to manage users and groups from terminal window?'
+    hostname: 75.84.19.40
+    created: '1213479178'
+    body: "This tutorial is excellent:  clear and easy to follow.\r\n\r\nI'm curious, however, how to do all this from a terminal window.  I built a LAMP server with Ubuntu 8.04 and I want to avoid installing the GUI if I can.\r\n\r\nI'm using PuTTY to access the Ubuntu box remotely, hoping to make it a headless web server.\r\n\r\nI'm pretty new to the whole Linux thing, as you can tell.\r\n\r\nThanks for your help!\r\n\r\nJohn"

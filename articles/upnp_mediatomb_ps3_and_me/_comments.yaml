@@ -1,0 +1,91 @@
+-
+    name: trewas
+    mail: trewas@gmail.com
+    subject: 'Mediatomb & scandinavic characters'
+    hostname: 91.153.168.75
+    created: '1180793997'
+    body: "Thanks for the info, I was searching for a media server to use with PS3 and this post hit the target perfectly :)\r\n\r\nAnd here's one bit of information more for setting up mediatomb. It did not like scandinavic characters in id3-tags of mp3s, and threw errors like \"iconv: Invalid or incomplete multibyte or wide character\", \"... could not be converted to new encoding: invalid character sequence!\". These can be fixed by adding following lines to ~/.mediatomb/config.xml in import-section:\r\n\r\n    &lt;filesystem-charset&gt;ISO-8859-1&lt;/filesystem-charset&gt;\r\n    &lt;metadata-charset&gt;ISO-8859-1&lt;/metadata-charset&gt;\r\n\r\nNote that you have to delete the database (~/.mediatomb/mediatomb.db) and re-import the tracks for this to take effect.\r\n"
+-
+    name: rafiks
+    mail: rafiks_rb@yahoo.com
+    subject: 'nice tip! will try this out'
+    hostname: 68.56.23.83
+    created: '1180899946'
+    body: 'nice tip! will try this out with my ps3.. Thanks!'
+-
+    name: 'Anonymous visitor'
+    mail: not@telling.com
+    subject: 'Fuppes works well on Linux'
+    hostname: 82.69.123.182
+    created: '1181081218'
+    body: 'Fuppes works well on Linux too, and transcoding of Ogg Vorbis and Flac for the PS3 should be working soon.'
+-
+    name: Jimmhoo
+    mail: jimmhoo@yahoo.com
+    subject: "excelent tutorial\nthis is my"
+    hostname: 189.157.126.112
+    created: '1181172453'
+    body: "excelent tutorial\r\n\r\nthis is my first day with my ps3 and I was wondering how to stream media\r\n\r\nworks great with ubuntu feisty\r\n\r\n\r\n"
+-
+    name: 'Lord Deonast'
+    mail: ''
+    subject: 'Linux for PS3'
+    hostname: 220.245.178.131
+    created: '1181451652'
+    body: "Although I don't have a PS3 I do know that Sony Partnered with terrasoft to make a distro of linux for the PS3 the current version is Yellow Dog Linux 5.01 you can find download links here\r\nhttp://www.terrasoftsolutions.com/resources/downloads.shtml\r\n\r\nYou should be able to install and have the option to boot into linux or into the PS3 normally for games.  It won't have the advanced Graphics in linux though as part of the graphics chipset is locked down.\r\n\r\nHappy Playing."
+-
+    name: budda
+    mail: mike@buddasworld.co.uk
+    subject: 'Ubuntu dapper installation problem'
+    hostname: 82.23.93.25
+    created: '1183684494'
+    body: "Is it possible to install this on Ubuntu dapper release? I'm not totally down with Ubuntu and the upgrade process yet, but get the following message when attempting a \"sudo apt-get install mediatomb\"\r\n\r\n<code>Reading package lists... Done\r\nBuilding dependency tree... Done\r\nSome packages could not be installed. This may mean that you have\r\nrequested an impossible situation or if you are using the unstable\r\ndistribution that some required packages have not yet been created\r\nor been moved out of Incoming.\r\n\r\nSince you only requested a single operation it is extremely likely that\r\nthe package is simply not installable and a bug report against\r\nthat package should be filed.\r\nThe following information may help to resolve the situation:\r\n\r\nThe following packages have unmet dependencies.\r\n  mediatomb: Depends: libsmjs1 but it is not installable\r\nE: Broken packages</code>\r\n\r\nHow do I get around something like that?"
+-
+    name: RJO
+    mail: lvl7civic@gmail.com
+    subject: 'Installed great - Streaming problem'
+    hostname: 97.100.53.86
+    created: '1184294103'
+    body: "Excellent write up. If a noob like myself can do it, anyone can. Only problem is... since I am such a noob, I may have botched something up here. My music streams to my PS3 great... for about 20 seconds. After those 20ish seconds pass, the music stops and I'm sent back to the main music stem of the cross media bar on the PS3. Did I break it? :P\r\n\r\nThanks lots!"
+-
+    name: HiDef
+    mail: alpha.grow@gmail.com
+    subject: 'Thanks for the article, have'
+    hostname: 203.118.141.193
+    created: '1184459291'
+    body: 'Thanks for the article, have got everything working except I have the same problem as RJO - after 20 seconds or so, it flicks back to the media bar on the PS3 :-('
+-
+    name: 'Anonymous visitor'
+    mail: aapiethaaapmvl@gmail.com
+    subject: 'Indeed, i experience the'
+    hostname: 84.105.3.66
+    created: '1185578226'
+    body: 'Indeed, i experience the same problem, but not only when i am listening music but always when i am connected!'
+-
+    name: 'Anonymous visitor'
+    mail: blah@blah.com
+    subject: 'cool. thanks for the info.'
+    hostname: 76.25.145.221
+    created: '1190180911'
+    body: "cool. thanks for the info. worked right away for me - at least mp3's so far. really cool to have my entire collection on the big screen.\r\n\r\nhowever, i'm having problems getting images (tried .jpgs) to be picked up by the ps3.  anyone have any luck w/ this???\r\n\r\nthanks,"
+-
+    name: 'Drew Blogger'
+    mail: mr_wolf_pf@yahoo.co.uk
+    subject: '"Daemon mode"'
+    hostname: 82.6.97.154
+    created: '1194128311'
+    body: "I wrote about how to start in daemon mode (start at boot)\r\n\r\nIf anyone is interested in how to do this you can find it here:\r\nhttp://passthejager.org/blog/?p=12\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: sebee@hotmail.com
+    subject: 'LaCie Ethernet Disk Mini,'
+    hostname: 216.254.187.91
+    created: '1196113901'
+    body: "LaCie Ethernet Disk Mini, Ethernet Disk Big Disk and Ethernet Disk Home Edition all to UPnP very well.  www.lacie.com \r\n\r\nThe drives are affordable at about $250 each depending on capacity, and act as servers that can stream to 3 UPnP clients at once.  XBox 360 can do it as well.  \r\n\r\nI saw a demo (Using PS3 and a set top UPnP box with LaCie drive) and was blown away by the easy setup and usefullness of UPnP.  I'm not sure why this isn't more widely available in America.  In Europe they have LCD TVs with ethernet/wireless and UPnP players built in as well as small set top UPnP player boxes so you can stream to any TV in the house.\r\n\r\nOf course a Windows Media PC is also a UPnP server and PS3 will pick it up as such."
+-
+    name: n8behavior
+    mail: mike@thesandmans.com
+    subject: 'i too cannot get images to'
+    hostname: 68.31.42.1
+    created: '1197838220'
+    body: 'i too cannot get images to be imported into the database.  everything else, including running as a daemon on my server (ubuntu), works great.  i have the file package installed and can test for jpeg files using ''file'' in a shell.  not sure why mediatomb is ignoring them.  any help would be appreciated.'

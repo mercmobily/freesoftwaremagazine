@@ -1,0 +1,70 @@
+-
+    name: 'Robert Pogson'
+    mail: ''
+    subject: Amen!
+    hostname: 24.76.250.60
+    created: '1186415032'
+    body: "In many developed countries this practice could be called dumping, selling at below cost to harm competition. In the developing nations this prevents many smart, hard-working individuals from selling their skills to support local IT. The money goes to large businesses outside the developing nation. From any standpoint, commercial software threatens to preserve the digital divide.\r\n\r\nTo promote free enterprise in the developing world, to provide healthy competition instead of abuse of monopoly, and to give developing nations the best bang for their IT buck, I recommend everyone adopt and promote free software.\r\n\r\nI live in a developed country, Canada, but we are a diverse nation with remote/impoverished parts with similar problems to developing nations. In particular, small isolated schools in Canada's North can only afford about half the computer seats they need if they use proprietary software. IT should be used in education just as it is used in business: tasks better done using computers for speed, accuracy, and scope should be done using computers. Drills, searching, editing, sharing information are all key tasks of education that computers do very well. Some schools have ten students for each computer. Using FLOSS some schools get very close to one student per computer, making possible many good uses of IT.\r\n\r\nFLOSS has many benefits that shine in difficult conditions: longer useful life of PCs, lower power consumption using LTSP, more services available on a LAN because the per-seat costs are less, and lower maintenance costs.\r\n\r\nMany argue that what is good for business is good for society, but that fails in an unregulated monopoly. If software companies do not have ethical behaviour we have to impose it or avoid doing business with the company.\r\n\r\nRobert Pogson\r\nCanada\r\nhttp://pogson.6k.ca\r\n\r\nA problem is an opportunity."
+-
+    name: 'Daniel Escasa'
+    mail: ''
+    subject: '"On the other hand, free software, also known as open source..."'
+    hostname: 58.69.0.38
+    created: '1186567338'
+    body: "Not quite. While the FSF and OSI licenses are compatible, Free Software is \"dedicated to promoting computer users' rights to use, study, copy, modify, and redistribute computer programs,\" whereas Open Source is \"a development method for software that harnesses the power of distributed peer review and transparency of process.\" (From their respective Web sites.) Don't ever let RMS catch you calling him an Open Source advocate :)\r\n\r\nDaniel O. Escasa\r\nIT consultant and writer for hire\r\ncontributor, Free Software Magazine (http://www.freesoftwaremagazine.com)\r\npersonal blog at http://descasa.i.ph"
+-
+    name: 'David Jacovkis'
+    mail: ''
+    subject: 'true'
+    hostname: 82.197.199.91
+    created: '1186585072'
+    body: "I am very aware of the difference, and you'll notice that through the article I talk only about free software except for that sentence. However, in the context of Microsoft's business practices both free software (an ethical option) and open source software (a developement model) are better tools to bridge the digital divide than proprietary software.\r\n\r\nIt seemed to me that explaining the differences between them would deviate the reader's attention from the main point of the article. Besides, I was sure that someone would bring it up ;)\r\n\r\nDavid"
+-
+    name: 'David Jacovkis'
+    mail: ''
+    subject: 'Re: Amen!'
+    hostname: 82.197.199.91
+    created: '1186586790'
+    body: "<cite>I live in a developed country, Canada, but we are a diverse nation with remote/impoverished parts with similar problems to developing nations.</cite>\r\n\r\nThe poorest region of my country, Spain, has one of the highest computers per student ratios in Europe thanks to the massive deployment of free software in schools. You have probably heard about Extremadura and their GNU/Linux distro, gnuLinEx.\r\n\r\n<cite>Many argue that what is good for business is good for society</cite>\r\n\r\nYes, those are usually the owners of companies. They tend to mix up \"society\" and \"me\".\r\n\r\n<cite>but that fails in an unregulated monopoly. If software companies do not have ethical behaviour we have to impose it or avoid doing business with the company.</cite>\r\n\r\nTrue. If we don't want the law of the jungle governing our economies we'd better remember that the \"free\" in \"free market\" and the \"free\" in \"free speech\" are completely different things.\r\n\r\nDavid"
+-
+    name: 'Cap''n Kernel'
+    mail: mikechege@myway.com
+    subject: 'Brilliant Analogy!'
+    hostname: 196.202.194.26
+    created: '1186729792'
+    body: 'Brilliant analogy, David, and speaking as someone from the developing world (Kenya), I totally agree with you. However, where it reads "Free software is free as in free speech, not as in free milk,” don’t you think it would be more appropriate in the context of your article to say that “Free software is free as in breast milk, not as in bottled milk”?'
+-
+    name: 'Michael Gardner'
+    mail: mickgardner@yahoo.com.au
+    subject: India
+    hostname: 122.162.161.174
+    created: '1187059056'
+    body: "India has been experiencing this very problem now for quite some time.  As the business owner of an open source based solutions company working out of New Delhi, I find it staggering that 99.999% of all resume's I read have \"C, C++, Java, ASP.NET\" and \"VB\".  When I put out a call for PHP developers and Linux Admins I got 35 resume's, 34 without any clue what the hell I was asking for ( and not a scrap of knowledge how to use PHP/Linux) and one stating he/she had PHP experience.  \r\n\r\nSimply put, no one has a clue what non-microsoft technology is.  Sometimes I get looks and questions from CEO's of major corporations looking at me oddly about my solutions asking \"Is it from Microsoft?\" - As if that word implies \"Quality\" when in fact it is not the case (most of the time).  We spend a lot of time fixing crappy microsoft ERP implementations which were done in a hurry and carelessly, and yet businesses KEEP BUYING IT.  Despite how poor their solution is, they simply see that word \"M$\" and buy.\r\n\r\nMicrosoft is in all the educational institutions here. The only time Linux is taught is when they want to give students an introduction to the \"command line\".  Linux is described as a \"Command Line OS\".  When Linux is taught in RHCE exams etc, its taught along side windows 2003 server, which is inadvertently inserted into the curriculum despite its \"Red Had\" origins. How can this be I wonder?\r\n\r\nThe fact of the matter is, Microsoft is loosing in the Western / developed nations (yes while profiting hugely...), we're only now starting to see a change for the good there.  But if something's not done about the developing world, there's not going to be a single developer out their in India or China or Kenya who has a clue what open source / FLOSS software is and is about.\r\n\r\nAnd that's really a very sad situation."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'distribution model'
+    hostname: 82.108.129.98
+    created: '1187265756'
+    body: "<cite>...don’t you think it would be more appropriate in the context of your article to say that “Free software is free as in breast milk, not as in bottled milk”?</cite>\r\n\r\nSurely you're not suggesting there's an analogy between the breast milk distribution model and the Free Software one, are you? ;o)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'The reverse is true, too'
+    hostname: 68.93.224.4
+    created: '1187337251'
+    body: "Sadly, it seems that the reverse is true too -- when looking for work, either conventional employment or contract work, it's hard to find jobs that ask for, say, \"word processing skill\" rather than, \"Microsoft Word\" or \"publishing and layout skill\" rather than \"In Design\".\r\n\r\nPeople who train themselves on free software alternatives operate at a disadvantage in trying to find work, simply because of this kind of bias. As a result, most job-seekers must learn proprietary versions of software in order to get work, hence explaining your problem in finding people who've chosen otherwise. It's a vicious circle.\r\n\r\n"
+-
+    name: 'Sebastian D Tennant'
+    mail: ''
+    subject: 'Let''s face it...'
+    hostname: 85.105.17.65
+    created: '1187548953'
+    body: "... we're fighting a war on drugs!\r\n\r\nMicrosoft are knowingly fostering dependency on a consumable product and its supplier, in order to make money further down the line.\r\n\r\nThat makes them a drug pusher in my book.\r\n\r\nThey can't even claim that they don't know it's addictive, or that it's bad for you in the long run, like Big Tobacco did.\r\n\r\nThey really are nothing short of an international mega-drug cartel!  Ugh!\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: anon@aol.com
+    subject: 'RE:  MS Mis-uses Political Pressure, Too'
+    hostname: 68.251.44.241
+    created: '1188185520'
+    body: "A thought-provoking article!   It should be added that Microsoft has gone well beyond hidden-agenda \"price reductions\" and \"gifts\".  The company tries to short-circuit the buying procedures and even manipulate the political processes of various nations in pushing product and attempting to cut out open source.\r\n\r\nLearn how the US ambassador to Peru did Microsoft's bidding in trying to derail open source in Peru in Wired's story here (http://www.wired.com/techbiz/media/news/2002/07/54141).\r\n\r\nSee why President Luis Inacio Lula da Silva of Brazil accuses Microsoft of \"using the tactics of a drug pusher\" (http://www.linuxdevices.com/news/NS2447751606.html).\r\n\r\nSimply googling the issue turns up much more documented evidence.  \r\n\r\nI say let's have a free, open competition between Microsoft and open source.  But their actions show Microsoft will not engage on this basis.  No wonder the company has concluded that after bankrolling SCO's failed law suit, they'd better launch their own (see http://www.eweek.com/article2/0,1895,1542865,00.asp).  \r\n\r\nMicrosoft's conviction for illegal, monopolistic behavior has not led them to alter their behavior.  The \"remedies\" failed, and the behavior this article describes is the result (http://en.wikipedia.org/wiki/United_States_v._Microsoft).\r\n"

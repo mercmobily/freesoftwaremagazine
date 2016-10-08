@@ -1,0 +1,7 @@
+-
+    name: god
+    mail: ''
+    subject: 'Good review.'
+    hostname: 203.59.90.115
+    created: '1143804862'
+    body: "From: Taran\r\nUrl: http://www.knowprose.com\r\nDate: 2006-01-16\r\nSubject: Good review.\r\n\r\nThe title is misleading to those who are not aware of the tools... and that title was a poor choice by the publisher.\r\n\r\nIt is possible to use all three (though that seems like overkill) by following the instructions, yet - yes - one would expect to have some form of integration in the book based on the title.\r\n\r\nI find it strange to see books out like this when the documentation on all of them more than suffices, but... bookstores are the old network. If anything, books such as this will make tools like these more visible to the public. The downside is that if people figure out that the documentation good and that the online support is more important than the documentation most of the time (Drupal 4.7 coming out of beta soon), it becomes a strange bird on a bookshelf."

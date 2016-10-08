@@ -1,0 +1,49 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Hire yourself a professional'
+    hostname: 220.233.53.52
+    created: '1168339150'
+    body: 'Chances are, if there isn''t a package that fits your requirements, you''ll need to put some resources into developing a new one. If you do not have the skill, time or knowledge to do it yourself, then you''ll need to get someone else to do it for you. Sounds to me like you need to hire a professional software developer - one that is experienced with Free software. If the packages you pointed out are close to what is required, it shouldn''t take long for the professional to develop something that''ll work.'
+-
+    name: ''
+    mail: ''
+    subject: 'I think you''re right'
+    hostname: 24.108.129.4
+    created: '1168452886'
+    body: 'The subject head says it all....'
+-
+    name: wilinux
+    mail: ''
+    subject: 'Project Specs & Background Info'
+    hostname: 59.100.115.199
+    created: '1168778355'
+    body: "What an opportunity! Personally <strong>I'd love to contribute</strong> & I'm sure many others would too. I imagine there may even be grant money available to help fund some of the work. Let's get serious!\r\n\r\nChris Holt's 1st Free S/w Mag post on this topic -\r\nhttp://www.freesoftwaremagazine.com/blogs/free_software_for_non-profits\r\n\r\nCheck out Chris Holt's blog category \"case management\" (Chris' ideas for the specs & useful background info to be found here) -\r\nhttp://intuitech.biz/?cat=1\r\n\r\n@Chris:\r\nWhat did you find out about desc.org's system? (from your comments in \"Free S/w for Non-profits\")"
+-
+    name: ''
+    mail: ''
+    subject: 'Working existing with free software projects'
+    hostname: 64.229.248.212
+    created: '1168982064'
+    body: "Interesting blog entry, we need more feedback like this. Disclaimer: I'm a developer of one free software project aimed at non-profits (<a href=\"http://www.lcm.ngo-bg.org/en\">LCM</a>).\r\n\r\nThere was an interesting discussion recently similar to this on the «NOSI» mailing-list. To quote David Geilhufe, from the CiviCRM project, in a message posted on January 5 2007: «With CiviCRM (www.civicrm.org) we found that building a reliable user community took about 18 months since users don't care about what the application could do, they just focus on the 30% that you don't have done.»\r\n\r\nThat's OK, we can't force users to work without features which are essential to them, but users (or consultants/technicians working with those users) need to get a bit more involved. Submit bug reports, ask questions, be constructive. If you can't invest money, invest time. Not all free software projects have stable sources of funding or full-time developers.\r\n\r\nInstead of saying that «I still haven’t found a free software case management framework for non-profits emerging on the horizon», start by describing a list of required specific functions, explore the most suitable solutions, which features would be missing and how much work would it take to improve. Encourage a few organisations to collaborate together, use a wiki and/or a mailing-list to document the evolution of the research, etc.\r\n\r\nI would add that the most successful Free Software projects are those who do one specific task and do it well. We usually get those programmes to interoperate in order to build systems that satisfy the requirements of an organisation. We cannot always add every single feature into one software, but we can encourage various software to \"talk\" to each other. Therefore, if one software is missing one very specific feature, try to see if another software might not be able to complement it. Sometimes it is necessary to modify the two applications so that they work well together, but that's one of the strenghts of free software.\r\n\r\nFinally, if you do hire a professional, make sure that the person clearly documents what he/she has done. If any modifications were made to the software, request that those changes were submitted for review and integration by the software developers of that project. This helps the project to go forward, but also avoids being dependent working with only that professional. After all, free software is about freedom!\r\n\r\nHappy hacking,\r\n\r\nMathieu Lutfy\r\nmathieu@bidon.ca"
+-
+    name: 'Chris Holt'
+    mail: ''
+    subject: Thanks
+    hostname: 24.108.129.4
+    created: '1169177886'
+    body: "Thanks for the comment and your points are all well taken.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Free software for nonprofits'
+    hostname: 71.14.130.21
+    created: '1171341073'
+    body: "On the contrary, I provide FREE case management software for food pantries and emergency services organizations which provide food, clothing, diapers, HBA items, funds to avoid utility cutoff and eviction, funds for Rxm etc.  Since Nov 2004 the software has been installed in 28 501(c)(3) agencies.  YOu can learn more about the software and download a trial version here:\r\n\r\nhttp://webpages.charter.net/bobalston/nonprofit_food_pantry.htm\r\n\r\nBob\r\n\r\nbobalston9  AT  yahoo   DOT   com"
+-
+    name: 'Donald Lobo'
+    mail: lobo@yahoo.com
+    subject: 'Check Drupal + CiviCRM + BIRT ...'
+    hostname: 125.238.9.28
+    created: '1177297135'
+    body: "\r\nI dont think CiviCRM comes close to your needs, but I think it offers you a good start and a decent basis to build a case management system\r\n\r\nDrupal: For managing Content\r\nCiviCRM: For managing Data\r\nBIRT (via CiviReport), similar to pentaho: to build detailed reports and analysis as u see fit\r\n\r\nlobo\r\n"

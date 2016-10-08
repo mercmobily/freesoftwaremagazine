@@ -1,0 +1,21 @@
+-
+    name: ''
+    mail: ''
+    subject: Autostitch
+    hostname: 213.132.47.114
+    created: '1171166590'
+    body: "Autostitch, can do that with one click, it is a fully functional trialware at \r\nhttp://www.autostitch.net/\r\nI have tried it and then threw away all Panorama software for good."
+-
+    name: ''
+    mail: ''
+    subject: 'The free software tools (huginn, autopano-SIFT, enblend)'
+    hostname: 213.213.158.80
+    created: '1172662450'
+    body: "I have tried many of the tools (PT-gui, autopano etc...) and I must say that this combo work very well.\r\nEnblend at the end can do magic with the final output.\r\nAs for all other panorama tools memory is the key.\r\n\r\n"
+-
+    name: 'Ian Tester'
+    mail: ian@testers.homelinux.net
+    subject: 'Are you kidding?'
+    hostname: 203.142.146.112
+    created: '1178155721'
+    body: "Perhaps you forgot where you are. This the \"Free Software Magazine\". Sorry to sound rude, but your Windows-only demo of a commercial product is not welcome here.\r\n\r\nBesides, I've had pretty bad experiences with \"auto stitchers\" in the past. The ones I've tried always seemed to choose the worst set of points - leaves on trees for example, or the seemingly featureless centre of a wall instead of the corners. I spend so much time weeding out the bad points or adjusting them, that it's often easier to just do it all manually myself."

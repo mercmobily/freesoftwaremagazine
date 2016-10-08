@@ -1,0 +1,112 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Free as in Beer?'
+    hostname: 155.56.68.221
+    created: '1160474338'
+    body: "Just a quick question: could you please provide me with a good description, a link, or a fragment of one of the more popular licenses that ensures you're \"free to use software, without charge\"? I have to admit I failed in finding those. FSF speaks about \"free as in speech\", and the licenses tell that you can get the source, modify it, probably have to freely distribute it again and may not charge for the source (more or less) - but quite some commercial software is licensed under a \"pay by use\" modell (number of CPUs, number of users, number of installations, etc). So even if they would give you the source, allow you to change the source, etc. this does not mean you're allowed to actually use the program w/o paying them.\r\n\r\nPlease don't flame, as this proves my point has not been understood. I do want to believe OSS gives you the right to freely <u>use</u> the program, but without actually seing it in the licsense I can't. All I can see is that these licenses grant you the right to the source, and nobody asks for money, so everyone thinks it's free (as in beer) and no problem. But where does is actually written? Who stops you from demanding usage fees from all users even if your software is, say, GPL'd?"
+-
+    name: ''
+    mail: ''
+    subject: 'Orwellian Software'
+    hostname: 66.82.9.73
+    created: '1160480651'
+    body: "This view on intellectual software is interesting and I would say Orwellian.  If it were possible this sort of business model would have been implemented years ago\r\n\r\nI would say that the deciding factor here is the overall economy and lawmakers instead of software companies.\r\n\r\n<strong><a href=http://www.radlabs.net>Atari</a></strong>"
+-
+    name: ''
+    mail: ''
+    subject: 'Re: Free as in Beer?'
+    hostname: 192.108.114.222
+    created: '1160482009'
+    body: "Software, in copyright law, is no different than any other piece of work, say a recipe for pasta. The first is used by a computer to manipulate data and produce results, the second by a person to manipulate ingredients and produce food. Sure, software is more complex than a lasagna recipe, but it is the same in principle. When was the last time you called a publisher asking him if you had the right to use a recipe you found in one of their books to cook dinner? Right, thought so. Another important distinction is that copyright protects the actual work, not the general idea. If I print a book with 100 pasta recipes, it doesn't mean that anyone else wishing to print a book containing one of those recipes, is out of luck. He can still print one, and similar recipes would be OK as long as he can reasonably claim that he didn't copy it from you, that it wasn't derived from yours, or, in the case of a traditional recipe like carbonara, claim that both recipes derive from a public domain recipe so that noone can claim rights. Software is similar... just because you wrote a sorting algorithm that works in one way, doesn't mean that noone else can. Everyone else can take the algorithm and implement it, and in many cases the implementation will be very similar. Copyright will not protect you from that, there's patent law for that, and software patents is another big subject.\r\n\r\nSo, they don't grant you the right to use the software because they can't take it away to begin with, it's an implied right. What the corps do though is use end user license agreements (EULAs) in which they grant you specific rights if you agree to a contract, or no rights if you don't. This has nothing to do with copyright or patents, this is contract law. This is like agreeing with someone to sell you his top secret recipe for ultra delicious cookies for $200 while signing a contract prohibiting you for using that recipe for commercial purposes, like setting up a competing business.\r\n\r\nSo, there's patents, copyright and contract law. A software that doesn't use patented methods, and that is provided to you without you having to agree to a contract, is only protected by copyright law, which only restricts your right to redistribute it. If the author grants you this rights, then you can do pretty much whatever you want with it. Check for example the (revised) BSD license:\r\n\r\nhttp://www.freebsd.org/copyright/freebsd-license.html\r\n\r\nIt is simple and elegant.\r\n\r\n\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: lol
+    hostname: 193.231.249.230
+    created: '1160485123'
+    body: "if you are talking about personal use, here is what i have to say:\r\n\r\n1. interesting. i didn't know that\r\n2. have you ever heard of \"real alternative\" or \"quicktime alternative\"? which are free!\r\n3. 7zip - also free\r\n4. -\r\n5. software should be free\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'freedom 0'
+    hostname: 194.2.91.222
+    created: '1160485598'
+    body: "The first liberty (#0 for fomputer people) allow use to run a program for ANY purpose : ie no one can't tie a price to a SPECIFIC use...\r\n(time, commercial/personnal, number of use...)\r\n\r\nThat beign said, nothing prevent to SELL an Open Source software, in fact that's why the term Open source was created : beccause those software are free as speech and not as beer...\r\nYour only guarantee is that you won't have 'use fee' but only 'selling price'.\r\n\r\nMy disclaimer: IANAL.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'It''s a good point, and one'
+    hostname: 84.92.95.136
+    created: '1160485939'
+    body: "It's a good point, and one that's particularly pertinent under English law. As I understand it (and I am not a U.S. qualified lawyer) under the U.S. copyright act, there is an implied license to use software which is otherwise licensed to the user for various purposes. This is what allows US users of GPL software the right to use it. \r\n\r\nUnder English law, there is no such statutory implied right to use, but fortunately it's pretty well agreed between commentators that the GPL is to be read with an implied right to use the software, even if this not made explicit.\r\n\r\nIt is one of the problems with the GPL (v2), which despite being a great piece of drafting does have a problem or two. Unfortunately, even though Eben Moglen (co-author of the GPL) agrees with me on this issue, it has not been explicitly dealt with in any of the current drafts for GPL v3 that I have seen.\r\nI suppose it's up to me to do something about that!\r\n\r\n- Andrew\r\n\r\nAndrew Katz\r\nwww.moorcrofts.com\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'patents worse than you think'
+    hostname: 157.203.43.103
+    created: '1160489493'
+    body: "\"A software that doesn't use patented methods, ...\"\r\n\r\nYou do realize that if the currently granted patents were rigourously enforced then virtually all modern software would be impossible without licensing patents? The US patent office has granted patents which when translated into non-legalistic language cover things on the generality level of \"sending a message from a computer to another computer in order to elicit a response\" which convers any computer to computer communication.\r\nNow, such patents can almost certainly be overturned as insufficiently specific and subject to prior art. But if the company owning the patent is (say) a £1000Million+ company (and they hold many such patents) you only stand a chance if you are another company of a similar size. And you might have hundreds of such patents to invalidate, held by several large companies.\r\nSo rigourous software patent enforcement does effectively kill all free and open source software unless (say) IBM was prepared to put a LOT of its money on the line."
+-
+    name: ''
+    mail: ''
+    subject: "You are sooooo 2006!\n"
+    hostname: 71.251.61.66
+    created: '1160489753'
+    body: 'You are <em>sooooo</em> <strong>2006</strong>!'
+-
+    name: ''
+    mail: ''
+    subject: "its a joke\n"
+    hostname: 209.53.232.173
+    created: '1160491792'
+    body: 'its a joke'
+-
+    name: ''
+    mail: ''
+    subject: "And so is the reply. ^_^\n"
+    hostname: 71.251.61.66
+    created: '1160494896'
+    body: 'And so is the reply. ^_^'
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'The Future'
+    hostname: 69.180.163.110
+    created: '1160530982'
+    body: "Right -- it hasn't been possible, previously.  If it became possible in the future, then you can bet companies would like to extract every penny they can.  (It's their job, after all.)\r\n\r\nDespite the miserly future presented, I'm actually pretty optimistic about the promise of free software and its ability to compete with proprietary software.  *If* it is allowed to go on as it has, and that's where politics comes in to play.  Software patents are a big threat."
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: Freenessosity
+    hostname: 69.180.163.110
+    created: '1160532172'
+    body: "The way I understand it is that money can be charged for the source code, but once you (or someone) buys it, no further restrictions can be placed on it.  So  let's say you buy source code from some shady guy in an alley, and later he turns around and demands usage fees.  According the license, he has no legal backing for this.  (However, look out if he has some underling named Chainsaw that tries to persuade you to pay up.)\r\n\r\nIs there also something about any fees charged needing to be \"reasonable?\"  Whatever that would mean?\r\n\r\nBut regardless of the amount, I don't think a business model could be made around charging extravagant amounts for the source code, since there is no way to prevent the next person from distributing it for less or free.  Now, I suppose Company X might get a distribution of GNU/Linux and make some changes and then sell the revised version for $100,000 to Company Y.  Company Y might not want to just give it away after investing that amount.  So they don't share either.  But is this a big problem?  These two companies are going to be outside of the flow.  They will have a lot of work on their hands to maintain their isolated versions in-house.  They won't have the wider community supporting and improving their version.  And I don't think many copies will go for $100,000 so it doesn't seem like a viable business model.\r\n\r\nAs far as the versions that are out there that are essentially free as in free beer because so many people are using them, to a large extent you are relying on the community to keep this thing going so you can continue to enjoy using the software for free.  Theoretically you have the source code and can maintain it yourself if the community went away, but that's not very likely in practice.\r\n\r\nBut the system works great so far and we've reached critical mass for a lot of projects.  And success keeps breeding more projects.  It's lots of fun, and I can't wait to be more immersed in it.  (Too much time writing and not enough time playing with this great free stuff.)\r\n\r\nThese are just some random thoughts.  I haven't studied the licensing all that closely and am instead relying on the reassurance and opinions of others.  I welcome any feedback about why my scenarios above are wrong or way out of line or irrelevant in some way.  They're not meant to be authoritative, just speculative :-)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"reasonable fees"'
+    hostname: 68.93.224.4
+    created: '1160608578'
+    body: "There are a few \"open source\"/\"free software\" licenses which carry a restriction against charging for the software, but they allow you to charge a \"reasonable fee\" for distribution, etc. They also allow you to bundle the software with something else (i.e. \"aggregation\") that you do charge for.\r\n\r\nThese aren't very popular licenses, though (and I don't feeling like diving to find one at the moment -- I just remember reviewing licenses of this type).\r\n\r\nThe popular GPL license, has no restrictions against sale price. However, because it removes all of the monopoly advantage, it lets the market drive the price to nearly zero (to be exact, it drives it to the \"marginal cost of reproduction and distribution\", which for web-based distribution can mean \"less than what you get from Google ads on the page\", so essentially \"free\").\r\n\r\nStrictly speaking, of course, we are paying something in the form of our local internet providers. Peer-to-peer distribution (and Bit Torrent, which uses the same technological approach), attempts to leverage this by distributing the cost of distribution over the whole network. Thus, you essentially pay-in-kind for the distribution cost when you pay your ISP for bandwidth. Some of it will be used to send files on to other people.\r\n\r\nAs for charging for the source code, the GPL specifically ties the cost to the cost of the binary distribution. GPLv2 said they had to be equal, GPLv3 loosened this up to \"within 10X the cost\" and provided some multi-channel costs. This is mainly to accomodate things like embedded devices for which source distribution \"on like media\" is potentially troublesome.\r\n\r\nThe 10X rule is also useful for artistic works, where the sources might be much larger than the final product (e.g. the movie \"The Lord of the Rings\" was maybe 10 hrs long all together, but the footage shot for it may well have run into 1000+ hrs, with all the re-takes, multiple component shots, unused scenes, etc).  A \"source\" distribution of a big movie like can easily be many times the size of the \"binary\".  So far, there isn't a lot of free-licensed art of this caliber, and it can be argued that GPLv3 won't be used for it anyway (but rather, say, CC-By-SA), but it is interesting.\r\n\r\n"
+-
+    name: iraysyvalo
+    mail: ''
+    subject: 'You can sell Free Software'
+    hostname: 193.48.136.60
+    created: '1161001800'
+    body: "OK, as long as people are willing to buy it from you. The same for Open source software.\r\n\r\nThe term Open Source doesn't convey the freedom nature of the software as well as the Free Software terminology* but for all practical purposes, they represent the same thing. Please see the <a href=\"http://www.opensource.org/advocacy/faq.php\">OSI FAQ</a> where you can check the relation between them.\r\n\r\n*But then see also this link on the origin of the Open source terminology : <a href=\"http://www.opensource.org/advocacy/free-notfree.php\">\"Free\"</a> is ambiguous.</a>\r\n\r\n________________________\r\nLet's go party."
+-
+    name: 'Mike Swanson'
+    mail: ''
+    subject: 'QT and Real Alternative'
+    hostname: 24.22.215.94
+    created: '1161051223'
+    body: 'Real Alternative and QuickTime Alternative aren''t free as in freedom, and they might possibly violate the EULA of the respective products. They''re simply packages for Windows that installs the codec modules of both, but without the GUI of either.'
+-
+    name: BitShifter
+    mail: ''
+    subject: 'I found that those financial'
+    hostname: 61.246.101.111
+    created: '1163498503'
+    body: 'I found that those financial programs for accountants really help in budgeting. Though of course not just for software per se. And I am not the one who uses it primarily. My wife does, an accountant, and it helps me budget all my expenses. Excuse my rambling. The tips show a lot of promise and I hope to save more with it!'

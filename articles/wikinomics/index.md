@@ -1,0 +1,25 @@
+---
+nid: '2030'
+title: Wikinomics
+authors: 'Chris Holt'
+published: '2007-01-30 8:39:28'
+tags: 'free-software,book-review,collaboration,wikinomics'
+license: verbatim_only
+section: opinions
+listed: 'true'
+
+---
+I recently picked up the book [Wikinomics](http://www.wikinomics.com) by Don Tapscott and Anthony Williams and... bought it. This was a slightly unusual move for me as I get most of my information on what’s happening on the web from Free Software Magazine and others like it covering new developments (the web being somewhat faster to press).  Being the neophyte I am, I was hoping for it to be a great compendium on current developments in collaboration. And, while it is a useful book for anyone wanting to get a great introduction to how the free software movement is changing the economy, if you are looking for a revolution, it ain’t in the book.
+
+Tapscott, known for his previous books on the digital economy, and Williams, who works with Tapscott at New Paradigm, a think tank and strategy consulting company, fell a little short in their effort to excite me about the wonder of the new world. Why? Even with my limited technical and free software knowledge, I was not surprised by anything in the book, i.e., it’s more about what’s happening now than what may be coming up (that’s why I like [Ray Kurweil](http://www.kurzweilai.net/index.html?flash=1) who doesn’t exactly hold back on his predictions). But, that being said, it is almost a must read for a business person who has yet to pay any attention to how the economy is being shifted beneath their feet. Large traditional companies like Proctor and Gamble are opening their proprietary gates to expose their inner sanctum to the world and if you don’t know that yet...you’re behind the times.
+
+The book covers the usual history of free software development including Linus Torvalds and Linux; but also brings up some interesting stories of companies that jumped on the band wagon to forge the collaborative way. Toronto based Goldcorp was one such company. Goldcorp opened it’s geological data to the world in 2000 and essentially asked “where’s the gold?”. They launched a challenge with a financial prize and exposed their proprietary geological information to geologists from around the world who studied their 400MB of data and a told them where to find the treasure. Through this collaboration the geologists found the gold and the small underperforming GoldCorp is now “reaping the fruits of its open source approach to exploration”. Not only did the contest yield copious quantities of gold, but Goldcorp went from a $100 million company to a $9 billion leader in the industry. Pretty successful free software if you ask me.
+
+Wikinomics has many stories like that and that’s one of the values in the book. Stories about Proctor and Gamble opening their patent library via [Yet2.com](http://www.yet2.com) to independent researchers and other companies, IBM adopting Linux, Wikipedia undermining the Encyclopedia Brittanica, Myspace’s social revolution, Amazon.com’s collaboration with its readers. But it also has less well known organizations who are pushing boundaries and creating new methods and uses of collaboration. 
+
+[TakingITGlobal.org](http://takingitglobal.org/) is an online community for youth to access information and take action in their local and global communities. It is now the world’s most popular online community for young people interested in making a difference according to their website; i.e, this is a more serious site than [Myspace](http://www.myspace.com). Others including [InnoCentive](http://www.innocentive.com/), the [Human Genome Project](http://www.ornl.gov/sci/techresources/Human_Genome/project/about.shtml), [Flickr](http://www.flickr.com/), [SecondLife,](http://www.secondlife.com) [MIT’s Open Courseware project](http://ocw.mit.edu/index.html) and [Bioinformatics.org](http://bioinformatics.org/) illustrate the potential for new business models.
+
+As I say above, the book succinctly covers the history of free software and then demonstrates how traditional companies have begun to open their IP to the free software model and are reaping vast rewards from all their dusty data. The book covers how small ideas can become global, how consumers are beginning to assume the role as designers of a company’s products, how healthcare can benefit from global and open research, how companies are implementing collaborative networks, protecting their shareholder value and changing the structure of the corporation.
+
+All in all, this is a useful book and my only hesitation is that it somehow fails to find the underlying spirit of the free software movement, the Ubuntu so to speak and, in fact, never mentions either. It’s a light criticism, but I believe that the future will not be determined as much by the financial returns so highlighted in this book, but more by the energy and spirit of social change that is sweeping the world... and it’s that underlying energy that will transform business, not just its manifestation as collaboration.
+

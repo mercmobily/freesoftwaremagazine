@@ -1,0 +1,14 @@
+-
+    name: 'Felipe Alvarez'
+    mail: felipe.alvarez@gmail.com
+    subject: 'I use smoothwall'
+    hostname: 206.248.171.94
+    created: '1188233395'
+    body: "I have a very old pentium celeron 300MHz that was lying around. One day I decided to turn it into a dedicated firewall/router.\r\n\r\nI downloaded smoothwall from www.smoothwall.org and proceeded to install it. Beleive it or not, it runs better than my Linksys wireless G router. It has MORE CPU power, more RAM, larger hard drive, and includes swap partition that my Linksys router doesn't have.\r\n\r\nI still use my Wireless router, but only for wireless connectivity now. My father downloads a lot of files, and so our Linksys was getting bogged down.\r\n\r\nNo more problems, now with smoothwall installed. I recommend that you check it out.\r\n\r\nps - smoothwall deletes everything on your hard drive during installation - BE AWARE!"
+-
+    name: PedroB
+    mail: ''
+    subject: 'What rules are created'
+    hostname: 85.243.52.134
+    created: '1188840414'
+    body: "Thank you for your presentation. \r\nHowever i think you missed an important thing: what do you think about the iptables rules that Firestarter created.\r\n\r\nI switched to iptables only due to the fact that i didn't quite understand what Firestarter was doing, once i read about using the iptables itself."

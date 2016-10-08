@@ -1,0 +1,14 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Copyleft is not one of the four freedoms'
+    hostname: 68.93.224.4
+    created: '1222187834'
+    body: "You've written a great argument for using a _free_ license. But you didn't answer the question you set up: why do you choose a _copyleft_ license?\r\n\r\nEvery one of your points would be met by the MIT, BSD, or Apache _non-copyleft_ licenses (I'm not saying you don't _have_ any reasons for using a copyleft, but you have not yet listed one).\r\n\r\nIn particular, if you don't expect derivatives to be made from your work, the copyleft will never come into force. As such, one must naively question why, with your stated motivations, you would _take away a freedom_ (i.e. the freedom to make proprietary derivatives). Why burden the users with a more complex license and a legal clause that will never be needed, and can occasionally have unintended consequences?\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'fair point'
+    hostname: 82.108.129.98
+    created: '1222190416'
+    body: "> You’ve written a great argument for using a free license. But you didn’t answer the question you set up: why do you choose a copyleft license?\r\n\r\nSorry I guess it does seem a little confusing. The truth is I chose the GPL because it had copyleft as well as the four freedoms, it's just that the four freedoms were the main reason. The point I was trying to make was that copyleft really wasn't a major factor for me but it gave the GPL the edge over the other licences you mentioned.\r\n\r\n> In particular, if you don’t expect derivatives to be made from your work, the copyleft will never come into force. \r\n\r\nI don't expect any derivatives to be made because I just can't imagine anybody wanting/needing to. The apps to my mind fill a fairly narrow niche. But by choosing a copyleft licence I am saying I'm happy for people to make derivatives. I am also making provision for those that do and ensuring those derivatives are not proprietary ( because of my personal stance on such licences ). \r\n\r\nWill the copyleft clause ever be needed in this case? I don't know but it's there just in case.\r\n\r\ncheers  \r\nRyan"

@@ -1,0 +1,126 @@
+-
+    name: ''
+    mail: ''
+    subject: Awesome
+    hostname: 128.61.73.81
+    created: '1175607719'
+    body: 'Good job.  I love the feeling of finishing writing a piece of really elegant code.  Glad you''re sharing it too. :)'
+-
+    name: ''
+    mail: ''
+    subject: Awesome!
+    hostname: 208.8.248.10
+    created: '1175617840'
+    body: 'Great job! Good luck.'
+-
+    name: ErnieDV
+    mail: ''
+    subject: 'Printable view?'
+    hostname: 207.246.31.4
+    created: '1175626038'
+    body: 'Issue 16 had a printable view added after so many comments about the need for such.  Issue 17 seems to be missing this feature.  I assume this is just part of the growing pains of moving to the new setup, but just to make sure... a printable view is absolutely mandatory for FSM to be useful.'
+-
+    name: raseel
+    mail: ''
+    subject: 'Kudos !!'
+    hostname: 203.124.159.50
+    created: '1175670452'
+    body: "I really never imagined there was so much work behind getting an online mag up and running... successfully !!\r\nI always thought, the editors just wrote the articles and handed it over to the Web guys to be included on the website.\r\n\r\nBut it was truly inspiring to read your struggle , albiet in brief.\r\n\r\nKeep up the good work !! You are doing an awesome job !!!\r\n\r\nRaseel\r\nhttp://itvidya.com/blog/raseel"
+-
+    name: johneb47
+    mail: ''
+    subject: 'CMS programs'
+    hostname: 220.239.183.6
+    created: '1175678452'
+    body: "Did you get a chance to try out the seaside application? From all reports it seems to be an easy system to implement, but I can not speak from personal experience be cause I have no need for a CMS system. Google \"squeak: seaside\" for best results or better yet Raymond Leon's Blog http://onsmalltalk.com/ and follow his journey on setting up a seaside server.\r\n\r\nJohn"
+-
+    name: ''
+    mail: ''
+    subject: 'Bad Advertising'
+    hostname: 84.209.215.103
+    created: '1175816942'
+    body: 'I know you probably need to cover your costs somehow, but the prominent advertising for "freeware" and "shareware" (in the right hand column), various Google adverts (in the left hand column and embedded in articles), and banner adverts presumably selling proprietary software really undermine the message of this site.'
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'Advertising is advertising'
+    hostname: 203.59.172.245
+    created: '1175861880'
+    body: "Hi,\r\n\r\nI will only write it once.\r\n\r\nAdvertising is advertising. Open your local newspaper, open the New York Times. You will see ads.\r\nAdvertising is how we pay FSM's bills, and that's how we plan to pay authors in the future.\r\n\r\nNo magazine has ever endorsed the advertising it carries. Advertising is not endorsement, and a magazine with ads is better than no magazine at all.\r\n\r\nBye,\r\n\r\nTony Mobily"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Advertising is advertising.'
+    hostname: 68.93.224.4
+    created: '1176230046'
+    body: "YES.\r\n\r\nThere is of course, a very simple way to not have advertisements -- produce a version of FSM without ads that you have to subscribe to to see. If people really value eliminating the ads, they'll buy into it.\r\n\r\nOf course, past experiments suggest that such complaints are all mouth -- the previous subscription based models for FSM were not terribly successful. Unfortunately, you have to pay attention to what people do, rather than what they say, in order to know what they really think. That's just the way it is, though -- no worse here than anywhere else.\r\n\r\n\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Take their money I say!'
+    hostname: 82.108.129.98
+    created: '1176379216'
+    body: "If the advertisers are happy with advertising a proprietary product on Free Software Magazine then I say take their money. Let's be honest how likely are they to get a real return from the people reading this?\r\n\r\nif they can't target their advertising to the right demographic - let them pay up :o)\r\n\r\nRyan"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: Avatars
+    hostname: 82.108.129.98
+    created: '1176379298'
+    body: 'I notice the avatars are all set to the default one now. Does the new design mean we have to resubmit them or are they just disabled for a while?'
+-
+    name: admin
+    mail: ''
+    subject: 'Still ironing out some wrinkles'
+    hostname: 165.98.157.37
+    created: '1176395460'
+    body: Fixed.
+-
+    name: nivan
+    mail: ''
+    subject: hmmm
+    hostname: 75.132.194.43
+    created: '1176428714'
+    body: ...
+-
+    name: leoyw
+    mail: ''
+    subject: 'downloadable mags'
+    hostname: 192.207.230.17
+    created: '1176485555'
+    body: "Is there a feature to still download the mags like previous issues, lots of time, I like to read it when I am travelling \r\nand have no internet access."
+-
+    name: 'Lopo Lencastre de Almeida'
+    mail: ''
+    subject: 'Great move :)'
+    hostname: 195.23.153.40
+    created: '1176508689'
+    body: "<cite>I am in the process of releasing these modules to Drupal 5, so that everybody out there can create their own magazine and have a neat system to organise the contents in issues and use a state-of-the-art workflow system.</cite>\r\n\r\nWhen ready warn us :)"
+-
+    name: mykeyspace
+    mail: ''
+    subject: 'The site might look the'
+    hostname: 81.240.100.78
+    created: '1176547611'
+    body: "<cite>The site might look the same, but it really, really isn't...</cite>\r\n\r\nThats a bit like those wireless NICs with the same model number, but a different chipset :)"
+-
+    name: 'Dave Walker'
+    mail: ''
+    subject: 'soft screen vs hard copy'
+    hostname: 193.195.186.14
+    created: '1177936947'
+    body: "1st off - congratulations on a top rate mag. Good and enjoyable reading. 2nd - I travel a lot and don't want to cart large amounts of paper through the clusterf that our airports have become, let alone struggle with such on planes. I can generally balance my laptop on top of the plastic food so a saveable full copy of the current issue would be magic - I tend to agree with ErnieDV comment on a a \"printable\" version - or full doc in one html page view. \r\n\r\nWould make the journey so much easier - keep up the good work - DaveW"
+-
+    name: 'Paul Boddie'
+    mail: paul@boddie.org.uk
+    subject: 'Advertising shouldn''t merge into the content'
+    hostname: 129.240.235.122
+    created: '1178635971'
+    body: "Yes, thanks for the lecture on the \"hard rules of business\". You will find, however, that newspapers are generally obliged to label advertising content clearly as such; this site's adverts (in the right hand column) merge into the site content without so much as a disclaimer, so people who don't know what Free Software is might think that \"Shareware Pages - A directory of newest and quality shareware\" or \"Free Downloads - Archive of free shareware and freeware downloads daily updated\" is something related to that topic when we (the insiders) know that this is not the case.\r\n\r\nA simple disclaimer plus some kind of visual separation between the content and the adverts would go a long way to fixing this issue, even if you can't control the adverts on your page. Personally, I can't understand sites who don't try and exercise some control over advertising, but then I'm neither in the publishing business nor looking to subsidise my hosting costs through advertising."
+-
+    name: aanset
+    mail: ''
+    subject: New
+    hostname: 219.83.21.214
+    created: '1181794996'
+    body: "I Love this site. The font is my lovely font so I read the page with heart :)\r\nUnfortunately, I can't keep it in my computer except I doing something like \"karma\"?\r\nI don't know. But until now (15 minutes) after subscribe/register. Everything looks OK.\r\n\r\nGreat jobs guys.aanset"

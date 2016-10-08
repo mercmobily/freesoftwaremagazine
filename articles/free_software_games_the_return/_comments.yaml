@@ -1,0 +1,154 @@
+-
+    name: ''
+    mail: ''
+    subject: 'No Nexuiz???'
+    hostname: 205.205.239.112
+    created: '1175120832'
+    body: 'Nexuiz is perhaps the coolest GNU/Linux game there is right now... kinda like a totally community-developed GPL version of Unreal Tournament 2004. Anyone with an average-to-top of the line PC simply cannot ignore this great game/project!'
+-
+    name: ''
+    mail: ''
+    subject: 'Free games and Google Summer of Code 2007'
+    hostname: 89.212.91.146
+    created: '1175126227'
+    body: "It is also nice to see several free gaming projects are taking part in Google Summer of Code 2007:\r\n<a href=\"http://www.thousandparsec.net/tp/\">Thousand Parsec</a> - a framework for space strategy games\r\n<a href=\"http://bzflag.org/\">BZFlag</a> - a 3D battle tank game\r\n<a href=\"http://www.scummvm.org/\">ScummVM</a> - a software to run old adventure games\r\n<a href=\"http://www.crystalspace3d.org/\">Crystalspace</a> and <a href=\"http://www.ogre3d.org/\">OGRE</a> - 3D game engines"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Thousand Parsec: never heard'
+    hostname: 86.71.28.124
+    created: '1175156011'
+    body: "Thousand Parsec: never heard of it. Seems very interesting.\r\nBZFlag: I simply forgot to talk about it. 3D version of the very old principle of Tanks! with the added difficulty of 3D aims (thus more complex wind compensating), 'I don't care who you are it's funny right there'. On the same basic concept, as a copy of Worms, there is Wormux.\r\nScummVM: is actually the engine developped by LucasArts for games such as Day of the Tentacle and Sam & Max Hit the Road.\r\nCrystalSpace: seems interesting. Ogre3D: I've seen it evolve, it is a very interesting concept which has been validated professionally. However those are engines; I've mentioned Cube and Cube2: they are engines, but they come with complete Free games.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Nope, no Nexuiz - it''s'
+    hostname: 86.71.28.124
+    created: '1175157966'
+    body: "Nope, no Nexuiz - it's network only (Sauerbraten can be played by your lonesome against the computer). Too bad though, the engine looks awesome indeed.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'Nexuiz can be played alone'
+    hostname: 195.212.29.67
+    created: '1175258605'
+    body: 'Nexuiz can be played alone against bots!'
+-
+    name: ''
+    mail: ''
+    subject: '"ScummVM: is actually the'
+    hostname: 82.152.155.36
+    created: '1175526997'
+    body: "\"ScummVM: is actually the engine developped by LucasArts for games such as Day of the Tentacle and Sam & Max Hit the Road\"\r\n\r\nJust to be clear, it's a free software reimplementation of the engine. I think some of the original developers have been surprised it works with all the games it does, as originally they kept reimplementing it rather than using the same engine for the games. It has their blessing, but not their code. "
+-
+    name: ''
+    mail: ''
+    subject: 'Other games worthy of a look'
+    hostname: 199.246.40.54
+    created: '1175535273'
+    body: "<p>The following are all in active development and are in varying states of construction.\r\n\r\n<p>Don't overlook <a href=\"http://vdrift.net/\">VDrift</a>: this is a new racing GPL'd game which uses the same tracks as the now closed-source <a href=\"http://www.racer.nl/\">Racer</a> (although sources are available for 0.5.0). Definitely one to watch.\r\n\r\n<p>For the realtime strategy crowd: <a href=\"http://spring.clan-sy.com/\">TA Spring</a> is a project I've watched for over a year. For those of you who lost hours to Total Annihilation, here's the remake in true 3D, complete with reflective, rippling water (for those with monster 3D cards), extreme pyro effects and thousands of units. For TA, you need to own the original but there is a GPL'd-only content mod that is worthy of a few days of play."
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'Sauerbraten is proprietary software'
+    hostname: 217.17.116.38
+    created: '1175559810'
+    body: "Unfortunately, Sauerbraten isn't free (as in freedom) software as you've suggested. The game engine is, but the rest of the game isn't (see the bottom of http://sauerbraten.org/README.html). I think the same might be true for Cube, but I'm not sure. I can't find that out from the website, but in the README in the source code, it reads \"Game media included in the cube game (maps, textures, sounds, models etc.)\r\n are not covered by this license [the zlib licence], and may have individual copyrights and\r\n distribution restrictions (see individual readmes)\". I can't find any of those \"individual readmes\", so I can't find out if the whole game is free software.\r\n\r\nOne completely free software game I've found to very good (after trying it out in Windows) is Tremulous, though it's network-only. However, I can't play any games which require 3D acceleration on my GNU/Linux system without using any proprietary software, because there's no free driver which allows that for my graphics card.\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'You''re probably right about'
+    hostname: 86.71.28.223
+    created: '1175585487'
+    body: "You're probably right about the origins - however I don't think they reimplemented it every time, as it wouldn't make much sense business-wise and in practice. They may have improved their own source code over releases, otherwise scummvm wouldn't be so good at running all these games resources.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'the software is using a Free'
+    hostname: 86.71.28.223
+    created: '1175585939'
+    body: "the software is using a Free license and redistributable copyrighted material, that's true - resources are not free.\r\n\r\nAs far as I know, the GPL doesn't cover well resources such as maps, graphics and sound samples - it resorts to copyright law here.\r\nThe programmers may have been afraid that some unscrupulous game maker would take the package as a whole, modify it some and then resell it, that the GPL wouldn't protect them in that case, and copyright couldn't be enforced.\r\n\r\nIt is noted though that you can add stuff pretty much at will, and that there is a possibility of getting authors' authorisation to modify the resources.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: "Wow, yummy...\n---\nA computer"
+    hostname: 86.71.28.223
+    created: '1175586153'
+    body: "Wow, yummy...\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'Using the GPL for the "game media"'
+    hostname: 217.17.115.175
+    created: '1175611871'
+    body: "I don't think there's a particularly big problem in using the GPL for the \"game media\" such as artwork and sounds. There's something about this on the GNU website at http://www.gnu.org/licenses/gpl-faq.html#GPLOtherThanSoftware. If anything, I think it might be too restrictive or confusing for the user, because of the \"source code\" requirements, rather than allowing people to circumvent the copyleft provisions. I think the game media of most GPL'd or LGPL'd games is under the same licence as the rest of the game. The non-software parts could also be put under a free licence which is more appropriate for them, for example, the media for Tremulous is all under the Creative Commons Attribution-ShareAlike Licence.\r\n\r\nIt's true that you can distribute the game media for Sauerbraten, and you can get the copyright holder's permission to distribute modified versions (as you can with all copyrighted material), but that doesn't mean it's free as in freedom. Although it's strictly not software, it's an integral part of the game, and it's needed to play it, so I don't think the game should be described as free software. I definitely agree that the game engine is free software though.\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: ''
+    mail: ''
+    subject: 'What about Scorched 3D?'
+    hostname: 59.167.55.157
+    created: '1175613961'
+    body: "http://www.scorched3d.co.uk\r\n\r\nScorched 3D is pretty cool. Check it out!\r\n\r\nMike."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Yup, I tried it - it''s just'
+    hostname: 86.71.28.223
+    created: '1175680371'
+    body: "Yup, I tried it - it's just plain fun, but it's been a while and I need to test its most recent version.\r\nI must however admit to not enjoying this kind of game a lot, and I wouldn't play it very often.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: BZFlag
+    hostname: 128.171.90.200
+    created: '1175725728'
+    body: "I think you have another game in mind when you talk about bzflag (something called scourged earth or something?).\r\nBZFlag is a kind of FPS-tank game and it's not at all like Wormux."
+-
+    name: Kgomotso
+    mail: ''
+    subject: Downloads
+    hostname: 168.209.98.44
+    created: '1175769553'
+    body: 'Who Do I Download These free Mags.??'
+-
+    name: okooubuntu
+    mail: me@just-contact.me.uk
+    subject: 'Flightgear Flight simulator'
+    hostname: 85.211.167.118
+    created: '1176326164'
+    body: "One of the games that really got me into linux was that I could run a flight sim.\r\n\r\nhttp://www.flightgear.org/ Flightgear is very realistic and I would say great if you want to learn properly.\r\n\r\nIt is not an arcade game, so you need to earn your wings, but it really is a cool game."
+-
+    name: 'Daniel Cejka'
+    mail: Daniel.Cejka@broadpark.no
+    subject: 'Space sims'
+    hostname: 80.202.239.138
+    created: '1176900610'
+    body: "On the subject of simulators: you really should try VegaStrike and its spinoffs:\r\n<dl>\r\n<dt><a href=\"http://vegastrike.sourceforge.net/\">Vegastrike</a>\r\n<dd>The full universe simulator, or rather a framework for sim games\r\n<dt><a href=\"http://wcuniverse.sourceforge.net/\">Privateer remake</a>\r\n<dd>For all lovers of that fantastic early 90's game\r\n<dt><a href=\"http://wcuniverse.sourceforge.net/vegatrek\">VegaTrek</a>\r\n<dd>Trekkies unite...\r\n</dl>\r\nExcellent graphics and playability even on modest hardware. 3D card required, joystick highly recommended but not necessary\r\n---\r\nwok, n.: Something to thwow at a wabbit."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'It''s a teeny tiny bit off topic'
+    hostname: 86.71.28.131
+    created: '1177233289'
+    body: "...which is why I hadn't included it (I almost removed TORCS from the review because of it): FlightGear is a beautiful, extremely realistic, very complete flight simulator. It is, in fact, not really a game.\r\nWhich doesn't mean it isn't fun - it really is, as a matter of fact.\r\nEdit: tried latest version. It really IS a simulator. Don't play it without a fine joystick, it requires very precise handling.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Angela Heart'
+    mail: angelaheartonline@yahoo.com
+    subject: 'Thanks for the freebies'
+    hostname: 68.52.86.49
+    created: '1178287512'
+    body: 'Have had a great time today playing most of these free games, my favorite was SuprTux but I look forward to trying them all one day when I have more time to play games.'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'OK, I''ll give it a whirl.'
+    hostname: 84.100.56.81
+    created: '1178288552'
+    body: "I gave it a whirl. Got fragged too easily - it's been a long time since I played such a game - and then started getting the hang of it back. Still, it's essentially multiplayer.\r\n\r\nCube does have a little bit of story mode; for Cube2, Eisenstern will eventually turn into a RPG. Nexuiz' is a simple bot-based fragfest.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: skypjack
+    mail: ''
+    subject: Tremulous
+    hostname: 79.9.127.43
+    created: '1184514668'
+    body: "Don't forget Tremulous, an excellent FPS!\r\nWhat do you prefer? Aliens or humans??? :-)"

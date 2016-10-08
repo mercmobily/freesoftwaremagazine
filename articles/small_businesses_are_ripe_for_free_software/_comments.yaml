@@ -1,0 +1,42 @@
+-
+    name: marienoelleb
+    mail: ''
+    subject: 'A real opportunity, but they need support'
+    hostname: 145.232.254.20
+    created: '1169650811'
+    body: "Free Software solutions may indeed be very interesting for smal businesses and for independent people. But most of them are not computing specialists and they have other things to do than managing their infrastruture. For them, this is just a tool. Even if they are interested in free software solutions (and if they are sensitive to the politics behinf it), they need a real support.\r\n\r\nCompagnies doing this kind of service (for example this one: http://www.prolibre.com/) are appearing. They can provide a complete support to clients. This may include a Linux server (or a hosted space), an OSS groupware software (like egroupware), an Electronic Document management (For example Alfresco), a simplified ERP (for example TinyERP), a data migration service (from the old solution to the new one), linux latpops, VPN connections between the laptop and the server, a good quality management of the server and a helpdesk in case of problems. with a such service, migrating to a completely OSS solution is becoming possible and even interesting. I am convinced that very small businesses and independent people will be interested by this possibility.\r\n\r\nMarie-Noëlle Baechler\r\nBelmont-sur-lausanne / Suisse\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Small businesses and free software'
+    hostname: 129.123.231.7
+    created: '1169661380'
+    body: 'I think that one item that most small businesses are going to want in addition to the software itself and those services you mentioned is customization of the software to meet their needs.  This is one of the main hallmarks of open source software, you can make it your own.'
+-
+    name: 'Daniel Escasa'
+    mail: ''
+    subject: 'Support for small businesses'
+    hostname: 58.69.107.196
+    created: '1169964630'
+    body: "While both Free Software and proprietary applications can become orphaned, the Free, because the source code is available, can continue. I believe Apache's original team \"abandoned\" the project, but it continues because another group of developers took the code and continued development. In contrast, once a propietary application dies for whatever reason, it's gone. Remember NT on Alpha?\r\n\r\nAs to small businesses and their potential adoption of Free Software -- the concern is certainly valid about their need for support. The smallest businesses might not even have an IT group and cannot afford a consultant. My own solution to this is hosted applications, although I have to admit that there are a number of issues to address here, the most crucial one IMHO being one of trust. Hoping to finally get my model written up in a few weeks.\r\n\r\nDaniel O. Escasa\r\nindependent IT consultant and writer\r\ncontributor, Free Software Magazine (http://www.freesoftwaremagazine.com)\r\npersonal blog at http://descasa.i.ph"
+-
+    name: ''
+    mail: ''
+    subject: 'There is support out there!'
+    hostname: 80.193.100.14
+    created: '1170149840'
+    body: "This is a shameless plug. But there is support out there for the business who wishes to exploit their IT budget to the fullest. Free software is not just cheaper, because it's easier to customize and integrate it's often more effective. We offer consultation and support based around Open Source Software, we can help mitigate the pitfalls you may come across and make sure your using applications and systems that deliver what your looking for. OSS provides a route for SMB's to attain IC&T systems that rival what big budget enterprises have.\r\n\r\nThe name of the company is Xenet we are based in Rotherham near sheffield.\r\n<a href=\"www.xenet.co.uk\">www.xenet.co.uk</a>\r\n\r\nSteven Williamson.\r\n "
+-
+    name: ''
+    mail: ''
+    subject: 'Makes sense to me!'
+    hostname: 194.250.173.244
+    created: '1170264039'
+    body: "Why shouldn't small businesses enjoy free software as well? The company I work for is small, using free software is a big plus for keeping our costs down.\r\n\r\nJust the same, we MAKE and DISTRIBUTE free software ( http://www.gigatribe.com ) that both consumers and small companies use to transfer huge files back and forth easily. Although we'd like these small companies to buy the Premium versions of our software, we know that as they grow, so too will their needs which will eventually justify their spending $25 for the extra features that will make that application a bit more efficient. \r\n\r\nSmall and medium sized businesses represent the majority of the companies out there, and they ARE the future of America, they deserve any help they can get!"
+-
+    name: ''
+    mail: ''
+    subject: 'Other resources'
+    hostname: 68.166.253.196
+    created: '1171859068'
+    body: "Here are other resources that may help:\r\n\r\nGNUWin (FOSS on Windows)\r\nhttp://gnuwin.epfl.ch/\r\n\r\nThe Open CD (FOSS on Windows)\r\nhttp://www.theopencd.org/\r\n\r\nThe table of equivalents / replacements / analogs of Windows software in Linux (or BSD's).\r\nhttp://www.linuxrsp.ru/win-lin-soft/table-eng.html\r\n\r\nIt is all about the applications.  Once people are comfortable with the apps; platforms are not as hard."

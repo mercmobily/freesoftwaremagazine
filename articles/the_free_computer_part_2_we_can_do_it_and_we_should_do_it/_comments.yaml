@@ -1,0 +1,133 @@
+-
+    name: ''
+    mail: ''
+    subject: 'newegg?'
+    hostname: 68.189.161.158
+    created: '1166719253'
+    body: 'Would it be possible to work with a vendor of parts like newegg to put together an "it just works" kit for a Linux PC? I mean, most people build Linux machines from parts, anyway, because they don''t want to pay the MS tax. Make an official list of parts known to work with Linux and make a PC out of them. If people don''t know how to plug the parts together to make a PC, a local PC repair shop probably could. This way, instead of trying to guess which of the 10,000 mobos, processors, etc work with each other, you could click one of five or so Linux configurations (cheap, gamer, server, programmer, etc) and your cart would be filled with the right parts. Real OEMs would either wise up or be sidelined.'
+-
+    name: ''
+    mail: ''
+    subject: 'You are aware of power.org, are you?'
+    hostname: 84.179.107.163
+    created: '1166719417'
+    body: 'It has open hardware specs, it has open firmware specs, it has open scope specs. It has industry backing it. It has small end product builders. What it doesn''t have is a laptop and a big scale end product production facility.'
+-
+    name: ''
+    mail: ''
+    subject: 'Good luck'
+    hostname: 198.172.200.5
+    created: '1166720288'
+    body: 'It''s an ambitious project and definitely a worthwhile goal. But, it is going to cost a LOT of money to do this! The reason that the OEM''s are able to pump out $450 laptops is because they are doing them on a very large scale. One thing I have noticed about the open source community is that they love anything that is free but, when you ask them to fork out money or bust their ass to do something, suddenly there are only a small handful of volunteers. My prediction is that you''ll have 10,000,000 people tell you they are interested in a free computer. You''ll have 200,000 who sign up for your mailing list. You''ll have 10,000 who participate in your forums and mailing lists. You''ll have 2,000 hard core dedicated fans. You''ll end up with 500 people willing to put down cold hard cash for a product. And, you''ll get 10 guys willing to actually do what it takes to write software drivers and make it happen. I started cracking up when I saw your comment: "I was really astonished to see how many people were energised by the idea of the free computer." If you gave away free cars or TV''s they''d be energised about that too. I hate to be so negative about all this but, I''ve worked with the FOSS community too long and realise that there are a lot of freeloaders about. But, good luck with your project -- I hope it works out for you.'
+-
+    name: ''
+    mail: ''
+    subject: 'Sounds like it will work.'
+    hostname: 137.78.78.29
+    created: '1166722706'
+    body: "Finding capital is going to be key.  Try getting in touch with people that have mounds of money and vested interest in desktop linux; Mark Shuttleworth sounds like just the right guy.  He also influences Ubuntu; a great distro.\r\n\r\nRegarding distros; don't roll your own; that just adds to the complexity and most people that would get a machine from here already have their distro of choice.  Make it so existing distros can certify against the hardware and make support deals with the distribution.  If someone orders an Ubuntu machine, they are directed to Canonical support; RedHat machines are routed to RedHat support, etc.\r\n\r\nRegarding hardware; I've had really great experience with Areca RAID cards.  Not laptop hardware, but someone out there will be in the market for a workstation/server; these cards are awesome!  Areca has their drivers in the kernel too, even better.\r\n\r\nAnyway, just some ideas.\r\n\r\n-berto.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'already exists ...'
+    hostname: 69.53.159.250
+    created: '1166723166'
+    body: "from organon at Digg.com:\r\n\r\nYou are aware that there is something like that already in existence? power.org. It has industry backing and all the open specs for hardware and firmware. And there are companies putting out products for it, namely genesi with their pegasus line. They don't have a laptop though."
+-
+    name: 'Geoffrey Lehr'
+    mail: ''
+    subject: Co-op
+    hostname: 38.116.136.215
+    created: '1166723331'
+    body: "I'd vote for a co-op, partially because that would be with the spirit of the community, and to reduce the likelihood of a first-to-market hijacking the project.  It may also keep the prices lower.\r\n\r\nAlso, a distribution designed to really showcase the hardware would be nice, but it would probably be best to stick to an established one to start (so as to not be distracted).\r\n\r\nThe other day, I asked a friend if he'd be willing to buy something like this, even if it cost more.  His answer was an enthusiastic 'yes!'  I agree."
+-
+    name: ''
+    mail: ''
+    subject: certification
+    hostname: 70.118.245.175
+    created: '1166727404'
+    body: 'why not just run a certification program?'
+-
+    name: ''
+    mail: ''
+    subject: 'Yearly Models'
+    hostname: 24.201.238.141
+    created: '1166732710'
+    body: "The never ending increment seems to just confuse the consumer.\r\nMost consumers think there computer is slow because they have too many songs on the hard drive.\r\nThere should be yearly models, this way each model becomes a platform to tune software to. \r\n\r\nAnd new technologies can be evaluated before being introduced.\r\nThe community could evaluate hardware for the year and pick the best products that will fit the needs of the year to come.\r\n\r\nReleasing end of august to catch both back to school, Black Friday and the Christmas rush.\r\nIt would be easy to say of you have an openOEM 2006.. yeah it's time to upgrade.. or perhaps trade in?\r\n\r\nMaybe subdividing into General User, Content Creator, Gamer would be a good idea.\r\n\r\nI agree with the co-op. Get allotments of interested buyers.. no unsold systems. Make the whole co-op open.\r\nWe pay our employees this much which factors down to being this much per unit on this allotment.. the parts cost this much.. shipping this much.. the works.\r\n\r\n "
+-
+    name: ''
+    mail: ''
+    subject: 'This idea should be abandoned and forgotten'
+    hostname: 71.199.158.16
+    created: '1166733976'
+    body: "As someone who has run a small computer company, I am painfully aware of the challenges involved in assembling, selling, and servicing hardware. The market is so utterly saturated that in order to get any notice you have to do something that is 10x better than what other people are doing. The $100 laptop is an example of an idea that was powerful enough to get real support, but of course it only works because of considerable funding from outside sources. I believe that if you told this idea to anyone who has been successful in the computer hardware business they would tell you that it would be a tremendous amount of work with a low probability of success and very limited benefits. If you believe that you can achieve enough volume to be able to influence hardware OEM's then you should just make a few calls and see what volumes would be necessary. \r\n\r\nI am not trying to be critical for the sake of being critical; I just don't like to see people waste their time trying to create a revolution in an area in which they have absolutely no understanding.\r\n\r\nIf you want to make Linux more compatible with existing hardware then you should support projects that certify particular configurations for Linux. You can then either build the configuration yourself or pay someone a modest amount to build it for you. Hardware OEM's will continue to make their drivers more widely available if more people are using Linux in general, but not because some relatively small manufacturer is asking them to. \r\n\r\nI believe that you would find the number of people who would be willing to pay more for a Linux box is extremely, extremely small. I have sold Linux machines to people before and it is almost always the case that they are looking for the lowest price possible. \r\n\r\nIt is good to dream, but it is important to know what you are talking about before you try to turn a dream into reality."
+-
+    name: ''
+    mail: ''
+    subject: 'not ready'
+    hostname: 201.42.171.226
+    created: '1166734001'
+    body: 'linux is not ready for the desktop market.'
+-
+    name: ''
+    mail: ''
+    subject: 'free hardware'
+    hostname: 24.108.3.97
+    created: '1166734348'
+    body: "My God yes  this has been in the back of my mind for a year or so and must be in many others.\r\n\r\nI won't start it but I will buy it!\r\n\r\nGrant"
+-
+    name: 'Pandu Rao'
+    mail: ''
+    subject: 'An important prerequisite'
+    hostname: 24.16.158.192
+    created: '1166734674'
+    body: "Yes, an independent OEM is one of the few things standing in the way of widespread adoption of Linux on the desktop.\r\n\r\nAny solution we come up with is going to require capital to execute. Steven J. Vaughan-Nichols puts it in the range of 50-150 million dollars [1].\r\n\r\n[1] http://www.desktoplinux.com/news/NS2572482759.html\r\n\r\nThe FOSS community has thus far focused on creating good software. With OpenOEM, our challenges will be those that are traditionally faced by businesses e.g: procurement, operations, costing, distribution, etc. i.e unless we come up with a simple, sustainable operation-model (not business model).\r\n\r\nI suggest we solve the harder problem first. i.e, figure out how we're going to raise 100 million dollars. Donations/grants from organizations, micro-donations from individuals, voluntary effort, etc.\r\n\r\nThat's about 400,000 people donating $250 each. Achievable? Unquestionably!\r\n\r\nThis is the approximate amount we will ultimately require. Let us recognize that upfront and work towards it. Or else this will end up being a theoretical exercise.\r\n\r\nLet's go for it.\r\n\r\nPandu Rao"
+-
+    name: ''
+    mail: ''
+    subject: 'Mark Shuttleworth?'
+    hostname: 72.72.105.244
+    created: '1166745736'
+    body: "Mark Shuttleworth, the founder of the Ubuntu distribution, has a _large_ amount of capital, which he may be convinced to put towards this. After all, it would be a great way for him to get Ubuntu onto new machines with the guarantee that it will work flawlessly.\r\n\r\nCome to think of it, I'll email him about it.\r\n\r\nCam Cope\r\n\r\nmaccam NINETYFOUR AT gmail.com"
+-
+    name: Thpn
+    mail: ''
+    subject: 'The easy way'
+    hostname: 69.43.0.79
+    created: '1166764894'
+    body: "Maybe the easiest way to achieve this goal is to work within the system at first.  A co-op that is a HP channel partner could leverage existing economies of scale to produce a product that is close to achieving our ideal, out of the starting gate.  \r\n\r\nWithout stockholders siphoning off profits, the co-op would have the working capital to eventually become an OEM.  Meanwhile, if this venture is truly viable, the importance of the co-op as a business partner would allow us to influence HP and its component suppliers to open whatever remains proprietary.  \r\n\r\nThis approach represents the lowest barrier to entry for the OpenPC that I can imagine.  With headquarters in Grenoble (Is HP's PC unit still headquartered there?) and distribution units in Europe and the US, to start, the venture could eventually be expanded worldwide.  \r\n\r\nEveryone seems to agree that any OEM that ships Linux should just pick a distro and run with it.  So, load Ubuntu with the KDE libraries, so the widest possible market is served.  \r\n\r\nStart with a rock-solid foundation and build on that.  Don't try to do it all at once.  Expand as you go.  Keep customers happy.  \r\n\r\nTime is wasting.  \r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Free as in beer, or as in freedom?'
+    hostname: 209.237.225.244
+    created: '1166780088'
+    body: "There seems to be some confusion -- are you proposing a free-beer laptop, or just a laptop that is certified to run free software?\r\n\r\nThe OLPC is already a laptop that uses nothing but free software.  See laptop.org.  They are in the middle of heavy hardware and software development, so their laptops are not yet available in the market -- and their first priority is to get them into the hands of third world kids.  After that's done next summer, there will be a way to buy these laptops in the First World.\r\n\r\nWhile the OLPC is not for everybody (it's slow, no disk, small screen), I think that some of its concepts will migrate into high end laptops.  These include:  much improved screens, turning the CPU off invisibly many times a second, use of free BIOS to enable innovative hardware/software collaboration, operation without disks or with disks spun down most of the time, mesh wireless."
+-
+    name: sitor
+    mail: ''
+    subject: 'Start with what exists and who already does something'
+    hostname: 81.246.20.164
+    created: '1166799968'
+    body: "Hi,\r\n\r\nI just ordered a new PC without OS. Did that at a shop that could guarantee me that all parts would be linux compatible (I don't follow the hardware scene much). If a OpenOEM would have existed, i would probably have bought it from there.\r\nNow I think a project like this is possible, but should not aim too high at first. Maybe a real OpenOEM is a bit too high. I think though that there are other ways to accomplish already a lot. What I would propose is:\r\n\r\n1. Start by working with an existing local PC vendor that already has some knowledge on PC's with linux. Collect information on HW openness and together with that local PC vendor create a specification for a few models that are as open as possible. Market these models via an \"OpenHW.org\" website. Do that with HW that is on the market and as open as possible (best in class pieces). Publish the configurations and openness of each component (full open HW specs as the ideal, but just HW with 100% feature support through OSS drivers OK for a start) on OpenHW.org, so that other local vendors can reuse the OpenHW.org specs.\r\n\r\n2. List on OpenHW.org all vendors that sell PC's with OpenHW specs. Distribute stickers to these vendors with a OpenHW certified logo.\r\n\r\n3. Contact existing linux distributors (or their communities) and ask them to make their next version to work out of the box with the components chosen by OpenHW.org, and full configurations.\r\n\r\n4. List on OpenHW.org all distributions that are certified to work well (per configuration).\r\n\r\n5. Organize yearly elections of most open HW manufacturors (in different areas)\r\n\r\n6. Once something is running and there is a basis, you can try to confront existing OEMs and request them to contribute or at least create PCs build with OpenHW certified components. In case they comply, give them the right as well to use the OpenHW certified logo.\r\n\r\nThis way you can start with low costs, local initiatives can hook in (e.g. the shop where I will get my PC this afternoon here in Belgium) and it becomes a real community initiative. Even in locations where there is no vendor that has adopted the OpenHW configurations yet, a user can print out the specs for a given configuration and request it to be custom made by any local PC vendor.\r\n\r\nResult:\r\nThis will link existing OSS communities (via the linux distributors) with the local hardware vendors. Local HW vendors will get to know linux. More people will be asking for HW components that rank best in terms of openness, which will put openness in the picture of HW manufacturers. Any existing OEM can build upon the OpenHW specs and receive OpenHW certification. This might be a project with very low funding requirements (cost of a website and the community effort) but with a much higher chance on success compared to trying to start of a new OEM yourself.\r\n\r\nKind Regards,\r\n\r\nSitor (sitor-at-advalvas-dot-be)\r\n"
+-
+    name: ''
+    mail: ''
+    subject: ....
+    hostname: 71.53.31.202
+    created: '1166885029'
+    body: 'That''s not quite it. Certainly not what I was thinking, OpenOEM would actually do reselling in my mind, would partner with other resellers.'
+-
+    name: ''
+    mail: ''
+    subject: 'oh shut up. for mom and pop'
+    hostname: 71.53.31.202
+    created: '1166885242'
+    body: 'oh shut up. for mom and pop who go around checking email and websurfing it''s perfect. My mom does that, listens to her music and uses the "other version of word" on.'
+-
+    name: ''
+    mail: ''
+    subject: 'OpenHW vs OpenOS'
+    hostname: 68.13.163.121
+    created: '1168711324'
+    body: "It seems to nme we are either talking about and Open OS that runs on any platform or an Open Hardware where any OS runs on it. Either way its a tough Job.  MS Windows won't operate on Apple hardware, and Apple OS won't work on Windows hardware, the same for Linux.  \r\n\r\nBut with OpenHW, any OS should work on the platform, including MS Windows if necessary.\r\n\r\nI just would like to see a list of components that the Hardware contains so I can make a good judgement when I want to install my OS. \r\n\r\nAnother idea would be to make a spec. of OS components required to make the Hardware work.\r\n\r\nI know that these exist in one form or another on the internet, but some organisation to pull these together would be great."

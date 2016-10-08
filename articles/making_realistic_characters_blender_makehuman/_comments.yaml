@@ -1,0 +1,7 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Loading characters'
+    hostname: 68.116.159.234
+    created: '1292014022'
+    body: "I found out after writing this that it _is_ possible to load characters -- provided you save them in the right place:\r\n\r\nIf you don't specify any directories when you save, the model will be stored under your home directory (in `$HOME/makehuman/models`. Models placed in this directory will appear in the \"Load\" tab of the program, so they can be reloaded.\r\n\r\nThe native save format is \"`.mhm`\" which is simply a config file containing a list of model parameters (readable in a text editor). The \"`.mhx`\" format is preferred for importing into Blender, which stores the actual modified mesh and armature.\r\n"

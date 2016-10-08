@@ -1,0 +1,49 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'a way to run the currently-opened file'
+    hostname: 68.116.159.234
+    created: '1256736065'
+    body: "I have since learned how to do this:\r\n\r\nIn the \"Run...\" dialog, instead of selecting the current module as \"argument\", use:\r\n\r\n`${resource_loc}`\r\n\r\nThis will be replaced by the path to the currently opened/selected file, so it should have the desired effect.\r\n"
+-
+    name: crisponions
+    mail: ''
+    subject: 'Great article'
+    hostname: 67.189.117.178
+    created: '1262286492'
+    body: 'Thanks for the article, helped me get my environment set up for taking this class.  I wanted to ask, did you bother getting the text book for this course?  I do have some programming experience and I am wondering if I should be able to follow the concepts without purchasing the text.'
+-
+    name: tjingymebob
+    mail: ''
+    subject: 'No not here'
+    hostname: 87.243.197.20
+    created: '1273951379'
+    body: "This doesn't work for me, I get this error\r\nException in thread \"main\" java.lang.NullPointerException\r\n\tat stanford.karel.Karel.main(Karel.java:208)"
+-
+    name: jbaldus
+    mail: ''
+    subject: 'Even easier'
+    hostname: 24.11.18.126
+    created: '1301458104'
+    body: "I've been trying to get this to work for a while, and it finally occurred to me to just use Stanford's Eclipse plugin.  Just:\r\n1.  Install Eclipse and Open JDK\r\n2.  Download the windows version of Eclipse from the Stanford's CS106 website here: http://www.stanford.edu/class/cs106a/ \r\n3.  Extract it.\r\n4.  Find the plugins directory in the newly extracted directory.\r\n5.  Copy the file edu.stanford.cs106_1.0.0.jar to the plugins folder of you Eclipse installation (mine was in /usr/lib/eclipse/plugins)\r\n\r\nThen everything seems to be the same as the IDE they use in the course.  Here's a quick command line, copy-and-paste to do this.\r\n\r\nwget http://www.stanford.edu/class/cs106a/software/eclipse-helios-pc.zip\r\nunzip eclipse-helios-pc.zip\r\nsudo cp eclipse-helios-pc/plugins/edu.stanford.cs106_1.0.0.jar /usr/lib/eclipse/plugins"
+-
+    name: tjingymebob
+    mail: ''
+    subject: 'I did post'
+    hostname: 87.243.197.20
+    created: '1302160910'
+    body: 'I did post how I got it to work, but being a long post needs moderating which doesn''t seem to be happening so my howto video is here http://www.youtube.com/watch?v=jWMW2ZfYPo4'
+-
+    name: jbaldus
+    mail: ''
+    subject: 'Your YouTube HOWTO'
+    hostname: 24.11.18.126
+    created: '1302310498'
+    body: "Your YouTube howto was very helpful, but it was tricky for me to get working perfectly.  This was due probably to me using a different version of Eclipse, and me having very little idea of how to translate from your version to my version.  I got it to work for one problem, but I couldn't extend the solution.  \r\n\r\nSo instead I yanked the stanford plugin and jammed it in my Eclipse install.  Probably not even in the right place or the best way, but it let me do all of the Karel problems, and so far hasn't seemed to break anything else.  But I'm sure it will someday, and when that day comes, at least it seems like an easy way to revert would just be to delete the stanford plugin.\r\n\r\nAnyway, thanks for the YouTube HOWTO--it helped me get started, and if I had known what I was doing more, it probably would have been enough to get me through."
+-
+    name: Osanda
+    mail: ''
+    subject: 'Even Easier'
+    hostname: 175.38.226.69
+    created: '1324638873'
+    body: 'After hours of struggling   (even after watching youtube video and reading this tutorial I was back to square one. Then I tried jbaldus''s simple step copying Stanford eclipse plugins on windows to eclipse plugins on Linux boy oh boy it worked like a charm, so I just wanted to thank you, I know it didn''t work for me following this tutorial but I want to thank the author of the article as well, if it wasn''t for you I wouldn''t have even tried this. Have a merry Christmas '

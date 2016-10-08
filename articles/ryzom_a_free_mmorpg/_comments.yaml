@@ -1,0 +1,70 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Free MMORPG'
+    hostname: 200.41.80.124
+    created: '1166538365'
+    body: "\"Unfortunately, no such game currently exists in the free software world. Not yet, anyway.\"\r\n\r\nActually there is a MMORPG called planeshift and it is free software. www.planeshift.it"
+-
+    name: ''
+    mail: ''
+    subject: 'The game won''t be free to play...'
+    hostname: 67.76.242.99
+    created: '1166584248'
+    body: 'They are only purchasing the game code itself and the right to develop it. But they''ve maintained that even if they do meet their goal and acquire the game, the game play itself will not be free. They will still charge a monthly fee for upkeep and server maintenance of the game. '
+-
+    name: ''
+    mail: ''
+    subject: 'But there will be a lot of really free servers'
+    hostname: 200.116.135.41
+    created: '1166621148'
+    body: 'See RO, or WoW, the diference is that the free servers would not be pirate as the WoW ones, and you could make your own server in your house and invite friends and they will invite new friends and you will be happy.'
+-
+    name: ''
+    mail: ''
+    subject: 'They are taking over an existing obligation, read the site!'
+    hostname: 67.41.175.220
+    created: '1166640942'
+    body: "They need to fulfill the obligation to existing customers by keeping the existing servers running. The idea seems ot be that commercial servers will continue running as long as people want to subscribe. They fully expect that free servers might also exist. There is no licensing arrangement to prevent it. So if you have a problem with comercial servers put your rysom server (on line) where your mouth is.\r\n\r\nI have no complaint with this arrangement. Licensing this as GPL would not prevent people from making a business out of providing commercial games servers. This is the way GPL is ment to work. The idea is to prevent having a game server company from going under and thus removing any possibility of the customers being able to continue using the product they paid for. In this case the customer can begin providing a server if the continuation of the game is important to them.  This does not mean that we must exclude comercial servers."
+-
+    name: ''
+    mail: ''
+    subject: 'Client is an .exe?'
+    hostname: 195.137.32.103
+    created: '1166731729'
+    body: "Who is going to write the *nix client?\r\nPerhaps the lack of such is the cause of bankruptcy?"
+-
+    name: ''
+    mail: ''
+    subject: 'Planeshift is a scam'
+    hostname: 209.237.225.244
+    created: '1166780435'
+    body: "Planeshift.it is \"free software\", but it depends on non-free graphics and non-free text and non-free other stuff to make it work.  \r\n\r\nYou could rip the code away from all the non-free stuff -- then you have a large amount of work to do, to reproduce this \"free\" game with a slight modification.\r\n\r\nIt's a scam.  It's much more like the proprietary Ryzom -- it's a proprietary game, with a bit of free infrastructure inside it."
+-
+    name: 'Wouter Verhelst'
+    mail: ''
+    subject: 'True'
+    hostname: 81.165.16.76
+    created: '1166955757'
+    body: "<p>The intent was to make the code itself free; the servers would remain for-pay. But that's okay; free software doesn't necessarily mean 'free' as in 'beer'. If this was a problem, it should also be a problem for all those people out there who make a business by running websites on GNU/Linux.</p>\r\n<p>Unfortunately, all this is moot now anyway, because the Free Ryzom campaign did not win the bid. But at least they tried</p>"
+-
+    name: 'Wouter Verhelst'
+    mail: ''
+    subject: 'That was part of the plan'
+    hostname: 81.165.16.76
+    created: '1166955830'
+    body: 'There was no unix client yet, no; but part of the idea of making the hole thing free software in the first place was that so it could be ported more easily.'
+-
+    name: ''
+    mail: ''
+    subject: 'other free software mmorpg''s'
+    hostname: 72.173.16.77
+    created: '1167759649'
+    body: "Here are some other mmorpg's that are free software such as:\r\n\r\nStendhal, using the free software Arianne framework\r\nDaimonin\r\nCrossfire\r\nand a few others that I have forgotten\r\n\r\nThe ones above aren't modern in appearance, but it's worth watching linux gaming websites to learn more about them and others."
+-
+    name: 'Anonymous visitor'
+    mail: dyee@smartcell.com
+    subject: 'Free MMORPG'
+    hostname: 76.216.30.145
+    created: '1192659539'
+    body: "\"free software movement is a force to be reckoned with\"\r\n\r\nIt makes you wonder how developers are going to make money by making their MMORPGs free.  I'm not sure if planshift does this, but <a href=\"http://www.shadowoflegend.com/\"><b>Shadow of Legend</a></b> is a free mmorpg that will most likely make money by putting advertisments in the the game.  I think WOW is starting to do this.  Anyways, we'll have to wait until the final release is out to find out just HOW they do it.\r\n\r\nHrrm... seems like the html link isn't working.  Here's the raw link if you want to learn more about how free mmorpgs are going to make money: \r\n\r\n<a href = \"http://www.shadowoflegend.com\">http://www.shadowoflegend.com</a>"

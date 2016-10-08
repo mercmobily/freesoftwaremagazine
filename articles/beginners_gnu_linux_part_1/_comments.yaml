@@ -1,0 +1,119 @@
+-
+    name: clievers
+    mail: ''
+    subject: 'Ooh, very nice intro for'
+    hostname: 68.145.109.51
+    created: '1180989547'
+    body: "Ooh, very nice intro for beginners. It is definitely a good idea to start with a Live CD to see what you're getting.\r\nYou are correct in the directory structure being confusing at the start (/, /opt, etc). Sometimes I still have issues with the more obscure ones. But they come around after a while.\r\n\r\n------\r\nlet's all play nice!"
+-
+    name: mykeyspace
+    mail: ''
+    subject: 'Podcasts can be helpfull'
+    hostname: 213.219.165.161
+    created: '1181055833'
+    body: "I have to agree with you that this is quite a good intro. It sums it up quite nicely. You could stress the freedom part a little bit more though, IMHO ;). \r\n\r\nOne tip i give to all new soon-to-be-converts is to listen to this podcast I discovered a little over one year ago: <a href=\"http://www.linuxreality.com/\">linuxreality</a>. It was at that time at episode 2, but I always felt the potential in this one and I have been advising it to people interested in gnu/linux ever since.\r\n\r\nDon't get me wrong, this is not <strong>the</strong> linux podcast. There are a lot of great ones out their and they all deserve your attention (eg. lottalinuxlinks, TLLTS, LugRadio, ... and a lot more). But linuxreality is tailored for new users and in my opinion succeeds in doing that very well. Although I've had the enjoyment of a free system for over 5 years now, it still is capable of teaching me some great tricks that are so easy I simply overlooked them.\r\n\r\nI' m in no way affiliated to this podcast so i don't actually care if you are going to use it or not. It's just a great resource that is there for you to use it. Use it if you want to.\r\n\r\npeace,\r\n\r\nMichael\r\n\r\n\r\n\r\n"
+-
+    name: mykeyspace
+    mail: ''
+    subject: 'oops, sorry forgot to mention something'
+    hostname: 213.219.165.161
+    created: '1181056129'
+    body: "I forgot to mention linuxreality has a very nice Filesystem Hierarchy episode (episode #11).\r\n\r\nHow forgetful of me since it was the reason I replied to Mr. clievers in the first place :)\r\n\r\npeace again,\r\n\r\nMichael"
+-
+    name: dorgan
+    mail: ''
+    subject: Ubuntu
+    hostname: 167.206.55.158
+    created: '1181059730'
+    body: 'I would definitely recommend Ubuntu to anyone thinking about making the switch over.  Its extremely easy to use and setup.'
+-
+    name: 'Anonymous visitor'
+    mail: jenntesolin@hotmail.com
+    subject: "Hello.\nJust writing to say"
+    hostname: 38.116.196.250
+    created: '1181065802'
+    body: "Hello.\r\nJust writing to say nice article. However all Ubuntu (Kbuntu, Ubuntu, Xubuntu) have live cds."
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'Extremely nice!'
+    hostname: 68.197.66.72
+    created: '1181075095'
+    body: "Just so you know, Ubuntu is also a live distro.  Also, Puppy may not be the best introductory GNU/Linux distro, since it's interface uses IceWM (and most modern distros use Gnome or KDE).  Other than that, wonderful intro!\r\n\r\n--\r\nAndrew Min"
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'On digg'
+    hostname: 165.98.157.37
+    created: '1181099093'
+    body: '<a href="http://digg.com/linux_unix/Why_everybody_should_use_GNU_Linux_and_how">Digg it!</a>'
+-
+    name: mattflaschen
+    mail: ''
+    subject: 'Good article but a couple quibbles'
+    hostname: 71.224.192.74
+    created: '1181099479'
+    body: 'It''s true that you can use GNU/Linux at no charge, but if you want/need paid support there are plenty of people willing to sell it to you.  LiveCDs run directly out of memory, and definitely don''t use any Windows temp directory.  Finally, wav is about as far from a proprietary format as you get. :)  Thanks again for the article.'
+-
+    name: Raithlin
+    mail: ''
+    subject: 'Synaptic?'
+    hostname: 196.33.55.141
+    created: '1181128804'
+    body: 'Excellent article, but you fail to mention Synaptic at all. Elsewhere in this issue it is called the de-facto front-end for apt, and we all know how many applications are available for installation through the various (even just default) sources. A beginner can certainly benefit from knowing that it is there. After all, show me anything even close to it in the Windows world...'
+-
+    name: 'Anonymous visitor'
+    mail: mbwest54@charter.net
+    subject: HELP!!!
+    hostname: 71.10.246.109
+    created: '1181332870'
+    body: ' I downloaded the latest version of Ubuntu willing to try, extracted the ISO file to a CD but will not boot from the CD. What up wit dat?'
+-
+    name: admin
+    mail: ''
+    subject: 'This is really not the place to ask'
+    hostname: 165.98.157.37
+    created: '1181337011'
+    body: "Have you considered looking/asking on the <a href=\"http://ubuntuforums.org/\">Ubuntu Forums</a>?\r\n\r\nWe have a great article about <a href=\"http://www.freesoftwaremagazine.com/articles/getting_help_with_free_software\">getting help with free software</a> or you could ask for how to get help with this issue in our <a href=\"http://www.freesoftwaremagazine.com/forum/70\">forums</a>.\r\n\r\nMore than likely your download or burn was corrupted or the burn was done at too high a speed. But you should look for help in more appropriate places.\r\n"
+-
+    name: Grellin
+    mail: ''
+    subject: 'almost there'
+    hostname: 71.48.8.150
+    created: '1181510612'
+    body: "It was a nice into for a beginner to check out the world of Linux. I would caution that looking through rose colored glasses can do more harm than good. \r\n\r\nMost computer users are not super users and only want their computer to work. They don't care how as long as it does. A mention that much of their existing Windows software will be totaly useless when they swap. I know there is Wine but that is a headache all it's own. While your hardware may or may not configure there are still simple things that you grow accustomed to just working in Windows that can be a real pain in the rump to make work. For instance, streaming video / music, 3d acceleration just to name a few. The reality is, something are still just easier for a regular user in Windows. \r\n\r\nDefinitely give Linux a try but don't rush into it blindly thinking you found the holy grail. "
+-
+    name: 'Anonymous visitor'
+    mail: bb@bb.cc
+    subject: 'There should be a link in the article'
+    hostname: 202.92.44.173
+    created: '1181697704'
+    body: 'Maybe you could include a link to the forums at the end of the article stating something like: Are you interested in getting help in installing GNU/Linux? Come join our formus. Link'
+-
+    name: andrewd
+    mail: andrewc1@westnet.com.au
+    subject: 'I would recommend newbies'
+    hostname: 165.118.1.50
+    created: '1181793138'
+    body: 'I would recommend newbies try out the more popular distros first (Ubuntu, PClinux etc). Shopping around is also recommended due to hardware compatibility issues, for this reason I used a dedicated hard drive for the installed linux distro. After 8 months & three distros tried I have finally selected PClinux as my OS. I should also add I have retained Windows as a multi-boot option, whilst using a mounted 3rd hard drive to share documents b/w the two operating systems.'
+-
+    name: pedja_portugalac
+    mail: pedja_portugalac@hotmail.com
+    subject: 'Eventual answer'
+    hostname: 87.103.61.24
+    created: '1182229207'
+    body: "Maybe your BIOS is not set to run the CD-DVD drive as first device during boot up. If you enter BIOS and set up your optical drive (CD-DVD drive) to boot first, may be it will install?\r\nCheers"
+-
+    name: sreejith
+    mail: ''
+    subject: 'live CD is good but WUBI is way better'
+    hostname: 221.250.46.61
+    created: '1183553423'
+    body: 'Wubi installs ubuntu for free on you computer...better than live CD and installs on windows...u get at the most 20 gigs but u can save most of the things in Windows...I suggest if you want to use Linux give this a shot...'
+-
+    name: 'Anonymous visitor'
+    mail: legendofthor@hotmail.com
+    subject: 'I use a couple of distros'
+    hostname: 58.104.193.33
+    created: '1183948135'
+    body: "I use a couple of distros but the one that appeals to me most is puppy - there are many colours of puppy and its the easiest distro to install as the installation wizards guide u through nearly everything - easier than ubuntu\r\nPuppy came standard with JWM - easy simple and can be off and running with most applications in minutes\r\nMost puppy distros are only 70-120mbs in size although Muppy and Chubby Puppy are pre-installed with much more are around 250+mbs\r\n\r\nBoots up in 55 seconds on a 350MHz K6 64mb machine\r\n\r\nProgram installer is simple - no! very simple - if you can read then you can use it\r\n\r\nYou can load a debian installer which has a high success rate and it checks dependencies (that means u can access the huge Debian repositories - thousands of programs!)\r\n\r\nRuns Wine very well - never underestimate what applications/games can run under Wine - I use MYOB all the time\r\n\r\nMS Office can be run on Crossover (feepaying app')\r\nCedega (as mentioned above) - still working on getting it to run (only started attempting to install it today without luck) - though only a matter of time - need it to play Dark Age of Camelot and Oblivion\r\n\r\nCommunity is great and helpful - especially to noobs such as myself - and its growing and the range of applications (dotpets and dotpups) is steadily increasing\r\n\r\nAfter 2 months i have made my own version of puppy so i can put it on family and friends computers and im NOT a programmer nor a computer wiz and neither do i work with computers just an average joe blow with an average job - if i can do this anyone can - it makes me look like an expert rofl\r\nwell have fun\r\ncheers\r\nmartin"

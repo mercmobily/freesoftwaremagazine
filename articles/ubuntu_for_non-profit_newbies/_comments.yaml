@@ -1,0 +1,42 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Access to free software'
+    hostname: 81.0.182.133
+    created: '1165490737'
+    body: 'While a lot of free (as in freedom) software is available at no cost, this is a bonus, and not to be taken for granted - free software developers would be homeless too if they were not allowed to earn money on their free (as in freedom) software. Your article could be improved by making clear this issue. As it stands now, you seem only to praise getting something for nothing, and I can''t tell from the article if that was your intention or not.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'True, but...'
+    hostname: 68.93.224.4
+    created: '1165526767'
+    body: "In the context of non-profits, this approach makes sense. Non-profits almost always rely on free pro-bono consulting, so they're liable to get both software and consulting for free.\r\n\r\nOf course, there are some non-profits that would have the funding to contract free software development programs.\r\n\r\nIt may not be the aspect of greatest importance to you, but for people with limited funds (and usually an abundance of volunteer labor), the fact that free software is as a practical matter also zero-cost is a definite advantage.\r\n"
+-
+    name: 'Lopo Lencastre de Almeida'
+    mail: ''
+    subject: 'Free as in gratis OR a big headache approaching'
+    hostname: 195.23.105.1
+    created: '1165976923'
+    body: "Although most of the software can come for free you must -- even for non-profit -- count on migration, training and, most important, porting of some pieces of code that can be even made in Visual Basic 3, Clipper (I saw it), or Microsoft Excel or Access and adapt many Microsoft Word templates to other FOSS Office packages.\r\n\r\nAlso many have very old machines so plain Ubuntu may not serve but Xubuntu may work and many times it is needed to redefine the hardware distribution by the tasks required.\r\n\r\nAnd not even to mention Dual Boots and misc networking models with Mac, Mac OSX, Netware over DOS, Microsoft Windows and even legacy Unix.\r\n\r\nAnd you must count with supporting over time. It can cost money, even if just to cover some beers, food and transports.\r\n\r\nThis article can be misleading and pro-bono consulting companies could even do it for free (as in gratis) or just for a small fee or other financing tricks like sponsoring deductible in yearly taxes, <em>but non-profit <b>SHOULD</b> never start with the idea that there will be some crazy geeks to hold their hand always and forever</em>.\r\n\r\nJust my €0,02\r\n\r\nLopo\r\nHumaneasy Consulting\r\n"
+-
+    name: 'Chris Holt'
+    mail: ''
+    subject: Correct
+    hostname: 24.108.129.4
+    created: '1165978035'
+    body: 'True...one must consider many things beyond price and philosophy is one of them, but not all of them :)'
+-
+    name: ''
+    mail: ''
+    subject: 'Open source is for profits'
+    hostname: 193.173.109.1
+    created: '1165995245'
+    body: "In my experience non-profits want to have MS software (so they have what the big companies have) and companies would like to have open source software (so they can cut down licenses-costs and get out of vendor lock-in).\r\nThe strategy for open source advocacy should focus on the profit sector."
+-
+    name: ''
+    mail: ''
+    subject: 'open source is for non-profits with a community conscience'
+    hostname: 165.248.247.133
+    created: '1169601854'
+    body: "anonymous coward is not speaking for all non-profits. Non-profits are not trying to have what the big companies have. That's absurd and without evidence. Non-profits like the one I work for are trying to get as much work done as possible for as little money as possible, while operating within legal and moral boundaries. For a non-profit like my employer, free software (free as in \"free speech\" not \"free beer\") promotes community which is wholly compatible with our non-profit's mission.\r\n\r\nNon-profits need the programs that have the same applications as the big companies but we don't have to have what they have."

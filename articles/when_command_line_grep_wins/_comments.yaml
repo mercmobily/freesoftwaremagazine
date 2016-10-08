@@ -1,0 +1,21 @@
+-
+    name: sash-kan
+    mail: ''
+    subject: 'His computers run Debian Linux.'
+    hostname: 93.79.240.65
+    created: '1325852658'
+    body: ">His computers run Debian Linux.\r\n\r\ndid you mean debian <em>gnu/</em>linux?"
+-
+    name: imgx64
+    mail: ''
+    subject: 'A better solution would be'
+    hostname: 109.63.38.53
+    created: '1325858341'
+    body: "A better solution would be using sed (with the '-i' option) instead of Gedit. Also, if you combine it with find (with '-exec' or with xargs), you can automate the whole process completely in one line. No need to apply it to each file manually.\r\n\r\nAnother thing, instead of relying on 'southeast' having a space after it, you can use '\\b', which matches a word boundary even if it's not followed by a space (for example, in \"southeast, southwestern, or southern\", your method won't work). '\\b' is available in Perl and GNU sed, but I don't know about grep or other sed implementations."
+-
+    name: 'Bob Mesibov'
+    mail: ''
+    subject: 'A better solution would be'
+    hostname: 202.182.70.131
+    created: '1325898524'
+    body: "Hi, imgx64.\r\n\r\nsed wasn't an option, and neither was automating that particular process. As I mentioned in the note, I had to scan the grep results to see where and whether that replacement was appropriate. I wasn't replacing every instance of the searched-for string, just selected ones, something that I often do in webpage edits. I've done sed replacements and found I'd messed up strings that should have been left alone!"

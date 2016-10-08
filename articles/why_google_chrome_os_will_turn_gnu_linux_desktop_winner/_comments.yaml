@@ -1,0 +1,63 @@
+-
+    name: xutre
+    mail: ''
+    subject: 'Let''s see- where do I'
+    hostname: 121.72.187.106
+    created: '1247361511'
+    body: "Let's see- where do I start:\r\n\r\n1. Windows dominates- does it really- on the smartphone?; the large business server?; the internet/streaming/cloud server?; scientific computing?; massive // processing?; high-end workstation?; fire-walled modem/router?; appliance?; getting the picture yet?;\r\n\r\n2. Java- still around and used more than ever;\r\n\r\n3. Linux compatible logo- I'm seeing it more and more on hardware packaging esp. as Linux based distros move toward widespread use in a growing number of countries (eg Chinese made hardware).\r\n\r\n"
+-
+    name: kornelix
+    mail: ''
+    subject: 'Yet another window manager may be a good thing.'
+    hostname: 88.67.186.176
+    created: '1247382905'
+    body: "Linux is plagued with a surplus of window managers. These cause user confusion and application compatibility issues, and the poor developers must also pick the one to use (which one?). So why do we need yet another window manager from Google? The answer could be the same as the one asserted for fixing the application installation chaos: make a de facto standard to sweep away the alternatives. I would gladly overhaul my programs in return for a clear dominant standard. \"Linux is all about choice\". BS! It is also about chaos and confusion and fragmentation of resources.\r\n\r\n"
+-
+    name: billkendrick
+    mail: ''
+    subject: 'Linux-compatible logo'
+    hostname: 76.191.169.250
+    created: '1247412659'
+    body: "> You never see a “GNU/Linux compatible” logo — ever.\r\n\r\nI've seen them on some products.  And I put one up on the front page of the Tux Paint website and on the business cards I hand out to parents and teachers that I meet (right next to the Windows and Mac logos)."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: "Fair comments, but…\n\n1)"
+    hostname: 68.116.159.234
+    created: '1247441428'
+    body: "Fair comments, but...\r\n\r\n1) Well, Tony's obviously talking about the desktop, laptop, and even netbook marketplace (Netbooks are particularly embarrassing because they started out with GNU/Linux, but are now losing a lot of marketshare to Microsoft -- I won't speculate here on why, though I don't really think it's a genuine performance or features issue). This is about end-users, and that's who Google is after with Chrome as well.\r\n\r\n2) I think Java got a new lease on life when it was finally released under a free license. I am no longer opposed to using it or Java apps on my own systems, though I still have little interest in learning to develop in it. Still, there are plenty of people who love it.\r\n\r\n3) This I can't corroborate: I still don't see Linux compatibility logos on desktop or laptop hardware. I _do_ see it on networking equipment, but that's obviously because of the strength of Linux in the server market.\r\n\r\nIn other words, we still see Linux use limited to use by \"computer experts.\" \"Ordinary people\" still use Windows almost exclusively (except when they don't have to install it or maintain it themselves).\r\n\r\nPersonally, I think the problem is that we still haven't quite cracked the problem of creating a truly end-user-friendly distribution system. This is no insult on those who've tried -- it's just a really tough problem.  Debian and particularly Ubuntu are _close_, but there persist serious process flaws that result in end-user concerns being ignored. If you know the technology well enough, you can steer around these flaws, but they continue to be show stoppers for the crowd who doesn't really want to know what's going on inside their computers, but want them to \"just work\".\r\n\r\nI don't think Chrome OS is going to be what we need, myself. I think the \"bootloader for the cloud\" theory is probably a better bet on what Chrome OS will be. But without seeing the product, this is just idle speculation.\r\n"
+-
+    name: wgreenhouse
+    mail: ''
+    subject: 'I don''t understand what''s so great about a web app-centric OS'
+    hostname: 71.235.198.248
+    created: '1247496242'
+    body: "By definition, web applications require no installation and, ideally, no locally installed dependencies other than a browser and the ability to run whatever language the web app is written in (e.g. a locally installed Java VM, etc.).  Sun Microsystems explored the idea of a \"thin-client\" Java operating system years ago to no great effect, and as far as Google network-based applications, the gOS distro installed on Wal-Mart's low-cost PCs was essentially based around this concept.  It's a horrible little gremlin of an OS.\r\n\r\nI see no particular reason to hope that Google's involvement will improve hardware compatibility or software package installation on GNU/Linux, other than to create yet another incompatible standard which will not benefit the Linux community in general.  Google has done a great deal of work supporting existing Free Software projects through their Code project, but they simply have no experience in this sort of thing and I fear they may reinvent the wheel as they did with Android--which doesn't even have X available, much less any of the usual very useful standard Linux applications.\r\n\r\nRe: the \"Linux compatible\" logo, I saw it for the first time on a recent hardware purchase:  a cheap, off-brand 2-gigabyte flash drive I bought at a drugstore.  It's a start. :-)"
+-
+    name: admin
+    mail: ''
+    subject: 'We shall see...'
+    hostname: 91.81.133.60
+    created: '1247601916'
+    body: "Hi,\r\n\r\nI don't agree, but I guess only time will tell. Hang around here for a couple of years and we'll see!\r\n\r\nMerc."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Linux "compatibility" and "support"'
+    hostname: 68.116.159.234
+    created: '1247769096'
+    body: "The real reason why you don't see \"Linux Compatible\" on many products is not so much that they don't work with Linux, but rather that the company would have to train their tech support people how to do it. So long as the  marketshare in question is very small and the number of techs with Linux experience is also small, this is hard to crack.\r\n\r\nYou see, the problem is that once you put a label on your product, you adopt certain responsibilities: products labeled with \"Supports Linux\" or even \"Linux Compatible\" mean to most customers (and therefore to your marketing department) that a customer with a Linux system should be able to call and get tech support on installing their system. That means the tech on the other end of the line has to understand Linux well enough to provide the support.\r\n\r\nAs things stand, most of them don't. Telephone support techs are usually low-paid, relatively untrained techs who've gone through maybe 2 to 6 months of special on-the-job training. They are taught formulaic solutions to common problems in a very simplistic way. As a result, most will simply get stuck if anything is different. Windows' highly uniform product functionality helps (\"Click on 'My Computer'\", \"go to the so-and-so tab\", etc -- these instructions don't change much from system to system). \r\n\r\nBy comparison, the Linux way of doing configurations, by going into `/etc` and changing various config files (while in some ways actually being simpler) is likely to confound these techs and leave the company with a serious training (and re-training) problem. Adding to this is the fact that there are actually several different ways that config files are commonly set up -- the \"Debian Way\", the \"Red Hat Way\", the \"BSD Way\", etc.\r\n\r\nTo anyone really familiar with the system, these differences are trivial, but to someone working essentially from a script, they are somewhat hard to accommodate.\r\n\r\nOf course, within the free software community, we mostly don't want this kind of guarantee. We're mostly just interested in knowing if there is community support for the product (and whether specs have been made available to the community for support, etc).\r\n\r\nHowever, this is a fundamentally different kind of expectation than what the manufacturing company's management, marketing department, and mainstream customers expect those little \"support\" labels to mean. Getting them to understand and promote this different sort of customer relationship is a challenge.\r\n\r\nIt would probably be better to create some kind of approval trademark along the lines of the \"UL Listed\" mark (used in the US to indicate electrical safety and compatibility) that would indicate approval by an outside organization -- thus eliminating the perception that the company is taking on the support responsibility.\r\n\r\nOf course, Google has the marketing clout to make such a label happen for Chrome, if they choose to do it, and that might have spin-off effects for other Linux distributions, assuming that they are all sufficiently compatible."
+-
+    name: h4ck3rm1k3
+    mail: ''
+    subject: 'G000s (G00 gle 0s)/Linux + Stuff or GNU/Linux plus stuff'
+    hostname: 82.114.75.254
+    created: '1248014345'
+    body: "I have see no proof that there will be any GNU on this new G000s, the google os, the chrome os.\r\nPlease point me to any references that they plan to deliver gnu? Maybe they will just deliver some binaries on a linux kernel?\r\n\r\nthanks,\r\nmike"
+-
+    name: ajhwb
+    mail: ''
+    subject: 'what you need for Chrome?'
+    hostname: 125.161.226.107
+    created: '1248582938'
+    body: "I agree that GNU/Linux is all about choices, choices means flexibility. So, I'm free to build my custom Linux system, I'm free to decide what application to use, I'm free to decide what hardware and device drivers to use. Google want to make 'live is easy' for users, so what type of users they are talking about? what type of hardwares? \r\n\r\nI don't care about Red Hat's way, Debian's way or Google's way. I care about the Linux's itself, knowing there are Free-as-Freedom Operating System out there was enough for me. I hate to compare each Linux system (distro) and choose a winner or to make it a winner, but I'm glad to hear another Linux based system is coming named 'Chrome' from Google (in fact they don't take too much place in the kernel development) offers blah... blah... blah... "

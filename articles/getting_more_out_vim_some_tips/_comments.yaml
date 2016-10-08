@@ -1,0 +1,14 @@
+-
+    name: vigor
+    mail: ''
+    subject: 'Go to line'
+    hostname: 68.108.128.143
+    created: '1297803354'
+    body: '"[line_num] G" shaves one keystroke off of ": [line_num] ENTER"'
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Nobody spotted the deliberate mistake'
+    hostname: 62.140.212.3
+    created: '1298377412'
+    body: "Doh - obviously when autocompleting a word Ctrl+P[revious] goes backwards through the list and Ctrl+N[ext] goes forwards. Sorry about that must have nodded off when I wrote that bit ;)\r\n\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"

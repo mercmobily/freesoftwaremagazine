@@ -1,0 +1,63 @@
+-
+    name: 'Anonymous visitor'
+    mail: alajal@gmail.com
+    subject: 'How a non-tech person understand'
+    hostname: 116.71.179.201
+    created: '1194820825'
+    body: 'Hello! your article was nice for me because I was familiar with almost 99% term you''ve used but how can a non IT person be satisfied when he/she didn''t ever heard about Apache, CentOS, RHEL, Clone, CMS, Module, Durpal .... Hey Hey it''s gonna put a mess before him.... Explaining FOSS isn''t much harder before an IT guy but the real need is out side the IT world.. Our university fellows, grandma, my neighbor...bla bla....Hope you got my point..Thanks'
+-
+    name: 'Anonymous visitor'
+    mail: lancest@gmail.com
+    subject: 'Great article, so- so writing though'
+    hostname: 121.33.119.21
+    created: '1194821390'
+    body: "Totally agree with your premise in the article.\r\nBut noticed vague and repetitive spots in your writing. So I didn't send it to friends.\r\nFor example:\r\n\r\n\"It’s better, and more importantly cheaper, to develop free software.\"\r\n\r\n\"I talked about patches... why would all those people send patches back to Red Hat? Because it’s better to do so.\"\r\n\r\nWhat does better mean? More efficient? Seems vague.\r\n\r\nAlso seems repetitive to use same word (better) twice in same way. \r\n"
+-
+    name: 'Anonymous visitor'
+    mail: airwelldriller@gmail.com
+    subject: 'Mirror mirror...'
+    hostname: 75.163.81.94
+    created: '1196656306'
+    body: 'I like the editorial.  I agree with the comments... so why don''t the critics submit their own editorials?  Call them columns.  '
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'only vague if taken out of context'
+    hostname: 212.159.106.192
+    created: '1197597969'
+    body: "By my reading of the editorial the use of the word \"better\" is not that vague because Tony uses the paragraphs that follow to unpack his statement. For example in the first instance he goes on to talk about how RedHat benefit from allowing CentOS to exist (via its use of free licencing). He says:\r\n\r\n_By releasing everything under the GPL, they basically get thousands and thousands of beta testers who test their code and send patches back to make sure that things get fixed._\r\n\r\nThat explains quite clearly why it's \"better\" for RedHat to release under the GPL. Better for RedHat and better for their customers. Better means more efficient, more economical and quicker.\r\n\r\nFor the second instance he goes on to give Apache as an example, saying:\r\n\r\n_If you send your patch back to the Apache developers, you will know that the bug will be fixed in every new release of Apache, so you won’t have to keep fixing it every time you upgrade to a new version. Not only that, but everybody else who uses Apache will benefit too. Your patch will be checked over by amazing developers, improved, discussed and improved some more._\r\n\r\nThat's why it's better to submit patches. Better to be permitted to and better to do it when you have the ability.\r\n\r\nAnd are you really suggesting that to use the same word twice in the same way is bad? I may not be a grammar nazi but it seems that if you want to say something is better, then that is the best word to use. It's a different case if the two uses are in the same sentence or adjacent ones but for goodness sake, these ones are a hundred or so words apart and a whole paragraph apart."
+-
+    name: puleen
+    mail: ''
+    subject: 'Great editorial'
+    hostname: 99.243.239.236
+    created: '1200279610'
+    body: "Though just have one typo to correct. It should read \"companies\" and not \"company\". Cheers!\r\n\r\n-Puleen"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'not so sure'
+    hostname: 82.108.129.98
+    created: '1200305504'
+    body: "If you mean this bit..\r\n\r\n> Paid or unpaid, company or private programmers, the question remains: why do they do it?\r\n\r\nThen I think it's not a typo. I think it is referring to _company programmers or private programmers_, rather than _companies or private programmers_.\r\n\r\nOf course I could be wrong - has been known. ;o)\r\n\r\nRyan"
+-
+    name: nebuhada
+    mail: ''
+    subject: 'a translation'
+    hostname: 188.16.162.14
+    created: '1296752772'
+    body: "Thank you for the article. I have translated this article into Russian and placed it on my non-profit page http://vitalykorneev.livejournal.com/15786.html\r\nIf you have any objections or suggestions please let me know.\r\nRegards."
+-
+    name: admin
+    mail: ''
+    subject: 'Thank you!'
+    hostname: 61.69.139.102
+    created: '1296874019'
+    body: "Hi,\r\n\r\nNo it's all good -- thank you for translating it!\r\n\r\nBye,\r\n\r\nMerc."
+-
+    name: carlos84
+    mail: ''
+    subject: 'A possible answer'
+    hostname: 190.167.189.249
+    created: '1329743100'
+    body: "I believe that they do so for publicity because the more people use their software the more famous they get................. and to be honest, I don't think it is a bad idea. not everybody can pay the price for an original software today and perhaps this is the only way many people can get it.\r\n\r\nbest regards from apuestas tenis\r\n"

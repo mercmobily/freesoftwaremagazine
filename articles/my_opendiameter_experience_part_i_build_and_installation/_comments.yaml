@@ -1,0 +1,21 @@
+-
+    name: dani
+    mail: ''
+    subject: thanks!
+    hostname: 158.227.99.118
+    created: '1207595735'
+    body: "I’m an Engineering student who had been trying to install OpenDiameter for long. Thanks to your help I was able to do it.\r\n\r\n\r\nFrom now on I will try to configure it and understand how it works.\r\n \r\nI’m looking forward to reading the second part of your experience, so that I could learn how to set up the EAP-MD5 test.\r\n\r\n \r\n\r\nThank you for your help.\r\n\r\n \r\n\r\nRegards, Dani.\r\n\r\n"
+-
+    name: dimondat
+    mail: ''
+    subject: 'ACE installation'
+    hostname: 193.1.104.7
+    created: '1240593195'
+    body: 'I''ve read your article,and i had the same problem with ACE.You recommend changes to the scrip files(i have ubuntu),but where do i make these changes.I''m quiet new to linux and it''s just that you advice is not clear to me.That piece of code presented ,where should it be paste.It would be great if you could explain it in more detail'
+-
+    name: jade
+    mail: ''
+    subject: 'Useful site'
+    hostname: 79.97.165.184
+    created: '1254838800'
+    body: "I used this site (step-by-step) for the compilation, installation, error fixing etc.: http://www.shakthimaan.com/installs/opendiameter.html\r\nMy ACE version is 5.7.0."

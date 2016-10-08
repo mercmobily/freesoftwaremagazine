@@ -1,0 +1,245 @@
+-
+    name: johnmoffat
+    mail: ''
+    subject: 'out of date?'
+    hostname: 85.234.165.13
+    created: '1150525518'
+    body: "Interesting article, but the version of Skype that I am using does support SMS messages and video calls.\r\nI think that puts Skype in the lead!\r\n(Also, I do not understand why you do not regard Skype as free. I have not paid anything for the software.)"
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'Okay... you are new to this aren''t you?'
+    hostname: 203.59.166.90
+    created: '1150532160'
+    body: "<p>Hi John,</p>\r\n\r\n<p>First of all Marco is talking about the GNU/Linux version of Skype which is still in version 1.2.0.18. He makes this clear in the article:</p>\r\n\r\n<blockquote>\"Skype was acquired by eBay, they were pushing a lot of effort in the Windows version that quickly reached version 2.0 and 2.5beta, while the GNU/Linux version was stuck at the 1.2.0.18 released in October 2005. Skype didnÃ¢â‚¬â„¢t show any release plans for a newer GNU/Linux version, no new features were in sight but, above all, no bugfixes were happening.\"</blockquote>\r\n\r\n<blockquote>\"Now IÃ¢â‚¬â„¢ll try to do a feature comparison between Wengophone and Skype for GNU/Linux and review all points one by one. IÃ¢â‚¬â„¢ll assign +1 (good) or +2 (distinct advantage) points to each competitor for each Ã¢â‚¬Å“yesÃ¢â‚¬? in the table.\"</blockquote>\r\n\r\n<p>The version you are using is for MS Windows. We choose not to use that OS here because it is not free software.</p>\r\n\r\n<p>Which brings me to your question about Skype not being free: \"free software\", which this magazine is named after, does not mean software that has no cost. It means software that conforms to the <a href=\"http://www.fsf.org/licensing/essays/free-sw.html\">criteria</a> laid out by the Free Software Foundation. To sum up for you (in case you don't want to go to their site):</p>\r\n\r\n<blockquote>Free software is a matter of the users' freedom to run, copy, distribute, study, change and improve the software.</blockquote>\r\n\r\n<p>I encourage you to read more of our articles here at FSM; we have a lot of articles that answer your question in more depth.</p>\r\n\r\n<p>Happy reading!</p>\r\n\r\n<p>-Dave</p>\r\n\r\n\r\n\r\n\r\n"
+-
+    name: dagb
+    mail: ''
+    subject: 'Centralised, server-based contact list is *not* a good thing.'
+    hostname: 81.34.187.2
+    created: '1150540175'
+    body: "At least not from a privacy point of view. Nor is the lack of support for encryption.\r\nIn fact, from browsing quickly through the article, there was no mentioning of encryption *at all*, which I find a bit disappointing.\r\n\r\nIs there any progress on zfone?\r\n\r\nOtherwise, thank you for the article. I'll certainly try out wengophone.\r\n\r\n\r\nDag B"
+-
+    name: 'Marco Marongiu'
+    mail: ''
+    subject: 'Centralised, server-based contact list *is* a good thing.'
+    hostname: 217.133.8.17
+    created: '1150664561'
+    body: "Hello Dag\r\n\r\nWhile I don't agree about the centralized contact list (I keep my opinion: it's a fundamental thing, and not having it is an headache), you got a point with the encryption thing. Yes, encryption is another +1 (at least) for Skype. I don't know about zfone, but maybe someone at Openwengo will pop up here and satisfy your curiosity :-)\r\n\r\nThanks for the compliments.\r\n\r\nCiao\r\n--Marco"
+-
+    name: dagb
+    mail: ''
+    subject: 'Centralised, server-based contact list *could be* a good thing..'
+    hostname: 195.204.181.130
+    created: '1150704389'
+    body: "...if it somehow was stored as an encrypted object on the server, and only decryptable by the owner.\r\nHope the wengo guys read these comments.  :-)\r\n\r\nDag B."
+-
+    name: julien.gilli
+    mail: ''
+    subject: "Hello,\nJust check out this"
+    hostname: 62.39.9.251
+    created: '1150797358'
+    body: "Hello,\r\n\r\nJust check out this article on OpenWengo's blog: http://blog.openwengo.org/index.php?/archives/55-Everbee-and-OpenWengo-partnership-to-achieve-open-source-VoIP-security.html .\r\n\r\nThere is no progress regarding zrtp yet, but it might change soon. Stay tuned on blog.openwengo.org for more information!\r\n\r\nBest regards."
+-
+    name: julien.gilli
+    mail: ''
+    subject: 'That''s definitely an'
+    hostname: 62.39.9.251
+    created: '1150797501'
+    body: "That's definitely an interesting concern. We're going to think about it in the near future. Many thanks for your insightful input!\r\n\r\nBest regards."
+-
+    name: apyles
+    mail: ''
+    subject: 'firewall traversal issues'
+    hostname: 65.113.98.146
+    created: '1150829720'
+    body: "Hi Marco,\r\n\r\nI think this was a good article. But you missed a critical point: Firewall traversal. As much as I like SIP,\r\nit is notorious for NAT / firewall issues. For example I was recently in a network where ALL outbound tcp and udp connections where blocked. In fact the only way out was through a SQUID web proxy. I'm curious to see how openwengo performs in an environment like this. Skype WAS able to traverse through this environment. It looks like openwengo has some support for this kind of thing. But, how well does it work?\r\n\r\nSecondly, lets look at the easiest solution. A home network with a cheap NAT router. In this environment using sip, how does the Wengophone send and receive RTP packets? In most environments it is forced to be relayed through an RTP relay server. Solutions like STUN, TURN, etc, only work so well, in most cases in my experience the RTP has to be hairpinned through a remote server. This has some severe scaling issues. How does openwengo perform here?\r\n\r\nAndy\r\n<a href=\"http://www.thevoipblog.org\">http://www.thevoipblog.org</a>\r\n"
+-
+    name: maurizio.dececco
+    mail: ''
+    subject: 'With Skype, not only the software is proprietary'
+    hostname: 145.242.3.30
+    created: '1150970342'
+    body: "From a free software perspective, i think the major point about Skype is not being not free software,\r\nbut being a closed service based on proprietary protocols.\r\n\r\nThe whole Internet Telephony business is organized around closed islands. Either with proprietary protocols\r\nor with SIP, but very few VoIP providers play the open game.\r\n\r\nThis doesn't make sense, because stricly speaking the actual service is not provided by the telephony provider (Skype, Wengo, or whatever) but by the internet connection itself. The provider just put you in contact.\r\nSIP is an open protocol that can work in an open environment, like the Web, where multiple Internet/PSNT gateway  service provider can compete against the same user base.\r\n\r\nInstead, each SIP VoIP provider (Woize, Wengo, Abbeynet, Free etc) try to keep the user base closed by providing closed client software, even if it use open protocols. The important point of OpenWengo may be having a role in opening this situation, but being financed by one of the player, i am skeptical.\r\n\r\nUnless the small players understand they have to open up and interoperate, the proprietary big player, Skype, will build a planetary monopoly that will us European ask to go back to national monopolies :-< ..\r\n\r\nMaurizio\r\n"
+-
+    name: nagyv
+    mail: ''
+    subject: Gizmo
+    hostname: 85.66.14.21
+    created: '1151310018'
+    body: "The main drawbacks of the article (like encryption) have benn noted already. What I would like to hear your opinion about is another free/open source VoIP application, called <strong>Gizmo</strong>. What are the kex differences, advantages, disadvantages, etc. <a href=\"http://www.gizmoproject.com/\">www.gizmoproject.com/</a>\r\n\r\nI know that it uses the SIP protocol too, it is already connected with GoogleTalk given that both use some very similar protocols (so it was easy). This connection does not mean that google talk is simply integrated, but you need to have a google talk account too. No, <strong>this is a true interconnection</strong>! (You can have a conference with 2 friends, 1 useing gizmo the other googletalk. Can you achieve this with wengophone's MSN support for example?\r\n\r\nAny other ideas?"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'What''s free and what''s not?'
+    hostname: 68.93.224.4
+    created: '1151744321'
+    body: "Um, okay you all have made this very fuzzy for me...\r\n\r\nWhich systems are free-licensed software?\r\n\r\nWhich are using open/free standards\r\n\r\nI'm confused about this -- and on the FSM website, I don't feel I should be. This is one place I'd expect to keep these things really clear!\r\n"
+-
+    name: ve3sre
+    mail: ''
+    subject: 'Open Wengo'
+    hostname: 69.158.30.88
+    created: '1153032153'
+    body: "Thanks for the article!\r\n\r\nI was initially pleased that Skype had Linux support but saw as you mentioned that once eBay bought it out they let the Linux version lag way behind the Window$ version.  Not good!\r\n\r\nThe other thing that cheesed me off was reading about Skype's deal with Intel where they \"cripple\" the number of users you can have in a conference call if you use a non-Intel processor. Crippling hardware is pure corporate evil in my books. All of my machines run AMD processors...guess I always like the \"underdog\"... and have always felt that AMD gave you a bigger CPU bang for your buck...pound, euro, yen whatever ;)\r\n\r\nRight now Skype has a \"deal\" in Canada and the U.S. that runs till the end of the year where they let you \"Skype-out\" to the phone system for free.  I'm hoping that by the time the \"deals\" end Wengophone will be a little further along towards being stable and I along with my friends will make the \"switch\".\r\n\r\n"
+-
+    name: vach
+    mail: ''
+    subject: 'Compare skype and wengo-rates'
+    hostname: 86.80.72.15
+    created: '1153927333'
+    body: "For a comparison of the Skype and Wengo - out rates (to regular landlines)\r\nhttp://www.voipproducts.eu"
+-
+    name: 'Marco Marongiu'
+    mail: ''
+    subject: 'Is gizmo free software?'
+    hostname: 213.205.45.50
+    created: '1157547275'
+    body: "Hmmmm... if it was, I could download the source code somewhere. But after some searching in the site I can't find any. So is it free just as a free beer?\r\n\r\nCiao!\r\n--Marco"
+-
+    name: ''
+    mail: ''
+    subject: 'Other voip review site'
+    hostname: 65.2.200.40
+    created: '1157578717'
+    body: "There is another third party site called <a href=\"http://www.voipreview.org\">voipreview.org</a> that lists many voip providers, most of which are unfortunately not free but many provide more secure features than wengo.\r\n\r\n<br><br>\r\nJerry Huyghe\r\n<a href=\"http://www.sagecominc.com\">SageCom</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'I use wengo'
+    hostname: 81.7.10.223
+    created: '1158894112'
+    body: "I use wengo for calls to landlines.\r\n\r\nI prefer Wengo and look forward to encryption. Interoperability is what is most required. Wengo is more likely to acheive it. This is clear from their philosophy and decision to go with . CoIpManager as a better IMWrapper in the future. See http://blog.openwengo.org/index.php\r\n\r\n<cite>A lot of people would like to use WengoPhone with other SIP providers.\r\nCoIpManager will provide this feature since everything (MSN, AIM, Yahoo, Wengo, GoogleTalk, FreeWorlDialup...) will be the same for WengoPhone GUI. This is CoIpManager main purpose anyway.</cite>"
+-
+    name: iraysyvalo
+    mail: ''
+    subject: 'Wait for 2.0'
+    hostname: 193.48.136.60
+    created: '1160999580'
+    body: "Last time I checked wengophone, I dismissed it temporarily (till the 2.0 release, I hope) because the client was only tied to the wengo company.\r\n\r\nWhat I'm looking for is kinda general purpose SIP client so that you only need to change your settings if you want to call with another SIP network provider and that's it. \r\n\r\nBy the way, I refer you to <a href=\"http://en.wikipedia.org/wiki/STUN\">STUN</a> for a few things on the firewall traversal side. \r\n________________________\r\nLet's go party."
+-
+    name: ''
+    mail: ''
+    subject: encrypted
+    hostname: 80.218.8.195
+    created: '1161086307'
+    body: 'about encryption:  <a href=http://blog.openwengo.org/index.php?/archives/55-Everbee-and-OpenWengo-partnership-to-achieve-open-source-VoIP-security.html>this</a> could be interesting: according to it OPENWENGO DOES HAVE ENCRYPTION NOW!?'
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'Wengo is free software'
+    hostname: 80.6.122.154
+    created: '1163638480'
+    body: 'The only thing I care about really is that Wengo is free (as in freedom obviously), and uses a free and open protocol, whereas Skype doesn''t. That''s why I don''t use Skype. I use exclusively free software almost all of the time now, with Kubuntu. I''m having trouble installing Wengo on GNU/Linux at the moment because I use the amd64 version, but I have tried the proper 2.0 release under MS Windows and it is very nice.'
+-
+    name: ''
+    mail: ''
+    subject: 'Skype works a super node on your PC?'
+    hostname: 194.201.204.121
+    created: '1163750269'
+    body: "I once read that skype worked as \"a super node on the local PC\", hence why it is ressource hungry, so you bring cpu ressource to the skype network. (If I understood correctly) Is this true?\r\n\r\nAFAIK openwango does not do that\r\n\r\nLooking to move from skype to openwango when\r\nmy credits have run out"
+-
+    name: ''
+    mail: ''
+    subject: congratullations
+    hostname: 200.17.143.31
+    created: '1166053659'
+    body: "Ciao Marco!\r\nI want to thank you and congratulate for article.\r\nI followed and could install the Wengophone without a problem.\r\nI'm running away from Skype as the communications and services get worst.\r\nI also had problem with Gizmo.\r\nI believe that Wengophone could succeed, as they had the same structure as Mozilla.\r\nAn open source community (www.openwengo.org) and the corporate one (wengophone).\r\nI still could not connect to aim, googletalk, neither could the phone call....but\r\nI know I will be soon sorted out, there more people trying to help people (Linux user in fact) than in Skype.\r\n\r\ntalueguito\r\nraul"
+-
+    name: ''
+    mail: ''
+    subject: 'once again'
+    hostname: 200.17.143.31
+    created: '1166293742'
+    body: "Ciao Marco!\r\nI hope you don't mind I posted your article in the wengophone forum.\r\nI find your article very useful.\r\nI've made to small changes in your method. I installed in /usr/local/\r\nand instead of making a new script, I linked the shell script that came with the ditribution\r\n( ln -s /usr/local/Wengophone/wengophone.sh /usr/local/bin/wengophone)\r\n\r\nthanks Marco\r\n\r\ntalueguito\r\nraul"
+-
+    name: ''
+    mail: ''
+    subject: 'Running wengophone from application icon'
+    hostname: 200.171.135.215
+    created: '1170332895'
+    body: "johnmoffat,\r\nI am trying to run wengophone 2.0 not from terminal as described in Free Software Magazine.\r\nThe article was great and easy. But, do I have to run wengophone from terminal all the time?\r\nPlease help me.\r\nThanks\r\nsramires"
+-
+    name: ''
+    mail: ''
+    subject: 'Gizmo: Open Standard.  OpenWengo:  Open Software.'
+    hostname: 70.54.4.124
+    created: '1170570861'
+    body: 'As far as I can tell, gizmo and openwengo both use the open SIP standard.  gizmo, however, is closed source software (just as Skype is), while openwengo is free software.  Skype is both closed source and using a proprietary (i.e. non-standard) protocol.'
+-
+    name: 'Marco Marongiu'
+    mail: ''
+    subject: 'Re: once again'
+    hostname: 84.221.155.234
+    created: '1170599408'
+    body: "I am definitely not afraid you post my article somewhere else (as long as its license is not infringed, of course :-) Could you please provide a link to the forum?\r\n\r\nAbout the /usr/local/packagename choice, I am definitely against that approach and that's why I choose a /opt/packagename-version instead, and use stow to report everything to /usr/local. But that's a subject for another article or blog post.\r\n\r\nCheers!\r\n--bronto"
+-
+    name: ''
+    mail: ''
+    subject: 'Wengo in Ubuntu Feisty Fawn'
+    hostname: 212.41.120.234
+    created: '1171384286'
+    body: "Just tried Wengo on Ubuntu Feisty Fawn, where it is included in the repositories, making installation trivial.\r\n\r\nFirst impressions are very positive:  Easy signup, UI -way- better looking than Skype, Integrated support for most (if not all) protocols supported by Gaim. \r\n\r\nHowever, no luck actually using the thing yet.  Since it's been trying to 'connect' for over half an hour now.  That in spite of the fact that I used Wengo itself to setup my account, and despite the fact that I'm actively using Skype and Gaim at the same time, which obviously have no trouble connecting.  Now maybe it's a bug in the ubuntu package (feisty fawn is still in beta for the next two months), but sure would have been a lot more impressive if it had worked out of the box.  Will try it again in a month or after Feisty is released. Installed version is 2.0rev8108."
+-
+    name: 'Marco Marongiu'
+    mail: ''
+    subject: 'Too crowded? :-)'
+    hostname: 217.133.8.17
+    created: '1171561474'
+    body: "Ciao!\r\n\r\nCan you try to start it without having skype and gaim on? Maybe it's just they can't stand one another :-)\r\n\r\nSeriously now, try it without too many programs contending resources and let me know if it works!\r\n\r\nCiao and thanks\r\n--bronto"
+-
+    name: 'Anonymous visitor'
+    mail: pdiddy@operamail.com
+    subject: 'Mandriva Wengophone'
+    hostname: 82.33.83.182
+    created: '1177812008'
+    body: "Well Mandy must be getting a back hander to push Wengophone so hard,default install and entry on toolbar in FF. \r\nWish they hadn't,wasted 2 hours trying to get it configured. And then when I finally got it working it crashed on every call, would only crash even when not making a call and would not work with my c-media card or my creative card (Aud2).\r\nNo-one I know with K/Ubuntu has it working,and I have a couple of buddies using Mandriva Spring,neither can make even a pc to pc call without it crashing,one has no sound,the other no video and sound very poor even with an 8mb broadband connection.\r\nBest thing about it is the ui....oh and uninstalling the rubbish and using Twinkle,or Ekiga (when ekiga.net is up and running that is)"
+-
+    name: 'Johannes Eva'
+    mail: johanneseva@web.de
+    subject: Wengophone
+    hostname: 83.42.255.178
+    created: '1178474142'
+    body: "The Wengophone furbished with Feisty Fawn Final doesn't function: impossible to make calls or send sms. Downloaded 2.1 RC2, well now i can send sms (german, spanish or french accents do not work), but still impossible to cake phone calls :(\r\nLet's hope it will work with 2.1 RC3!"
+-
+    name: 'StarCraft 2'
+    mail: rtioert@yahoo.com
+    subject: 'I need voip mainly for'
+    hostname: 213.137.114.139
+    created: '1179740665'
+    body: 'I need voip mainly for GTalk, but I''ve heard Wengophone is not the best for it... '
+-
+    name: 'Anonymous visitor'
+    mail: techking1@hotmail.com
+    subject: 'wengo: not the best...'
+    hostname: 66.17.182.162
+    created: '1183666411'
+    body: 'Wengo is a free software, so what? The quality of the calls are not that great. I consider Raketu the best in calling and plus now it seems that they added a new feature similar to Jajah. Now Raketu has sort of Skype and Jajah combined. Wengo''s rates are way too high. I prefer Raketu better. '
+-
+    name: 'Anonymous visitor'
+    mail: novelty_new@yahoo.com
+    subject: 'uninstalling wengophone'
+    hostname: 195.229.242.57
+    created: '1184343824'
+    body: "I have a problem! I tried installing wengophone and didn't find the sound quality good. I immediately uninstalled it. However I am unable to avoid the wengophone on my screen (during the start up and is always there on the bottom screen) although the entire thing has been removed.\r\n\r\nCan anyone help me uninstall the whole thing. Its pretty annoying!!!\r\n\r\n"
+-
+    name: 'wengo former customer'
+    mail: arlox@hotmail.com
+    subject: 'i gotta admit'
+    hostname: 141.30.202.244
+    created: '1187429274'
+    body: "yeah im all for open source, I have Linux at home, but when it cam to VoIp, first I jumped on the \"free software\" bandwagon, I did many calls with Wengo, and then, all of the sudden they raised my rates from 2cts/min to 30cts/minute! all of the sudden, so of course,They did not refund my money for these calls at new rates!  I changed to skype with 3ct/min rates.\r\nWith wengo , I pay:MEXICO MEXICO CITY  \t 0.251€  \t 0.300€\r\nWith Skype I pay:       €0,017  (€0,020 incl. VAT)\r\nSo maybe your destination is cheaper with Wengo, but I can't be paying 15 times for a service that is too expensive.Thanks Wengo!\r\n\r\n"
+-
+    name: Glander
+    mail: ''
+    subject: 'Video and Wengo on home line'
+    hostname: 89.220.227.206
+    created: '1225705592'
+    body: "Hi people,\r\n\r\nI'm using Wengo for some months and I'm very satisfied with the software. Because I like to experiment with several software, I;m trying to get the video options also running on my normal home line.\r\n\r\nI've connected my PC to the sip url of my normal internet homer phone line en for now it's working sometimes with a videophone on a standard phone line via the regular telephone company like AT&T or Bell, in the Netherlands KPN.\r\n\r\nThere are some errors and it's not completly running well, but I guess in some time it wil be running.\r\n\r\nA programmer friend is busy to make an change inb the soiftware and when finished, we will send it to de Wengo Company.\r\n\r\nI let you know when all is working 100%\r\n\r\nGreetz,\r\n\r\nGlander"
+-
+    name: gordman
+    mail: ''
+    subject: 'It looks like the feature is'
+    hostname: 79.112.55.177
+    created: '1254331200'
+    body: 'It looks like the feature is pretty much complete, and of course very competitive. My first Voip experience was Skype, ever since then new Voip options spread by the year and sometimes by the month. I can only be glad about it. '

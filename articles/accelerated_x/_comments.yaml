@@ -1,0 +1,70 @@
+-
+    name: god
+    mail: ''
+    subject: 'Comments from old system'
+    hostname: 203.59.90.115
+    created: '1143802743'
+    body: "From: Tuukka Hastrup\r\nUrl:\r\nDate: 2006-02-27\r\nSubject: Some critique\r\n\r\nThanks for a nice overview of the current developments! I think GL-X is usually spelled GLX, however. And it's \"compositing window manager\" rather than \"composite window manager\".\r\n\r\nI don't know how important it is to describe the exact current state of Xgl and AIGLX as they develop fast, but as you delve into DRI: What matters most is hardware acceleration, and Xglx does provide hardware-accelerated OpenGL to its clients, although indirect. This is different from the old indirect which is software-only Mesa. Further, Xgl provides accelerated XVideo too.\r\n\r\nI'm sure you tried to balance your words to be neutral, but in the end the article leaves the feeling \"Xgl may be here now but AIGLX will beat it,\" as heard from Red Hat versus Novell. Perhaps it was the part about Xgl recreating the wheel vs. AIGLX taking less work. Which ever way it is, I hope the better alternative wins! If AIGLX takes less work, it'd be interesting to know why it's lagging behind.\r\n\r\n________________________________________\r\n\r\nFrom: Craig\r\nUrl:\r\nDate: 2006-02-27\r\nSubject: Not SUSE\r\n\r\nIt's a bit unfair to attribute XGL to SUSE. It's been developed by the Novell Linux Desktop team, who were previously Ximian. NLD is based on SUSE, but it wasn't a SUSE development.\r\n\r\n________________________________________\r\n\r\nFrom: Nobody\r\nUrl:\r\nDate: 2006-02-27\r\nSubject: Lame\r\n\r\nX Window System, _N_O_T_ X WindowSSSSSSSSSSSSSSSS System.\r\n\r\n________________________________________\r\n\r\n    From: Ananda\r\n    Url:\r\n    Date: 2006-02-28\r\n    Subject: Don't be so picky\r\n\r\n    I think this was a great article and it taught me a lot. I think that, if you find the need to comment about something so trivial, you must have a lot of time on your hands.\r\n\r\n    ________________________________________\r\n\r\nFrom: anonymous\r\nUrl: www.microsoft.com\r\nDate: 2006-03-01\r\nSubject: Great!\r\n\r\nThanks a lot for the info.\r\n\r\nThere is so few information out there I encountered about X.\r\n\r\nIt is good to know that GLX and AIGLX is good for X performance.\r\n\r\nAnyway, my impression of X is still it is very slow compared to Windows.\r\n\r\nCan you create a new article about X performance compared with Windows? Why Windows is so snappy? This is obvious and everyone should know so that X development will get accelerated.\r\n\r\nHere are my bad impression about X:\r\n\r\n- Why have a network component if it is not needed? It looks elegant that we can display in the network but it is not needed most of the time. It is impractical and just slowing things. Just make it a plugin.\r\n\r\n- If kernel component of X could help accelerate things, why not do it so it can beat Windows? This will have a very big impact if X can beat Windows in terms of performance in GUI part.\r\n\r\n- I am willing to forget compatibility for performance. Anyway, I think kernel always do a re-write also (from 2.4 -> 2.6). Maybe X should also to improve it.\r\n\r\nThanks again for the great article.\r\n\r\n=)\r\n\r\n\r\n________________________________________\r\n\r\n    From: anonymous2\r\n    Url: none\r\n    Date: 2006-03-08\r\n    Subject: X Networking\r\n\r\n    Making the networking in X a plugin is simply not possible, as windows on your local machine are also created by connecting to your localhost.\r\n\r\n    Try this:\r\n\r\n    Kill all your X-servers currently running (by killing gdm or kdm), then disable your localhost-interface by running \"ifconfig lo down\".\r\n\r\n    Now go ahead and start your X-server.\r\n\r\n    Networking is not a \"feature\", it's a necessarity.\r\n\r\n    ________________________________________\r\n\r\nFrom: Luke\r\nUrl:\r\nDate: 2006-03-03\r\nSubject: 2 Questions\r\n\r\nHello, I have got a couple of questions.\r\n\r\n1) You say that \"An extension that AIGLX provides is the ability to transmit just the pixmap manipulation commands to the X-server display so the manipulation can occur there, eliminating the need for data to be carried back and forth, significantly improving performance.\"\r\n\r\nAs opposed to Xgl which uses the GLX_EXT_texture_from_pixmap extension to do the pixmap manipulation on the GPU, right? So here it seems to me (correct me if i'm wrong) that while AIGLX puts the pixmap manipulations at a higher level (which I assume means window compositing), Xgl manages to put the pixmap manipulations straight onto the GPU. If there's no extra overhead Xgl wins here then?\r\n\r\n2) I don't completely understand this paragraph on OpenGL games: \"Both, as I previously mentioned, support legacy 2D X-client applications. But, currently, only AIGLX can take advantage of OpenGL Direct Rendering for games and the such. XGL is limited to the GL-X mechanism here. The reason for this is that the X-Server and the DRI mechanism need to co-operate with each other. However, in the GL-X solution, the X-Server that the X-client connects to is (currently) not the one that does the actual displaying. ItÃ¯Â¿Â½d probably be a very major hack to include this, and could simply be unfeasible. AIGLX wouldnÃ¯Â¿Â½t have a problem here because X could implement DRI the same way as it does on systems now.\"\r\n\r\nI think you're explaining why the GL-X solution that Xgl relies on is no good. But why does Xgl rely on the GL-X solution for OpenGL games?\r\n\r\nWell, great article! helped me to make some sense of the difference between AIGLX and Xgl.\r\n\r\nLuke\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'In-Kernel X server and XGL''s reliance on GLX'
+    hostname: 71.236.228.53
+    created: '1158532427'
+    body: "Various reasons in-kernel X servers are bad ideas:\r\n1. There is code in X that is not GPL, only GPL code can go in the Linux Kernel.\r\n2. In-kernel X servers would be more platform specific than the current approach, splitting X developers across platforms.\r\n3. If X crashes, so would the whole OS.\r\n4. Security concerns.\r\n5. Most importantly, the speed increase would be trivial compared to the effort and complications.\r\n\r\nXGLX renders to the screen directly and composites _X11 windows_. This prevents the ability to composite DRI windows (accelerated programs like games) (since they draw to the _GPU_ and not to _X11 windows_).\r\n\r\nThe idea is, AIGLX allows the acceleration of indirect apps. So even games (and other GL apps) get drawn to X11 windows (at acceptable speeds). And since they are drawn as X11 windows, they can be composited.\r\n\r\nIf you run XGL, you have to use XV for video playback, and OpenGL apps in XGL are slow. But everything is composited, and it works _now_. I guess XGL will also implement indirect rendering (so everything is fast again), but since it uses the same method as AIGLX, my guess is that it will only support graphics cards that AIGLX does.\r\n\r\nIf you run AIGLX, You can use GL for video, fast GL for games/etc, and everything is composited (the end goal). The only catch is it doesn't work on the proprietary video drivers (yet)."
+-
+    name: ''
+    mail: ''
+    subject: 'Actually according to'
+    hostname: 88.96.104.50
+    created: '1159648248'
+    body: 'Actually according to Wikipedia AIGLX works on the current nVidia drivers, just not the old "legacy" ones.  Its ATI that is lagging behind.'
+-
+    name: ''
+    mail: ''
+    subject: 'AFAIK, XGL uses indirect'
+    hostname: 212.48.201.123
+    created: '1159742569'
+    body: 'AFAIK, XGL uses indirect rendering for all GLX applications (including compositing manager). AIGLX uses indirect operations for compositing manager. What about other GLX applications?'
+-
+    name: ''
+    mail: ''
+    subject: 'GLX , what video card to use'
+    hostname: 68.148.64.213
+    created: '1160332434'
+    body: "I've been using ATI and NVidia cards with their proprietary binary drivers for some time.  I am unhappy with having to re-compile/install the proprietary drivers after every kernel update.  When I go to re-install I usually put in an updated binary driver with unexpected results.  By the time you do a kernel update your video card is too old to be supported in the latest binary driver meaning you have to find the old version somewhere.\r\n\r\nI've heard that the new INTEL G965 chipset is open-sourced.  Is there anyone here that has actually run one?  How is the G965 3D performance after a kernel update?\r\n\r\nI've also found an Open hardware implementation video card advertised.  I wonder if it has half the 3D performance of my older 9200 radeon or NVidia Gforce4 mx?\r\n\r\nATI and NVidia binary drivers also have had problems with power-management such as sleep and standby modes (sometimes they don't wake up)\r\n\r\nUsing the free MESA drivers is the most reliable but the 3D performance is only half way there as of 2006.\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Re: X Networking (not used locally)'
+    hostname: 213.41.116.82
+    created: '1161787650'
+    body: "Just to correct the post from old archives about running \"ifconfig lo down\", but not to comment about the former post asking why networking (I find it very handy to run an application remotely, I do it every day at home).\r\n\r\nX doesn't require networking to work. Actually you can even run the X server with the option -nolisten tcp.\r\n\r\nLocally it uses unix sockets and not localhost, and it's helped by different extension protocols like X-SHM (shared memory). If *your* gdm/xdm does not start correctly after a ifconfig lo down, that's more because of some not really useful dns resolution that fails, maybe for remote X sessions handling.\r\n\r\nOf course if you run something with DISPLAY=localhost:0 instead of DISPLAY=:0 that would force using network for local display, and you'd lose a lot of acceleration.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"I''ve also found an Open'
+    hostname: 68.93.224.4
+    created: '1162237809'
+    body: "\"I've also found an Open hardware implementation video card advertised. I wonder if it has half the 3D performance of my older 9200 radeon or NVidia Gforce4 mx?\"\r\n\r\nI can't tell for sure if you are referring to the <a href=\"http://www.freesoftwaremagazine.com/node/1665\">Open Graphics Project</a>. Of course, it doesn't exist yet, but when it does, it's expected to be roughly competitive with the ATI Radeon 9200 or so (it probably won't be much faster, but it shouldn't be slower).\r\n\r\nIt'll be awhile before OGP cards are \"price/feature\" competitive with proprietary cards (the project officially denies this as a goal, though I think it will be the result in the long run -- eventually the open source advantage will overwhelm the short production-run problem). In the meantime, the principle market for OGP cards will be people who are willing to pay a little extra for the openness of the hardware (specification and implementation).\r\n\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'how about some repsect to naming?'
+    hostname: 88.114.157.208
+    created: '1163879162'
+    body: "you seem to have not yet learn it is called <strong>X Window</strong>\r\n<a href=\"http://en.wikipedia.org/wiki/X_Window_System\">http://en.wikipedia.org/wiki/X_Window_System</a>\r\n\r\nplease repeat it about 25 times before you ever write anything on X topic"
+-
+    name: 'Anonymous visitor'
+    mail: sub_z3r0_@hotmail.com
+    subject: 'Look at your own mistakes before pointing at others.'
+    hostname: 24.200.208.94
+    created: '1182188845'
+    body: "In your title... look at the fourth word. What is this? I can't find \"<strong>REPSECT</strong>\" in my dictionary. Strange. Maybe you meant RESPECT, am I right? Well... it seems you too lack respect, but not in the same way/meaning as the author of this article.\r\n\r\nAlso... please repeat the word <em>PONCTUATION</em> about 25 times in your head before your ever write anything on <strong>any</strong> topic.\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: anoneemouse1@lycos.com
+    subject: 'Is it just who find''s this'
+    hostname: 62.6.179.230
+    created: '1193921123'
+    body: "Is it just who find's this little tizz hugely ironic?  Pot, Kettle, black etc.  \r\n\r\nIt's \"PUNCTUATION\"... ;-)"

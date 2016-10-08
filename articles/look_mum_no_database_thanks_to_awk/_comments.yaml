@@ -1,0 +1,7 @@
+-
+    name: jval
+    mail: ''
+    subject: 'Nice reading'
+    hostname: 81.34.61.4
+    created: '1360711038'
+    body: "Just my two cents. I would follow the Unix philosophy of small separate utilties working together.\r\n\r\nFor example:\r\n\r\nWe call \"myprogram\" to a program that generates kml output\r\nNow you can create the kml file by doing this: myprogram > myfile.kml\r\nIf you want to launch googleearth, just run: googleearth <(myprogram)\r\n\r\nThis is called process substitution, a feature of Bash. Output of program \"myprogram\" will be saved on a temporary file (a pipe) and passed to googleearth transparently, without creating intermediate files in your script.\r\n\r\nThis way your script will not need to launch googleearth itself (for clarity purposes)\r\n\r\nAlso, why not use this:\r\n\r\nA=$(zenity --title=\"Event plotter\" --entry --text=\"Enter Lat N limit (-)\")\r\n\r\nwithout /tmp/combo so you can skip calling Awk 4 times"

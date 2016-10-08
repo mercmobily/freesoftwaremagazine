@@ -1,0 +1,63 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Backups with FreeBSD'
+    hostname: 70.251.3.50
+    created: '1166720815'
+    body: 'Backing up FreeBSD locally and remotely: http://www.instructables.com/id/EY9EOQMSALETOML79T/'
+-
+    name: Freejack
+    mail: ''
+    subject: 'Another distribution with Partimage'
+    hostname: 84.58.42.97
+    created: '1166822142'
+    body: "Not to forget:\r\n<a href=\"http://gparted.sourceforge.net/livecd.php\">GParted LiveCD</a>\r\nSmall, lightweight and featuring partimage among other useful hard disk tools."
+-
+    name: ''
+    mail: ''
+    subject: 'Partimage Tutorials'
+    hostname: 24.28.153.242
+    created: '1166824723'
+    body: "Howdy, I have a tutorial here on how to do this with System Rescue CD and Partimage...\r\n\r\nPart 1:\r\nhttp://www.mguhlin.net/archives/2005/08/entry_407.htm\r\n\r\nPart 2:\r\nhttp://www.mguhlin.net/archives/2005/08/entry_418.htm\r\n\r\nPodcast that walks you through the process:\r\nhttp://www.mguhlin.net/archives/2006/07/entry_1753.htm\r\n\r\nWishing you well,\r\nMiguel Guhlin\r\nAround the Corner-MGuhlin.net\r\nhttp://www.mguhlin.net"
+-
+    name: ''
+    mail: ''
+    subject: 'Disaster Recovery'
+    hostname: 82.235.12.81
+    created: '1167088403'
+    body: "Mondo is really good at making a bootable CD which can restore your system, including partitonning.\r\n\r\nhttp://www.mondorescue.org/"
+-
+    name: ''
+    mail: ''
+    subject: GParted
+    hostname: 65.65.237.145
+    created: '1167138584'
+    body: "GParted would not recognize the SATA drives on either system I tried in on (attempting to dual boot a new laptop, and testing on an existing desktop to verify GParted's non-functionality).  I ended up reformatting, fdisk'ing, and reinstalling both operating systems.  It took less time.\r\n"
+-
+    name: 'Jon Peck'
+    mail: ''
+    subject: 'GParted / SATA'
+    hostname: 65.110.147.186
+    created: '1167196202'
+    body: 'Interesting... just this past week, I used the SystemRescueCd to repartition and resize my 200+ GB SATA hard drive with NTFS partitions, and I had no problems.'
+-
+    name: ''
+    mail: ''
+    subject: 'Extra trick for "dd" so junk is not copied'
+    hostname: 218.214.133.12
+    created: '1167281304'
+    body: "dd can be made to be very compact indeed if you -first- mount the filesystem, and copy large zero-filled files to it until nearly full. This will zero out all unused clusters, and they will compress to almost nothing. Dont forget to delete the zero-filled files, then unmount the filesystem before you use dd.\r\n\r\n:) - RL\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'I''m a dummy'
+    hostname: 24.177.215.67
+    created: '1167526959'
+    body: 'I saw a recomendation for your software Mondo for backing up my XP system, but I don''t know how to download the files. Can someone help this dummy?'
+-
+    name: clievers
+    mail: ''
+    subject: 'I use rsnapshot'
+    hostname: 68.144.77.66
+    created: '1167672006'
+    body: "I use rsnapshot, which uses rsync. I don't do a complete hard drive backup, but there's no reason you couldn't. I just backup important files.\r\n<a href=\"http://www.blog.cory.lievers.ca/index.php?/archives/25-Backing-up-computers-with-rsnapshot.html\" title=\"Backing up computers with rsnapshot\">Backing up computers with rsnapshot</a>\r\n\r\n-- Cory"

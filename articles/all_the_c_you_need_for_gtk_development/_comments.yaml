@@ -1,0 +1,28 @@
+-
+    name: skypher
+    mail: ''
+    subject: 'C?'
+    hostname: 88.73.244.155
+    created: '1203436163'
+    body: "Yuk, you don't get C by reading an article.\r\n\r\nAnd you don't need to, either.\r\n\r\nBe sensible and use a scripting language."
+-
+    name: raseel
+    mail: ''
+    subject: 'I''m a bit disappointed to'
+    hostname: 220.225.32.138
+    created: '1203507314'
+    body: "I'm a bit disappointed to see that all you have done is given a crash-course in C.\r\nI was expecting some more info regarding GTK+ and how to get started. \r\n\r\nThanks,\r\nRaseel\r\nwww.opensourcedeal.com\r\n"
+-
+    name: tracyde
+    mail: ''
+    subject: 'In your "practical example"'
+    hostname: 206.112.75.238
+    created: '1203964685'
+    body: "In your \"practical example\" above I believe you made an error.\r\n\r\n<code>\r\nint my_function(int a)\r\n{\r\n  char b;\r\n\r\n  b='r';\r\n  printf(\"%d %c\",a,c);\r\n}\r\n</code>\r\n\r\nYou will return an error because the variable 'c' has been neither declared or set.  \r\nIt should read:\r\n\r\n<code>\r\nint my_function(int a)\r\n{\r\n  char b;\r\n\r\n  b='r';\r\n  printf(\"%d %c\",a,b);\r\n}\r\n</code>\r\n\r\nAbove I just changed the 'printf' statement to use 'b' instead of 'c'\r\nA more noteworthy example might be:\r\n\r\n<code>\r\nint my_function(int a)\r\n{\r\n  char b;\r\n\r\n  b='r';\r\n  printf(\"Your argument as a decimal %d and as a character %c\",a,a);\r\n  printf(\"Your function variable b as a decimal %d and as a character %c\",b,b);\r\n}\r\n</code>\r\n\r\nThat way new users can see how easy it is to display variables as different types and their associated values.\r\n\r\nR/S\r\n\r\nDerek"
+-
+    name: hotspoons
+    mail: ''
+    subject: '@skypher - I took a couple'
+    hostname: 72.81.249.99
+    created: '1210127462'
+    body: "@skypher - I took a couple of computer science classes in college (C, C++, and visual *barf* basic), but was too interested in partying to absorb and retain what I learned. Then several years later I found I have a knack for programming, and I made a career of it, learning 99% of what I know through various articles, mailing lists, API documentation, and digesting the source code of other projects. Most of my knowledge is in VHL or scripting languages (PHP, Python, Ruby, VB, C#, ColdFusion, Java), but as I've hit some limitations (specifically with Python) with what I can do, I have a renewed interest (as in the last week) in C as it can do anything, just with a lot more coding.\r\n\r\nWhere would your scripting languages come from without C anyhow? I don't think your favorite scripting language would be nearly as encompassing and could do 1/10th of what it does if it was written in assembly. Though it probably would be damn fast.\r\n\r\n@raseel - Try programming with Python and GTK+ first as you will get a grasp on how to create, modify, and access GTK objects without needing to worry about a strongly typed language and lower level problems (like pointers, memory allocation, etc.) that you do when learning with C. I suggest looking over the Exaile source code as it is my favorite audio player for GTK, and it is written in pure, well coded python. The PyGTK API mirrors, almost verbatim, the GTK C API, so things make a lot more sense when you start coding GTK with C after learning the API in Python. That is if you already know Python. If not, I suggest you learn.\r\n\r\n@Andrew Krause - Thanks for the article! I've been trying to get caught up on C as I haven't done much with it in almost 10 years, and last night I (re)learned pointers and pointer math, and tonight, your article answered a question I had been trying to figure out for the last couple of hours - what \"->\" is  in C - I know in OO PHP, it is how to reference an object's property or method, and I figured it had something to do with struct's in C, but you were the only page out of about 40 or 50 I looked at that gave me an answer (google doesn't include special characters in searches, but I have seen that operator in a lot of GTK+ code - this article was on the 4th page of results when searching for \"gtk c operators\"). Thank you, and your article is a perfect crash course for someone who hasn't done C in 9 years."

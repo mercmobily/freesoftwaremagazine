@@ -1,0 +1,385 @@
+-
+    name: ''
+    mail: ''
+    subject: Confirmed!
+    hostname: 69.121.199.2
+    created: '1169915733'
+    body: "There are tens of thousands of Linux aficionados who will dismiss your article as senseless drivel but there are millions of average computer users who could not agree more!\r\n\r\nThe only problem is they don't read this since they gave up on using a free OS (not on free software entirely).\r\n\r\n\r\nI installed my first Mandrake about 7 years ago, I bought books and I had all the code. Since then I've used Redhat, Vector Linux, Yellow Dog, Ubuntu, Gentoo, Knoppix - you name it I had it installed. I used parted to create and manipulate my partitions, chatted with an IBM developer and even earned a mention in the Credits section!\r\nhttp://tuxmobil.org/sound_linux.html\r\n\r\nAnd after all that ? I still use Windows 95% of my time. I currently use Vector  Linux because it is the only distro that has not fallen apart after I've installed or updated a core library. I've thrown anything at it except for kernel compilation.\r\n\r\nYou could say I've given up - and I would say you're right. Every distro had failed me (read: became unusable) in some way after I began customizing it to my desires:\r\n- partitions\r\n- sound configuration\r\n- window manager updates\r\n- boot loader configuration\r\n- library installations / updates.\r\n\r\nIn a sense I didn't give up on Linux - it gave up on me and in the belief that an average Joe Schmoe could start it and use it without any repercussions.\r\n\r\nWhy all this? Because you have to be a developer to customize Linux - that is why. You have to understand how the computer works - it will never be a blackbox, which is what Windows successfully portrays today.\r\n\r\nSome days I like to be a developer and play with it but most of the time I just want to be an average dude. \r\n\r\nIf I download a new library I want it in binary form, downloaded either with all dependencies (also in binary) because the download process detected they are missing on my system or without them. I do not want to compile it (that is already bad enough) and then get errors because of chain-link of dependencies in a parent-child formation.  I usually give up after 3 hours disgusted because I just wanted to ride a bicycle but before I could do that I had make my own parts and build them together! \r\n\r\nThat is an overkill. The entire set of steps for distribution, code compilation, installation, configuration and updates NEEDS AN OVERHAUL. \r\n\r\nThere should a standard for everything (maybe some committee or something). All the stupid distros instead trying to be different and think different should be a Linux box first, and a distro second. \r\n\r\nGive me SOMETHING that works the same GUARANTEED across the board of all distros. Amen.\r\n\r\n\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Many people seem to feel the same'
+    hostname: 83.177.0.159
+    created: '1169916912'
+    body: "Agreed, I hate it in even fewer steps than three. But I take it you've read what Ian Murdock has to say about how software installation on Linux sucks (the LSB initiative etc):\r\n\r\n\"Software installation on Linux: Tomorrow, it won’t (with some cooperation) (part 2)\"\r\n\r\nhttp://ianmurdock.com/?p=391\r\nhttp://www.linux-foundation.org/en/Packaging\r\n\r\nAlso, there is also CNR.com and klik.atekon.de and stuff like that.\r\n\r\nSo, is there hope after all?\r\n\r\nRegards\r\nHugo Heden\r\n"
+-
+    name: 'Raghu Kodali'
+    mail: ''
+    subject: 'I fully agree'
+    hostname: 210.214.115.2
+    created: '1169917402'
+    body: "I feel that this is one of the main reasons for GNU/Linux not (yet) to be accepted by a vast majority of users as a desktop replacement for proprietary Operating systems.\r\n\r\nAfter working on GNU/Linux for so many years, I could get most of the packages to compile (after a few hours of hacking Makefiles etc), but I still run into tarballs which just refuse to compile.\r\n\r\napt & yum might have solved this to some extent, but you are again in the open sea if the software you need is not available as a .deb.\r\n\r\n./configure, make, make install is also a good way to check for source level dependencies. But this is also limited in its application.\r\n\r\nSome standard needs to be created so that users need not worry about source compilation. It just should compile.\r\n\r\nRaghu Kodali\r\n<a>www.raghukodali.com</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'Ian Murdock et al seem to agree'
+    hostname: 83.177.0.159
+    created: '1169917537'
+    body: "(Are you moderating the comments? It should say so somewhere. Or did mine just disappear into cyberspace?) \r\n\r\nWell, take a look at http://www.linux-foundation.org/en/Packaging -- Ian Murdock and a lot of other people seem to agree and are working towards some kind of solution."
+-
+    name: ''
+    mail: ''
+    subject: 'Few options'
+    hostname: 195.150.224.49
+    created: '1169924943'
+    body: "There's autopackage, soon there'll be clicknrun and now there is some work done upon making binaries compatible with all systems :)\r\n\r\ncenebris\r\n\r\nPS Please make this site openid compatible :("
+-
+    name: ''
+    mail: ''
+    subject: solution
+    hostname: 212.46.126.63
+    created: '1169932868'
+    body: rtfm
+-
+    name: Tyler
+    mail: ''
+    subject: 'have you got an example?'
+    hostname: 142.177.138.165
+    created: '1169933321'
+    body: "<em>Unless the entire OS, and all its associated libraries and tools, have been built from source, it’s unlikely that user applications can be distributed effectively from source code. Gentoo was right, after all!</em>\r\n\r\nI haven't had much trouble with this, so I'm curious what your working on. Is it a problem with the program you want to install not being well written or clearly stating the dependencies? Or is it that your distro doesn't make it easy to get the libraries you need?\r\n\r\nThe only thing I've had to compile from scratch was the Phylip package. It had one dependency hitch, which required the X11 development libraries. Easily installed on Debian, and I'm off to the races. It was actually in the repos as well, but I need the latest version.\r\n\r\nI suspect part of the problem is the new distros that cater to newbies. They focus on easy and quick installation, at the expense of the development support you need if you want to use anything outside of the repositories.\r\n\r\n\r\nt"
+-
+    name: ''
+    mail: ''
+    subject: 'the choice'
+    hostname: 60.229.172.10
+    created: '1169938214'
+    body: "Firstly I don't think that compiling from source is all that difficult,...if the developers have done a good job of packaging the application. I am not a programmer and I really only use Linux as an end user environment and I regularly compile programs from source code with little problems.\r\n\r\nThere are also attempts at creating a unified packaging system out there, an example is autopackage. It is a fairly easy way to install things, but only limited projects are using it for their applications."
+-
+    name: 'Wouter Verhelst'
+    mail: ''
+    subject: Er
+    hostname: 81.165.19.247
+    created: '1169943487'
+    body: "I can't really agree to this. Writing portable software is <i>hard</i>; it doesn't suffice to just make an attempt, you also have to test it. By definition, testing software for portability requires you to run it on a whole bunch of different platforms.\r\n\r\nUsually it helps if you try two or three different platforms, but often even that is not enough..."
+-
+    name: ''
+    mail: ''
+    subject: 'the problem is that 95% of computer users can''t do that'
+    hostname: 71.196.86.62
+    created: '1169944819'
+    body: 'and you aren''t going to change them'
+-
+    name: ''
+    mail: ''
+    subject: 'GoboLinux?'
+    hostname: 68.1.159.113
+    created: '1169944820'
+    body: "Hi, this is my first comment on here, even though I come across the articles via Digg.\r\n\r\nAnyway, my suggestion would be <a href=\"http://www.gobolinux.org\">GoboLinux</a>.\r\n\r\nWhy?\r\n\r\nBecause, with its filesystem hierarchy and \"Compile\" utility (also known as a \"poor man's Portage\"), you can download and install applications in tar.gz form on the fly from any project website, all of it in GUI form.\r\n\r\nLittle dependency upon a managed, slow-moving repository of packages is needed.\r\n\r\nSo yeah, <a href=\"http://www.gobolinux.org\">GoboLinux</a>. Try it out.\r\n\r\nHave fun."
+-
+    name: cantormath
+    mail: ''
+    subject: 'This is only because you do not know how to use a computer.'
+    hostname: 68.111.49.87
+    created: '1169957444'
+    body: "This author is nothing but a microsoft advocate.  This is not factual at all.  99% of people can go there entire life without building a single package.  Open Source software just gives you the option, if you know how to  build a package, to build a package.  How does one build a package with non-FOSS (FREE OPEN SOURCE SOFTWARE)?  AH!? you cant......so if it is not open source, it is impossible....you have failed to mention that fact.  The Open Source part of Open Source is for people that know how to build software....not for the point-click engineers, like yourself.  \r\n\r\nFace it.  We are better then you, I am better, we are all better.  You are upset that you know nothing about computing.  You spend so much time writing articles about how stupid we are. ie) http://tinyurl.com/yukv3r\r\n You speak poorly about linux, and yet you DO NOT know how to use it at all.  You cannot upset us or change us because we do what we do for the love of it.  We do this to make the world a better place.  Finally, as many will explain to you, there is more money in open source then in the other stuff.....just not for you.\r\n\r\nYou are only hurting yourself with this FUD ( Fear, uncertainty and doubt).  \r\n\r\ncantormath.\r\n-- \r\n\"As we open our newspapers or watch our television screens, we seem to be continually assaulted by the fruits of Mankind's stupidity.\"\r\n-Roger Penrose"
+-
+    name: ''
+    mail: ''
+    subject: 'My opinion'
+    hostname: 74.138.18.221
+    created: '1170006932'
+    body: "I have to agree with the opinions that say that you don't know what your doing. Secondly I have to say, that I don't want you to use linux. I think trying to make a robust environment simpler so that any old joe blow can use it just makes Linux more like Microsoft. We will run into the same problems and issues trying to make Linux easier. Personally I run I a gentoo box with fluxbox WM, I don't care about you Ubuntu noobs running KDE with every GUI app in the world but still can't configure your network card. Learn the system. LINUX IS NOT A DESKTOP ENVIRONMENT! It is a development and server platform.\r\n\r\nLinux is not a Microsoft Killer and I don't want it to be, I want all those dumb jacks out there who don't want to learn to use a computer, to not pressure for development to make my platform weaker.\r\n\r\nThats my two cents."
+-
+    name: ''
+    mail: ''
+    subject: 'Not true....'
+    hostname: 86.123.192.184
+    created: '1170025438'
+    body: "I'm a simple computer user and i've tried a lot of distros in the last 2 years and couldn't find one who could be \"user friendly\" only \"eye-candy\". As a simple user i don't want to learn everithing about linux and how it works only for watching a movie or watching tv.. simple tings that don't work. A lot of users don't want to spend weeks just to make a program to compile/run... this is bullsh*t. You probably know too much and that blinded you from the truth... this is getting ugly and until someone steps in and say \"this is enaugh! we don't need 10000 distros, we don't need to waste weeks of our times just to recompile software for so many distros\" thing won't be so good...\r\n\r\nEverione is looking for something simple, easy to work with and linux ain't that !\r\n\r\n\"Open Source is for people that know how to build software....not for the point-click engineers\" well... there are a lot more \"point-click engineers\", than gurus like yourself. This is an excuse for letting linux evolve this way... it must change soon or it will get verry messy..."
+-
+    name: ''
+    mail: ''
+    subject: 'Reality of Windows software development'
+    hostname: 212.183.57.165
+    created: '1170107085'
+    body: "It's nice how some of you are worried that average users might reject GNU/Linux because of the troubles they have while compiling packages. Er, excuse me, how often do average users compile packages under GNU/Linux???\r\n\r\n<ol>\r\n<li>All applications that average users need come pre-built, at the click of the mouse in their distribution's package manager</li>\r\n<li>Software developers (or those with skills in this area) will try cutting-edge packages from time to time and will have to build from sources. In my experience, for important packages, that's flawless most of the time.</li>\r\n<li>Granted, average Windows users usually don't have to worry about compilation. After all, it's part of the Windows spirit that they <strong>won't get the sources</strong> in the first place.</li>\r\n<li>Software developers are not gods and not all projects are equal. There are some projects of high quality, some of lower quality and some projects are still immature. If you download version 0.11 of any software--Windows or GNU/Linux or other--don't wonder if there are compilation problems. For stable applications, the build process will be stable too.</li>\r\n</ol>\r\n\r\nIn my daytime job I'm a Windows software developer. When I pull up a year-old project from version control, I don't expect it to compile flawlessly. First, I'll have to find the correct version of the required third-party libraries, then I have to fix the drive letters that the previous developer forgot to remove from the build scripts--all under Windows. Software development is software development. Average users are average users. Keep the two separate."
+-
+    name: ''
+    mail: ''
+    subject: 'Linux is many things'
+    hostname: 200.90.81.210
+    created: '1170114806'
+    body: "Linux is not a desktop enviroment for you.... For me is the system with most potential to be the best desktop environment. We want it to be a desktop environment becouse it's free (becouse i don't want to pay for a software that cost more than my complicated electronic motherboard), robust and secure, especially secure (which means more money saving). I live in a country where is really hard to get a microsoft license, so I, a Ubuntu n00b (as you say), i want to use every GUI app in the world and still configure my network card.\r\n\r\nLinux is about choice... Your choice is to use a distribution destinated for development, my choice is to use a distribution destinated for a nice, beautiful, stable desktop, that doesn't make our platform weaker."
+-
+    name: Steve
+    mail: ''
+    subject: '99% of the world does not "know how to use a computer."'
+    hostname: 70.226.139.81
+    created: '1170128709'
+    body: "Like another poster above, I've installed and used Red Hat, Yellow Dog, Gentoo, Ubuntu, and a couple others along the way. You'd think I'd have learned not feed trolls, but here I am.\r\n\r\nI thought your post was a satire until I saw you had bothered to include a .sig. Of course, you've only had a username for 48 hours, so the jury is still out.\r\n\r\nOn to my point. If we really think Linux is better for both technological and philosophical reasons, that precludes us from being elitist assholes. Either we want people to use open source, or we don't want people to use open source. To limit it to some people isn't just arrogant, it's self-defeating.\r\n\r\nThe good news, open source is a whole ecosystem of software. If you want a distro that requires six hours and the sacrifice of a chicken to install an app, and your neighbor wants to be able to install it with one click, you can both have it."
+-
+    name: Steve
+    mail: ''
+    subject: 'Really?'
+    hostname: 70.226.139.81
+    created: '1170128828'
+    body: "Linux has been my primary desktop for eight years now, and I'm not a programmer or a sysadmin.\r\n\r\nWhere have you been?"
+-
+    name: ''
+    mail: ''
+    subject: 'Stop being silly'
+    hostname: 86.3.21.95
+    created: '1170129425'
+    body: "I fall out with distros too!\r\nI never fall out because a TASK is unacheivable.\r\nOf course the solution I have seen in XXYZ is beautiful but I can't compile the relevant library in XZYZ. Who gives a damn? If the pretty solution is better it will mean enough to someone (perhaps even me) to make it more widely available.\r\nOpen Source software is great. FOSS is Wonderful! I'm a c*** programmer an awful packager and an ok bug isolater. Some of my favourite tools have fallen by the wayside BUT the thing I got angry (excited?) enough about is available in every distro I have downloaded this year.\r\n./configure make make install is what we try and hide from users BUT it is what keeps us all moving forwards. So point out those GPLed programs that you like but don't work for you and we'll try and fix them or find something better but be aware my better might be your worse. So ask someone else aswell!"
+-
+    name: ''
+    mail: ''
+    subject: 'Then there is BSD...'
+    hostname: 83.227.186.34
+    created: '1170131098'
+    body: 'Where you can actually build everything (including the OS) from source, and it works.'
+-
+    name: ''
+    mail: ''
+    subject: 'Confirmed what?'
+    hostname: 24.186.7.252
+    created: '1170137280'
+    body: 'You go on about how you tried to customize things that an "average dude" would never do and then complain that it''s too hard for the average dude? Downloading an application with automatic dependency resolution means using something like APT or YUM. Also, some projects actually do provide tar balls that contain their core dependencies. When was the last time that you installed Windows software from source anyway? I''ve been using Debian or years and haven''t had to compile a single application since then. The chances are very high that someone already did that for you.'
+-
+    name: ''
+    mail: ''
+    subject: '95% of users'
+    hostname: 24.186.7.252
+    created: '1170137386'
+    body: '... aren''t compiling from source on *any* platform.'
+-
+    name: ''
+    mail: ''
+    subject: 'You''ve failed in your choice of how to use the distros.'
+    hostname: 68.122.191.144
+    created: '1170137669'
+    body: "There are a very large number of us who are happy Linux users who only use binaries. If I see a program only available as source code I consider it to not exist and ignore it. I don't feel I'm missing out on much, it's probably a beta or something difficult to use if they didn't bother with a package.\r\n\r\nEase of installation (and removal) is, for me, a significant advantage over Windows -- since I only deal with debs and rpms (95% of the time via an apt-get frontend), or the occasional standalone installer (like google earth's) which is merely the same as Windows.\r\n\r\nI don't recall ever compiling a program on Windows either. Is it really easier? I wasn't even aware it included the tools to compile."
+-
+    name: ducttapeBigSexy
+    mail: ''
+    subject: 'I''d have to agree'
+    hostname: 67.53.130.184
+    created: '1170137767'
+    body: "I personally am a software engineering student, and I'm interning at a local software company that makes Windows software.  And, trust me - compiling Windows software isn't easy either.\r\n\r\nAnd, Steven, what distro have you been using?  Most modern, user-friendly distros include a huge repo of software - plus, many times the official web site will include rpms or debs.  Heck, if anything, I'd say Linux is easier - unlike Windows, most Linux distros come with additional software preinstalled, such as an office suite, Palm connectors, media players, etc.  No having to wade through endless screens of an installation wizard.\r\n\r\nAnd, Windows is pretty nasty, just in other areas.  Honestly, is cleaning spyware infections out of the bowels of your registry really that easy?  Or, sitting on the phone with Microsoft trying to get your product activated a good use of your time?  Or, is that $200 dollars (at least) spent on a Windows license really a good use of your money?"
+-
+    name: ''
+    mail: ''
+    subject: 'RTFM?? WHAT?'
+    hostname: 201.217.121.240
+    created: '1170138000'
+    body: "Someone said \"rtfm\".\r\n\r\nIf you're suggesting \"rtfm\" to Ian, then you need to get a clue, because Ian practically WROTE TFM.\r\n\r\nSometimes I wish people replying \"rtfm\" would drop dead."
+-
+    name: ''
+    mail: ''
+    subject: 'What?'
+    hostname: 201.217.121.240
+    created: '1170138180'
+    body: "Are you crazy? You're talking about IAN MURDOCK.  Do you have a clue about who he is?  Does Debian ring a bell to you?  Debian is Ian's invention, and it has the single largest package repository on Earth.\r\n\r\nThrough your first sentence, your ignorance is showing blatantly.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Honestly...
+    hostname: 201.217.121.240
+    created: '1170138420'
+    body: "...this lump of comments has me convinced that vocally active morons should be neutered and their vocal cords excised.  By government!\r\n\r\nNever seen so many stupid baseless assertions and s*** slinging towards the author of the post (who is absolutely, squarely right).\r\n\r\nI, too, refuse to do the make install dance.  It's binary or it's nothing.  Hopefully the LSB talks produce both a usable deployment API for ISVs, and better package management tools and aids for independent software writers to package their wares."
+-
+    name: ''
+    mail: ''
+    subject: 'In the minority here but,,,'
+    hostname: 68.62.145.115
+    created: '1170140047'
+    body: 'I personal feel that a large chunk of that 95% shouldn''t be using a computer in the first place. Of course then I would be out of job, but truthfully most people are not able to really use a computer or want to use a computer. They just need a web kiosk or Cell phone. That is basiclly what the new Apple iPhone is, just the features that are most commonly used on a computer except games and that is what a game console is for.'
+-
+    name: ''
+    mail: ''
+    subject: 'Why Compile?'
+    hostname: 70.115.189.144
+    created: '1170141668'
+    body: "I've been using linux for almost 8 years and I have never compiled anything\r\nbecause I never tried to compile anything and never desired to use something that needed compiling.  When I was using Mandrake 7.x or 8.x, I would go to plf, add the repositories, then install the software with check boxes.  Pretty much all software in existence was on either Mandrake or through the PLF repositories.  Now I use Suse, and it is the same thing.  I use Red Hat at work and Red Carpet works like a charm.  That is 3 distros where the rules are:\r\n\r\n1.  Add a few repo's\r\n2.  Vuala\r\n\r\nMaybe people who use Gentoo, Ubuntu and and Debian are masochists.  Mandrake and Suse are popular with non-geeks for a reason.  If some software doesn't have a repo, don't use it and wait till some masochists compiles it and adds it to the repos.  Compiling isn't meant to be an end-user task.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Yes!
+    hostname: 66.92.54.220
+    created: '1170143146'
+    body: "You have very succinctly stated a fundamental problem of open source that always seemed to bother me and no one else.  I doubt there will ever be a single packaging standard (besides compiling code from a tarball) because every distro thinks its cool to reinvent package management.\r\n\r\nIf there was ever anything to miss from windows, it would be the binary installs.  Sure, who knows what its doing to your system--installing coporate rootkits or wreaking dll hell--but it crams the package somewhere into the depths of \"c:\\program files\" and usually didnt break your system.  Can't say the same for my gentoo experience a few years ago.\r\n\r\nI truly hope that the ever worshipped community will be infused with more people who just want stuff to work."
+-
+    name: yalu_fvd
+    mail: ''
+    subject: 'long live package management'
+    hostname: 217.136.223.26
+    created: '1170148005'
+    body: "Very true. It's been a complaint of Linux users for years, and the solutions provided up to now don't actually solve the problem, but are adding more complexity. The current system gives users a feeling of LESS controll instead of MORE controll. To quote my significant other \"If it's not in Synaptic, I can forget about it\". I don't even try to start explaining how to compile stuff.\r\n\r\nThe brighter side of the medal is that you can actually use package management, which is a safe and reliable way (in most distros) to install software. You are not forced to use dodgy installers which:\r\n<ol>\r\n<li> don't clean up afted theirselves\r\n<li> refuse to de-install (tried pushing \"remove\" button in config screen-software under windows on acrobat reader 5 minutes ago, told me that that program allready WAS installed (stupid me!)\r\n<li> require changes to the system (putting stuff in the windows\\[system[32]] directory, overriding certain registry keys,...)\r\n<li> have no reliable way to record changes made to the system\r\n<li> are 300 MB in size because everything's statically linked\r\n</ol>\r\n\r\nThe problem with the open source world is that there are many good standards but it's hard to choose which one to use (rpm-deb-...). So, we'll never agree on a standard packaging system. What are possible solutions and their respective problems?\r\n\r\n<dl>\r\n<dt>Include some program in your distro that will install dependencies of a source package</dt>\r\n<dd> It's actually not so very hard to write a system that searches for library dependencies during compile time. Actually, something like that exists for Debian: auto-apt. I tried it for a while and found it to be \"imperfect\":\r\n<ol>\r\n<li>For most source packages it downloads truckloads of perl modules, whereas the program would also perfectly compile without</li>\r\n<li>You still have to go to the configure, make, make install thing, however there are tools that do this (such as Gnu SourceInstaller or something)</li>\r\n<li>No clean way of removing software, however it's a small step to run \"checkinstall\" over it to create a package of this\r\n<li>Does only solve the dependency problem, you still have to <code>./configure --prefix=/usr/local/stow/foo-1.3</code> etc (don't tell me you install in /usr/local straight away).\r\n<li>Gnu autotools aren't the only build tools available (unserbuild, scons, old-fashioned makefiles,...)\r\n</ol>\r\n</dd>\r\n<dt>\r\nUse installer-builders like autopackage\r\n<dd>\r\n<ol>\r\n<li>\r\nAutopackage inherits a lot of the problems of \"setup.exe\" and manages to add a few of his own (this stuff installs in /usr by default!). </li>\r\n<li>Nobody actually uses it</li>\r\n<li>Nobody probably will use some means of resolving dependencies at source level, in the tarbal itsels (besides, how canyou differentiate between dependencies added by soruce installation and dependencies in the distro? What about dependencies on a specific version, like say: xpackage1.2 when 1.2.34 is installed by means of a package,...?</li>\r\n</ol>\r\n</dl>\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Wrong man!'
+    hostname: 212.0.110.2
+    created: '1170149067'
+    body: "I don´t agree with you. Just your first paragraph is true (and not even the last sentence)\r\n\r\nI am a developer, I know how to handle the situations exposed here, and I still believe this author is right.\r\n\r\nIf you believe you are better than the author, go and demonstrate him that _you_ make things the way he says: I mean, you write your code, test it in several platforms, and make sure it can compile and execute in all of them. Then you can say \"I am doing my job. If everyone did the same, things would be much easier, even for myself\". That would be constructive.\r\n\r\nOn the other hand, I also prefer things that work \"out of the box\". I am willing to \"improve\" things instead of fixing them. So, if a previous developer does her job, then I can improve her job by doing mine equally well, and everyone benefits from it, even who you call a \"point-click engineer\", which probably includes yourself under certain circunstances :-)\r\n\r\nProbably, even when you face this situation you get discouraged at first, just before going looking for a solution :-)\r\n\r\nSo, even if this is not a problem for you in the end, it is a field to improve.\r\n\r\nRegards,\r\nSergio\r\n\r\nPS: BTW, my grandma knows how to cook, do the laundry, iron, make kids grow up happily, and even how to play solitaires in a computer... don't ask her to understand how a computer works! (This can be useful in many other circumstances...)"
+-
+    name: ''
+    mail: ''
+    subject: 'hee, been down that road more than once and'
+    hostname: 70.145.242.52
+    created: '1170149792'
+    body: "I feel your pain. I see from the replies it did not take long for \"well my distros package manager....\" or \"xxx distro can build anything\" or \"why would the average user.....\" crop up.<P>\r\n\r\nRegarding the first. There are times you might want to try some app that isn't in your distro package manager. Duh. And the only thing you can get is a tarball.<P>\r\n\r\nRegarding the second, my distro can compile anything is bullshit. Not if the Makefiles or configure for example have a built in check that won't compile because one of your auto tools is to new a version. Sure you can get it to work but not without fangling configure or whatever. Seen that one now 3 times.<P>\r\n\r\nRegarding the third. Just what the hell is an average user anyway? Everytime I see that excuse invariably the image of Arthur Dent springs to mind trying to use his digital watch.<P>\r\n\r\nSo do we need a common package management? No not really. The various distros already have theirs and most times they work. When they don't work, personal experience tells me it has almost invariable been from some error introduced by the person building the package and not the package management code itself. I suppose though for binary distros it might be useful.<P>\r\n\r\nDo we need one for source code building? No not really. As the article mentioned there are the autotools stuff and for the most part works just fine. It's just getting the code authors to actually use them might be the hard part."
+-
+    name: ''
+    mail: ''
+    subject: Rubbish
+    hostname: 24.81.223.201
+    created: '1170152631'
+    body: "What is this tripe?\r\n\r\nSounds like someone couldn't get something to compile and decided to throw a hissy fit and call it news. No constructive suggestions. Not even any reasonable identification of the \"problem\", just a lot of misunderstandings and blathering.\r\n\r\nFor the seventeen zillionth time, \"So unless (until?) a common packaging format is created, and every distribution and developer adopts it (and I do mean every one) we’re never gone win this battle.\" is just flat out wrong. Packaging formats are IRRELEVANT. It's just as unlikely that you'll be able to use Red Hat packages on SUSE as it is that you'll be able to use Ubuntu ones - even though Ubuntu uses .deb, and both SUSE and Red Hat use .rpm. Why? BECAUSE THEY'RE DIFFERENT SODDING DISTRIBUTIONS. They package things differently. This makes up rather a lot of the difference between distributions. Even if they all used the same package format you STILL couldn't throw packages from any distro onto any other and expect it to work. So stop beating the wrong dead horse and get a freaking clue already.\r\n\r\nSheesh.\r\n\r\nGet it packaged, or package it yourself, or just deal with the issues of building from source and quit whining about it. Jeez. The problem is that source code is a sucky method of distributing software to end users. This is hardly news. The solution is to USE OTHER METHODS OF DISTRIBUTING SOFTWARE TO END USERS, which is what distributions have been doing ever since they were created (hell, that's WHY they were created in the first place), and something they're generally rather good at.\r\n\r\nadamw"
+-
+    name: 'Neil Darlow'
+    mail: ''
+    subject: 'I believe there are two causes of your difficulty'
+    hostname: 62.252.64.30
+    created: '1170153086'
+    body: "I believe there are two root causes to the difficulty experienced by the author in compiling software from source on a GNU/Linux distribution:\r\n\r\n1) Software developers can choose to make their software compile provided all required dependencies are available or they can go full-out to support building on multiple flavours of GNU/Linux. The former has advantages for software that aims to be cross-platform (by which I mean GNU/Linux, *BSD, MacOS X etc. but not necessarily Windows) the latter serves to make life easier for distribution packagers and those who routinely install from source. Neither approach is bad but the former case might be perceived as better for making software available to a potentially larger audience.\r\n\r\n2) GNU/Linux distributions do different things with their packaging and filesystem placement. Taking the need for dependencies as an example, Debian might split a piece of software 3 ways into separate packages i.e. basic libraries, runtime required or utilities and development headers. You might need 2 or all 3 of these packages to satisfy building of software from source and it's your responsibility to install them.\r\n\r\nI have used several GNU/Linux distributions (Red Hat, Debian, Mandrake, Gentoo and Ubuntu) with at least two years spent with each of them. In almost all cases I have had occasion to install software from source but this was always possible provided the required supporting and development packages for the particular distribution were installed beforehand. Often I had to read the documentation accompanying the source archive to determine which dependencies were required - diving straight into ./configure isn't always the best way to proceed.\r\n\r\nTo cite a recent experience, on Ubuntu, I found it necessary to build two kernel modules from source. These were for a PCI Wireless adapter (RT61STA) and Webcam (gspca). In both cases, Ubuntu provides broken support for the devices I chose to use and building from source was the only way to make them work. This was simply achieved through installing build-essential and   kernel-headers packages. OK, building a kernel module requires less in the way of dependent libraries than your typical software application but the principle is the same.\r\n\r\nThe moral of this is that building from source, under a packaged GNU/Linux distribution, should be undertaken with due care to the requirements of the software being built. This includes determining precisely what dependencies are required, what packages will satisfy them and what, if any, modifications the distribution has made to those dependent packages that might prevent a build from source completing successfully."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'On compiling - read me first!'
+    hostname: 84.5.42.146
+    created: '1170164448'
+    body: "Personally, I had to compile packages here and there. Usually,\r\n\r\n- you don't have to start compiling software right away; many times, distros that use similar packaging systems can share their packages. As such, I had several successes installing SuSE 32-bit packages on a Mandriva 64-bit system...\r\n\r\n- it helps to find the software's requirements: .configure will usually spell them out to you. If it doesn't, then yes, you can get angry at the author (but then, you should also peruse as much of the README and author notes as you can)\r\n\r\n- it helps to define your library paths: when you're not using the same distribution the developer did, you need to know that stuff like /usr/lib, /usr/share/lib, /usr/local/lib, /usr/lib64 etc. may be different from one distro to the other\r\n\r\n- if you can't find the software for your architecture, you may be forced to compile from sources: say, a i386-optimized software for your AMD64 platform. But then you ask for trouble.\r\n\r\n- don't forget to install -devel packages! Many compilation problems may come from the absence of header files\r\n\r\nUnder Windows, you may have trouble finding a compiler, you WILL have trouble installing an IDE, and you WILL have DLL conflicts. I prefer Linux 'compile it if you really want it' approach to M$'s \"you won't compile it, your system belongs to us\".\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Wouter Verhelst'
+    mail: ''
+    subject: Yup.
+    hostname: 195.144.77.46
+    created: '1170166408'
+    body: "<cite>Compiling isn't meant to be an end-user task.</cite>\r\n<p>Exactly; I can only agree with that. Well -- with the above quoted last sentence, that is. Not with the assertion that \"people who use Ubuntu and Debian are masochists\". I know I use Debian, and I'm not a masochist ;-)</p>"
+-
+    name: ''
+    mail: ''
+    subject: 'Gentoo isn''t as user-unfriendly as you say.'
+    hostname: 65.13.3.59
+    created: '1170170892'
+    body: 'Gentoo is getting a lot more user-friendly than it used to be - the preferred method of installation is a graphical installer, which even has the option of installing GNOME, KDE, or Xfce for you initially (with other useful things too). It has some graphical package managers coming along too, and there''s work being done on a faster portage. So it''s not so difficult to use gentoo as you say.'
+-
+    name: ''
+    mail: ''
+    subject: 'A typical end-user is not a developer'
+    hostname: 217.122.108.12
+    created: '1170175268'
+    body: "<cite>You could say I've given up - and I would say you're right. Every distro had failed me (read: became unusable) in some way after I began customizing it to my desires:</cite>\r\n\r\nIn other words, building a stable OS is not trivial thing, so changing core infrastructure in a distribution around on a whim will lead to problems.\r\n\r\nI always wondered why I always heard that FOSS is difficult and doesn't offer enough options. Now I know. We have end-users aspiring to do the things you normally leave to professional developers. So why would you freak around with your OS if you don't know the consequences and you are not willing to accept any? \r\n\r\nOut of the box most distros are rock solid. Problems usually occur if you mix in third party software in the base system. Hence don't compile libraries from source and don't use untrusted repositories. Stability issues and dependency hell will ensue.\r\n\r\nIt's funny that when somebody borks his FOSS OS he always brings out the flawed comparison with Windows. \"On Windows this never happens!\" Well, of course it doesn't happen. Windows doesn't really offer options to break the system core (at least since Windows 2000). All external packages are written with only one (or two) Windows versions in mind. The platform is locked down against user tampering and only MS sanctioned updates appear on Windows Update. An end-user is forbidden to mess up the system.\r\n\r\nWith FOSS you are not prohibited from messing up the system. Just because you can compile and you have the freedom to replace core system files on your own, doesn't mean you should though. Not if you don't know and aren't willing to accept the consequences. Don't blame user error on GNU/Linux. "
+-
+    name: ''
+    mail: ''
+    subject: Nonsense
+    hostname: 83.227.157.244
+    created: '1170184085'
+    body: "The software needed by most people already is compiled and available in Linux repositorires at least if you use some of the larger distros like Red Hat/Fedora/Centors, Novell/Suse or something Ubuntu/Debian.\r\nIf its not in the preconfigured repositories of your distro, there it is most likely available in other third party repositiories such as freshrpm (if you use fedora).\r\n\r\nCompiling software is for developers and packagers, and it works resonably well for people with the right skills. This is probably the problem, it works so well that people without the necessary skills actually tries to do it, and even get away with it quite frequently.\r\n\r\nOn windows and even MacOS-X we don't have this problems because most people will get utterly stuck on installing and configuring the necessary development tools to compile software from source. So they never dream of installing something on the bleeding edge. Instead they wait until it gets packaged as an easy installed package. Perhaps Linux users should do the same."
+-
+    name: ''
+    mail: ''
+    subject: Compile
+    hostname: 62.252.32.15
+    created: '1170184596'
+    body: "\"At the end of the day (because it takes at least a day to work all through the various packages) I’m left with 20 half-built projects, a problem that still needs solving, and a 16 hour hole in my life. It’s not too much to ask for code to compile is it? Have I become so impatient in my old age that anything that takes more than 2 hours to do, isn’t worth doing?\"\r\n\r\nYes, you are too impatient.\r\nNext time, instead of working on 20 half built projects, spend your time getting your development environment working properly. Then build just one project.\r\n\r\nThis is not rocket science, but it is computer science, and you have to take it seriously and be meticulous. Otherwise you will waste your time going round in circles.\r\n\r\n"
+-
+    name: chuck97224
+    mail: ''
+    subject: 're:  RTFM???'
+    hostname: 65.75.194.161
+    created: '1170184785'
+    body: "Yeah, I'm tired of hearing that \"RTFM\" crap too.  It is nothing more that a \"put down\" by someone who hasn't actually RTFM.  If they had RTFM, they would have posted a more intelligent reply.\r\n\r\nBesides, there are very few \"FM\" that contain anything current and valuable.  Let's face it.  No one likes to write documentation.   We all know that.  We all know that because we are all like that.  "
+-
+    name: ''
+    mail: ''
+    subject: 'This is not a software issue.'
+    hostname: 70.18.233.169
+    created: '1170184811'
+    body: "One thing the author, and several people commenting, fail to realize is that source is the only way to ensure that EVERYONE who wants to can use this software.\r\n\r\nThis makes the assumption that the software will compile (assuming you know how, and have the tools) in the first place.\r\n\r\nIf you insist on using binaries only, make a request to your distro. They need to package it or provide documentation for it. But this isn't a software issue, it's a social one.\r\n\r\nI often wonder what motivates people to use Linux/BSD/Solaris in the first place. Surely there was something broken on Windows or Mac OS X that drove you to Linux? Perhaps you are interested in protecting your Rights and Freedoms by using Free Software?\r\n\r\nThe idea that Free Software should devalue itself to cater to the \"average user\" is disgusting. Free Software should not cater to ANYONE. It should be flexible enough that a user can simply run a script, or install a package, or double click an icon that the application should end up working. It should, at the same time, be flexible enough that developers can easily manipulate or modify the source to weed out bugs, add or remove features. Only source provides this.\r\n\r\nWindows caters to the \"all depends in one self contained package\", if you want or need that, go for it. :) However, among professional users, I'm very much hearing cries for things that access to the source could solve. Version incompatibility between common software that dynamically linked libraries could solve. Vendor tie in that amounts (for business uses) to thousands of dollars a year in support costs. BSOD's when playing games and writing e-mail. No system is perfect, deal with it. Until you contribute something to solve it, you've only got so many options, and that goes FAR beyond software.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'How to hate windows in two easy steps'
+    hostname: 62.254.128.6
+    created: '1170184944'
+    body: "1. Download some software that isn’t pre-packaged for Windows, and try to build it.\r\n\r\n2. Er."
+-
+    name: ''
+    mail: ''
+    subject: 'More documentation is needed'
+    hostname: 83.181.101.148
+    created: '1170187096'
+    body: "The author is right, many free software packages have little documentation. More documentation or help from the creators would encourage more people to use the package and/or help.\r\n\r\nMartin Jasny"
+-
+    name: ''
+    mail: ''
+    subject: 'Yeah, I''m tired of hearing'
+    hostname: 68.145.127.139
+    created: '1170200364'
+    body: "<cite>Yeah, I'm tired of hearing that \"RTFM\" crap too. It is nothing more that a \"put down\" by someone who hasn't actually RTFM. If they had RTFM, they would have posted a more intelligent reply.\r\n<cite>\r\nBesides, there are very few \"FM\" that contain anything current and valuable. Let's face it. No one likes to write documentation. We all know that. We all know that because we are all like that.\r\n\r\n\r\nSee solution #28740: OpenBSD, where TFM is up to date.  However, I'm sure if you aren't willing to understand it, you will hate it even more than Linux.\r\n\r\n-MSC"
+-
+    name: ''
+    mail: ''
+    subject: 'tools 101'
+    hostname: 69.144.236.160
+    created: '1170211252'
+    body: "When most people decide they need something new they will make the time to research and make sure that it will work towards there needs.\r\n\r\nIf I need to cut something at home I will not grab a circular saw to cut my sandwich nor will I use a butter knife to trim the hand rail for my porch.  If I am shopping for a new car I would not consider a classic VW bug as a winter car nor would I choose a modern VW bug as a restoration project.\r\n\r\nThe volume of linux distros is good, they provide the users the tools to do the tasks they need/want.\r\n\r\nwhen changing os/distro take the time to research and find the one you want, you may not be spending much money one it but you might spend more time using it then the car you buy (at least I do).  Please don't do the random distro bounce without taking note of the diffrences, and please use that info when doing you next search at distrowatch.com (consider sharing that info).\r\n\r\nWho takes the motor out of their new car and sticks it in their classic car?  when your system is so out of date that you need to change something like a core lib, maybe it is time to upgrade? \r\n\r\nlike the guy above said it is not a software issue, take the time to think about you desicions \r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Sometimes, compiling doesn''t work'
+    hostname: 211.27.203.17
+    created: '1170211519'
+    body: "I've compiled many programs from source. Sometimes it works. Sometimes, the developer hasn't listed all the dependencies in TFM. Sometimes, the developer hasn't even written TFM, it's just a generic set of instructions. And, of course, we've all had the experience of running \"make\" and it throwing back errors that don't give you a clue as to what you're missing.\r\n\r\nThe fact is, source code is the only universal form to distribute a program in. An x86 binary is no use to people on PowerPC. But does source code really need to be difficult to install?\r\n\r\nGentoo makes it easy to install, through emerge. (I'm assuming the BSD systems do too). Debian systems can do the same trick, fetching source code from the repositories, resolving dependencies and building it.\r\n\r\nI've also installed programs that have GUI-based source installers. XFCE's graphical installer tells you exactly which of its dependencies you have and which you need, and once you've got all those it builds the environment from source. This is better than a binary installer, as it runs on all architectures and can build specifically for the target.\r\n\r\nWhat the FOSS world needs is not a universal binary packaging format, it's a universal source installer. A program where developers can type in what libraries are needed and what commands need to be run in order to compile, and it will build a specific source installer with links to every major package manager backend (for the automatic resolution of dependencies, and also for creating a native package for whatever distribution the source is being installed on).\r\n\r\nChris"
+-
+    name: ''
+    mail: ''
+    subject: 'You''re exactly right'
+    hostname: 69.17.73.250
+    created: '1170222481'
+    body: "This is why your \"joe average\" linux user should never try to install software unless it is included with his Linux distribution.  Would he try to install Linux software on a Mac, or Microsoft Windows 98 software on Microsoft Windows XP?  No.  Can it be done?  Yes, sometimes, if you know what you're doing.  The same can be said of installing some random software on your Linux box.  Unless you're sure you know what you're doing, don't even try.  Stick with the software that's pre-packaged for your distro.  Let somebody else do the work.\r\n\r\nWhat?  You want to run software that does not come with your distro?  You've got two choices.  Pick another distro or become an expert.  Nobody said life was going to be easy.  The one up-side with Linux is that if you _do_ decide to become an expert, the time you spend learning won't be wasted.    A Unix expert from 20 years ago would have little trouble adjusting to today's systems.\r\n\r\nKarl O. Pinc\r\nkop  meme  com"
+-
+    name: ''
+    mail: ''
+    subject: 'I Agree'
+    hostname: 201.254.68.70
+    created: '1170468983'
+    body: "Many linux users say that windows will never be secure and stable since it was not designed that way, stability and security are an afterthought.\r\nLinux was not designed to be used by average dude, it was not even designed to be used on a desktop computer. Linux was designed to be installed on a central computer and maintained by one or several professional administrators who dedicated their life to that job.\r\nSo let's face it, linux design is not as perfect as we think it is, and if we want it to work for <b>everybody</b> we need to stop being so dogmatic and start listening and considering the people that don't love linux as much as we do."
+-
+    name: ''
+    mail: ''
+    subject: 'In 100 years...'
+    hostname: 24.41.43.202
+    created: '1171908962'
+    body: '...the administration of computer systems (whatever they look like) will be done by computers -- as it should be.  And the sooner the better.  Those who say it isn''t so hard to compile from source and manually resolve dependencies and edit config files etc. are completely missing the point, which is that these are the kinds of things that computers CAN DO on their own and so SHOULD be done on their own for the vast majority of users.  It is a ridiculous waste of time for the normal user to have to do anything more than issue a command (probably telepathically in 2107) to install some necessary functionality (i.e. program).  Again, the sooner this happens the better.'
+-
+    name: ''
+    mail: ''
+    subject: 'Christ if this isnt the truth'
+    hostname: 71.127.82.63
+    created: '1171943057'
+    body: "Im no computer illiterate idiot, I set up my first linux system in 1996 or so, Slackware, back in the days before you just downloaded a .iso and burned a bootable install CD.\r\n\r\nEvery time since then that Ive attempted to use linux, its ended in either total disaster, or lacking some piece of software that I need which forces me back to windows.\r\n\r\nMost recently I installed Ubuntu 6.10 on my laptop, my requirements were very simple. I needed a word processor, I needed a useable CAD package, and I needed a decent CNC G-code editor. I wanted capability to wardrive, and to toy around with networks.\r\n\r\nUbuntu provided me with OpenOffice, however the others were more difficult. Q-Cad, the most professionally supported CAD package for linux was an abomination, evidently they hired a drunken monkey to design the interface. I couldnt find a single G-Code editor, browsing SourceForge turned up a few with 1 developer and absolutely no progress.\r\n\r\nKismet took care of wardriving, except poking gpsd into working was more like voodoo magic, (Plug in GPS, start gpsd before the GPS times out with no connection from the computer, hope gpsd actually works this time...) except Kismet was producing trash from the wifi card. Something a couple days of researching various forums failed to fix.\r\n\r\nThen the straw that drove me back to windows, I bought a Targus laptop mouse, I wanted something small I could toss in my laptop bag. Except there werent any linux drivers for the mouse. The only help I could find from other linux users was an article written by someone where they listed page after page of console commands, then said \"Now that I set the mouse up...\" WITHOUT SAYING HOW HE SET IT UP.\r\n\r\nSo I reinstalled XP. Now I just use Office, AutoCAD, AutoEditNC, and other tools. Free? Nope, but they actually work."
+-
+    name: ''
+    mail: ''
+    subject: 'Let me understand you completely --'
+    hostname: 208.191.93.169
+    created: '1172719253'
+    body: "You want my mother, who knows nothing about compiling software, to build software from source code?\r\n\r\nWe're talking about <strong>average users</strong> here, right?\r\n\r\nThe original author of this piece and those who agree with him are missing out on a huge point here: Average users do not install packages from source.\r\n\r\nWhen I began using Linux in 1995, I had to learn how to build things from source on the system. I'm a programmer by trade, so it wasn't that great of a leap for me to become acquainted with the lay of the filesystem hierarchy, how the linker works, where the appropriate config files are, and the proper use of make and the GNU auto-tool chain.\r\n\r\nHowever, you want to criticize <em>every Linux distribution you've tried</em> for failing to make things easy enough so that my mother, the average user, can install software from source?!?\r\n\r\nThat's an outlandish claim; show me a single popular program for OS X or XP that is compiled during installation. If you do, I will recant. If you cannot (and I don't believe you can), you need to seriously reconsider being critical of an operating system which gives you the ability to compile from source <em>even if you have to read a manual to do so</em>.\r\n"
+-
+    name: krendoshazin
+    mail: ''
+    subject: Interesting
+    hostname: 82.43.139.180
+    created: '1201362541'
+    body: "Quite frankly I'm surprised that anyone would even bother to take the time to complain about this. Compiling from source is not easy, and that's precisely the reason that pre-packaged distros exist in the first place.\r\n\r\nIt seems to me that rather than saying \"I'm unable to compile this, but I shall learn how\", you've decided to instead attack the very act of compiling rather than appreciate for a moment what people have to do to bring you this so called \"user friendliness\".\r\n\r\nIt reminds me of people who say \"Linux should be..\", if you think Linux should be easier you make/use an easy distro, you don't go on a crusade to change the very core foundation of what 'Linux' is."
+-
+    name: krendoshazin
+    mail: ''
+    subject: addendum
+    hostname: 82.43.139.180
+    created: '1201363194'
+    body: "GNU/Linux is not Windows, and it requires a higher learning curve, people who think that because they've mastered Windows that this somehow makes them a technical genius are kidding themselves. \r\nYou fail to appreciate how much is done for you in the background, then you assume you can easily master an operating system like GNU/Linux only to discover what is really involved when the 'user-friendliness' is taken away from you.\r\n\r\nIf you want everything done for you or you're not prepared to learn something in order to get something done, then ask yourself if this is the right operating system for you."

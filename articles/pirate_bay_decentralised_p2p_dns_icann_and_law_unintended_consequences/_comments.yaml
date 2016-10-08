@@ -1,0 +1,21 @@
+-
+    name: DASHWORLDS
+    mail: ''
+    subject: 'Dashcom (not Dotcom)'
+    hostname: 86.2.179.197
+    created: '1296189593'
+    body: "Ok, so it may not be exactly what you had in mind, but we’re trying to do our bit here too.\r\n\r\nWe’ve developed a parallel internet offering Brand New \"Dash\" and \"Dashcom\" domain names as an alternative to the over 200 million \"Dot\" and \"Dotcoms\" already registered.\r\n\r\nDashworlds.com provides free domains in the format http://software-com and http://free-software (examples only).  Totally outside the realm and control of ICANN, you can create any domain or any TLD in any language, instantly and at no cost (and of course Dashcoms can't collide with Dotcoms).\r\n\r\nCurrently, resolution is via an APP but there’s also an ISP link-in that negates that need.  Yes, we've encountered wildly diverse opinion, yet there are now members and users in over 90 countries worldwide, with numbers increasing daily.\r\n\r\nThings change and grow.  Not-so-long ago, people would have thought a web based magazine such as this to be a waste of time, effort and money.  After all why would anyone want to fork out for hugely expensive computers, sign up for extra phone lines, buy modems and routers, buy an OS, learn how to use it all....Just so they could read a magazine?....Why?....When all they had to do was walk down to the local store.  \r\n\r\nHaving  just one Internet in infinite cyberspace is like saying you can go visit anywhere in America just as long as you stick to route 66.  So today, just as in the USA (and everywhere else in the world) your Internet has more than one road to travel.\r\n\r\nNo, it's not exactly the type of system you've described in your article, but it's the first real and viable alternative to hit the Internet.  It works and it’s growing."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'it''s not free software'
+    hostname: 62.140.212.3
+    created: '1296480498'
+    body: "Whatever the pros and cons of bottle-necking my browser through your servers (as opposed to my own DNS servers for example) and associated privacy concerns there is also the issue that the \"APP\" is a non-free browser plugin. I'm not sure many readers of this site would get past that really.\r\n\r\nThis is a non-starter if you ask me as it just relocates the issue from ICANN to you. I presume you have shareholders who may or may not have concerns over the sort of information you route to?\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: FlightOfStairs
+    mail: ''
+    subject: 'What about'
+    hostname: 80.1.123.41
+    created: '1296542508'
+    body: "What about authentication?\r\n\r\nPresumably you always want thepiratebay.org to resolve to the same host, and allow the host to change if the domain is sold etc. How do you stop unauthorised people from changing it while allowing authorised ones to do so?\r\n\r\nYou could cryptographically sign the domain so that only a matching signiture will be accepted when you connect, but then the first time you connect you'll have no guarentee you've got the same site.\r\n\r\nA CA would fix that too, but then you've got centralized control that a govornment could exploit."

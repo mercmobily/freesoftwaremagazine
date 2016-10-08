@@ -1,0 +1,7 @@
+-
+    name: ukh
+    mail: ''
+    subject: 'broken link'
+    hostname: 130.226.47.227
+    created: '1200652896'
+    body: "The link to \"How to spring-clean an Apt-based distro\" is currently broken.  Try\r\n<code>http://www.freesoftwaremagazine.com/blogs/how_to_spring_clean_an_apt_based_distro</code>"

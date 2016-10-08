@@ -1,0 +1,70 @@
+-
+    name: god
+    mail: ''
+    subject: 'Comments from the old system'
+    hostname: 203.59.90.115
+    created: '1143729857'
+    body: "<strong>From</strong>: Joe User \r\n<strong>Url</strong>: http://www.centos.org/\r\n<strong>Date</strong>: 2006-02-23\r\n<strong>Subject:</strong> Um... did we miss something? http://www.centos.org/\r\n\r\n\r\nhttp://www.centos.org/\r\n\r\n\r\n\r\n\"You could rebuild Red Hat Enterprise from source as long as you removed all Red Hat trademarks, but thatÃ‚â€™s a lot of extra workÃ‚â€”and youÃ‚â€™d have to follow Red HatÃ‚â€™s agenda for its distribution, which you couldnÃ‚â€™t have any input to?\"\r\n\r\n\r\n\r\nRed Hat Enterprise, completely Red Hat free.\r\n\r\n\r\n\r\nYeah yeah, of course I'm pointing out a very serious oversight on your part, and of course you'll come back and say \"Well uh, we like, knew about CentOS, but uh, we *actually* didn't want to use CentOS for XXX \"technical\" reason\" - which really means \"we think Debian is teh l33t\".\r\n\r\n<hr/>\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'RE: Um... did we miss something? http://www.centos.org/'
+    hostname: 15.207.255.7
+    created: '1157468786'
+    body: "Wow, a great job of knocking at what, for me, was a well crafted and (most importantly) /interesting/ article.\r\n\r\nI'm no Debian fanboy; I happen to be writing this off my Fedora Core 5 box at work. I do, however, appreciate the technical superiority in apt et al and the argument for needing it that is presented here.\r\n\r\nI would imagine that very few people would have any problem with the underlying point you're making. It *is* a valid one. The problem I perceive is in the way you present it: would you have spoken to the author of this article in this way if you met him on the street? Is this system /any/ different??\r\n\r\nOK, maybe I sound old fashioned - \"a few manners in the youth of today wouldn't go amiss\". Bite me - I'm 18 :o)\r\n\r\nSo yes, Debian may or may not be \"teh l33t\", it may or may not be inferior to CentOS. For what it's worth, I support the whole team around 64Studio: they've made an informed decision, and one that they feel is the right one. Such is the joy of the GNU Generation. You're free to choose, nobody rams this article, or the OS it speaks of down your throat.\r\n\r\nFunny how freedom of choice is just too much for some to handle.\r\n\r\nOnce again - thanks for a great article Daniel. Props out to you.\r\n\r\nCheers,\r\nPete \"Not-afraid-to-give-out-a-real-name\" C"
+-
+    name: 'Daniel James'
+    mail: ''
+    subject: 'Why we don''t use CentOS as a base'
+    hostname: 82.71.98.243
+    created: '1161635906'
+    body: "Thanks for the counter-argument, Pete :-) The primary reason we don't use CentOS as the base for 64 Studio is hinted at in the sentence that 'Joe User' quotes. If you have a one-way relationship with your upstream distribution, i.e. you take source from them but they never accept any patches from you, then the free software feedback loop is broken. As far as I'm aware, the CentOS project has no formal relationship with the team that builds RHEL, and while what CentOS does is permitted by various free software licences, it's hardly likely to be welcomed by Red Hat, since CentOS is specifically designed to undermine Red Hat's business model.\r\n\r\nBy contrast, 64 Studio lead developer Free Ekanayaka is an official Debian developer, and is actively involved in maintaining Debian packages that we use. So while we are only a small part of the wider Debian ecosystem, we do have a formal relationship with the official Debian project, and we are helping to fix bugs upstream, which benefits everyone.\r\n\r\nCheers!\r\n\r\nDaniel    "
+-
+    name: ''
+    mail: ''
+    subject: 'On point'
+    hostname: 206.136.32.215
+    created: '1165359849'
+    body: "Daniel, your comments on the expense and hegemony of mainstream creative software are on point.  Love the \"industry standard\" graphic -- not much choice indeed.  I've long thought that the Apple/Adobe chokehold on graphic design was as bad or worse than M$'s strangling of office suites.  Seems counterintuitive that creative types, who are by nature free-spirited, would subjugate themselves to corporate-ware.  Market consolidation, in addition to the problems you mention, leads to a homogenization of outlook and technique; the result is artistic works that are indistinguishable from one another.  I mean, how many different ways are there to reuse the same Photoshop filters?\r\n\r\nAre there any thoughts of bringing Enlightenment 17 into the fray?  64 Studio might partner nicely with Elive, for example, which already has Debian as its base."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"I mean, how many different'
+    hostname: 68.93.224.4
+    created: '1165607955'
+    body: "\"I mean, how many different ways are there to reuse the same Photoshop filters?\"\r\n\r\nI don't hear much said about it, but this encompasses one of my greatest disappointments with Photoshop, from the PoV of having used the GIMP: Photoshop filters don't seem to take any arguments. So there's only one effect possible.\r\n\r\nWith the GIMP, almost every filter has great flexibility controlled by input parameters. You can get really creative with these!\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Of course...'
+    hostname: 68.78.180.23
+    created: '1167733968'
+    body: 'How seriously can anyone really take a guy who talks about rebuilding Red Hat...  If you want a "technical reason" for not using CentOS or rebuilding Red Hat, it''s probably most technically because they both suck goat gonads.  Yes, I do like Debian, but my opinion is solely based on the fact that I''m a musician and prefer an OS that is stable.  apt-get is the l33t, and personally DOS > CenOS or Redhat for that matter.'
+-
+    name: ''
+    mail: ''
+    subject: 'Debian, RH, CentOS....'
+    hostname: 64.140.248.180
+    created: '1170131554'
+    body: "Aww, guys, why not toss LFS into the fray??? I care not about leetspeek, but if you have to name drop, here: LFS LFS LFS!\r\n\r\nSeriously, I believe there will be rabid support in the next few months for 64 bit Linux, and who better to field the issues than the ever vocal Debian userbase?? They already have top honors for facilitating Live from CD Knoppix.\r\n\r\nI say let the Debian folks have a go at it!"
+-
+    name: Supaplex
+    mail: cvgscote@hotmail.com
+    subject: 'They can install Debian from Windows now'
+    hostname: 166.70.62.199
+    created: '1178611123'
+    body: 'Free and Open Source Software has a snowball effect (to some degree).  There is a Debian installer now that Windows users can use to install Linux w/o any special media or other needs if they run any modern release of Windows.  I welcome the day when people prefer Linux more commonly as their OS of choice.  We''ll need to see more support in the Creative Applications (progress is slow, but welcome).  Eg, GimpShop has some moderate menu changes that''s more familiar to Photoshop users.  It''s just a matter of time before people start thinking outside the Windows box. :)'
+-
+    name: 'Anonymous visitor'
+    mail: robert_hiett_ii@yahoo.com
+    subject: 'i hear what you are saying... but...'
+    hostname: 209.160.97.236
+    created: '1193199369'
+    body: 'I really wish somebody would make an studio type distribution based apon centos.  I''ve run redhat from the since redhat 4.1, but then switched to debian this year, because i felt more packages were available and because i feel the free support is better and because i''ve always wanted to run it.  imho, debian rocks and i''m running 64studio as my primary os, though i wish you offered wineasio and windows VST support with wine(like jacklab does).  However having said that, i do feel rhel and centos are superior codebase from which to build from.  I''m hardley a developer but,  i can say, if somebody made a "studio" version of linux based apon redhat/centos , i would buy it in a heartbeat.  Running centos with all the applications i want is too much work(mostely audio/music creation apps).  Centos5 is the smoothest quality piece of work i''ve ever ran and it''s a shame that developers don''t migrate towards the best codebase for making of studio linux distributions.'
+-
+    name: 'Anonymous visitor'
+    mail: total_loss26@yahoo.com
+    subject: 'The RHEL Centos factor'
+    hostname: 165.166.194.111
+    created: '1195009366'
+    body: 'I really hope you keep using Debian as your base, not because I have any great admiration for it, but just because. Although I would rather see Red Hat used, that''s not possible. I do not like to see one distribution trying to undermine another, that is stupid. Microsoft is the enemy, not Red Hat. But CentOs and others like it feed off their success. I make my living from working on Red Hat boxes, not any other distribution. BTW, I like 64 Studio just the way it is and wish you much success and thanks for developing it.'

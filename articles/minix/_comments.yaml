@@ -1,0 +1,84 @@
+-
+    name: ''
+    mail: ''
+    subject: GNU/MINIX!!!!!
+    hostname: 82.119.167.190
+    created: '1170713538'
+    body: "Call it GNU/MINIX you f**king morons!!! After all it uses the GNU compiler at least!!\r\n\r\nWoaaaaah! License TOO free. Must kill, kill, kill...."
+-
+    name: ''
+    mail: ''
+    subject: 'Minix is a relic'
+    hostname: 69.231.239.12
+    created: '1170748129'
+    body: 'While useful for academic purposes, Minix is a bonafide relic. Interesting Oses are Linux, RTEMS, eCos and the various L4 variants ... '
+-
+    name: ''
+    mail: ''
+    subject: 'GNU/MINUX?'
+    hostname: 206.45.179.117
+    created: '1170748300'
+    body: "You're putting words in the mouths of \"GNU/Linux\" advocates that they do not say. Read the real argument.\r\n\r\nhttp://www.gnu.org/gnu/why-gnu-linux.html\r\n\r\nGNU was a project to create a free replacement of the operating system Unix. Unix was not a shell, it was not a hardware manager (kernel), it was not a C library, it was not a set of core commands, it was not a C compiler... Unix was an operating system that consisted of *all* of these things.\r\n\r\nGNU succeeded in creating free replacements for most of these pieces of Unix by 1991. One piece that was not yet complete was a hardware manager. (a kernel)\r\n\r\nAt that time Linus Torvalds started writing his own Unix like hardware manager (a kernel) called Linux. This project is what Linux *is* and has always been. It still bears that name, look of the project name part of the source tarball's file name:\r\nhttp://www.kernel.org/pub/linux/kernel/v2.6/linux-2.6.20.tar.gz\r\n\r\nWith all the major pieces of a Unix like operating system complete, people were able to combine GNU and Linux to make a Unix like operating system. They said to the world, \"look, we have a Unix like operating system here, it is called Linux!\".\r\n\r\nFree software advocates could just ignore this accident of history. After all, what really matters is the freedom of users right? But ignoring the situation fails to address a problem that giving GNU fair due helps address. Many people believe that idealism and radical views are inconsistent with the achievement of tangible results. GNU, a project born of extreme idealism and a very radical viewpoint is a significant counter example. In a world where free software users are constantly being tempted to give up their freedom, it is worth the hassle to point out that the most significant contribution to the world's most popular free software operating system was successfully built by radical idealists who were told they would never succeed in doing so.\r\n\r\n\r\nYou've also attacked copyleft by saying that free software advocates call non-copyleft free software licenses \"TOO free\".\r\n\r\nThis is bullshit.\r\n\r\nCopyright law gives people the POWER to control who can and can not copy information. Non-copyleft free software licenses are neutral, they leave this power intact. Copyleft free software licenses revoke this POWER so that all people can have the FREEDOM to make copies.\r\n\r\nCompilers give people the POWER to hide what a computer program does and to prevent changes. Non-copyleft free software licenses are neutral, they leave this power intact. Copyleft free software licenses revoke this POWER so that all people can have the FREEDOM to control and improve the instructions that process the information that is an important part of their lives.\r\n"
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: 'A learning experience'
+    hostname: 145.18.144.17
+    created: '1170758546'
+    body: 'I was impressed by the well thought approach to healing device driver issues. I believe the numerous technical solutions found in MINIX should be studied and understood by a wider audience.'
+-
+    name: mayur
+    mail: ''
+    subject: 'i like it.'
+    hostname: 203.77.196.69
+    created: '1171384416'
+    body: 'i like it.'
+-
+    name: ''
+    mail: ''
+    subject: 'You, sir, are *** troll'
+    hostname: 220.233.53.52
+    created: '1172093880'
+    body: "Which make me an idiot for responding.\r\n\r\nMinix doesn't require the GNU operating system to operate. Minix has its own operating system. Just because the GCC can run on the Minix OS doesn't mean that GNU OS is running on it. Since the GNU OS isn't running on the Minix OS, it doesn't require the name GNU/Minix\r\n\r\nLinux requires an operating system. Without this operating system, Linux doesn't do much of anything. Linux works very well with the GNU operating system. The combination operating system platform should be known as GNU/Linux. \r\n\r\nLicense too free? It doesn't matter which license is used, all that matters is that a free license is used. GPL is better at ensuring the user's freedom but the BSD license is much more preferable to any non-Free license."
+-
+    name: ''
+    mail: ''
+    subject: 'Minix is relevant to desktops'
+    hostname: 220.233.53.52
+    created: '1172094239'
+    body: "One thing the desktop world can use is more reliability. Minix aims to be a very reliable, self-healing operating system. For me, this reliability is worth the extra overhead of operating a microkernel based operating system.\r\n\r\nMore work on Minix still needs to be done. Things like Minix 3's memory management is incomplete. AFAIK, Minix still doesn't have dynamic linking support."
+-
+    name: ''
+    mail: ''
+    subject: 'Wrong - apparently it does not need GCC'
+    hostname: 70.161.125.11
+    created: '1173995084'
+    body: "http://linux.slashdot.org/comments.pl?sid=166182&threshold=1&commentsort=0&mode=thread&cid=13863100\r\n\r\nIt uses Amsterdam Compiler Kit.\r\n\r\nhttp://www.minix3.org/doc/environ.html"
+-
+    name: ''
+    mail: ''
+    subject: 'Linus did not convert minix into linux'
+    hostname: 83.103.128.218
+    created: '1174386898'
+    body: 'Linus wrote Linux from scratch, he may have been inspired by MINIX and other Unix OS but he did not convert minix into his own OS. MINIX and Linux are fundamentally different. Linux is a monolithic kernel and MINIX is a microkernel'
+-
+    name: ''
+    mail: ''
+    subject: 'Why Linux'
+    hostname: 203.118.156.111
+    created: '1174463917'
+    body: "It's worth pointing out that Linus Torvalds started Linux because he wasn't happy with the original licensing conditions on MINIX. In the early days, Prentice-Hall claimed copyright on it, and would not allow it to be redistributed separately from the Tanenbaum book. That meant that all (legitimate) users of MINIX had to buy a copy of the book!\r\n\r\nI believe this is no longer true with MINIX 3, but the damage has been done. Linux was able to prosper because it was Free Software from its early days, MINIX was not.\r\n\r\nLawrence D'Oliveiro"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Of MINIX, UNIX and Linux'
+    hostname: 84.100.56.81
+    created: '1175027130'
+    body: "Let's set things straight:\r\nUNIX was the basis for the GNU operating system: Richard M. Stallman wrote down the POSIX specifications and set out to write the GNU OS following those specs. Around that time, due to the sources of UNIX being locked down and costing a bundle to get, Alex Tanenbaum set out to write MINIX 1, due to his intimate knowledge of the original UNIX. By that time, the GNU OS was on the way and BSD Unix was too.\r\nHere come Linus Torvalds; he had a 386, was running MINIX on it and then wanted it to support pseudoterminals - something that the MINIX kernel couldn't support. So he set out to write his own, using MINIX as a base but rewriting the kernel from scratch - ending up with a new kernel running with the other MINIX tools.\r\nHaving freed the code (and gotten, because of the syadmin at the Helsinki U, a name for it), Linus had now Linux ready to go; due to Tanenbaum's unwillingness to make MINIX into something it wasn't (a production OS), people started using Linux on MINIX an then, due to it feeling too constricted, started porting GNU (and some MIT and BSD) tools to it and adapting Linux (the kernel) to those more advanced tools (MINIX is, initially, a very small system).\r\nAs such, very early Linux systems should have been called Minix/Linux, and current systems should be called GNU/Linux.\r\nWhat's best about this, is that starting with MINIX 2, all those free systems were POSIX compliant - meaning the hassle to port an application from one to another is actually quite low.\r\n\r\nNow, why is Linux more advanced than MINIX? Simply put, there was much more work done on it. Why are the two so opposed? Because Linus T and Alex T disagree on a few key points. In MINIX initially, the memory manager itself was run in user space (!) which led to a 25% performance hit. On the other hand, Linux integrates everything in kernel space - which make it potentially unstable. \r\nOn desktop or low-load systems, the two are pretty much equivalent. On high-performance systems or very tightly integrated systems though, Linux wins. Why? Because its integration allow it to go faster and save on resources, its modular design allows big chunks of unneeded stuff to be removed, and as such it can run by itself. Minix needs to create a user space, then switch stuff back and forth. While stability is here, on very tight (I mean, only a few Kb of RAM here - Linux can run from ROM) systems it won't work.\r\nIdeally, MINIX is indeed more stable than Linux; however, the latter has the edge on development (this can be corrected), is modular enough for today's applications (meaning it is in practice as good as MINIX), faster than MINIX (even Alex T agrees) and actually quite robust already.\r\nOf course, if Linux offered more user space drivers (there are only a few available now) and restricted kernel space to high performance drivers (memory manager, accelerated graphics and real-time I/O), then we'd have the best of both worlds.\r\nIronically enough, considering how several modules are now made (NTFS-3G comes to mind), it may actully become true when emphasis won't be on added features and improved performance anymore.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Virgil Anderson'
+    mail: vda@earthlink.net
+    subject: 'GNU / Minix / Nonsense'
+    hostname: 76.97.158.127
+    created: '1176088430'
+    body: "First I think Minix 3 is still a research system ...\r\nMitch - thanks for the history lesson - some of us remember GNU when it was followed by a string of invectives!  In a lot of ways Linus' kernel pulled GNU out of the \"research\" phase into the real world where things are expected to actually work.  GNU software has come a long way in the last ten or so years.  Seriously, I think we can thank all those people using the Linux kernel.  I have tried MINIX 3 - and despite all the hoopla it still won't run X-windows on any of my old machines (no virtual memory).  Supposedly they are working on that - but.  I don't know what they are using with it to run X, but it ain't the 100 dollar laptop.  I will re-evaluate when 3.1.3 comes out, but till then it is not robust enough to call industrial strength.  When I can start it and use X on my old pentium systems (which have actually run X pre kernel-2.4.24) - I and a few other people will be most seriously interested.  To get to the \"beyond research\" phase they need to add a memory server to the mix - yes the swap / pageable / virtual / whatever memory should run on one of those resurrectable device drivers.  My experience suggests virtual memory screw-ups cause more crashes than device drivers.  And no I won't buy the mythology that device drivers cause those virtual memory problems.  If they did your PC would never finish the IPL. When Minix-3 can actually fix that, it should be ready for prime time.  There are some great ideas involved in MINIX-3, and they will effect how future kernels work.  This should become more evident as we move into multi-core processors and highly threaded systems.  Think how much could be done with chips having 100 cores each running a minix like micro os using a highly integrated virtual interface.  Think how the Linux kernel will need to evolve to manage this.  Now, imagine what the mix will look like after 100 development cycles.  Ok, Scotty Beam us up!"

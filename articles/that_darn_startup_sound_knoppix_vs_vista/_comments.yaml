@@ -1,0 +1,63 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Quick fix for that sound'
+    hostname: 203.27.180.119
+    created: '1162338046'
+    body: 'There are a lot of workarounds for this. Here''s one: Create an audio file of just silence. Save it over the offending item with the same filename. <em>Viola</em>...or maybe another string instrument.'
+-
+    name: ''
+    mail: ''
+    subject: 'atleast it''s better than ubuntu''s'
+    hostname: 68.199.150.58
+    created: '1162356636'
+    body: 'I haven''t used Knoppix since Ubuntu came into the scene so I''m not sure what sound knoppix may have right now.  However I''m pretty sure that knoppix'' start up sound is much better than Ubuntu''s.  '
+-
+    name: ''
+    mail: ''
+    subject: 'How else can one know the sound subsystem is working?'
+    hostname: 12.158.148.131
+    created: '1162356713'
+    body: "I find the rather subdued voice not annoying at all.  But, then, I'm rarely booting in a crowded room.  ;-)\r\n\r\nMost of the time I want to know if KNOPPIX configured the sound on the system in question and the voice file confirms it to me.  When I am demonstrating KNOPPIX, the sound adds to the impression of the completeness of the Linux system.\r\n\r\nOtherwise, use the laptop's sound buttons to mute the audio output.\r\n"
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'sound button...'
+    hostname: 12.161.228.66
+    created: '1162375501'
+    body: 'You are assuming of course there is one, and that it works.  The sound is played BEFORE the desktop environment is actually started, so if there is special audio keys that are recognized in the desktop environment rather than in the bios, they will not be processed until after the sound is already playing.  Rather subdued is also relative; try it on a laptop with rather large speakers.  Since I do not boot Knoppix except to recover a damaged filesystem (extremely rare of course) or otherwise prep a laptop for free software use, I personally do not care that much about the issue, but I would find it very annoying under most conditions, and it gives me a good idea of how annoying and frustrating using a system (like Vista) where you can never disable startup sounds would likely be.'
+-
+    name: 'David Sugar'
+    mail: ''
+    subject: 'creating the audio file...'
+    hostname: 12.161.228.66
+    created: '1162375636'
+    body: 'You mean on the CD-R filesystem image? :)  Actually you can remove the .ogg in question entirely, and it will be silent also.  But again, a clever trick to accomplish for the average user who has it on a r/o media and just wants the sound of silence during boot.'
+-
+    name: ''
+    mail: ''
+    subject: 'Knoppix on a "flash"? Then use knoppix.sh on the flash to do it'
+    hostname: 75.80.173.93
+    created: '1162402065'
+    body: "A knoppix.sh file on the flash root, IIRC, will execute before the sound/xinit is run and with the new mergefs filesystem, you should be able to copy a blank.ogg file over the existing startup and shutdown ogg files with simple commands in the knoppix.sh script.\r\n\r\nYou'd want to copy the blank.ogg file over to the standard Linux filesystem and not the /cdrom/... filesystem since, as you mentioned, /cdrom/... is read-only.\r\n\r\nFun with Knoppix. :-) Klaus made a VERY flexible and capable system. Unlike MS Vista( a distant view )."
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'Nasty noises'
+    hostname: 210.10.177.139
+    created: '1162519582'
+    body: "I expect a programme to go about its business in silence unless I invite it to do otherwise. Another reason why I won't have Micro*!$#\r\non my computer at any price."
+-
+    name: ''
+    mail: ''
+    subject: 'Keep a headphone plug in your toolkit'
+    hostname: 66.92.66.20
+    created: '1162833615'
+    body: "Or even plug in some fully functional headphones before you boot...\r\n\r\nThe un-invited sound is the same problem that so many Myspace pages suffer from."
+-
+    name: oznoz
+    mail: agh9a@neurojet.com
+    subject: '"official method" while remastering'
+    hostname: 24.125.36.32
+    created: '1194884119'
+    body: "See http://www.knoppix.net/wiki/Knoppix_Remastering_Howto#Modifying.2FDisabling_the_startup_sound\r\n\r\nJust below it appears a similar instruction about the shutdown sound.\r\n\r\nThey seem to have left out the call to the function in the instructions, which appears in the function \"startkde\"."

@@ -1,0 +1,28 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'SSH remote management'
+    hostname: 68.93.227.150
+    created: '1239485324'
+    body: "Thanks for the articles you linked to. My Mom might also be called a \"silver surfer\" (nice coinage, BTW), although she's been using computers almost as long as I have, so I didn't have so much to worry about with teaching it to her (more often it was a matter of her being frustrated at Excel features which were missing in Gnumeric, etc -- sadly she's still hooked on Windows apps for some tasks).\r\n\r\nRegarding screens for far-sightedness (I'm old enough now to start noticing this problem myself, BTW), please note that it is the absolute size of the fonts and icons that matters, not the resolution. On a small monitor, setting the size really high can be quite limiting, and these days large LCD flat panel monitors are pretty cheap. My Mom now uses a _30-inch_ widescreen monitor which seems really huge to me, but it means that even with large fonts, she can get a fairly large amount of stuff on screen at once. This cost her something like $300, IIRC -- which is about what a new 12\" CRT cost when I started computing! It's worth considering.\r\n\r\nI tried to set up SSH access, but was stymied by the problem of accessing her system. We tried to get static IP, but it's just not available where she lives. So now she's on a variable IP satellite service.\r\n\r\nIs it possible to set such a machine up so I can remote access it by SSH? How would you do it?\r\n"
+-
+    name: ajt
+    mail: ''
+    subject: 'SSH and fonts'
+    hostname: 195.112.55.75
+    created: '1239645534'
+    body: "The font size I'm referring to is the actual size, a lot of people drop the resolution to make the font look larger rather than picking a larger font.\r\n\r\nSSH is a bit hit and miss, I use a small Dynamic DNS updater to update a public DNS, then I can SSH into it. You need to turn of the IP address change, as by default modern SSH clients will complain if the end IP address has changed - dynamic IP at the end point.\r\n\r\nI also only allow SSH login by certificate/keys, password login is turned off.\r\n\r\nFor my father everything was in standard Debian. I can post a list of all the packages I used, later on.\r\n\r\n-- \r\nIt's not magic, it's work!"
+-
+    name: ajt
+    mail: ''
+    subject: 'SSH and fonts'
+    hostname: 195.112.55.75
+    created: '1239645671'
+    body: "The font size I'm referring to is the actual size, a lot of people drop the resolution to make the font look larger rather than picking a larger font.\r\n\r\nSSH is a bit hit and miss, I use a small Dynamic DNS updater to update a public DNS, then I can SSH into it. You need to turn of the IP address change, as by default modern SSH clients will complain if the end IP address has changed - dynamic IP at the end point.\r\n\r\nI also only allow SSH login by certificate/keys, password login is turned off.\r\n\r\nFor my father everything was in standard Debian. I can post a list of all the packages I used, later on.\r\n\r\n-- \r\nIt's not magic, it's work!"
+-
+    name: ajt
+    mail: ''
+    subject: SSH
+    hostname: 195.112.55.75
+    created: '1239717683'
+    body: "SSH is easy enough, the hard bit is getting the IP address from a dynamic allocation to you. I use a dynamic IP service, the client software is in stock Debian, when my dad's machine connects it automatically updates the dynamic DNS and I can SSH in when I want.\r\n\r\nObviously the SSH settings need to be carefully set to keep script kiddies out, but that's all straight forward - turn off passwords for a start!\r\n\r\n-- \r\nIt's not magic, it's work!"

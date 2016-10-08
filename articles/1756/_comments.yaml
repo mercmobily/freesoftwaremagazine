@@ -1,0 +1,105 @@
+-
+    name: ''
+    mail: ''
+    subject: firefox
+    hostname: 81.15.162.4
+    created: '1157973890'
+    body: 'If you have Firefox, you can find manual how to easily speed up Firefox over <a href="http://www.mozila.pl/firefox-speed-up.html">speed up firefox</a>'
+-
+    name: ''
+    mail: ''
+    subject: 'More like an abusive relationship'
+    hostname: 216.150.131.207
+    created: '1157994384'
+    body: 'The drug habit analogy is an interesting one.  I''ll have to give it some more thought.  Personally I have been fond of saying that the continued use of Windows is analogous to <a href="http://uncensored.citadel.org/amoeba-readfile.php?filename=windows-abusive.txt">living in an abusive relationship</a>.  The parallels are striking.'
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: Abuse
+    hostname: 69.180.163.110
+    created: '1158023766'
+    body: "Ha! --> \"You have trouble ending the relationship, even though you know inside it's the right thing to do.\"\r\n\r\nThanks for your comment and the link.  I agree with your disclaimer on that page (it is yours?) -- I had some concern about offending some people that might think I was making light of drug addiction and abusive relationships.  That wasn't my intent at all, either.  I don't know that the addiction analogy is all that great but it gave me some mileage in writing about the move.\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'When I switched...'
+    hostname: 68.93.224.4
+    created: '1158042624'
+    body: "I was kind of lucky, because I was using a combination of Sun Solaris and Macintosh \"system something or other\" on what I guess was a \"G4\" in 1998-99[*] at work, so I was only using my home system for play anyway and had no particular motivation to be Windows compatible. After an incredibly depressing ordeal at trying to download a copy of Debian \"Slink\" over dialup, I realized the incredible value-for-money of cheap mail-order CDs.\r\n\r\nThen I installed the system. It was pretty awful as a desktop, but I was intrigued by some of the \"Unix\" software that I could run which used to be inaccessible to me. Especially all those free compilers (I had suffered a lot trying to pay for compilers on DOS and Windows on \"academic discounts\" and the like). I mostly program for fun, not profit, so I was pretty hesitant to pop out hundreds of dollars for a compiler even before I realized there was an alternative.\r\n\r\nBut I just bulldozed my way through, and managed to get it to do the things I needed most. I used the (non-free) Netscape browser for a long time, until Mozilla finally caught up in performance (i.e. went to 1.0). \r\n\r\nThe desktop experience has improved enormously since then, of course.\r\n\r\n[*] Clearly, I was not the one who picked Macintosh as the work platform. There was nothing especially wrong with it, but I've never been a particular fan of Macs, mainly because they've always been pricey. However, Solaris and Mac platforms have been very popular in the scientific community for a long time (because they are nice, and someone else is usually picking up the tab!).\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'I know how you feel'
+    hostname: 144.38.130.67
+    created: '1158106769'
+    body: "I started my journy into Linux a few years ago on an old AMD K6-400 that had finally given up the windows ghost. One of my admin friends loaded up Debian and while I loved the system I hated the fact that I didn't know how to administer it.  \r\n\r\nI bought a HP laptop soon after and after Windows got taken out by a particuarly bad case of Spyware I decided I was going to try out linux.  I wanted a 'starter' distro to play with found the Xandros 3.0 Open Circulation edition and installed it.  It was much better then installing windows and I learned a lot from it.  I could administer my own system and I even was productive.  \r\n\r\nOnce I got my feet wet with Xandros I felt confidant enough to handle a \"main\" distrobution and switched to Fedora Core 4.  WOW!  I loved the freedom I had. It worked great and I could do things in Linux I could only dream about on windows (like surf the net without spyware crashes :) ).  \r\n\r\nI've learned a lot about Linux just because I dived into it.  That's the best way to do it. Take \"Eeyore\" and give him a spin under linux.  Just remember, you have to find the Distro for you (and Eeyore if you have hardware issues).  If you don't like Ubunut, try Mepis.  Mepis isn't your cup of tea, give SUSE a shot.  It's a bit uncomfortable to begin with but it's worth it.  After a few months you won't miss windows and after a year you'll really wonder WHY you used it in the first place.  \r\n\r\nAnd when your trying to figure out if it's worth it...go shopping for a new PC.  Just the whole \"No windows CD for you\" thing is enough to make you scream.  \r\n\r\nLinux is a much better way to go and if you have friends who can help you...more power to you.  Either way, give it a shot.  You'll be glad you did."
+-
+    name: ''
+    mail: ''
+    subject: 'Ubuntu vs. Xubuntu'
+    hostname: 88.130.115.59
+    created: '1158155627'
+    body: "I'd suggest using Ubuntu or Kubuntu if you're looking for a beginner's system, as the respective graphical environments Gnome and KDE support, for instance, setting up the printer and other system settings. XFce on the other hand (in Xubuntu) doesn't try to be more than a window manager and doesn't have such utilities, which makes some administration tasks harder for the beginner. (I still prefer XFce to the others, but that's just me.)\r\n\r\nRobin"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: Thanks
+    hostname: 69.180.163.110
+    created: '1158183766'
+    body: 'Thanks, Robin.  I probably will try Ubuntu first.  (Soon, hopefully!)  No printer to set up on this one, but still.'
+-
+    name: ''
+    mail: ''
+    subject: 'Let your wife and kids try a LiveCD first, Scott!'
+    hostname: 81.0.182.133
+    created: '1158572548'
+    body: "Dear Scott, preparing for a migration is like preparing for your wedding - a lot of details you haven't thought about and everyone has an opinion. :-)\r\n\r\nOpenOffice.org 2 is not Microsoft Office\r\nGIMP is not Adobe Photoshop. \r\nGTK 2 with XP theme is not Windows XP\r\nKontact or Evolution is not Microsoft Outlook or Outlook Express\r\nMozilla Firefox is not Microsoft Internet Explorer\r\nTremulous is not Halo.\r\nPrinters/scanners/other periferals need drivers - do have them?\r\n\r\nDon't get me wrong - migrate - just without the migraine. Prepare the whole family.\r\n\r\nMost of the above software is available for Microsoft Windows, so install that and live with it for three months - yes, three months. Using either Cygwin or a LiveCD, let your family try to do what they normally do - how to find files, what menues to navigate, where is that extra hard drive if it is not mounted and how to mount it. The hardest part is probably the introduction of privileged/unpriviliged users. On Windows XP it's completely broken, on GNU/Linux it works like a charm, but if you don't know it is there and assume Windows-pre2000, they're in for a nasty surprise. \r\n\r\nDon't surprise the family who love you now. They cannot install none-GNU/Linux binaries and assume they will run. Muvee, copyprotected WMA files, fun/popular utilities don't work. WINE will probably suck a lot of the time, then again you may be lucky. You need have the alternatives ready BEFORE they get angry because this or that DOESN'T WORK, DAD! You don't want Microsoft Windows back on that machine before dinner, do you? Do you know enough, or do you need to educate yourself a bit more? LiveCD, LiveCD, LiveCD - and a paper notebook! :-)\r\n\r\nInstallation wise, a dual-boot with Microsoft Windows as the first alternative, autostarted after 3 seconds if GNU/Linux is not chosen, will probably be a good idea AFTER A BACKUP. I would have chosen openSUSE 10.1 myself, because you're up and running in 15 minutes, but Ubuntu is probably a very good choice too.\r\n\r\nGood luck, Scott!"
+-
+    name: ''
+    mail: ''
+    subject: 'Freespire?'
+    hostname: 199.131.112.111
+    created: '1158608959'
+    body: "I know it's only in beta and just barely gotten it's feet wet but maybe you could try Freespire on Eeyore?  Freespire comes in a LiveCD as well so it will cost you literally nothing to try.  That said, I have not tried it myself but I do have a CD ready to give it a go!  :-)\r\n\r\nJust wanted to add my .02 about U/K/Xubuntu and my experience.  I've been using Kubuntu for just over a year now as my exclusive desktop.  As many have already stated, you'll wonder why you didn't jump in much sooner.\r\n\r\n:-)"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: 'Thank you'
+    hostname: 69.180.163.110
+    created: '1158611359'
+    body: "Hi!  Thank you for your thoughtful comment and good advice.  In this case I'm fortunate that so far my wife is the only other one who uses this computer, and she really does stick to web browsing and spreadsheets.  She has started using OO.o Calc on Windows and it's going ok.  She did comment that one of the conveniences that Excel offers wasn't there so I need to investigate to see if there is a similar feature available.  I need to be responsive to this most important \"user\" :-)\r\n\r\nI have a baby daughter but she is a few years away from using a computer. (Although I did have her hammering on the keyboard the other day.)  This poor kid will be relentlessly indoctrinated in the free software ideology, but I hope I don't turn her in to one of those kids that is so political at a young age.  She needs to have fun and not worry about the politics for a good dozen years or so.  If I do my job well, she'll be fluent in both GNU/Linux and in Windows and will wonder why anyone would want to use Windows if they had any choice in the matter.  And hopefully not be unbearably smug about the whole thing.  And of course, I realize that none of my plans will go the way I imagine.\r\n\r\n----\r\n<a href=\"http://www.movingtofreedom.org/\" title=\"Freedom is on the March!\">http://www.movingtofreedom.org/</a>"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: Spirea
+    hostname: 69.180.163.110
+    created: '1158628004'
+    body: 'Unfortunately, <a href="http://www.freesoftwaremagazine.com/node/1766">Eeyore is dead</a>.  Thanks for mentioning Freespire.  I had heard of the other member of the Spire family, <em><a href="http://en.wikipedia.org/wiki/Linspire" title="Wikipedia - Linspire">Lin</a></em>, but not the bastard stepchild, <em><a href="http://en.wikipedia.org/wiki/Freespire" title="Wikipedia - Freespire">Free</a></em>.  It was interesting to read about both at Wikipedia.'
+-
+    name: ''
+    mail: ''
+    subject: sluggishness
+    hostname: 82.175.79.210
+    created: '1159363418'
+    body: "Hey Scott, that's a fun read, thanks! I feel I'm in a similar situation, having used Windows for over 10 years. I also use and advocate free (as in speech) software whenever I can (Firefox, Thunderbird, oOo, Eclipse, Audacity, Miranda, etc.) and run Ubuntu on a spare machine at home so I can play with it. The one thing that's always kept me from making the switch is the jerky-window-interface, the undesirable tearing-windows effect that's been haunting me since I first started my Linux adventure little over a year ago. My desktop just feels sluggish compared to XP. I've tried out all sorts of desktop environments (KDE, Gnome, Xfce & Blackbox) on different machines (also dual booting with XP on my 2.8 Mhz 2GB machine). Roamed lots of topics at the Ubuntu forums and tried different guides and howto's. As much as I learned from all that, it hasn't solve my problem. It just never feels as responsive as good ol' Windows does. I do have high hopes for Compiz & XGL, and I heard it will be supported in Edgy Eft, so perhaps that will do the trick for me.\r\n\r\nAnyway, thanks for the article!\r\n\r\nap"
+-
+    name: ''
+    mail: ''
+    subject: 'Sluggish?!?!?'
+    hostname: 82.53.115.142
+    created: '1159442773'
+    body: "AP,\r\n\r\nI am no expert. But... I moved to Linux *because* Windows XP was sluggish! I found Linux much, much faster and more responsive.\r\n\r\nMaybe you had a problem with your video drivers? I don't know. I am no expert. But... well, I just wanted to say that I had the OPPOSITE experience!"
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: Comparativeness
+    hostname: 69.180.163.110
+    created: '1159579280'
+    body: "Hi, ap.  You're welcome and thanks for your comment!\r\n\r\nI really like the feel of the Windows interface.  It feels polished to me, compared to what I first see when I experiment with GNU/Linux GUIs.  I think part of it is from not being familiar with the new environment.  I don't know about the tweaks and shortcuts that are available.  So I expect some issues to be resolved by learning how to use Gnome or KDE or whatever.  But I also expect some things just won't work as well.\r\n\r\nFor the most part with free software, I think it is as good and better as its proprietary counterparts, but I also think there are going to be some sacrifices to be made.  GNU/Linux doesn't have to do everything I do today in the same way -- I'll still make the switch."
+-
+    name: BitShifter
+    mail: ''
+    subject: 'True, windows is a hard'
+    hostname: 61.246.103.233
+    created: '1163683029'
+    body: 'True, windows is a hard habit to break. I''m new at this free software thing so I don''t really have a lot to say about this. But thanks to you, I''m slowly learning what''s best to use. Give me a couple of months and I''ll be kissing windows goodbye! Thanks and keep up the good work!'

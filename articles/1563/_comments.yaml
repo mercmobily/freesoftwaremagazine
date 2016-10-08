@@ -1,0 +1,21 @@
+-
+    name: aitorch
+    mail: ''
+    subject: 'Ubuntu Enterprise Edition (UEE)'
+    hostname: 83.52.157.150
+    created: '1148985035'
+    body: "The UEE will be maintained, in security terms, during more time than the normal versions. This is the diference, the enterprise edition could be installed in critical servers.\r\n\r\nAitor Carrera HernÃƒÂ¡ndez\r\n<a href=\"http://liquidbits.blogspot.com\">Liquidbits personal blog</a> "
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Well, it would make the most business sense to stick'
+    hostname: 66.118.56.214
+    created: '1149062313'
+    body: "IMHO, it's in Ubuntu's best interest to stick to their guns on this point. The \"community based\" and \"free\" labels are important goodwill property for the company, and they are easily lost if the project loses sight of its roots. I think Mark Shuttleworth knows that.\r\n\r\nI haven't personally tried Ubuntu, but use Debian proper. I'm attracted to the faster release cycles, though, as I'm constantly running rather out-of-date software (e.g. I hear a lot of buzz about the new Thunderbird and KDE/K-Office, but I'm still using the old ones).\r\n"
+-
+    name: dustypup
+    mail: ''
+    subject: 'Five years is a long time'
+    hostname: 205.206.110.253
+    created: '1149165231'
+    body: "All the releases prior to Ubuntu 6.06 came with 18 months of security updates. The upcoming release will have, as the subject states, FIVE years of security updates. To the best of my knowledge this has never been done before with a free (as in beer and speech) OS. Another thing that's different about this release is the length of the development period. Normally it is a 6 month cycle of releases whereas this version took 9 months...\r\n\r\nDusty"

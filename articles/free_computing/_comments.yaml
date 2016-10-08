@@ -1,0 +1,231 @@
+-
+    name: ''
+    mail: ''
+    subject: Thanks
+    hostname: 68.236.77.115
+    created: '1175604894'
+    body: 'Thanks for the article. Gotta love Phoebe!'
+-
+    name: ''
+    mail: ''
+    subject: 'More FUD'
+    hostname: 62.68.95.23
+    created: '1175611564'
+    body: "Free Software is good and all that, but a properly configured Win2K installation (preferrable configured with nLite) is still faster. And it doesn't require firewall or virus software if you close all the open ports and do not download suspicious files. I've installed Puppy Linux and Win2K on two machines and in both cases Windows interface felt snappier and more responsive. Also, Windows didn't consume as much memory as the Linux distributions.\r\n\r\nHowever, if you plan to use it as a no monitor home server, than I'd recommend going with Damn Small Linux."
+-
+    name: ''
+    mail: ''
+    subject: 'More FUD'
+    hostname: 165.98.157.37
+    created: '1175628906'
+    body: "My grandmother, parents and children wouldn't know what you are talking about. But they can use Ubuntu without getting viruses or spyware. Furthermore, Ubuntu doesn't get slower little by little, day after day like their old Windows installations did. In fact, now that they now how to use the auto-update feature, it gets faster and better little by little, day after day.\r\n\r\nDespite what many still claim, you don't have to be a geek to use GNU/Linux and you get safety and security as features \"out of the box\". And while you also don't need to be a geek to use Windows you do need to be one to get safety and security with it."
+-
+    name: ''
+    mail: ''
+    subject: 'Great article.'
+    hostname: 144.38.130.54
+    created: '1175652348'
+    body: "I know exactly what you mean.  I've had PII, PIII, and P4's i've put back into service using Linux that have even suprized me.  I've had very good luck turnning a pIII 600 into a media/education center for my kids.\r\n\r\nI picked up a Celron 1.7 with 256 Meg Ram at the local thrift store, picked up a nother 256 used ram chip from my local comp store and for $35 bucks I have a totally rockin machine that runs rings around most win boxes with real P4 processors in them.  It's made a great download box and secondary computer for family/guests.  \r\n\r\nThis is one of the best things about free software...i can run modern software on mature machines and get the top performance out of them.  I don't have to risk them to adware/spyware and I can use them in anyway I see fit without 'babying' them along or trying to close them to the outside world.  Best of all, I don't have to worry about rather I have a legal licence to run the OS or not...I just choose the best OS/Programs for the job and off I go.\r\n\r\nFree software opens the doors to many 'obsolete' systems.  It's like adding a fresh coat of paint to an old peice of furniture.  It's amazing how much better it looks afterwards."
+-
+    name: ''
+    mail: ''
+    subject: Nice..!!
+    hostname: 59.176.66.203
+    created: '1175688357'
+    body: "Nice no One throws a computer here.. in the junk yard, they will even use a Pentium I, they can earn them about 100$ for nothing ;)\r\n\r\nBy the way, try -- Zenwalk, www.zenwalk.org , a derivative of Slax."
+-
+    name: ''
+    mail: ''
+    subject: 'Puppy, Slax and Damn Small very good as *LiveCDs*.'
+    hostname: 129.105.104.122
+    created: '1175963445'
+    body: "A very good article, especially when there is no hard drive; or when a person wants to keep the Windows OS already there, and not do any partitioning. There <em>is</em> a bit of fiddling around to get a session up and running from a cold start, but it's actually not too bad: The LiveCD goes into the CDRom drive, and if the CDRom drive is not bootable, a Smart Boot Manager floppy goes into the diskette drive. A USB pen-drive will save one's configuration settings and personal files. And does anybody really care that this fiddling-around looks unprofessional? I doubt it! Since Puppy, Slax and Damn Small are running in RAM, a person is done fiddling once the Linux has loaded. That's not the case, of course, with e.g. Knoppix, which has to reference the CD as work progresses. The only additional fiddling one might want to do with Puppy, Slax or Damn Small is have a swap <em>file</em> on the hard drive (if there is a hard drive). A swap <em>partition</em> would of course require partitioning. \r\n\r\nBut eventually, a person may want to do an actual installation of Linux onto the hard drive. It's not really clear from their respective web sites if Puppy, Slax or Damn Small <em>truly</em> lend themselves to a full (Unix-type) installation. See Mark Gjerde's article «Less Buzz More Fizz» at <a href=\"http://os.newsforge.com/article.pl?sid=06/03/08/1833211&tid=2\">Newsforge</a> (comments section). I've assembled Mr Gjerde's several articles into a single PDF at <a href=\"http://www.esnips.com/doc/6de0ccec-3ee9-4ffd-8c51-f27d71c00b42/GRML_Review\">zumGlockenturm</a> . Mr Gjerde likes Grml Linux. \r\n\r\nEven if Puppy, Slax or Damn Small can be successfully installed, it's not clear if the package add-ons work the same way as they do from LiveCD. Slax packages for example do seem specifically designed for the LiveCD mode. For a true Unix-type install onto hard drive, I've concluded it's better to go with a distro that's designed to <em>be</em> installed rather than one where hard-drive installation is a <em>feature</em>. For an actual installation of Linux onto a PII or PIII, good candidates besides Grml include Fluxbuntu (see Distrowatch) and <a href=\"http://www.pcbypaul.com/absolute/\">Absolute Linux</a> (not on Distrowatch). \r\n\r\nSincerely,\r\n\r\n<a href=\"http://www.zumGlockenturm.org\">Roger</a>\r\n"
+-
+    name: 'Jeffery Hudson'
+    mail: ''
+    subject: 'What''s wrong with a full featured distro?'
+    hostname: 144.38.161.41
+    created: '1176160035'
+    body: "Forgot I could log in and make comments with my own name. :)\r\n\r\nPuppy, DSL, and other 'memory' distros are great for troubleshooting and other maintence things, but I really do think this article is talking about making a great working desktop with a full featured distro.  \r\n\r\nI've been able to turn Celron 600's into full service media centers with ubuntu and MEPISlite.  They are fast, useful and do any basic task I place before them.  For the older PII's you can use xubunut (or other xfce distros) and still have a speedy internet/email/wordprocessing machine.  That's the point of this article.  Taking 'legacy' hardware and showing people that with a bit of FOSS you can turn that 'outdated' throwaway box into a great computer with modern software on it."
+-
+    name: 'Robert Pogson'
+    mail: ''
+    subject: 'If you want a Pentium I to be snappy...'
+    hostname: 204.83.37.100
+    created: '1176176057'
+    body: "If you want a P I to be snappy, give it a 100 mb/s NIC and boot it from a Linux terminal server (an AMD64 with lots of resources will do nicely ;-) Such a client can do everything except show full screen video at high resolution and a bunch of them can run at the same time from one server.\r\n\r\nThe idea that \"it ('2000) doesn't require firewall or virus software if you close all the open ports and do not download suspicious files.\" is really quite strange. What is closing those ports if not a firewall? Semantics. How can you avoid downloading suspicious files when they could look like an image on a webpage and have pleasant names like fuzzy.jpg? Look what happened with the .ANI and others. Are you going to scan the files personally before passing them to IE? What a joke. Sure 2000 is better than some of the stuff out there but there is no way unmaintained software from MSFT will do anything faster than Linux except install malware.\r\n\r\nThe last time I worked with '2000 server, it needed rebooting so often the secretary knew how to do it. My Linux servers have always outperformed any Windows box I have had around to compare. They move more data per second on the same hardware, answer DHCP calls sooner, handle more simultaneous users and processes, cache files better, fragment discs less and I never have seen one crash from software I have installed and tested.\r\n\r\nA fanboy once told me he had a '2000 server that never crashed. He said he had set it up well and never changed anything on it. It crashed several times in the period I worked there when I sent print jobs through it. \r\n\r\nA problem is an opportunity."
+-
+    name: 'Robert Pogson'
+    mail: ''
+    subject: 'Old boxes.'
+    hostname: 204.83.37.100
+    created: '1176178173'
+    body: "One reason I favour using old boxes as thin clients of newer machines is that they are slower. An installation on a newish machine is limited by the speed of the CD drive or the network interface, not the CPU. The old machines may have a 4X CD, a 10 mb/s NIC and ATA33 IDE interface. A 12 minute installation of a full CD distro can take 2.5 hours on an old machine. The mini distros really help but a thin client is still better.\r\n\r\nAny place you need more than one machine, buy something cheap (in keeping with the theme of the article) and new to be a Linux terminal server. Install a second NIC if you want to be a firewall, too. Install Debian, K12LTSP, EdUbuntu, or something + LTSP and configure it to boot thin clients by PXE or etherboot. The old machines can slurp up a boot floppy (< 20 kb) loader and boot from the server from files cached in RAM on the server limited only by the 100 mb/s connection for speed. It takes less than a second to transfer the kernel image and initrd over and a few seconds to boot. I have seen P III with that other OS take a minute to boot from hard disk (spin up time, seeks plus more stuff to load), but as a thin client, boot in 20 s.\r\n\r\nFrom then on the user of the old clunker is running on the new machine and the old thing is only dealing with clicks and pix. It really is startling to see. People who are used to running on the old machine should be warned to avoid whiplash and other neck injuries. I am writing this from a PIII 500 MHz and I cannot tell the difference between this and running on the server itself. I have three seats on this one server and it could handle 30 if I had the equipment to connect. see <a href=\"http://www.freesoftwaremagazine.com/articles/linux_terminal_server\">Linux Terminal Server</a> in FSM.\r\n\r\nA problem is an opportunity."
+-
+    name: 'Anonymous visitor'
+    mail: anonymous@aol.com
+    subject: 'Installing to Hard Disk'
+    hostname: 167.127.24.25
+    created: '1176346319'
+    body: "In response to various comments above, it should be noted that the distros mentioned in this article install easily enough to hard disk.  All include menu selections specifically for this purpose.\r\n\r\nFor details see --\r\n\r\n<a href=\"http://www.puppylinux.com/hard-puppy.htm\">Puppy</a>\r\n\r\n<a href=\"http://www.geocities.com/slaxfansite/#boothd\">SLAX</a>\r\n\r\n<a href=\"http://www.watsky.net/instrux.html\">BeatrIX</a>\r\n\r\n<a href=\"http://www.damnsmalllinux.org/wiki/index.php/Installing_to_the_Hard_Disk\">DSL</a>\r\n\r\nAlso, check out Mr Pogson's excellent article on using older PCs as thin clients <a href=\"http://www.freesoftwaremagazine.com/articles/linux_terminal_server\">here</a>"
+-
+    name: ggmiller4
+    mail: ''
+    subject: 'finding new uses for older pcs'
+    hostname: 65.19.225.244
+    created: '1176494563'
+    body: "Linux works very well for our older pcs.  They run fairly quick on them (suprised me) and are stable, too.\r\n\r\nPlus you don't get the BSOD like the MS products.\r\n"
+-
+    name: Satchmo
+    mail: satchmo@leonardo.it
+    subject: 'My PII 350 has a new life'
+    hostname: 87.3.80.70
+    created: '1177496595'
+    body: 'My PII 350 has a new life with Debian Etch. It''s fast, stable, clean. A properly configured Debian works like a charm on such an old hardware, even with KDE.'
+-
+    name: aarontw
+    mail: aarontw@time.net.my
+    subject: 'How to revitalize a pentium II'
+    hostname: 202.165.7.99
+    created: '1177497241'
+    body: 'I have a dell Dell Insipron 7000, a Pentiun II notebook with 128MB of RAM, 20GB of hardisk, and a DVD drive. Which distro should I install for surf net & play music/movie? I have try DSL, but it will not detech my CD/DVD like my ubuntu on newer PC.'
+-
+    name: 'Anonymous visitor'
+    mail: tx78626@mail.com
+    subject: 'The browser issue...'
+    hostname: 67.79.10.136
+    created: '1177501704'
+    body: "The big caveat (that few seem to mention) about running Linux on old hardware is the web browser conudrum.  In Linux, there are only two to choose from; Opera 9 or Firefox, and both require a P3 or better and lots of RAM.  Meanwhile, IE6 in Windows (especially with <a href=\"http://www.maxthon.com\">Maxthon</a> installed) does everything Opera and Firefox can do, but only uses half the resources.  So, for a Pentium I or II machines, you'd be much better off installing \r\n<a href=\"http://www.google.com/search?hl=en&safe=off&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&hs=3bf&q=tinyXP+rev05&btnG=Search\">TinyXP</a>.  It only uses 48mb of RAM and installs very quickly.  Just be sure you have a video driver, because it doesn't include any.\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: metis1@mts.net
+    subject: 'Older or legacy hardware'
+    hostname: 142.161.145.70
+    created: '1177514215'
+    body: "Hello:\r\nMy name is Darrell I am one of the co-founders of Vector Linux(1989). We from the beginning set out to support legacy or older hardware we have a solution to everything starting with a 486 to a Pentium III. I am surprised you missed us !! As that is and always has been our Trademark. We include a Live CD version as well.\r\nMaybe let the folks know....\r\nhttp://www.vectorlinuix.com\r\nRegards\r\nDarrell"
+-
+    name: deadcabbit
+    mail: bakaohki@freemail.hu
+    subject: 'That''s what I do'
+    hostname: 80.98.233.43
+    created: '1177532993'
+    body: 'I have a dirt cheap old Siemens Scenic Pro M6 (P2 Deschutes, 266mhz) installed Debian and log into with ssh. Download manager, torrent leecher, file server, teamspeak communications server, ftp server, LAMP test zone - you name it :) Try beat this with Windows!'
+-
+    name: 'Anonymous visitor'
+    mail: janonymous@aol.com
+    subject: 'RE:  The "Browser Issue"...'
+    hostname: 167.127.24.25
+    created: '1177542146'
+    body: "One comment above states that \"In Linux, there are only two (browsers) to choose from; Opera 9 or Firefox, and both require a P3 or better and lots of RAM.\"\r\n\r\nNot so.  DSL bundles <a href=\"http://www.dillo.org\">Dillo</a> as its main browser.  Dillo requires 420K of RAM.\r\n\r\n<a href=\"http://www.mozilla.org\">Mozilla and SeaMonkey</a> are two more widely-popular Linux browsers.\r\n\r\n<a href=\"http://www.itp.uni-hannover.de/~kreutzm/en/lin_browser.html\">This web site</a> lists over 50 free browsers for Linux.  They span the gamut from the fast and light to the powerful and feature-packed.\r\n\r\nBrowsers are not a resource-consumption issue that should drive your operating system choice.  \r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: goodfth@msn.com
+    subject: 'That should be'
+    hostname: 12.199.85.218
+    created: '1177550640'
+    body: 'That should be <a href="http://www.vectorlinux.com">http://www.vectorlinux.com</a> above...it would help people find your distribution if you included the correct URL.'
+-
+    name: 'Anonymous visitor'
+    mail: dontaskme@example.com
+    subject: 'I call BS'
+    hostname: 69.154.28.70
+    created: '1177564122'
+    body: "If you feel that installing a stripped bare* _pirated_ copy of windows is going to do anything good for you, then you deserve the malware beating that's bound to occur. \r\n\r\nLinux also comes with video drivers(!) and all kinds of web browsers. Take your disinformation and get out of here.\r\n\r\n* bare as in it doesn't even include the ipconfig command"
+-
+    name: cato59
+    mail: ''
+    subject: revitilazing
+    hostname: 61.68.123.236
+    created: '1177577214'
+    body: "cato59\r\nThat is the best idea that I have heard for a long time to \r\nintroduce disadvantaged people to Linux"
+-
+    name: 'Anonymous visitor'
+    mail: nobody@nowhere.com
+    subject: Ubuntulite
+    hostname: 128.95.115.119
+    created: '1177614158'
+    body: "While some of the links are dead (http://www.ubuntux.org/ubuntu-lite-ubuntu-power-for-slow-machines), the idea isn't:  1) install from the alternate or server CD for a minimal system, 2) use apt-get to install packages that you'd like (such as an X server, etc. and it will handle dependencies), 3) have a really memory efficient, fast computing experience on minimal hardware, easy updates/access to large repository & learn more about linux!\r\n\r\nOn a PII laptop with 128 Mb ram, I have iceWM running with only 28 Mb used.  Wireless networking works via a PC Card.  Running AbiWord, Gnumeric, and Claws, it is only using ~75 Mb, with no swap.  And its speed is very acceptable.\r\n\r\n-Db"
+-
+    name: 'Anonymous visitor'
+    mail: anon@aol.com
+    subject: 'RE:'
+    hostname: 167.127.24.25
+    created: '1177615913'
+    body: "Tiny XP is not a legal product.  \r\n\r\nYour posting indicates that you prefer Microsoft products to Linux, so you should respect that company's legal stance on licensing.\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: user@company.com
+    subject: 'With that little memory,'
+    hostname: 172.162.186.124
+    created: '1177628717'
+    body: "With that little memory, you'll want to use leaner packages. Like Abiword instead of OpenOffice Writer. Try Debian, it's easy enough to install just the base system and then set up a lightweight window manager and a few basic apps:\r\n\r\n<code>apt-get install xorg xfce4 xdm dillo xchat sylpheed xmms nethack-x11</code>\r\n\r\nYou might prefer fluxbox instead of xfce4 (or install them both and add icewm too). Setting up DVD playback is easy too. Add a line for the Debian multimedia repository to /etc/apt/sources.list and install libdvdcss2 and xine-ui."
+-
+    name: 'Anonymous visitor'
+    mail: blackhole_54@yahoo.com
+    subject: 'Firefox on Minimal Hardware'
+    hostname: 149.9.0.27
+    created: '1177656316'
+    body: 'Firefox does <strong>not</strong> require a Pentium III.  I have run FF 1.0.6 under DSL on a 120 MHz Pentium I with 48 MB of ram (and a swap partition)!  A little sluggish, but usable.  I have also used FF 2.0 on a public computer running winXP on 400 MHZ Pentium II.  It runs fine.'
+-
+    name: 'Anonymous visitor'
+    mail: a@a.com
+    subject: 'From an ethical, efficiency'
+    hostname: 202.7.166.173
+    created: '1177681586'
+    body: "From an ethical, efficiency and a security standpoint, one should wipe the contents of the hard drive before using the computer. If you run the exsting nominally windows install, you essentially have introduced a computer for who knows what the history is, what malware is installed, what documents that could be on the computer etc. Also there will most likely be unintented crud running on the machine as well as a fragmented drive. Finally I think you may find, and i admit to not reading the EULA very well, nor do i have a copy to hand (funny that) the windows licence might not be transferable in this manner.\r\n\r\nAlways wipe the hdd, then put whatever you want back on windows/linux/other.\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: jtsheldon@mchsi.com
+    subject: 'many donated computers'
+    hostname: 198.209.170.9
+    created: '1177687057'
+    body: "Hi\r\n\r\nI just discoverd your wonderful mag because of a post at the forums..\r\n\r\nI've donated well onto a hundred and twenty computers with the Xandros 3.02 OCE on them...\r\n\r\nNot one has been returned, and, I've had several folks actively contact me to compliment me on the computer and introducing them to the wonderful world of Linux...\r\n\r\nI've had the OCE go onto as low as PII 330 mhz but not below 128 mb of ram....it ALWAYS found the onboard stuff, and until the supply started drying up, I usually installed an older rage card...it has always found those wonderful old HP printers... 500 to 900 series...but sadly they are going away also... always found the net...with ethernet or dialup... never did the wireless thing with them though...\r\n\r\nI standardized on 3.2 gig HDs with another as data drive..even smaller usually :)\r\n\r\nI even had one fellow who was developing Alzheimers and he played \"cribbage\" online...but always got the malware associated with such sites....his wife got one of the computers and he has used it with no problem...sadly he is approaching the end stages but still tries to play.... \r\n\r\nShe said she'll keep the computer, clean and spotless at his \"table\"... to remind her of better days.....\r\n\r\nSometimes we never REALLY know what will happen when we \"cast our bread on the waters\"....\r\n\r\nI'll donate to the mag today...great mag!\r\n\r\nwoodsmoke at forums Xandros"
+-
+    name: 'Anonymous visitor'
+    mail: ash_hooper@yahoo.com
+    subject: 'Epiphany is light and fast'
+    hostname: 58.28.154.74
+    created: '1177712713'
+    body: "Just to reply to the false dichotomy of Opera or Firefox, the Gnome project's Epiphany browser uses a heap less RAM than Firefox.  Epiphany will run fine on a low memory system where Firefox would begin to become sluggish after 30 minutes or so (especially with multiple tags).\r\n\r\nEpiphany has multi-tabs too, as well as tagged bookmarks and retains the Mozilla Gecko rendering engine.  It has a bunch of its own plugins including Seahorse (to let you do browser-integrated GPG de/encryption right there in your webmail) and can also use many Firefox-specific plugins. Check it out!"
+-
+    name: 'Anonymous visitor'
+    mail: ash_hooper@yahoo.com
+    subject: 'Ubuntu lightweight setup'
+    hostname: 58.28.154.74
+    created: '1177712886'
+    body: 'Hey! You just described exactly how I rebuild old laptops for people :-D'
+-
+    name: 'Andrew S'
+    mail: andrew@swinndesign.com
+    subject: 'stick to P3''s or greater'
+    hostname: 58.167.61.204
+    created: '1177720604'
+    body: "I have played around with a lot of older PCs, getting them back together for my own learning purposes and sometimes to perform meaningful work. My rule of thumb now is unless the old PC is a P3 or better, and a server/router isnt needed, it can stay in the bin.\r\n\r\nI have a few older machines, but I just don't run them due to their lack of power saving features. Virtualisation  with VMWare etc means one can run a virtual server without needing to pay the power costs of running a second PC (including environmental cost)."
+-
+    name: kevanf1
+    mail: ''
+    subject: 'Free PC''s (as in free beer)'
+    hostname: 87.113.73.245
+    created: '1178618253'
+    body: "Fantastic and thought provoking article, well done.  May I suggest another, alternative method of getting hold of what some people think is obsolete computers and parts.  Try joining your local Freecycle group and rejoice at the amount of bits you will see offered :-)\r\n\r\nThe main website address is:\r\n\r\nhttp://www.freecycle.org/\r\n\r\nI have personally been given about 10 or so PC's ranging from PII's to PIII's, a very nice server (not got around to actually determining what is under the hood, about 6 printers (lasers and inkjets), optical drives that only needed a firmware update, a load of LS120 disks (useful for small Linux distro's and loads of other bits and pieces.  Everytime I go to pick up bits from fellow Freecycle members I take along something like a live Ubuntu/Kubuntu disk and give it in the hope that they will then try Linux."
+-
+    name: 'Anonymous visitor'
+    mail: btmorris@gmail.com
+    subject: 'BSD Works Well Too!'
+    hostname: 66.184.94.98
+    created: '1178806079'
+    body: 'I realize this is a linux-fan article, and I am writing this from a linux box, but I have found that OpenBSD w/Gnome running on a 600Mhz PIII is a nice setup. Not for newbs, but it definitely makes a highly secure and stable setup for an older PC. '
+-
+    name: 'Anonymous visitor'
+    mail: btmorris@gmail.com
+    subject: OpenBSD
+    hostname: 66.184.94.98
+    created: '1178806569'
+    body: 'I have found that OpenBSD provides a secure, stable, and fairly responsive solution for these older computers. Not recommended for newbs though. '
+-
+    name: 'Anonymous visitor'
+    mail: btmorris@gmail.com
+    subject: 'Comments?'
+    hostname: 66.184.94.98
+    created: '1178807357'
+    body: 'Am I being filtered on comments? Are they maxed out? Why can''t I voice my comments? I''m doing this using Linux and OSS. '

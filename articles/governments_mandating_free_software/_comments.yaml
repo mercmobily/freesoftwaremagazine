@@ -1,0 +1,175 @@
+-
+    name: admin
+    mail: ''
+    subject: 'Enforcing freedom?'
+    hostname: 165.98.149.154
+    created: '1173581432'
+    body: 'Freedom is a big word with a lot of weight on it. And while most migrating governments are only mandating government use of free software, what would you think if the use of free software was mandated through all major public and private organisations as well? Is this more freedom or less? '
+-
+    name: 'Kevin Dean'
+    mail: ''
+    subject: 'Less is more'
+    hostname: 216.127.159.72
+    created: '1173584703'
+    body: "Free Software is all about choice. Free Software use without Freedom appreciation is useless to me, and as dangerous as unthinking use of non-Free software.\r\n\r\nAnd from a governmental perspective, less is more. The government should regulate itself, and corporations, not the mundane activities of the people."
+-
+    name: ''
+    mail: ''
+    subject: 'non-Copyright?'
+    hostname: 83.227.230.228
+    created: '1173588265'
+    body: "Under what heading would supporting total abolishment of copyright be placed?\r\n\r\nI don't think governments should be allowed to dictate how and what software I use, thus copyright is out of the question.\r\n\r\nIf we dont require copyleft mechanisms to define \"free software\" the abolishment of copyright might be seen as \"mandating the use of free software\".\r\n\r\nOr is this a \"different opinion\" alltogether?"
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: time...
+    hostname: 62.203.165.139
+    created: '1173606599'
+    body: "I think, it's still too early to force the use of free software in areas where people depend upon proprietary solutions. \r\nBut as time passes and free software (and free culture in general) gains even more momentum, I hope politicians will consider major copyright reforms: virtually anything electronically distributed should be free software or free content, by default (and not through licenses like the GPL or the CC). But it's still a long way to go..."
+-
+    name: ''
+    mail: ''
+    subject: 'I support a mandate'
+    hostname: 220.233.53.52
+    created: '1173617705'
+    body: "I support a governments decision to mandate Free software. Why? It makes so much sense for a government and public to support it. My arguments for this is the same as Dr. Felipe Pérez-Martí's arguments:\r\n<ul><li> EVERYBODY benefits from the free exchange of information. For me, this is the most important point.</li>\r\n<li> the residents and officials of the state have all the benefits of completely transparent software - all flaws and potential dangers are out in the open</li>\r\n<li> the local IT economy is stimulated - money that would have gone to other nations remain within the state.</li>\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Pay for a software developer'
+    hostname: 220.233.53.52
+    created: '1173617940'
+    body: "<cite> >I think, it's still too early to force the use of free software in areas where people depend upon proprietary solutions.</cite>\r\n\r\nFree software has the potential to be superior than any proprietary solution. If someone depends on a proprietary program because the Free solution is inadequate, the user should then improve it themselves. The point of free software is that the user is free to improve it for their own purpose. If the user is incapable of doing the act of improving software,  they should hire someone else (a software developer) to do it on their behalf. This point is especially relevant to a government because it does very good things to the local IT sector."
+-
+    name: 'Gianluca Pignalberi'
+    mail: ''
+    subject: 'Freedom?'
+    hostname: 62.11.9.137
+    created: '1173618001'
+    body: 'I just think no one should mandate either free or commercial (as non-free) software. He/she/it can (have to ;) ) recommend to use free software, and explain why. Responsible users and institutions will understand and switch to free software. At least in my opinion.'
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'right. one of those'
+    hostname: 62.203.165.139
+    created: '1173620996'
+    body: 'right. one of those institutions being a government and it''s departments.'
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'Commercial isn''t the same as proprietary'
+    hostname: 80.6.124.25
+    created: '1173651994'
+    body: "While it's true that most free software software isn't developed for commercial reasons, and most proprietary/nonfree software is, quite a lot of commercial free software exists, and the proportion of free software which is developed commercially is probably increasing. Therefore I don't recommend ever using the term \"commercial\" to refer to software which is proprietary. We're talking about freedom here, not price, and that term causes confusion about what we mean.\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: 'Gianluca Pignalberi'
+    mail: ''
+    subject: 'Commercial vs. non-free'
+    hostname: 62.11.7.78
+    created: '1173706734'
+    body: "You're absolutely right: I misused the term commercial, and for that reason I highlighted non-free. And, in fact, I didn't mention the fact that an organization could decrease the budget to avoid buying commercial, proprietary software. You can even buy free software, and that's not the point. Free software's advantages are others, and an organization should know them, and explain them, not mandate such software \"because\" (I can't translate better the Italian expression \"perché sì\", as we say children to mandate them something we think they couldn't understand).\r\nI know what free software is, and that the reason for using it at home and at work. But it seems to me that the most part of users doesn't even know what free software is (/They gave me Windows for free.../)\r\nAnd, at last, a nation should recommend, and not mandate, something useful and ethic. Afaik, software is not yet considered weapons (well, the most part)."
+-
+    name: 'Geoffrey Lehr'
+    mail: ''
+    subject: '"Because" works...'
+    hostname: 38.116.136.215
+    created: '1173718800'
+    body: '"Because" works, or "Because I say so." :-)'
+-
+    name: 'Geoffrey Lehr'
+    mail: ''
+    subject: 'Dept. only'
+    hostname: 38.116.136.215
+    created: '1173719302'
+    body: "I'm not a big fan of governments mandating _anything_, but inasmuch as they are a collective group of individuals working together of their own free will, such an organization should be able to decide for itself what it will use.  Mandating use of free software--or any software, for that matter--for groups other than itself (including its populace) defeats the point of the \"free\" in free software, no matter how well-intentioned the decision or how many myriad different packages there may be to satisfy this requirement. Of course, they could require that communications to and from the organization be in a particular (preferably open, standard) format, just not that communications between third parties were such.\r\n\r\nIn short: departmental only, otherwise it defeats the point."
+-
+    name: chp516
+    mail: ''
+    subject: 'Choosing Freedom is Citizen''s Freedom'
+    hostname: 61.187.64.120
+    created: '1173760735'
+    body: 'I doubt whether the Constitution of any country offer the government the right to mandate the use of a certain type of software. But I surely support free software and recommend everyone to use it.'
+-
+    name: choffee
+    mail: ''
+    subject: 'A governement should encourage free software of it''s own use.'
+    hostname: 62.69.64.93
+    created: '1173796011'
+    body: "A government should put in place the requirement for openness of information and long term future of data that would make using Open software nothing but obvious. A mandate to use only free software would not be workable as there is a lot of small apps that do not currently work in the free model. But it should require that it is not locked into the propiority model so that it can move and intergrate it's data into other systems without the permission or requirement of a single company.\r\n\r\nBy encouraging that openness in their internal systems they will then make other think about the lock that large corporations, or even small business have over thier data."
+-
+    name: mobilemail
+    mail: ''
+    subject: 'What does "government" + "Mandate" = ?'
+    hostname: 70.191.236.194
+    created: '1173797736'
+    body: "Those two words in the same sentence should be an automatic warning sign for all who approach.  Sure, some government mandates are necessary (not killing people is a good one),  but it seems a government can become inept either with too much power or too much work, the latter caused by too many mandates it has to enforce.  For example, how big is the documented US tax code now?\r\n     Also, when referencing \"the government\", to which governmental body are would this mandate be entrusted? Federal, state, municipal?  What if they all want to add a portion to the mandate, as occurs in traffic laws?\r\n     Economy and accountability should be the defining factors of how a government chooses their software, which in turn directs their choices in hardware.  Do it like a business must: Combine hardware, and software licensing costs, anticipated support costs, impact on current users (for example, how does going to open source infrastructure impact your 2000 PDA and Blackberry users), and look at productivity and ROI. Once the leader is identified, business sense should replace the need for a mandate. "
+-
+    name: ''
+    mail: ''
+    subject: 'only the format matters'
+    hostname: 89.80.147.73
+    created: '1173798951'
+    body: 'I don''t care at all which company/community ships my governments software as long as it is the "best" (in price, efficiency, security, etc). The only think I would expect from my government is that they use exclusively open standards also for in- and outside communication. If there is a closed source solution that can provide this, I won''t be against, freedom is in choice, not in the source code.'
+-
+    name: 'Mike Schwartz'
+    mail: ''
+    subject: 'governments also enforce patents, copyrights, etc.'
+    hostname: 72.165.47.186
+    created: '1173814108'
+    body: "I agree with most all of what AC said in \"only the format matters\" (Tue, 2007-03-13 08:15);\r\nfor example I think governments do have some responsibility to avoid \"forcing\" the citizens \r\n(e.g. tax payers) to use certain file formats, for stuff like tax forms e.g., especially in \r\ncases where the use of those file formats might require using certain \"non-free\" software.\r\n   But another angle (which may not be intended to be included in this \"poll\" survey) \r\n(sorry if I am off base here), is that governments also play an important role in enforcing\r\npatent rights, copyrights, etc. . I think that the term of copyright should be very limited\r\nfor computer software -- e.g. something like 3 years on \"executable\" or \"object\" code, and \r\nmaybe 10 years on the source code.  \r\n(I also think that copyright terms should be more limited for books, magazines, newspapers, \r\n and music - but that is probably \"way\" off topic...).\r\n  As for patents, I do not know how to correct the craziness of allowing them for software\r\n\"ideas\".  The set of all possible \"paths\" that a person could take, in getting ideas for \r\nhow to do something in software (especially where standards create some commonality in \r\nthe goals for what the software should \"do\"), is not a tree!  It is much more of a graph, or \r\nwhatever they call it.  (There can be many ways of arriving at a given \"right answer\"!).\r\nI just think that for almost all software \"inventions\", the patent system is not the right\r\nway to protect (or \"create\") the rights of the author/inventor. . I prefer copyright.\r\n  In general, I think that any time DRM \"seems\" to be needed, to enforce legal \"rights\", \r\nthere may be some suspicion that the seller is asking too high a price for the widget.\r\nI think hardly anyone would go to a lot of trouble to evade having to pay 0.99 or a dollar\r\nfor a song, in digital format.  This to me seems like a case where the price is reasonable.\r\nAlso, we know of cases where someone will pay for certain Gnu/Linux distro's,\r\nmaybe mainly because it comes with a certain level of support.  Again, the price sounds like\r\nit is correct, and the possibility of sharing with neighbors is not a problem, partly since\r\n\"most\" of what they are paying for, is probably the support.  For example, the opportunity\r\nto ask questions, and get technical help.  Sharing with neighbors might even lead to an\r\nincrease in their interest level, and maybe (eventually), new potential customers. \r\n  On the other hand, sometimes movies and software packages show up on the \"black market\" \r\nquickly, and one might suspect that, part of the reason is that the prices are too high.\r\nI don't think governments should be \"directly\" involved in setting the prices, but I also\r\nthink that publishers should find some kind of distribution system, such that they can charge\r\na price that either is so low that (for most customers) it is easier to just pay the price, \r\nor else somehow set up a system that customers (/users) can live with.  I am not saying \r\nthat DRM should be illegal, but I think the government should be doing less to criminalize \r\ntransactions between two consenting persons, one of whom gets, (from the other), a copy \r\nof some bit string (or file), such as some software or data or \"content\".  I think if the\r\n\"owner\" of the rights wants to sue, it should be a matter for civil court.\r\n\r\nMike Schwartz    \r\nGlendale  AZ\r\nschwartz@acm.org\r\nMike.L.Schwartz@gmail.com"
+-
+    name: ''
+    mail: ''
+    subject: 'Government Mandated Software'
+    hostname: 66.0.32.50
+    created: '1173873804'
+    body: 'I worked for the Yankee army for 33 years. They had two lists of software. One lit was the software everyone would use. The other was the software you could use if it was decided you had sufficient need for it. Any software not on the list could not be used. The viewpoint of what software capability you needed was very limited. For example, if you were a scientist and needed a symbolic algebra program or an analog to digital data collection program, and if the program was not on one of the two lists, you could not have it. In both these cases, there were no such programs on either list.'
+-
+    name: ''
+    mail: ''
+    subject: 'I tired of those who horse play with my life and civil liberties'
+    hostname: 152.163.97.19
+    created: '1173884285'
+    body: 'I am a real flesh and blood creature of spirit, and I am so absolutely adamant about my passive resistance in the field of PUNK ROCK THEORY and REALITY, that I have a thought to laugh at me asking for a dollar for a capitalist burger any way.  Don''t take away my right to say that I don''t want to be swine, nor the right to wear shit kickin'' gear.  I will do both.  I like my rights the same way, tough and like John Wayne and as mean as the most evil school toiletpaper, Rough and tough and don''t take no shit off of nobody!  Give me my computer rights like a old Texan might have said equaling back to the rainy frontere storm clouds, It will be raining down in Texas and it should rain on D.C.  That seems normal.'
+-
+    name: gumnut
+    mail: ''
+    subject: 'mandated software'
+    hostname: 59.101.120.95
+    created: '1173948248'
+    body: 'i use free software all the time but i dont aprove of something being forced apon us. we live in (hopefully) democratic countries and to force something on us like that would be placing us into the world of BIG BROTHER. keep it free but give people the choice'
+-
+    name: ''
+    mail: ''
+    subject: 'Let the Gov use free software not necessarily control citizens'
+    hostname: 208.8.12.50
+    created: '1174072117'
+    body: "I think the Governments should be encouraged to use open software products.\r\nHowever, I do not  believe that they should make any decision for their citizens.\r\nThe Government could use their example in encouraging the use of open software.  But they should not dictate it.\r\n"
+-
+    name: debra
+    mail: ''
+    subject: 'free software being mandated'
+    hostname: 66.218.18.150
+    created: '1174426416'
+    body: "It sounded like a good idea in governmment offices, until I realized that free software could be used to control, and to push right wing ideas. \r\nPeace,\r\nDebra"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Standards, not software'
+    hostname: 68.93.224.4
+    created: '1174464782'
+    body: "Forcing the use of free software is a backwards step. It's also not always feasible -- there are applications for which a proprietary solution might be the only or at least the best available solution.\r\n\r\nThe <em>key</em> is enforcing free <em>standards</em> (such as file formats and communications protocols). So long as these are free, free software can compete fairly against proprietary alternatives. In practice, if a viable free software alternative arises in such an environment, it will quickly dominate anyway.\r\n\r\nProprietary software needs closed standards in order to maintain a lock on the market -- that's what the problem has been with MS Word, for example. The problem isn't people using Word, per se, but the use of DOC format as a \"de facto standard\" for business communications.\r\n\r\nSpecifying that government agencies must publish all of their information in free/open standards is a perfectly reasonable and unbiased requirement. Any proprietary company that balks at that is simply showing its fear of genuine competition.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Open source software is the way to go'
+    hostname: 202.155.23.189
+    created: '1174650654'
+    body: "I disagree in mandating free software in any way, but i agree in mandating open sourced software, but only for govt. departments and publicly listed companies and not to privately owned entities.\r\nThis is because for public interest, transparency is a necessity. Imho, people have the right to know what the public domain entities are doing with public domain resources and to a greater extent the other 4w and 1h too. Through open sourced software, everyone knows the issues pertaining a software behaviour. So everything should be more deterministic in nature. Hence accountable.\r\nAbout the shortages in the choice of opensource software, i think that can be easily overcome. As what an old proverb say \"where there is sugar, there can always be ants\".\r\n"
+-
+    name: PedroB
+    mail: ''
+    subject: 'Free software mandates no mandates'
+    hostname: 85.243.57.81
+    created: '1174703747'
+    body: "Freedom. Stop\r\nThey can do whatever they want in their departments, that's it. Stop\r\nFreedom to think, speak and act belongs to the people. Stop\r\nThat includes free and fair commerce, which they must protect. Stop\r\nEverything else is BS. Stop\r\nI'm all for free software, not communism, nor fascism. Stop\r\nCall me crazy. Stop"

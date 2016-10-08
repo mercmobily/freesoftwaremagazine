@@ -1,0 +1,119 @@
+-
+    name: tinker
+    mail: ''
+    subject: Interesting
+    hostname: 213.169.107.71
+    created: '1170686742'
+    body: "A very interesting article, and usefull if you have a sensible broadband connection which I unfortunatley dont have. I am stuck with DSL via satelite which greatly confuses the building of a Linux router.\r\n\r\nFirst of all the satelite card I have does not have Linux drivers which is a great start, the upstream is via ISDN and downstream is via Sat link in another country, oh joy! The router also needs to be a proxy server to differentiate between the 2 sorts of connection and to provide ports for all the different web services. I am at the point of abandoning the project.\r\n\r\nbtw YAST is Yet Another Setup Tool."
+-
+    name: ''
+    mail: ''
+    subject: 'To put up a linux router fast easy and cheap.'
+    hostname: 24.12.33.83
+    created: '1170699681'
+    body: 'Use IPCop.  You can get a linux router up and running in about 20 minutes.'
+-
+    name: ''
+    mail: ''
+    subject: 'A surprising guide'
+    hostname: 205.223.239.6
+    created: '1170765115'
+    body: 'As the Anonymous coward above pointed out there are alternative options for setting up a *nix router. Distro''s such as IPCop, Smoothwall or M0n0wall are all designed from the ground up to be routers, and will probably be easier for someone who is new to linux to setup! I do admire the author tho for doing it this was as it allows for a much greater control over the final appliance! I''m quite happy (atm!) with my Linksys WRT54G running the custom DD-WRT firmware, one of the one''s released under the GNU/GPL license that adds features to the original linksys firmware, for the moment! I''ve often been tempted by having a linux router but can''t quite justify the effort to myself yet!'
+-
+    name: 'Al Kelly'
+    mail: ''
+    subject: 'Recycling older equipment and SOHO routers/firewalls'
+    hostname: 74.133.94.113
+    created: '1170878751'
+    body: "A well written, well thought out article. However, the notion that you need a 500mhz CPU to run your router/firewall is a bit excessive. In the past I've set up and run IPCop on Pentium120s and PII-200 boxes with anywhere from 64 to 196 megs of RAM. Plus there are a lot more of those old boxen out there that can provide years of service as firewalls. Currently I'm running M0n0wall on an old Acer PII-233 with 128RAM and a \"huge\" 2 gb hdd. SUSE is a good distro, but there are plenty of others that can be used. Smoothwall, Redwall, IPCop, and others, or just use the distro of your choice and set up ipchains yourself. Thus the beauty of Free Software is revealed.\r\n\r\nCheers,\r\nAlisdair (but you can call me Al)"
+-
+    name: apache
+    mail: ''
+    subject: 'Very well-written John!'
+    hostname: 24.172.164.205
+    created: '1170923384'
+    body: "I really enjoyed this article!  But I think you are being way to hard on yourself..   \r\n\r\nI personally use <a href=\"http://www.ipcop.org\">IPCop</a> for my own personal firewall/Snort IDS/Squid proxy/Gateway/Proxy/SSL etc.  Its really important to have <a href=\"http://www.askapache.com/2006/security/sniffing-on-ethernet-undetected.html\">tight security</a> if you are taking control like this.. but no sweat!"
+-
+    name: porcel
+    mail: ''
+    subject: 'How do different Router distros compare?'
+    hostname: 217.216.22.136
+    created: '1171311206'
+    body: "Can anybody comment on the relative strengths of some of the router-specific distributions (IPCop,Smoothwall, Monowall).\r\n\r\nI would love to hear about people's experiences as well as what the security maintenance commitment is for these projects as a router is something that you only want to touch every five years, once it has been installed."
+-
+    name: 'John Calcote'
+    mail: ''
+    subject: 'Thanks for the comments!'
+    hostname: 137.65.132.55
+    created: '1171380261'
+    body: "I'd like to thank everyone who's commented so far on this article. I noted that many people have indicated that ipcop is a great alternative to doing it all yourself. This is very true. I looked at ipcop, as well as a couple of other alternatives such as ClarkConnect and mOnOwall. The biggest problem I had with these pre-packaged solutions is the lack of flexibility. They assume that I to do exactly what my 59 dollar appliance does. Not true. If I wanted exactly what the appliance offered, I'd have just used one to begin with (I DID use one for a long time, in fact).\r\n\r\nI also wanted to play with iptables to try and tailor my kids' access to the internet. I supposed I could have dug into the distribution source that was legally obliged to come with these pre-packaged linux router distros, but it was simpler to access iptables and the rest of the network sub-system from a more complete Linux distro.\r\n\r\nAnother reason for my choice was that this was a learning experience/experiment which continues to this day (and into the future, I hope). I access my linux router as if it were a regular machine on my home network - I use VNC to access display session 0 on this headless box (no physical KVM). I've installed the programming packages, so I can work on Linux programming projects router. \r\n\r\nFinally, I get to choose which network services I make available through the publicly accessible internet address on my router, such as web server, mail server, ftp server, etc. The choices are not limited to whatever I can find for the particular flavor of Linux on my router. A more popular Linux distro such as SuSE or RedHat opens the door to many already compiled binary installation packages of most free software projects. Of course, this can be done with port forwarding to another machine on my NAT, but since my router is beefy anyway, I don't see the harm in overloading it a bit."
+-
+    name: ''
+    mail: ''
+    subject: 'Router? You''ve actually built a Gateway/Server'
+    hostname: 68.151.203.102
+    created: '1173147423'
+    body: "The beauty of of a complete linux distro is its power and scalability.  You have built much more than just a router.  What you want to do is just a matter of how much software you want to enable and configure.  Using Samba you could include windows file server functionality. Installing Squid and Dansguardian you could have a web content filter.  I figure if you are using all that electricity 24/7, you might as well make it as powerful as possible. \r\n\r\nI'm using Clarkconnect on my own gateway/server and it works fantastic.  You state that one is \"locked-in\" like an internet appliance, but this is not true.  Although the server is configured via a web-based configuration (much like an embedded linux router), one can overcome the limitations of the web-configuration by editing the configuration files remotely easily using ssh.  This <b>doesn't</b> have to be done in the command line.  Use the \"fish://server/\" protocol on a linux client machine in KDE's Konqueror and you'll see what I mean.\r\n\r\nGreat article by the way - it just understates what you have built."
+-
+    name: ''
+    mail: ''
+    subject: 'Try a real  web gateway appliance!'
+    hostname: 90.19.6.160
+    created: '1173189710'
+    body: "You can also try “CacheGuard OS”: A Linux based Web Gateway Appliance. “CacheGuard OS” is a fully integrated solution to optimize and secure Web Traffics.\r\n\r\nTools and Linux distributions you are talking about are pretty good but are just an addition of multiples powerful software while CacheGuard is a highly integrated software appliance.\r\n\r\n“CacheGuard OS” is free for a limited number of users (excellent for a family). See www.cacheguard.com. \r\n"
+-
+    name: ''
+    mail: ''
+    subject: '2 Points...'
+    hostname: 202.154.127.242
+    created: '1173221214'
+    body: "1) No one has mentioned Endian Firewall (which comes in a Community edition) is a lovely turn-key package, along the lines of IPCop etc. I have been using at at home for a while now on a Pentium II.. Lovely machine :)\r\n\r\n2) The author has said in a follow-up comment about offering services (web, email, ftp) to the public world FROM his router / firewall. If we want proper security, that is not a good option. It allows more opportunity for the system to be compromised, and if the router / firewall is compromised, it may as well not be there at all. The secure approach to this is to offer these services via another machine within a DMZ (Demilitarized Zone) that is on a separate netmask. Then even if THAT box is compromised, the router / firewall isn't, and the intruder is still isolated from the rest of the PC's on the LAN network.\r\n\r\nMy 2 cents (Australian residents add 10% GST please)"
+-
+    name: ''
+    mail: ''
+    subject: 'OpenBSD is another fine choice for a firewall/gateway'
+    hostname: 70.169.167.212
+    created: '1173291166'
+    body: "I'm pretty good with Linux's iptables, so I decided to see if I could replicate this with OpenBSD and its included packet filtering software, PF.  Turns out that PF's syntax is easier for humans to read and understand than that of iptables, though the OpenBSD install might scare off the GUI-lovers.  Like with Linux's iptables, you have total flexibility.  It's worth your examination.\r\n\r\nAnd yes, I still like iptables and will continue to use it, too.  Not bagging on it at all.\r\n\r\nBTW, among Linux distro's, I wouldn't recommend SuSE for a firewall.  It's just too fat.  Same with Fedora or CentOS, much as I love them for other applications.  I would, though, recommend either Slackware or Ubuntu Server Edition.  They're small, easy to install, and run well on older hardware very well.  I run an Ubuntu mail server on a 270MHz SPARC box, and it's not even breathing hard; took me a couple of hours, including install time, to get going.\r\n\r\nspitz@cmosnetworks.com"
+-
+    name: ''
+    mail: ''
+    subject: 'Another vote for Linksys box and open firmware'
+    hostname: 62.69.64.93
+    created: '1173795433'
+    body: "I have a Linksys WRT45G that is setup to run OpenWRT and x-wrt[1] which gives me a really simple setup and config throught the web interface but also linux command prompt using ssh should I need it. You can pick the old linksys routers up for next to nothing on ebay upload the new firmware and off you go. As you don't really want to run any other apps on your firewall it has plenty of grunt to do the job.\r\nIt has live throughput graphs, Quality of services, and all the things you would expect from a modern router and it's no larger than a book and takes very little power compared with an old PC and makes no noise!\r\n\r\n\r\nI'm off to get me a NSLU2 and some Debian images![2]\r\n\r\njohn\r\n[1]http://x-wrt.org/\r\n[2]http://www.cyrius.com/debian/nslu2/"
+-
+    name: ''
+    mail: ''
+    subject: Concentrators
+    hostname: 65.13.3.59
+    created: '1175561454'
+    body: 'I may just not be looking in the right place, but I''m unable to find a cheap concentrator. Could you provide a link to an actual concentrator? Many thanks.'
+-
+    name: ''
+    mail: ''
+    subject: 'Concentrators = Switches'
+    hostname: 209.195.234.198
+    created: '1175623201'
+    body: 'I think anyway.'
+-
+    name: 'Anonymous visitor'
+    mail: jake.aung@yahoo.com.sg
+    subject: '*BSD or Slackware'
+    hostname: 203.55.213.20
+    created: '1176360082'
+    body: 'I think spitz@cmosnetworks.com is right. For a firewall, SuSE or Redhat is too big. Slackware is more stable than those and úses less resources. *BSD is also alternative for such purpose.'
+-
+    name: 'Anonymous visitor'
+    mail: anon@anon.com
+    subject: 'Sveasoft Talisman Firmware is Free'
+    hostname: 24.63.72.150
+    created: '1189959038'
+    body: 'Sveasoft just released their Talisman firmware to the public. You can download it directly from their web site.'
+-
+    name: 'Anonymous visitor'
+    mail: anon@anon.com
+    subject: 'DO NOT PAY FOR IT! Sveasoft are bad!'
+    hostname: 151.21.3.225
+    created: '1189985880'
+    body: "Hi,\r\n\r\nSveasoft is a dubious company. They took GPL code, and are actively SELLING IT.\r\nTo get their firmware, go here: http://wrt54g.cybermart.ca/\r\nYou will also see an email exchange Sveasoft's boss had with the web site owner... the level of childishness is really amazing.\r\n\r\nSad sad sad...\r\n\r\nTom"

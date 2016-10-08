@@ -1,0 +1,28 @@
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: 'Perl kinks'
+    hostname: 213.93.190.31
+    created: '1151341953'
+    body: 'Hey, I like Perl as well. If I need to get a job done quickly there, Perl is. However, for larger code bases I find it difficult to maintain readable code. Java is more verbose and to some less lovable but the responsibilities in a team of coders is easier to divide. I suppose managers feel safer with Java. So how do you remove the readability kink in Perl and leave the rest?'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Learned python first, can''t stand Perl (or Lisp, or Java)'
+    hostname: 68.93.224.4
+    created: '1151355338'
+    body: "Well, I definitely relate to the \"comfort language\" concept. I think that unless you are a professional programmer, the effort to remember more than two or three key languages is just too much trouble for most people.\r\n\r\nKnowing that about myself, I decided Python was a nice place to be. I was able to learn it really fast, and more importantly, I find that I can easily pick up tasks I was working on \"a month or two ago\" (usually means \"9 months to 2-1/2 years\" when I actually check the calendar).\r\n\r\nI tried to learn Perl a few times, then finally took a course in it at work. I didn't see much of anything I couldn't do more easily and more readably in Python.\r\n\r\nI felt like I might've appreciated the course except that Python had spoiled me -- I couldn't help thinking that Perl was actively designed to be obtuse and difficult on things that in Python are easy like breathing.\r\n\r\nI actually did learn some nice tricks with Perl on the command line, but the truth is, the overhead in remembering yet another language versus just doing the same thing in Python wasn't worth the difference.\r\n\r\nSo I'm not really surprised that people can get stuff done in Perl, but I feel it takes a bigger learning commitment than Python (don't know about Ruby).\r\n\r\nLikewise, though, I didn't find much in Java or Lisp to draw me.\r\n\r\nMy only complaint about Python is that the range of libraries is not as great as for Perl or Java.\r\n\r\nThe bottom line is, though, I'm just not going to spend the time learning those languages. Python's easy for me, so I'm going to stick to it. If I were a professional programmer, I might take a different attitude, but as an amateur, I don't really feel the need.\r\n\r\nI'll probably occasionally dabble with alternatives as exploratory play.  But Python has replaced C as my most useful tool, and I don't think that's going to change anytime soon (not for me, anyway). I still hold out hope that I'll find something for which C leaps out as the best solution, but I just don't seem to be doing any of that kind of stuff anymore. And I think I'll politely avoid the subjects of Fortran and BASIC, though I wrote quite a bit of those once upon a time, too.\r\n\r\nSo on the one hand, I don't agree with your choice of language, but I understand your attitude about it very well.\r\n"
+-
+    name: Marza
+    mail: ''
+    subject: 'Still can''t change'
+    hostname: 209.157.48.1
+    created: '1151382601'
+    body: "A \"comfort language\" is a great description for Perl.   It gives me the feeling I can accomplish things even though there are many people that are superior to me.\r\n\r\nI have considered Python, Ruby, PHP and VBscript.  Have books on them on my shelf but really haven't made the effort to learn them.   Perl does just about anything for my needs and it's safer to use what you know versus what you could know.\r\n\r\nThere is the fact that I have to use what the others could support.   They don't understand the other languages and could hack there way into fixing a Perl script.\r\n\r\nPerl replaced shell scripts for me.   I used to write for the shells but not anymore.  Perl is far more comfortable.\r\n\r\nI guess I will have to motivate ( more like kick ) myself into playing with Python and PHP.\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Okay I confess - I''m a "perl guy"'
+    hostname: 82.108.129.98
+    created: '1151587482'
+    body: "A colleague consistently refers to me as a \"Perl guy\" even though I regularly code in other languages and have never really espoused the view that Perl is the *only* way to go. I think it's because he has a dislike of/limited patience with Perl and I don't. It used to bug me but on reading this I realised that Perl is my \"comfort language\".\r\n\r\nI find myself turning to Perl before other languages and the times when I've written in other ones are times when I've considered Perl first and eventually settled on the other language. When I have a task to be done, some code to be written, perl is always on my list of languages to write it in. Even when considering scripts for sysadmin work (backup scripts etc.), perl is always considered and often used.\r\n\r\nWhy Perl - first bit of real-world coding I did I guess and I suppose it stuck. And now I am stuck. Although other languages may be better suited to the task, I can write much quicker in Perl than other languages. This is probably because I am familiar with it but you know what? I like writing in Perl and \"comfort\" exactly sums up how I feel when I am."

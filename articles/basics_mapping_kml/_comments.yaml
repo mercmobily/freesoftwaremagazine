@@ -1,0 +1,14 @@
+-
+    name: tackat
+    mail: ''
+    subject: 'Small clarification regarding Marble'
+    hostname: 91.8.184.25
+    created: '1337630600'
+    body: "Thanks for this great article, and thanks for mentioning the Free Software Virtual Globe Marble. \r\nI'd like to make a small correction:\r\nThe article states that Marble \"has many KDE-related dependencies\". This isn't 100% accurate: Marble exists in two flavours: There is a KDE version of it and a Qt-Only version available.\r\n\r\n \"Marble Qt\" however has just Qt as a single dependency: That's why we also use it for our Windows, Mac OS X and Mobile packages of Marble. Some Marble developers even prefer it for development. Also application authors who integrate the Marble library into their own application have to deal with the Qt dependency only, since the Marble library has Qt as a single dependency.\r\n\r\nSo while we like KDE and while we recommend it, it's not necessary for running Marble.\r\n\r\nYou can get more information about Marble Virtual Globe here:\r\n\r\nhttp://edu.kde.org/marble/support.php\r\n\r\nBest Regards,\r\nTorsten Rahn\r\n "
+-
+    name: 'Bob Mesibov'
+    mail: ''
+    subject: 'Re: Small clarification regarding Marble'
+    hostname: 202.182.70.131
+    created: '1337846985'
+    body: "Hi, Torsten.\r\n\r\nMany thanks for that correction, I didn't know there was a non-KDE version!\r\n\r\nCheers,\r\nBob"

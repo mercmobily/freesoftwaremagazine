@@ -1,0 +1,21 @@
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: Timely
+    hostname: 62.140.212.3
+    created: '1314362451'
+    body: "Thanks for a well written and timely piece.\r\n\r\nMy own children have just begun their programming journey with KTurtle. They like it as it uses a similar approach to a programmable robot they use at school (unsurprising as both use a subset of Logo).\r\n\r\nRobotics was my next planned step so I had begun my own research, I was looking along the Logo route although Mindstorms had crossed my mind as well so the information you provide here is useful.\r\n\r\nI look forward to future additions on this subject.\r\n\r\nRyan  \r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: mightor
+    mail: ''
+    subject: 'Lejos is Open Source'
+    hostname: 82.161.45.129
+    created: '1314908700'
+    body: "Hey there,\r\n\r\nYou might want to take a look at the open source project called Lejos (Admin:presumably http://lejos.sourceforge.net/ ).  It's a Java based environment that should work just fine on any platform where Eclipse can run. It'll work fine without Eclipse too, but it integrates quite nicely, so why go through all the effort of setting up vi or (shudder) emacs? \r\n\r\nLejos has a fantastic API that makes it very suitable for teaching robotics. There are also plenty of tutorials available for it.\r\n\r\nThere are some other gcc based projects like NXOS and nxtOSEK but I have very limited experience with those.\r\n\r\nRegards,\r\nXander Soldaat\r\n\r\n--\r\nI'd Rather Be Building Robots\r\nhttp://botbench.com/"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Thanks!
+    hostname: 68.116.159.234
+    created: '1314977818'
+    body: "Thanks. Lejos looks like an excellent option. \r\n\r\nIIRC, the research I did didn't mention the NXT port of Lejos, but I see there is one and has been for sometime, so I have to apologize for overlooking that.\r\n"

@@ -1,0 +1,91 @@
+-
+    name: ''
+    mail: ''
+    subject: 'On usability'
+    hostname: 81.0.182.133
+    created: '1169216070'
+    body: "What's intuitive about the name \"Photoshop\"? Nothing, except experience. iTunes sells tunes, so a \"Photoshop\" probably sells photos. Expectation is the enemy, and the only way to conquor it is to give the user enough information to understand\r\n* what can I do?\r\n* how do I do it?\r\n* have I done anything?\r\n\r\nA common problem in multi-user systems on one home machine like GNU/Linux or Microsoft XP Home Edition is that users are not familiar with being protected from one another, and that this goes for processes as well. When trying to access a locked resource, it would be helpful if the error messages where a bit more informative. In stead of just saying \"Access denied\", it would be helpful - at least in a none-ICT-professional home environment - if the system had some notion of context. \"While you started this program by clicking an icon, the process is owned by a more privileged user account than you have, so when you try to stop it from printing 500 pages of drivel, you will not succeed. Please use a systems administrator account and try stopping the printer again!\"\r\n\r\nIf a crackers can get all they need using a key stroke logger, why can't regular users expect the operating system to be intelligent enough to check a command history against system privileges and give a meaningful error message appropriate to the context?"
+-
+    name: ''
+    mail: ''
+    subject: 'To fix the problem with the'
+    hostname: 89.1.161.196
+    created: '1169298687'
+    body: "To fix the problem with the non ejecting CD you have to add your non-priviliged account to certain user groups. In ubuntu it seems to be self explanitory: \"Use CD-ROM drives\"\r\n\r\nYou go to System -> Administration -> Users and Groups -> Click on non-priviliged user that you added -> Properties -> User Priviliges -> Check whatever you wish to let the user have.\r\n\r\nIt's not a problem, it's a user mistake. You expect to add a user and have most priviliges added to it automatically. That's not how a secure operating system works. That's why Linux is different from Windows: It makes you think, and if something goes wrong, you know what actually went wrong, in experience. Windows hides so much from the user that he can only go to control panel and change settings or if he knows what he's doing alot go into the registry or some System Administration tool that they can't really find in the Home Edition.\r\n\r\nAlso, Photoshop would be under Applications -> Wine if at all, you can always move it to Graphics section via the Menu Editor, or better yet just put it in the panel as a quick-launcher. Knowing the Icon she would definitely click on it, also, people are just used to the way Windows works, so for them looking in Applications is not really self explanitory, it seems. Also, don't forget that Photoshop is not a native application, so if you installed it, it will most likely be in wine directory, no? :)"
+-
+    name: ''
+    mail: ''
+    subject: 'Fundamental Difference between Linux and Windows'
+    hostname: 82.152.170.73
+    created: '1169376924'
+    body: "When I explain to people why Linux is secure and behaves differently from Windows I repeat these two lines:\r\n\r\nIn Linux everything is forbidden unless explictly permitted;\r\nIn Windows everything is permitted unless explictly forbidden.\r\n\r\nIn my experience, the less computer savvy the listener, the easier (s)he finds the aphorism to grasp.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Dumbed-down GUIs'
+    hostname: 212.183.60.165
+    created: '1169380839'
+    body: "It's a bit off-topic but I'd like to disagree slightly on what you said about the difference between Windows and GNU/Linux:\r\n\r\nI don't see how going to System -> Administration -> Users and Groups is any different from going to the control panel, or how editing /etc/groups is different from going to the Registry.\r\n\r\nThis is a sad thing because I think GUIs shouldn't hide what they're doing. I had a similar problem as the original author. I don't remember the details, but I ended up having to find the file that the \"Users and Groups\" dialog wrote its settings to. Guess what, the dialog doesn't mention that it really just edits /etc/groups. This might be a good thing when you don't want to overwhelm users with technical details. But at least the help page could have mentioned what the dialog was doing.\r\n\r\nThere's a tendency to dumb down GNU/Linux in order to make it more acceptable to Windows users. I'm not for sending users to the terminal, or to edit config files. GUIs have their merits, but developers or documentation writers shouldn't forget to describe the technical details in case the user needs them."
+-
+    name: ''
+    mail: ''
+    subject: SMP
+    hostname: 62.253.128.14
+    created: '1169394007'
+    body: "Windows is a single user system, and so this problem can never arise on Windows. Unix/Linux is a multi-user system so it is possible for many users to be logged in at once (remotely, or on local multi-head PCs) and for one to hog the CD-ROM, and so lock the other out. This problem can also arise when a program using the CD locks up. On Windows it is standard practice to reboot if this happens, but on Linux rebooting  is not customary. The Windows approach is not the right one for a multi-user system like Linux. The Unix/Linux secure mounting/unmounting approach is exactly the right way to do it on servers, but not on multi-user desktops. \r\n\r\nI don't think simply changing Unix/Linux permissions, nor logging in as root (or using sudo) and killing the offending application is the right approach. For example you wouldn't want any user (say a remote user) on the system to be able to arbitarily kill another user's applications or eject a CD another user is using. \r\n\r\nI think What is needed on Linux desktops is an extended security model, one which can allot to selected removable devices or shared devices the ability for their drivers to kill the applications using them when eject button is pressed or when the application has been idle for a preset period of time. Limiting the right to kill other people's applications to pushing the eject button on the CD, will allow person using the CD to see who is doing it, and so maintain security in that way. You wouldn't want to apply this to all shared devices either - for example a CD burner.\r\n "
+-
+    name: ''
+    mail: ''
+    subject: 'Not only /etc/groups'
+    hostname: 83.227.157.244
+    created: '1169396753'
+    body: "The problem is that group and user information might be stored using LDAP, NIS or even a SQL database. There should be some way of configuring this. That also means that admins need to be aware that a system can have local and non local users (e.g. ones that have their user information and perhaps even their home directory on other sysems).\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'That''s the problem in a nutshell'
+    hostname: 81.151.255.35
+    created: '1169400591'
+    body: "I'm afraid that this response highlights one of the biggest  problems Linux encounters on the desktop. \r\n\r\nDesktop users want computers to serve them, not to put obstacles in their way. I agree with the writer that it's \r\n\"a line crossed\" when a new user can't use the CD drive. It's not that much of a problem of Linux in and by itself, it's a problem of settings and defaults.\r\n\r\nThis brings me to the comment of \"user error\". I heartily disagree. It's a system design error to set up things that a user has to worry about things like that. It's simply targeting the wrong type of user. For a file server or a workgroup machine it would be ok to have a setup that takes a safety first approach, but a home-user system should in my opinion go out of its way to make it easy for people to actually use the computer. I don't mean giving users root access ... I just mean that they should be able to use all the ordinary peripherals of the system (the printers, the network interfaces, the modem connections, any scanners that might be connected, the USB ports, and certainly any CD-Rom drives).\r\n\r\nIn addition, I think that there is absolutely no merit in revelling in the \"everything is forbidden unless permitted\" dictum. Just remember that an ordinary Linux system is far from secure, and not hardened. The NSA has produced a version of Linux which takes a few steps in that direction, and it's not fun to use. There is no black-and-white distinction between secure and not secure. There are only degrees of security, each one appropriate or less appropriate to a certain situation. \r\n\r\nFor desktop use at home use I believe that new users (especially ones that are created when you install Linux) really should have all privileges that they would have had under Windows, by default. Then if you create another user, you should be presented with a big option-list where you can see (in plain language) what privileges this new user can be gratned and where you can check/uncheck whatever you feel is appropriate. That would have been helpful. \r\n\r\nAnything more is (I feel) just trying to look interesting at the users' expense. \r\n\r\nI fear that this is the grain of truth that underlies the widespread belief that Linux isn't user-friendly. No matter what you (a veteran Linux user) might feel about the appropriateness of allowing new users access to CD-Roms by default, I'm confident that Joe Sixpack couldn't care less. He/she just wants to switch on the darn machine, slap in a CD, open a spreadsheet / wordprocessor application, print, end perhaps email the result to someone. All without once being pestered by \"access violation\" and obscure requests for configuration.\r\n\r\nIf users can *count* on that being the case when they buy a machine with Linux pre-installed, that's when we'll see uptake of Linix on the desktop."
+-
+    name: ''
+    mail: ''
+    subject: 'User privileges'
+    hostname: 66.232.66.190
+    created: '1169412820'
+    body: "Note also, It is not just a question that you\r\nmust accept the defaults that Ubuntu starts with.\r\n\r\nYou can change the priviles in various user profiles\r\nto your own liking, so that when you add your wife\r\nas a user, choosing the 'Desktop' profile cant automatically\r\ninclude 'access CD ROM', and you won't have to think of it\r\nagain.\r\n\r\nWhy Ubuntu doesn't include CDROM access as a default for\r\ndesktop user  is another question, but at least you don't\r\nhave to blindly accept their 'mistake'.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'I always create a few relevant launchers'
+    hostname: 142.58.74.91
+    created: '1169425768'
+    body: "When I create a user account for someone new to Linux, I normally spend a few minutes figuring what applications they would typically use and popping launchers for them onto the toolbar.  Sometimes I'll change the explanatory bit that pops up on mouse-over so it's clearer.\r\nIt just gives an extra bit of ease to their experience."
+-
+    name: ''
+    mail: ''
+    subject: 'My experience'
+    hostname: 66.69.91.14
+    created: '1169428881'
+    body: "I have converted all my friends and family to Linux, and the group gets larger and larger.  It is always customized (kinda like an OEM would), and I rename all the major applications with an icon on the desktop.  Email, Edit Photos, Surf the Web, Burn a CD, etc.  I also drag the (I use KDE, so that is what they get, until they want to change on their own), KDE Control Center to the desktop and name it \"Customize Everything\".  I have never had a revert back, and in about 1/3 of the cases, they ask me if I can remove Windows (dual boot usually for the critical shareware game, etc).  Few boot into Windows anymore and my life is peaceful with no more support calls.\r\n\r\nLet's put it this way, my Mom, 71 years old had her modem fry in a lightning storm.  I ordered her a modem to pick up at the store.  Over the phone she plugged it in to replace the old one.  That was it.  No driver install, no change, no reboot-rinse-repeat, no EULAs, no 200 meg of teaser applications, nothing.  She turned the computer on and all was completely fine.  That is the sum total of my problem support in two years.  I have, of course, provided positive help, such as this program does that, etc.\r\n\r\nLet's look at apples and apples.  If you gave Joe Average a computer, Linux installed and XP in a box, just how wonderful an experience are they going to have?  The HPs and Dells of the world PRECONFIGURE everything so that is why it \"just works\" (and preconfigure a TON of crapware).  Amazingly enough, if you buy a Linspire or Suse laptop pre-installed, everything \"just works\". \r\n\r\nSo, my advice, take the twenty to thirty minutes with the person you are OEMing for, do the above, teach them the basics about KDE control center (or Gnome or Fluxbox, whatever your passion is), and empower them with enough to hit the ground running.  Time very well spent.  I have never had a user tell me they didn't like Linux, the speed, the reliability, etc.  My sister still has transparent windows, Hot Pink borders and because she was familiar with Photoshop, everything the Gimp does is second nature, with 30 seconds of me demonstrating that it is all right mouse menu driven.\r\n\r\nLOL, 1/2 don't even know the root password, they haven't needed it, and guess what, they wouldn't know a command line interface from chow line interface.\r\n\r\nTripleII\r\n\r\nOh Yeah, her kids messed up her system playing games on a few occasions with Windows.  It can't happen with Linux and their \"Potato Guy\" Account."
+-
+    name: ''
+    mail: ''
+    subject: 'Not quite'
+    hostname: 71.141.246.173
+    created: '1169454337'
+    body: "<cite>It's not a problem, it's a user mistake. You expect to add a user and have most priviliges added to it automatically. That's not how a secure operating system works.</cite>\r\n\r\nI disagree. A secure operating system works as expected. The flaw is that there was not a question asking what type of user do you want to add? A) a remote user? B) a trusted local user (will have access to removable media such as USB devices, CD/DVD burners, floppies, etc.)? C) a local user? D) a highly trusted user (all of B, plus the ability to use sudo to install/uninstall software, configure/disable hardware, etc.)?\r\n\r\nObviously I have not put much thought into the questions, but you get the concept. Windows is theoritically more secure than linux (without selinux), however the security in linux is used. The key is making security easy to implement for the average user. If this was a frequent problem, people would give up on the security and just run as root, just as most people run as administrator under windows, it is not that windows couldn't be fairly secure, just that it takes too much work to secure it, so no one bothers."
+-
+    name: ''
+    mail: ''
+    subject: 'Thoughts on this article'
+    hostname: 134.243.211.229
+    created: '1170267425'
+    body: "The original writer writes:\r\n\r\n\"I checked the Applications menu; while one could easily find program categories, picking the right program could very easily be intimidating. Just by reading the title and looking at the tool tip, how can you tell the difference between Democracy TV and VLC? They're both described as multimedia players, but they're fundamentally very different.\"\r\n\r\nI recognized this immediately. Why? Because that's how I feel when I'm using Windows. When I click on that \"start\" button, and ask to see all programs, I see move 60 menu entries, many of which are place holders for submenus and often sub-submenus. I wouldn't know a PhotoShop from a putty knife. \r\n\r\nSo how does a user who has minimal experience on an OS to which they are new learn about the programs that are there? Certainly one can search the internet for the words on the menu, to determine what they are. On some Linux systems, the programs are at least categorized, but as the article writer points out, the categories are quite broad. So the second method is to start up the application to see what you can learn. I often find applications on any platform which come with little useful tutorials or introductory articles - see O'Reilly's entire series of books that one might wish popular applications came with :smile: .\r\n\r\nThe author then goes on to write:\r\n\r\n\"Having to switch users to eject a CD just isn't intuitive.\" This is particularly true in the case of Mac and Windows users, who back in the golden oldies days never had more than one user using the hardware at a time. However, starting with Windows NT and forward, users more and more frequently run into cases where one has to gain admin privleges to perform certain actions (on most xp systems, I can't install new software, or even try out popular web sites, because the installation of applications, plugins, etc. is limited, due to security purposes.\"\r\n\r\nNow, imagine on a truly multi-person system like Ubuntu, if linux were to allow user 2 to eject the CD-Rom while user 1 was still using it. How is the\r\nsystem supposed to know whether or not user 1 has currently running, or scheduled to run, some process which needs to access the cd-rom in question?  The environment grows ever more complex as one has to concern themselves over the sharing of limited resources such as internet, printing, cd-roms, etc.\r\nAnd if one rushes blindly into fixing a situation where software has \"crossed the line\" they may find themselves facing quite rude surprises later unexpectedly. \r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Potato Guy'
+    hostname: 62.24.114.70
+    created: '1170674843'
+    body: '“Potato Guy” account. I like that :)'

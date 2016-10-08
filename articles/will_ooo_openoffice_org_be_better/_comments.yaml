@@ -1,0 +1,14 @@
+-
+    name: andrewz
+    mail: ''
+    subject: OpenXML
+    hostname: 75.163.143.75
+    created: '1202350277'
+    body: "To be clear, OpenOffice.org already supports multiples screen in Impress, but it doesn't support a presenter view.  You can test it now here:\r\n\r\nhttp://www.oooforum.org/forum/viewtopic.phtml?t=64964\r\n\r\n\r\nBefore OOo 3.0 is released, there are several ways to import OpenXML documents into OpenOffice.org including these\r\n\r\nOdfConverter\r\nhttp://www.oooninja.com/2008/01/convert-openxml-docx-etc-in-linux-using.html\r\n\r\nOffice Compatibility Pack\r\nhttp://www.oooninja.com/2008/02/office-compatibility-pack-review.html\r\n\r\nAndrew"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'thanks for the clarification'
+    hostname: 82.108.129.98
+    created: '1202471446'
+    body: "I should have written _native_ OOXML import I suppose.\r\nDidn't know about the multiple screens in Impress (don't use it much).\r\n\r\ncheers\r\nRyan"

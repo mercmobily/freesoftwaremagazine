@@ -1,0 +1,70 @@
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'services rather than code'
+    hostname: 62.203.181.13
+    created: '1177338714'
+    body: "From the user perspective, I see software more as a service rather than some lines of code. If I'm for example using a filter in GIMP, the programmer offers me a service in sharing his knowledge of how to change an image. If you are using a webapp like GMail or Google Maps or whatever, then you are using clearly a service too. \r\nIt's all about the knowledge which is in the code and that gives me power to do the things I want (whether this is to transform a picture or send an E-Mail via a protocol I don't bother to learn). And I think it's very important that this knowledge and the skills burried in the code are open for everybody to see and improve upon. Thus, it doesn't matter where the code is executed. If I'm using a service I want to be able to find out how exactly that service works. \r\n\r\nSo, I think in the next revision of the GPL it ought better be talked about \"distributing services which are provided through means of computer code\", rather than \"distributing code and binaries\". That way the GPL would be better appliable for webapps to protect the freedoms for all users. Some company couldn't then take any of those nice apps described in your article, modify them and run them on their server, without sharing the changes they made to the core code, with the excuse that they aren't really distributing software. It's a pitty that we're probably too late to include this in GPLv3 ;-)"
+-
+    name: 'Geoffrey Lehr'
+    mail: ''
+    subject: 'I disagree. They aren''t'
+    hostname: 38.116.136.215
+    created: '1177342206'
+    body: 'I disagree. They aren''t making excuses if they decline to distribute the changes, they''re following the license.  I agree that they _ought_ to distribute the changes, but they shouldn''t be _forced_ to if the developers say that it''s ok for them not to (through their choice of license).  You should check out the Affero GPL if you''re writing a webapp and you think it''s better for the purpose.'
+-
+    name: 'Michael Fötsch'
+    mail: ''
+    subject: 'change e-mail services from Google to Yahoo???'
+    hostname: 212.183.69.12
+    created: '1177350104'
+    body: "I agree that web applications pose interesting licensing questions. But I don't get why having the source code facilitates moving from Google to Yahoo.\r\n\r\nWouldn't I have to run the software <strong>on their</strong> servers to be able to get at my stored e-mails, or to enter my e-mails into my new Yahoo inbox? If the client code can do that, fine--I can see the code. If I have to send an SQL query to Yahoo's database, I can't do that from outside their network, regardless of whether I have their code.\r\n\r\nWhat am I missing?\r\n\r\n(BTW, the link to the RoundCube homepage is broken.)"
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'spirit vs. law'
+    hostname: 62.203.181.13
+    created: '1177360010'
+    body: "Yeah, they keep to the license. But with free software licenses it's always the same: they aren't the optimal solution because default law is copyright,not copyleft. That's why they always need revisions as new dangers or possibilities arise. That's why I think their spirit and intention is just as important as their law-binding content.\r\n\r\nAnd as the GPL is THE standard license for free software it would be nice if you could still use that one. Can you incorporate GPLed code into your project and release the whole thing under the Affero GPL? Then It'd be okay."
+-
+    name: admin
+    mail: ''
+    subject: 'Link fixed'
+    hostname: 165.98.157.37
+    created: '1177371363'
+    body: 'Thanks for letting us know'
+-
+    name: undefined
+    mail: ''
+    subject: 'agree (as i use both)'
+    hostname: 192.91.172.36
+    created: '1177437733'
+    body: "i use both tiny tiny rss and roundcube.\r\n\r\nmatter of fact, i got to this article by way of tt-rss.\r\n\r\nboth projects use trac, so i'm subscribed to their \"timelines\" (rss feed of changes and bugs) with tt-rss, and the feeds prove that the projects are quite active.\r\n\r\nactually, i primarily use squirrelmail because it's what i've used most and am most familiar with.  it also supports threading, though what simple email tasks i perform while away from home (necessitating webmail) could be performed with roundcube.  squirrelmail is a pain to organize large collections of mail at once (having to move messages to a folder, one folder at a time, with a page refresh in between), but roundcube is a pain to read mailing lists (no threading), so it just depends on what i want to do with my email at the time.\r\n\r\ni use and recommend both tt-rss and roundcube."
+-
+    name: 'Eric Drake'
+    mail: ''
+    subject: 'GPL and distribution'
+    hostname: 68.39.159.235
+    created: '1177613904'
+    body: 'If a write a program using the Gnu C compiler, am I obligated to share the source code ?'
+-
+    name: undefined
+    mail: ''
+    subject: 'output of GPL apps'
+    hostname: 192.91.147.34
+    created: '1177618119'
+    body: "is the output of a gpl application covered under the same license as the application itself?  (the better question: \"is the output of a gpl application considered a derivative work of the application?\", as that's how copyright works.)\r\n\r\nthe short answer: no.\r\n\r\nthe long answer: http://www.gnu.org/licenses/gpl-faq.html#CanIUseGPLToolsForNF\r\n"
+-
+    name: undefined
+    mail: ''
+    subject: 'hidden question'
+    hostname: 192.91.172.42
+    created: '1177699204'
+    body: "as a follow-up to my previous reply...\r\n\r\nthe more difficult question is \"what source code was used to create my executable?\" (because the executable is a derivative work of all that source code and you, or a linux distribution, might not have the right to distribute that executable depending on the licenses of all the code.)\r\n\r\nso to build a \"hello world\" example, i only use my source code, right?\r\n<code>\r\n$ cat hello.c\r\n#include <stdio.h>\r\nint main()\r\n{\r\n    printf(\"hello\\n\");\r\n    return 0;\r\n}\r\n$ gcc -v -o hello hello.c\r\n...\r\n /usr/lib/gcc/i486-linux-gnu/4.1.2/collect2 --eh-frame-hdr -m elf_i386 -dynamic-linker /lib/ld-linux.so.2 -o hello /usr/lib/gcc/i486-linux-gnu/4.1.2/../../../../lib/crt1.o /usr/lib/gcc/i486-linux-gnu/4.1.2/../../../../lib/crti.o /usr/lib/gcc/i486-linux-gnu/4.1.2/crtbegin.o -L/usr/lib/gcc/i486-linux-gnu/4.1.2 -L/usr/lib/gcc/i486-linux-gnu/4.1.2 -L/usr/lib/gcc/i486-linux-gnu/4.1.2/../../../../lib -L/lib/../lib -L/usr/lib/../lib /tmp/ccoUXWZ6.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/i486-linux-gnu/4.1.2/crtend.o /usr/lib/gcc/i486-linux-gnu/4.1.2/../../../../lib/crtn.o\r\n$ dpkg -S /usr/lib/crt[1in].o /usr/lib/gcc/i486-linux-gnu/4.1.2/crt{begin,end}.o\r\nlibc6-dev: /usr/lib/crt1.o\r\nlibc6-dev: /usr/lib/crti.o\r\nlibc6-dev: /usr/lib/crtn.o\r\ngcc-4.1: /usr/lib/gcc/i486-linux-gnu/4.1.2/crtbegin.o\r\ngcc-4.1: /usr/lib/gcc/i486-linux-gnu/4.1.2/crtend.o\r\n$ cat /usr/share/doc/libc6-dev/copyright\r\n&lt;LGPL and BSD-like license text&gt;\r\n$ cat /usr/share/doc/gcc-4.1/copyright\r\n&lt;GPL with linking exception license text&gt;\r\n</code>\r\n\r\nso what's the license of those specific files?  (hint: debian's copyright file doesn't provide enough information for a one-to-one file-license correspondence, especially when multiple licenses apply to different parts of a single package.)\r\n\r\nthe joy of license auditing.  (and this example is innocuous but requires a bit of work to prove.)"
+-
+    name: 'Anonymous visitor'
+    mail: bob@dodgeit.com
+    subject: 'Suppose I send you a photo'
+    hostname: 202.92.44.173
+    created: '1177837866'
+    body: "Suppose I send you a photo and ask you to do some minor adjustments (such as colour correction, red eye, white balance, clone patching and so on). You do the work then send me the resulting work. Assuming that you are doing this yourself, why should I demand that you send me a copy of the program source that you use? I may wish to obtain a copy of the program so I can adjust my pictures myself; but until I run that program on my computer, whatever you choose to use to run on your computer will not deprive me of my right to control my own computer or share information coming from me.\r\n\r\nIf I ssh into your machine and execute a few programs, then I don't need source access to the code as it is not running on my computer. However, my ssh client should be Free because I am running that on my computer. "

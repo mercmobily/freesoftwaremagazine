@@ -1,0 +1,119 @@
+-
+    name: SimonJ
+    mail: simon@asinen.org
+    subject: 'Easier to install than koffice'
+    hostname: 212.100.3.56
+    created: '1180694951'
+    body: "Just wondering - how is it easier to install than koffice? I see no difference at all.\r\n\r\n(I use both and happily accept that OOo is more complete than KOffice in terms of features, but just a bit puzzled by that comment)"
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: KDE
+    hostname: 68.197.66.72
+    created: '1180713960'
+    body: "You should also note that there are KDE bindings for OpenOffice.org.  At least for (K)Ubuntu available <a href=\"http://packages.ubuntu.com/cgi-bin//search_packages.pl?version=all&subword=0&exact=1&arch=any&releases=all&case=insensitive&keywords=openoffice.org-kde&searchon=names\">here</a>\r\n\r\n\r\n--\r\nAndrew Min"
+-
+    name: EpsDel
+    mail: epsdel@gmail.com
+    subject: Wrong!
+    hostname: 89.137.107.147
+    created: '1180884413'
+    body: "The biggest Open Source project in existence is Linux itself, in all its flavors.\r\nI'm disappointed with OpenOffice. The quality difference between the Linux version versus\r\nthe Windows one is big. In win's favor."
+-
+    name: 'Anonymous visitor'
+    mail: jjhurley54@yahoo.com
+    subject: 'OOo Hype'
+    hostname: 68.160.24.232
+    created: '1180902873'
+    body: "I've been using OOo for 3 years now. I guess you could say I was one of the eary adopters. I keep a running log on my desktop on OpenOffice.org's bugs and it is lengthy:\r\n\r\n* OpenOffice.org's spell-checker is simply terrible. It recommends breaking up words. Just yesterday I spelled comma as coma and it accepted the spelling.\r\n* I worked w/ OpenOffice Base for about 300 hrs and find it terrrible. Simple things can not be done. You can't reorder fields in your database. So if you use a field to the far right often you have to tab over each time you need to make an entry waisting time. It doesn't support drag'n drop. The best thing I can say about it is it interfaces to so many databases.\r\n* In Open Office.org Writer\r\n  * I get a pulsing screen when I open large documents almost to the verge of crashing the application. I find you have to keep your documents to 35 pages or less to avoid it. Also some of my 100 page documents take forever to load and I have 500MB of RAM and a Duron 900 CPU\r\n  * OpenOffice.org's cut and paste from Firefox to an OpenOffice.org document requires time to warm up on some web pages before it can be used. I finally figured out a workaround: Cut with the mouse and paste with Ctrl+V.\r\n  * OpenOffice.org's cut and paste feature (while using the KDE Desktop in Ubuntu (not Kubuntu)) captures a few characters before what I want to cut from a web page and paste a few less characters than I intended when I insert it in an OpenOffic.org doc.\r\n  *periodically artifacts show up on the screen after doing a cut operation and do not go away unless you close and reopen the doc.\r\n  * Up until the last dot release the application crashed a lot although it generally recovered everything.\r\n* It's possible to open two instances of the same document at once if you click too often.\r\n* The scroll bar in the document jumps up a page or two each time an embedded Google ad is passed in a document.\r\n\r\nI could go on but I will save you the time.\r\n\r\nWhy do I continue to use it?\r\n* It has great large document features especially indexing and table of contents and I am writing a book/technical manual.\r\n* PDF creation is a snap and importing has been fine.\r\n* It's free.\r\n\r\nTo finish-up the OpenOffice.org team should stop and fix the bugs. Once they do they will have a nice product. I think your article was a little too much marketing."
+-
+    name: 'Anonymous visitor'
+    mail: chemicalscum@netscape.net
+    subject: 'Spell Checker'
+    hostname: 199.212.94.210
+    created: '1180913765'
+    body: "<cite>OpenOffice.org's spell-checker is simply terrible. It recommends breaking up words. Just yesterday I spelled comma as coma and it accepted the spelling.</cite>\r\n\r\nIt is a \"spell checker\" not a \"semantic checker\".  Coma is a real word meaning to be in a narcoleptic state.  Any spell checker will accept coma as correct.\r\n\r\n<cite>OpenOffice.org's cut and paste from Firefox to an OpenOffice.org document requires time to warm up on some web pages before it can be used. </cite>\r\n\r\nIt works fine both from the X clipboard and the Freedesktop clipboard in Gnome on Ubuntu for me, maybe you have a KDE problem again.\r\n"
+-
+    name: 'Daniel Escasa'
+    mail: ''
+    subject: 'Break your doc into smaller pieces...'
+    hostname: 210.213.195.95
+    created: '1180927229'
+    body: "...then put them together using a master document. That's not a work-around, it's smart use of an available feature that you should really use for large docs anyways.\r\n\r\nDaniel O. Escasa\r\nIT consultant and writer for hire\r\ncontributor, Free Software Magazine (http://www.freesoftwaremagazine.com)\r\npersonal blog at http://descasa.i.ph"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Wrong again...'
+    hostname: 86.71.28.218
+    created: '1180942667'
+    body: "Linux, as in the kernel (since the complete GNU/Linux isn't a single project with a single community) is roughly... a fourth of the size of OpenOffice.org.\r\nAs to the quality difference between the Windows and the Linux version, well, I've compared the two side by side:\r\nthey're absolutely identical. In fact the Linux version has an advantage in speed (much faster to load) and in UI (selects the icon set most appropriate for your environment, uses system's default font for UI, autodetects language settings) on top of being able to use any version of Java you have (I'm happily using gcj with it).\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Point per point answer'
+    hostname: 86.71.28.218
+    created: '1180947237'
+    body: "Thanks for your input. I'm a bit puzzled by your comment though:\r\n<ul>\r\n<li>breaking up words: have you installed the thesaurus? Coma is a valid noun too - there are NO semantic checker in MS Office either, so be careful with homonyms. Any spell checker worth its salt will do the same.</li>\r\n<li>Base is a very young component still. However, I should mention that in NO database qualifying for the name will let you reorder the content of a table! You may reorder the output of a selection, but not the content - SELECT * FROM Table ORDER BY (column to sort); - if you want to sort the contents of the actual file, then it's not Base you need, it's Calc.</li>\r\n<li>About Writer requiring time to load large documents: I wrote my 450 pages thesis on OOo. Yup, as I said (and as you said) it's slow to load. However it doesn't crash while loading (MS Office choked on the same document, around page 130, and THEN corrupted the file attempting to recover it)</li>\r\n<li>your cut and paste troubles and artifacts are strange - I have yet to find anything similar on all the versions and systems I've tried it on. On the other hand, I don't use KDE; the fault may lie in KDE's hand.</li>\r\n<li>OOo 2.2.0 is known for having a few bugs - that version was probably the biggest overhaul of the code base with the largest amount of commits at the last moment ever since 2.0.0. 2.2.1 will solve that really soon (rc2 is out).</li>\r\n<li>Opening several instances of a document in such a case is normal - don't click too fast. It also is useful when you want to compare a document you're editing to its last known good state without activating modifications monitoring.</li>\r\n<li>Google ads contain a lot of code - and OOo knows how to interprete HTML properly, so you may want to paste your text without formatting.</li>\r\n</ul>\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: Basia
+    mail: jastra@gdansk.sprint.pl
+    subject: 'OO Writer and Debian Stable'
+    hostname: 83.11.46.215
+    created: '1180955555'
+    body: 'After upgrade from OO 1.x to 2.x together with standard Stable Debian upgrade from Sarge to Etch, regret, the same documents, containing some graphics open  much slowler. They almost hang OOWriter. 20 pages document allow me to make tea and start drinking it before starting work. Life...?'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Installing Koffice'
+    hostname: 86.71.28.218
+    created: '1180964175'
+    body: "Due to its past as an integrated office (and not a simple office suite) with file picker and all, OOo doesn't have too many packages requirements - making it 'easy' to install on pretty much any system with little external libs required.\r\nOn the other hand, Koffice is strongly integrated into KDE. It has heavy requirements, as in it requires all KDE base files and several supplemental packages. Installing Koffice requires pretty much all of KDE to be installed, which is not too difficult (and even quite easy and painless if your distro's dependencies are well maintained) on GNU/Linux, BSD or Solaris, but is a pain on Mac OS X and almost impossible on Windows.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'M Petersen'
+    mail: mgpeter@pcc-services.com
+    subject: 'Most Major Distributions use Novell''s ooo-build version'
+    hostname: 74.41.102.203
+    created: '1180968251'
+    body: "Lately the press has been bashing Novell left and right (justified, maybe - maybe not), but to somewhat bash their \"fork??\" like this is just mis-informing the public.  With Sun's version of OOo it has been very difficult to get third-party patches in and has been hard for newer developers to get involved.  Becasue of this, Novell took the code and incorporated it into ooo-build @ <a href=\"http://go-oo.org/\">http://go-oo.org/</a>.\r\n\r\nNow, most GNU/Linux Distributions use ooo-build to generate the version of OpenOffice.org into their OS (including Debian, Mandriva, Ubuntu, etc.).  To say that all of these features have been incorporated in a less than elegant fashion and because of this Sun has not incorporated the changes into the main branch is just plain wrong.  To get the real story on Novell's (actually the community's) version check out an interview with Michael Meeks at <a href=\"http://www.tuxdeluxe.org/node/184\">http://www.tuxdeluxe.org/node/184</a>\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: pam@pelecanus.co.uk
+    subject: 'OOo Hype'
+    hostname: 84.9.33.230
+    created: '1180998912'
+    body: "Correct in all regards. Much loved curate's egg containing many hardy perennial bugs and hair-pulling inadequacies that survive upgrade after upgrade.   Needs a serious clean-up. If I could code, I'd sort some of them myself.\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'You''re mixing up things'
+    hostname: 86.71.28.189
+    created: '1182767760'
+    body: "ooo-build was a project started a few years ago because it was, indeed, hard to include 3rd-party patches into Sun's main CVS. However, this has changed: ooo-build is now a test-ground of sorts for the biggest projects out there, but it has reached its goal: it is now MUCH faster to integrate 3rd-party code into mainline - ask those guys working on the AMD64 and the OS X Aqua build.\r\nNow, I think the ooo-build project was Novell's doing is a bit... exaggerated. Moreover, you can't base yourself only on what MM says: he's not alone. You can ask Pavel Janik, Eric Bachard, Sophie Gautier, and some others for more informations.\r\nA problem with QA is that, indeed, they ask for lots of specs - as it should be. Moreover, the build test tools, smoke tests and automated tests have been long outdated, but they have recently been improved, and most 'new' developers now enjoy the CWS system - which has been improved and better defined - as such, QA is getting a bit more responsive, while developer snapshots just work.\r\nAs it stands, Novell is working hand in hand with Sun to integrate their improvements with OOo's mainline in a 'proper' fashion - as in, following the OOo project's architecture, code formatting and QA guidelines. It results in a more gradual but much more robust and future-proof integration of Novell's improvements into OOo - otherwise, why would have Novell not kept including their patches in more recent versions of OOo? We're now almost at 2.3 on mainline, and Novell's version is still 2.0.4. Why? Because several of their improvements have been refined and integrated gradually in OOo's structure - while existing OOo subsystems have been modified and made more modular. In essence, this is what MM is saying.\r\nI'm not bashing Novell's build; on the contrary, it was a very nice and well polished first implementation of VBA and OOXML under OOo, but a project the size of OOo requires strict code submission guidelines otherwise you get... Microsoft Office 2000 (required SP3 to be made usable, and 3 years of extra development on a frozen code base to work).\r\nAs for the distros using ooo-build, it was true in 2005 - but since then, since ooo-build has been integrated in the main OOo development group of projects (or to be fair, became the standard structure of any and all new OOo development projects), it's not true anymore. For example, I have the latest ooo version (in 64-bit) provided by Mandriva, and it's tagged 2.2.0cvs20070323. Previous was 2.1.7cvs, and from development notes matched against OOo bug reports, it looked a lot like a 'vanilla' 2.1.0 build with some extra CWS integrated. A glorified development snapshot, if you want.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'You don''t need to code...'
+    hostname: 84.100.54.238
+    created: '1185978392'
+    body: "...to help solve bugs. What you can do is vote for them to be fixed, write complete specifications with screen mockups (for requested improvements), write testing procedures to detect bugs, etc.\r\nIf all you do is complain, then stay with your M$ Office: after all, they don't listen to you complaining and don't ask you for input.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Maybe you''ve found a bug...'
+    hostname: 84.100.54.238
+    created: '1186818568'
+    body: "Debian Stable contains an earlier version of OOo. Due to the change in default file format in 2.x, file converters and filters had to be shaken around a lot - and usually, performance was forgotten to ensure compatibility; and, indeed, many files opened slower under earlier versions of OOo 2.0.x in all apps.\r\nSeveral optimizations were made, leading to some eye-popping gains: Excel files that required 1h10min to open previously suddenly opened in less than 40 seconds.\r\nNow, you may have hit another performance snag: you can download a more recent version of OOo (either Debian unstable/Testing versions, or OOo's .deb package), and test your file again: if it's still as slow, I encourage you STRONGLY to report it (and send a version of the file) to the developers: this way, they may just fix the problem for the next release or the release after.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: hmm
+    hostname: 82.108.129.98
+    created: '1187363501'
+    body: "<cite>Just yesterday I spelled comma as coma and it accepted the spelling.</cite>\r\nOh dear. At least the British dictionary rejects \"liase\" - unlike MS did for years. You might like to read this..\r\nhttp://en.wikipedia.org/wiki/Spell_checker\r\nThere's a useful poem on it to try.\r\n\r\n<cite>* OpenOffice.org's cut and paste from Firefox to an OpenOffice.org document requires time to warm up on some web pages before it can be used. I finally figured out a workaround: Cut with the mouse and paste with Ctrl+V.</cite>\r\n\r\nNot sure what you mean by \"warm up\" but I'm pretty sure it won't be OOo's fault. I've noticed a few times that Firefox doesn't always use Klipper as one would expect. It may be this that is causing the issue.\r\n\r\n<cite>* OpenOffice.org's cut and paste feature (while using the KDE Desktop in Ubuntu (not Kubuntu)) captures a few characters before what I want to cut from a web page and paste a few less characters than I intended when I insert it in an OpenOffic.org doc.</cite>\r\n\r\nNever encountered this running KDE (3.5) on Debian. You mention cutting from a web-page (by which I take it you mean \"copying\") which implies the issue is again related to your Firefox/KDE interaction than anything particularly wrong with OOo (or Firefox or KDE for that matter).\r\n\r\nThat said if you *do* mean *cut* and paste (e.g. Ctrl-X) then that's your problem. Attempting to cut some text from a web-page (not within a form control) will usually result in nothing being passed to the clipboard.\r\n\r\nYes you can open two copies of the same file but the second one will be read-only.\r\n\r\nFinally you don't mention if during your 3 years of use you've fed any of this back to the developers. If not it might be an idea - it's how end-users become a bigger part of the community.\r\n\r\nRyan"
+-
+    name: 'Anonymous visitor'
+    mail: lixo@gmail.com
+    subject: 'You should not spit in the plate you are eating'
+    hostname: 193.136.225.41
+    created: '1190793710'
+    body: "You can always pay the msoffice licence (Or you can have some vacations!)\r\n\r\nFor me, and I'm a \"young\" OO user, \r\nit works more than fine for the price. \r\nObviously that it could have some extra features. I'm sure they will come with time...\r\n\r\nBest regards, \r\nPC."

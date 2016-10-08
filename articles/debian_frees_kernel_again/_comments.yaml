@@ -1,0 +1,14 @@
+-
+    name: marlowa_bnp
+    mail: ''
+    subject: 'so this means there is no more need for gNewSense, right?'
+    hostname: 155.140.133.57
+    created: '1297330351'
+    body: "I am really pleased to hear that Debian is making better provision for a completely free/libre version. Surely this means there is no longer a need for gNewSense. Wouldn't it be better for gNewSense developers to join forces with Debian to improve it even more?\r\n\r\nRegards,\r\n\r\nAndrew Marlow\r\nhttp://www.andrewpetermarlow.co.uk\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Not that simple'
+    hostname: 62.140.212.3
+    created: '1297347348'
+    body: "[gNewSense's FAQ](http://www.gnewsense.org/FAQ) hasn't been updated to reflect the removal of the binary blobs in Squeeze yet so I guess we'll have to wait and see what their stance is.\r\n\r\nHowever I suspect it's not as simple as you suggest. gNewSense prides itself on not supplying non-free software through it's repositories either. This is something that Debian still does, although it does corral them into an aptly-named \"non-free\" repository which is disabled by default. Also the relationship between Debian and the FSF has been fractious at times so I would guess that FSF's involvement in gNewSense will keep it around for some time yet.\r\n\r\ngNewSense 3.0 will be based on Debian not Ubuntu (as 2.x is) so if nothing else the removal of the blobs from Squeeze will make life easier for them.\r\n\r\nFinally, one of te best things about free software is the ability to fork, amend and redistribute software as you see fit. This can lead to a seeming diaspora of programmers spread across a wider range of projects but it also means we get distributions and software which would simply not exist in the proprietary world because of potential low returns.\r\n\r\n\\-\\-  \r\nEquitas IT Solutions - fairness, quality, freedom  \r\n[http://www.equitasit.co.uk](http://www.equitasit.co.uk)"

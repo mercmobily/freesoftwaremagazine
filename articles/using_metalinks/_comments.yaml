@@ -1,0 +1,35 @@
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: simplicity...
+    hostname: 81.62.148.35
+    created: '1171294172'
+    body: "Sound like a great technique, never heard of it before, thanks!\r\n\r\nI hope it will soon be integrated into Firefox as default and by as many websites as possibel. Otherwise most of the users (the ones that need simplification most) won't be able to use Metalinks."
+-
+    name: ''
+    mail: ''
+    subject: 'Firefox intergration'
+    hostname: 82.73.61.120
+    created: '1171388280'
+    body: 'Most downloads can now be done with a <a href="http://prog.infosnel.nl/metalinks/metamirrors.xpi">Firefox plugin which will generate a Metalink</a> through <a href="http://www.metamirrors.nl/">Metamirrors</a>. You can just right-click on most download links (like Unbuntu.org''s images) and then simply let that site generate a metalink for you. The only thing the publishers have to do is post the file''s hash information on their mirrors.'
+-
+    name: 'Anthony L. Bryan'
+    mail: ''
+    subject: 'aria2 binaries'
+    hostname: 66.176.118.121
+    created: '1172026947'
+    body: 'aria2 is now available for Debian, Arch, Ubuntu Feisty, Fedora, and Gentoo. apt-get install aria2, yum install aria2, etc'
+-
+    name: ''
+    mail: ''
+    subject: 'That''s a bad reason'
+    hostname: 213.212.20.10
+    created: '1172429451'
+    body: "If your country's official mirror gives you that crappy speed, that's a very bad mirror and you should change to a faster one! I never get under 1MB/s which is about my capacity at home. Most mirrors are at large companies and universitys with plenty bandwidth.\r\n\r\nDownloading from one source is more efficient than downloading from many (less IP overhead, less fragmentation, less complex). Most large projects such as Fedora, Debian, Mozilla and OOo has very well connected mirrors. I think it is a better idea to kick the bad mirrors out instead of making these complex p2p things."
+-
+    name: 'Anonymous visitor'
+    mail: weening@gmx.de
+    subject: 'I cannot get Metalink -- please help!'
+    hostname: 85.181.67.198
+    created: '1182930815'
+    body: "Hello!\r\nI want to use METALINK with my GetRight and Flashgot (for Firefox) downloading -- BUT although I have followed Metalink instructions and downloaded THREE Metalink-related programs (Abiword, Elephant Dream, and Adobe8 Reader)I am hopelessly unable to get GETRIGHT/Flashgot to recognize  or work with Metalink. Everything still just downloads the old way. In fact, although Abiword and Adobe8 were successfully downloaded, Metalink doesn't seem to have \"accompanied\" those programs. \r\nPerhaps there is something in my GETRIGHT configuration which hinders the implementation of Metalink?? -- at any rate, I am too technically dumb to know what to do myself.\r\n\r\nHELP, please!\r\nCarolina "

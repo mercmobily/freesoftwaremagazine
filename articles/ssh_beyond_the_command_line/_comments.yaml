@@ -1,0 +1,84 @@
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'Great article!'
+    hostname: 68.197.66.72
+    created: '1186434794'
+    body: "Love it!  Informative, easy-to-use, and includes instructions for KDE as well as Gnome!  Looking forward to the next article.\r\n\r\n--\r\nAndrew Min\r\nhttp://andrew.timstown.net/dock.htm"
+-
+    name: ukh
+    mail: ''
+    subject: 'Nautilus is annoying'
+    hostname: 130.226.47.227
+    created: '1186494908'
+    body: "Thanks for a nice article!\r\n\r\nI find going through Nautilus annoying since, at least in my environment, it defaults to the root, rather than my home directory.  For those needing a GUI frontend in Gtk+ that doesn't involve digging for your $HOME, I'd suggest looking at gFTP, <code>http://www.gftp.org/</code>.\r\n\r\nFOSS SFTP frontends on Mac OS X include Fugu, <code>http://rsug.itd.umich.edu/software/fugu/</code> and Cyberduck <code>http://cyberduck.ch/</code>.\r\n\r\nAlso, being a GPL SFTP client on Windows, I think FileZilla, <code>http://filezilla.sourceforge.net/</code>, deserves to be mentioned.\r\n"
+-
+    name: undefined
+    mail: ''
+    subject: 'ssh, windows, cygwin'
+    hostname: 68.93.98.201
+    created: '1190810066'
+    body: "first, \"openssh for windows\" appears to be unmaintained with no releases since 2004 and with a statement claiming such on http://www.openssh.com/windows.html.  i don't recommend unmaintained security software.  that page lists an alternative: copSSH.  not that i care much for cygwin, especially application-specific cygwin installations, as it was (is?) troublesome (cygwin applications interact poorly with cmd, native applications interact poorly with bash, different versions of cygwin dll conflict with one another due to versioning of shared memory, etc) and slower than native.  granted, my experience is dated (2004), but was extensive at the time, and i finally gave up in frustration and decided \"when in rome, do as the romans\".\r\n\r\nsecond, i never found ssh to be that useful on windows.  most (all) meaningful windows applications require a gui which means rdp.  for administration, windows is nearly impossible to interactively administrate without the control panel and mmc.  just about every windows application installer assumes a gui, too.  yes, there are ways to administrate and install without a gui, but if you are \"in bed\" that much with windows, you're probably using wsus, login scripts, psexec, etc.  for file transfers?  never had that big of a need as i usually tunnel to a linux box and get it by way of that machine (port forwarding vnc and/or rdp, remote x-windows file manager, or just smbfs).\r\n\r\nthirdly, \"run GUI GNU/Linux applications remotely on a Microsoft Windows host\"?  xming?"
+-
+    name: skypjack
+    mail: ''
+    subject: Good
+    hostname: 79.9.4.163
+    created: '1190814043'
+    body: "Really an easy-to-use, good article!\r\nThanks so much ..."
+-
+    name: 'Chris G.'
+    mail: cgauthie@pcc.edu
+    subject: 'That''s too much work!'
+    hostname: 209.152.38.200
+    created: '1190818126'
+    body: "This is an overly complicated process that can be solved with two small, simple, and free programs:\r\n1) Simon Tatham's PuTTY (http://www.chiark.greenend.org.uk/~sgtatham/putty/)\r\n2) FileZilla (http://filezilla-project.org/)\r\n\r\nFileZilla has some notable features (quoted here from their site):\r\n    * Easy to use\r\n    * Supports FTP, FTP over SSL/TLS (FTPS) and SSH File Transfer Protocol (SFTP)\r\n    * Cross-platform. Runs on Windows, Linux, *BSD, OSX and more\r\n    * Available in many languages\r\n    * Supports resume and transfer of large files >4GB\r\n    * Powerful Site Manager and transfer queue\r\n    * Drag & drop support\r\n    * Configurable Speed limits\r\n    * Filename filters\r\n    * Network configuration wizard\r\n\r\nMy organization manages over 8000 machines and have found FileZilla so useful and simple, we have replaced the aging WS_FTP with it in our base image.  PuTTY is also part of our base image.  Why?  Because it's free, simple and versatile.  If you like command lines, then it also has utilities to work from the command line, especially for SCP.\r\n\r\nAs I stated in the subject line, this article is too much work for the benefit.  Use easier, supported solutions.\r\n"
+-
+    name: undefined
+    mail: ''
+    subject: 'nautilus secondary, gnomevfs primary'
+    hostname: 192.91.147.34
+    created: '1190819916'
+    body: "the benefit to ssh-gnome integration (gnomevfs) is not necessarily nautilus supporting ssh, but most (all?) gnome applications supporting ssh.\r\n\r\ncorrect me if i'm wrong (it might have been smb, not ssh, that i recently exercised, but i've done something similar with ssh-access under gnome), but recently my wife needed to edit a document (not a plain text file) on a remote server with openoffice.  it just worked.  later we needed to open a remote file with a non-gnome application which required copying the file locally with nautilus, editing it, and copying it back.  my wife didn't care for the multi-step process.\r\n\r\nso yeah, though nautilus might not be the best ssh/sftp/scp client, it's just the tip of the gnomevfs iceberg.\r\n\r\n(btw, to be desktop-agnostic, kde w/ kio slaves is smiliar, if not identical.)"
+-
+    name: mind
+    mail: no@mailinator.com
+    subject: sshfs
+    hostname: 72.79.229.244
+    created: '1190829930'
+    body: "no need for gnome vfs or kde proprietary filesystem wrapper paths. fuse is in the kernel, and sshfs is in my apt tree on ubuntu.\r\n\r\n% sudo apt-get install sshfs\r\n% sshfs server: ~/remote\r\n\r\nwill mount your home directory on server under ~/remote on the local machine, using only the sftp server on the remote end.\r\n\r\n"
+-
+    name: undefined
+    mail: ''
+    subject: 'work?  windows was brief'
+    hostname: 68.93.98.201
+    created: '1190866445'
+    body: "overly complicated process?  solved with two small, simple, and free programs?\r\n\r\nyou seemed to have forgotten about the server?  half of the article (1.5 pages) was about configuring sshd, but without that \"work\" and \"complicated process\" your clients are useless.\r\n\r\nand the rest of the article was about linux: openssh's scp, gnome's nautilus, and kde's konqueror. oh yeah, there was an itty-bitty bit about windows (which you are definitely coming from with comments about putty & ws_ftp).\r\n\r\nso the relatively small mention of windows support, really only winscp, is \"too much work\" and part of \"an overly complicated process\"?  yeah, introducing TWO applications (filezilla & putty) is so much easier and simpler than just one (winscp).\r\n\r\nanyways, i think the article is laid out well and progresses logically:\r\n- intro\r\n- sshd configuration (because ssh requires a server and configuration is important for security)\r\n- scp (the original, basic, & default file client for ssh)\r\n- nautilus (gnome integration)\r\n- konqueror (kde integration)\r\n- winscp (windows-specific client)\r\n\r\ni may question the utility of sshd on windows, but that's a very small part of the article, and i wouldn't make general comments about the whole article based on that one paragraph."
+-
+    name: 'Anonymous visitor'
+    mail: seo@iname.com
+    subject: 'SSH commands for memory and cpu ?'
+    hostname: 80.217.216.172
+    created: '1191032921'
+    body: "Hello Nathan and Hello World,\r\n \r\n \r\nI'm new to ssh and want to ask you a question:\r\n \r\nI have signed up for a dedicated server.\r\nNow I want to check if the memory really is 2 GB\r\nand that the cpu really is a pentium 4 and not a celeron.\r\nDo you know the ssh commands for that?\r\nMaybe diskspace and bandwidth can be checked also?\r\n\r\nCuteFTP Pro seems to handle ssh: www.globalscape.com\r\nIt should be debian, similar to freeBSD installed on an apache server.\r\n \r\nThanks a lot,\r\n \r\nCustomer911"
+-
+    name: 'Grant McLean'
+    mail: grant@mclean.net.nz
+    subject: 'Linux GUI tool for SSH'
+    hostname: 202.78.240.7
+    created: '1191450540'
+    body: 'Shameless plug ... Linux users looking for a GUI tool to manage their SSH connections should check out SSHMenu: http://sshmenu.sourceforge.net/'
+-
+    name: 'Anonymous visitor'
+    mail: brethel@gmail.com
+    subject: 'personally i can''t imagine my daily work without ssh'
+    hostname: 189.33.168.56
+    created: '1191970146'
+    body: "and let's not forget about beautiful multimedia streaming over ssh with elegant commands like:\r\n\r\n<code>ssh xoxota cat /data/1/mp3/ChicoBuarque/O_Grande_Circo_Mistico/08-Ciranda_da_bailarina.mp3 | mpg321 -</code>\r\n\r\n( where i log on my remote machine \"xoxota\", and execute a \"cat\" of a file, piping it to the mp3 player \"mpg321\" running locally on my laptop )\r\n\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: brethel@gmail.com
+    subject: 'assuming it''s a linux'
+    hostname: 189.33.168.56
+    created: '1191970484'
+    body: "assuming it's a linux machine, log on your server and run these commands:\r\n\r\n<code>cat /proc/cpuinfo</code>\r\nand\r\n<code>cat /proc/meminfo</code>\r\nand\r\n<code>df -h</code>\r\n\r\nchecking bandwidth would be tricky, but you can keep an eye on\r\n<code>cat /proc/net/dev</code>\r\nto monitor how much data is going through your network interface...\r\n\r\n[]'s\r\n\r\n\r\n"

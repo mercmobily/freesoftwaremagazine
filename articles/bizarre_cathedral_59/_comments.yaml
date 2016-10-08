@@ -1,0 +1,14 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Ouch!
+    hostname: 68.116.159.234
+    created: '1258350275'
+    body: "I really wish that APT provided the equivalent of an \"Undo\" button -- I've managed to hose my package system with unstable packages on a number of occasions. I usually wind up re-installing the O/S.\r\n\r\n(Yes, I know that an \"undo\" option would be very difficult to implement -- that doesn't make it less desirable, though).\r\n"
+-
+    name: 'Marco Marongiu'
+    mail: ''
+    subject: '"it removed the whole of KDE"...'
+    hostname: 82.85.20.21
+    created: '1258359969'
+    body: "...and what's wrong with that? It's a fully successful system cleanup :-)\r\n\r\nJust joking, people ;)\r\n\r\nCiao\r\n--bronto"

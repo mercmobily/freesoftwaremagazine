@@ -1,0 +1,14 @@
+-
+    name: 'Dan Parker'
+    mail: parker25@gmail.com
+    subject: 'Password Management Option'
+    hostname: 74.92.136.114
+    created: '1177617423'
+    body: 'A good option for password management on the corporation level is a product called Secret Server.  Its as secure as you can get and admins can keep track of all password usage.'
+-
+    name: admin
+    mail: ''
+    subject: 'Secret Server is not free software'
+    hostname: 165.98.157.37
+    created: '1177629015'
+    body: "Secret Server appears to be released under a freeware license not a free software license. This means that the source code is not available for study or modification.\r\n\r\nFSM does not endorse the use of non-free software.\r\n\r\nFurther, it is only available on Windows platforms.\r\n\r\n"

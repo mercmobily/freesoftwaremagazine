@@ -1,0 +1,21 @@
+-
+    name: oh2bamonkey
+    mail: mcolledge@gmail.com
+    subject: 'missing semi-colon '
+    hostname: 200.122.166.132
+    created: '1191797788'
+    body: 'when creating the first table, line 4 should be like this: PRIMARY KEY (PK_ITEM) );'
+-
+    name: 'Anonymous visitor'
+    mail: fcryuuhou@yahoo.co.jp
+    subject: 'thanks so much,Alan'
+    hostname: 122.24.39.128
+    created: '1196930011'
+    body: "thanks so much,Alan Berg\r\nYour article is so useful to me. I am certainly a newer to Linux and the softwares. But your article helps me a lot.\r\nthank you."
+-
+    name: abshandra
+    mail: ''
+    subject: 'This is really beginner'
+    hostname: 68.68.107.37
+    created: '1259442660'
+    body: 'This is really beginner guide. You teaches us from the basic. I like it. However, if I''m not installing Ubuntu, but I do install SuSE or fedora, is it still the same? Thanks in advance. [Spam link edited out - Ed]'

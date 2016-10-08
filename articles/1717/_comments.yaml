@@ -1,0 +1,7 @@
+-
+    name: 'Gianluca Pignalberi'
+    mail: ''
+    subject: 'The GNU utilities'
+    hostname: 62.11.1.250
+    created: '1155842075'
+    body: "Hi Tony,\r\nsince you -correctly- mentioned GCC as not part of GNU utilities, I think Stallman and GNU have to be mentioned for another important software (and technique): gprof, the GNU profiler. Without it, a lot free software would run slower than it actually does."

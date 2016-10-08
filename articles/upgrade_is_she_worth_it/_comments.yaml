@@ -1,0 +1,14 @@
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Quite close, but...'
+    hostname: 84.97.181.253
+    created: '1177756004'
+    body: "...there are things that can't be done, for various reasons:\r\n<ul>\r\n<li>copying the XP look can be considered copyright infringement. However some themes (see LookXP for example, or XPde) already allow a very close copy of the everyday interface you get with Windows XP.</li>\r\n<li>Linux can't run Windows drivers, and its drivers don't work the same anyway; as such, hardware compatibility goes out the window (pun half-intended).</li>\r\n<li>Linux can't run Windows software (you need a wrapper: see Wine, Cedega, Crossover) as-is.</li>\r\n</ul>\r\nAn opportunity to do what you ask for is not to use Linux and Linux-based systems, but to use Free reimplementations of win32 and the NT kernel: check out <a href=\"http://www.reactos.org\">ReactOS</a> for an idea of how difficult this is.\r\n\r\nLinux is Linux; turning it into a Windows XP clone is like putting Angelina Jolie in size 50 greasy coveralls with tool belts and pouches: it might fit, but the result is awkward, unflattering, not working and frustrating for all involved.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'K. Meyer'
+    mail: kvm.general.use@spamex.com
+    subject: 'Enough About BSOD Already!'
+    hostname: 138.162.128.53
+    created: '1181083139'
+    body: 'The only time I''ve had a BSOD in Windows XP was due to buggy video drivers.  Can the Linux crowd please stop already about BSOD?  I haven''t experienced it.'

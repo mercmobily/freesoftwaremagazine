@@ -1,0 +1,14 @@
+-
+    name: lpotter
+    mail: ''
+    subject: Gutenbrowser
+    hostname: 58.173.176.153
+    created: '1235075770'
+    body: "Apparently, the version of Gutenbrowser that you reviewed (judging by the screenshot) is a bit out of date. The current version is based on Qt 4 and webkit, and is able to display full html content. It is also able to download newer etexts that live in the Gutenbergs project new file system hierarchy.\r\n\r\nAt any rate, thanks for the mention!\r\n\r\n"
+-
+    name: 'John Samuel'
+    mail: ''
+    subject: 'Great to see this article.'
+    hostname: 115.108.7.77
+    created: '1235484504'
+    body: 'Great to see this article. Quite informative.'

@@ -1,0 +1,252 @@
+-
+    name: ''
+    mail: ''
+    subject: 'System Settings'
+    hostname: 128.243.220.22
+    created: '1171890032'
+    body: 'It''s worth knowing that System Settings is a customised control centre programme which is unique to Kubuntu, and distributions based on it, such as gNewSense-KDE. You should try out the official KDE control centre, KControl, as well, which you may or may not prefer, to get a proper impression of that aspect of KDE.'
+-
+    name: ''
+    mail: ''
+    subject: 'distro dependent'
+    hostname: 83.165.10.237
+    created: '1171894268'
+    body: "Your short biased \"review\" is essentially flawed. The way a desktop as flexible as KDE is set by default depends (attention!) *A LOT* on the distribution you take for a ride. Do not expect neither Slackware not even the \"user friendly\" Kubuntu to make the homework for you. \r\nNevertheless, in distributions where being rock solid barebones (with all my respects to Slack) or marketing fuss matters less than real world usability, KDE sports everything you seemed to yearn. This is mainly the case of PCLInuxOS and, to a certain extent, MEPIS."
+-
+    name: ''
+    mail: ''
+    subject: 'Switching Desktops'
+    hostname: 141.52.232.84
+    created: '1171895062'
+    body: 'In KDE, you switch Desktops by pressing Ctrl+F1.....F12. I think this is way simpler than pressing Ctrl+Alt+Right repeatedly. '
+-
+    name: ''
+    mail: ''
+    subject: '"all be it" - what the hell is that?'
+    hostname: 69.29.210.198
+    created: '1171896997'
+    body: "In your very first paragraph, albeit, not \"all be it\".\r\n\r\nAlbeit - Even though; although; notwithstanding: \"Jonathan holds some strong opinions, albeit he is an idiot.\""
+-
+    name: ''
+    mail: ''
+    subject: 'Shortcuts and Menus'
+    hostname: 67.9.135.43
+    created: '1171898374'
+    body: "I changed the default for switching desktops so long ago that I don't remember what it was originally set to, but I find having Alt+Tab for windows, Win+Tab for desktops, and Ctrl+Tab for browser tabs makes them all very easy to switch between.\r\n\r\nI agree completely with the messy menus comment. This is one thing I like better about GNOME. I have to switch to just using the program's name in the menu for KDE because the description in parenthesis is very cluttering. And if you leave the default and install GIMP it will appear as GIMP Image Editor (Image Editor). Very annoying. If every .desktop file listed what should appear in the menu in the Name entry like the GNOME apps do everything would be much nicer.\r\n\r\nChad\r\n<a href=\"http://linuxappfinder.com\">http://linuxappfinder.com</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'KDE only feature?'
+    hostname: 207.106.35.30
+    created: '1171909002'
+    body: "One thing I found in KDE: when you put mouse pointer over desktop switcher KDE pops a bubble with list of apps in that desktop. Gnome does not do that (or I could not find the setup for it). I find this to be useful when you forgot which desktop your app is in (saves you from switching between desktops while searching for it).\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'OpenSuse''s Interpretation of KDE'
+    hostname: 69.177.207.237
+    created: '1171910219'
+    body: "For years I was also a big gnome fan but recently, since the whole Microsoft/Novell get-together I decided to try a new distro - which I fell in love with. PCLinuxOS is everything I have ever wanted but I had to get used to KDE to use it. It didn't take too long but I still find myself going into the Xterm to do a lot of things, because its just more efficient!\r\nBut I would recommend to you trying out OpenSuse 10.2's interpretation of both KDE and Gnome. As much as I dislike Novell for their contract with the devil I can't put down the wonderful work the opensuse community has done - I adore their Gnome setup because it is so pretty and serene - and although I havnt spent much time with their KDE setup, it seems that the K-menu is MUCH easier to use. If I knew how I would put their menu on PClinuxOS - and Im sure its easy - if you find out, would you let me know how?\r\nGood luck with this new experience."
+-
+    name: ''
+    mail: ''
+    subject: 'Mouse User'
+    hostname: 165.21.154.9
+    created: '1171952896'
+    body: "While most experts uses the keyboard short-cut, some new users like me prefer to use the mouse (as in desktop).\r\n\r\nWith this in mind, I am not able to switch virtual desktop in Gnome while in KDE, I can right click on Pager -> Configure Desktop -> Enable Mouse Wheel Over Desktop.\r\n\r\nMost of us find this indispensible :-)\r\n\r\nAnonymous coward "
+-
+    name: guydjohnston
+    mail: ''
+    subject: 'System Settings'
+    hostname: 80.6.126.167
+    created: '1171993915'
+    body: "It's worth knowing that System Settings is a customised configuration programme unique to Kubuntu and its derivatives, such as gNewSense-KDE. You should also try out the official programme, KControl, to get a proper idea of that aspect of KDE.\r\n\r\n--\r\nGNU - free as in freedom"
+-
+    name: ''
+    mail: ''
+    subject: 'Mouse gestures'
+    hostname: 193.77.107.163
+    created: '1171995225'
+    body: "You can set up mouse gestures in Konqueror the way they work in FFox and you'll see big increase in navigation speed. \r\n\r\nAnonymous coward ;))"
+-
+    name: ''
+    mail: ''
+    subject: 'What strange keys...'
+    hostname: 67.68.228.116
+    created: '1172018574'
+    body: "Since when does ctrl-alt switch between open windows? I've always used alt-tab to switch windows since the dawn of time, when dinosaurs roamed the earth. This is the default in Windows, MacOS and KDE. Even AfterStep, back when I used that, among many others I had no idea Gnome used ctrl-alt. What an odd duck, I never would've guessed it off-hand.\r\n\r\nAs far as the first login goes, it always takes a little while longer because KDE sets up its configuration files in your home directory. Every subsequent login is MUCH faster.\r\n\r\nIf you wanted a more organized K Menu, then openSUSE's version would have been a better choice than Kubuntu. Some have complained about the odd navigation, but a few weeks of using it convinced me that it's a much better way to organize a menu. Far less cluttered, without the endless panes of cascading lists that can reach into infinity.\r\n\r\nThe best advice I have is to give the KDE apps a chance instead of running your usual Gnome apps within KDE. The magic of KDE comes from the integration of all the apps and utilities. Opening, editing and saving text files in Kate transparently over ftp is a good example of this. I've never been able to do this properly in Gnome.\r\n\r\nOn the other hand, I still prefer Evolution to KMail for my IMAP mail. Not all the KDE apps are suitable for my needs."
+-
+    name: ''
+    mail: ''
+    subject: 'Dead Horse'
+    hostname: 70.109.101.176
+    created: '1172029136'
+    body: 'When will PETA get involved and stop you people from beating this poor dead horse?'
+-
+    name: ''
+    mail: ''
+    subject: 'My two cents.'
+    hostname: 70.92.242.47
+    created: '1172032857'
+    body: 'I use KDE at work and Gnome at home.  I think Gnome feels better all around, and seems more stable.  I like some of the advanced features like KDE''s printer control panel (how you can scan a subnet).  However, I too feel KDE is cluttered and loaded with tons of things I have no use for.  I personally don''t like how everything has to start with a "K" either. It can be summed up Gnome feels more like  Mac OS X, and KDE feels more like Windows.  I am very excited for KDE 4 and hope oxygen and plasma deliver!'
+-
+    name: ''
+    mail: ''
+    subject: 'Sometimes the visual confusion is related to familiarity'
+    hostname: 149.135.66.233
+    created: '1172036333'
+    body: "My day-day desktop is Windows, but right next to it, I have a KDE desktop. I work in an environment that demands a WIndows PC - Oh well.\r\n\r\nAs per your observation, I started using KDE back in the 0.xx days, and got to know it and had no need to change. These days, with the open desktop standards, I find that all the cool aps pulling me towards Gnome work just as well with KDE.\r\n\r\nAs far as finding the interface messy, I get a little lost in Gnome. I rememer that going from Windows 3.1 to Windows 95 freaked me out, and I found it very tiring and distressing for 10 or 11 years after that (actually a week or so pulled it up, but I am still finding stuff in XP). I think a lot of the usability of the GUI comes from learning the visual cues etc. As another example, OS-X really confuses the hell out of me, but only as I haven't taken the time to sit and learn what the obvious, intuitive intereactions are meant to be like.\r\n\r\nAll power to the KDE/Gnome battle. We are seeing both environments move ahead in leaps and bounds, trying things out (and failing in some cases), but in general, moving in the same direction: a full featured usable desktop, with shared standards and a choice. Sharing when they can, and competing/disagreeing when the need arises. Any given battle may be won by the other, but they both win by being able be different. The big players can't afford to experiment like this."
+-
+    name: ''
+    mail: ''
+    subject: 'Neither work well'
+    hostname: 70.17.125.151
+    created: '1172092819'
+    body: "I've begun an explanation of why both KDE and Gnome suck on my site.\r\n\r\n(http://www.foreverdean.info/kevin/?p=15)\r\n\r\nI don't propose that some other option is better, merely that both projects need work. It seems in my mind that the biggest downfall of both Gnome and KDE is that they each work with the other quite poorly."
+-
+    name: ''
+    mail: ''
+    subject: 'Gnome Vs. KDE'
+    hostname: 203.107.142.190
+    created: '1172148984'
+    body: 'I am about a week ahead of you. I am running a triple boot Oubuntu PC (Ubuntu, Edubuntu and Kubuntu) and this is my first experience with K. While I am using Amarok and K3B at home with Fedora Core 6 in Gnome, I wanted to really give KDE an honest trial. So far I am not enjoying it. While many of the programs are excellent (like the aforementioned Amarok and K3B) and the configuarbility will be a bonus in the future, at the present most of the settings are not intuitive for me and I am .... uncomfortable, rubbed the wrong way, grouchy in ways that I can only express in terms that are silly. Like, I am sick to death of K-this and K-that. I know this isn''t the real reason, but the reason is hiding beneath that blue desktop somewhere in a subliminal folder. Probably I''ll be able to address it later, but this first week hasn''t been happy.'
+-
+    name: 'Jonathan Roberts'
+    mail: ''
+    subject: 'Thanks...I''ll remember that'
+    hostname: 88.110.61.208
+    created: '1172156984'
+    body: "Thanks...I'll remember that for the future :D (minus the idiot bit!)\r\n\r\nJon\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Dave
+    hostname: 192.70.242.45
+    created: '1172488400'
+    body: "I recently set up our users (non technical people) with gnome (ubuntu). One by one they are all asking to be set up with kubuntu.\r\n\r\nAs someone who used gnome for two years until a couple of months ago, I can ubiasedly say KDE is just all round a better desktop and this despite distros pushing gnome as their default.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'I personally installed'
+    hostname: 84.12.185.216
+    created: '1172506936'
+    body: "I personally installed Ubuntu and the Kubuntu on top, so I can use all the main progs in the one desktop.\r\n\r\nI wonder how the Kubuntu development will go now that there will be collaboration with Linspire!"
+-
+    name: 'Al Kelly'
+    mail: ''
+    subject: 'Religious wars on the desktop  (ARGH!)'
+    hostname: 74.133.94.113
+    created: '1172520584'
+    body: "I think that both DTEs (Gnoome and KDE) have their good points and bad points. Any time anyone writes/saya/sends up smoke signals saying good *or* bad things about DTEs,browsers, OSs, or the merits of non-splintery toilet paper, the gloves come off and tempers flair. Get over it! The bloody boat sank. Use whichever of the DTEs and/or window managers that works best for you and let the rest of us do the same. Or go buy a Mac any you will have eye candy that you can't mess with or maybe even figure out the obscurely intutitive UI.\r\nSheesh! Grip a grip people.\r\n\r\nCheers,\r\nAlisdair (but you can call me Al)"
+-
+    name: ''
+    mail: ''
+    subject: 'My story...'
+    hostname: 63.224.45.121
+    created: '1172680721'
+    body: "When I first dabbled in Linux some years back, KDE was the default (I've since forgotten the distro I was using back then). I loaded up Gnome and found it (then) to be clunky, slow and feeling like a beta. KDE was much faster and easier to use. \r\n\r\nFast-forward to 2007 and I'm running Ubuntu on a PIII laptop. I loaded KDE (not the Kubuntu DE, mind you - we're talking straight KDE) and found it responsive enough - but cluttered. Sure, I could figure out where stuff was and admit there's a higher level of control options available but, I tend to like one (or two, at most) directions to get to where I need to go. KDE seems to bend over backward trying to make 6 roads to reach the same destination. \r\n\r\nThe stickler for me, on a laptop that roams, is wireless configurations. In Gnome, I have network-manager. It's perfect and never fails me. It does it all, right in that one little icon. In KDE, I see at least 4 places where I can configure my network connections and, in my case, only one of them worked. I installed the KDE equivalent of NM and, although it first launched and fully resembled the Gnome version, it soon sank and would only display a red \"x\" and claim it wasn't running. If I can't easily switch between open/hidden/encrypted/shared/LAN/wireless networks using a laptop then the DE is useless to me, no matter how shiny it is."
+-
+    name: ''
+    mail: ''
+    subject: '...By Accident'
+    hostname: 220.245.178.133
+    created: '1172751280'
+    body: 'It might be way simpler, but it conflicts with tabbed applications like Firefox. You see, CTRL+F4 is the shortcut for closing a tab and when you try to do that in Firefox under KDE, you end up staring at Desktop #4.'
+-
+    name: ''
+    mail: ''
+    subject: 'The Flipside'
+    hostname: 74.226.33.106
+    created: '1172864079'
+    body: "KDE is more glitz and eye candy.  I started with KDE pretty much because it had that \"snazzier\" appearance.  Later I gave Gnome a more fair trial and I must say I enjoy it's more robust nature over the glitz of KDE.\r\n\r\nI believe the reason your \"users\" are wanting KDE is simply it's glitzier nature and the fact the \"grass seems greener\".  Let them frolick in the KDE fields a few months, break things and decide then."
+-
+    name: ''
+    mail: ''
+    subject: 'Leaving Gnome :('
+    hostname: 68.48.90.134
+    created: '1173297969'
+    body: "I was a GNOME user and occasional developer since it's first alpha releases. I never bashed KDE but always championed GNOME, but in the last month I have just felt restricted in GNOME (not talking about look and feel), simple things like not being able to type the path to a file in an open dialog, etc. I compiled KDE and gave it a shot (I use a LFS distro and ubuntu). The only gnome/gtk app I still have is GIMP. Configuration in KDE is a little more intimidating but the applications work and I get my work done faster because of them and that is all that really matters to me. \r\n\r\nI also took the time to write a simple text editor in QT. QT seems to be a well written library and very easy to use, I've only toyed with it for two weeks so I can't say too much about QT.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Noob view'
+    hostname: 68.144.112.69
+    created: '1175619465'
+    body: "I'm not sure if my opinion matters here but I'm totally new to this and I have just given up on windows.I'm using SUSE 10.0 with the Gnome desktop but I have also tried the KDE desktop.KDE is just plain more confusing than Gnome. When I install stuff like picasa or Blender I can fumble around and get it to work with Gnome but try as I might I can't get them working in KDE, most stuff just opens up in an editor so I can see it but does not run.Sad to say the main best part of   windows was that if you clicked an EXE it just worked, but that was also it's biggest problem.I like Linux but it's so splintered across different distros and flavours that the learning curve for them is more like a vertical line.\r\nIt is very difficult to get cozy with it.\r\n\r\nPL\r\n"
+-
+    name: 'Weird Coward'
+    mail: wtfwasthatman@imafuckingweirdcoward.com
+    subject: 'I''m not even started on Linux..'
+    hostname: 216.186.52.42
+    created: '1179156749'
+    body: 'I reached this article because I''m still using WinXP and I want to check Linux out.  I have Ubuntu and Kubuntu laid before me I don''t know which to check out first.  After reading all the stuff about it, I still can''t decide.  Oh well..'
+-
+    name: 'Anonymous visitor'
+    mail: h35fyxka96y11sj@temporaryinbox.com
+    subject: 'No because PETA is too busy'
+    hostname: 76.203.10.54
+    created: '1180739376'
+    body: 'No because PETA is too busy being a terrorist group.'
+-
+    name: 'Newb to Linux'
+    mail: mytechcomment@hotmail.com
+    subject: 'Same as above'
+    hostname: 216.255.19.155
+    created: '1182877634'
+    body: "I am a network admin for the last 6 years (Windows PC domain) and am looking for a way off Microsoft's extortion list, living in constant fear of the next Microsoft wave of software vulnerabilities and constant barrage of glitches. I too have Ubuntu and Kubuntu iso's for a trial run, but the only differences anyone ever states about these two flavors (Gnome and KDE) are how to make a configuration change or finding a file. What I, and most assuredly, everyone looking for a windows replacement would like to know are the following:\r\n1. <strong>Functionality</strong> - What can Gnome do that KDE can't and vice versa.\r\n2. <strong>Change</strong>What will we loose in switching from Windows?\r\n3. <strong>Security</strong> - Which is more secure (as far as being hacked, sniffed, storing data about the user activities.)\r\n4. <strong>Benchmarks</strong> - How do they compare, performance wise, using the same rig and apps vs. each other & windows.\r\n6. <strong>Integrity</strong> - Can you automate backups/duplications of your personal setting for a reinstall or distributed install at a multiple pc group?\r\n5. <strong>Licensed Software</strong> - Most likely, the most complicated question but perhaps the most trivial. Everything from CAD programs like SolidWorks to DirectX Only PC games. Will it run our 16 bit, 32bit, 64bit programs, or how do we run them? Will we have to emulate winX on K\\Ubuntu or emulate K\\Ubuntu on winX. If so, is there a free way or are we saddled with a software vendor solution? Most windows users have at least 1 program they use that someone charged them for and they would like to continue to use that runs as an exe file, and most likely has some graphical or hardware use. Or perhaps we are left to search for an equivalent in the Linux omniverse.\r\n"
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'I''ll put it simply'
+    hostname: 196.40.10.247
+    created: '1182962076'
+    body: "It's easy really. What you are really deciding on is whether to use GNOME which is what comes by default with Ubuntu or whether to use KDE which is what comes with Kubuntu (hence the K). Are you the sort of person who wants everything decided already and doesn't want to do much tweaking? Go with GNOME or default Ubuntu. Or, are you the sort of person who likes to tweak everything and have lots of options available? If so go with KDE or Kubuntu.\r\n\r\nI use GNOME because I had never tried either until I installed Ubuntu. I like GNOME. I gave KDE a try and I didn't like what I saw. But I can guarantee that if I stuck with it for longer I could have made it look just how I wanted it to look and I would have gotten used to it. Because I don't have weeks to spare getting used to a new way of doing things I'm sticking with GNOME.\r\n\r\nYou have the advantage of being able to choose right off the bat. So look at my questions above and decide what you want to be able to do. Bear in mind that you can install KDE in Ubuntu and try it out. Or you can install GNOME in Kubuntu and try it out. You will always have the choice to change and try and fiddle if you want."
+-
+    name: 'Colly Lord'
+    mail: johnclord@hotmail.com
+    subject: 'what I like least about KDE'
+    hostname: 68.189.54.35
+    created: '1186185330'
+    body: "My pet peeve with KDE is the trite way so many of the most-used apps for it are deliberately misspelled or cutely named just so they can start with K, which completely defeats the purpose of having alphabetized menus.  So what if the menus are still alphabetical when so much of the stuff all lands in K?  Yuck!  If I ever decide to use KDE, I'll probably go through and deliberately uninstall and replace as many K-named programs with non-K-named equivalents as I can. \r\nI'm using plain Ubuntu with the default Gnome desktop, rather than Kubuntu with the KDE desktop, mostly because of that one gripe.  I also don't seem to find things in the KDE menus as easily as I can find them in the Gnome menus.  I'm sure they're all there - just not where I first think of looking.\r\n\r\nOther than that, I'm glad someone out there is making assorted flavors so that people with different preferences can all (hopefully) find something they each like.  I'm sure many people love the layout and look of the KDE menus & desktop.  I even like the looks of KDE - just not actually using it.\r\n\r\n\r\n"
+-
+    name: heedless
+    mail: heedless31m@hotmal.com
+    subject: 'for a beginner kde is'
+    hostname: 217.169.193.30
+    created: '1186640475'
+    body: "for a beginner kde is suitable (looks like windows desktop etc.) \r\nfor a pro gnome is best :)\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: rabbitnightmare@gmail.com
+    subject: 'Ya I too hate the K this and'
+    hostname: 69.204.202.89
+    created: '1191019705'
+    body: 'Ya I too hate the K this and K that... I like amarok because it ends in k and not begins why cant all the programs move the K to the end... So retarded... From using Gnome and KDE together... I like gnome way better... the lie that you cant configure gnome as much as you can KDE is annoying it is just harder to go about it which is cool because someone cant come in and change it on you... I love the Gnome one way of doing things it makes sense to someone normal... the 30 ways to do one thing slows me down. I use amarok and k3b and kopete but for the DE Gnome is the best and with 2.20 it is so much better... I hope I am proven wrong with KDE4 but it looks like more glits and less actual usability Gnome makes me more conductive I find myself playing with KDE more than actually doing things. KDE is a toy and not much more which will do good for Linux... If the beauty of KDE4 doesn''t draw windows and mac addicts over I don''t know what will... for those of us who use computers to work Gnome owns... '
+-
+    name: 'Anonymous visitor'
+    mail: prince_niceguy@gmail.com
+    subject: 'I totally disagree... try'
+    hostname: 71.197.209.244
+    created: '1191085677'
+    body: "I totally disagree... try changing the keyboard short cuts for nautilus? like I am using both windows and linux so to make common i have configured alt + d in the konqueror for address bar... try doing that in nautilus... i am not aware... but i think it is not possible...\r\n\r\ntry getting windows key to do something like using for shortcuts... but in gnome windows key never get integrated. I tried doing it but cannot make it work...\r\n\r\nTry setting the application short cuts in gnome.. you will be limited to 10 only why... because it allows only 10 command short cuts... I know 10 would be sufficient... but the way in which it has to be set is horrible... you have to literally type in keyboard characters like ctrl.. come on... \r\n\r\nKDE has its own problems... main being the crashing apps... but it has improved a lot... it crashes very rarely for me... but when it crash.. have to reboot in most cases...\r\n\r\nbut i wil prefer kde any day... way better than gnome.."
+-
+    name: 'Anonymous visitor'
+    mail: hugo@hugorune.com
+    subject: hmmm
+    hostname: 89.101.4.163
+    created: '1193887301'
+    body: "Personally I prefer XP to OSX.. No, wait, wrong thread. Hang on. Yes, the iPod is way better than the Zen. Damn it! Wrong thread again! Bear with me, I'll get this.. Yes, Blu-ray wipes the floor with, arragh.. \r\n\r\nSeriously though, KDE does it for me. It looks cleaner. Yes, the Keverything is annoying but on a mac there is about 54 thousand things called iSomething. \r\n\r\nInterestingly though, I'm just upgrading my Kubuntu using the dist upgrade and it's just crashed. A reboot will probably f*ck my setup right up. Nice. Oh well, back to XP so I can google things like \"KDE upgrade crash\" and the like :)"
+-
+    name: 'Anonymous visitor'
+    mail: xavierorr@hotmail.com
+    subject: 'kde doomed through naming'
+    hostname: 124.169.174.240
+    created: '1194630310'
+    body: "I am an opensuse and ubuntu user who has been using kde and gnome for quite some time on a number of distributions. I always used to be a big kde fan until I gave gnome a try. \r\n\r\nWhen switching from kde to gnome you realise how trashy all the names of the kde programs are. It is like a bunch of teenage slang talkers got together and named them all, trying to put a K into every name and the random capitalization. I have installed quite a few desktop linux machines over the years and have consistent complaints about having trouble with all the strange names. Image is a big thing for standard desktop users and I think that is going to be KDE's downfall."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'so use Ctrl+W'
+    hostname: 212.159.106.192
+    created: '1196210737'
+    body: "The default shortcut for closing a tab within Firefox is either Ctrl+F4 OR Ctrl+W. As Ctrl+W will do the same on both Opera and IE7, it could be argued (in today's most-popular-wins culture) of being a de-facto standard. :o)\r\n\r\nApps and the Window manager are always going to clash on shortcuts. Heck even between Firefox and its own extensions there are conflicts.\r\n\r\nFirefox maps Ctrl+Shift+F to re-open last closed tab (very handy)\r\nWebDeveloper toolbar maps it to Display Element Information (even handier). Firefox overrules WDT on that one though.\r\n"

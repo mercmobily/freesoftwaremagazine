@@ -1,0 +1,28 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Yeah, but will it be cheaper overall?'
+    hostname: 68.156.93.130
+    created: '1166739803'
+    body: "The advantages of CD's, DVD's etc. are:\r\n\r\n1. their compact form factor\r\n2. their cheap composition.\r\n\r\nWhile I can see flash drives as such becoming more popular for liveCD purchases, I don't see them wholely replacing discs for all their purposes.\r\n\r\nDiscs are compact: they stack easily and hundreds of them can be placed in a very small space.\r\nThey are also cheap to manufacture: They are little more than circular pieces of plastic. Flash drives are like tiny computers with circuitry.\r\n\r\nWhen you get flash drives with the same data capacity or more, same physical space or less, and same price or less as whatever the contemporary disc technology offers at the time, then we'll talk. Until then, flash technology will not be able to overcome the sheer mass distribution capabilities of disc technology."
+-
+    name: 'Matthew Sharp'
+    mail: ''
+    subject: 'And if your install gets corrupted/b0rked?'
+    hostname: 220.245.178.141
+    created: '1167279620'
+    body: "So what happens when you accidentally delete some important file, misconfigure it so that it wont boot, upgrade to a new but incompatible version of foosoft (which stops a boot), etc.\r\n\r\nYou need some way of recovering the original system without losing user's files.  IMHO, this doesn't offer a huge improvement over a LiveCD (they are read only after all)."
+-
+    name: ''
+    mail: ''
+    subject: 'flash?'
+    hostname: 86.103.197.234
+    created: '1167337249'
+    body: 'I would rather think: the network. The more internet is everywhere the more it makes sense to have things stored there instead as on a disk flash drive or whatever. '
+-
+    name: ''
+    mail: ''
+    subject: Indeed.
+    hostname: 209.115.174.241
+    created: '1168198294'
+    body: "<cite>I would rather think: the network.</cite>\r\n\r\nIn fact, you could just have a private/public keypair on the fob along with some tftp-ish thing which goes out and authenticates you then slurps down your OS image and boots it.  When you leave, auto-rsync changes to your image server and terminal reboots. Server rsyncs to backup server.  <em>Smiple.</em>\r\n\r\nFor that matter, with pgpkeys.net, who needs the fob?  Authenticate yourself to the terminal, it authenticates you via online pgpkey, slurps down your OS image after authenticating with your image server ..."

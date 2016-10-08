@@ -1,0 +1,42 @@
+-
+    name: skylixx
+    mail: apit@linuxmail.org
+    subject: 'Read visio file'
+    hostname: 219.93.21.20
+    created: '1176423094'
+    body: 'can Dia/Kivio readvisio file format (VDA)? I want to convert all my diagrams from Visio to Dia/Kivio.'
+-
+    name: 'Anonymous visitor'
+    mail: bob@dodgeit.com
+    subject: 'Probably not.'
+    hostname: 220.233.53.52
+    created: '1176948435'
+    body: 'Probably not. In my humble opinion, Dia or Kivio aren''t as powerful as Visio and therefore, not able to handle Visio''s many features.'
+-
+    name: cmoss28
+    mail: cmoss28@gmail.com
+    subject: 'The need for stencils'
+    hostname: 67.54.200.115
+    created: '1179852555'
+    body: 'After a couple of years of searching for that perfect Visio alternative I''ve come to the conclusion that there isn''t one. That''s not to say that Visio is better, there is just nothing compatible. You did a fine job of putting this in a nutshell and I personally feel that instead of making these compatible with Visio the developers/users need to develop the stencils and templates for either of these programs. I mean after all if the stencils were available what reason would anyone have for using Visio. I prefer Dia because I can run it on my windows box at work. (not that I really want to but have to). '
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I use Dia regularly'
+    hostname: 68.93.224.4
+    created: '1181543542'
+    body: "I use Dia pretty regularly in software documentation. I find it's a lot faster than either Inkscape or Skencil for standard charts (like UML, entity-relation, and flow chart).\r\n\r\nMy only complaint about it is that it appears to be very difficult to script new drawing modes for it (I haven't figured out how to do it, anyway).\r\n\r\nI haven't tried Kivio, and didn't realize it was in the same application genre. I may have to look into it.\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: leaking@yahoo.md
+    subject: 'VSD/VSS import into Dia and/or Kivio'
+    hostname: 74.102.225.89
+    created: '1184645980'
+    body: "Could somebody explain what 'potentially ... licensing dangers associated with it [visio format]' is?\r\n\r\nDia has a plugin to support VDX files.\r\n\r\nDia and Kivio don't support VSD/VSS just because there wasn't documentation about format available.\r\n\r\nBtw, most of 'commercial' VSS stencils (for example Cisco's) can be converted with help of vsdump (http://freshmeat.net/projects/vsdump/)."
+-
+    name: 'Dean Tomi'
+    mail: footprint@email.si
+    subject: 'Dia is not perfect but is Free!'
+    hostname: 84.255.203.154
+    created: '1187820771'
+    body: "Does anyone know how much cost Visio Professional do not mention Enterprise - which is real one and only. My company bought me for job use Visio license and I use it daily. But I like alternative. Dia is one. And the progress since past years I use it is quite good. Last week I wrote a diagram for my company's disaster site and it was quite fun. \r\nSo choose pay it or write it free. I did both :) \r\nBut I will now use Dia more and more. The only thing I need to find is more time to write some extra stencils for DIA.\r\nAnd I say: GO DIA!"

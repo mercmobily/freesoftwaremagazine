@@ -1,0 +1,42 @@
+-
+    name: 'Anonymous visitor'
+    mail: alejandroazarate@gmail.com
+    subject: 'You paid for a desktop'
+    hostname: 201.253.128.137
+    created: '1180743643'
+    body: "You paid for a desktop computer with a preinstalled OS? Why didn't you just build your own?\r\n\r\nAlso, I've seen laptops with FreeDOS preinstalled. Not many, and not necessarily great deals, but they do come without an OS."
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'Legal receipt of ownership'
+    hostname: 59.101.109.74
+    created: '1180769882'
+    body: 'Of course I paid for it. I don''t want to end up in the slammer for stealing desktops, do I?'
+-
+    name: fredsambo
+    mail: ''
+    subject: 'Nice Open Letter'
+    hostname: 72.224.166.64
+    created: '1180976732'
+    body: "Good job!\r\n\r\nI think you speak for a lot of folks out there who have been using Free Software for years, including me!  I think Dell's decision to pre-install Ubuntu was a direct result of Free Software users finally speaking out.  The larger benefit of the Dell/Ubuntu deal is that finally a big player, like Dell, will now be helping leverage Hardware Manufacturers to produce stable device drivers.  If we can get solid Video Card support and game manufactures start porting to GNU/Linux, we'll be really on our way!"
+-
+    name: 'Emil Kastberg'
+    mail: ekr_id@yahoo.dk
+    subject: DIY
+    hostname: 80.196.1.87
+    created: '1185721770'
+    body: 'Laurie - But why not find out what hardware parts are cool with GNU/Linux, buy them seperately and build the desktop computer yourself? It''s really not that hard, and there''s help to find. If you don''t want to do that, I have to say it doesn''t seem like it''s important enough to you. ;)'
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: DIY
+    hostname: 59.101.83.35
+    created: '1185843481'
+    body: "First of all, I now buy all my new equipment from Grays Online Auctions in Australia. All the major manufacturers run out their superseded stock-lines at this online auction before they introduce their new lines. In September 06, I got a new, with warranty, single-core Centrino Thinkpad for less than $A1200 at the very time that Lenovo Australia were still discounting the same model for $A1600, 'without' a battery and DVD r/w, on their website. This was when the new core-duo line was about to be released.\r\n\r\nThen I wanted a new Thinkcentre server, but some new HP Athlon64 Presarios with a gig of ram, 200 gigs of hard drive, and all the bells and whistles were offered, and I got one for about $A700 instead of the recommended $A2000. They were no longer adequate for the threatened M$ Vista release, but they go like a blur with Kubuntu. I also got top-level Thinkcentre 17p and 19p LCD screens for less than $A200 each and a HP Photosmart for about the same price.\r\n\r\nQuite frankly, against this sort of purchasing environment rolling my own was not a viable option.\r\n\r\nHowever, because someone else in the house has grabbed the HP for a media-centre, and my new requirements for a server will include the lowest power consumption possible, I do intend to build my own. This will be solely a document server for historical research, which won't require any power-hungry video-cards, and will probably run Kubuntu Server, so the component selection won't be that critical other than low power consumption."
+-
+    name: 'Emil Kastberg'
+    mail: ekr_id@yahoo.dk
+    subject: 'So you got to but them'
+    hostname: 87.49.245.102
+    created: '1185925947'
+    body: "So you got to but them without Windows, or did you just save a truckload of money either way?\r\n\r\nFor low power consumption, you might consider DDR3 memory. It's just that they're really expensive. :/ And then there are SSD's, which are even more expensive...!!\r\nNo, really, CPU and MB are the most power hungry fellas..."

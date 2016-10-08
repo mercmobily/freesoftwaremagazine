@@ -1,0 +1,70 @@
+-
+    name: speedyx
+    mail: ''
+    subject: debian....
+    hostname: 95.111.182.75
+    created: '1281769966'
+    body: "On the cutting edge with debian????\r\nImpossible, even if you use sid or sidux. I try it so long, until I switched to ubuntu and mint.\r\nIf you want to stay with a working debian system with cutting edge applications you have to try Mepis."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'I''m a little confused'
+    hostname: 62.140.212.3
+    created: '1281947305'
+    body: "I'm a little confused. You started by saying your sources.list was \"set to load experimental versions of the software\" and then started talking about sid. I know I'm probably going to get shot down for being pedantic but sid packages are unstable not experimental. \"Experimental\" is another packaging level above sid. It's reserved for packages that are being tried out to see if they fit within Debian (over-simplification). They will almost certainly render your system broken (as opposed to Sid's \"possibly\") and they can only be installed if you specifically tell apt to do so. That is, experimental is not a \"version\" of Debian you can upgrade to. You add experimental packages to a Sid install.\r\n\r\nBut enough pedantry (see told you I would be called that). I sympathise with you. I even did a [TBC cartoon](http://www.freesoftwaremagazine.com/columns/bizarre_cathedral_59) about this very subject a while back. That said, having some way to undo an upgrade would be handy but it is fraught with difficulties. I think sometimes we users are fooled into the smooth way apt et al handles upgrades. It leads us to believe it's a much simpler process than it actually is. I guess the only way to really be sure here would be to backup your entire system and not just the data.\r\n\r\n\\-\\-  \r\nEquitas IT Solutions - fairness, quality, freedom  \r\n[http://www.equitasit.co.uk](http://www.equitasit.co.uk)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: '"Bang!"'
+    hostname: 68.116.159.234
+    created: '1282016053'
+    body: "\"Bang!\" -- I'm shooting you down for being pedantic!\r\n\r\nIf you look very carefully, you'll see that she used \"sid\" as a literal, and \"experimental\" as ordinary English.\r\n\r\nActually, you really have to be an insider to even notice there is an \"experimental\" set of packages. ;-)"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Feasability of APT undo'
+    hostname: 68.116.159.234
+    created: '1282017245'
+    body: "Actually, Ryan, I think it would be entirely possible to make the APT system recover its previous state.\r\n\r\nThe only real problem is remembering what packages are installed and making sure they are available to reinstall.\r\n\r\n(Theoretically, there could be some problems with broken packages and install/uninstall scripts -- but Debian has a _really_ good track record, and I almost never see those kinds of problems. The problem Rosalyn describes here -- simply installing a bad package, but not being able to back up because of \"deb hell\" -- is much more common. I've encountered it several times, and it's the most common reason for me to have to reinstall Debian from scratch).\r\n\r\nIn a previous conversation about this, it was pointed out to me that an \"undo\" would \"require\" the distribution archives to be very stable (i.e. that the packages are all still on the server).\r\n\r\nBut in fact this idea is outdated. Consider how cheap hard drive space is nowadays. It would be trivial nowadays to assign a large amount of cache space on the hard drive to simply keep copies of ALL of the Debian packages that are currently installed (there is already a cache, it's just a matter of making it bigger and changing the rules for when a package can be deleted).\r\n\r\nOf course, this should be up to the user, but there's no reason why there couldn't be an option and a debconf question for APT to ask whether you want to retain an \"undo\" capability for APT by storing all packages.\r\n\r\nIf you run out of room, then the APT programs should warn you before deleting files to make room for new downloads -- and allow you to assign some alternate space.  (\"Apt cannot undo this action, unless you provide additional cache space...\" etc).\r\n\r\nBack when hard drives were small, this would've been kind of insane. But today, I don't think it's that big of a deal.\r\n\r\nIt's feasible.  A lot of work, of course, but feasible.\r\n\r\nAnd if such a feature were available, I would definitely use it myself (understanding that I would need a much bigger /var partition).\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'yeah I know'
+    hostname: 62.140.212.3
+    created: '1282298078'
+    body: "Actually in the context given it's difficult (for me anyway) to interpret whether she meant \"the packages are experimental ones\" or \"the packages have been labelled experimental by Debian\". Thus my confusion ( which it's true probably stemmed from my over-sensitive pedantic gland :) )\r\n\r\nI was trying to say that the packages in Sid are not experimental ones. That is they are not being tried out to see _if_ they will end up in Testing or Stable - that decision has already been made. It's more a case of Debian saying \"these are a work in progress and they might break your system\". The experimental ones (in the Debian and English sense of the word) are more of \"We're trying these out to see if they'll fit in Debian and what issues putting them in might raise\".\r\n\r\nIt's semantics I know and I wasn't trying to shoot Rosalyn down at all. I was just trying to clear something up.\r\n\r\nAnd yes while you have to be an insider to know about the Debian experimental I would say almost all of those who do are running Sid.\r\n\r\ncheers\r\nRyan\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: hmm
+    hostname: 62.140.212.3
+    created: '1282298880'
+    body: "I can see your point but I really wouldn't want to try and diagnose an issue where the packages are from mixed repositories in the way you describe. Yes it's possible and yes it can be managed but the potential for creating a mess is huge. The problem is not remembering which packages (that is already possible) but the versions as well.\r\n\r\nAs said - and taking your point about cheap storage - perhaps the best way is to back up or mirror your entire system or even everything except the data directory onto a redundant drive. That gives you the unique configuration of your system.\r\n\r\nActually -- partially inspired by Rosalyn's piece -- I have a piece in the pipeline about another possible assistance to (rather than solution for) this issue - `dpkg --get-selection`. Watch this space as they say.\r\n\r\ncheers  \r\nRyan  \r\n_Equitas IT Solutions - fairness, quality, freedom  \r\n[http://www.equitasit.co.uk]()_"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'One more positive suggestion'
+    hostname: 62.140.212.3
+    created: '1282300020'
+    body: "Rosalyn, this may be like someone saying \"mind your head\" just after you've walked into a low-hanging branch but if you are going to run Sid you might find apt-show-versions and particularly apt-listbugs useful. I wrote a [piece on apt](http://www.freesoftwaremagazine.com/columns/beyond_synaptic_using_apt_better_package_management) a while back if it helps.\r\n\r\nRyan  \r\n\\-\\-  \r\nEquitas IT Solutions - fairness, quality, freedom  \r\n[http://www.equitasit.co.uk]()"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'AFAIK, dpkg --get-selections'
+    hostname: 68.116.159.234
+    created: '1283651363'
+    body: "AFAIK, `dpkg --get-selections` is not a solution.\r\n\r\nThe problem is that it records package names, but not versions (unless there's an extra switch I don't know about). I'll have to check into the apt-show-versions suggestion you mentioned later.\r\n\r\nAPT already caches packages it has downloaded. It just doesn't give you any control (or warnings) over when it deletes them. (That would require changes to the code).\r\n\r\n"
+-
+    name: chattr
+    mail: ''
+    subject: '''dpkg-query'' instead of ''dpkg --get-selections''?'
+    hostname: 72.189.87.244
+    created: '1286283625'
+    body: "<cite>AFAIK, <code>dpkg --get-selections</code> is not a solution.</cite>\r\n\r\n<cite>The problem is that it records package names, but not versions (unless there’s an extra switch I don’t know about).</cite>\r\n\r\nNo, that won't record versions, but something like\r\n\r\n<code>dpkg-query -W --showformat='${Package} ${Version}\\n' > ~/list.packagenames.versionnumbers.$(date -I)</code>\r\n\r\nmight be helpful, with some filtering of <code>/var/lib/dpkg/status</code> so only <code>Status: install ok installed</code> packages are returned.\r\n\r\nThanks for prodding me to think about this.  I could add that to <code>/etc/crontab</code> and have the file contents mailed to me locally and to my external email.\r\n\r\nIf <code>apt-get undo</code> is an effectively unreachable goal, maybe an <code>apt-snapshot</code> is reachable.  Too bad <code>/var/lib/dpkg/status</code> does not have the repo from where the .deb came, like <code>apt-cache policy</code> does."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'I did say it was not a solution'
+    hostname: 62.140.212.3
+    created: '1287149040'
+    body: "I did say it was _not_ a solution but an assistance :)\r\n\r\nActually if you are resorted to reinstalling from scratch then get-selections can be of great assistance. It gives you a list of what packages you had installed. Version numbers won't be such an issue if you are switching repositories from say sid to testing or stable. In those instances I'd have thought the aim was to get the software you were using in the version that are the latest for the repo you are using. If you are after an exact replication - including version and configuration - then backup is your only option but using `get-selections` can help as when you come to install apt will bork if you come to install clashing packages.\r\n\r\nBTW apt does give you warnings when it is about to remove packages (which it will only do as part of a dist-upgrade anyway). The problem is that the list is tucked between the packages-to-be-updated and packages-to-be-installed lists so when doing an dist-upgrade it's easy to lose amodst all the info that whizzes past. I've lost KDE this way before now (even wrote a Bizarre Cathedral strip about I recall).\r\n\r\nThe dpkg piece is [up now](http://www.freesoftwaremagazine.com/columns/copying_debian_package_selections_new_machine) but you probably figured that out by now ;)\r\n\r\ncheers  \r\nRyan  \r\n\\-\\-  \r\nEquitas IT Solutions - fairness, quality, freedom  \r\n[http://www.equitasit.co.uk](http://www.equitasit.co.uk)"

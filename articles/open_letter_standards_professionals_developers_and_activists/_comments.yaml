@@ -1,0 +1,21 @@
+-
+    name: 'John Calcote'
+    mail: ''
+    subject: 'Old news...'
+    hostname: 137.65.148.43
+    created: '1210710565'
+    body: "Sorry about the tactless sound of the title there, but the fact is that Microsoft HAS done this very same thing before. It's just that few people cared at that time.\r\n\r\nNetscape Communications invented a browser-based scripting language called NetScape LiveScript. They later renamed it to JavaScript for marketing reasons. Microsoft implemented their own version of JavaScript called JScript in IE(4?). When this happened, NetScape decided they'd better standardize JavaScript before they lost control of it to M$. \r\n\r\nThey took it to the European Computing Machinery Association because ECMA was willing to fast-track JavaScript. JavaScript then became officially known as ECMA Script. \r\n\r\nNetScape had a myriad of ideas they wanted to implement in the new standard, many of which were non-backward compatible in nature. The irony of it all was that M$ sent a grundle of reps to the committee meetings, and out-voted NetScape on every point regarding changes that were not backward compatible. The language was standardized in legacy format, and NetScape lost control of the language anyway."
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'coverage on wikipedia'
+    hostname: 85.5.183.180
+    created: '1210861918'
+    body: "this indeed is a really sad story..\r\n\r\nBut has anybody else noted that Wikipedia's coverage on this topic seems quite week? for example: <a href=\"http://en.wikipedia.org/wiki/Office_Open_XML#Criticism\">OOXML#Criticism</a> or <a href=\"http://en.wikipedia.org/wiki/Standardization_of_Office_Open_XML#Arguments_in_support_and_criticism_of_Office_Open_XML_standard>Standardization of OOXML</a> where arguments in support are some hundred words and criticism only a few lines!! Maybe some Microsoft employees are 'working' on those articles?\r\n\r\nAt least we should make sure that this sad story of OOXML is written down properly in one of the major works of free culture: wikipedia. Unfortunately, I haven't followed the discussion over OOXML that closely, so I don't feel competent to write the criticism myself and back it up with enough quotes."
+-
+    name: 'Pieter Hintjens'
+    mail: ''
+    subject: Wikipedia
+    hostname: 213.214.38.159
+    created: '1210882628'
+    body: "The OOXML article on Wikipedia has been the scene of intense edit wars over the last year, with pro-Microsoft editors systematically removing all references they did not like.\r\n\r\n"

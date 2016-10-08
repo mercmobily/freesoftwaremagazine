@@ -1,0 +1,21 @@
+-
+    name: 'Cătălin Stoian'
+    mail: unixlust@unixlust.com
+    subject: 'Reinstall ?'
+    hostname: 82.78.187.168
+    created: '1186472958'
+    body: 'You should not, in any case, reinstall anything until you have finished checking up HOW you have been hacked, so you may learn from your mistakes. Reinstalling doesn''t teach you anything, and is generally not the best solution.'
+-
+    name: 'Felipe Alvarez'
+    mail: felipe.alvarez@gmail.com
+    subject: 'Try the exclamation mark'
+    hostname: 206.248.171.94
+    created: '1188232748'
+    body: "If you last typed '<em>ls -aFgohs</em>' and now you want to do it again, but without cycling through with PgUp or Ctrl+P, you can type '<em>!ls</em>' and it will automatically add all the arguments for the program ls.\r\n\r\nAlso, if you last used ssh, and want to cycle through ONLY the ssh history in your bash, simply type '<em>ssh</em>' and hit PgUp. This will cycle through ssh commands recently executed, and ignore all other history listings.\r\n\r\nVery handy tools. I'm surprised this article didn't even touch on those! TskTsk\r\n\r\nFelipe"
+-
+    name: 'Anonymous visitor'
+    mail: peter@ironcove.net
+    subject: 'History Tricks'
+    hostname: 121.44.35.226
+    created: '1188573360'
+    body: "Nice one, I have been using the history for years - and now I have learnt some new tricks.\r\n\r\nThanks!\r\n\r\n\r\nPeter\r\n"

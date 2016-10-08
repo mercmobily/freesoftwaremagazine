@@ -1,0 +1,14 @@
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'great browser with potential'
+    hostname: 217.41.232.251
+    created: '1209673164'
+    body: "I've just downloaded and been using Dillo and it is a very good application. It is the only browser I've ever used - except lynx - that loads instantly (without requiring 3G of RAM that is). It renders well but there are some features which I find it lacks which make it almost impossible for me to use even for a \"quick browse\":\r\n\r\n* CSS support: pretty much all sites I visit use some kind of CSS now and without it, Dillo is now more useful than Lynx.\r\n* Keyboard control: I'm a hacker and I've always preferred keyboard controls so I use things like CTRL-D to enter the address bar. Dillo's lack of support for even the most rudimentary keyboard controls just ends up irritating me.\r\n\r\nNow I appreciate there is only so man y features you can give a browser before it stops being lean but these two really inhibit my use of Dillo.\r\n\r\nI don't know C/GTK+ but I'll take a look at the site and see if there's anything I *can* do. 'Cause you know I just dont have enough projects on right now."
+-
+    name: plmday
+    mail: ''
+    subject: 'how about links2'
+    hostname: 125.31.49.181
+    created: '1209737564'
+    body: "Links2 is a lite and fast text mode web browser, but can be run in graphic mode also (with the command `links2 -g'). It is similar to links, though it lacks some features of elinks.\r\n\r\nDAY's dAi Yi"

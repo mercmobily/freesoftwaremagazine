@@ -1,0 +1,805 @@
+-
+    name: circulus
+    mail: ''
+    subject: 'Great,'
+    hostname: 85.71.213.55
+    created: '1146135815'
+    body: "Very nice well written, this nice step by step tutorial is exactly for me. \r\n\r\n---\r\n\"... Nothing Runs Like A <a href=\"http://www.python.org\">Python</a> ...\""
+-
+    name: ''
+    mail: ''
+    subject: 'Thank you'
+    hostname: 129.33.49.251
+    created: '1155586381'
+    body: 'Great tutorial!'
+-
+    name: ''
+    mail: ''
+    subject: Amazing
+    hostname: 125.23.68.232
+    created: '1155733804'
+    body: "I am amazed!! How have you managed to get this thing so simple? A real good job.\r\n\r\nSundip Sharma"
+-
+    name: ''
+    mail: ''
+    subject: 'WOW !!!!!! simply fantastic work'
+    hostname: 59.144.56.254
+    created: '1156925533'
+    body: "Thanks\r\na great article with ample scope of learning the skeleton of linux device drivers and the commonly used functions in them.........so simple and presented in quite an interesting way, so never lets u feel bored.\r\ngreat work"
+-
+    name: ''
+    mail: ''
+    subject: 'Great simple tutorial'
+    hostname: 84.9.50.248
+    created: '1156984151'
+    body: "After kernel 2.4 the kernel compilation and adding up of modules has changed drastically. This tutorial helped me compile and insert my module. Thanks. Effort whole heartedly appreciated. \r\n\r\nKabeer Ahmed."
+-
+    name: ''
+    mail: ''
+    subject: 'WOW!!!!!!!!!!!1 Great.....'
+    hostname: 61.2.241.27
+    created: '1157045421'
+    body: "A great article with ample scope of learning with\r\nnice step by step procedure..\r\n\r\nThank's\r\nPrakash."
+-
+    name: ''
+    mail: ''
+    subject: 'Its a good'
+    hostname: 202.80.50.102
+    created: '1157719234'
+    body: "Its a good information.\r\n\r\nRegards, Rajesh"
+-
+    name: ''
+    mail: ''
+    subject: 'No word''s to say'
+    hostname: 59.92.43.42
+    created: '1158514633'
+    body: 'Great Work !!!'
+-
+    name: ''
+    mail: ''
+    subject: 'Linux is not an OS'
+    hostname: 85.137.120.189
+    created: '1158925262'
+    body: '"Linux''s kernel" has no sense, because Linux is a kernel'
+-
+    name: 'Vishwanatha K'
+    mail: ''
+    subject: 'Query on reading from the device'
+    hostname: 203.91.193.6
+    created: '1159524989'
+    body: "Hi All,\r\n\r\nI actually tried memory.ko as below:\r\n\r\n$echo -n abcdef > /dev/memory\r\n\r\n$cat /dev/memory\r\nf\r\nBut I've got only the last written character i.e., 'f'.\r\n\r\nI changed the code so that the buffer can hold upto 10 bytes (by giving 10 as a parameter to kmalloc and read,write calls) but still I'm getting the last input character. Can any one post teh answer here...\r\n\r\n--\r\nRegards,\r\nVishwa"
+-
+    name: ''
+    mail: ''
+    subject: 'A really Helpful link'
+    hostname: 203.187.132.67
+    created: '1159870083'
+    body: 'A really good and Helpful link for newbies!!!!'
+-
+    name: ''
+    mail: ''
+    subject: 'Excellent job'
+    hostname: 202.153.32.139
+    created: '1159961517'
+    body: 'Thanks for the Excellent job of making LINUX drivers easy to understand in a very very short time.'
+-
+    name: jadhav_raghav
+    mail: ''
+    subject: 'To start my career as programmer in device drivers'
+    hostname: 59.160.135.2
+    created: '1160664525'
+    body: "hi,\r\n\r\nThis one is good article.\r\nI want to learn more on this, and can u help me get more info about device drivers.\r\n\r\nThanks,\r\nRaghavendra"
+-
+    name: ''
+    mail: ''
+    subject: 'WOW A MASTERPIECE'
+    hostname: 61.12.17.162
+    created: '1161342372'
+    body: "Gud work by u.A gud guide for a layman in the fiels of device drivers\r\n\r\nHeartly appreciated\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'problem with driver software'
+    hostname: 61.246.158.213
+    created: '1162290219'
+    body: "hello sir whhen i have compiled my sorce code then i face an error that \"fops size is not known \" pleee send me some information to remove this error\r\nmu email id is erabhinandan@gmail.com"
+-
+    name: ''
+    mail: ''
+    subject: 'Linux extra-versioning problem and another useful link'
+    hostname: 84.223.10.69
+    created: '1162293012'
+    body: "Thank you for your excellent tutorial!\r\n\r\nThat's true that the first step is always the more hard to achieve, and guides like this really simplify the achievement of the basic know-how necessary to get real job done.\r\n\r\nWhen I first tried the tutorial I get this error when trying to insmod my module nothing.ko:\r\ninsmod: error inserting nothing.ko: -1 Invalid module format\r\n\r\nwhile dmesg gave me:\r\nnothing: version magic '2.6.17.11.061003.eramil SMP mod_unload PENTIUM4 REGPARM gcc-4.1' should be '2.6.17.11.061003.eramil SMP mod_unload PENTIUM4 REGPARM gcc-4.0'\r\n\r\nIt was that I like to add a customized extra version to my kernel compiling it, while the extra version in the source tree Makefile was still \".11\".\r\nTo fix this I changed manually the Makefile, updating the extra version line with the current linux extra version, then I started to compile with make (but I control-C-ed quite soon, after the compilation of the version.h file, that you can eventually change by hand).\r\n\r\nThen, since I compiled the kernel with gcc-4.0 and I had installed the gcc-4.1 version, I changed the gcc symlink with:\r\nsudo ln -sf /usr/bin/gcc-4.0 /usr/bin/gcc\r\nNow the gcc symlink (used to compile the module) points to the same version of gcc used to compile the kernel: trick done!\r\n\r\nAnother useful link:\r\nhttp://www.openaddict.com/documents/lkmpg/x30.html\r\n\r\nHTH\r\n\r\nCheers"
+-
+    name: ''
+    mail: ''
+    subject: 'Compiling with Kernel Version 2.4.20-8'
+    hostname: 59.92.172.114
+    created: '1162443265'
+    body: "hi,\r\nThis is Priya here. I have installed Redhat Linux verion 9 on my system. Kernel version 2.4.20-8. Could I Please know how to compile and insert the modules given in this tutorial, with the associated makefiles.Please help me. My mail id :priyasophy_1982@yahoo.com"
+-
+    name: ''
+    mail: ''
+    subject: 'very nice work !!!!!!!!!!'
+    hostname: 203.197.169.125
+    created: '1162802116'
+    body: "I appreciate for the effort took for explaining device driver writing in step by step manner...\r\n\r\nreally great work...\r\n\r\nThank you,\r\nMurali"
+-
+    name: ''
+    mail: ''
+    subject: 'thanks alot .............'
+    hostname: 62.231.244.77
+    created: '1163501428'
+    body: "thanks man .. .. nice tutorial\r\n\r\nregards\r\nSuLtAn"
+-
+    name: ''
+    mail: ''
+    subject: 'REALLY A GREAT HELP FOR'
+    hostname: 203.115.119.67
+    created: '1164109439'
+    body: "REALLY A GREAT HELP FOR STARTERS...\r\n\r\n\r\nARUN"
+-
+    name: ''
+    mail: ''
+    subject: 'Cannot unload module'
+    hostname: 218.186.11.4
+    created: '1164436304'
+    body: "Dear sir,\r\n\r\nThis is a very good tutorial you have here.  It is very cool as it explains the fundamental really well.\r\n\r\nI tried out the first 2 section of the tutorial but am stuck.\r\n\r\nI have created the module nothing.ko and inserted it into the kernel.\r\nI am able to see the module using lsmod\r\n\r\nWhen I tried to rmmod, the system keeps giving me the following error:\r\nERROR: Removing 'nothing': Device or resource busy\r\n\r\nMy lsmod | grep nothing gives me\r\nnothing                 2688  0 [permanent]\r\n\r\nIs there a way to unload this module\r\n\r\nVery much appreciate your help\r\n\r\nThanks,\r\nAlex"
+-
+    name: ''
+    mail: ''
+    subject: 'Not accurate article!'
+    hostname: 85.202.8.90
+    created: '1164482469'
+    body: "My comments:\r\n\r\nTo be complete tutorial it must be accurate. It is not so.\r\n\r\nFor example, memory driver part is completely hide extensions of files and creating makefile in case if you build module from multiply files.\r\nI think it should be added directly in article or,as minimum, in comments."
+-
+    name: ''
+    mail: ''
+    subject: 'd BEST'
+    hostname: 219.64.82.163
+    created: '1164716558'
+    body: "Thank you very much for posting such an astonish article for all..\r\n\r\nGod Bless all.."
+-
+    name: ''
+    mail: ''
+    subject: GOOD
+    hostname: 203.197.169.20
+    created: '1164719409'
+    body: "Thank u for giving an easy to learn tutorial about device drivers..\r\n\r\nU can also add some more details about functions which will be more helpful..."
+-
+    name: ''
+    mail: ''
+    subject: 'Very Good'
+    hostname: 125.22.15.149
+    created: '1165312878'
+    body: "The Tutorial help me lot\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'good article'
+    hostname: 83.131.158.70
+    created: '1166579228'
+    body: "As the title says,....\r\nSimple to understand and grasp the important things.\r\nThanks a lot m8\r\n<a href=\"http://tiny.pl/9v1f\">George</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'NICE ONE'
+    hostname: 203.76.137.3
+    created: '1166621945'
+    body: "VERY NICE ARTICLE.\r\n\r\nTHANKS A LOT.\r\nK.RAJASEKAR"
+-
+    name: ''
+    mail: ''
+    subject: "good job\n"
+    hostname: 221.221.5.122
+    created: '1166973941'
+    body: 'good job'
+-
+    name: ''
+    mail: ''
+    subject: 'Its the Best that I have come accross'
+    hostname: 221.134.228.72
+    created: '1167029570'
+    body: 'It motivates a non-driver-writer to jump into the arena that is always thought to be only for the real techies.'
+-
+    name: ''
+    mail: ''
+    subject: 'Very well done'
+    hostname: 68.254.39.112
+    created: '1167091341'
+    body: "Really good tutorial on drivers.  I challenge us to do the exercises, specifically a device that doesn't work yet.\r\n\r\nThanks for this important contribution!\r\n\r\nRegards,\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Help on Kernel Keyboard Driver'
+    hostname: 61.17.49.229
+    created: '1167111219'
+    body: "Hai everyone,\r\n\r\n           IN LINUX KERNEL VERSION-2.6.8-24 THE KEYBOARD DRIVER FILE KEYBOARD.C IS USED.I WOULD LIKE TO MODIFY THIS FILE SUCH THAT ON A TOGGLE KEY I WOULD LIKE TO READ DATA FROM A FILE.I USED SYSTEM CALLS LIKE OPEN,CLOSE,READ.BUT AN ERROR MESSAGE SAYING THAT THE HEADER FILE UNISTD.H INCLUDING THIS CALLS IS NOT AVAILABLE IS ENCOUNTERED.CAN ANY BODY HELP ME IN THIS CONTEXT."
+-
+    name: ''
+    mail: ''
+    subject: hi
+    hostname: 59.93.82.151
+    created: '1167757927'
+    body: 'good job done '
+-
+    name: ''
+    mail: ''
+    subject: 'Only bit-1 lights up after module loads'
+    hostname: 68.51.59.44
+    created: '1169170941'
+    body: "First off, thanks for the great tutorial, Xavier.\r\n\r\nI am trying to complete the LED section of the tutorial. I am running Ubuntu Server 6.10, kernel 2.6.17-10, and I removed lp, parport_pc, and parport. I have successfully compiled parlelport.ko and I can verify that the module has loaded with:\r\n$ cat /proc/ioports\r\n..\r\n0378-0378 : parlelport\r\n\r\nThe circuit shows many lights blinking at boot time. After boot, bit-2 and bit-3 stay lit. They remain that way until the computer is rebooted -- or until the monitor goes to sleep. All lights go black while the monitor sleeps. The only response I can generate is that bit-1 lights after inserting parlelport.ko. It stays lit until the computer is rebooted.\r\n\r\nThe only thing that looks suspicious is this:\r\n\r\n$:~/dev$ make -C /usr/src/linux-source-2.6.17 M=`pwd` modules\r\nmake: Entering directory `/usr/src/linux-source-2.6.17'\r\n  CC [M]  /home/sam/dev/parlelport.o\r\n/home/sam/dev/parlelport.c:31: warning: initialization from incompatible pointer type\r\n..\r\n\r\nLine 31 corresponds to: \r\nwrite: parlelport_write\r\n\r\nBut my parlelport_write() is the same as the tutorial's.\r\n\r\nAny pointers?\r\n\r\nThanks,\r\nSam"
+-
+    name: ''
+    mail: ''
+    subject: 'Very Well Explained'
+    hostname: 66.92.219.162
+    created: '1169767787'
+    body: "Fantastic Job. You have described the driver structure in simple and best manner.\r\nThanks.AJ"
+-
+    name: ''
+    mail: ''
+    subject: Reply
+    hostname: 203.145.159.40
+    created: '1169825836'
+    body: " Its better if you use kernel 2.6.x.x.2.Because the Linux systems now supports 2.6 kernel and the interface for 2.6  is simple and totally different than 2.4.Mention the topic on which you are working.\r\nIf I have a knowldge about that i will surely help you.Do post ur queries on prem38_kamble @rediffmail.com\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Damn useful !!! Well done'
+    hostname: 202.171.49.39
+    created: '1170358878'
+    body: 'Damn useful !!! Well done buddy :-*'
+-
+    name: ''
+    mail: ''
+    subject: 'Good one.'
+    hostname: 203.126.136.223
+    created: '1170659938'
+    body: "Hello,\r\n\r\nReally nice tutorial...it helped me a lot..Practical Egs are good..\r\n\r\n\r\nKeep the good work going.."
+-
+    name: ''
+    mail: ''
+    subject: 'Excellent, Quick & Handy..,'
+    hostname: 203.88.139.146
+    created: '1170918322'
+    body: "This is really nice & handy tutorial.\r\nCan this guy give similar tutorials for GCC,Shell Scripting..? It would be really good to have such tutorials..\r\n "
+-
+    name: ''
+    mail: ''
+    subject: 'I have more or less the same'
+    hostname: 82.66.229.143
+    created: '1171195240'
+    body: "I have more or less the same issue.\r\nafter booting the LED is OFF but when I remove all parport related modules, the LED gets ON and the parlelport driver does not work. If I manage to avoid parport module at boot and insmod parlelport after boot, things seems OK (I can set On or Off the LED).\r\nI guess the parport driver when manualy unloaded (rmmod) let the chipset in a state that prevent from outputting data from the port (may in input mode in place of output mode)\r\n\r\nI tried to force the output mode (0x37A control reg) with no success"
+-
+    name: ''
+    mail: ''
+    subject: 'Very Helpful!'
+    hostname: 24.206.126.235
+    created: '1171318469'
+    body: "A really handy overview!\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'write a kernel for linux'
+    hostname: 85.185.16.126
+    created: '1173038787'
+    body: "how we write a kernel for linux? what is code of this problem?\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'SIMPLE & COOL'
+    hostname: 203.123.182.27
+    created: '1173091837'
+    body: "The tutorial has been simple, I had no idea where to start with.\r\nThis has given me a good introduction to DD programming & kernel modules.\r\n-Arjun\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Compilation problem'
+    hostname: 209.125.200.99
+    created: '1173391082'
+    body: "I am using Fedora core 5. I could not compile the very first version of \"nothing\" with just licence line in it.\r\n\r\nHere is what I got.\r\n\r\n\r\n make -C /usr/src/linux/kernel M=`pwd` modules\r\nmake: Entering directory `/usr/src/redhat/BUILD/kernel-2.6.15/linux-2.6.15.i686/kernel'\r\nmake: *** No rule to make target `modules'.  Stop.\r\nmake: Leaving directory `/usr/src/redhat/BUILD/kernel-2.6.15/linux-2.6.15.i686/kernel'\r\n\r\n\r\nIs the procedure different for Fedora? Thanks in advance."
+-
+    name: kirz
+    mail: ''
+    subject: Great
+    hostname: 219.64.126.55
+    created: '1174048962'
+    body: 'Its really simple and informative.....'
+-
+    name: ''
+    mail: ''
+    subject: 'Good work'
+    hostname: 82.251.98.174
+    created: '1174065568'
+    body: "A really interesting tutorial. A little short but the main explanations are present.\r\nThanks.\r\n\r\nKirgliZ"
+-
+    name: ''
+    mail: ''
+    subject: 'tutorial(device driver)'
+    hostname: 220.227.246.153
+    created: '1174541481'
+    body: "its really excellent....\r\namazing...\r\nHis presentation is too good and simple...."
+-
+    name: kirz
+    mail: ''
+    subject: Yeah
+    hostname: 59.93.77.94
+    created: '1175168697'
+    body: 'Simply simple :)'
+-
+    name: ''
+    mail: ''
+    subject: 'Efficient work'
+    hostname: 220.227.246.153
+    created: '1175666118'
+    body: 'Really good work. '
+-
+    name: ''
+    mail: ''
+    subject: 'Thank you so much!'
+    hostname: 58.187.173.156
+    created: '1175920629'
+    body: 'You wrote so clearly and easily to understand.'
+-
+    name: ''
+    mail: ''
+    subject: 'great tutorial for newbies'
+    hostname: 149.199.62.254
+    created: '1175932586'
+    body: 'This tutorial gives great confidence to develop device driver for someone who is neo in this field. Great job !!!!!!!!!!'
+-
+    name: solar_sea
+    mail: kshorg@gmail.com
+    subject: 'Great job.'
+    hostname: 85.95.88.19
+    created: '1176834129'
+    body: "I really like it and it's written in a very nice way, thanks! :)\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: s.surajit@yahoo.com
+    subject: 'Great Work Sir. Its truly'
+    hostname: 15.219.201.69
+    created: '1176901664'
+    body: 'Great Work Sir. Its truly helpful for begineers like us. We hope to have some more from you.'
+-
+    name: 'Anonymous visitor'
+    mail: sure_cse_2k2@yahoo.co.in
+    subject: 'Pretty Good and Easy to Understand'
+    hostname: 203.129.195.140
+    created: '1177425147'
+    body: "Dear sir...\r\nits really very useful.can u elaborate the drivers on keyboard also."
+-
+    name: 'Anonymous visitor'
+    mail: abc@def.com
+    subject: 'After you''ve done that'
+    hostname: 65.248.129.126
+    created: '1177711669'
+    body: 'After you''ve done that you could write a driver that prevents your caps-lock key from getting stuck.'
+-
+    name: 'Anonymous visitor'
+    mail: mikestefff@yahoo.com
+    subject: 'Very interesting. Have never'
+    hostname: 69.123.110.20
+    created: '1177999800'
+    body: "Very interesting. Have never really read much about driver development. Nice work.\r\n\r\n"
+-
+    name: gandy909
+    mail: gandy909@hotmail.com
+    subject: 'Printable version?'
+    hostname: 65.65.234.212
+    created: '1178043351'
+    body: "Is there a printable version of this article?  I don't find a link to one...\r\nThanks."
+-
+    name: Raquel
+    mail: web.herramientas@gmail.com
+    subject: 'There is no such thing as'
+    hostname: 85.84.42.48
+    created: '1178046753'
+    body: "There is no such thing as \"quick\" and \"easy\" when it comes to writing drivers. Thank you :)\r\n\r\nP.S: great tutorial\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: jwshea@gmail.com
+    subject: 'Debian etch, is now the'
+    hostname: 203.173.41.22
+    created: '1178066956'
+    body: 'Debian etch, is now the stable release version.'
+-
+    name: 'Anonymous visitor'
+    mail: drmji@yahoo.com
+    subject: 'Similar Tutorial for NT'
+    hostname: 202.59.70.166
+    created: '1178800400'
+    body: "I can write a similar tutorial using LEDs if anyone is interested for DOS.\r\n\r\nI am interested in Windows NT, please give us similar simple tutotrial for Windows NT device drivers.\r\n\r\nGreat Work.\r\n\r\nJa"
+-
+    name: 'Anonymous visitor'
+    mail: raj.singhh@gmail.com
+    subject: 'Great work.'
+    hostname: 59.92.176.230
+    created: '1180795525'
+    body: "I am really impressed the way author has presented this wonderful article..he has explained in such a simple and nice manner..\r\n\r\nGreat going..\r\n\r\nso happy hacking..\r\n\r\n"
+-
+    name: 'Anonymous visitor'
+    mail: rixa@com
+    subject: 'Submitted by Anonymous'
+    hostname: 69.31.67.3
+    created: '1181663124'
+    body: "Submitted by Anonymous visitor (not verified) on Thu, 2007-05-10 12:33.\r\n\r\nI can write a similar tutorial using LEDs if anyone is interested for DOS.\r\n\r\nI am interested in Windows NT, please give us similar simple tutotrial for Windows NT device drivers.\r\n\r\nGreat Work."
+-
+    name: Danboy
+    mail: ''
+    subject: 'This is FREE  SOFTWARE Magazine'
+    hostname: 165.98.157.37
+    created: '1181691081'
+    body: "I'm afraid that if you are interested in Windows NT you'll have to find another magazine to make your requests to. You won't be seeing any Windows NT tutorials on this site unless they tell you how to wipe it from your computer and replace it with a nice GNU/Linux replacement. \r\n\r\nIt's amazing that you are smart enough to understand this article but yet you can't work out that no one here would want to write NT tutorials."
+-
+    name: 'Ulhas Dhuri'
+    mail: hiUlhas@gmail.com
+    subject: 'Gud tutorial ,keep the good work going!'
+    hostname: 202.80.57.2
+    created: '1183108745'
+    body: "Hi,\r\n\r\nIts a good tutorial, I must say. You have gracefully handled this linux device driver tutorial. It would be a great benefit to newbies ,if u can come up with futher advance topics of kernel programming in your own style of writing."
+-
+    name: Metoule
+    mail: anne.onymous@caramail.com
+    subject: 'French tutorial'
+    hostname: 82.228.253.43
+    created: '1184014734'
+    body: "Amazing tutorial ! It made me want to develop my own driver!\r\nFor French speaking people, you can find another tutorial here: http://broux.developpez.com/articles/c/driver-c-linux/"
+-
+    name: dalex
+    mail: ''
+    subject: 'Excellent article'
+    hostname: 194.73.121.7
+    created: '1184163392'
+    body: 'I only wish there were more tutorials like that...'
+-
+    name: skypjack
+    mail: ''
+    subject: Tip-Top
+    hostname: 87.12.246.75
+    created: '1184402727'
+    body: "I quote above comment, an excellent article!\r\nCongratulations and ... Thanks! :-)"
+-
+    name: Jakobularius
+    mail: ''
+    subject: 'Very nice tutorial that gets you up and running quickly'
+    hostname: 194.171.252.100
+    created: '1184653038'
+    body: 'The tutorial provides a nice intro to really mastering your Linux machine!'
+-
+    name: 'Anonymous visitor'
+    mail: anand.kori@gmail.com
+    subject: Its
+    hostname: 125.16.131.131
+    created: '1185258360'
+    body: 'Its fantastic...!!!!!!!!!!!!!'
+-
+    name: prince2007
+    mail: princei2007@yahoo.com
+    subject: 'HELP needed about device driver writing'
+    hostname: 210.214.29.137
+    created: '1185757675'
+    body: "hi,\r\n this ia a excellent tutorial, i am using rhel5 2.6.18-8.el5 \r\n i like to learn this device driver programming but i am gating \r\n error: linux/module.h: No such file or directory\r\n so how to get this file. if i download this file will it work?\r\n plz inform me princei007@yahoo.com "
+-
+    name: 'Anonymous visitor'
+    mail: thaens.tim@gmail.com
+    subject: 'I''m having the same problem'
+    hostname: 134.58.253.57
+    created: '1185956703'
+    body: 'I''m having the same problem with ubuntu'
+-
+    name: 'Anonymous visitor'
+    mail: killer_kat_electro@yahoo.com
+    subject: 'Good tutorial'
+    hostname: 59.92.107.132
+    created: '1186596988'
+    body: "Good job.\r\n\r\nI have searched and read many,\r\n\r\nAtlast I found this tutorial, its amazingly easy to get the picture of writing  a driver.\r\n\r\nthanks\r\nby\r\nkarthi"
+-
+    name: leneth
+    mail: lenethlibre@gmail.com
+    subject: 'how did you remove  lp, parport_pc, and parport'
+    hostname: 122.248.16.2
+    created: '1187777992'
+    body: "Hi! \r\nHow did you remove  lp, parport_pc, and parport ? I think i need to do this becuase i will get a device or resource busy error.\r\n\r\nThanks,\r\nLeneth"
+-
+    name: Mohan
+    mail: mohandhan@rediffmail.com
+    subject: 'outb is not working'
+    hostname: 210.210.12.141
+    created: '1188311075'
+    body: 'I wrote a small application to test the parallel port and whatever data I am writting, it is getting displayed on LED array. However when I tried to use outb from driver, it is not working. I have removed lp, parport_pc, parport modules. I put some debug messages and it is showing outb is executing properly. Even /proc/ioports is showing ports are allocated for me. I am using Fedora v6. Do you have any clue on this?'
+-
+    name: 'Anonymous visitor'
+    mail: icccisb@yahoo.com
+    subject: 'help needed'
+    hostname: 202.38.52.5
+    created: '1189063184'
+    body: "Hi \r\nhelp me for writng USB device driver. from where i start my work.\r\nthanks "
+-
+    name: 'deepak george'
+    mail: deepak_george@hotmail.com
+    subject: Great................
+    hostname: 202.88.242.54
+    created: '1189677041'
+    body: Great................
+-
+    name: 'Anonymous visitor'
+    mail: sreevathsa@gmail.com
+    subject: 'Good article!'
+    hostname: 71.135.101.13
+    created: '1190702244'
+    body: 'Good starting point for beginners. Thank you! '
+-
+    name: vonbrand
+    mail: ''
+    subject: 'Is the code available?'
+    hostname: 200.1.19.201
+    created: '1190836731'
+    body: 'I''m interested both in the source code (C, Makefile) and in the article itself.'
+-
+    name: 'Anonymous visitor'
+    mail: punit.guron@gmail.com
+    subject: 'i was running away from'
+    hostname: 220.224.98.18
+    created: '1191007035'
+    body: 'i was running away from device drivers from last 3 weeks but this tutorial made it so easy. withing 2 hrs i had the idea wat dey r nd hw to make dem work..excellent tutorial. great work.thanx a lot  '
+-
+    name: Redmond
+    mail: ARedmond@uta.edu
+    subject: 'How I got it working '
+    hostname: 98.198.91.245
+    created: '1191053197'
+    body: "I had some trouble getting the parlelport driver working on my slackware 12 2.6.21.\r\nThe problem was that ever time I boot my machine the pin 4 led would not shut off, and   \r\nall other leds could not be turned on or off by echo or lights.o. All of this was caused by modules lp,parport,and parport_pc. The solution was to comment out the lines that load the modules in /etc/rc.d/rc.modules-[kernel version here]. There pretty hard  \r\nto miss. Add the modules to /etc/modprobe.d/blacklist did not help though I did that t and it may be part of the solution.\r\n\r\nP.S. I love this tutorial, you wrote that it was originally written in Spanish, If English is not your first language I can't tell. "
+-
+    name: 'Anonymous visitor'
+    mail: pvamsikris@gmail.com
+    subject: 'The simplest, compact'
+    hostname: 122.167.129.88
+    created: '1191236067'
+    body: 'The simplest, compact tutorial to anyone to jump start on the driver.'
+-
+    name: 'Manish A'
+    mail: mahluwalia@vormetirc.com
+    subject: 'Best tutuorial'
+    hostname: 68.121.169.125
+    created: '1192055822'
+    body: "This is the best tutorial I've read on the web. And I'm not speaking only of linux device driver tutorials.\r\n\r\nThanks!!"
+-
+    name: shekhar
+    mail: chandrashekhar.chinta@einfochips.com
+    subject: 'device driver'
+    hostname: 220.225.105.242
+    created: '1192698721'
+    body: "Thx.\r\nthis article is very useful.\r\nit helped me lot in understanding character driver.\r\n \r\nbut i have problem with assigning the more space to memory buffer.\r\neven i icreased it to 10 from 1 i am able to get only last character,\r\nwhy this is so?\r\n"
+-
+    name: anantbhasu
+    mail: anant.bhasu@toshiba-tesi.com
+    subject: 'well written'
+    hostname: 125.16.131.49
+    created: '1193039251'
+    body: "quite a precise and well written startup material for device drivers' developers\r\n-AB"
+-
+    name: 'Oliver Thane'
+    mail: othane@gmail.com
+    subject: 'compile process'
+    hostname: 125.236.201.232
+    created: '1193437707'
+    body: "Thanks for the excellent tutorial. However I am stuck in the position where by I must use Kernel 2.4 for the module I am working on. The driver it self has been mostly developed and I am just debugging some glitches. \r\n\r\nI have the problem that in order to compile the module to work on the target embedded device I must be in Kernel version 2.4.20-20. Despite my efforts my network card only works in 2.4.20-8SMP and when I compile the drive in this mode it will not run on the embedded target. The solution currently is to reboot after every build into the 2.4.20-8SMP, which is not great. \r\n\r\nI will look into fixing the network card problem but I am quit interested in learning how to compile drivers for versions of the OS not currently running (and especially in 2.4). I cannot seem to find much on the net so if anyone knows where to look or can help it would be much appreciated."
+-
+    name: 'Anonymous visitor'
+    mail: chefZ@163.com
+    subject: 'Could someone give some'
+    hostname: 68.215.143.43
+    created: '1193865517'
+    body: 'Could someone give some inside or where to find detailed info on supporting/writing drivers for  dual core or multiprocessor HW with under 2.6? TIA'
+-
+    name: Zafeer
+    mail: zafeer@gatech.edu
+    subject: 'This makefile worked for me.'
+    hostname: 128.61.35.143
+    created: '1193894524'
+    body: "This makefile worked for me. I got it off another site:\r\n\r\nobj-m += memory.o\r\n\r\nall:\r\n\tmake -C /lib/modules/$(shell uname -r)/build M=$(PWD) modules\r\n\r\nclean:\r\n\tmake -C /lib/modules/$(shell uname -r)/build M=$(PWD) clean\r\n\r\nSo the only difference is you only compile memory.c, although you can just add more files after memory.o like hello.o, etc to compile hello.c\r\nHope this helps."
+-
+    name: Roya_Gh
+    mail: miraculous200@yahoo.com
+    subject: 'do u have a simple source code of usb or pci modules?'
+    hostname: 213.207.252.131
+    created: '1194606161'
+    body: "hello,\r\ni'm a student of computer eng(hardware)and at the moment i'm working on a project which is about USB driver programming in linux.i use kernell 2.6.18(fedora core). i have run a simple module in it(i mean that famous hello module)but after that i tried to run some other modules such as pci modules but i faced with some problems...maybe the program it self has some problems...so...is there any persons here that has a source code of a simple usb or pci drivers?i would be really thankful for your attention."
+-
+    name: 'Sid B'
+    mail: smbhobe2002@yahoo.co.in
+    subject: 'Great Work!!!'
+    hostname: 203.91.193.50
+    created: '1194845950'
+    body: " Its really a wonderfull piece of documentation for beginners trying to deveplop Linux device drivers.\r\n "
+-
+    name: 'Brett Zamora'
+    mail: brett.zamora@hotmail.com
+    subject: 'Very well written...'
+    hostname: 70.103.67.194
+    created: '1195596701'
+    body: 'Excellent presentation. I look forward to actually building the examples.'
+-
+    name: 'Anonymous visitor'
+    mail: aved_1981@yahoo.co.in
+    subject: Help
+    hostname: 122.167.69.243
+    created: '1195828185'
+    body: ' I am using knoppix Live CD. And I don''t know how to compile my modules in knoppix. If anyone can help I will be thankful. '
+-
+    name: 'Anonymous visitor'
+    mail: cyaone@gmail.com
+    subject: Awsome!
+    hostname: 219.64.64.75
+    created: '1196188580'
+    body: "Never seen an article describing device driver writing this simple.\r\n\r\n"
+-
+    name: metacrease
+    mail: metacrease@rambler.ru
+    subject: 'Excellent article!'
+    hostname: 213.17.194.74
+    created: '1196669834'
+    body: 'Excellent article!'
+-
+    name: bzamora
+    mail: ''
+    subject: 'Works with CentOS 5...'
+    hostname: 70.103.67.194
+    created: '1199834743'
+    body: "Hi...\r\n\r\nThanks for this sample. This worked great with CentOS 5.\r\n"
+-
+    name: bzamora
+    mail: ''
+    subject: 'Character driver...'
+    hostname: 70.103.67.194
+    created: '1199835162'
+    body: "Hi Vishwa,\r\n\r\nOn page 4 of the tutorial, where the author shows the mknod command, he states that the c identifies this driver as a character driver. My guess is that is the reason that you only see the last letter. I believe character drivers will only allow you to receive the most recent character that was written... ie the 'f'.\r\n\r\n"
+-
+    name: sowmya.kethireddy
+    mail: ''
+    subject: 'Really nice article'
+    hostname: 203.145.189.66
+    created: '1201597051'
+    body: "hi,\r\nI'm new to linux. I'm searching for easily understandable article. I found this. ThanQ verymuch to the author. "
+-
+    name: 'newto linux'
+    mail: ''
+    subject: 'Problems in Ubuntu on memory and parlelport drivers'
+    hostname: 155.41.162.55
+    created: '1203005290'
+    body: "Hello, I am new to linux, so please forgive me.\r\nI have been able to compile and run the first two drivers in the tutorial but once I try the multi file ones i have issues the memory drive and the parlelport driver will not compile.\r\n \r\nThe lines in brackets like this one:<strong> '<'parlelport modified init module'>' </strong>...without the '' I just have them so the brackets will show up and not be filtered.\r\n\r\n that refrence other files I have created like the tutorial said to do are generating the \r\nfollowing error:<strong>\r\nIn file included from /usr/src/parport/parlelport.c:2:\r\n/usr/src/parport/parlelport init module: In function ‘parlelport_init’:\r\n/usr/src/parport/parlelport init module:14: error: expected expression before ‘<’ token\r\n</strong>\r\nI have literally copied and pasted the example code... what am I missing?\r\n\r\nI am using UBUNTU \r\nThanks\r\n"
+-
+    name: admin
+    mail: ''
+    subject: Solution
+    hostname: 203.59.146.216
+    created: '1203085805'
+    body: "Hi,\r\n\r\nI _urge_ you to ask the same question in the Ubuntu Forums ( http://ubuntuforums.org/ ). They are fantastic, and will definitely help you!\r\n\r\nBye,\r\n\r\nMerc."
+-
+    name: thainam
+    mail: ''
+    subject: 'Compile these examples for ARM architecture'
+    hostname: 147.210.246.189
+    created: '1218454314'
+    body: "Hi, thank you for your article, it's great. I compiled them and work ok on Ubuntu:\r\nobj-m += parlelport.o\r\n\r\nall:\r\n\tmake -C /lib/modules/$(shell uname -r)/build M=$(PWD) modules\r\n\r\nclean:\r\n\tmake -C /lib/modules/$(shell uname -r)/build M=$(PWD) clean \r\n\r\nHowever, I installed them on Iliad tablet, it said different architecture(it bases on ARM architecture). Could you show me how to these drivers for Iliad tablet?\r\n\r\nOnce again, thank you very much."
+-
+    name: azad
+    mail: ''
+    subject: driver
+    hostname: 80.131.255.194
+    created: '1221129180'
+    body: "Hello to everybody, \r\n\r\nI have read the script to Linux driver. I would like to know how one makes the circuit LEDs. \r\n\r\nMany greetings \r\n\r\nAzad"
+-
+    name: BilalMehdi
+    mail: ''
+    subject: 'Nonexistant resource 00000000378'
+    hostname: 59.103.26.224
+    created: '1223055671'
+    body: "Hi...\r\n\r\nI tried the parallel port driver .. but ... I am having some problems...\r\n\r\n1. I dont see 0378 memory allocated to my module with cat /proc/ioports command. (I dont see memory location 0378 in the list)\r\n2. I cant see the state of the port with cat /dev/parlel_port\r\n3. When I remove my module .. I get a message in the log \"Trying to free nonexistant resource 0000000378-00000000378\" ... (No error message is logged during insmod)\r\n\r\nAthough I did remove parport and parport_pc module... (I was unable to load my module without unloading these modules)\r\n\r\nIf someone knows how to fix it.. please post a reply here..\r\n\r\nThanx in advance"
+-
+    name: saurabhg84
+    mail: ''
+    subject: 'Procedure to unload the current parallel port driver'
+    hostname: 59.162.23.19
+    created: '1265624893'
+    body: "Firstly, let me say...this is an awesome tutorial but the only thing missing out here is an elaborate procedure to unload the driver which is present by default on all systems having a parallel port. For some reason rmmod/modprobe did not work out here and the solution as someone has pointed out in one of the earlier comments is to modify the startup scipt to NOT load the parallel port driver at startup. In Ubuntu, I used the following steps to unload the driver during startup and now it works brilliantly:\r\n\r\nSteps to unload paralel port driver:\r\n1. Make the following changes in the /etc/rc1.d :\r\n    K80cups:      modprobe -q lp || true\r\n    K80cups:      modprobe -q ppdev || true\r\n    Uncomment the above 2 lines of the scripts\r\n2. Make the following changes in the /etc/rc2.d :\r\n    S50cups:      modprobe -q ppdev || true\r\n    S50cups:      modprobe -q lp || true\r\n    Uncomment the above 2 lines of the scripts\r\n3. Add the following lines to the file /etc/modprobe.d/blacklist.conf:\r\n    blacklist ppdev \r\n    blacklist parport_pc\r\n    blacklist parport\r\n    blacklist lp\r\n    Restart PC at this point\r\n4. Unload the remaining modules manually using rmmod (if any)\r\n5. Follow remaining instructions given in the tutorial\r\n6. Load custom module (sudo insmod parlelport.ko)\r\n\r\nHope this helps...\r\n\r\nCourtesy: Redmond who has posted one of the earlier comment"
+-
+    name: aditya84
+    mail: ''
+    subject: 'in reply to above'
+    hostname: 122.170.75.166
+    created: '1286796041'
+    body: "Awesome tutorial, thanks Xavier\r\nI think saurabhg84 means \"comment\" in points 1 & 2.\r\nI think just blacklisting might also work, but in the right order.\r\nAnyway, will try it out and get back.... \\m/\r\n"
+-
+    name: nagabhushana
+    mail: ''
+    subject: Great!
+    hostname: 122.179.102.97
+    created: '1287063649'
+    body: 'I am grateful to you for this excellent tutorial.'
+-
+    name: demohis
+    mail: ''
+    subject: 'Mounting the memory device'
+    hostname: 217.222.170.21
+    created: '1303386912'
+    body: 'I don''t understand the step between the command insmod memory.ko and the command chmod 666 /dev/memory. I don''t find the device memory in the folder /dev/. What do I wrong?'
+-
+    name: sb_78
+    mail: ''
+    subject: 'Great work'
+    hostname: 217.10.60.85
+    created: '1308048171'
+    body: "Nicely written.\r\nGreat tutorial exactly what i needed. \r\nThanks a million."
+-
+    name: tkman
+    mail: ''
+    subject: 'Great job.'
+    hostname: 72.1.195.94
+    created: '1312320968'
+    body: "Very good introduction.\r\n\r\nNow to create a fantastic device driver everyone wants. ;)"
+-
+    name: shr10
+    mail: ''
+    subject: mknod
+    hostname: 84.228.51.145
+    created: '1313656524'
+    body: "try to create the device manually:\r\nmknod --mode=0666 /dev/memory c 60 0\r\ndescription:\r\nmknod - the command name to create device file \r\n--mode=0666 - (optional) save the chmod command\r\n/dev/memory - device file name (to use several devices add minor version to name; i.e: /dev/memory0)\r\nc - stand for char device\r\n60 - major version (u actually should check the register_chrdev return value for actual major number, if the 60 was in use u will get other major number)\r\n0 - minor version (if u use several devices , increment this for each)\r\n\r\nI don't know why it wasn't mentioned in the article, maybe in old versions of kernel the device file had been created by register_chrdev?\r\n"
+-
+    name: kevenm
+    mail: ''
+    subject: 'memory256 (more than 1 char)  Debian 2.6.26-2 on hppa'
+    hostname: 67.2.77.176
+    created: '1321557213'
+    body: "Im working on an rp2470 A500 hppa box. Loaded Debian 2.6.26-2.\r\nLoved this article and had to get started.\r\nI have and am now reading Linux Device Drivers 2nd ed (Linux 2.4) to\r\nlearn other driver concepts, and callable routines.\r\n\r\nfirst make attempt failed.\r\nI had to get kernel sources,\r\nmake oldconfig\r\nmake prepare\r\nthen edit Makefile removing -fno-strict-overflow\r\n  (my gcc version is 4.3.2-1.1)\r\nthen had to make the kernel:  make\r\n\r\nTHEN the only error I had was something about \r\n  .../linux-source-2.6.26/pwd/    no Makefile found\r\n\r\nThe article on page 2 as I saw listed the make command as\r\n$ make -C /usr/src/kernel-source-2.6.8 M=pwd modules\r\nI changed to \r\n$ make -C /usr/src/kernel-source-2.6.8 M=$(pwd) modules\r\nand nothing.c built, loaded, and worked!\r\n\r\nI worked memory.c into memory256.c to handle 256 char storage.\r\nToo large to post here, but you can request it from me,\r\n   Ranger1@3kranger.com\r\nKeven\r\n"
+-
+    name: kuru90
+    mail: ''
+    subject: 'help need'
+    hostname: 115.242.159.142
+    created: '1327557274'
+    body: "sir, i want to develop a keyboard interface,which should be platform independent...that is,it should take calls from linux/windows and map the  corresponding keys and display...please help to do this....\r\nfunctions are,\r\nint Key_Init()\r\nint Key_Register(KEYCALLBACK fnCB)\r\nint Key_Poll(sKey_t *pKey)\r\nvoid Key_Capture_Event(DWORD charType, DWORDr charValue)"
+-
+    name: chandan_001
+    mail: ''
+    subject: 'm getting the full string'
+    hostname: 117.227.229.124
+    created: '1363429413'
+    body: "Hi all,\r\n              I've got the full string and don't change the code.\r\nusing \r\n\r\n$echo \"chandan kumar bera\" > /dev/memory\r\n$cat  /dev/memory\r\ntry it."
+-
+    name: AntonioVillanueva
+    mail: ''
+    subject: 3.8.0-19-generic
+    hostname: 88.173.34.251
+    created: '1375883358'
+    body: "Congratulations, clear and concrete. In any way the evolution of the new kernels (3.8.0-19-generic) has removed two includes / linux / config.h / asm / system.h of memory module\r\n\r\nthanks again !"
+-
+    name: techfreakz
+    mail: ''
+    subject: 'Syntax mistake in MAKE worth fixing'
+    hostname: 60.242.12.115
+    created: '1381966111'
+    body: "Hello,\r\n\r\nJust to save anyone else the pain i've had, could you please update the following line in the First Driver section of your excellent post to read:\r\n\r\n$ make -C /usr/src/kernel-source-2.6.8 M=`pwd` modules\r\n\r\nThanks"
+-
+    name: 'Thiru N'
+    mail: ''
+    subject: 'Best and short Article'
+    hostname: 192.249.41.3
+    created: '1382077275'
+    body: "Thanks for sharing this article\r\n\r\nIt Short and best article for Device Driver Learners..\r\n\r\nThiru\r\n"
+-
+    name: mubashwir
+    mail: ''
+    subject: 'Effective tutorial'
+    hostname: 210.94.41.89
+    created: '1411527660'
+    body: 'Special thanks to Xavier Calbet. It''s a great tutorial for the beginers.'
+-
+    name: admin
+    mail: ''
+    subject: Fixed!
+    hostname: 27.33.233.17
+    created: '1432335526'
+    body: "Hi,\r\n\r\nSorry it took a while... fixed!\r\n\r\nAdmin."

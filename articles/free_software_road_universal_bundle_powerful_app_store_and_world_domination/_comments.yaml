@@ -1,0 +1,91 @@
+-
+    name: chrys
+    mail: ''
+    subject: 'Who can implement this?'
+    hostname: 87.228.159.148
+    created: '1294068995'
+    body: 'Although I downvoted this article (by mistake of course!) I totally agree with your ideas Tony. However, can you be more specific about the people or companies that can implement this idea?'
+-
+    name: begemot
+    mail: ''
+    subject: Stupid
+    hostname: 122.104.112.131
+    created: '1294149660'
+    body: "You mentioned static linking, which is the worst thing ever invented on computers.\r\n\r\nSome of the other things in the article are already being worked on.\r\n\r\nSeems like a generally misinformed article to me.\r\n\r\nMore comments here:\r\n\r\nhttp://lwn.net/Articles/421471/"
+-
+    name: admin
+    mail: ''
+    subject: 'Stupid?'
+    hostname: 61.69.134.128
+    created: '1294188117'
+    body: "Hi,\r\n\r\n(Grumpy hat on)\r\n\r\nPlease back your comments, especially if you call the article \"stupid\".\r\nI didn't mention static linking. I mentioned the fact that any \"uncommon\" library should be available with the app, and it should be used IF it's not available in the system.\r\n\r\nPlease mention _where_ the other issues are being worked on -- maybe you mean LSB, which doesn't cover 10% of what I talked about.\r\n\r\nPlease also point out which parts of the article are misinformed -- especially if you call it \"stupid\".\r\n\r\nBye,\r\n\r\nMerc."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Weasel words...'
+    hostname: 68.116.159.234
+    created: '1294210344'
+    body: "\"Every complying distribution\". :-D\r\n\r\nI think a real response is going to require a full post, but as long as you're okay with excluding \"non-compliant\" distributions, your description is very nearly met by any of the major binary package distributions.\r\n\r\nThe \"app store\" environment, in fact, sounds very much like Linspire's CNR, which was basically just an extension of what GUI APT tools like Synaptic provide. The \"Ubuntu Software Center\" retains some of these concepts.\r\n\r\nThe differences get down to pretty fine engineering choices, and I'm not convinced that switching to a single-directory/per-user model would really help with the dependency and compatibility problems."
+-
+    name: admin
+    mail: ''
+    subject: 'It''s beyond that...'
+    hostname: 61.69.134.128
+    created: '1294210782'
+    body: "Hi,\r\n\r\nTerry, I really think that this goes _way_ beyond an engineering issue. It's a philosophical issue more than anything else. The limitations that are a clear consequence of the current \"package management\" system are too far-reaching (I listed them in the article). And no, they cannot be fixed. Per-user installation, root password requirement, multi-architecture, etc. (see the article for the details :D )\r\n\r\nMy idea does not involve pigs and lipstick. It involves a clear design and a neat way of doing something.\r\n\r\nBye,\r\n\r\nMerc."
+-
+    name: admin
+    mail: ''
+    subject: 'I do actually...'
+    hostname: 61.69.134.128
+    created: '1294211055'
+    body: "Hi,\r\n\r\nI am putting together some more specific research about this project.\r\nI will let everybody know as soon as I have some more info...\r\n\r\nMerc."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Who manages the app-store?'
+    hostname: 62.140.212.3
+    created: '1294238601'
+    body: "I'm not convinced by this idea. For one, splitting \"GUI user\" apps into an app-store while I presume leaving server apps to be managed by apt-get or whatever seems a little fraught with danger to me. It sounds good on paper/screen but in practice things are not that clear cut. I run a couple of development machines which have both GUI user apps and server apps on them. Managing such a machine becomes fragmented and troublesome in the environment you suggest. Yes that's my lookout but I choose my distro carefully depending upon the machine and I think a lot of other people do as well.\r\n\r\nSecondly who manages the app-store. Implied within your idea is the concept that the end-user will expect any application they get from the app-store to \"just work\" once it is installed. So who determines whether and when applications are fit for release? In the case of the OSX store that will be Apple (and we've seen the problems associated with that). For Android that is Google (again with associated issues - witness Creative's attempts to get their tablet approved to use the store). So who manages the free software app-store? Who decides whether an app is ready and how they are categorised? Right now these decisions are made by distributions and the criteria differs greatly. Ask the users of Debian, Mint and gNewSense if they can come to a common consensus.\r\n\r\nThis is an interesting concept but I think that is all it can and should be. As Terry appears to be suggesting the real problem with any idea like this will be getting distribution buy-in. Not just the popular ones but the smaller ones as well.\r\n\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: 'Gary Richmond'
+    mail: ''
+    subject: 'Apple''s App Store for OS X'
+    hostname: 92.15.112.126
+    created: '1294362182'
+    body: "Regardless of your article and the comments on it, I just like to cheer you all up with a link to a review of Apple's App Store for Mac OS X on Lifehacker:\r\n\r\nhttp://lifehacker.com/5726764/why-the-mac-app-store-sucks?skyline=true&s=i\r\n\r\nIt's an absolutely scathing review. It couldn't be worse and regardless of how any GNU/Linux app store would be implemented it would not be hobbled by the restrictions listed in the article. Whatever else Apple have done right with the iPad seems not to have been replicated in their new Mac OS X app store.\r\n\r\nToshiba will be bringing out their own (bigger) version of the iPad later this year, featuring Honeycomb (Android 3) customised especially for tablets. That, in my opinion will be where free and open apps come into their own rather than on conventional distros on desktops and laptops."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Not welcomed by Mac users either'
+    hostname: 62.140.212.3
+    created: '1294394551'
+    body: "My experience tells me it is not well received by Mac users either. Several of the ones I know (particularly the experienced Mac users) have been moaning about it since its launch. Complaints include from applications not being available, lack of a clear way to upgrade applications and slow speed. These are not scientific research nor my experience (never touched a mac, never want to), they're just hearsay.\r\n\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Apple app store and GPL'
+    hostname: 68.116.159.234
+    created: '1294526800'
+    body: "Just to add fuel to the app store blaze... VLC was recently removed from Apple's app store because its GPL license conflicts with the app store Terms of Service:\r\n\r\nhttp://www.zdnet.com/blog/open-source/no-gpl-apps-for-apples-app-store/8046\r\n\r\nNot sure how that's going to play out."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: control
+    hostname: 62.140.212.3
+    created: '1294666233'
+    body: "Whilst Apple are not known for reverting their stance, VLC is such a popular app that I'd be surprised if they don't revert this decision if enough users complain (or enough with the money to back it up).\r\n\r\nThis does highlight another downside to app-store's though: control. As I said above somebody needs to manage an app-store - even one for free software. Whilst a free software \"store\" would not be run along the same lines, this incident highlights the issues with such a service. If you are a dictator like Apple then you can do what you want (as long as you sell it as a benefit). if you are running a community service then you can't and pretty soon you'll end with death-by-committee.\r\n\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Jimmy Wales disagrees Tony'
+    hostname: 62.140.212.3
+    created: '1294996805'
+    body: "It seems Jimmy Wales [disagrees with you](http://tech.blorge.com/Structure:%20/2011/01/13/wikipedias-jimmy-wales-app-stores-a-clear-and-present-danger/) Tony.\r\n\r\nRyan  \r\n\\-\\-  \r\nEquitas IT Solutions - fairness, quality, freedom  \r\n[http://www.equitasit.co.uk](http://www.equitasit.co.uk)"
+-
+    name: openuniverse
+    mail: ''
+    subject: argh
+    hostname: 71.168.87.30
+    created: '1296001255'
+    body: "well, at least we know how an app store works now. but let's get something straight, we don't have \"so much to learn\" from app stores, we have so much to teach them about respecting users and choices. so let's reserve the phrase \"world domination\" for people cheating and imposing themselves, not for advocates of user-empowerment ok? no one should be \"dominating\" anything.\r\n\r\nsuccess is another matter, i'm all for it. before you put too much stock in a system like the one you're describing, have a look at freedesktop.org. it should give you an idea of how much such a system will actually be embraced. \r\n\r\nfor every .deb package and arch tarball, how many programs out there with no standard way to install on any distro? how will those things fit into the app store? let's call it what it is then: not a radical new package management system worthy of designing most mainstream distros around, but an advertising system based on the illusion of choice, like american idol or x factor.\r\n\r\nonce we're less enchanted with the magic that the app store doesn't really bring to the table, we can still talk about looser, less top-down ways to implement one for fun. yeah, domination is top-down, and free software (by definition) isn't. \r\n\r\ni would not be averse to a \"universal repo,\" even though it wouldn't be universal. it would be the opposite of GLFS, it would be a repo, with sourcecode, pre-compiled binaries for everything in it, and i suppose then it would have to have some kind of \"universal kernel.\" the kernel wouldn't be optimized, except for two or three cpu types, and all the other binaries would have to support it too. from this repo you could build all kinds of distros, really build your own. you could setup your \"app store\" using the same repo. it could be funded and maintained kind of like wikipedia is. but nag windows, tony? really? i think we can skip that kind of promotion. we haven't all moved our brains to the cloud yet."

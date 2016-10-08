@@ -1,0 +1,126 @@
+-
+    name: ''
+    mail: ''
+    subject: 'are you drunk?'
+    hostname: 190.8.79.133
+    created: '1165318369'
+    body: "XMMS2 is still alive and kicking. maybe you should look at your sources :-)\r\n\r\nhttp://wiki.xmms2.xmms.se/"
+-
+    name: ''
+    mail: ''
+    subject: 'XMMS2 development seems to have died out, which is quite unfortu'
+    hostname: 87.123.154.150
+    created: '1165318536'
+    body: "\"XMMS2 development seems to have died out, which is quite unfortunate because I think they were going in the right direction.\"\r\n\r\nWhat makes you think that? Actually, the XMMS2 development is VERY active."
+-
+    name: ''
+    mail: ''
+    subject: 'Premature news of the death of xmms2'
+    hostname: 86.128.213.5
+    created: '1165321397'
+    body: "XMMS2 dead? I sure as hell hope not and I really don't think so:\r\n\r\n\"New release. DrHouse is out.\r\n02 December 2006 CLST (2006-12-02) Submitted By Tobias Rundström\"\r\n\r\nhttp://wiki.xmms2.xmms.se/index.php/Main_Page\r\n\r\nand I found a few people in #xmms2 who don't seem to think so either!\r\n\r\n\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'XMMS also has the lowest bug rate'
+    hostname: 68.93.224.4
+    created: '1165340498'
+    body: "Probably worth mentioning in any article about XMMS, that according to the Collabnet software quality studies done a few months ago, XMMS had the lowest ratio of discovered bugs to total lines of code.\r\n\r\nI'm not entirely sure that's a solid metric of code quality, but it's got to mean something, and kudos are due to the people who wrote XMMS, IMHO. ;-)\r\n\r\nIt's also my personal favorite music player (no surprise there).\r\n"
+-
+    name: 'Patrick McFarland'
+    mail: ''
+    subject: 'For those saying I''m wrong on XMM2...'
+    hostname: 70.16.69.187
+    created: '1165478957'
+    body: 'Historically, projects that don''t release and PR constantly die out. XMMS2 rarely releases, and is almost unheard of; if XMMS2 doesn''t change this, then XMMS2 will, in fact, die out. Now, hopefully since I mentioned  XMMS2 here, this won''t happen, but good projects die all the time. Thats just the way it is.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Almost right...'
+    hostname: 68.93.224.4
+    created: '1165525965'
+    body: "Projects that don't release often and release lots of PR <em>OR have a small dedicated group of motivated developers</em> tend to die out.\r\n\r\nThere are some niche projects that have been maintained for years by a tiny group of user/developers. They aren't broad successes, but they keep going.\r\n\r\nA lot of research and some game software is like that. XMMS, as entertainment software, probably classes with games.\r\n\r\n"
+-
+    name: 'Nate Bargmann'
+    mail: ''
+    subject: 'Thanks for the pointer'
+    hostname: 12.158.148.131
+    created: '1165544645'
+    body: "Thanks for bringing Audacious back to my attention.  I tried it early this year and it was still quite immature and Beep Media Player was more stable for me.  After your article I found that it had advanced quite a bit along with a package in Debian Unstable.  I really like just a simple audio player in a lot of instances and I have a number skins I've grown fond of over the years.\r\n\r\nI'd like to give a tip of the hat to the coders all along the way from X11amp to Audacious that have brought us this fine program.\r\n"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'It actually fell to zero'
+    hostname: 84.7.125.11
+    created: '1165567240'
+    body: "If I remember the stats correctly, the audit picked up 6 bugs in the XMMS software itself, and those were all corrected - meaning that now, XMMS is pretty much bug-free. Now, as mentioned in the article, a plugin can crash XMMS...\r\nIt doesn't really matter to me: I mainly listen to streaming Vorbis radio, and there XMMS works just fine (with a very nice Ayo skin ;).\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Hideaki Anno'
+    hostname: 84.7.125.11
+    created: '1165568304'
+    body: "For those who don't know who he is, Hideaki Anno is the main writer behind the Evangelion anime series at Gainax' studio (he co-founded it, as a writer first then as a director).\r\nThe series, interestingly enough, didn't end on a definite note (but a dark yet hopeful one), which confused most of its fans (having thought about it for a looong while, I found it ended very well on its own - it was overly hard on any eighteen year old's brain who hadn't taken philosophy as its main course, though).\r\nIn reaction, Anno decided to make a movie (the End of Evangelion) which some claim is the 'proper ending' while others describe it as an unnecessary slugfest. Its animation was flawless, the action contained one of the most violent fights seen to date in Anime, and it closed most of the plot holes in the series - it was thus technically perfect. However it litterally ended on a sick note.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'BMPx going nowhere?'
+    hostname: 83.162.0.62
+    created: '1165626305'
+    body: "Was that statement a reference to the stability of BMPx as an audio player or to the activeness of the releases? Because as far as I know BMPx runs quite well (atleast for me) and is very active in releases. Having used all kinds of media players including resource hogs like Rhythmbox and Amarok I believe BMPx is a great step forward. In that way I also think it to be a bit unfair to mention it in the same article as just simple media players like xmms and audacious.\r\n\r\nMy 2 cents...\r\n\r\nEelco Bosselaar aka AcTiVaTe"
+-
+    name: deadchip
+    mail: ''
+    subject: '1 word: Monolithic (and i mean carbonite solid)'
+    hostname: 212.202.40.83
+    created: '1165635705'
+    body: "The XMMS bug count fell to almost none to zero, but the code is so unmaintainable that we eventually decided stop working on it. You guys don't really get what software development (not \"churning out code for the money\", but i really mean software development) is about, and what decisions have to be done if you're a project manager, and are trying to think long term.\r\n\r\nXMMS has zero bug count but the codebase is so flawed that no one who codes would want to put his fingers into it. I very much doubt the Audacious developers would have had any fun with it before we actually rewrote approx. 60-70% of the XMMS code; all they did was cherrypicking, taking the codebase after we had brought it to a minimal level of real maintainability (far from what i'd call maintainable but at least something that can be worked on), and the countless bugs we've introduced were just the result of taking apart a big block of spaghettized monlithic code which you really can not take apart without breaking everything of it at once in various spots.)\r\n\r\nA business that has limited funds (as almost every business has; it's a result of their growth and a balance between funds/venture capital and the amount of products/product lines and/or their complexity/range and external investments) and has to get in some revenue constantly (same thing; or they just go, well, \"out of\" business), it has to always keep a working product line going, and can't allow for too much research on sideprojects or some \"next-gen foundation\", but development is inherently iterative due to the business constraints.\r\n\r\nOr (or!) you have so much money that you can have something out there that works in the meantime, and in your back offices develop something that is experimental. With free OSS development (volunteer work, not paid by companies; that is, free software developed by people in their free time), the strain you have is comparable to a company that has a) nothing to loose and b) has unlimited funds.  But, that isn't enough.\r\n\r\nThat's where many OSS projects fail in the way you've described, since they just slumber along (nothing to loose: nothing to do!). \r\n\r\n*We* have a _long_ term goal, but it's not laid out into infinity. We are watching timeline constraints, but we're not stupid enough to haste things nor are we under cash pressure so we can leave the 1 or 2 years it takes for BMP 2.0 to come out.\r\n\r\nYou should take a look at: <a href=\"http://bmpx.beep-media-player.org/site/FAQ#Why_is_Item_X_or_Feature_X_not_implemented.2C_even_though_it_seems_trivial.3F\">BMPx FAQ: Missing 'trivial' features</a>\r\n\r\nI'm sure some \"senior\" (whatever that means; I've met too many 60 to 70 year old junior seniors in disguise so far) \"developers\" or \"consultants\" or \"experts in the IT field\" will contradict what we're doing and call it doomed from the start (heh) but you're just ain't getting it.\r\n\r\nDip your fingers into the XMMS code and then we're talking. If all that matters to you is a zero bug count, and not maintainablity of code, then you don't know anything about economics, in the educational/scientific sense, as well as in a mere natural, instinctive sense, nor do you seem to get that the entire OSS development ecosystem is geared towards creating stable foundations rather than pushing out finished products at point releases.\r\n\r\nBefore you anchor your hook into the previous statement: That's also where a lot of projects fail; they keep creating infrastructure for so long that they seem to eventually forget they were actually planning to release a product. With BMPx and BMP2, we have something that is usable _right now_, yet it's still only the draft of BMP2. It's both at the same time: A clean codebase with very good maintainability, and at the same time already a usable media player. We put the 2 things of this hypothetical company that has unlimited funds into *one* box: the product that is out there and works, and the development project; and guess what, it works for us. Maybe some others have failed, but that was then their misguided management or no-grasp what management of software development (to extend on the previous term) is about.\r\n\r\nIt might take another year or one and a half until we have BMP 2.0 out but after then the amount of maintenance will be minimal, the codebase will be extensible, and the right foundation for BMP 3.0.\r\n\r\nMilosz"
+-
+    name: deadchip
+    mail: ''
+    subject: 'What the Frell..'
+    hostname: 212.202.40.83
+    created: '1165650519'
+    body: " \r\n \r\n..you've got to be kidding me!\r\n\r\n> Starting at around the same time as XMMS2, Beep Media Player (BMP) (lead by Milosz “deadchip” Derezynski) forked XMMS\r\n\r\nWrong, I forked off XMMS earlier than XMMS2 started, at least as far public availability goes. (EDIT: In hindsight or as i remember now it was actually so that i was mailed by the XMMS guys when i first forked it and they asked me whether i wouldn't rather want to work with then on \"XMMS2\", but i have no idea how far the project had proceeded at that time, so it's probably valid to say \"around the same time\".)\r\n\r\n\r\n\r\n> BMP development continued on until Milosz decided that XMMS/BMP really did need a \r\n> major rewrite; although, from what I’ve seen, he hasn’t agreed with Peter on what \r\n> XMMS’s replacement needed.\r\n\r\nFirst of all this was not my, but a team decision. We didn't \"ask Peter\" since we don't have any obligations towards the XMMS/XMMS2 developers; there was nothing to agree _upon_, and especially with BMPx, since it was written from zero with only a minimal amount of original BMP code (not even really XMMS code anymore since it as refactored already for a long time).\r\n\r\nYou seem to think that just because (the first, initial, XMMS forked BMP) was a fork, we had some kind of obligation towards the XMMS developers or what is the point you're trying to make here?\r\n\r\n>In October of 2005, Milosz forked BMP (which was essentially XMMS with GTK2 and a\r\n>ton of code refactoring, but not much in the way of new features) and called it\r\n>BMPx; although I use the term 'fork' loosely, as he decided to start the rewrite\r\n>from scratch. In addition, BMPx is designed around using Xine (and later \r\n>GStreamer) as the plugin system.\r\n\r\nYou're not using the term \"loosely\", you're entirely misusing it. I didn't fork it off, I've laid the foundation in a separate codebase and as soon as there was something the rest could work on with me, we started to work on it together. The \"code refactoring\" phase was much earlier, at times of the XMMS-forked (now in the right sense of \"forked\") BMP.\r\n\r\nGStreamer is not exactly a plugin system either. I encourage you to tell the GST developers that it is one, but beware of being flamed and chased into the bowels of hell.\r\n\r\n(\"[...] although I use the term 'fork' loosely, as he decided to start the rewrite from scratch\" How about \"I totally abuse the term and in fact he just wrote it from scratch but since i love using all those leet F/OSS words I'll just call it a spoon. Fork. Whatever.\")\r\n\r\n\r\n\r\n\r\n> Milosz did alienate several developers during BMPx development when he decided to\r\n> scrap BMP's original code. Some left in anger, others left because they were\r\n> board with the project, and some decided to work on some of the other media\r\n> players.\r\n\r\nBoard. \"Bored\" perhaps?. Well AAMOF no developers left because of the rewrite which again was not the initial fork of XMMS (your text is really way jumbled up basically beyond correctability; maybe I should \"fork\" it and \"rewrite it from scratch\" instead...). There were no developers alienated because of our change. Some left later on but for other reasons than the code rewrite (like, becoming more active in infrastructure development e.g. GStreamer or Gtk+.)\r\n\r\nNo one from the original BMP team as far as I know works on other media players. (Sounds like you're trying to tell a goodnight story for children to sleep: \"And if they didn't die, they still live somewhere out there, working on other media players!\")\r\n\r\nIt looks to me like you've read our About page, did some kind of minimal research or something, and then intentionally jumbled this up. I'm not necessarily saying you did, but being a person who actually *lived* through all those times from X11amp to Audacious, and being the initiator of the BMP _project_ which currently develops BMP 2, I know the actual facts, and you've just got them so plain wrong that you either made it all up or deliberately forged them so your article can make a point on Audacious. You've simply got all facts surrounding BMP development wrong; all of it.\r\n\r\nAlso, you just fail to realize that BMPx is, while it's not a Winamp2-alike media player anymore, very well made in it's own right and on a really good way to become BMP 2.\r\n\r\nIf emo overwhelms you and the winamp2 GUI gives you a warm buzz then that's long time no reason to say that players with entirely different concepts are a dead end.\r\n\r\nMilosz\r\n\r\nPS: I've been writing for magazines too and I can only give you the hint that you really should stop doing that unless you are willing to do the basic fundamental stuff that needs to be done before writing an article, starting with proper  background research."
+-
+    name: Chainsaw
+    mail: ''
+    subject: 'Continuing the company analogy...'
+    hostname: 62.45.156.236
+    created: '1165665170'
+    body: "Actually the Audacious developers didn't have much fun until most, if not all of the newly introduced BMP code was rewritten. I would indeed agree that countless bugs have been introduced at this point, which are now resolved. Now that the foundation is solid, individual areas of the code are selected for a performance-enhancing rewrite, which at times adds more features as well.\r\nIn other words, Audacious does partial rewrites in-between releases, with the codebase never unusable for over 48 hours. Having absorbed most of the plugins allows us to keep even SVN in a workable state. I'm not sure that \"that was wrong, I'll smash it all down and rewrite from scratch\" is a good approach, especially if it happens more then once.\r\nGenerally, a good way to see which open source software is succeeding is how much developers it attracts and can keep interested. In your company analogy, how many employees one can retain. It would suffice to say that Audacious is a much larger company."
+-
+    name: 'Patrick McFarland'
+    mail: ''
+    subject: 'Oh, really now?'
+    hostname: 70.16.69.187
+    created: '1165667559'
+    body: "> (EDIT: In hindsight...\r\n\r\nDo you always find a way to stick your foot in your mouth?\r\n\r\n>> although, from what I’ve seen, he hasn’t agreed with Peter on what XMMS’s replacement needed.\r\n> We didn't \"ask Peter\" since we don't have any obligations towards the XMMS/XMMS2 developers\r\n\r\nJust because you didn't ask him doesn't mean you don't disagree with him. At no point did I say you needed his permission. You're going your way, and he is going his. I don't see why you disagreed with that; is BMPx a XMMS2 clone and you forgot to tell everyone?\r\n\r\nAlso, by making BMPx what it is now, you're essentially saying the Winamp look/feel isn't the way to go for a music player, which Peter <i>did</i> copy at first. All \"post-Winamp\" players are working towards that goal; iTunes, Amarok, Exaile: they all are trying to make more efficient ways of playing and maintaining your music collection. You disagree with Peter on how that is supposed to happen.\r\n\r\n> No one from the original BMP team as far as I know works on other media players. (Sounds like\r\n> you're trying to tell a goodnight story for children to sleep: \"And if they didn't die, they\r\n> still live somewhere out there, working on other media players!\")\r\n\r\nDescender and Quirk, both former BMP developers, have gone on to work on LAMIP now.\r\n\r\n> I know the actual facts, and you've just got them so plain wrong that you either made it all\r\n> up or deliberately forged them so your article can make a point on Audacious.\r\n\r\nOh really? Its kind of funny that several people who <i>were actually there when this happened</i> say you are wrong. I saw it happen too, are you saying I'm lying as well? Hell, Chainsaw personally shot you down in your previous comment on this article just because you got stuff so wrong.\r\n\r\nIf you want people to take BMPx seriously, then stop trolling in blog comments, and start coding."
+-
+    name: ''
+    mail: ''
+    subject: 'Troll article'
+    hostname: 203.10.224.61
+    created: '1165977623'
+    body: "This article is a joke; Patrick McFarland is good friends with one of the primary Audacious developers and is a known internet troll. The bias he is showing here in this article is obvious, if FSM wants to be taken seriously then they need to dump people such as this contributor and quickly.\r\n\r\nIf you want to see examples of Patrick’s trolling adventures, just ask and I’ll provide links. His blog is one example of it.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Some inaccuracies'
+    hostname: 202.89.191.233
+    created: '1165993282'
+    body: "XMMS2 is not a fork of XMMS - there's no code shared between the two projects.\r\n\r\nThere is no 'GTK2 support' in XMMS2 - XMMS2 is a client-server system, and the XMMS2 daemon (xmms2d) doesn't have any GUI code at all. http://en.wikipedia.org/wiki/Xmms2#XMMS2_and_other_projects explains 2 other uses of 'xmms2' which may be confusing. In short, those other uses had nothing to do with the current XMMS2 project, and are now defunct.\r\n\r\nXMMS2 doesn't have 'input' plugins like XMMS. The sentence 'Peter also wanted to split plugins into “input” and “transport” categories' doesn't make much sense, since it was the 'input' plugin concept that got split into 'transport' and 'decoder' plugin concepts in XMMS2.\r\n\r\nThere's no doubt that XMMS2 will die out, just like most other systems die out - it remains to be seen just how this will happen. :)\r\n\r\n-<a href=\"http://wiki.xmms2.xmms.se/index.php/User:Eleusis\">eleusis</a>"
+-
+    name: ''
+    mail: ''
+    subject: 'Troll article & "known internet troll"'
+    hostname: 84.48.68.34
+    created: '1173747975'
+    body: "Yehaw, please lay off using troll as a derogative term, some of us feel tenderly towards the title :\r\n\r\nhttp://www.trolltech.com/\r\n\r\nSo when are some of you spastics going to start using a proper toolkit? My hands are currently tied apropos media players, since I can't find anything like audacious (or even any of its blotchy inbred xmms siblings) which is written against either the Qt libraries or KDE libraries.\r\n\r\nxmms does what a player needs to do. Audacious seems to follow in its stead."
+-
+    name: ''
+    mail: ''
+    subject: 'Russian translation of this post'
+    hostname: 193.109.163.32
+    created: '1175522174'
+    body: 'Russian translation of this post: <a href="http://xmms.info/from-xmms-to-audacious.php">xmms.info/from-xmms-to-audacious.php</a>'

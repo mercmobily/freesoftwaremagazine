@@ -1,0 +1,168 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'ah, the advertising clause argument again...'
+    hostname: 68.93.224.4
+    created: '1221060434'
+    body: "> Maybe, the GPL should be modified so it insists that all distributions include a page, prepared by the FSF, to appear on the desktop of all new installations.\r\n\r\nIn other words, \"reintroduce the old BSD advertising clause\".\r\n\r\nNo, that would not work. The FSF (correctly) argued vehemently that such a provision was \"non-free\". When XFree86 tried to re-introduce an advertising clause, it created the schism that led to the new X.org distribution of X and abandonment of the old XFree86 package.\r\n\r\nIs calling it \"Linux\" inaccurate? Is calling it \"GNU/Linux\" appreciably _more_ accurate? Look at the third figure in my article \"[Impossible Thing #1:...](http://www.freesoftwaremagazine.com/books/mihrfc/impossible_thing_1_developing_efficient_free_software_like_gnu_debian) if you want to see how things _really_ stack up.\r\n"
+-
+    name: Corfy
+    mail: ''
+    subject: 'Where does it stop?'
+    hostname: 204.8.10.30
+    created: '1221063637'
+    body: "Not to take anything away from Richard Stallman or the GNU project, but where does the naming stop? Right or wrong, most users I know don't consider it an operating system without a graphical interface. So should we start referring to GNU/Linux/KDE or maybe GNU/Linux/X11/Xfce? Wait a minute, KDE is built on Qt, so maybe that should be added in. And with the recent push toward web applications, maybe we should throw the browser in there as well, like GNU/Linux/Xll/Qt/KDE/SeaMonkey.\r\n\r\nOn the other side, I'm sure Pepsi would love to have their drinks no longer referred to as \"cokes\", not all facial tissues are \"Kleenex\", and Jell-O isn't the only maker of fruit gellatin. So there is precent for names to not be used in their proper context, and getting people to change their habits in something like that is all but impossible."
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'Advertising clause'
+    hostname: 61.68.61.123
+    created: '1221093967'
+    body: "G'day Terry, congratulations on \"Impossible things\"; most impressive in its scope.\r\n\r\nI don't think that what I was proposing could be considered \"advertising\" in any way. The page would briefly describe the contributions of the two people who developed the basic concept of what is now known as GNU/Linux, describe the copyleft principle and the GPL, and provide handy links to the FSF and other notable sites in the basic Free Software Community.\r\n\r\nThis would provide a distribution independent history, coupled with an introduction into the philosophy behind Free Software. The page would take the form of a desktop icon and could either be deleted after reading, or saved, if the user desired to keep it for later reference.\r\n\r\nThis would be an instructional page rather than a 'Ubuntu's better' form of advertising.\r\n\r\n"
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'It will stop itself'
+    hostname: 61.68.61.123
+    created: '1221095596'
+    body: "A few years ago the the motor industry began sticking more and more acronyms across the back of cars. You'd have GT, then GT SE, then GT SE Quad Cam, and so on. In the end they were even putting descriptions of minor things like air bags onto the name and they almost had to make the tail lights smaller just to fit it all on.\r\n\r\nThat's almost a thing of the past, now. I don't know who got sick of it first, the manufacturers, or the motorists, or both."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Free Software Community'
+    hostname: 68.93.224.4
+    created: '1221109982'
+    body: "> I often use the words “Free Software Community” which I hope gives the new user the idea that there is a lot more involved than just the word Linux\r\n\r\nI think you've got the solution right there. The amazing thing and the thing to communicate to people is that spirit of cooperation and contribution that has made all of free software happen. "
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'The problem with the old BSD'
+    hostname: 68.93.224.4
+    created: '1221110391'
+    body: "The problem with the old BSD license wasn't about the commercial nature of advertising (free licenses are neither \"non-commercial\" nor \"anti-commercial\", remember).\r\n\r\nThe problem was that it put a burden on the end user and amounted to a restriction on _mere use_. That sort of condition conflicts with Stallman's \"Freedom Zero\" -- i.e. the freedom to use the program for any purpose.\r\n\r\nStallman (and others) argued that the BSD advertising clause was onerous, because, if applied to all of the software contributions to a distribution, would require covering the surface of the package up like a race car driver is with advertisements. It wasn't hard to come up with scenarios that easily showed how such requirements could get out of hand.\r\n\r\nI think the desktop info idea fails the same test: it would create a real mess if everybody jumped on the band wagon and started doing it (and if it's not something everyone can do, then it shouldn't be allowed, right?).\r\n\r\nOTOH, it _would_ be kind of cool looking to come up with a desktop like that, just for fun (of course not every project has a snazzy logo to use).\r\n"
+-
+    name: Balzac
+    mail: ''
+    subject: 'The preamble of the GPL already serves that purpose.'
+    hostname: 208.120.236.45
+    created: '1221242793'
+    body: "Laurie wrote: \"Maybe, the GPL should be modified so it insists that all distributions include a page, prepared by the FSF, to appear on the desktop of all new installations.\"\r\n\r\nIt doesn't need to be on the desktop. It's at the top of every GPL license which is distributed with every GPL-licensed package.\r\n\r\nAnyone who bothers to read the license will find that even the Linux kernel is distributed with the preamble of the GPL which says:\r\n\r\n\"Preamble\r\n\r\nThe GNU General Public License is a free, copyleft license for software and other kinds of works.\r\n\r\nThe licenses for most software and other practical works are designed to take away your freedom to share and change the works. By contrast, the GNU General Public License is intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users. We, the Free Software Foundation, use the GNU General Public License for most of our software; it applies also to any other work released this way by its authors. You can apply it to your programs, too.\r\n\r\nWhen we speak of free software, we are referring to freedom, not price. Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for them if you wish), that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs, and that you know you can do these things.\r\n\r\nTo protect your rights, we need to prevent others from denying you these rights or asking you to surrender the rights. Therefore, you have certain responsibilities if you distribute copies of the software, or if you modify it: responsibilities to respect the freedom of others.\r\n\r\nFor example, if you distribute copies of such a program, whether gratis or for a fee, you must pass on to the recipients the same freedoms that you received. You must make sure that they, too, receive or can get the source code. And you must show them these terms so they know their rights.\r\n\r\nDevelopers that use the GNU GPL protect your rights with two steps: (1) assert copyright on the software, and (2) offer you this License giving you legal permission to copy, distribute and/or modify it.\r\n\r\nFor the developers' and authors' protection, the GPL clearly explains that there is no warranty for this free software. For both users' and authors' sake, the GPL requires that modified versions be marked as changed, so that their problems will not be attributed erroneously to authors of previous versions.\r\n\r\nSome devices are designed to deny users access to install or run modified versions of the software inside them, although the manufacturer can do so. This is fundamentally incompatible with the aim of protecting users' freedom to change the software. The systematic pattern of such abuse occurs in the area of products for individuals to use, which is precisely where it is most unacceptable. Therefore, we have designed this version of the GPL to prohibit the practice for those products. If such problems arise substantially in other domains, we stand ready to extend this provision to those domains in future versions of the GPL, as needed to protect the freedom of users.\r\n\r\nFinally, every program is threatened constantly by software patents. States should not allow patents to restrict development and use of software on general-purpose computers, but in those that do, we wish to avoid the special danger that patents applied to a free program could make it effectively proprietary. To prevent this, the GPL assures that patents cannot be used to render the program non-free.\r\n\r\nThe precise terms and conditions for copying, distribution and modification follow.\"\r\n\r\nhttp://www.gnu.org/licenses/gpl.html"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I agree'
+    hostname: 68.93.224.4
+    created: '1221269263'
+    body: "> It doesn't need to be on the desktop. It's at the top of every GPL license which is distributed with every GPL-licensed package.\r\n>\r\n> Anyone who bothers to read the license will find that even the Linux kernel is distributed with the preamble of the GPL [...]\r\n\r\nIt's an inspiring piece of writing, isn't it?\r\n\r\n"
+-
+    name: crashsystems
+    mail: ''
+    subject: 'A rose by any other name...'
+    hostname: 76.106.162.9
+    created: '1221447050'
+    body: "I believe that trying to make people use the \"GNU/\" prefix is a battle that cannot be won, simply due to the inherent laziness in mankind. If it magically could be done without adding any syllables, then it might just work...\r\n\r\nIs it the name that is important, or the ideals behind it. I find that when I introduce people to \"Linux,\" there is already more than enough information for them to absorb, without adding naming conventions to the mix. The ideas behind Free Software are very important to me, but the name is not. I always make sure to introduce these ideas to people when I tell them about \"Linux,\" even though I don't use the word GNU. In spite of my intentional simplification of terms, I find that it is not long before the people I introduce to Free Software come to appreciate the freedoms embodied by the GNU license, and become familiar with the terms \"GNU\" and \"Free Software.\""
+-
+    name: AndyLinux
+    mail: ''
+    subject: 'Linux it is'
+    hostname: 203.144.32.174
+    created: '1221450250'
+    body: "Hey there\r\n\r\nGNU Horde makes sense, but GNU Linux? after 15 years implementing Linux within many many businesses, I personally have never met anyone that really cared about the fact that RMS runs around talking about GNU Linux and some zealots on mailing lists keep reminding you to call it that way. Currently I work for a bank and a few months bank RMS was in town and I asked a few of the smart people around if they like to join me and go to a talk of RMS. None of those people (senior IT people) knew who RMS was or what GNU was, only when mentioned that the license of Linux. which I happened to implement at the bank, was called GPL ergo Gnu public license they went, ok, so what? None of them joined me at the talk. I left early, since the group of people there just simply were not the group I would even employ. People who rather work for Google doing not very useful cool stuff, rather than for a bank and do quite useful linux migrations.\r\n\r\nAs passionate as I personally am about Open Source and Linux I personally believe that RMS's zealotry is part of the issue why so many so called Linux people do not want or care about business use of Linux. They live in a world in which MS, RedHat or Novell are the enemy and not where maybe using Linux is just good because it is just better not because others are bad.\r\n\r\nFrom my experience RMS is completely irrelevant and should stop behaving like he is the Jesus of the software world. The term GNU/Linux is ridiculous and the whole GPLv3 issue a sign that Linux is just GNUv2 because Linus thinks it is useful, not because Linux is the GNU OS, which it is not. GNU Horde????\r\n\r\nSo .... Linux it is and Linux it will stay\r\n\r\nAndy"
+-
+    name: alandmoore
+    mail: ''
+    subject: 'Time to give it up Richard'
+    hostname: 70.157.54.122
+    created: '1221461970'
+    body: "I have to agree with Corfy.  It's ironic to me that RMS campaigned so hard to get rid of the advertising clause, while at the same time the insistence on \"GNU/Linux\" is in the exact same spirit.  Is GNU's contribution more important than X.org's, or KDE/GNOME/[Insert DE here]'s, or anyone elses?  \r\n\r\nGranted, \"Linux\" is probably no more important than the rest either, in some ways less (think about it -- presented with the same user space over a different kernel, how many users would care?)\r\n\r\nProps to RMS on his many contributions, unfortunately terminology is not his strong point (don't get me started on the word 'free').  Fortunately his ideology will outlast the terminology.\r\n\r\n"
+-
+    name: Balzac
+    mail: ''
+    subject: 'Indeed it is. '
+    hostname: 72.229.126.123
+    created: '1221490189'
+    body: "And it makes explicitly clear the intentions of the author of the license.\r\n\r\nSomeone raised the question either here or on FSDaily whether it was the GPL or the code of the Linux kernel which was the more disruptive technology.\r\n\r\nIt's the GPL."
+-
+    name: bogdanbiv
+    mail: ''
+    subject: 'one answer may be... GNU/Hurd'
+    hostname: 195.82.130.8
+    created: '1221585804'
+    body: 'If GNU/Hurd gains traction, maybe by similarity, it will transform Linux into GNU/Linux. And I do hope that GNU/Hurd as an architecture will gain traction and many developers will port their applications to this architecture. Or that they will work out-of-the-box.'
+-
+    name: Balzac
+    mail: ''
+    subject: 'Wrong. '
+    hostname: 208.120.236.45
+    created: '1221588420'
+    body: "Richard isn't pushing any legal arguments, he's just reminding people that it's right and proper to give credit to the GNU project for its work.\r\n\r\n"
+-
+    name: 'Maurice Cepeda'
+    mail: ''
+    subject: 'A new name is needed'
+    hostname: 200.120.187.45
+    created: '1221667876'
+    body: "Maybe a new name would help ease the conflict.\r\n\r\nGuhnew/linux is too hard difficult to pronounce.\r\nGnu/Linux (New/linux) is better but it still doesn't roll off the tongue.\r\n\r\nGnu/nux (New-nuks) is better, as odd as this sounds, but can be improved upon by a further contraction. How's about Gnuxs (nuks, rhymes with nuts, or nooks)?\r\n\r\nHey doesn't the American missile defense system use Gnu/Linux? Gnuxs (Nooks) it is!\r\n\r\nIn this vain, Gnu/Hurd could be \"Gnurd\" (pronounced \"Nerd\").\r\n\r\nThis is a serious issue, something I plan to write upon when I get some time. On the whole issue of the slash, which is improperly used, credit where credit is due --which incidentally may not be as much on the FSF camp as some of us think (bless FSF all the same), and a few other related issues."
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'Sorry about absence'
+    hostname: 61.68.61.123
+    created: '1221697415'
+    body: "I apologise for not attending to this thread for several days. A personal tragedy arose, when an old Chewowow, who'd lived with me for many years, died. RIP, Fifi.\r\n\r\nI would like to point out that Richard Stallman has my complete respect for everything that he has done, and is currently doing. He, personally, developed most of the concept and original code-tools that we now know as GNU/Linux. He has continued to be involved with his vision of Free Software at every step of its development.\r\n\r\nI use the term GNU/Linux, myself, because I understand the reasons why it became necessary. However, this attempt at a solution does carry problems in itself and additional means to solve these problems should by all means be sought.\r\n\r\nContrary to what I've written above, a huffingtonpost.com article, by the excellent James Love, called \"Free Software\", has been successfully promoted at Free Software Daily;\r\n\r\nhttp://www.huffingtonpost.com/james-love/free-software_b_126303.html\r\n\r\nLove correctly identifies \"Linux\" as GNU/Linux then goes on to inform his readers with the sort of high-quality article that any of the Free Software Community would have liked to have written themselves.\r\n\r\nMaybe there is considerable traction for the term GNU/Linux, yet."
+-
+    name: Balzac
+    mail: ''
+    subject: 'Very sorry to hear about your chihuahua. '
+    hostname: 208.120.236.45
+    created: '1221704962'
+    body: "I agree wholeheartedly. I too enjoyed the free software article at HuffingtonPost.com.\r\n\r\nSorry for the down-rating. I was going to rec it up but I missed because I've had a few drinks at the local bar. "
+-
+    name: Balzac
+    mail: ''
+    subject: 'Linux is a kernel. '
+    hostname: 208.120.236.45
+    created: '1221705235'
+    body: "GNU/Linux is GNU with the Linux kernel.\r\n\r\nGNU/Solaris is GNU with the Solaris kernel.\r\n\r\nGNU/Hurd is GNU with the Hurd kernel. "
+-
+    name: igli
+    mail: ''
+    subject: 'Consider the history'
+    hostname: 91.84.123.143
+    created: '1221749180'
+    body: "> Is GNU's contribution more important than X.org's, or KDE/GNOME/[Insert DE here]'s, or anyone elses?\r\n\r\nYes it is. Without the Unix replacement tools the GNU project provided, Linux would never have had any userspace, nor any development tools. That's why Torvalds agreed to use the GPL; it was only fair given the amount of code he was getting access to. The whole point of GNU and the FSF is to provide an _ecosystem_ wherein users' interests are paramount. This Stallman and his \"mad zealots\" have done spectacularly well.\r\n\r\nAnyone working with GNU/Linux in any manner is a user.\r\n\r\nThe fact that you can have this debate at all, or say rollout websites at low-cost, is thanks to rms. The other projects you mention, apart from X, owe their very existence to the GPL. Current Xorg development owes a lot to the GNU ecosystem too, since that is where a great deal of testing and development goes on.\r\n\r\nTake away gcc, GNU make, and GNU binutils, and see how far you get with developing your own OS, leave alone all the other myriad 'boring' utilities that make your work possible. Try getting your software ported to virtually any OS without GNU autotools, at a time when POSIX never existed.\r\n\r\nAll that doesn't make him my, or anyone's, saviour, but it does make him a lot more important than some of you make out, and it certainly means that any Linux installation is a great deal more than just a kernel, important though that part may be.\r\n\r\nYeah I say Linux too. If I were writing an article about it, I'd use GNU/Linux though, at least at the start as Love did, especially so if it were for people new to it."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: Agreed
+    hostname: 82.108.129.98
+    created: '1221749778'
+    body: "I was about to write something similar but you beat me to it.\r\n\r\nGNU/Linux is not a preference as much as it is an accurate description of what I am running.\r\n\r\nWhat term you use depends upon how accurate you want to be. \"GNU/Linux/X11/KDE/Firefox\"? Well if you want to but usually all of that can be described with the distribution name: Debian, Fedora, Ubuntu etc. Most of the time people seem happy to know I am referring to Debian, the application stack only comes into it if it's relevant.\r\n\r\nGNU/Linux describes the base upon which pretty much all -- er -- GNU/Linux distributions are built so I use it when referring generically to any distribution.\r\n\r\nNobody will ever force people to use GNU/Linux as a terminology but if those of us who know the difference make the distinction where it counts, people will eventualyl catch on or ask.  Then again I am still running my one-man campaign to stop people referring to  desktop background images as \"screensavers\" :o)"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'hadn''t noticed - is that unkind???'
+    hostname: 82.108.129.98
+    created: '1221828918'
+    body: "My condolences on your loss -- pets are very personal things and it can be an upsetting time when they die.\r\n\r\nTo be honest though I hadn't noticed you were not taking part, I just assumed you'd lit the blue touchpaper and stood back a little. :o)\r\n\r\ncheers  \r\nRyan"
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'Not unkind'
+    hostname: 61.68.61.123
+    created: '1221872006'
+    body: 'Thanks, Ryan. No, I''d been pondering about the GNU and Linux conundrum and I''m very interested in other opinions on the topic.'
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: Down-rating
+    hostname: 61.68.61.123
+    created: '1221873168'
+    body: 'Thanks, Balzac. Yeah, I''ve done that too, after a few golden ales. Actually, I''ve found that, if you''re quick enough, you can hit the plus arrow and it''ll reverse the mistaken negative vote for you. This depends entirely upon the number of golden ales that proceeded, or if you can still see the keyboard, of course.'
+-
+    name: 'Laurie Langham'
+    mail: ''
+    subject: 'RMS: primus inter pares'
+    hostname: 61.68.61.123
+    created: '1221874783'
+    body: "Personally, I always think of Stallman's copyleft concept as being his greatest achievement; simple, elegant and effective.\r\n\r\nIt's a pity that GNU has been trumped by the sheer ease of simply saying Linux. But Linux is such a 2D description of all that is involved. "

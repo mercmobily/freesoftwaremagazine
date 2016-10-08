@@ -1,0 +1,14 @@
+-
+    name: stoffe
+    mail: ''
+    subject: NVU
+    hostname: 81.230.137.90
+    created: '1153179333'
+    body: "Hi,\r\n\r\nif you like Composer and that interface, you might be interested in <a href=\"http://www.nvu.com/\">NVU</a>, which is built from Mozilla Composer, by the old chief architect Daniel Glazman. Quite a lot has happened, and it's a pretty polished program today (still free software, of course).\r\n\r\n"
+-
+    name: vach
+    mail: ''
+    subject: OpenOffice
+    hostname: 84.163.171.51
+    created: '1153342283'
+    body: 'Well, if you ask me, the obvious choice would be <a href="http://www.openoffice.org">OpenOffice</a>, wouldn''t it?'

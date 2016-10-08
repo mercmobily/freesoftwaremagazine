@@ -1,0 +1,77 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Very useful'
+    hostname: 161.148.35.158
+    created: '1168429190'
+    body: 'This could be useful also in countries like China (Big Chinese Firewall) or Brazil (where we could be prohibited to see YouTube videos only ''cause a Cicarelli girl decided to have... well... sex on the beach and was filmed and the video was posted in YouTube).'
+-
+    name: bong
+    mail: ''
+    subject: 'mobile phones'
+    hostname: 88.103.10.150
+    created: '1168469728'
+    body: "\"As long as we live in a climate where 'probable cause' is more likely to be the name of a punk band than a legal requirement for the government to meet before it can snoop on us.\" lol!\r\n\r\nThanks for the tips!\r\n\r\nAre the mobile calls really unencrypted? The analog network is, however I am sure GSM (not even talking about 3G) is using some kind of protection!"
+-
+    name: 'Matthew Sharp'
+    mail: ''
+    subject: 'Gizmo is FLOSS?'
+    hostname: 220.245.178.137
+    created: '1168479951'
+    body: 'Are you sure Gizmo is FLOSS?  I know it uses some open protocols, but the client and some codecs were proprietary last time I checked.'
+-
+    name: ''
+    mail: ''
+    subject: Relax
+    hostname: 71.81.194.198
+    created: '1168495087'
+    body: 'Man, relax!  You''re going to die young with over trivial things.'
+-
+    name: ''
+    mail: ''
+    subject: 'Equal Opportunity Offenders'
+    hostname: 67.129.173.13
+    created: '1168522153'
+    body: "While it may be fun, and easy, to take pot shots at the current administration let's not forget that Bill Clinton (a Democrat) pushed very hard for the \"Clipper Chip\" to provide encryption which would have been used in ALL communication devices under penalty of Federal Law.  Of course the \"Clipper Chip\" had a nice big back door that could be opened at will by your friendly government to eavesdrop on any digital, or analog, communication.\r\n\r\nThen there was the \"Fritz Chip\" pushed by Democrat Fritz Hollings which, while not directly able to be used by the government for eavesdropping was going to allow Hollywood Inc. to effective control what you could, or could not, do with your own computer hard ware.\r\n\r\nBasically don't trust any of the Washington crowd, Democrat or Republican.\r\n\r\nBetter yet, for an article like this it is best to keep your political leanings out of the dialog, and just talk about government in general, since it really does NOT matter which party is in power.\r\n\r\nOther than that a decent article."
+-
+    name: ''
+    mail: ''
+    subject: 'not really useful against gov wire tapping'
+    hostname: 82.232.179.225
+    created: '1168524253'
+    body: "sorry to disappoint you guys but ...\r\n\r\nprivacy free software usually implement Cryptography Standards compliant algorithms (like AES ...etc) which have been reviewed and approved by gov security agencies and I've been told by a system administrator that western govs only allow the use of approved encryption techniques which they can circumvent or break in less than 4 seconds. As far as I know PGP's author Phil Zimmermann has had troubles with the US export regulation which let to criminal investigation.\r\n\r\nIn short, if the gov wants to tap your butt then, legally and technically speaking, nil obstat."
+-
+    name: ''
+    mail: ''
+    subject: 'Regarding mobile calls: They'
+    hostname: 194.237.142.21
+    created: '1168527051'
+    body: "Regarding mobile calls: They may be unencrypted although your phone should then indicate this. OTOH, the algorithms commonly used right now to encrypt the traffic over the air are not terribly secure and there are even web sites claiming to sell real-time decryption hardware (http://www.ewa.com/prodSvcs.html) so I'm pretty sure the NSA can build one of their own. Algorithms used in WCDMA and in upcoming GSM products are more secure (not saying absolutely secure...).\r\n\r\nNote that (almost) as soon as traffic is in the network, it is no longer encrypted, GSM calls are only encrypted over the air between phone and base station (GPRS data for GSM is encrypted up to the SGSN), while in WCDMA it's encrypted up to the RNC (all traffic types). \r\n\r\nNow though, why would they go around and snoop on calls over the air like that? Probably because snooping calls on the air lets them avoid having to get a court order for interception. All mobile phone switches have a feature for \"lawful interception\" (basic specs for GSM and WCDMA/UMTS are available at www.3gpp.org), which in civilized countries requires a court order to use."
+-
+    name: ''
+    mail: ''
+    subject: 'Applications alone cannot protect us.. Support EFF & EPIC'
+    hostname: 208.54.95.129
+    created: '1168558588'
+    body: "Great little post my friend.  =)  FOSS does help give one the needed privacy tools but political action is also required to protect our privacy.  This is why I am a member of organizations like:\r\n\r\nEFF\r\n<a href=\"http://www.eff.org\">www.eff.org</a>\r\n\r\nEPIC\r\n<a href=\"http://www.epic.org\">www.epic.org</a>\r\n"
+-
+    name: 'Jabari Zakiya'
+    mail: ''
+    subject: 'Don''t believe everything you''re told'
+    hostname: 68.49.20.138
+    created: '1168579318'
+    body: "The <a href=\"http://en.wikipedia.org/wiki/Advanced_Encryption_Standard\">AES</a> (Advanced Encryption Standard) algorithm was selected by the US National Institute of Standards and Technology (NIST) after a 5 year open process to find a government replacement algorithm for DES (Data Encryption Standard). There are no known exploits of the algorithm, which means the only known way to mathematically recover a key is thru a brute force attack.  Thus, the NSA, KGB, MOSAD, et al, have not cracked the algorithm. One way to find out about what's going on in the security/encryption world is to subscribe (its free) to Bruce Schneier's Crypto-Gram monthly newsletter <a href=\"http://www.counterpane.com/\"> here</a>. And as Schneier emphasizes, security is a process, not algorithms. \r\n\r\nAs for cell phone calls, they ARE NOT ENCRYPTED to the users. There is no standard encryption protocol which every vendor uses to pass on calls from their network to others, and in fact, calls made among people on the same network are not end-to-end encrypted.\r\n\r\nOne of the security features of Skype and Gizmo is they claim all calls between people on their networks are encrypted. Once you call out of their networks, just like regular telecom calls, the calls are in the clear, and thus can be intercepted as plaintext.\r\n\r\nThis is where Phil Zimmerman's Zfone proposes to solve this problem, as it acts as a client-to-client protocol which works inside the client's phone (hard or soft).  Thus, whether the network being used encrypts the calls or not, Zfone encrypts the call in the client's phone, checks with the receiving client to see if it also is a Zfone client, authenticates the user if it is, makes an encrypted handshakes and transmit the encrypted call. With a change in the underlying protocol (currently only designed to run with SIP networks) it could be made to work with cell phone technology, if the telecoms were interested in doing so. And they WOULD BE if enough users expressed the demand for this as a feature.\r\n\r\nThus, VoIP calling is the only current way to make transparent, encrypted, general calls. Thus, if you are concerned about your conversations being tapped, and you don't have access to a special secure phone network, and you believe that Skype, Gizmo, et al, haven't been compromised yet, then use them to make secure calls.\r\n\r\nWhen WiMAX (or whatever wireless broadband service(s) wins) becomes widely available, and people have essentially ubiquitous broadband wireless internet access, then maybe the cell phone companies will be compelled to provide Zfonelike features for their networks too.  Why pay to make an insecure cell phone call when you can make a free, secure VoIP call that has better quality?\r\n\r\nJabari\r\n"
+-
+    name: 'Matthew Sharp'
+    mail: ''
+    subject: 'A sysadmin said it, it must be right.'
+    hostname: 220.245.178.140
+    created: '1168641682'
+    body: "Sysadmins are the ultimate authority on encryption and western governments after all.\r\n\r\nAs the other reply to your post said, we know why the algorithms we use are hard to crack, the  NSA didn't make them.  While it is possible that western governments have made huge bounds in maths that we don't know about, I'm somewhat skeptical.\r\n\r\nFree software implements other algorithms too (like Blowfish).  And I'm not sure what you are getting at with Phil Zimmermann.  If you are saying that he had trouble because his stuff was not crackable by the government, you should realise he used no new algorithms."
+-
+    name: ''
+    mail: ''
+    subject: 'PGP Encryption'
+    hostname: 69.92.182.73
+    created: '1168976227'
+    body: "Whether or not PGP encryption can be cracked depends on several variables, IMHO.  Firstly, the strength of the key one creates.  I use and recommend going with the strongest key generation available.  Secondly, one must consider whether or no the private key is maintained in a safe and secure remote location.  Thirdly, the length and complexity of the passphrase used.  Certainly something like \"abc123\" or the name of your spouse isn't going to offer much security.\r\n\r\nI have read of a couple different people under federal criminal indictment who have refused to surrender passphrases for material on hard drives.  Thus far, the data has not been decrypted and the individuals have chosen to remain incarcerated for a mere \"contempt of court\" for refusing to surrender the passphrase.\r\n\r\nIn my own opinion, the more my government attempts to take my personal privacy, the more I will employ every measure possible to make their work more difficult.  So long as President Bush makes even the \"visitor logs\" for the White House \"secret,\" (since telling us he had met Jack Abramoff \"a couple of times,\" while the White House visitor log showed he was there on many occasions) I think there are more urgent intelligence needs than looking at my personal email.\r\n\r\n"

@@ -1,0 +1,35 @@
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'What a weird idea...'
+    hostname: 68.116.159.234
+    created: '1306997680'
+    body: "This is exactly the opposite of what I would normally be trying to do!\r\n\r\nIt's a cute effect, though. :-)"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'There are better examples'
+    hostname: 62.140.212.3
+    created: '1307008150'
+    body: "There are better examples than mine to be honest and as with all things, taking greater time and care will produce a better effect. I can't really think of a practical benefit to doing this but life's not always about being practical is it.\r\n\r\nI forgot to include a link to the original photograph on Wikipedia so here it is:\r\nhttp://en.wikipedia.org/wiki/File:City.hall.london.arp.jpg\r\n\r\ncheers\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: 'Rambo Tribble'
+    mail: ''
+    subject: 'A suggestion'
+    hostname: 184.100.223.49
+    created: '1307047500'
+    body: 'Instead of the Quick Mask, if you duplicate the base layer, apply blur, then make it a Layer Mask and use the gradient to selectively expose the underlying in-focus layer, the mask layer''s opacity setting allows more control over the effect. '
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Good point'
+    hostname: 62.140.212.3
+    created: '1307120223'
+    body: "I have used a layer mask in this effect myself. In this tutorial though I was trying to simplify it as much as possible. Like most good free software there are a number of ways to achieve certain results in GIMP.\r\n\r\nthanks for the comment\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"
+-
+    name: SoftwarePantry
+    mail: ''
+    subject: 'Similar Tutorial using lens blur.'
+    hostname: 67.207.97.18
+    created: '1308345907'
+    body: "We recently did a similar tutorial that uses our version of focus blur (packaged into a Windows installer):\r\n\r\nhttp://www.softwarepantry.com/fake-tilt-shift-tutorial/"

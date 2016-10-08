@@ -1,0 +1,21 @@
+-
+    name: 'Anonymous visitor'
+    mail: Ralf.Nieuwenhuijsen@gmail.com
+    subject: 'You are better off using nautilus-actions'
+    hostname: 87.212.142.123
+    created: '1191866828'
+    body: "Your advise above uses nautilus-scrips. But they have been succeeded by nautilus actions.\r\n\r\nThe differences:\r\n  - nautilus actions can be configured to apply to certain file types and/or groups of specific file-types or mime-times\r\n  - you can specify an icon with the action\r\n  - you can export and import the actions\r\n  - there exists a graphical interface to manage and configure nautilus-actions\r\n\r\nUnfortunately they are heavily under-used. No linux distrobution using nautilus install this by default. Sane default choices would be: converting audio/video/pictures/documents to another format, printing pictures/documents, emailing files, etc. Unfornately some of this stuff is supported through normal nautilus extensions rather than nautilus actions. \r\n\r\nNautilus scripts is deprecated anyway. Please google nautilus-actions. \r\n  "
+-
+    name: 'Scott Carpenter'
+    mail: ''
+    subject: ...
+    hostname: 69.180.163.110
+    created: '1191924487'
+    body: "Hi, Anon, and thanks for your comment.  I was aware of Nautilus Extensions as a more powerful alternative to scripts.  I relied on the GNOME page linked above for some of my information:\r\n\r\n<a href=\"http://www.gnome.org/learn/users-guide/latest/gosnautilus-440.html\">http://www.gnome.org/learn/users-guide/latest/gosnautilus-440.html</a>\r\n\r\nReading more carefully in the Extensions section, I see where it mentions nautilus-actions.  It doesn't say anything on that page about scripts being deprecated.  While I'm sure I'll eventually look more closely at Extensions, I went with scripts as something readily available and the path of less resistance.  Still, I should have mentioned it as another option in the article.  Thanks for pointing it out.\r\n\r\nIf nautilus-actions is based on file type, I wonder how it would apply to actions you want to apply to many file types?  I have a script that converts spaces in filenames to dashes, and another that sends selected files to the Meld diff viewer.\r\n\r\n"
+-
+    name: 'Lawrence D''Oliveiro'
+    mail: ldo@freesoftwaremagazine.com
+    subject: 'JPEG, not JPG'
+    hostname: 203.109.176.166
+    created: '1192248402'
+    body: 'Just a note that the proper name for the format is "JPEG", not "JPG". The truncated version derives from naming constraints on certain non-Free operating systems. No need to perpetuate those restrictions when you don''t have to!'

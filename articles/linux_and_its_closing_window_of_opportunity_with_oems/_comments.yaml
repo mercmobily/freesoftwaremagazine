@@ -1,0 +1,392 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Convincing users'
+    hostname: 84.112.45.45
+    created: '1166441340'
+    body: "Besides convincing hardware manufacturers' top executives, end consumers should be convinced to ask for Linux. It is the way it works with offer following demand.\r\n\r\nThis can be done through showing that Linux is built with freedom in mind, that its users always own the music they might buy on the system, that they will always be able to read their documents in 10 years from now, that they won't ever be tied to a specific harware platform or closed proprietary formats. This last point will particularly be efficient on corporate users, who value total cost of ownership, are risk-averse and flexibility-oriented."
+-
+    name: ''
+    mail: ''
+    subject: Ubuntu...
+    hostname: 83.37.198.148
+    created: '1166443213'
+    body: "Well, Ubuntu works but openSUSE, Fedora and other distributions works pretty good as well. Why so much Ubuntuness?, it is not the perfect distro neither the only one. \r\n\r\nAnd, thanks to Ubuntu??. Really?. Before Ubuntu there was only dark and obscurantism and then, thanks to Ubuntu, light was made?. No mate!. The community if far more than just Ubuntu, and thanks!. Think: who first realeased a grafical intaller, a friendly desktop, who \"invented\" 3D desktops and so on. Sorry, but I cannot list a single revolutionary feature that can be assigned to Canonical efforts. None. \r\n\r\nMiguel."
+-
+    name: ''
+    mail: ''
+    subject: 'You are right.'
+    hostname: 212.87.9.85
+    created: '1166443530'
+    body: "You are just right. And unfortunately our GNU/Linux community is myopic. Too devided. Unable to put all efforts in one or a few directions. To consolidate. To use the resources wisely, not making 'yet-another-unneeded-Linux-distro or seventeenth music player that actually doesn't work.\r\n\r\nWe lack drivers. Badly. We lack in next layer - windowing system, sound system...\r\nPeople require network, graphics and sound. If we cannot give it to them - they won't go.\r\n\r\nAnd we need to consolidate to get all the data from the manufacturers - or reverse engineer.\r\n\r\nWe need people, money and other resources, like leadership. Can we do it?"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'A marketing idea'
+    hostname: 68.93.224.4
+    created: '1166464831'
+    body: "I just made a <a href=\"http://www.freesoftwaremagazine.com/blogs/what_about_selling_free_software#comment-44233\">post </a> on the \"What about selling\" thread that might be relevant here too. In brief, it occured to me that branded GNU/Linux distributions might be sold as a fund-raising system to local non-profits the way chocolate bars or coupon books are today in the USA.\r\n\r\nIt's sound kind of goofy, but it would put free software in the hands of a lot of extra people, through their local charities, schools, and other personal connections. It's a very grass-roots approach.\r\n\r\nI don't know if you could do pre-installed GNU/Linux this way, but you might (I was just thinking about disks when I wrote the post).\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Already out there'
+    hostname: 68.93.224.4
+    created: '1166465307'
+    body: "Actually, there are already probably dozens of companies out there who will sell you a desktop or laptop computer pre-loaded with GNU/Linux. Just flip through the advertisers in the Linux magazines to find a few (just as proof-of-principle, look at <a href=\"http://www.emperorlinux.com/\">Emperor Linux</a>, but there are plenty of others out there).\r\n\r\nThe question isn't really “Why isn't somebody selling pre-loaded Linux?”, it's “Why isn't my convenient big-name corporate source selling pre-loaded Linux?”, or perhaps more to the icy sharp point, “Why can't I be bothered to purchase my equipment from suppliers who respect my values instead of toadying up to the big boys like all the other techno-serfs?”\r\n"
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'What about smaller OEMs?'
+    hostname: 62.203.139.90
+    created: '1166466133'
+    body: "Okay. The big OEMs won't ship GNU/Linux pre-installed. But why doesn't there start some smaller company selling computers specialized for GNU/Linux use. I would be more than glad if somebody could point me me to a laptop I could buy, and be sure that GNU/Linux does work on it. Without any hassle. \r\n\r\nThey could also sell very, very cheap computers. A kind of a mac mini, just cheaper. If the right distribution is installed, 800Mhz are far enough to surf the 'Net, write some emails and text sheets. And that's what most computer users do with their boxes.\r\n\r\nAn other approach would be that for example Canonical created that 'Official Ubuntu Certified' label you were talking about, and only computers which met certain criteria were allowed to use that label and the stores website could be linked from the Ubuntu website. Wouldn't a lot of people click on that link just to be sure to have a new computer that 'just works'?"
+-
+    name: ''
+    mail: ''
+    subject: 'A take'
+    hostname: 24.5.184.180
+    created: '1166481570'
+    body: 'Read <a href="http://eugenia.blogsome.com/2006/12/18/linux-and-its-closing-window-of-opportunity-with-oems/">another opinion</a>'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I just did...'
+    hostname: 68.93.224.4
+    created: '1166485191'
+    body: "Um, you might want to read my post right before yours.\r\n\r\nThere are places that will sell you a system pre-loaded with Linux. They tend to advertise a lot in Linux magazines. I even linked to an example. Here's another one: <a href=\"http://shoprcubed.com/products.asp?cat=15\">R-Cubed Technologies</a>.\r\n\r\nSo once again, the question I have is why are we pretending these companies don't exist, and fawning all over big companies that don't provide the service we want?  Is it so important to have IBM or Lenovo or somebody giving you what you want, instead of a smaller company? What the heck happened to the free market?\r\n\r\nYou just need to look in better places when you shop."
+-
+    name: ''
+    mail: ''
+    subject: 'The answer is Sony PlayStation  3'
+    hostname: 62.253.128.14
+    created: '1166487277'
+    body: "The machine that will establish Linux as a major mainstream desktop OS isn't the PC, but the Sony PS3.  It will sell over 12 million per year and accumulate over 100 million units in sales over the next 5 or 6 years - that is 1 for every 60 people on this planet folks, and one really big OEM - the biggest by a large margin in fact. \r\n\r\nLinux advocates should focus on getting a Linux variant for the total newbie onto the PS3 - one that will just require inserting a DVD and booting to install to hard drive, and one that is  polished and comes preconfigured with the full gamut of Internet multi-media applications pre-installed, and requires no configuration or maintenance at all, and comes with all the applications required by the typical home user already preinstalled and preconfigured.  This should be easy to do, because the hardware is fixed, and the only variable is USB peripherials. The lure of such a big market should also be enough to make any peripheral manufacturer dump any anti-trust abusing advertising rebate system Microsoft may put out, which would lock them  out of the PS3 market.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Web site called www.Linux-Machines.com?'
+    hostname: 24.70.194.15
+    created: '1166489244'
+    body: "Best article I have read in many a long day.  Bang on.  We need to do as suggested a.s.a.p.\r\n\r\nSurely there should be a web site called: www.Linux-Machines.org whose sole job it is to list all OEM's which specialize in PCs -- both laptops and desktops -- PRE-LOADED with Linux. In my case I have two custom built generic machines which were never tainted with MS software and run Red-Hat Linux and Ubuntu respectively.  I sure would have been very happy to have bought pre-loaded FULLY FUNCTIONAL machines.\r\n\r\nThere is absolutely nothing which holds back Linux usage more than the widespread availability of pre-loaded machines and the widespread knowledge of how to get our hands on them.\r\n\r\n. . Ted Swart . ."
+-
+    name: 'Nate Bargmann'
+    mail: ''
+    subject: 'How can we fault the OEMs'
+    hostname: 12.158.148.131
+    created: '1166491189'
+    body: "when even the One Laptop Per Child project is prevaricating on its use of Linux?  A couple of weeks back there was a story about the OLPC prototype being at Microsoft so they could evaluate it for some version of XP and that an SD slot had already been added per Microsoft's request.  If OLPC, a project intending to use Linux from the start, can't avoid being influenced by Microsoft and ultimately succumbing to them, how can we expect Dell to withstand Microsoft's overtures?\r\n\r\nMicrosoft is pushing on every visible front and probably many that aren't too visible.  They are pressuring customers, OEMs, hardware manufacturers, governments, and standards bodies to obfuscate any notion of an alternative.  There is only One Microsoft Way and they intend to keep it that way.\r\n\r\nUntil some heretofore unknown OEM becomes the darling of those purchasing Linux pre-installed and claims a significant share of the market, the Dells of the world will only pay Linux lip service.  Why should they change their present business model?  They're not losing enough sales to matter plus they get to sell a copy of Windows to the aggravated Linux user.  As long as Microsoft is happy, the OEMs are happy.\r\n\r\nWelcome to life under a monopoly.\r\n\r\nDon't get me wrong, I'm all for greater Linux market share.  Without OEM support Windows is no more capable on a given piece of hardware than Linux.  The existing OEMs have heard from us for the better part of a decade and yet little has changed with regard to buying a Linux machine \"off the shelf\".  Going head on with OEMs is a losing cause, so we must try something different.  Something smarter.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Besides looking for small companies for OEM,'
+    hostname: 203.211.151.252
+    created: '1166493191'
+    body: 'is it possible for the community or the distribution owner to sell laptops or desktops with Linux pre-installed? The price to sell may be just for covering the hardware cost?'
+-
+    name: ''
+    mail: ''
+    subject: 'I''m shocked that nobody has mentioned system76'
+    hostname: 69.145.182.254
+    created: '1166495122'
+    body: "Every one should look at www.system76.com\r\nThey have very reasonable prices and most everything 'just works' on thier laptops\r\nAnd if it doesn't they are already working on it. I own one of thier low end laptops\r\nand I have been very pleased with it. I am buying my next laptop and server from them\r\nfor sure."
+-
+    name: ''
+    mail: ''
+    subject: 'Try Something Different. Something Smarter'
+    hostname: 72.82.180.134
+    created: '1166497567'
+    body: 'Advertise Open Source software, Open Source values, and the Linux Kernel On TV, radio, magazines, and news papers. Let the world know the advantages of Linux and let the world make a choice if they can. The only barrier here is money. Lots of MONEY... Who can donate free advertising for Linux? A foundation needs to be created to focus on the mission and receive donations. I know Linux users will make yearly donations to this cause and corporate companies like Google, IBM, Redhat will also contribute. All we need is the right person to set this off in the right direction and keep in the right course until the word Linux and Opensource becomes a house hold name. '
+-
+    name: ''
+    mail: ''
+    subject: 'Once the Chinese make the'
+    hostname: 67.86.175.219
+    created: '1166498125'
+    body: "Once the Chinese make the majority of the computers in the world, and they put their own Linux distribution on them by default, the problem will be solved.  Customers can then try to install Windows on them, if Windows is what they really desire.\r\n\r\nThe linux \"support\" problem can be resolved for those corporations quite easily, by providing FAQ's free on their websites, and by selling tech support, just as some other corporations do.\r\n\r\nWhen CostCo and Walmart have Linux PC's in their stores, much of the distribution problem will be solved."
+-
+    name: ''
+    mail: ''
+    subject: 'Linux will never be mainstream'
+    hostname: 74.139.50.64
+    created: '1166498483'
+    body: "Im sorry people but as much as I admire the Linux ideal. It's because of it,that it hurts itself.\r\nToo many distro;s, not enough drivers to support media that comsumers demand. Even software that does not work well in use. Yes, im talking about all those people that don't write good code. Microsoft has one distro if you will. Apple has one distro. Come up with one good distro that everyone will support and promote the shit out of it!!! Then maybe people will get interested in it. Until that happens, linux will not make any inroads into the consumer computer business.The best thing to happen to Linux in the past is Red Hat and Suse. You need a big company with some real technical support to attract everyday consumers.\r\nBut even so Linux is still considered by the average joe to be more difficult to learn to use than windows.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Why not apply the AOL approach to getting linux disributed?'
+    hostname: 75.5.85.243
+    created: '1166498804'
+    body: 'Remember that time in history when you would endlessly get that AOL CD via snail mail? I realize that it''s expensive to spam every American home with a CD. But are we not right now in a situation, where just like the early days of the internet, in which some people have a general idea what Linux is but most are relatively uneducated as to how one could benefit from using it? What if there is a company that would be willing to take this approach; offer people a free operating system via mail. They possibly could use an advertising approach such as an operating system that is more secure, has the ability to display a 3D desktop, lets you surf the web, burn CDs and DVDs, write documents and spreadsheets that are compatible with windows, and send e-mails and much more all on this one free DVD or CD. It would be a backward approach starting not with the enterprise but the people who make up the enterprise. Thus more enterprises would be more willing to adopt an operating system that isn''t so foreign to their workers. And as more enterprises and home users start using Linux naturally these big corporations would reconsider supporting Linux as it would become more profitable for them to do so. Yes, I realize that AOL has since failed but you know at one point their advertising scheme worked on a lot of Americans. Where are the Linux commercials on television? Why do most people not know that they have an alternative that is free and a lot better than Windows? The answer is no one has seen it on the boob tube or have had it come in the mail so frequently that it has turned into a nice set of coasters. How can you beat free, greater stability, and more security?   '
+-
+    name: ''
+    mail: ''
+    subject: 'Linux Is Great...But'
+    hostname: 74.133.96.118
+    created: '1166499005'
+    body: "Don't get me wrong, linux is an awesome operating system, but it lacks something everyone wants. Expandability. Sure, you can get extras for it. But, even in ubuntu that often takes a quick trip to terminal. Nobody wants to look up on the internet how to install Java, but with linux you have to. Windows has made everything so easy. Hey, you want a program. Pop, download it and double click it. Vlala... it's installed.\r\nLinux is promising don't get me wrong. But, what user would want to type something into a terminal. Windows XP doesn't make me do this. \r\nI know that some of you a probably going to be up in arms about this, but it still remains a fact. Linux is harder to use than Windows. You can't deny it. Everyone and their grandma can run a windows machine, but linux is so different, so weird. Linux is amazing. It has potential. Ubuntu has made it stronger and more user friendly. But, it sill needs a terminal to install some programs (not all, ubuntu's add programs where a lot of programs are collected with point and click install does a good job, just doesn't include every cool linux program out there) linux will not be readily accepted by the public. \r\nLastly, one more problem is lack of game support. With Windows Vista and DirectX 10 a whole new gaming platform arrived. Linux cannot easily provide support. So, gamers or even a person who wants to play a simple game, will stay away from linux. "
+-
+    name: ''
+    mail: ''
+    subject: 'A n00b''s opinion'
+    hostname: 75.214.187.210
+    created: '1166499917'
+    body: "I have been using a mac laptop for a little over a year now, and I have had a back up Linux box for a little more than that.  I can't program, I can't install outside of Synaptic/apt-get, I can't use the terminal, and I don't have time to learn how, but I would like to.  I just do the basic OOO, browsing, etc.  What scares me the most (and scare is probably too strong a word), is the Linux file structure (i don't know a usr from a bin, well i do but i don't) and the installation/uninstall process.\r\n\r\nIf they made it more like OS X, which for novice users has the System folder which people will stay out of and other folders for Apps, Music, Etc. then I would be a lot more ready to move over completely to Linux without the fear that I would lose all my files and mess up the computer.  I know there is one distro that uses that now but I forget the name.\r\n\r\nAlso, if you had a free Distro stand at the front of every Wal-mart, I would expect a lot of people would just grab cds and play with them at home.  Do what AOL does.\r\n\r\nAlso also, is there a group like the NEA (National Endowment For the Arts) that is either public or private that gives funding to programmers or groups of programmers to work on worthwhile *nix programs full time?"
+-
+    name: ''
+    mail: ''
+    subject: "Do more research. \n1) There"
+    hostname: 66.191.0.164
+    created: '1166501166'
+    body: "Do more research. \r\n\r\n1) There was linux before Ubuntu and gee whiz, even GRAPHICAL installers and configuration tools!  Mandrake, for example, had one of the best installers and configuration suites out there years before Ubuntu came along, and it's still superior today.\r\n\r\n2) There are MANY OEMs out there that will sell you a machine with linux pre-installed.  Even WALMART sells inexpensive linux boxes and has for quite some time!  http://www.walmart.com/catalog/product.do?product_id=3762908\r\n\r\nWhat most statisticians miss is the very probable scenario that most people wishing to buy a machine to run linux either a) buy a machine with NO operating system, or b) builds it themselves.  \r\n\r\n3) Linux supports far more hardware than Windows... remember there was linux for BOTH x86 and PPC long before someone got desperate enough to build a \"Mac\" out of x86 parts.  That's something that neither Microsoft or Apple can lay claim to, at least until quite recently.\r\n\r\n4) Even though many have them available OEMs don't see a profit margin in pushing linux preinstalled to the forefront yet.  They risk ticking off the evil empire if they do, for starters.  Secondly OEMs have very little to do with driver support.\r\n\r\nThat window isn't about to close anytime soon and I believe that if you look a little more closely you will see that it's  getting bigger every day.\r\n\r\nYour article didn't completely suck and certainly does more good than harm but do you have to sound so panicky about it?  Settle down chicken little... the skies not falling ;)"
+-
+    name: thorbeast
+    mail: ''
+    subject: 'The games issue'
+    hostname: 70.51.148.167
+    created: '1166501203'
+    body: "Thor\r\nwww.thortechsupport.ca\r\nToronto Canada\r\n\r\nOne thing that has boosted Windows over the years is the fact that most computer games are written for Windows. So, we have another Catch 22 - getting game companies to make the games fully compatible with Linux. But, we need lots of people using Linux before this will happen. But, to get more people on Linux, we need it to support more games...\r\n\r\nOne thing that Linux has on it's side against Windows and Mac is price. As other OSes become more and more expensive (and require more and more expensive hardware), Linux becomes more attractive to those who just need a computer to do the average things (email, browser, some games, photos, music, word processing ...). Not everyone can afford, or needs a bleeding edge system. And dishing out a couple of hundred bucks or more for an OS, when you can get Linux for free, makes less sense as Linux becomes more user friendly - and if more games are written for it. \r\n\r\nI'm a long-time Windows tech and I'm just getting into Ubuntu, and it's starting to look better all the time. I think I'll be installing it on a number of systems over the coming year. "
+-
+    name: ''
+    mail: ''
+    subject: 'PS3: I don''t buy it...'
+    hostname: 69.121.40.6
+    created: '1166501243'
+    body: "Let's say that PS3 gets out of it's launch-itis slump and actually does sell even half as much as you say over the next 6 years.\r\n\r\nHow many of those people do you think are buying a PS3 to use as a computer and not just a gaming console/blu-ray player? How many are going to connect keyboards and mice to their PS3s?  I'm betting less than 1%.  PS2 could run Linux also, and that didn't take off.\r\n\r\nFinally, how many Linux applications will run well on 512K of RAM?  How many can you keep open at one time?  \r\n\r\nPS3 won't change the world of Linux and vice-versa.  It will just be one of the other thousands of devices Linux can run on."
+-
+    name: ''
+    mail: ''
+    subject: 'What I don''t see'
+    hostname: 68.97.216.225
+    created: '1166501610'
+    body: 'I don''t see adds. You all want to see off the shelf Linux laptops and pc''s. Then spend some of this creative energy making commercials and ads for these oem''s. So many of us have blogs and sites, but I never see NOTICEABLE APPEALING ADDS. If you guys can make Beryl and what not, where are the adds. So far I have seen one in the US for Ubuntu in California on a billboard. People don''t know what Linux is. Even though you and I care about the freedom they don''t. If you tell them it just works, you don''t have to spend countless hours maintaining it, and its performance will not decrease over time you will get their attention. I love my Linux, but it seems that you all forget that we a the fring and most people don''t care about their OS they just want it to be simple and work. Ubuntu has come close in my opinion (don''t beat me up here) I really think that symphony has a good start on simple maybe the four corners of the screen being even more simple though like computer, Internet, pictures, email, maybe something in the middle on the bottom like applications and call it good. Anyone who has worked a help desk recently should know what I mean. You talk about cheap computers look at Eway.'
+-
+    name: ''
+    mail: ''
+    subject: 'Steal Microsofts User Base'
+    hostname: 65.75.119.56
+    created: '1166501620'
+    body: "Talk to the average kid who games on windows. Most likely he/she is the \"official tech support \" to every friend and relative they have. They've likely reinstalled windows for dozens of people multiple times just to fix an annoyance that was too much hassle to fix any other way. Talk to them. They'll tell you that 99% of the people they know personally use windows and only 20% of them actually \"USE\" windows to do anything sophisticated.\r\n\r\nThat vast majority of users would have no problem switching over to Ubuntu. Even Microsoft admits that 90% of Word users only use 10% of the features. Lots of people can't even tell the difference between Wordpad and Word.\r\n\r\nI say, talk to these kids, introduce them to distros with XGL. \"Vista Eye Candy with better performance on 3 year old hardware\". DONATE $$$$$ TO THE PROJECTS THAT BRING WINDOWS GAMING TO LINUX!!!!\r\nThe gamers are the key to the masses of users that they unofficially have to support windows for!\r\n\r\nGet them to get their people to forego buying a new expensive machine (where I live a piece of poo system will cost $1800+) just to run vista and instead put linux on those same machines. Linux will take a system that was on it's way out and make it last at least 3 more years. Hopefully this will result in a decline in sales for OEMs and when they look into the problem they'll realize that the only way these people are going to get a new system is if it runs the Linux Distro they've grown comfortable with.\r\n\r\nHow many of you know people who ONLY use Internet Explorer? They get home, boot up, launch IE and surf until it's time to sleep or watch tv. NOTHING ELSE! They don't launch even one other app (ok maybe an IM app, but look at how many people have started using onl meebo.com or similar).\r\nThose people don't need Windows. They don't need a new machine. They don't even need a full featured Linux Distro. We need to convince the gamer kids to teach the people they have computing influence over.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'one überinstaller for anything that is free software'
+    hostname: 213.211.163.68
+    created: '1166501763'
+    body: 'see http://freedomdrive.org'
+-
+    name: gadget00
+    mail: ''
+    subject: 'after winning OEM, what about multimedia?'
+    hostname: 201.226.146.163
+    created: '1166504007'
+    body: "This is my thought: we could manage to get some OEM support, maybe pulling some FOSS strings with IBM and Lenovo for example, with those big companies(e.g. HP) supporting Linux and their business partners, and also with Novell business partners(ups, MS got there, blank that one); Imagine just opening a small division of HP DVpavillion laptops with 100% working linux; im babbling just about thinking of it.  Then, just imagine we made it.  Now that we got Linux Certified laptops, and preinstalled Linux boxes from big OEM's :\r\nhow is multimedia going to work?  \r\n\r\nIt is my big question, since not all the plugins for multimedia/streaming/flash/shockwave/etc have total support.  For the common user, multimedia is one (if not the one) key of computer usage.  It is very irritating to see yahoo! streaming service and many others not been compatible with Netscape browsers, or not having shockwave for Linux.  iTunes not suitable for linux, and the list can keep on growing a bit.  Big companies wont jump on the Linux wagon, if they will have to attend lots of calls like \"nobody told me that iTunes didnt worked in this computer\"; \"why i cant stream yahoo! if i payed the whole year for it\", \"AOL is not here\", \"my game is not working\".  See, there are other barriers left.  There is an existing system moving right now, and Linux, before gaining presence, it has to adapt very wellto it.  After winning with the OEMs, how we then get moving in the multimedia department?\r\n--\r\n\"God is waiting to give you a better kernel: the love of Christ. Open your source code. You'll never crash again\""
+-
+    name: ''
+    mail: ''
+    subject: 'don''t get your hopes up'
+    hostname: 65.75.119.56
+    created: '1166504240'
+    body: "don't get your hopes up :)\r\n\r\ncould linux run on the wii?"
+-
+    name: ''
+    mail: ''
+    subject: 'ubuntu laptops'
+    hostname: 170.215.244.102
+    created: '1166504694'
+    body: "System76 sells laptops and desktops preloaded with ubuntu:\r\nhttp://www.system76.com\r\n\r\nDell sells some linux desktops too:\r\nhttp://www.dell.com/content/products/compare.aspx/precn_n?c=us&cs=04&l=en&s=bsd \r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Trade freedom for candy'
+    hostname: 206.248.149.123
+    created: '1166506122'
+    body: "I read a poll that determined that the majority of computer users would give up their administrative passwords in exchange for a chocolate bar.   So it seems possible that the majority of users will trade their computing freedom for a piece of MS Vista or Apple Aqua eye candy.\r\n\r\nThe only way that a major OEM will break their exclusive contracts with MS (or Apple break its hardware lock-in) - and allow non-MS OSes to be pre-installed - is if the bean counters calculate that it is no longer beneficial to the bottom line.  And this will only happen if people begin to rebel against the 'trusted computing' and 'DRM' features of MS Vista and OS X.  But people will only understand these draconian limitations after having experienced them first hand.\r\n\r\nI think the computing world will continue to be split into two groups for the foreseeable future - the free (FOSS) computer world and the encumbered (MS, Apple) computer world.  I think that the free group will ultimately triumph, but it will be a tedious process occurring over a decade or so.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'That, right there, is the'
+    hostname: 71.92.200.228
+    created: '1166507238'
+    body: "That, right there, is the double-edged sword of Linux.  On one hand,  there are a myriad of options an end user can go with when using Linux.  On the other hand,  there are a myriad of options an end user can go with when using Linux.  \r\n\r\nThere are some OEMs (Dell in particular I believe.  Sorry, no link, just from memory) that has spoken out about this and has said that the problem with supporting Linux is that everyone out there wants to use a different distro.  Which is the OEM to support?  Until companies can make a product that works without extensive tweaking on all the big distros (Debian, Ubuntu, RedHat, Suse, <name your \"big\" distro here>), Linux is going to have issues with mainstream OEM support.\r\n\r\n-berto.\r\n"
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: Beryl
+    hostname: 203.59.204.147
+    created: '1166507450'
+    body: "\"So it seems possible that the majority of users will trade their computing freedom for a piece of MS Vista or Apple Aqua eye candy.\"\r\n\r\nYou're right, and when they see what Linux really has to offer many of them will trade MS products away just as easily. Every person I've shown my new laptop to (which is running Ubuntu Edgy and Beryl and came from <a href=\"http://www.shoprcubed.com\">Rcubed</a>) has said \"Ooh I think I want one of those.\" The ones who've never had a good look at Linux before have been left thinking that Linux is better than Windows (the truth!)."
+-
+    name: ''
+    mail: ''
+    subject: 'What to thank Ubuntu for?'
+    hostname: 71.92.200.228
+    created: '1166507727'
+    body: "What to thank Ubuntu for?  Thank them for making an installer that is very successful at getting your hardware to work without any tweaking and taking the guesswork out of installation.  Pretty much every other distro out there gives you an infinite list of packages to install; this is a very daunting step if you're new to Linux.\r\n\r\nFinally there is a distro that picks a combination that 80% of the users out there will be happy with.  Then thank them that they made it trivial to install the packages they didn't select as default for the remaining 20%.  \r\n\r\nThank them for selecting one of the most stable linux bases out there and making it friendly enough for a noob to get up and running.\r\n\r\nAnd Ubuntu became distro of the year without having to use a flashy GUI installer.   They made the text installer simple.  It can only get better from here!\r\n\r\n-berto."
+-
+    name: ''
+    mail: ''
+    subject: '"Winning"'
+    hostname: 64.94.190.30
+    created: '1166508782'
+    body: "I see this a lot. Over the years it always comes up. I would please direct you to a phrase:\r\n\r\n‘‘The number of UNIX installations has grown to 10, with more expected.’’\r\nThe UNIX Programmer’s Manual, 2nd Edition, June, 1972.\r\n\r\nSo don't worry too much about certain things happening in 6 months or a year or 5 years......\r\n\r\nJohn H\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'I dissagree about the games'
+    hostname: 71.156.57.251
+    created: '1166508977'
+    body: '  I have been a linux gamer for quite some time.  And with the help of Wine, Transgamming, and Cross Over Office, I havn''t found too many windows programs that can''t run in Linux.  Between these three projects most new games can run almost the day they are released.  In some cases it may take as long as 3 weeks but eventually, if its worthwhile, you''ll be able to run that program on Linux.  It might not run nativly, but the speed difference between World of Warcraft on my Windows PC verses World of Warcraft via transgamming wasn''t even noticable.'
+-
+    name: ''
+    mail: ''
+    subject: 'Lenovo Thinkpads certified for SuSE Linux'
+    hostname: 71.126.15.53
+    created: '1166513481'
+    body: "SuSE Enterprise and OpenSuSE work well on most Lenovo Thinkpad models which are, in my opinion, also the best overall notebook PCs. They are very sturdy, hard to break, have superb keyboards, and displays, and they last forever. I'm using OpenSuSE on an 8-year old Thinkpad with a 300 MHz Pentium II, 384 Megs of RAM, and a 4 Gig slow 4200 rpm hard drive. It takes a while to boot up, but it runs fine once its booted. I've installed various versions of SuSE on dozens of Thinkpads, including current models and it runs well on them.\r\n\r\nLenovo also will sell you a Thinkpad without an operating system, so you don't have to pay the Vindows \"tax\". Last I heard you actually have to call them to order one. You can find references to them on the www.lenovo.com website, but I think you have to call to order one. Tell them that you want to buy the Thinkpad T60 models that are certified for SuSE Enterprise Linux that come without an operating system. OpenSuSE will also work fine on these model Thinkpads.\r\n\r\nAnother great way to buy a Thinkpad is to buy an IBM certified used Thinkpad. These are mostly Thinkpads that IBM has leased to Fortune 500 corporations. They come back from the lease, are checked by IBM technicians for proper operation and are sold for 1/4 of their new price, as little as %300 to $500. Many of them are deluxe T-models with Titanium-coated cases that, when new, sold for 4 times the price. They have a 90-day warranty and I've bought dozens of them for friends, coworkers, and companies I've worked for. Never had a bum one and they make great Linux PCs. I put OpenSuSE on them. The only caviat is that because they are in limited supply and are such great deals, they tend to sell out very rapidly. If you see a model you like, buy it right away, tomorrow they will probably all be sold, although they're always getting in new supplies, so there will always be some available. \r\n\r\nhttp://www-132.ibm.com/webapp/wcs/stores/servlet/CategoryDisplay?storeId=1&catalogId=-840&langId=-1&categoryId=2576396\r\n\r\nThis Lenovo webpage has a link to Novell's website in the lower right hand corner:\r\n\r\nhttp://shop.lenovo.com/SEUILibrary/controller/catalog.workflow:category.details?current-catalog-id=12F0696583E04D86B9B79B0FEC01C087&current-category-id=19C791A03AF24034A0011B825513BCED\r\n\r\nHere is Novell's webpage with references to the SuSE certified Thinkpad T60s:\r\n\r\nhttp://www.novell.com/partnerguide/product/204602.html\r\n\r\nThe Thinkpads that come with Windows will generally work well with SuSE Enterprise or OpenSuSE, but you will be getting a copy of Vindows that you will be throwing away.\r\n\r\nCheck out the excellent Linux on Laptops webpages for reports by Thinkpad owners on distros that worked for them on specific Thinkpad models:\r\n\r\nhttp://www.linux-on-laptops.com/ibm.html\r\n\r\nNo matter whether you buy a new or a certified used Thinkpad, tell the order taker on the phone or put in a comment in the online form telling them that you are going to be putting Linux on your Thinkpad and would like them to sell them with Linux installed. They will log these sorts of comments and if they get enough interest, they will respond to it."
+-
+    name: ''
+    mail: ''
+    subject: 'Non-existent window of opportunity'
+    hostname: 213.86.197.188
+    created: '1166523104'
+    body: "Remember OS/2? Just in case you don't let's rewind to the release of OS/2 Warp 3. IBM made OS/2. IBM made PCs. Easy enough to link the two and jump in with a fair bit of market share, right? Wrong.\r\n\r\nWhy? Simply because Microsoft arm-twisted EVERY hardware device vendor - printer manufacturers, sound card manufacturers, you name it. Result? ALL drivers had to be written by IBM. Not a single hardware vendor chipped in. O well, a few did. But they were niche manufacturers and didn't matter. Not one mainstream hardware vendor wrote a single OS/2 driver.\r\n\r\nResult? OS/2 didn't have good hardware support. Sound familiar?\r\n\r\nSo here is the truth. GNU/Linux has only got where it is because of a huge, invisible movement. IT people are pushing Linux by investing the time to install, configure and support these installations on their own machines, as well as their colleagues machines. GNU/Linux took over the server room because of administrators disgruntled with Microsofts heavy-handedness.\r\n\r\nGNU/Linux has taken over the developer workstation because of developers disgruntled with Microsoft's heavy-handedness.\r\n\r\nGNU/Linux has taken over the graphical workstation because of graphics workers disgruntled with single vendor lock-in.\r\n\r\nDo you see a common thread here? I do. It is vendor-lock-in, awareness of a monopoly hurting creativity and innovation, and becoming unhappy with Microsoft dictating hardware and software upgrade cycles that is pushing people to move to GNU/Linux from the bottom, up.\r\n\r\nSo what you say will never happen. No OEM (except niche OEMs or mainstream OEMs on niche products) will pre-install GNU/Linux on their products. No OEM will supply drivers for GNU/Linux. They may make it a little easy by collaborating and sharing specifications, or writing to open standards.\r\n\r\nWhat you say can only ever happen when the monopoly that Microsoft has is broken down completely. And that can only happen after a long time. Moving from the bottom, up has been hard and painful. But many have done it. Many continue to do it. And for every one who move over to GNU/Linux, there are at least five more who are positively affected by the move and they begin trying a dual boot configuration. Every one who has made the shift is only to happy to help friends and family shift.\r\n\r\nThat is where we must concentrate. Helping people around us make the move. That's the only way GNU/Linux will become mainstream."
+-
+    name: ''
+    mail: ''
+    subject: 'Your question'
+    hostname: 62.232.27.18
+    created: '1166525462'
+    body: "I've been rallying the writer's point for a while now, and the answer to your question is simply: that we can't walk into a shop and play with the laptop/desktop before purchasing it.\r\n\r\nALL shops that you mention selling Linux pre-installed only sell their products online. This means that I can't look at or browse how they work before I buy. \r\n\r\nDon't get me wrong. When I do purchase my next computer, I will definitely order a computer with Linux pre-installed, however, this will happen in a few years. Until then, I would love to go to my local shop and play with the laptop until it's time to make the purchase. This in itself, will make me more excited and eager to buy, maybe I'll buy early.. but not with the status quo.\r\n\r\nWhat we need is someone to open a shop that doesn't sell windows computer, but only Linux computers alongside other gadgets. This way, M$ won't be able to up their OEM licenses and screw me over, and the Linux community will definitely make all their purchases (gadgets as well) from this shop. Put it someone accessible, central London for instance and you're off.\r\n\r\nI reckon there is a large enough community of people who would shop from there to make it profitable, all is needed is startup capital. Mark Shuttleworth? It's a bit of a dream at the moment though."
+-
+    name: ''
+    mail: ''
+    subject: 'Too many distro;s.... Well,'
+    hostname: 213.84.182.228
+    created: '1166529162'
+    body: "Too many distro;s.... Well, I am not so sure. Be aware of what you are comparing. Saying that MS only has one distro is a bit far-fetched in my view. I consider a distro to be a bundle of software consisting of the base-OS, necessary drivers and a few more or less useful programs put together by a distributor. MS has one base-operating system, which in itself does not really include much. Drivers and other software are up to third-party manufacturers to produce and contribute. These distributors (manufacturers or other OEM's) collect all these necessary items for you, streamline the installation process, create an image, and with a bit of luck you even get a recovery-cd... In this way you actually talk about Dell-, HP-, IBM-, Gateway-, and Acer-\"distro's\", just to name a few. A fresh OS-only installation from retail windows-cd's will probably not work very well on hardware from these manufacturers either. Not to mention using the distribution-specific install media on a system from another vendor. Ever tried to install from a Dell recovery-cd to an HP-system or vice versa? Did it work?  \r\n*Any* manufacturer or OEM can easily do this to a linux system as well. If they want to. Or if the hardware-manufacturer wants to. Not enough drivers is really not a \"linux\"-problem, but a manufacturer-problem. If the manufacturers release the specs or produce the drivers themselves, everything works on linux as easy as on windows.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Who is Linux Written for ?'
+    hostname: 24.66.94.144
+    created: '1166532567'
+    body: "Linux Distros out of the box are ok.\r\nBut just try to change or install anything.\r\nTrue most people just use the the computer for browsing or messenger services and may be behind a router.\r\nLinux is written by and for computer programmers who like to endlessly play with their toys.\r\nUntil it is written for an average user lots of luck.\r\nTrue you may hear of people who have anecdotal evidence of how someone they set up with Ubuntu loves it over Windows.\r\nBut those users have a source of tech support.\r\nwww.adgerlinux.com"
+-
+    name: ''
+    mail: ''
+    subject: 'The three month product cycle'
+    hostname: 24.121.31.53
+    created: '1166538698'
+    body: "The biggest problem in working with OEMs is their product schedule.  Every three to six months they put out a completely new line of machines, incorporating the latest chipsets.  By the time a Linux vendor obtains this machine and gets the new drivers working in the mainline kernel the product is already nearly obsolete from the OEM's standpoint.  Sure, it will serve a user's needs for another year, but by the time Linux is fully supported on a brand new system it is too late for the OEM to push it into the sales pipeline.\r\n\r\nThe only answer to this is to work with the chipset designers.  But even the ones that actually produce Linux drivers do not usually work directly with the core kernel developers, and they don't have the skills to produce code that meets all the standards and can be directly integrated into the latest kernels.  Generally, you get a mess of code that modifies some other driver to handle this new device, probably disabling other similar devices.  It is generally a tarball of code which might compile against some not quilt current version of the kernel, rather than a patch.  All this means even more time slipping by before a working Linux distribution for a now not-quilt-so-new laptop can be shipped.\r\n\r\nAll this applies less to the top tier hardware producers like Intel which often have core kenrel developers on staff.  It applies more to the ones producing the tiny, inexpensive components like USB keys, modem chipsets, low end graphics chips to be shipped on low end machines, and they companies that grab handfuls of these components and make them into inexpensive notebook computers.  These companies that make $10 per machine if they are lucky, and they are the ones that stand to gain most if they don't have to buy a Windows license for every machine they sell.\r\n\r\n-dsf"
+-
+    name: ''
+    mail: ''
+    subject: 'Thanks for the heads up'
+    hostname: 4.228.9.176
+    created: '1166540852'
+    body: 'System76 is just down the road from me (well, sort of) and I didn''t even know it existed.'
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: oops...
+    hostname: 85.1.36.169
+    created: '1166542731'
+    body: ':-) sorry, but when I started typing, your post wasn''t there yet. seriously.'
+-
+    name: ''
+    mail: ''
+    subject: 'Linux pre-installed Laptops'
+    hostname: 69.14.77.170
+    created: '1166544660'
+    body: "Linux pre-installed Laptops, see <a href=\"http://lxer.com/module/db/viewby.php?uid=124&sort=120&option=1&value=on&offset=0&dbn=14\">here<\r\n/a>\r\n\r\nBob"
+-
+    name: ''
+    mail: ''
+    subject: 'Red Hat and SUSE'
+    hostname: 201.211.151.195
+    created: '1166544829'
+    body: "I Agreee with you. Red Hat and SUSE (Novell) are large companies that put the effort in the Linux Operative System as viable choice in the Enterprise and Government. These clients must to pay licences, and depends heavily in robust and scalable solutions. By the way,they do not use games, open standards are wellcomed and security is a priority.\r\n\r\nThat is why Linux can be the perfect solution, believe me because my work is to put Linux in these envivonments.\r\n\r\nBut there is a catch:\r\n\r\nThe perception from the choice makers is that they need a huge recognized company to support the implementation solution, and Ubuntu, Debian, Ututo are not in the list. Red Hat, Novell and Mandriva are.\r\n\r\nOf course, Ubuntu et all, are really good and robust solution, I know for sure but Enterprise and Govt, do not has that perception, and as Steve Jobs said. \"perception in reality\".\r\n\r\nNow, GNU ppl can't understand this. They atack Red Hat, Novell every time they got a chance. They are \"purists\" and if one bit of code is closed source, as many drivers are, then cry foul and promote an scandal. A knife in the back for Linux backers. The Linux adoption for this environment are not because are free or open source or because there are some purists promoting it, is becuase is the BEST SOLUTION in the market. And I agree hundred percent. I prefer Red Hat solution and not M$ solution, may be is not perfect for you, but is a WAY BETTER solution, do not agree?.\r\n\r\nWhen some purists put GNU acronym before Linux, appear to me that they don't understand the basics of the problem: MS/Windows can be called in this way because M$ makes Windows, Apple/MacOS X can be called in this way because Apple Computer makes MacOS X. Stop Calling Linux as GNU/Linux because GNU don't makes Linux, LINUX IS UNIVERSAL, not GNU propietary. Do not stole it for you. This is offensive for many Linux entusiasts like me that looks you as biased and blind people. \r\n\r\nWant Linux be a successfuly OS?. I can tell you simple things that YOU, not the OEMs must to do, and is simple because all depends on YOU, not on others:\r\n\r\n1) Be tolerant, things evolve steadily, if purism will prevail, it will be in time, do not try to force situations. Do not blame Red Hat, Novell, KDE or every thing does not match exact your expectations. Some is better than none.\r\n\r\n2) GNU is great, I know, but is not the owner of FOSS. Try to others think FOSS as human universal, because this is TRUE. Try others to get involved. May be GNU create the concept but do not OWN it. \r\n\r\nAt last, the solution is change your mind, and this is not easy.\r\n\r\nPietro Pesci Feltri"
+-
+    name: ''
+    mail: ''
+    subject: cruiser
+    hostname: 59.92.38.232
+    created: '1166545246'
+    body: "Im not a fan of microsoft nor their buisness policies. And for that alone am in complete hate with it. \r\n\r\nI have been thinking hard about how to get the normal user to switch to linux so that microsft doesn't have to waste time and energy flaunting their mediocre OS.\r\n\r\nIm not aware of the many strategies out there. But I'm sure of one. A fight to oust microsoft from its dominant position should not and cannot begin in the continental US or Europe. \r\n\r\nA typical geographical location would be a place with a highly skilled work force and a big population. China and India would be good places to start with. Think about it. It will make sense. I'm not going into the details but i know it will work. I've thought and dreamt about it so many times in my head that all I can think about anymore is the tux"
+-
+    name: ''
+    mail: ''
+    subject: 'Distributions could sell machines'
+    hostname: 156.34.54.43
+    created: '1166548257'
+    body: "Would it make any sense for some of the largest Linux distributions to buy machines, install their distribution on it and sell it (via the Internet, Walmart, etc) and include some service agreement with it? Perhaps the hardware warranty could be covered by the manufacturer.\r\n\r\nWhich distributions could do this?\r\n\r\nCanonical? Novell? Redhat? Linspire?\r\n\r\nDidn't Linspire try this? What went wrong? Was Linux not ready yet? Is it ready now? Could Canonical, Novell, Redhat succeed at it today?"
+-
+    name: ''
+    mail: ''
+    subject: 'I''LL DO IT'
+    hostname: 41.220.44.45
+    created: '1166550355'
+    body: "I live in an African Country and here nobody do this stuff. I think I'll be the first one to do it.\r\n\r\n<b>It's all about money anyway!!!!<b>"
+-
+    name: ''
+    mail: ''
+    subject: 'Linux at Walmart? Yes.'
+    hostname: 65.116.131.6
+    created: '1166553094'
+    body: "Walmart DOES offer a Linux PC - http://www.pcworld.com/article/id,111557-page,1/article.html\r\n\r\nBut right now, Linux, even Ubuntu, isn't as easy to use as Mac and Windoze - mostly due to the drivers as said by the author. Once the hardware configuration 'issue' is solved, then it will spread rapidly. Especially when it can be used to keep getting value out of existing hardware. \r\n\r\nI agree that a big shift will happen in the developing world first, because a $300 \"Windows tax\" is far higher than you would figure.\r\n\r\nI think Linux and Open Source is the way of the future - even now, the best most stable software is Open Source (the \"released versions\" anyway) - and eventually a tipping point will be reached.\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'The distros will consolidate'
+    hostname: 65.116.131.6
+    created: '1166553246'
+    body: "Consolidation will happen over time.  Right now Ubuntu and Kubuntu have come to dominate in just a couple of years (well most rapidly over the last 6 months since 6.06), and estimated to have over half the desktops using Linux.\r\n\r\nAt this rate, Ubuntu will have about a stable 80% \"desktop share\" within a few years."
+-
+    name: 'Eric Kilgore'
+    mail: ''
+    subject: 'I liked the article but...'
+    hostname: 75.46.156.170
+    created: '1166576508'
+    body: 'I''m fairly new to Linux (about two years in).  I''ve got a PC that gets blown up(purposely) about every six to eight weeks with a new distro I learn about through distrowatch or tuxmachines.  If I would have tried UBUNTU first, I honestly would''ve never tried Linux again!  I''m force fed article after article of people telling me how great it is, yet I didn''t like it at all.  The biggest draw to me was choice.  The choice to make the box mine, the way I want it, not the way the OS maker tells me it should be. (NOTE: I''m still not brave enough to try Gentoo yet)  The first distro I tried was Mandrake.  It found all of my hardware and worked.  It got my attention, then I started trying another, then another, then another, to find what I liked and what I didn''t.  Ubuntu (out of the box) is functional, but one of the most uninteresting distros out there.  There is nothing on the standard install desktop that makes people want to "click around" and "play"'
+-
+    name: ''
+    mail: ''
+    subject: 'Counter argument'
+    hostname: 64.180.166.51
+    created: '1166605117'
+    body: "Microsoft Windows seems to be easy for some because these people have learn to use it. Unfortunately, once they tried to apply their skills of other operating system, they seem lost because no one teached them to adapt on these new environment. \r\n\r\n\"Linux is promising don't get me wrong. But, what user would want to type something into a terminal. Windows XP doesn't make me do this.\"\r\n\r\nHave you ever used a modern Linux based distribution? It seems not. When it comes to fix a particular issues, these Microsoft Windows XP are lost.\r\n\r\n\"I know that some of you a probably going to be up in arms about this, but it still remains a fact. Linux is harder to use than Windows. You can't deny it. Everyone and their grandma can run a windows machine, but linux is so different, so weird.\"\r\n\r\nIt is not. A Linux distribution is just different. This argument just show how ignorant it is. That example demonstrated the inability to adapt to a new environment. Speaking of Grandma, I can tell you I have seen a 78 years old women perfectly using a Linux distribution without a problem thus completely defeating the posted logic.\r\n\r\n\"Lastly, one more problem is lack of game support. With Windows Vista and DirectX 10 a whole new gaming platform arrived. Linux cannot easily provide support. So, gamers or even a person who wants to play a simple game, will stay away from linux.\"\r\n\r\nIt will take time for games to get as popular on Microsoft Windows Vista similar to Windows XP in 2001. However, the future is crossplatform as gaming companies like ID software show. Tools for making games are available from SDL to Ogre. The real problem is actually the publisher. Afterall, RPM (under way of revamping) is part of LSB, sources are available, \r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'More than a pure hardware vendors'' issue'
+    hostname: 194.221.75.75
+    created: '1166607024'
+    body: "When you turn on your Windows PC for the first time, it shows the End-User Licence Agreement.\r\nThis says that you purchased software with your hardware, that you must agree with terms and conditions of software EULA, and if you don't, you must stop using Windows and you may ask for refund of the software.\r\n\r\nBut just try: the vendor will refuse to refund software only. He will spend hours to send you letters to confirm that he will only take the whole PC back, and give you your money back (even 6 month after initial purchase, because sending letters back and forth takes time...).\r\n\r\nSo the question is: why would HP (for instance) spend so many yours with legal teams, and buy back an outdated PC, instead of writing a 100$ check?\r\n\r\nWhy?\r\nProbably because Microsoft demands that the OS price never appears, and that ALL PCs are sold with Windows. \r\nWhat if it is not the case?\r\nWell, when \"HP recommands Windows\" shows on you screen, you may be sure that Microsoft pays for this. And the amount of this ad depends purely on MS good will... In this low-margin world, I suspect no hardware vendor would fight against Microsoft, they have too much to loose.\r\n\r\nAccording to me, Microsoft pressure is such that they prevent OEM vendors to sell Linux-PCs by all ways (except some outdated expensive PCs that nobody will purchase, in order to \"prove\" that there is no end-user need...)\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'United we stand'
+    hostname: 68.100.79.7
+    created: '1166637811'
+    body: 'Nothing can help linux more than just having all developers concentrating on making the leading products today better. Look at the amazing nbr of distros out there. Everyone trying to prove that they are better. There is still too much elitism in the community.'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Strength and weakness'
+    hostname: 84.7.125.11
+    created: '1167126444'
+    body: "The problem with free software is that most of it is written to scratch a particular itch. Sometimes that same itch if common to several developers, some may coopoerate, some may decide on different ways of curing said itch (they may get a rash if they scratch) and some may not even notice someone else is scratching the same itch they got.\r\n\r\nUnder Windows, you just don't scratch an itch: you may need a new skin graft to repair the scratch, so it's too scary: you live with the itch, and you get used to it, and the next, and the next...\r\n\r\nThing is, nowadays most people think about a computer as being an oversized and somewhat smart toaster: they think it should Just Work (tm) when they set the dial and push the button. If it doesn't, you overhaul it/throw it away.\r\nThe Linux users and makers, 'unfortunately', are more of the 'fix the toaster's spring tension' kind, or more into the 'hand-painted toaster job' that got dissatisfied with Windows' 'you can only put approved magnets on it' policy.\r\n\r\nSuffice to say, most toaster makers don't cover self-repair jobs and home-made paint jobs. Those who do will sell you more expensive yet sturdier toasters.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: Buteman
+    mail: ''
+    subject: 'Ways all Linux users can help'
+    hostname: 213.162.108.149
+    created: '1191103824'
+    body: "I have had a number of PC's since 1990. During this time I have had to struggle less and less as I have installed Linux. I started with Slackware 3.4 and then Red Hat ( 5.2 I think ). I soon decided that I would check that a printer, video card etc would work before I bought it.\r\nI would tell the salesman that this was why I had bought it and insist that they would refund my money if it didn't actually work ( which might be because the manufacturer had changed the chipset ). I then started to email manufacturers >>> both the one who's product I bought AND the ones who I didn't buy from.\r\n\r\nThis way all knew that their product might be used with something other than MS O/S's.\r\nFor example an epson printer ( C62 I think ) did work\r\nI saw little support from canon, lexmark so they got to know why I didn't buy theirs.\r\nI realize things are changing but if we all do that it will show them just how many of us there are.\r\nAt present I don't see how they will get that information.\r\nI believe this is one way each one of us can contribute."
+-
+    name: bogdanbiv
+    mail: ''
+    subject: 'We need a large database of FAQ'
+    hostname: 84.232.162.119
+    created: '1213043109'
+    body: "Here is a simple problem that I'll build my idea on: \r\nI personally like the num lock key to be switched on by default once I’ve logged in to KDE.\r\nHow do I change that setting? (Answer is here: http://www.fsdaily.com/EndUser/KDE_Tip_Switch_NumLock_On_at_Startup )\r\n\r\nSo how does a user having this simple problem express it in order to find help?\r\n * He calls for a more knowledgeable guy (not available always, perhaps never)\r\n * He searches the net (frustrated by not receiving relevant results)\r\n * Posts it on a forum (someone may answer, after a while).\r\n\r\nThe problem has been solved before, it is easy to solve, but it's hard to express it in a way that brings relevant results. \r\n\r\nWe need to stop our tech support volunteers from reinventing the wheel every time such a simple question is put! Such questions are put more often than we like and piss off everyone who's more experienced with this new ecosystem. They generate the RTFM reaction from our geeks. Automate this, make it as smooth as possible. Should someone be able to deal with this simple problems, it will be a lot easier to deal with the more difficult ones.\r\n\r\nLots of end users have this kind of simple problems (actually simpler!).\r\nCurrently Ubuntu Forums (I picked it because I use it daily) has less than 600.000 users generating a little over 5.000.000 posts (in the whole existence of the site!).\r\nThe estimated number of internet-connected computers is around 600.000.000. Hopefully that translates in 1computer:1user, but I think the rate is actually 1 computer:more users. \r\n\r\nSo say that 10% of those internet connected PC have Ubuntu installed - that makes 60.000.000.\r\nEach of the users of those computers do have different small problems. Can you imagine half of those users posting their problems on the forums? Imagine the frustration on each side, one being end users who just want to use their PCs, the other tech support volunteers running the forum. I think it's a nightmare! Yes, \"Check if already posted\" button has made wonders - but it's not enough. It doesn't do semantics, it doesn't suggest alternative ways of expressing an idea. Searching for the problem in the chosen example in the forums yields no results. Think that nobody has had this problem? No, I think lots of people do have it, but don't ask it. They don't get answers and come to the conclusion that Linux is unsupported.\r\n \r\nMy solution:\r\nWe need a tech support search engine - a distributed techbase - a Google for TechSupport if I may. Maybe semantic web will help, who knows? What would you say about having a <techbaseQuest tags='NumLock, default, KDE' difficulty='easy'> How do I turn NumLock on by default? </techbaseQuest> and several <techSolution votes='9' useful='8.3'>Click here and here. <screenshot/> Press this button</techSolution>\r\n\r\nWhat are your ideas? Could this keep the Linux window of oportunity as open as possible?"

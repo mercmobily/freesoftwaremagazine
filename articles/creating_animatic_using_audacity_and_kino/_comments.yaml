@@ -1,0 +1,14 @@
+-
+    name: KonstantinDmitriev
+    mail: ''
+    subject: 'Non-linear video editor for animatic'
+    hostname: 92.124.225.141
+    created: '1275479531'
+    body: "For my taste it's easier to use real non-linear video editor for such tasks, like the one integrated into Blender or OpenShot. They allow to place shots on timeline and easily combine them without typing time values manually. You'll need powerful video editor when making animated movie anyway, so it's worth to learn such tool from at early stages.\r\n\r\nAlso from the point of view of combining audio editor with video editor Blender + Ardour looks interesting way to go, because they could be synced via JACK. I haven't looked into it, though. For now I'm just importing soundtrack into Blender and putting image sequences over."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Non-linear video editor'
+    hostname: 68.116.159.234
+    created: '1275677861'
+    body: "Yeah, I suspect I won't really be using Kino for this. But I wanted to try it because it's the one tool I already know how to use. :-)\r\n\r\nThanks for the suggestions -- I will definitely check into them! (Always seems like somebody mentions one extra tool every time I bring this up -- \"OpenShot\" is new to me).\r\n\r\nIf I go pure-3D, there's obviously going to be a lot of momentum favoring using Blender's integrated story editor. Which may be where I wind up.\r\n\r\nI'm still waffling over that 2.5D vs 3D decision. I keep seeing new information that pushes me one way or the other."

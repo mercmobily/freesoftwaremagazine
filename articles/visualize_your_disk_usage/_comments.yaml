@@ -1,0 +1,42 @@
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'free as in...'
+    hostname: 85.0.41.164
+    created: '1165504174'
+    body: "Nice article, but just one thing:\r\n\r\nIt's a pitty that the adjective 'free' is used in this article a bit confusing. Free Software Magazine was always keen to use that term in reference to freedom, not price. I think this is an important distinction, especially when talking about a freeware product and a free software tool. \r\nJust a little remark."
+-
+    name: 'Jon Peck'
+    mail: ''
+    subject: 'freely ambiguous'
+    hostname: 129.3.72.161
+    created: '1165509790'
+    body: 'So noted.  Our editor mentioned that as well after I posted the draft, but since the article showed that the GPL utility was superior when compared to the alternative, he let it slide.  In the future, I''ll avoid confusion by sticking to GPL only software.  Thanks for the suggestion!'
+-
+    name: ''
+    mail: ''
+    subject: 'You don''t have to do that,'
+    hostname: 220.233.53.52
+    created: '1165532499'
+    body: 'You don''t have to do that, just label the non-free and no-charge software as non-free and no-charge.'
+-
+    name: ''
+    mail: ''
+    subject: GNU/Linux
+    hostname: 213.169.107.101
+    created: '1165959400'
+    body: 'Aren''t most of the readers of the FSM GNU/Linux users? Neither of these tools works on GNU/Linux so to use them you need a non-free platform which is windows.'
+-
+    name: 'Jon Peck'
+    mail: ''
+    subject: 'Alternative for X11 users'
+    hostname: 66.155.212.203
+    created: '1165979738'
+    body: 'WinDirStat was inspired by (or a clone, depending on your perspective) the KDE project <a href="http://kdirstat.sourceforge.net/">KDirStat</a>, which runs on any X11 desktop.  I personally use both Linux and Windows desktops, and I''m probably not the only one.  I haven''t tried either utility in ReactOS or Wine, but in theory, it should work.'
+-
+    name: ''
+    mail: ''
+    subject: 'cool proggy'
+    hostname: 213.169.107.101
+    created: '1165984130'
+    body: 'I just apt-got KDirStat and tried it out. What a great program. :) Thanks for the link.'

@@ -1,0 +1,14 @@
+-
+    name: teotwawki
+    mail: ''
+    subject: Hardware
+    hostname: 87.244.87.143
+    created: '1332963606'
+    body: "It looks like the Raspberry Pi may be a good candidate for the basis of a Lib-Ray Video player.\r\nJust add a USB SDHC reader and a USB IR remote control."
+-
+    name: teotwawki
+    mail: ''
+    subject: 'Lib-Ray Video player hardware'
+    hostname: 87.244.87.143
+    created: '1333119116'
+    body: "The Raspberry Pi looks like it might be a good basis for a player.  Just add USB SDHC card reader & USB IR remote control.  With a power supply and a box that's probably about $70 / £45 in total.\r\n\r\n[Sorry if I already posted this but you know how things go astray]"

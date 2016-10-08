@@ -1,0 +1,112 @@
+-
+    name: ''
+    mail: ''
+    subject: 'a nightmare? gosh!'
+    hostname: 81.39.101.73
+    created: '1174306344'
+    body: "Just my opinion, nightmare?. \r\n\r\nI found your opinion about \"usability\" on KDE pretty exaggerated. Generally speaking the configurations panels and menus are always the same, just adapted to the applications one is actually working with. Furthermore, just only the needed icons and menus exist for every application; this is not something obvious but something that makes sense in Konqueror (the multi-everything application). This improves usability while keeps the ability to configure the desktop as one pleases. Oh, and there's only vertical text on Konqueror and Amarok, the most used applications on KDE, and are accompanied with icons. Just an example, convert an image from jpeg to png is as simple as place the mouse overt he file, right click, convert to png and you're done!. Menus are not confusing but useful. \r\n\r\nFrom my point of view GNOME gets reduced to Nautilus and a (limited) conundrum of applications focussed on giving just the very basics. \"Where is the rest?\", I think they were my thoughts when I first used GNOME (with Ubuntu, to which the same opinions are valid).\r\n\r\nEverybody should be able to chose the desktop that likes the most so giving a subjective opinion about other desktop to mine its reputations doesn't seem productive to me. "
+-
+    name: ''
+    mail: ''
+    subject: 'KMenu vs Kicker'
+    hostname: 71.220.47.153
+    created: '1174309203'
+    body: 'Interesting, if brief, review of your experiences in KDE.  I love it and I would be challenged to spend a month in GNOME.  But I wonder what you mean by replacing the KMenu with Kicker, as the whole bottom panel in KDE is known as the Kicker.'
+-
+    name: 'Jonathan Roberts'
+    mail: ''
+    subject: Terminology!
+    hostname: 88.111.159.79
+    created: '1174313218'
+    body: "Sorry,\r\n\r\nMy terminology is wrong :-S I meant the menu which was developed by Novell - Kickoff I think. Sorry for the mistake...\r\n"
+-
+    name: 'Jonathan Roberts'
+    mail: ''
+    subject: '"Everybody should be able to'
+    hostname: 88.111.159.79
+    created: '1174313408'
+    body: "\"Everybody should be able to chose the desktop that likes the most so giving a subjective opinion about other desktop to mine its reputations doesn't seem productive to me.\"\r\n\r\nIt is exactly what you said, a subjective opinion! I made it very clear in the article that it was a subjective opinion, told everyone to try it for themselves in fact, and although it might not be productive some people find it interesting :D (I hope!)\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Reasonable, but superficial'
+    hostname: 71.222.4.105
+    created: '1174318058'
+    body: "KDE is complex and that's why you should implement a distro that configures it well before hand. My favorite is SimplyMEPIS, but Xandros and Freespire (and a host of others) offer meritable alternatives, as well. Each distro has its own spin on optimal usability, but none can be considered polished that simply use the raw KDE installation. \r\n\r\nAs a contrast, GNOME tries to be polished from the start. It may gain some initial usability, but is sacrifices adaptibility in the process. Either is shaped by the opinions of its developers, and it is important to remember what Plato said of opinion: that it is greater than ignorance, but less than knowledge. "
+-
+    name: ''
+    mail: ''
+    subject: 'KDE is slower?'
+    hostname: 137.226.100.13
+    created: '1174319063'
+    body: "\"Initially I felt that KDE ran a bit quicker than GNOME but as the month went on and my time away from GNOME grew, I was surprised at the speed of GNOME when I returned this morning. Applications do seem to start quicker and I’m at my desktop with everything finished loading sooner.\"\r\n\r\nthis might be incorrect, as GNOME uses more memory resources than KDE.\r\nTake a look at this article http://ktown.kde.org/~seli/memory/desktop_benchmark.html"
+-
+    name: 'Kevin Dean'
+    mail: ''
+    subject: 'More debate...'
+    hostname: 216.127.159.141
+    created: '1174320826'
+    body: "I personally think that this article was pointless. Not that I like KDE or like Gnome better but:\r\n\r\n<em>During the month I’ve tried to avoid using my normal GNOME applications under KDE</em>\r\n\r\nNobody does this. At least, I can't think anyone would be so bent on KDE, Gnome, E17, XFCE or whatever that they would use a poor tool from their desktop environment over a great tool from another.\r\n\r\nFor instance, you realized how awesome k3b is. Whil Gnomebaker is decent, it's never been nearly as good as k3b is, in my opinion (thought it's gotten better).\r\n\r\nI also feel that this article was tainted by the distro you chose to review it with. (This is a defaults thing, not a distro flame). For instance:\r\n\r\n<em>Initially I felt swamped by the traditional K menu so I switched to Kicker and I think this really is a superb menu.</em>\r\n\r\nI'm not really sure that the default Gnome menu is any easier to navigate. You click \"applications\" the type of application you want \"Internet\" and the program \"Ekiga\". \r\nThe main difference is that some distros turn on the \"Recent applications\" section, which I personally find hugely important. The top 5 listings in my menu are the applications I open the most.\r\n\r\n<em>Does nobody using KDE find it infuriating that when you try to delete a file you find yourself opening it; or trying to drag a single file and having to drag a box around it to select it?</em>\r\n\r\nNo, because I don't. It actually took me a few moments to grasp what you were saying was happening. To move an icon, you just put the cursor over the icon, push the mouse button down, drag the icon and release once it's there. You do not have to select the icon before you begin the move.\r\n\r\nPersonally, I thing this is a bit more natural to human motion; it's just contrary to what people are used to computers doing. We don't touch our glass of water, remove our hand and then grasp the cup, we reach out, grab it and drink.\r\n\r\nTo delete an icon, right click over it.\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'I would have to agree...'
+    hostname: 70.182.49.202
+    created: '1174322030'
+    body: 'I too find KDE to be overwhelming, messy, confusing, and to have bad defaults.  Plus that pointer finger seems a little too long.  '
+-
+    name: ''
+    mail: ''
+    subject: yeah
+    hostname: 83.40.116.12
+    created: '1174325066'
+    body: "yeah, you're right:You are free to give you opinion and, please, go on.You simply touch my sensible part)). \r\n\r\nI'm giving my opinion about GNOME (and I shouldn't have gone so far) but I'm exposing facts to prove you wrong about usability in KDE. The thing is that your conclusions are abstracted from the facts that takes you to say so and that makes that a reader, like me, see the report as if it weren't based on anything real. Furthermore, if you had given details I could have replied to you so other readers could have the other side opinion to compare. That's why I said the (the theme of) report was useless (and hey, no offense). I'd like to see more article like \"super-GNOME\", \"why KDE rocks\", \"KDE vs GNOME, the good and the bad\" but no, \"one month in KDE world or GNOME world\" and then, \"oh!, it's curious but I didn't like the experience\". None of the boys who tried the experience, I think,  really believed they were going to migrate to that desktop.weren't?.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'Abstract comments'
+    hostname: 64.104.129.137
+    created: '1174996020'
+    body: 'Your comments such as "Initially I felt that KDE ran a bit quicker than GNOME ..." and "This point is probably the most serious about KDE in my opinion ..." are very abstract. You have no solid reasons to prove them. In my opinion, GNOME is your favorite desktop env and that is the reason you are feeling KDE is "slow and confusing". Again, it is just an opinion. '
+-
+    name: ''
+    mail: ''
+    subject: 'It''s subjective'
+    hostname: 76.104.53.246
+    created: '1175007606'
+    body: "These are subjective comments. People are not machines. We absorb vast amounts of information and then combine them with our preferences and experience to draw conclusions. It's not objective. Yes, more detail about what seemed slow, or what was confusing, would be helpful, but that does not invalidate the author's impressions.\r\n\r\n-- \r\nbblackmoor"
+-
+    name: ''
+    mail: ''
+    subject: Comments
+    hostname: 80.43.123.130
+    created: '1175165870'
+    body: 'Why are all these people criticising. Surely, if they don''t like your comments they should just keep quiet. Constructive comments are far more difficult to make than destructive ones. It requires intelligence to be constructive. The author clearly states that it is just about his opinions formed from a short test. Either you accept it as such or don''t bother to read it. It is interesting to read such articles, but extremely boring to find that most of the comments about it are negative. Either post positive comments or shut up.'
+-
+    name: askrieger
+    mail: ''
+    subject: 'Why Make an Either/Or Choice?'
+    hostname: 209.94.139.22
+    created: '1175197683'
+    body: 'Personally, I like KDM, the KDE desktop, Konqueror, and K3b.  I also like Synaptic, Streamtuner, XMMS, Emacs, Evolution, and Pan.  My system is set up to run all the applications I like to use whether they originated from KDE, Gnome or elsewhere.  I would never consider limiting myself to only those Linux applications that are part of any single desktop environment.'
+-
+    name: ''
+    mail: ''
+    subject: 'Desktop Choice'
+    hostname: 72.93.181.12
+    created: '1175415578'
+    body: "How often does it matter? Before Fedora Core 2 I was using Windows ME and Knoppix. I have to admit that by now I'm more than a little annoyed that I have to change Fedora to default to KDE, but  with my first wetting of my toes I figured Gnome had some Holy Grail that a noob couldn't parse. Maybe it's true, I can install programs from source but I can't make Nautilus not open each folder in a new window.\r\nHeard of big Catholic Guilt? OS attrition is for my European neighbors! Fsck it I'm Protestant!\r\nAnyway Dolphin is teh roxorZ File Manager. If Guhnome tries it I'll givem yet another try. KDE has too many options, Linux has too many options, Windows has too much bloat.\r\nLet's all be Mac--NO! Let's learn to use our computers, whether KDE or Gnome (or fluxbox?!) and revolt! --Steve"
+-
+    name: ''
+    mail: ''
+    subject: 'printers,hardware configuration'
+    hostname: 61.68.123.236
+    created: '1175682140'
+    body: '  Did you have any problems configuring a printer to your KDE distro ,or was configuring a printer easier on Gnome ?'
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'A few thoughts'
+    hostname: 68.197.66.72
+    created: '1176849539'
+    body: "I just had one question: what <i>looked</i> better to you?  I always thought KDE looked more elegant and GNOME more dull, but then again KDE was my first desktop environment (besides JVM in Puppy Linux, which looks horrible even if it is blazing fast).\r\n\r\n<cite>What can I say? You could find yourself lost in these settings dialogues for a long time: I’m not sure this is for me, I prefer to just get on with what I want to do. Other people in my family, however, have been very happy with this customisability and have spent ages getting their desktops just right.</cite>\r\n\r\nDefinitely agree.  I love that.\r\n\r\n<cite>Everything always seems to be in the way: there were very few instances while using KDE that I felt I could just get on with the task that I was doing without something else interfering. An example of this would be writing while I was connected to an IM network through Kopete—the size of the alerts was ridiculous. And, while it was nice to be able to see so much information about friends logging in, was it really necessary to flood a large part of the screen!? I’m not using a tiny monitor either (1200x800), but I guess this might be better with an even larger screen.</cite>\r\n\r\nYou can turn that off in Kopete's settings.\r\n\r\n<cite>Another example of bad default choices is a single click to open files and folders. OK, this point, like every point in an article like this, is subjective, but does nobody using KDE find it infuriating that when you try to delete a file you find yourself opening it; or trying to drag a single file and having to drag a box around it to select it? I’ve no doubt there are options where I can change this, but the default made no sense to me... and it wasn’t the only one.</cite>\r\n\r\nDefinitely agree.\r\n\r\n<cite>This point is probably the most serious about KDE in my opinion, certainly from a usability perspective. Who thought it was a good idea to have menus that had vertical text?!—I mean the one down the side in Amarok and Konqueror. I guess after you’ve used the programs for a while and know which buttons are which, it would stop being a problem. But to begin with it’s a nightmare.</cite>\r\n\r\nI don't think it's a bad idea.  It saves space.  Then again, I have all my browser buttons, my address bar, and my bookmarks in one toolbar in Firefox...\r\n\r\n--\r\nAndrew Min"

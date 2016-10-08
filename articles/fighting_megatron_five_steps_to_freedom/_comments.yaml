@@ -1,0 +1,14 @@
+-
+    name: 'Cap''n Kernel'
+    mail: mikechege@myway.com
+    subject: 'I just signed up!'
+    hostname: 196.202.194.26
+    created: '1189678751'
+    body: 'Thanks Pieter. I just signed up at noooxml.org. '
+-
+    name: 'Cap''n Kernel'
+    mail: mikechege@myway.com
+    subject: 'OOXML and proprietary lock-in'
+    hostname: 196.202.194.26
+    created: '1190110779'
+    body: "To quote from Noooxml.org (http://www.noooxml.org/user-needs):\r\n\r\n“OpenXML is designed to represent the existing corpus of documents faithfully, even if that means preserving idiosyncrasies that one might not choose given the luxury of starting from a clean slate. In the ODF design, compatibility with and preservation of existing Office documents were not goals.”\r\n\r\nObviously OOXML is just another attempt by Microsoft to preserve its hegemony. As Noooxml.org adds, “While software has to be backwards compatible ... why should a file format preserve the idiosyncrasies of former non-standardized file formats? ... The only advantage of that \"backwards compatibility\" lies in the specific internals of a single vendor application which translates into a burden for competitors.”\r\n\r\nBackwards compatibility with its proprietary Office file formats is clearly one of the main reasons why Microsoft is pushing OOXML as an alternative to ODF. Since it will be a cold day in Hell before Microsoft opens its Office file formats, the company is going to do its best to get people to adopt OOXML with or without ISO approval. However, the harder Microsoft fights to get its own way with parliaments, public administrations, companies, and the public, the more it risks alienating these groups. I would implore other readers of this article to sign up at Noooxml.org."

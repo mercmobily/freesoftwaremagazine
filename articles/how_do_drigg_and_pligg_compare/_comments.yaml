@@ -1,0 +1,84 @@
+-
+    name: AshDigg
+    mail: ''
+    subject: 'Pligg Fork'
+    hostname: 98.213.202.90
+    created: '1218997560'
+    body: "I'm the ex-lead dev for Pligg and the new lead dev for a Pligg fork... Social Web CMS http://www.socialwebcms.com/. Many, if not all, of Tony's observations are correct. At Social Web CMS we agree with Tony on many of the points and are working to fix them.\r\n\r\nOur first focus is on bug and security fixes followed by performance. There will be some new features along the way based upon community feedback. Security patches will be made available immediately. Anyone who wants to help contribute will be welcomed. The idea is to have a happy, helpful community."
+-
+    name: admin
+    mail: ''
+    subject: 'Thanks ash...!'
+    hostname: 79.47.177.252
+    created: '1219000259'
+    body: "Hi,\r\n\r\nThank you Ash :-D\r\nI look forward to see the first release of Social Web CMS!\r\n\r\nCompetition is good :-D\r\n\r\nBye,\r\n\r\nMerc."
+-
+    name: kn0thing
+    mail: ''
+    subject: 'How about reddit?'
+    hostname: 71.166.45.252
+    created: '1219015948'
+    body: 'Thanks for the thorough write-up.  Though, I''m curious to know what you think of reddit as an open source alternative?  (Or simply as a platform vis a vis user-created reddits).'
+-
+    name: SteveHo
+    mail: ''
+    subject: 'False Facts'
+    hostname: 67.159.44.138
+    created: '1219026211'
+    body: "Tony you should do more research before you write such a blatantly biased article. I monitor pligg's code updates from twitter and both changes and additions are made almost daily. \r\n\r\nThe security issues you mention could have only been caused by pligg's former lead developer Ashdigg, so that should tell you how secure this fork is going to be. \r\n\r\nAs mentioned on pligg's blog, they even had to hire an outside security expert to fix all Ashdigg's mistakes. I'm beginning to think that the true story is that AshDigg was fired from pligg.\r\n\r\n\r\n "
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'O dear...'
+    hostname: 79.37.32.159
+    created: '1219038000'
+    body: "Hi,\r\n\r\nAlright...\r\n\r\n1) You entitled your post \"false facts\" (!)\r\n\r\n2) You did NOT provide a list of false facts or corrections\r\n\r\n3) You mention that you monitor Pligg's changes. It may be changing *now*, but I know for a fact that Pigg's SVN stalled on February.\r\n\r\n4) You blame the security problems on Ash. Ash was *the* previous maintainer of Pligg. Of course it was his fault! The same applies to me: of course Drigg's bugs are my fault! However, I would find it *immensely* annoying if I quit a project, and people blamed every problem on *me*\r\n\r\n5) As far as I've _seen_ (say it with me: \"seen\"), Pligg fixed its security problems only by copying what Ash had done to his fork. Please provide a link to the code changes made by this security expert -- and please don't mention any changes which match what Ash had done a day or so earlier\r\n\r\n6) Fired...?!? You entitle your post \"False Facts\" and then start a speculation about a free software project _firing_ its maintainer and main coder? Oh dear...\r\n\r\nGuys, _facts_. Show me that Pligg's code is not a humongous mess. Show me that the modules in the \"Pligg shop\" don't break the GPL. Tell me how karma works in Pligg. Show me that Pigg's database structure is not ^%^$%$%. Show me that the post deletion happening on the forums is a huge conspiracy theory. Tell me which part of what I wrote is wrong.\r\n\r\nBye, \r\n\r\nMerc."
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: Ah!
+    hostname: 79.37.32.159
+    created: '1219038180'
+    body: "Hi,\r\n\r\nAs I told Dave, if Reddit had released their system a little earlier (say November 2007), Drigg wouldn't exist, FSDaily would be a Reddit site, and I would know Python.\r\n\r\nIn fact, I think today it's either Reddit or Drigg -- it depends on what you want to do. Drigg is immensely more flexible. Bur Reddit is definitely better if what you want to do is... well, a purely \"voting\" site ala Digg.\r\n\r\nBut it's a lot harder to configure. If a lot of people stopped in fear in front of Drigg...\r\n\r\nMerc."
+-
+    name: AshDigg
+    mail: ''
+    subject: 'Fired?'
+    hostname: 98.213.202.90
+    created: '1219083000'
+    body: "Fired? If I had been fired (which I was not) please explain why Pligg continues to take code from the SW CMS SVN.  http://socialcmsbuzz.com/yet-more-proof-of-pligg-ripping-code-straight-from-social-web-cms-projects-svn-11082008/  Also, take note that some of Pligg's SVN notes say 'Thanks Ash' or 'Thanks AshDigg'.\r\n\r\nThis is the exact type of 'spin' that people have become sick of."
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Agreed...
+    hostname: 68.197.66.72
+    created: '1219156289'
+    body: "It might be a good idea to add a section on Reddit. I do think  that one problem with Reddit is that it's very lightweight. That's good for speed, but it's also a tad low on features, especially compared to Drigg.\r\n\r\n--\r\nAndrew Min\r\nhttp://andrewmin.com/"
+-
+    name: onet
+    mail: ''
+    subject: 'support?'
+    hostname: 24.4.26.209
+    created: '1287642009'
+    body: 'is there a dedicated support site for Drigg? I can''t seem to find anything current. Most of the search results show post that are at least 2 years old. I''m having problems with a new install and need some direction. Thanks.'
+-
+    name: petsagouris
+    mail: ''
+    subject: 'There is a strong competitor'
+    hostname: 94.69.61.146
+    created: '1293705159'
+    body: "There is a strong competitor in the social cms scene. The name is HotaruCMS, I suggest you update the article and add some information about it.\r\nYou can find it here: http://hotarucms.org/"
+-
+    name: isAAc4given
+    mail: ''
+    subject: 'Which Software Has Kept Up Lately?'
+    hostname: 66.37.229.149
+    created: '1312312494'
+    body: 'The first thing that I noticed was that this article is three years old. It would be interesting to see how it might apply today.'
+-
+    name: gnrsu
+    mail: ''
+    subject: 'i have to say the Pligg is'
+    hostname: 114.246.3.42
+    created: '1344947972'
+    body: 'i have to say the Pligg is winner!  '

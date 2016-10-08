@@ -1,0 +1,42 @@
+-
+    name: rbach
+    mail: ''
+    subject: Gaim
+    hostname: 212.183.42.23
+    created: '1159893882'
+    body: "Don't forget <a href=\"http://gaim.sourceforge.net/\">Gaim</a>. It's multi-protocol and also works on Windows.\r\n"
+-
+    name: hollywoodb
+    mail: ''
+    subject: 'And for the console....'
+    hostname: 134.129.203.26
+    created: '1159904427'
+    body: "Let's not forget the console/terminal mode IRC clients, such as Irssi, BitchX, epic, my favorite: WeeChat, among others.  For more advanced IRC users some of the non-GUI IRC clients may offer features or more extensible scripting capabilities.  WeeChat for example, supports Perl, Python, Ruby, and Lua scripts, as well as aspell integration; also supports updating the client without disconnecting from servers.\r\n\r\nAnother interesting project for heavy IRC users is Bitlbee, which allows for interaction with several popular IM networks via your IRC client."
+-
+    name: TooRight
+    mail: ''
+    subject: 'Nice n easy'
+    hostname: 216.86.109.11
+    created: '1160023793'
+    body: 'Great tutorial, I hadn''t realized how simple it would be, thanks!! '
+-
+    name: ''
+    mail: ''
+    subject: 'Not enough detail for me.  I'
+    hostname: 24.5.142.187
+    created: '1161454825'
+    body: "Not enough detail for me.  I needed to add a server that wasn't listed.  For that you type  /attach and the server name.\r\n"
+-
+    name: ''
+    mail: ''
+    subject: Hydra
+    hostname: 85.133.19.2
+    created: '1162477838'
+    body: 'Yay my software is famous again! (HydraIRC)'
+-
+    name: BitShifter
+    mail: ''
+    subject: 'This is very informative.'
+    hostname: 61.246.101.111
+    created: '1163498425'
+    body: 'This is very informative. I''ve been a user of IRC since I don''t know when anymore. Chatzilla? Is this the best client out there? Easiest ito install? Thanks for the info!'

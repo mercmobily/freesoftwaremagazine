@@ -1,0 +1,49 @@
+-
+    name: bsnipes
+    mail: ''
+    subject: 'Excellent software and nice article'
+    hostname: 24.73.179.83
+    created: '1181059244'
+    body: 'I have been using fwbuilder for about a year now and it is excellent.  In my case it is on a firewall ( running Debian ) with 2 different Internet connections plus the local area network and a couple of vpn tunnels.  It is nice to be able to point, click, drag and drop to manage it.'
+-
+    name: leonpmu
+    mail: ''
+    subject: 'I sometimes use another one'
+    hostname: 196.192.66.23
+    created: '1183650845'
+    body: "It is called Guarddog, which is also a frontend to iptables, also vry solid and simple.  Even has a list of the popular apps etc, so it even understnads what ports what app normally  / do use and can also open / close said ports.\r\n\r\nI like the layout of your article, a nice clear, almost howto.. with screenies!!\r\n\r\nKeep up the good stuff..."
+-
+    name: undefined
+    mail: ''
+    subject: 'fw compiler w/ learning curve'
+    hostname: 192.91.172.36
+    created: '1183654728'
+    body: "i've used fwbuilder for several years and don't know what i would do without it, but all the home users i've recommended it to have thought it too much and seem to prefer \"prefabricated\" firewall scripts (of which there are about a dozen to choose from).\r\n\r\ni think of fwbuilder as a firewall compiler.  it uses higher level abstractions to generate iptables (or pf, ipf, ipfw, etc) primitives.  and even though i only run one platform (linux), which negates the cross-platform benefit of fwbuilder, i still appreciate fwbuilder's abstractions, much like most general computing is on x86, but we don't write our software in assembler.  fwbuilder has even added features to generate better/smarter scripts which my firewall rules have benefited from though my high level abstractions have remained virtually unchanged (LAN, internet through dial-up or broadband, wireless DMZ with OpenVPN connectivity to LAN, etc) all this time.\r\n\r\nso, from my experience (myself and others) there is a learning curve, but for anything complex fwbuilder is easier than learning and writing iptables \"assembly\".  (hopefully this article will help people get over the initial learning curve even for simple setups.)"
+-
+    name: irbis
+    mail: ''
+    subject: 'Shorewall, Firestarter and Arno''s iptables firewall'
+    hostname: 213.243.177.87
+    created: '1184015724'
+    body: 'Firewall builder may be excellent for experienced users and those having a LAN and several machines networked (in other words, in need of all the configuration options) but it is way too complicated for most home uses who just need to configure simple and restrictive firewalling for their one and only home PC. I think even Shorewall would be simpler while still offering all the configuration options ever needed even in a very complicated network (besides, Shorewall also has probably the best documentation out there). But for home users who don''t want to study Linux firewalling very much, something like Firestarter (especially for Gnome and with a GUI) or Arno''s iptables script (Debian, Ubuntu etc. configure it for you automatically if you wish) would be very good.'
+-
+    name: dmflad
+    mail: ''
+    subject: 'Thanks for the quick overview'
+    hostname: 72.94.53.148
+    created: '1184841337'
+    body: 'Have used Firestarter and tried FWBuilder but got too confused and gave up for awhile. Really want to take advantage of FWB''s writing iptables for different routers - I have to provide fire wall info for my severs to our DMZ admins and think FWB might be clearest way to do it. I am convinced the bosses of the DMZ admins have recreated Dante''s Inferno here in out network and conversations with them...well, the more I know about FWs the better off I''ll be.  The DMZ admins are great but maybe as confused as me about rule building.  Thanks Marco for the gentle reminder of FWB and a encouragement to "give it a try".'
+-
+    name: 'Anonymous visitor'
+    mail: krughanh@yahoo.com
+    subject: 'GREAT FWBuilder'
+    hostname: 80.216.79.68
+    created: '1190328867'
+    body: "thank you i have tried firestarter, then guarddog but this has blown\r\nme away.\r\nthank you for a clear and very easy to follow tutorial on FWB.\r\nyou have expanded my mind to another level and now ill go and learn \r\nmore so a big thank you again.\r\n\r\nAV\r\nPS, by the way do you write other linux tutorials ?\r\n  "
+-
+    name: 'Marco Marongiu'
+    mail: ''
+    subject: 'Re: GREAT FWBuilder'
+    hostname: 217.133.8.17
+    created: '1193351262'
+    body: "Hello Anonymous\r\n\r\nFirst of all, I would like to thank you and all other people that was so nice to compliment me for the article.\r\n\r\nSecond, sorry if I am replying  in late of one month, but for reasons I don't know it seems I didn't get any notification of your comment.\r\n\r\nAbout Linux tutorials, you can find a few here in FSM, and some older ones around the net (e.g.: one of the oldest, in Italian, can be found at http://www.pluto.it/files/journal/pj9704/sendmail.html; ten years now...).\r\n\r\nAre you looking for something in particular?\r\n\r\nCiao\r\n--Marco"

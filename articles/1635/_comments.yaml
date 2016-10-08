@@ -1,0 +1,42 @@
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'choice and free file formats'
+    hostname: 87.118.30.130
+    created: '1151146920'
+    body: "It's kind of true. On Mac OS X you have no choice, on GNU/Linux you have the problem of choice. The ones that can handle the problem of choice are better off with GNU/Linux, the other ones that just want to use a computer are probably still better off with OS X. At the moment, it's difficult to build such an integrated computer as Apple does with free software. \r\n\r\nWhat you said about always being able to switch (from KDE to Gnome, from Gentoo to Kubuntu, etc.) is not always true, is it? \r\n\r\n<cite>All of my personal data was available without interruption or messy imports and exports.</cite>\r\n\r\nYou can do that only if you on both systems can use the same applications (such as OOo, Firefox, Thunderbird). Otherwise the export/import from data (altough actually available in an open documented format, since OOo, FF, TB are all free software) gets a bit messy anyway - simply because it isn't the same file format anymore and has to be converted. \r\nThat's why I think standardized, free (as in speech) file formats are that important. The Open Document format is a good example. When all (free) word processors save their data in that same file format, you can switch everyday from OOo to Koffice to whatever you want. Then there would be the same freedom of choice for such applications as already exist for the environments/systems you described in your blog post."
+-
+    name: 'Kirk Strauser'
+    mail: ''
+    subject: 'Choice isn''t a problem'
+    hostname: 208.162.254.122
+    created: '1151167897'
+    body: "<em>The ones that can handle the problem of choice are better off with GNU/Linux, the other ones that just want to use a computer are probably still better off with OS X.</em>\r\n\r\n<p>Maybe; the key factor is whether they actually have to make those decisions.  I mentioned in an early blog that I made a Kubuntu system for my in-laws.  Although all the same choices are available to them as to me, the big ones were made for them.  Should something more appropriate for their situation come along, I can advise them to switch to it (or, more likely, get their consent to switch them to it).\r\n\r\n<em>What you said about always being able to switch (from KDE to Gnome, from Gentoo to Kubuntu, etc.) is not always true, is it?</em>\r\n\r\n<p>No, it's pretty much always true.  I'd venture to guess that most people use the same applications regardless of which desktop environment they sit down to.  And I definitely stand by the freedom to switch to other GNU/Linux distributions (or even other free Unixes) without problems, as I've done it myself many times.\r\n\r\n<em>That's why I think standardized, free (as in speech) file formats are that important. The Open Document format is a good example.</em>\r\n\r\n<p>I absolutely agree with you here.  I had to import a bunch of HTML into a KWord document last week.  I discovered that OpenOffice.org's HTML importer worked much better than KWord's, at least on this particular document, so I first imported it there, saved it, and loaded the results back into KWord.  While it was a minor hassle to have to switch between applications, at least I had the ability to do so in order to take advantage of the best features of each."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Sheesh, I never do that'
+    hostname: 68.93.224.4
+    created: '1151305594'
+    body: "I don't care how beautiful the system is, I've never had upgrades or dist changes go that smoothly.  I think I hate learning the new system. I once decided I should run at least one FreeBSD system at home (at the time I was using a virtual server on a FreeBSD for Zope hosting, so I figured it'd be good to have a comparable at home -- I'd had some problems porting my new software packages from Debian to FreeBSD).\r\n\r\nAfter a pretty short while, though I gave up and went back to Debian. I'm sure FreeBSD's \"ports\" system (or whatever they call it) is good -- maybe just as good as Debian's apt/dpkg system. But I quickly realized I just didn't want to waste the time on learning another system that basically did the same thing as the system I already knew so well.\r\n\r\nI wound up just going ahead and solving the porting problems. I suppose the software was probably better for having been tested on both Debian GNU/Linux and FreeBSD.\r\n\r\nI never have enough time for the stuff I <em>want</em> to do on the computer, so I really resent all that overhead time, and overhead on switching distributions just seems like a total waste.\r\n\r\nAnyway, I admire your bravery and skill! ;-)\r\n"
+-
+    name: 'Amti Goyal'
+    mail: ''
+    subject: 'You''re one helluva romantic geek!!'
+    hostname: 203.122.33.194
+    created: '1151324867'
+    body: "Hats off to you man!!! Brilliant is the only word that come to mind :)\r\n\r\nMy only painless and effortless installating a *nix OS was with Ubuntu and I strongly feel that it is the way to go for newbies or non tech people (I am a biologist) like me."
+-
+    name: 'Kirk Strauser'
+    mail: ''
+    subject: 'Depends on what you like to do'
+    hostname: 208.162.254.122
+    created: '1151448576'
+    body: "<em>I never have enough time for the stuff I want to do on the computer, so I really resent all that overhead time, and overhead on switching distributions just seems like a total waste.</em>\r\n\r\n<p>Conversely, I <em>like</em> messing around with system administration.  I can't really screw around with our production servers, so when I want to experiment with something new and cool my workstation bears the brunt.\r\n\r\n<p><em>Anyway, I admire your bravery and skill! ;-)</em>\r\n\r\n<p>There's a fine line between bravery and foolishness.  :-)  Any skill on my part was hard won, I assure you."
+-
+    name: 'Kirk Strauser'
+    mail: ''
+    subject: 'Hats off to you man!!!'
+    hostname: 208.162.254.122
+    created: '1151448729'
+    body: "<em>Hats off to you man!!! Brilliant is the only word that come to mind :)</em>\r\n\r\n<p>Thanks.  Do I know how to woo a woman, or what?  The amazing part is that it seems to have worked.\r\n\r\n<p><em>My only painless and effortless installating a *nix OS was with Ubuntu and I strongly feel that it is the way to go for newbies or non tech people (I am a biologist) like me.</em>\r\n\r\n<p>I chose it for my in-laws for the same reasons.  Installation wasn't a problem for them since I handled that part, but it's nicely packaged with nice menu defaults and preconfigured services (like the action popup you get when you insert a CD)."

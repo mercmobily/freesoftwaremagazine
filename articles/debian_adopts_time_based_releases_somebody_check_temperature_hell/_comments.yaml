@@ -1,0 +1,14 @@
+-
+    name: Flimm
+    mail: ''
+    subject: 'Where''s the retraction?'
+    hostname: 81.107.41.170
+    created: '1249684773'
+    body: "The title of this article is just plain wrong. [Debian is NOT switching to time-based releases](http://mdzlog.alcor.net/2009/07/29/debian-is-not-switching-to-time-based-releases/)! It's switching to time-based freezes, which is quite different.\r\n\r\nHalf way through the article, the author suddenly admits his error:\r\n> I should acknowledge that Debian has only announced time-based freezes rather than releases.\r\n\r\nHe should also have apologised for an incorrect headline, and a rant that had nothing to do with reality. Debian might adopt time-based releases in the future, but so far, this has not been announced.\r\n\r\nThank you for your time, and I hope the erroneous headline (and article) is corrected."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'not quite "suddenly" realised'
+    hostname: 212.159.106.192
+    created: '1249690220'
+    body: "Actually I knew that was Debian had planned before I wrote the article. The point I was making with the headline and article (albeit badly it seems) was that a time-based freeze followed by a release scheduled for the following summer is effectively a time-based release whichever way they dress it up. Yes it does mean there is no fixed date of release but it means I can tell you that Debian have said they will release the version after squeeze during the summer of 2012. The one after that will be during the summer of 2014 etc. No, I can't tell you a definite release date and it does allow for some flexibility but not that much and certainly not as much as previous releases.\r\n\r\nThe rant had quite a bit about reality. Switching to time-based freezes and a subsequent release fixed within the following 6-8months could endanger the stability of a Debian release and I think this is a bad thing. Perhaps I'm just a grumpy old man (certainly my wife would agree) but from conversations I have had with fellow Debian users I know I am not alone in feeling this is not a good move. For the record I don't claim or expect that Debian should change just because I say so and I will still keep using it but I just wanted to say that I thought this was not such a good idea - probably :)\r\n\r\ncheers\r\nRyan\r\n--\r\nEquitas IT Solutions - fairness, quality, freedom\r\nhttp://www.equitasit.co.uk"

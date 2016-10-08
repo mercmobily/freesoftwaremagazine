@@ -1,0 +1,21 @@
+-
+    name: 'Hugo Morales'
+    mail: ''
+    subject: 'Pure Gold.'
+    hostname: 201.243.156.111
+    created: '1150748592'
+    body: "This a great review of a good book !.\r\n\r\nIn my words: Pure Gold !, a Fourth edition of a Book wrote near of Larry Wall (PerlÃ‚Â´s Dad), published at the most open-source press (OÃ¢â‚¬â„¢Reilly), is no less that a treasure."
+-
+    name: 'Alan Berg'
+    mail: ''
+    subject: 'How I learnt Perl again'
+    hostname: 145.18.144.17
+    created: '1150794939'
+    body: 'This was the book that taught me the most about Perl.'
+-
+    name: wallace
+    mail: ''
+    subject: 'One thing'
+    hostname: 213.254.11.58
+    created: '1151327742'
+    body: "A friend of mine lent me this book for a month; I think it's written following the unix principle:\r\nWrite programs that do one thing and do it well.\r\nSo, we could transpose it with:\r\nChapters that do one thing and do it well.\r\n\r\nA very good point for learning perl."

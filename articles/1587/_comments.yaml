@@ -1,0 +1,35 @@
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'worlds and switches'
+    hostname: 87.118.30.122
+    created: '1149617186'
+    body: "Wonderful post! I know exactly what you're talking about.\r\nI mean, I couldn't live without a computer all day on and broadband. What if I want to answer a small question and Wikipedia isn't near? What if I want quickly to write some thoughts down - paper?!- what century are we living in? I'd never be able to find that piece of text again, but on my hard disk it's save and searchable. When I see people who don't look at their computer as an integrated bodypart as I do, touching the mouse as if it were alien, thinking which icon to click on, slowly typing letter for letter while looking at the keyboard - for a long time I couldn't understand how it could be so difficult to get used to something new.\r\n\r\nBut I guess it's the same thing about all changes or switches; from paper to Computer, from IE to Firefox, from Windows to GNU/Linux (and always vice versa) - a change isn't primarily something we humans like that much, even if we're convinced that it might be worth it. So we just have to tell us over and over again that we should give us a push and hop out in new waters. And probably the best trick to get used to the new stuff is not using the old one. As we GNU/Linux advocates always say: \"Just try to use GNU/Linux one month without using Windows and you'll see that you can do everything on GNU/Linux too.\" Maybe that's true for some other things too."
+-
+    name: 'Gianluca Pignalberi'
+    mail: ''
+    subject: 'Handy as an old washing machine'
+    hostname: 62.11.0.242
+    created: '1149621667'
+    body: "That's a matter of lucky. My mother no longer uses computers. She only used one when we switched to Euro and, since I programmed the application she needed under Linux (C/GTK), she learnt how to use Linux (Mandrake) as everybody learn how to use Windows.\r\nBut now, ask my mama to change her washing machine..."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'I guess I''m lucky'
+    hostname: 66.118.56.227
+    created: '1149715013'
+    body: "<p>My Mom and Dad have been \"early adopters\" of a lot of technologies, and my Mom took to Linux fairly well. Although the price for this is that I have to be her system administrator -- she doesn't even want to know the root password, even though I keep slipping her little pieces of paper with it written down.</p>\r\n\r\n<p>She has some definite frustrations though, and goes back to her old Windows machine for some things, like Excel. I showed her Gnumeric, but it has some missing features relative to Excel (which I sure never would've noticed, but my Mom's a power spreadsheet user), such as allowing cel styles to be driven by the data contained in them.  Some of the other spreadsheets do have this feature, so I may have screwed up by showing her Gnumeric instead of, say, OpenOffice Calc.</p>\r\n\r\n<p>Also, due partly to my ineptitude with her Windows 98SE, I'm not able to properly use Samba, so she still can't print or share files between the two computers. It's so frustrating -- I think I've got the server set up perfectly (that took 15 minutes), but <i>I don't know how file or printer sharing works in Windows!</i>.  After many hours of poking around in Network Neighborhood, I'm no wiser about it. And I just don't get over there often enough, so the problem has sat unsolved for months.</p>\r\n"
+-
+    name: PenguinPete
+    mail: ''
+    subject: 'What I did...'
+    hostname: 71.34.175.39
+    created: '1149738874'
+    body: "While I have been a life-long geek and a Linux user for a decade, my family lagged behind. I use Linux on my home office machine but the rest of the family kept with Windows on the general-use machine. Tired of being in-house 24/7 tech-support for Windows (\"Da-a-ad! A virus is eating the DLL files!\" \"Honey, what does illegal exception mean again?\"), first I casually installed FOSS ports of apps on the Windows machine one at a time. The curious eventually investigated. Next I slapped a second cheap hard-drive on it and installed Red Hat on the second drive, making it a dual-boot, and showed everyone how to switch back and forth. I stepped back for a couple of years and let the whole household slowly learn at their own pace. \r\n\r\nWhen I checked one night and discovered the Linux install reported continuous uptime over 6 months, I knew at last the entire household was weaned. We've been Windows-(and problem)-free ever since. Bonus points if you have young kids in the house. Kids take to Linux like ants to a picnic (gee, could the thousands of free games be part of that?), and thereafter will cheerfully lead the adults to computer salvation.\r\n\r\nThe other way is to make a gift of a live CD (Knoppix 5.0 just released, and I plan to review it as \"Linux in Silk Pajamas\". This is one *luxurious* distro!). Give it away with a casual shrug and the remark \"Play with it whenever you feel like it.\" Left to their own devices, even the stubbornest will eventually get at least curious and play with it at idle moments."
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Heh. You''re such a soft touch ...'
+    hostname: 66.118.56.217
+    created: '1149810617'
+    body: "<blockquote>\r\nTired of being in-house 24/7 tech-support for Windows (\"Da-a-ad! A virus is eating the DLL files!\" \"Honey, what does illegal exception mean again?\"), first I casually installed FOSS ports of apps on the Windows machine one at a time.\r\n</blockquote>\r\n\r\n<p><i>You softie!</i> I just tell 'em \"I don't do Windows, if you want tech support from me, run Linux -- otherwise, hey, you can dial tech support just as well as I can\".</p>\r\n\r\n<p>That usually works pretty well.</p>\r\n\r\n"

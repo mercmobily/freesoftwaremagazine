@@ -1,0 +1,25 @@
+---
+nid: '1902'
+title: 'Have we raised a generation of technology drones?'
+authors: 'Ken Leyba'
+published: '2006-11-27 1:21:39'
+tags: 'microsoft,children,education,openoffice.org'
+license: verbatim_only
+section: opinions
+listed: 'true'
+
+---
+I received an interesting note today from the school my children attend.  In order to save precious dollars, last school year, I suggested that they begin using OpenOffice and only install Microsoft Office where there are licenses.  The note I received today listed computer needs, and one of the needs listed as "Because Open Office is a lesser program compared to the Microsoft office programs, it wouldbe helpful to have either tutorials or at least manuals for these programs."  Now, I agree that I should have provided books or pointed them to online manuals.  However, since the school has been using OpenOffice for over a semester now, with minimal support requests, I incorrectly assumed everything was running fine, or at least they could google answers to any problems.  However, the point that actually amused me wasthe assumption "Because Open Office is a lesser program..."
+
+I have been in the IT field long enough to remember when we didn't live in a Microsoft centric world.  Several office applications from different vendors existed: Wordstar, Ami Pro/Word Pro, WordPerfect,Word, etc.  Everyone had their preferences, based on needs, personal preferences, support and sometimes just on having learned a particular application first.  Microsoft's domination in the office and now educational desktop seems to have led to a generation of technology drones.  How can competition exist when anything not produced by Microsoft is considered to be a lesser product?
+
+Part of my involvement with the school includes introducing free and open source software where appropriate.  Their web site, which didn't exist before, is running on Joomla and LAMP.  Over the summer Iinstalled an Ubuntu LTS server for file and print sharing; using a re-purposed desktop computer.  These are behind the scenes deployments and are transparent to users.  The school was fortunate enough toreceive a generous donation to replace the near 40 computers in the computer lab.  Due to the software they own and purchased new, the desktops are running Windows XP Professional as are the teacher and administrative computers.
+
+This isn't a tirade that free software is the answer to all technological needs, but I am of the opinion to put technology that meets your requirements in place.  I can't imagine K-8 students havingthe specific requirements for Microsoft Office.  At least I have never seen a RFP for K-8 computer labs requiring MS Office specific features.  If there are, I should be a little more concerned about our educational system.
+
+This also isn't a tirade against Microsoft.  I currently support both Windows and GNU/Linux environments.  Admittedly, I  would prefer to operate in a GNU/Linux only environment.  My preference is based on my experience with supporting both platforms, independently and in heterogeneous environments.  One of the problems I currently have is locking down desktops without a Windows 2003 server and Group Policy (a personal nightmare), or third party applications, (i.e. more money).  Since the educational applications are Windows based it would be illogical to suggest another desktop.  Desktop lock down in Gnomeor KDE would be a much simpler and cost effective solution if it weren't for the chosen applications.  I have had luck with third party applications locking down Windows desktops and sometimes the added cost is worth the uptime.
+
+In receiving this note today—and yes I was amused at the context—it made me reflect on the recent attempts to introduce options for desktop applications.  It seemed that Applixware, WordPerfect for GNU/Linux and others didn't have a chance against the Windows desktop domination.  Things are changing, GNU/Linux is a viable desktop operating system and choice has been the result.  How then does the IT community compete against this singular mindset?  This generation must have their minds opened to creating new ways of doing things, new ideas, and new technologies.  It amazes me, going beyond the information age, the limits some have put on themselves.  I worried that maybe I had become a technological elitist.  I knew alternatives were available, I figured out how to use them, and they serve the needs of my users.  How can I be an elitist though, when trying to provide a cost effective, hopefully innovative, solution to a problem?
+
+The most troubling though, is that these young teachers have possibly grown up in this technology isolation, never even considering that viable, even superior, alternatives exist.  Fortunately, my childrenhave been exposed to their options and know that there are alternatives.  They have embraced these alternatives and I look forward to a new generation that can realize these options, make choices based on their requirements and not just become another generation of technology drones.  My generation has certainly remembered the way it was, maybe we can change this current generation.
+

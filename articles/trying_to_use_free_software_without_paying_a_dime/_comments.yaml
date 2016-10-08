@@ -1,0 +1,98 @@
+-
+    name: 'Mauro Bieg'
+    mail: ''
+    subject: 'HTML/CSS gallery'
+    hostname: 85.1.42.61
+    created: '1178026826'
+    body: "i'm not sure if i got your problem right (read it quite quickly). But doesn't digiKam (or some other photo album software) allow for an export into a complete HTML/CSS gallery? i mean, it just creates a folder.. Then you could host it on your shared server without needing PHP/MySQL.\r\n\r\nI shortly used JAlbum in that way a long time ago. There are a lot of nice CSS-skins for it, however it is only free as in free beer... but probably there are similar, free, alternatives.."
+-
+    name: damianc
+    mail: damianc@redisle.com
+    subject: 'keep trying'
+    hostname: 82.69.185.99
+    created: '1178027008'
+    body: "If your spare computer is up to running XP, it'll probably be capable as a webserver, though will likely need more memory. We tried running gallery2 on a p350 with 256Mb of RAM, but it ran into swap. If you're at college, make friends with the IT dept, as in all likelihood they'll regularly decommission older machines, and may have memory spare for free, or at most beer money.\r\nThe wireless device should be fast enough to serve content at an acceptable rate.\r\nThen you need to set up port forwarding for port 80 on your router, so any web requests at your router's IP get handled by your server.\r\nIt's a good opportunity to learn a lot along the way :)\r\n\r\nD"
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'Yes, but...'
+    hostname: 68.197.66.72
+    created: '1178030180'
+    body: "You are absolutely right.  However, the problem with exporting an HTML/CSS gallery is that then you have create a homepage with the same theme and then manually link to the gallery.  Besides, with more advanced gallery software, you can do things like comment, or rate, something HTML/CSS just can't do.  However, if you didn't want to use Flickr, and needed to host it yourself, this could be another good way.\r\n\r\n--\r\nAndrew Min"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Just ditch WinXP!'
+    hostname: 84.97.181.253
+    created: '1178045842'
+    body: "A server doesn't need a GUI; once ready, running it without X loaded (you can also remove sane, cups and all) it should fit the bill.\r\nNow, you can configure your router so that ports 80/81 and 20/21 are always redirected to that machine (give it a static IP address on your subnet, HTTP/FTP access hitting your router from outside will be automatically redirected to that machine)\r\nHowever, you need a GOOD web access to handle this kind of traffic... If you have less than 256 Kbps on upstream, forget about it - especially for a site with Content.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: Annonymous
+    mail: ted.moe@gmail.com
+    subject: 'Why not?'
+    hostname: 64.131.28.15
+    created: '1178082868'
+    body: "What about actual software that you use on you computer to create the gallery and then just upload it.  If not that then maybe there are some links here they you may find helpful.\r\n\r\nhttp://graphicssoft.about.com/od/webgalleryfreepc/Web_Photo_Galleries_Windows_Freeware.htm"
+-
+    name: Lennie
+    mail: leen@wirehub.nl
+    subject: sqlite
+    hostname: 82.75.29.106
+    created: '1178089785'
+    body: "I think needs MySQL-using gallery web-applications needs to start using sqlite. I wouldn't be surprised if that's supported just find by one or 2 of these free webhosters.\r\n\r\nPossible with some tweaking, you could probably get those to work just fine with sqlite.\r\n\r\nAll you need is a technically inclined person to replace some PHP-code."
+-
+    name: 'Anonymous visitor'
+    mail: colossalsquid@mailinator.com
+    subject: '"Free software is great. But'
+    hostname: 86.143.146.233
+    created: '1178112162'
+    body: "\"Free software is great. But one of the biggest appeals of it is that it is free\"\r\n\r\nNo, not necessarily. \r\n\"Free software is a matter of liberty, not price.\"\r\n<href>http://www.gnu.org/philosophy/free-sw.html</href>\r\n\r\nOtherwise, nice strawman of an article."
+-
+    name: sikakraa
+    mail: sikakraa@hotmail.com
+    subject: 'How about only PHP?'
+    hostname: 130.232.139.248
+    created: '1178117430'
+    body: "I has similar problems a while ago when my girlfriend wanted to build pages for herself. \r\n\r\nFortunately I had 100 Mb of space hosted by a certain magazine. The problem was that the webspace had only PHP-support. I didn't even bother to search any free PHP-galleries, but wrote one simple myself. Of course it wasn't anything fancy; It just loaded picture thumbnails from a directory and the pictures from other, arranged them to a gallery and read the picture title and explanation from a separate file. The gallery's looks were defined by separate html/css -files. \r\n\r\nSimilar approach might fit to you too if you can find free php somewhere (might be easier than php+mysql)."
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: Yeah...
+    hostname: 68.197.66.72
+    created: '1178144866'
+    body: "I actually did try that approach, but I couldn't seem to find some good gallery software.  The idea of building one myself never occurred to me (probably since I don't know enough about MySQL).  Interesting...\r\n\r\n--\r\nAndrew Min"
+-
+    name: schwim
+    mail: 1206@schwim.net
+    subject: 'You could have saved a lot'
+    hostname: 4.154.36.49
+    created: '1178418613'
+    body: "You could have saved a lot of typing and simply installed Gallery 1.5.x from Menalto, which doesn't require a MySQL db.\r\n\r\nthanks,\r\njson"
+-
+    name: Ezekiel
+    mail: ez.crow@gmail.com
+    subject: 'Don''t Give Up'
+    hostname: 192.149.244.9
+    created: '1179168604'
+    body: 'I know you were looking for a free option, but for what you want, you more than likely will have to pay for it (bandwidth isn''t free). What i recommend is trying a different web host. I use http://www.nearlyfreespech.net . While not free, they are extremely cheap, you only pay for what storage and bandwidth you use. About a year ago i set up an account with them and deposited US$20. Since that time, I have registered a domain and hosted several hobby sites with them, and I still have about a 1/4 of my initial deposit with them. I''m not saying that their service is right for everyone, but you might want to check it out.'
+-
+    name: wilinux
+    mail: ''
+    subject: 'Try WordPress'
+    hostname: 61.68.123.66
+    created: '1189464609'
+    body: "You could continue to use Flickr or Yahoo! Photos to host your photos, then set up a WordPress (WP) blog. You could set up a free WP blog with wordpress.com or install WP on one of the free hosts that you outlined. Then link to your Flickr (or whatever) hosted photos. If you wanted to get more advanced there are plenty of photo gallery plugins for WP. WP will allow your visitors to comment on the photos, yourself to provide text descriptions of the photos, & there are plenty of really good looking themes...\r\nI hope this helps."
+-
+    name: 'Anonymous visitor'
+    mail: jesus_arocho@comcast.net
+    subject: 'gallery2 and databases'
+    hostname: 155.91.45.231
+    created: '1196971902'
+    body: 'gallery2 will run just fine with postgresql; I have been doing so on my home web server for the last three years.'
+-
+    name: allxflash
+    mail: ''
+    subject: 'Alternative galleries'
+    hostname: 91.76.125.190
+    created: '1211544461'
+    body: 'Another flash gallery http://flash-gallery.com'

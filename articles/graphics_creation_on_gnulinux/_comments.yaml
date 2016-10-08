@@ -1,0 +1,112 @@
+-
+    name: ''
+    mail: ''
+    subject: Krita
+    hostname: 89.212.91.146
+    created: '1165425713'
+    body: 'Don''t forget <a href="http://www.koffice.org/krita/">Krita</a>, which recently replaced GIMP on my desktop. And it also support CMYK among other nice features.'
+-
+    name: ''
+    mail: ''
+    subject: Inkscape
+    hostname: 67.174.202.239
+    created: '1165435758'
+    body: 'Inkscape adds a namespace to the the SVG format, but it is all compliant and whatnot. Most of the things you write about are being addressed in Inkscape''s upcoming release.'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Well then, as soon as it''s'
+    hostname: 84.7.125.11
+    created: '1165479997'
+    body: "Well then, as soon as it's out I'll proof-test it; you do realise though that GIMP 2.2 was already supposed to support CMYK (but didn't), so I'll wait for the actual release to say more about this.\r\nPlease note that Inkscape got kudos for actually supporting CMYK, but the trick in pre-publishing is to be able to actually calibrate the result - something that is unfortunately quite difficult to do, and pretty much in alpha stage in the Free software world.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'About Krita...'
+    hostname: 84.7.125.11
+    created: '1165482995'
+    body: "I must admit to not having tried Krita; I'm not using KDE, and installing Krita alone is a bit of a hassle; moreover, it is not available on platforms other than POSIX ones - while the GIMP is.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'RE: About Krita...'
+    hostname: 80.138.91.159
+    created: '1165929040'
+    body: "<cite> I'm not using KDE, and installing Krita alone is a bit of a hassle</cite>\r\nJust install KOffice from your package manager, it should pull everything in, shouldn't it?\r\n\r\n<cite> it is not available on platforms other than POSIX ones</cite>\r\nThat is a weird reason for not mentioning a tool in an article called \"Graphics creation on GNU/Linux\".\r\n\r\n\r\n\r\n"
+-
+    name: ''
+    mail: ''
+    subject: 'How about Xara?!'
+    hostname: 84.91.8.249
+    created: '1165937660'
+    body: "You ommited an important program: Xara!\r\n\r\nIt is now open-source and it's near release 1.0, which means it's about to match the commercial version in terms of free functionality.\r\n\r\nI read that Pantone will be available to Xara Linux in a commercial version. Why only in the commercial version? Well, you could say that Pantone is a proprietary colour technology.\r\n\r\nAnyway, just try Xara and you'll be impressed, especially by its speed and rendering quality compared to Inkskape. It also has a far much more appealing user interface then Inkscape. The Inkscape team really needs to put more work in the interface."
+-
+    name: iraysyvalo
+    mail: ''
+    subject: 'Graphics rendition'
+    hostname: 193.48.136.1
+    created: '1165942803'
+    body: "Graphics rendition would better fit what you convey, huh ?\r\n________________________\r\nLet's go party."
+-
+    name: ''
+    mail: ''
+    subject: 'xara extreme'
+    hostname: 72.173.16.77
+    created: '1165950716'
+    body: 'xara extreme is now open source for linux as well. It a svg tool like Inkscape. I like Inkscape MUCH more though. I think it may just be because I''m used to it.'
+-
+    name: ''
+    mail: ''
+    subject: graphics
+    hostname: 84.193.103.161
+    created: '1165992471'
+    body: "I agree.\r\nBUT, I'm searching for a Linux programwith the ease of use SMARTDRAW. QCAD is to complicated to use now and then. That's one of the two reasons for me for needing a dual boot system with Win XP.\r\nI need to draw navigational figures, mainly vectors and some figures like  a circle, a trangle and a figure resembling a boat (with and without sails).\r\n\r\nThe second reason is an online bridgeprogram STEPBRIDGE that does not WANT to function with WINE.\r\n\r\nAny suggestions.\r\n\r\nThanks from Belgium"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'weird reason, true...'
+    hostname: 84.7.125.11
+    created: '1166106336'
+    body: "...but you may want to transfer your in-progress image to another platform (say, a Mac) without going through a translation; thus, having the Gimp allows you to move your image from one platform to another without hassle, while it isn't so with Krita (which may very well handle Gimp images, but it isn't its native format - and we're talking precision work here).\r\nMoreover, Krita is still young in its present incarnation. It may surpass the Gimp one day, sooner than later even, but personally I don't feel comfortable using 'young' software for professional work. When it reaches version 2, I'll very much reconsider it.\r\nNow the tied-with-KDE thing: a distribution will almost always decide to freeze the version of KDE it ships, and Koffice gets the freeze too. Now if I want to update Krita, I have to update Koffice, and probably pieces of KDE along with it - which is far from practical, and leads to recompiles and tarball hell.\r\nOn the other hand, I can install an updated Gimp binary on pretty much any system (Linux, BSD, Mac, Win32...) that has a recent gtk+2 toolkit available, without need to touch the rest of the system.\r\n\r\nAs a side note, since I use Gnome, installing Krita results in over 250 Mb of packages to download just to get it to run. I get Konqueror and all the rest of kdebase with it, of that I could care less.\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'I''ve heard about Xara'
+    hostname: 84.7.125.11
+    created: '1166106615'
+    body: "It is indeed very interesting and is a professional-grade tool. Last time I looked at it though (it was a few months ago, still), it was far from complete and had some severe stability problems. It probably got better, and I'm eager to test the release 1.0 version.\r\n\r\nThe Pantone colour range needs licencing and certification, sadly any serious prepress business requires it. Now if a project called, say, Phantome, managed to get VERY close to the Pantone colour range...\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'The GIMP does support CMYK'
+    hostname: 196.192.66.15
+    created: '1166123881'
+    body: 'You just need to insall the module, for whatever reason (perhaps stability) it is not included by default, but it is available...'
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'What module?'
+    hostname: 84.7.125.11
+    created: '1166170164'
+    body: "On versions 2.2 and earlier, I installed the 'separate' plugin. It indeed works, at a very basic level though (I haven't found any other CMYK plugin for the GIMP after quite an extensive search on the Web). Version 2.3 uses a different approach though. Maybe by the time 2.4 is out, we'll have a 'real' CMYK manager in the GIMP...?\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'Qcad, SmartDraw... huh?'
+    hostname: 84.7.125.11
+    created: '1166448527'
+    body: "I'm not sure I see your point: SmartDraw is a flow chart creation software (which could be replaced with, say, Kchart and Kformula) which may have more powerful CAD drawing capabilities, which Qcad could supplement.\r\n\r\nYou need to learn how to separate WHAT you want to do from what a piece of software can do. Remember that most free softwares are modular in design (they come from the desire to scratch someone's particular itch), not monolithic like SmartDraw is, so you may install one piece of software for one particular use:\r\n- Kchart for fast or evolved charts,\r\n- Kformula for math formulas,\r\n- Qcad for CAD drawing,\r\n- The Gimp or Krita for pixel and layer based drawings,\r\n- Xara or Inkscape for vector based drawings...\r\n- OOo or Koffice for office productivity work,\r\n- Scribus for pre-print pagination.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."
+-
+    name: ''
+    mail: ''
+    subject: 'Does any seriouse print professionals using linux out there?'
+    hostname: 125.23.184.180
+    created: '1166785609'
+    body: "Hi, Meyran thanks!! for sharing your knowledge with us. I am freelance designer. I too want to shift to linux as my primary os for print desginging. I need apps for ad designing and layout designing. In short to replace my Indesign and illustrator. \r\n  For layout scribus seems to be best choice. But don't know about its output capabilties. Does it outputs in cmyk format. How is the quality of the output. Does it mactch with of Quark and Indesign. \r\n  For ad desiging and creative work i think inkscape is best. But it exports to png only which too is rgb. How will i use for print publishing. \r\n  And the most important question i have is : Is any serious print professional using linux. Or i will be the only fool doing so. Is linux cmyk capabilities still not mature enough for cmyk printing.\r\n  What apps should i use if i need to work for Print publishing.\r\n\r\nPlease suggest. Thanking you in anticipation.\r\n\r\nRegards\r\nLeo"
+-
+    name: 'Mitch Meyran'
+    mail: ''
+    subject: 'short answer'
+    hostname: 81.51.75.122
+    created: '1166889806'
+    body: "Right now, if print publishing is your bread n butter, stick with your current platform (probably MacOS). If your use of it is more incidental (one ad design every now and then, or graphically light composing) then I don't think you'd find yourself alone; at least, a lot of Web graphics designers do use Linux.\r\n\r\nCheck out this guy: Ayo of 73lab (www.73lab.com), for successful ad/print/Web design under Linux.\r\n\r\nUnder Linux, I know that earlier versions of Photoshop actually work quite well under Crossover Office. Dunno about more recent versions though.\r\nColor (including CMYK) profiles are supported by Linux and X. I know that personally I managed to use Adobe's ICC profiles under several apps. X can be calibrated for R, G and B channels and is provided with a basic calibration tool (but it is always better to calibrate your screen first).\r\nScribus outputs PostScript format; in short, same as AdobeAcrobat, and it does support CMYK (what it doesn't support is converting RGB to CMYK). Its quality is quoted as being on par with Acrobat's.\r\nInkscape stores colors as RGB, but gives equivalence in CMYK colors. Presumably, version 0.5 should support embedded color profiles (and CMYK too). It outputs SVG, but exports PNG.\r\nPresumably, you're better off creating your artwork under Inkscape, import the SVG under the Gimp - which will then do a vector rendering to bitmap - and calibrate it using the same source and destination profiles, for better consistency.\r\n\r\n---\r\nA computer is like air conditioning: it becomes useless when you open windows."

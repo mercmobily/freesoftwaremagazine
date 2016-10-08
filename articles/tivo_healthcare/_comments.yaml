@@ -1,0 +1,28 @@
+-
+    name: ''
+    mail: ''
+    subject: 'Movies, music, books, etc. are important'
+    hostname: 81.199.13.90
+    created: '1168612882'
+    body: "<cite>\"The media companies have a legitimate interest in not having their copyright illegally reproduced. If we imagine a DRM system that merely protects these legitimate interests what’s the problem?\"</cite>\r\n\r\nI assume that when it is said \"their copyright illegally reproduced\" the author means \"works under copyright copied and distributed\". If so, I disagree that copyright holders have a \"legitimate\" interest in stopping this from happening. I think a fair balance is to grant some restrictions but the freedom to share (i.e. copy but not sell) copyrighted works is essential. No, it is not medical data but I would not underestimate the importance of allowing cultural works to flow freely in cyberspace.\r\n\r\nI think the author does a good job pointing out that while proprietary software licensing is not slavery, it is still a moral issue. If one had to choose extremes (i.e. slavery versus 'meaningless'), it is clear we'd be better off making the analogy with slavery rather than ignoring the issue altogether.\r\n\r\nPeter Rock\r\n(http://gnuosphere.blogspot.com)"
+-
+    name: 'Fred Trotter'
+    mail: ''
+    subject: 'illegal copies'
+    hostname: 206.180.154.149
+    created: '1168825747'
+    body: "I agree with you that it is not actually in copyright holders economic or practical interest to restrict copying and sharing of media. Media companies have the \"legal\" interest not to have things shared, it is another question entirely if they have a \"legitimate\" interest. \r\n\r\nMy copyrighted (GPL released) software has been illegally copied into other software and it was my right to NOT have copyright copied illegally that allowed me to enforce the GPL in that case. Copyright violation is also a threat to the \"keep-it-free\" GPL software. So if you mean \"illegitimate\" = unwise, I agree, if you mean that copyright should work differently, I disagree. \r\n\r\nI also agree, in part, with your points about slavery. However, if you are going to make those kinds of references then I think they need to be backed up with further argument. At the outset I do not see how using a Microsoft product compares in degree to being owned by someone else. You have to make explicit and clear that you are arguing that they are similar in <strong>kind</strong>. For instance you can say \"software freedom does not compare to slavery, however it is a question of scale, not type. The two issues are not different like apples to oranges. Instead the two issues are different like a glass of water and the ocean. Its the same kind of thing, just vastly more or less of it.\" \r\n\r\nThat kind of argument, I find compelling. \r\n\r\nFred <a href='http://www.fredtrotter.com'>Trotter</a>\r\n\r\n\r\n \r\n "
+-
+    name: ''
+    mail: ''
+    subject: 'From Healthcare Perspective'
+    hostname: 70.135.203.100
+    created: '1168945484'
+    body: "I agree whole heartedly with Trotter.  I work in the medical field; in-fact, in the technology realm of health care.  I have spent a good part of the last two years researching and assessing various Practice Management / Electronic Medical Records applications for our company.  \r\n\r\nWhy?  Because the last system that we tried, failed to live up to what we were sold.  When we refused to make payments to the vendor until they fixed the areas we considered deficient, they tried to lock us out of our patient data.  Luckily, I expected that kind of reaction from them and had exported all of our data out of their system.  \r\n\r\nI have been watching the activities related to the VA's release of their VistA application into the public domain, and then the crap that has happened with it.  It had great potential, but now looks like TiVoization is happening.  Very unfortunate.  This could have really helped the small independent health care providers."
+-
+    name: ''
+    mail: ''
+    subject: 'OpenSource HealthCare Summit at SCALE 5x'
+    hostname: 68.183.0.181
+    created: '1169348112'
+    body: 'The Southern California Linux Expo is going to be hosting a summit dedicated to how open source can benefit the healthcare industry.  One of the major companies behind the effort to get open source into this industry, ClearHealth is co-sponsoring the event.  <a href="http://www.socallinuxexpo.org/healthcare07/">More information</a>'

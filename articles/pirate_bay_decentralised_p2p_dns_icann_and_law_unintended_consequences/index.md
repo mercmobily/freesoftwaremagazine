@@ -1,0 +1,72 @@
+---
+nid: '3485'
+title: 'Pirate Bay, Decentralised P2P-DNS, ICANN and the law of Unintended Consequences'
+authors: 'Gary Richmond'
+published: '2011-01-27 5:20:02'
+tags: 'internet,twitter,dns,icann,nat'
+license: verbatim_only
+section: opinions
+listed: 'true'
+
+---
+I've always been a great fan of the law of unintended consequences. It takes you places. Unexpected places. Sometimes good, sometimes bad but never a dull moment. The recent kerfuffle over Pirate Bay is too well known to require detailed recounting here. What is really interesting though is where it might just eventually take us in terms of internet freedom. This article describes the one fallout of the legal judgements against Pirate Bay and how its response may unintentionally help to protect and promote internet freedoms.
+
+# A thumbnail in a nutshell
+
+=ZOOM=Of course, we've been here before with Napster=
+
+First, a _very_ brief reprise of the Pirate Bay saga. [Pirate Bay](http://thepiratebay.org/) make all kinds of files, especially of the multimedia type, that is films and music, available via BitTorrent which utlilzes [P2P file sharing protocols](http://en.wikipedia.org/wiki/Peer_to_peer). So far, so fair but the content of Pirate Bay (hint: I think the clue might be in the name) has been contentious and suffice it to say that media companies aren't it biggest fans. In fact, they've been dragging Pirate Bay all over Hell's creation--legally speaking. It has been under legal assault as far back as 2006 and has been both a plaintiff and a defendant in a series of legal cases. [As recently as April 2009 it was found guilty of assisting copyright infringement](http://en.wikipedia.org/wiki/The_Pirate_Bay_trial). They appealed and the prison sentence was reduced but the fine increased. Of course, we've been here before with Napster. That's the story so far.
+
+# The Devil's in the detail
+
+What I'm really interested in here is not the legal details of the trial or a philosophical debate about file sharing but about Pirate Bay's proposed _technical_ response and whether this will be forked to other areas of the internet and used to provide another layer of much needed freedom to escape the potentially abusive restrictions of the internet's governing hierarchies. As for DNS, that's a big, big topic. Whole books have been devoted to it and frankly, other than the basics, it's beyond my skill set. I leave that one as an exercise to the reader.
+
+To put it in context: to access the internet you need an ISP to connect to the backbone and when you type in a URL in your browser's location/address bar a request is sent to your ISP, where its Domain Name Server (usually two, one for redundancy) will resolve it to an IP address. This makes life easy as you don't need to remember a series of numbers. (For example, open a terminal and ping, say, the BBC website and it tells you that the static IP address is 212.58.244.68. Copy and paste that into your browser and, hey presto, the BBC site pops up. That's why the technically illiterate Judge who banned Wikileaks web address was dead in the water because it was easy to publish and find the numerical IP address and access the site. (And of course, there is absolutely nothing to stop you setting up your own DNS on a local machine. It should speed up things, cut another link out of the loop and give you some extra privacy from the prying eyes of your ISP.) 
+
+All Domain Name Servers rely, ultimately, on a hierarchy which terminates in [ICANN](http://en.wikipedia.org/wiki/Icann), the Internet Corporation for Assigned Names and Numbers. This non-profit body regualtes and manages IP address spaces. The most important aspect of ICANN from the point of view of this article is that it is responsible for the management of Top Level Domain Name space which includes the operation of [root nameservers](http://en.wikipedia.org/wiki/Root_nameserver). There are thirteen geographically disparate root nameservers. Originally, ten were in the USA and the other three were in Amsterdam, Tokyo and Stockholm. Many are now replicated (for hardware and software failure) via [anycast](http://en.wikipedia.org/wiki/Anycast). And then there are much less used [Alternative DNS roots](http://en.wikipedia.org/wiki/Alternative_DNS_root) which co-exist with ICANN's root servers.
+
+=ZOOM=Clearly, whoever controls ICANN has a foot on the throat of the internet=
+
+Clearly, whoever controls ICANN has a foot on the throat of the internet and increasingly that foot is attached to the body politic of the USA (and this is _not_ an anti-Amercian rant. The EU, the nascent crypto-fascist European superstate, utterly undemocratic, utterly unaccountable and utterly financially corrupt and heading for bankruptcy complains about American control and dominance of these hierarchies; why? Not because it is a benign, disinterested guardian of freedom, but because it would dearly love to get its totalitarian hands on the levers and exercise even more control). Suggestions that control should be ceded to a trans-national body like the UN would be the corrupt EU writ large. Bad idea. The fact is that VeriSign has ultimate responsibility for the Internet's root zone file and the requests to make changes from bodies like ICANN need to be approved by the Department of Commerce who instruct VeriSign to effect any changes.  
+
+Yes, it's true, the US Department of Commerce [_has_ relinquished some control of ICANN](http://www.icann.org/en/announcements/announcement-30sep09-en.htm#announcement) but transferring some control from the state to the private sector may simply be going from the proverbial frying pan into the fire. The Devil is in the detail and the detail reveals that despite easing the grip, the US Government (and many other governments around the world) is still exercising control. As recently as this month (November) the American authorities [took down no less than eighty domains](http://legaltimes.typepad.com/files/operation-ios---domain-names-seized.pdf), part of their ongoing In Our Sites operation (and that's even before the  full passing of the [Combating Online Infringement and Counterfeits Act (COICA)](http://en.wikipedia.org/wiki/Combating_Online_Infringement_and_Counterfeits_Act)). 
+
+# Why de-centralise?
+
+It may appear from what I have said that ICANN is decentralised but only in the sense that is has delegated some degree of function but that is not what it should mean. That is why Peter Sunde, founder of Flattr and formerly spokesman for Pirate Bay, has proposed a properly and fully decentralised P2P-DNS which is not so much free from ICANN as free from the ability of governments and corporations to influence and control it--although the [project wiki](http://dot-p2p.org/index.php?title=Main_Page#Introduction) proclaims that "_P2P-DNS is a community project that will free internet users from imperial control of DNS by ICANN_". Sunde announced his intention on Twitter:
+
+>Hello all #isp of the world. We're going to add a new competing root-server since we're tired of #ICANN. Please contact me to help.
+
+You feel as if he was about to add that it wouldn't be big or professional, just a hobby. Will we, I wonder, ever look back on that as his Linus Torvalds moment? At any rate, he elaborated in another tweet:
+
+>And, core of the DNS problem is not ICANN. It's that governments and companies can control ICANN (i.e. it's centralised)
+
+(Announcing this on Twitter may prove to be ironic as it seems to have become a human form of DNS in the battle over Wikileaks, unless accusations of censoring Wikileaks as a trending topic prove correct.) As a first stage, this will involve the creation of an alternative root DNS server and building a truly distributed DNS system on top of it.  To enable it, the end user will only have to install a piece of software on their machine based on the BitTorrent protocol. Well, if nothing else, the proposal doesn't lack ambition. Well, that's the theory but it's early days. To date, only proof-of-concept-code has been released. 
+
+=ZOOM=Routers are the traffic cops of the internet and without them, there would be grid lock=
+
+A quick look at the list of the eighty domains taken down by ICE (of Homeland Security) doesn't exactly read like a charter of freedom but that's not really the point (and it's worth pointing out that many of the domains taken down have reappeared under slightly different names.) It's a rare government (even a democratic one) that is in the business of reducing its power. Have you ever seen or heard of a government or state legislating itself out of existence? It may often start with taking down counterfeiting sites and other criminal activity but mission creep extends the reach to anything the state deems unacceptable. This happens in notional democracies, so what happens in dictatorships of all ideological and religious hues? The history books tell us. 
+
+Besides, a decentralised root DNS server built on a P2P-DNS is like peeling back the layers of an infinite onion. If that existed and worked, what then? A _coup de'tat_ of the internet's routers? Routers are the traffic cops of the internet and without them, there would be grid lock. Nothing would be going anywhere. There's no point in an alternative DNS system if the routers can be nobbled (I don't know enough to say if that is actually possible) but technology has a way of always being one step ahead of the legal curve. Some have anticipated that too.
+
+# Is DNS control the cyber mark of the beast?
+
+You might not be impressed by the 1970s retro appearance but the people at the [Netsukuku website](http://netsukuku.freaknet.org/) want to go one step further: no servers, no ISPs, and no physical routers (because the node is the router), all running on GNU/Linux. In effect,a parallel internet. What's more, it is potentially very democratic, as access to this internet requires no fees as ISPs would be redundant. However, Netsukuku joins Freenet and many others who have tried to go down the same route and so far the results have been sparse, to say the least. A brief look at the posting dates on Netsukuku indicates that progress has been glacial, to the point of being dormant.  
+
+For people in poorer countries the Netsukuku strategy would be immensely empowering. The problem, as with social networking and operating systems, is that traction and inertia are well established and the average user will likely not budge and isn't prepared to jump through hoops for freedom and privacy. It's a different matter when you start to consider the position of dissidents in China, Iran and many countries in Africa and South America. There, it's not a geek option, it would be a pressing matter. We saw, for example, how Twitter played a pivotal role in getting out information during the aftermath of the rigged Iranian elections but then Twitter is a well established global brand. It's easy to use (as is Identi.ca). For the large scale adoption of alternatives to take place would require technical mass failure on the part of Twitter or the ability of national governments to successfully block it. 
+
+# Behind the curve. Again.
+
+It also occurs to me that if the P2P-DNS proposal became a reality it might only just move the goalposts (because at the moment when we hear about those seized domains it means that the authorities have the DNS entry amended so that anyone trying to access it gets re-directed to a site explaining what has happened). If P2P-DNS became a reality and bypassed this redirect, then a game of cat and mouse might ensue and the relevant bodies could actually physically take down the domains, i.e., confiscate the actual servers. Not even P2P-DNS can't get past that. A bad situation could be made worse.
+
+On a slightly more technical note two more issues arise: latency and reconfiguring routers and firewalls. Using BitTorrent means having to tolerate a higher degree of latency that you would experience with your ISP. Also, a DSL router has to be configured to permit P2P DNS and it is limited by NAT (Network Address Translation), the poor man's IPV6. On the plus side I wonder if P2P-DNS would do away with Verisign?
+
+=ZOOM=the argument that a decentralised P2P-DNS would be an Aladdin's cave for the sexually and politically unsavoury really doesn't stand up to much scrutiny. The internet already is=
+
+Regardless of the technical issues and the inertia preventing uptake, P2P-DNS presents other problems too. While I support anything that keeps internet freedom out of the clutches of the government-corporate complex, I would be concerned if the creation a parallel DNS system provided opportunities for less civically-minded people like terrorists and the inevitable paedophiles to cloak their activities, but then that has always been the faustian pact for users, providers and governments: freedom or security. They tell you that you can't have both. Of course a kind parallel internet (sometimes called darknet) already exists in the form of [Freenet](http://freenetproject.org/) and [i2p](http://www.i2p2.de/). They do not circumvent the problems thrown up by political and commercial leverage on ICANN but they do allow people to cloak their activities. So, the argument that a decentralised P2P-DNS would be an Aladdin's cave for the sexually and politically unsavoury really doesn't stand up to much scrutiny. 
+
+=ZOOM=Freedom won't look after itself. Freedom without law is the wild west but Law without freedom is tyranny=
+
+We should not be distracted by attempts of governments to scare people into sacrificing freedom for the Chimera of security but nor should we believe that it will be easy to construct a parallel darknet to circumvent their predations. It is technically feasible but getting traction and getting mass adoption of an alternative DNS is the real obstacle. If the history of GNU/Linux and free and open source alternatives to Twitter, MS Office and the like is anything to go by it will be a near impossible effort. But that doesn't mean it shouldn't be tried. 
+
+Freedom won't look after itself. Freedom without law is the wild west but Law without freedom is tyranny. If you don't believe me just look at the huge firestorm gathering over Wikileaks as I write. Never was the case for a truly de-centralised internet more pressing. It's Martin Marprelate all over again.

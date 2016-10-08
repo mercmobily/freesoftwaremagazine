@@ -1,0 +1,42 @@
+-
+    name: fkereki
+    mail: ''
+    subject: 'GWT '
+    hostname: 190.135.20.144
+    created: '1217078146'
+    body: 'You should also consider GWT (Google Web Toolkit) which allows you to code in Java, but then compiles it to Javascript.'
+-
+    name: xlinuks
+    mail: ''
+    subject: 'Barely trustworthy'
+    hostname: 86.106.250.125
+    created: '1217091851'
+    body: "Hi, do you really believe in what you stated?\r\n\r\n\"Programming has fully shifted online\" - Gee are you serious?? There's no online application that I'm using, Gimp, OpenOffice, NetBeans, Video/Audio players to listen/watch media, games, other stuff. Nothing of it is online, nothing.\r\nIf you said like \"programming is getting some traction online\" I would give you some credit there.\r\n\r\n\"I believe one of the reasons Flash/Flex never made it was because...\" - It didn't make it? I hardly come across a site that doesn't use flash and you're saying it didn't make it? It allows you to easily design rich _and_ beautiful web sites with much less effort and better performance and compatibility between browsers than using JavaScript+Ajax. You have to use \"widgets\" from Google or whatever if you plan to make anything nearly useful with the latter.\r\n\r\nI think you should come down to earth and realize that \"online applications\" are used less than 1%. Google docs? How many % use it? Like 1% maybe less, in all companies I've been and all friends I know they're all using either MS Office or OpenOffice.\r\n\r\nI think your bias is worse than Ballmer's one.\r\n\r\nWhat _serious_ work have you done with JavaScript/Ajax? Can I have a look? I bet you haven't."
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: 'Let''s see'
+    hostname: 87.6.176.18
+    created: '1217163660'
+    body: "Hi,\r\n\r\nFirst of all, the article isn't wondering whether there *are* stand-alone programs. Reading the title, you will realise that I question something a little different. Of course the market right now is dominated by stand-alone applications. However, where is the development effort going *today*?\r\n\r\nHowever, reading your post, I realise that we must live in two different worlds - and that's fine too.\r\n\r\nI live in a world where most programming jobs are for online systems (PHP/ASP/whatever and Ajax/Flash/whatever). Have a look at online recruitment agencies.\r\n\r\nLuckily, in my world very few sites use Flash -- the only real importance is for video playback, a nice niche that Flash has taken over. However, in your world Flash website are \"beautiful\" -- never mind accessibility, search engine indexing, and non-functional annoying (\"beautiful\"?) interfaces. In my world, Flash sites are an eye sore. A lot of people agree with me. Plus, you can only create them with proprietary programs.\r\nYay. Way to go.\r\n\r\nApplications that have already been developed (OpenOffice, etc.) will probably stay, because \"they are there\" and because some applications are the computer's domain (like video/music players etc.). \r\n\r\nBut the great stuff is happening online. And... yes, I do know Javascript/Ajax. Do you? Have you heard of the vast improvements in terms of speed, in Firefox and Safari? Have you heard of YUI, and full widget libraries which are simply staggering?\r\n\r\nWho knows. Maybe in 5 years the world will have tons of beautiful Flash web sites and applications, and AJAX will disappear. And big monolithic applications will kill all the amazing AJAX-based advancements.\r\n\r\nBut no, I don't think so. Not in my world.\r\n\r\nMerc.\r\n\r\n"
+-
+    name: 'Edmundo Carmona'
+    mail: ''
+    subject: 'I thought the same thing'
+    hostname: 190.146.238.239
+    created: '1217188265'
+    body: "I mean... I didn't think of all the things you wrote about... but I did ask myself \"What the hell is he talking about? Who (that's not a M$ partner or interested party) is going to develop something for a single (proprietary) [b]desktop[/b] architecture these days?\" Absolutely nuts. I guess we have many more years of Steve's wackiness to come (thankfully).\r\n\r\nGreat article, Tony! Keep it up!"
+-
+    name: AndyM103
+    mail: ''
+    subject: 'Somewhat Overstated'
+    hostname: 81.153.128.24
+    created: '1217193895'
+    body: "Hi,\r\nThank you for a good article, but there are some points I'd like to quibble.  Firstly, desktop development is continuing fine as far as I know, admittedly Java was slow to start with but it is in use for some desktop development and tools such as Qt (particularly with Python) do allow fairly easy cross-platform development, we're using exactly that base for one of our projects at the moment.\r\n\r\nAs for web-based-computing what does it hold for the free software world?  As the code is no longer running on my machine do I have a right to change it?  I don't think I've seen a website yet that's based upon an open codebase that anyone can change (perhaps Mugshot is?).  I've seen sites that offer the code for download, but then one has to run the code on one's own machine, which is hardly useful if it's designed to allow interaction with other users!\r\n\r\nDespite the vast number of benefits offered by these developments, there are also other considerations, and I'd be surprised if we ever reached a point in which the desktop were entirely replaced, I may be wrong.\r\n\r\nAnyway, thanks,\r\nAndrew"
+-
+    name: 'Tony Mobily'
+    mail: ''
+    subject: Thanks!
+    hostname: 79.25.34.24
+    created: '1217195340'
+    body: "Hi,\r\n\r\nThank you for the great comment. I agree, Desktop development is continuing fine, and will continue fine for many years. However, I don't think it will be *as* relevant over time (heck, people still program in COBOL :-D ).\r\n\r\nAlso, SOME things will always belong to the \"desktop computing\" part of the deal.\r\n\r\nYour comment on the implication to free software are really quite important. I am writing an article exactly on this subject. In a way, it looks to me like software a a whole is losing relevance, and \"data\" -- the cloud -- is becoming king. Which is sad, if you ask me -- especially since the \"cloud\" doesn't yet use real open standard (for example, try opening a Google Document file from your Zoho office suite...).\r\n\r\nThank you!\r\n\r\nMerc.\r\n\r\n"

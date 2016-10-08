@@ -1,0 +1,308 @@
+-
+    name: diego1116
+    mail: diego1116.deb@gmail.com
+    subject: 'Be careful about unstable repositories'
+    hostname: 201.89.166.4
+    created: '1180993042'
+    body: "Telling new users to add any \"unstable\" repository (even just contrib and non-free sections) without teaching them the differences of stable/testing/unstable and how to set the default release is very dangerous.\r\n\r\nMixing Debian releases is quite tricky and doing it without proper knowledge will lead to system breakage very soon.\r\n\r\nFor a better understanding of this issue, visit the howto section of Debian Forums: http://forums.debian.net/viewforum.php?f=16.\r\n\r\nBesides that, your review is very positive and I liked it a lot.\r\n"
+-
+    name: mohamed_hagag
+    mail: ''
+    subject: 'i believe that debian is the'
+    hostname: 84.235.19.97
+    created: '1181031449'
+    body: "i believe that debian is the best specially if you don't have a fast internet connection because you can download the 3 DVDs or 20 CDs and use them, i'm a gentoo user for 4 yrs now & i have a distro. based on it & localized/customized to server the arabic users needs, and i like debian very much & i'm using it in the production time critical projects & work.\r\n\r\nthanx for your nice article you really said what i want to say ubuntu & debian are the same thing."
+-
+    name: Mjama
+    mail: mj@mjama.com
+    subject: 'I quite agree with you, I'
+    hostname: 87.74.42.154
+    created: '1181035047'
+    body: 'I quite agree with you, I just don''t understand why people just got a hardon with the whole ubuntu thing when Debian is there perfectly capable of doing everything else'
+-
+    name: 'Kartik B. Mistry'
+    mail: kartik.mistry@gmail.com
+    subject: 'Don''t mix releases'
+    hostname: 202.141.96.29
+    created: '1181039276'
+    body: "Don't try to mix releases!! Atleast for new users. apt-pinning is good way but should be avoided by newbies..\r\n\r\nElse ... :)"
+-
+    name: Laika
+    mail: laika-the-cosmonaut@hotmail.com
+    subject: 'Freedom makes debian special'
+    hostname: 193.166.94.185
+    created: '1181079152'
+    body: ">>contrib and non-free. These are repositories that are not included in the general release due to licensing restrictions.>>\r\n\r\nThose repositories are not included because debian aims to be an operating system that is made entirely of free software. I wish more reviewers acknowledged and respected this goal even if they don't personally agree with it. There are just a handful of distros out there that share this goal of 100% software freedom."
+-
+    name: pvdg
+    mail: ''
+    subject: 'Don''t recommend non-free'
+    hostname: 80.172.42.52
+    created: '1181088631'
+    body: "While it is understandable that a review should mention the possibility of installing proprietary sofware (the non-free repository, in Debian's case, but also Automatix), I think it is not a good idea to recommend its installation, at least in the pages of FSM!\r\n\r\n"
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'On digg'
+    hostname: 165.98.157.37
+    created: '1181098480'
+    body: '<a href="http://www.digg.com/linux_unix/Debian_as_a_desktop_system">Digg it</a>'
+-
+    name: 'Morten Juhl Johansen'
+    mail: ''
+    subject: 'Oh, dear. Non-free again'
+    hostname: 131.165.153.107
+    created: '1181121566'
+    body: "I am wondering how that hideous \"This will make an excellent desktop system if only you grease it with some proprietary crap\" article tendency made its way into Free Software Magazine?\r\nIn my opinion, the article is automatically piped to /dev/null with statements like these. It is like saying \"This car is really fast! Provided you put a Ferrari engine into it, of course\". Not that I would wish to compare proprietary software to a Ferrari, it is simply to note that reviewing a system and assessing its merits on non-native components hardly makes sense."
+-
+    name: Stephan
+    mail: stephans@visi.com
+    subject: 'Don''t recommend non-free???'
+    hostname: 198.22.123.107
+    created: '1181138714'
+    body: "Why the heck not??? Linux is problematic enough in relation to hardware, without crippling it by not using the vendor written drivers... We live in mixed world, with many colors...  an ecosystem of IP, closed source, open source, free ware... all of it. It is a practical approach to use all of it to achieve whatever it is that you want to achieve.\r\n\r\n"
+-
+    name: Fritz
+    mail: fgibbs@acm.org
+    subject: Debian
+    hostname: 75.69.62.122
+    created: '1181159067'
+    body: "Just broke from Sarge (3.1) and graduated to Etch (4.0). This is a great distribution and even though some of the older apps have disappeared to make room for new ones, it still has the Debian flavor many of us appreciate. Even if the apps aren't present, downloading and installing is the same as it has always been. \r\n\r\nI have it on a desktop IBM NetVista and now on my new Toshiba Satellite Centrino Duo laptop. Where 3.1 didn't care for the processor, screen size, or network pcmcia functions, everything works well out of the box with the exception of changes for personal preferences. \r\n\r\nThe Debian Team has definitely made this release simple for user's of all skills. I say this as a Debian follower with at least eight years  experience. Great job to all involved in the development process!"
+-
+    name: 'Yousef Ourabi'
+    mail: ''
+    subject: 'Religion vs Pragmatism'
+    hostname: 66.92.17.27
+    created: '1181160629'
+    body: "There will always be tension between religious and pragmatic camps.  I'm strongly on the pragmatic side, it sounds like you are on the other side of the fence.\r\n\r\nWhat I'm understanding is you would rather have desktop users use Windows because they can't view the media they have become accustomed to -- than have an automated package that installs some non-free software....?\r\n\r\nI'd rather have one more Debian desktop user (newbie, to intermediate) happy with their experience, and not go back to windows in disgust after a week because they can't watch the DVD's they are used to watching, or the Flash Video's on youtube.\r\n\r\nThanks for your feedback Morten, I'll keep it in mind."
+-
+    name: Laika
+    mail: laika-the-cosmonaut@hotmail.com
+    subject: 'RE: Religion vs Pragmatism'
+    hostname: 193.166.94.185
+    created: '1181179299'
+    body: "I tend to disagree with these terms that describe the supporters of proprietary software for Linux as reasonable \"pragmatists\" while the supporters of free software are labeled as mentally disturbed \"religious fanatics\".\r\n\r\nThere's also another way of looking at the issue. The logic of the marketplace insists that Linux distros should offer various \"value-added\" proprietary components and proprietary applications if they want to successfully compete with the other distros for popularity. But the same logic also suggests that when the other distros also add proprietary bits, your distro should add even *more* proprietary stuff to remain competitive. This approach effectively creates an evil circle where all proprietary software is considered good while all free software is considered bad.\r\n\r\nBut free software has several advantages when compared to proprietary software. Some say that free software is a very effective way to develop software because the developers get a lot of feedback from users and they also receive improvement patches made by other software developers. And the developers of Linux distros can fix \"bugs\" in free software but their hands are tied when there are problems in proprietary software because they have no access to the source code. And if some free software developers suddenly decide to stop developing their programs, other developers can continue developing those programs because the source code is available. This is not possible with proprietary software.\r\n\r\nIn other words, free software offers users many long-term benefits that proprietary software lacks. Yes, I agree that sometimes proprietary software can offer some short-term convenience that is not yet available in the similar free software programs. But is choosing shot-term convenience instead of long-term benefits really pragmatism? Or is it just shortsightedness and opportunism? Personally, I tend to think that valuing long-term benefits over shot-term convenience should actually be called pragmatism.\r\n\r\nYou mention the flash videos on youtube as an example where proprietary software works better than free software. Happily, there's good news on that front: the next version of gnash (a free software replacement of the proprietary flash player) should support youtube. And sun's java is planned to be open-sourced. And when Linux becomes more popular as a desktop OS, there will be more pressure for hardware manufacturers to provide open source drivers -- at least, there would be if Linux users prefer the manufacturers that provide free software drivers whenever they buy new hardware.\r\n\r\nAs a conclusion, I'd say that supporting free software is not religious zealotry -- it's very rational pragmatism!"
+-
+    name: 'Anonymous visitor'
+    mail: g_bulla@hotmail.com
+    subject: '"And when Linux becomes more'
+    hostname: 216.237.226.228
+    created: '1181222433'
+    body: "\"And when Linux becomes more popular as a desktop OS, there will be more pressure for hardware manufacturers to provide open source drivers -- at least, there would be if Linux users prefer the manufacturers that provide free software drivers whenever they buy new hardware.\"\r\n\r\nFor me this begs the question how is Linux to become more popular as a desktop OS?  By providing users with a way to still watch DVD's, listen to mp3's, use 3D graphics cards (gaming, yes alot of cool games exist for Linux) or by providing only open-source/free software, which does not necessarily provide these capabilities?\r\n\r\nI started out as a Windows guy and made the jump over to Linux and I love it!  I believe Linux is better than Windows.  But I also have the patience to keep working with Linux when I run into a challenge getting it to do what I want.  I don't think the average desktop user while go for that.  How do you persuade a person using Windows to switch to Linux when they are used to watching DVD's, listening to mp3 tracks, gaming, etc with no problems on Windows, but have to sacrifice some of those capabilities buy using Linux with no proprietary/non-free software?"
+-
+    name: 'Anonymous visitor'
+    mail: me@privacy.org
+    subject: 'One Reason I Returned to Debian'
+    hostname: 206.135.43.38
+    created: '1181248023'
+    body: "One of the reasons I came back to Debian was the disk encryption option that was available from the installer. It even encrypts the root partition (although not /boot).\r\n\r\nEspecially as the owner of a laptop, I'm conscious of data loss through theft.\r\n\r\nWith other distros, I had to install a temporary system, use it to encrypt the future root partition, copy over the temporary system to the future root partition, and make configuration changes to boot from the newly encrypted root partition.\r\n\r\nThen the distro owners would make changes that made my system not boot. Sigh!"
+-
+    name: 'Anonymous visitor'
+    mail: miksuh@saunalahti.fi
+    subject: 'Re: Be careful about unstable repositories'
+    hostname: 91.152.173.58
+    created: '1181344551'
+    body: "\"Telling new users to add any \"unstable\" repository (even just contrib and non-free sections)\"\r\n\r\nI'm not sure if you mean something like this:\r\ndeb http://ftp.fi.debian.org/debian/ etch main non-free contrib\r\n\r\nThose contrib and non-free sections are not any more unstable than main section. Those are perfectly stable and tested. There is not any problem using those."
+-
+    name: 'Anders Jackson'
+    mail: ''
+    subject: 'Bottom page two and top page'
+    hostname: 91.95.224.174
+    created: '1181371659'
+    body: "Bottom page two and top page three recommends (or at least not recommends against) using unstable for installing Blender, which is not needed.\r\n\r\nIf to recommend and use contrib and non-free is another issue.  Could at least have a short introduction (two, three sentences) about why that could be a concern to some."
+-
+    name: 'Anders Jackson'
+    mail: ''
+    subject: 'It''s not only drivers. There'
+    hostname: 91.95.224.174
+    created: '1181372173'
+    body: "It's not only drivers. There are other software that comes in contrib and non-free that isn't that nice either.\r\nBut when it comes to using non free drivers (like nVidia and ATI binary 3D-drivers or Wlan drivers with ndisdriver), it IS a huge problem when upgrading kernel, with broken graphics or no network as a result. \r\nUpgrading with free drivers is no-brainer. That is as easy as upgrading any other software."
+-
+    name: Darkman
+    mail: michael7@nashville.net
+    subject: 'Good review'
+    hostname: 209.149.57.165
+    created: '1181389603'
+    body: 'I enjoyed your review and thought it fair and even-handed.  The complaints about Debian usually fall into two categories-- slow release cycle and multimedia stuff.  I doubt that Debian will ever release new versions fast because that isn''t a priority.  Debian wants to get it right and the developers will take as much time as they need to do that.  The proprietary multimedia stuff is a matter of principle.  If you are quick to criticize politicians and public officials who do not stick to their principles, then I think it''s hypocritical to criticize Debian for sticking to theirs.  Regardless, if you want non-free/proprietary codecs and the other software, it''s an easy work around.  IMHO, Debian and RMS deserve a lot more respect than they receive.'
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'Debian''s good on the desktop, but never looks the same!'
+    hostname: 68.93.224.4
+    created: '1181446013'
+    body: "All in all, I've been very happy with Debian on the desktop (which is the main place I use it -- I've always been a bit surprised at the server-bias for Linux users).\r\n\r\nOn the other hand, it's never looked the same from version to version -- or it's hard to get it to, anyway. This tends to be because Debian  provides so many different GUI and application options, and with each distribution it seems that different ones win out in the task selections. So, I usually wind up with a quite different system every time I install it.\r\n\r\nLately, I've learned to just do the minimal install, and then use apt-get to install the packages I already know I depend on. This works, but it requires a very fine level of management, so it's not really easy.\r\n\r\nI think this may be one reason why commercial distributions are often favored for new users -- there's a lot more consistency and so you really know what you mean when you say an \"Ubuntu system\", whereas a generic \"Debian desktop system\" could mean any of a large number of different combinations. That probably contributes to the \"geek\" reputation. After all, as a techie, I quite like the variety of choices, but it's not hard for me to see how it could be daunting to a newbie."
+-
+    name: tinker
+    mail: ''
+    subject: 'I am severely disappointed'
+    hostname: 213.169.107.71
+    created: '1181544542'
+    body: "I am severely disappointed with Etch and will be ditching it at the first opportunity, I will of course not be going to M$ but some other *nix distro, when I have evaluated the choices further.\r\n\r\nI really wanted etch to work for me and waited until the stable version was released for 64 bit boxes but the problems started with install, after 20 attempts to get an install that worked to first boot, as it did with opensuse or fedora, I ended up having to rebuild my hardware to suit the distro, it did not like my mixture of ide and sata disks and the bios list order.\r\n\r\nNext problem was the KDE install step, I had added KDE to the task list for install and then get some devs idiotic choice of KDE components, adding the necessary basics to the KDE group is simple to do after install but removing the total waste of space KDE games and toys and the unneeded wifi and bluetooth apps is another matter the removal of any of these tags KDE for uninstall as well. On the plus side the KDE desktop is not branded and I could setup panel apps etc. completely as I wanted them.\r\n\r\nThe next problem I had was the paranoia about free in the Debian definition, which is not the same as most peoples idea of free. Iceweasel for example is hawked as being the same as firefox, but it isn't, for me it is totally unusable as none of the extensions I use work and of course flash doesn't work on 64 bit and the easy option of installing a 32 bit firefox for the occasion when flash is needed is not an option as Debian have not yet worked out how to do a multiarch install without using chroot which just complicates things. Also I cannot easily use 32 bit Adobe Acrobat Reader, mscorefonts and many other apps that I need to, there are Debian free versions of some of these but none that do everything I need.\r\n\r\nIn short I do not like the way Debian is restricting my choice of what software to run, I appreciate their ideals but not the implementation. I need a computer that just works, so I can do what I get pleasure/reward from, it has taken me 4 weeks to get to the point where half of my requirements work and I am now fed up with jumping through hoops for Debian, I know I can get 90% of a working box in 2 hours with other distros and 100% in about 2 more hours after I have built new binaries for the stuff that has no prebuilt ones. "
+-
+    name: 'Yousef Ourabi'
+    mail: ''
+    subject: 'Re: I am severely disappointed'
+    hostname: 66.92.17.27
+    created: '1181605919'
+    body: "Well first of all I'm sorry to hear that Etch isn't working out for you -- this is the first release that has amd64 support, and though I can't speak from experience, I'm sure there are some rough edges.\r\n\r\nIt's likely that Automatix will release an installer for Etch-AMD64 -- but it will probably be a drag waiting.  Automatix does currently support Ubuntu 7.04 (Feisty Fawn) on AMD64 so that might be another option if you want to stick with a native 64-bit distro.\r\n\r\nOn the other hand Etch i386 works like a charm for me...if you don't have any strict 64-bit requirements, you might want to consider sticking with the i386 build until all the kinks  are hammered out, and/or other post-install polish options become available (like Automatix on Etch-amd64)\r\n\r\nGood luck with getting your system the way you want it.\r\n\r\n\r\n-Yousef"
+-
+    name: 'Anders Jackson'
+    mail: ''
+    subject: 'It''s always saddening to'
+    hostname: 130.243.4.29
+    created: '1181649671'
+    body: "It's always saddening to here someone who don't like Debian/Etch, but it is not for every one, as is also tru for other distributions.  First, you should prob. have i386 and not amd64 installed, as the amd64 is mostly usfull when you have applications which uses lots of memory. But as someone wrote, it looks like you are not compatible with Debian basic rules which Debian HAS to live by.  Free is more than just free beer.  This is why others can base there distributions on Debian subsets (like Ubuntu and Mepsi etc).\r\n\r\nI would sugest that you don't complain on Debian that Adobe, nVidia et all don't give specifications that we can use to program free alternatives, or distribute 64-bit versions of their software.  Complain at the source of the problem. Especially when you don't give any examples and you already made your choise up.  Critics is usefull, but bashing is not.\r\n\r\nAbout initial software selections, like in KDE, there as many \"good\" or \"bad\" selections as it is permutations of softwares.  So that is up to you to adjust it to your liking or go for a distributions that you can agree on.  This is no way Debian or any other distribution can do anything about.\r\n\r\nIn short You should select a distribution that you like, sorry you don't like Debian's desicions, but that is life.  Could I sugest Kubuntu or Mepsi?"
+-
+    name: tinker
+    mail: ''
+    subject: 'Yes you are probably'
+    hostname: 213.169.107.71
+    created: '1181721531'
+    body: "Yes you are probably correct, I am not compatible with Debian rules.  The fault is mine, I want to have the freedom to install what I want on my box and Debian does not want to let me break its rules.\r\n\r\nAll I intended here was to highlight the fact that not everything is perfect with Etch, as some earlier posters have implied, and it may not be the distro for people like me. I am also saddened by the poor 64 bit implimentation, the restrictions on my freedom and the general poor setup procedures. It is even worse as there are many fine points with the distro that I will miss, but as I said using the box is more important to me than tinkering with the setup.\r\n\r\nFor information, I have been using 64 bit for 4 years, I see it as a backward set to go back to i386, and I regularly contact Adobe and other sources of software to ask for 64 bit versions, I also contact content providers who use non 64 bit compatible software (e.g. BBC) to get them to ask for compatibility from their side. If other users and content providers did this more often perhaps there would be some improvements.\r\n\r\nWhatever happens Etch is going from my desktop, whether it is replaced by Fedora 7, Gentoo or Freespire is not yet decided. Fedora just works, Gentoo will need some setup but will end up as I want it and Freespire have not yet confirmed the 64 bit version."
+-
+    name: 'Anders Jackson'
+    mail: ''
+    subject: 'Sorry if I sounded harsh in'
+    hostname: 81.224.169.37
+    created: '1181760925'
+    body: "Sorry if I sounded harsh in my answer port to your post.\r\n\r\nThe fault is not yours or Debians.  Just different priorities, that's all.  But what I got disturbed about what that I read your post as you demanded that Debian it was Debians fault and Debian should change to suit your needs (exactly).  Prob. me who didn't understood you right (English is not my first language).\r\n\r\nGood that you complains to Adobe et all for not deliver software as they should (64-bit has been here for many years now, as you said).  Actually, that is more than I do (but then I don't use that kind of software, as I find other that is good enough for me and will not give me problems when upgradeing). By the way, I do run my laptop with Debian/stable amd64. Only problem(?) I have so far is to view flash movies. But that is not to important for me.\r\n\r\nBut you do more then what I do to make Linux to show up on commercial companies radar, which is good. Keep up the good work!\r\n\r\nI haven't tried Ubuntu or Mepis, so I don't know there quality when it comes to be a good amd64 distribution.  But you will get the other good parts from Debian.\r\n\r\nAbout running 32- and 64-bit software at the same time in a OS, Debian is working on it to be solved right(tm) and not by quick hacks in the distribution (but users can of course do that). That is why it's easy(well...) to have crypted disks when you install in Debian, and many other distributions don't have that now. But again, that is priorities each distribution should and have to do.\r\n\r\nBottom line: If there is a distribution that doesn't suit your needs and priorities, get involved and help out, or change distribution.  But don't bash it about not doing it your way."
+-
+    name: 'Anders Jackson'
+    mail: ''
+    subject: 'The big difference could be'
+    hostname: 81.224.169.37
+    created: '1181761149'
+    body: 'The big difference could be attributed to that it happens so much on the desktop side (Gnome, KDE, Xfce etc) that if you don''t follow Debian/Testing, you will have <em>large</em> difference.  Jump one version in those are large.'
+-
+    name: tinker
+    mail: ''
+    subject: 'These few posts have helped'
+    hostname: 213.169.107.71
+    created: '1182064642'
+    body: "These few posts have helped me clarify things.\r\n\r\nHaving tried most of the major distro's and found them all to be more or less unsatisfactory for me, though all are better than the borg from Redmonds, I have decided the only sure way to get a distro that works as I want it, that contains all and only the apps I want is to build my own.\r\n\r\nI have started at   http://www.linuxfromscratch.org  and will record all the process, possibly a blog, so others can follow my steps.If that doesn\"t work to my requirements then I have only myself to blame :D "
+-
+    name: 'Anders Jackson'
+    mail: ''
+    subject: 'Nice.  I really wish you success in this'
+    hostname: 81.224.169.37
+    created: '1182127079'
+    body: "First, I wish you success with this.  It is a bold and big task, and be a big learning experiance for all parts involved in the expedition.  But prob. a good solution if you know exactly what you want installed on your computer.\r\n\r\nTo put your success and failures in a blog is good for you to remeber what you done.  I could also get others like you interested to help each others with problems that whows up.  \r\nHeck, even I would be interested in following your development with this. :)\r\n\r\nBut I am to lazy to do this myself, becouse I have been there, as I have been system administrator on Sun machines and had to install all software from source.  I do like that others do the legwork for me, and I only have to report bugs ;)\r\n\r\nAnyway.\r\nI wish you to have a fun time and good luck with your project!"
+-
+    name: kristizz
+    mail: mail@tizzard.greenisp.org
+    subject: 'views on non-free software'
+    hostname: 62.69.35.237
+    created: '1182938591'
+    body: "This is an interesting thread.\r\n\r\nWhen I started on linux I only understood the \"free as in beer\" element; suse 9.0 was better than windows 98, and free, so I was happy. I could even easily install proprietary drivers/codecs etc without really knowing what was happening under the bonnet. Problem was, when it didn't work, I still had no idea what was going on under the bonnet. Luckily, because the software was free (as in really free) there was a knowledge base which was freely accessible (in both senses) on linux forums. I became empowered to fix my own problems with the help of others. I also grew to understand the ethics of free software. The novell/microsoft agreement caused me to ditch \"open\"suse  and use Debian.\r\n\r\nLets take a step back though. Lets imagine that Linux is a proprietary system. I would never have been able to get \"under the hood\", as the the owners of the intellectual property concerned would prevent that. Lawful access to Linux code would presumably depend on purchasing the right to do it, if it was allowed at all. Widespread development of Linux code would cease, security flaws would be concealed from the end user (save on the circumstances where market forces could compel the owners of linux to release them) and the knowledge base which I tapped into to would simply evaporate, meaning that I would have very limited control over my system. We can safely assume that a proprietary linux system would support less hardware than Vista (unless a corporation with a development budget comparable to redmond took it on). We can also assume that DRM would be a central feature of any modern linux distro (if the os is proprietary, why not everything else?). In other words, all we would have is a unix based clone of windows. Incidently, this would mean that any public body/school/hospital in any of the non-trillion dollar economies (meaning nearly all of them) would find the costs of implementing IT prohibitive, unless they wanted to divert ridiculous proportions of their GNP to US/European based software houses. \r\n\r\nI can understand that many users want 3d graphics on their pcs; I would like 3d on my pc. However, I don't want linux to get to a point where it will only function in the command line without proprietary software. I hope that Debian et al will continue to resist \"property creep\" into linux.\r\n\r\nAutomatix is an anathema to free software. For reasons related to the above, and the fact the it does something which any user with the ability to google \"debian libdvdvcss\" can do themselves. It is a profoundly disempowering piece of software which has the effect of giving the new user a system full of proprietary code before they have even attempted to live without it.     \r\n\r\nMy advice to anyone who is new to linux is to spend some time living with a free system. I did it, and it's worth it. By all means stuff your pc with proprietary code if you really can't wait for gnash to work with youtube (which it now does), just don't come crying to me when 10 years from now you have to pay a $100 per year to prevent virus from wiping your hard drive and your all of your freinds, colleagues etc have to all spend $300 on \"microsoftlinux-ultimate edition\" so that they can read the spreadsheet that you sent them.   \r\n  \r\n"
+-
+    name: 'Anonymous visitor'
+    mail: anonymousvisitor@mailinator.com
+    subject: 'There''ll always be those who'
+    hostname: 86.132.45.247
+    created: '1184670428'
+    body: "There'll always be those who don't understand the difference between Free and open source software. You appear to be one of those people.\r\n"
+-
+    name: 'Robert Pogson'
+    mail: ''
+    subject: 'Debian More than an Alternative'
+    hostname: 24.76.250.60
+    created: '1184682507'
+    body: "I disagree with the title. This is an excellent and valuable article but Debian is more than an alternative. It is the most flexible distro and the mother of a lot of distros including *buntu. The *buntus are more specialized for some roles but those roles can be met by a single distro in Debian with a little configuration/installation. Perhaps these titles would be better:\r\n\r\nDebian, The Distro.\r\n\r\nDebian, for when you want a solid, reliable operating system.\r\n\r\nDebian, just Debian\r\n\r\nDebian\r\n\r\nDebian, a cooperative project of the world to make a really great OS.\r\n---\r\nA problem is an opportunity."
+-
+    name: 'Anonymous visitor'
+    mail: debia.user@guest.net
+    subject: 'Debian is not a good'
+    hostname: 65.30.212.174
+    created: '1184931608'
+    body: 'Debian is not a good alternative to Ubuntu. Ubuntu is derivate of Debian and it is possible that is an alternative to Debian but not vice versa.'
+-
+    name: 'Eric Drake'
+    mail: ''
+    subject: 'Pragmatism and Patience'
+    hostname: 68.34.252.32
+    created: '1185324416'
+    body: "I read your article and I don't want you to misinterpret what I write.  You are probably not a pragmatist in the philosophical sense of the word.  In the context in which you are using the word (a context you have borrowed since it is certainly making its way into many articles) you and others who approach Linux the same way would better be charecterized as simply consumers of content that require proprietary codecs, who will not give up that content, and are unwilling to pay for an operating system that contains all the necessary non-free codecs (aka Windows).  That's fine.  But it is a form of \"market speak\" to call people who want proprietary codecs on Linux, pragmatists.  It is an attempt to disguise one's basic motivations when one is part of a culture which prizes and sells convenience and instant gratification (and I don't mean that in a disparaging way; it is just a description of what is).  One could easily say that those who want proprietary codecs on Linux are simply impatient while those who will wait for unencumbered software are well ... patient. It follows that those who are patient are patient not because they do not want the benefits that proprietary codecs give but rather would prefer that the benefit not be encumbered.  This is hardly religious zealotry except in the computer world where some people hang their integrity on which editor or programming language they use.\r\n\r\nWhere possible, even businesses seek not to be encumbered by another firms licensing and trademark restrictions and the costs associated with them.  Business's however are at a disadvantage in that they are under pressure to perform financially and sometimes they simply license what is needed because in the long run it is good for their business.  If a business is able to take another route, it would be an odd sort of charecterization to say that the business is operating under some sort of corporate religious zealotry.\r\n\r\nAs for those parts of the article that deal with non-free software, it is not your job to determine whether or not that should be in an article.  That is the job of the editor.  And if the editor of Free Software Magazine is liberal when it comes to this then so be it.  After all, it is his/her magazine.\r\n\r\n\r\n\r\n"
+-
+    name: ley
+    mail: ernani.ubalde@yahoo.com.ph
+    subject: 'I Want Debian! Need Help..Please.'
+    hostname: 58.71.64.216
+    created: '1186721613'
+    body: "All i want is Debian..but how? \r\n\r\nI have limited bandwidth...a problem here in the Philippines.\r\n\r\nI can't download the whole DVD or CD images coz its too big to download...\r\n\r\nI can't use the Netinstall CD coz its too bandwidth consuming..\r\n\r\nI can't buy the Cds coz i dont have international bank card...(Yup im poor) but my brain is not..\r\n\r\nIf only Debian has free CD's or DVD like Ubuntu then I will be promoting Debian here in the Philippines like I did with Ubuntu to my friends and Colleagues.\r\n\r\nI believe in Debians Philosophy..I love Linux...I will wait for a miracle to have Debian in my system...\r\n\r\nPlease send me Debian DVD or CDs...I will pay COD..\r\nHeres my name and address...\r\n\r\nMr. Ernani \"Leo\" Ubalde\r\n043 ilaya 7c, Alabang, Muntinlupa City, Metro Manila, Philippines\r\n\r\nThank You.\r\nLey\r\n\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'downloading 20 CDs'
+    hostname: 82.108.129.98
+    created: '1187101015'
+    body: "I agree that Debian is a great distro and is my distro of choice in all cases, but if you don't have a fast internet connection, downloading 3 DVDs or 20 CDs is not really a viable option. In any case pretyy much all distros worthy of the name have downloadable CD images so Debian is nothing special there.\r\n\r\nIf your 'net connection is \"slow\" then you are better off buying the CDs from one of the usual CD-shops or from Debian themselves.\r\n\r\nRyan\r\n"
+-
+    name: BSDuser
+    mail: at1356@yahoo.com
+    subject: 'Been there done that, IMHO'
+    hostname: 71.48.8.249
+    created: '1187317462'
+    body: 'Been there done that, IMHO it''s a waste of time, and in the future when you look back you will probably agree. If Linux is so unsatisfactory install XP Pro SP2 and be done with it. Life is short, get out and live instead of working on yet another Linux distro.'
+-
+    name: 'manmath sahu'
+    mail: manmaths@gmail.com
+    subject: 'Debian is great, but for newbies it''s PCLinuxOS that rules'
+    hostname: 125.20.39.39
+    created: '1189071829'
+    body: 'Your review is nice but PCLinuxOS is the better OS compared to Debian when it comes to newbies.'
+-
+    name: CJ
+    mail: cj100570@gmail.com
+    subject: 'Why Oh Why?'
+    hostname: 204.52.242.50
+    created: '1189814764'
+    body: 'Why must every distro review degrade into a war of likes and dislikes? Linux is all about the freedom to do as you want with your os. If someone wants to use proprietary software it''s their choice just as it is their choice to use free software. The fact of the matter is that it is impossible at present to setup a Linux box that does everything a Windows box can do without using proprietary software. As much as I''d like to have my box comprised of all open source code, that''s not the case at present. Everyone needs to just respect the freedom of choice that Linux provides and worry about your own setup and not the next persons!'
+-
+    name: 'Anders Jackson'
+    mail: ''
+    subject: 'You don''t need that many CD''s or DVD''s'
+    hostname: 90.227.204.112
+    created: '1189901363'
+    body: "No, you do not need 3 DVD or 20 CD's.  \r\n\r\nFirst half (or so) is binary packages, the rest has sources to packages.  You don't need them if you not going to recompile packages from scratch.\r\n\r\nOf the first half, you only need the first 1-4 CD's and a slow Internet connection (for installing the few not so popular packages and security updates of packages).  That is becouse the packages are added to the CD:s on a decreasing popularity order.  Most popular packages are first (with their dependencies).\r\n\r\nSo if you don't recompile packages and don't install lots of not so often used software packages, you will only need 1-4 CD (or first DVD).\r\n\r\nDebian don't sell CD's or DVD's.  They let others do that, as that is what Debian was desinged for in the beginning (others selling and changing Debian (like all Debian based distributions does).\r\n"
+-
+    name: 'Anders Jackson'
+    mail: ''
+    subject: 'We have support for 3D cards from ATI :D'
+    hostname: 90.227.204.112
+    created: '1189902044'
+    body: "Well, as Dell and other large computer makers starts to deliver, you will get drivers for lots of hardware in Linux kernel.  Which do happen, please have a look at ADM's (ATI's owner) promice to release specs on their new graphical 3D cards.\r\n\r\nThis will give them an economical advantage to makers like nVidia, whith their secret hardware design.  So this will happen, we will get better support on hardware than Microsoft Windows, which we have today.  Install MS Windows XP on new hardware, and you will have to install new drivers on all new hardware.  In Linux, where it is some support from chip maker, you do have good support from the Linux kernel direct.  No need for extra installer CD with sent with the hardware.\r\n\r\nAnd we are slowly getting there with 3D cards to.  Intel is already supporting Linux with their 3D cards, and AMD is getting there with ATI cards."
+-
+    name: hottyson
+    mail: hottyson@hotmail.com
+    subject: Thanks
+    hostname: 70.173.218.230
+    created: '1196529218'
+    body: "You know this information on what to download is not readily available as it should be. I will download the dvd now.\r\nThank you from a noob. :)"
+-
+    name: Disappointed
+    mail: kevin_tilley@blueyonder.co.uk
+    subject: 'No wireless'
+    hostname: 80.5.54.203
+    created: '1197147639'
+    body: "No opportunity to set up wireless during installation.\r\n\r\nNo obvious way to add a wireless interface once installed.\r\n\r\nWireless internet is hardly cutting edge nowadays.\r\n\r\nNOT a desktop system...."
+-
+    name: 'Anonymous visitor'
+    mail: rrrr@rapidr.com
+    subject: Alternative
+    hostname: 71.231.119.248
+    created: '1197348276'
+    body: "Debian is an alternative OS and Linux flavor. \r\nI just switched from Ubuntu to Debian due to several reasons. \r\nHave no idea why anyone would say it is not an alternative, unless they haven't actually used both.\r\n\r\n\r\n"
+-
+    name: alizard
+    mail: ''
+    subject: 'of course you can have it your way in Debian'
+    hostname: 68.183.64.238
+    created: '1203241732'
+    body: "whether \"your way\" is pragmatic or religious. I make a living using this box, you can guess what \"my way\" is. Not that I have anything against the pure FOSS approach, when a FOSS software package that's equal to or better than a proprietary package appears, I go with the FOSS package. \r\n\r\nI use OpenOffice in preference to MS Word and a couple of proprietary word processors I've been using. Works better now and has a better UI. IMO, there's room for everyone, with the possible exception of the unsupported Linux newbie in Debian. \r\n\r\nBTW, I would suggest that Debian users who want to get their system working pragmatically start with debconf (KDE > System > DebCentral Config) instead of Automatix. Better to work with something specifically intended to work with Debian.\r\n\r\nThe secrets to opening Debian up to a pragmatic approach is in the /etc/apt/sources.list file. You can add any number of new repositories ( try http://www.apt-get.org ) from sources ranging from individual vendors of proprietary software (I'm viewing this via Opera-Linux... you can get skype that way, too) to adding the non-free (usually proprietary) and even restricted (usually, this means things like libdvdcss which are not supposed to be available to US users) by adding the right \"Debian unofficial\" repositories. Or if you're just looking for multimedia, drop in on http://www.debian-multimedia.org and add their entry to your repository list.\r\n\r\nAnd if that doesn't work, there are some packages that aren't in any repository that can be downloaded directly and installed via dpkg , or you can even convert packages from rpm to deb via the <i>alien</i> utility. (doesn't work on everything, but frankly, I find it amazing that it works at all.)"
+-
+    name: 'Anders Jackson'
+    mail: ''
+    subject: 'You do have wireless'
+    hostname: 90.227.204.179
+    created: '1203262881'
+    body: "You do have wireless connection, if your wireless chipset is supportet by Linux kernel.\r\nYour(?) broadcom chipset is not.  And it is not Debians fault, it's Broadcom's\r\nBuy Intel wireless chipset, or any other chipset, that have support from the Linux kernel.\r\n\r\nSo it's a desktop system, in this respect to...\r\n\r\n(You are comfused by \"beginner friendly\" and \"user friendly\" when it comes to \"setting something up\" compare to \"using it\")"

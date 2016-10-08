@@ -1,0 +1,14 @@
+-
+    name: TimFr
+    mail: ''
+    subject: 'Just because you can''t find'
+    hostname: 173.206.26.222
+    created: '1325779500'
+    body: 'Just because you can''t find them on the search doesn''t mean that Google hasn''t filed any.  Applications by default are confidential and not published for a period of up to 18 months after filing unless the applicant specifically requests early publication.  If the application is only filed in the US, it can remain private until the date it issues. It''s more likely that Goggle has just decided to take advantage of the confidentially period since early publication can give competitors an idea of what you are working on and what products you may come out with in the near future. '
+-
+    name: Patentology
+    mail: ''
+    subject: 'Sorry, but your data is wrong'
+    hostname: 203.122.244.217
+    created: '1325798869'
+    body: "Tony, I am afraid your search is not meaningful.  You have searched the database of granted patents for any patent assigned to Google which was filed between August 2011 and the present.  Obviously, any application filed during this period could not yet be granted, since most cases take the USPTO at least three years to reach a decision.\r\n\r\nAdditionally, no application is published until at least 18 months after its earliest relevant filing date, so right now you can only expect to be able to find new applications filed by Google earlier than July 2010.\r\n\r\nIf you do a search of published applications (i.e. in the AppFT database at http://appft.uspto.gov/netahtml/PTO/search-adv.html), for all applications naming Google as the assignee that were published in the last five months (search term 'an/google AND PD/8/1/2011->1/3/2012) you get 175 results.\r\n\r\nAll evidence is that Google is applying for patents like crazy!  At least, it was 18 months ago, and there is no reason to suppose that anything has changed (although there is also no way to find out).\r\n\r\nMark"

@@ -1,0 +1,63 @@
+-
+    name: rooy
+    mail: ''
+    subject: Tor
+    hostname: 58.187.193.87
+    created: '1181311459'
+    body: "And there's Tor for people who want to remain anonymous on the net. At least the FSF Associate member USB key has a copy of it, but I don't know the detail of setting it up portably.\r\n\r\nAnd Opera is portable when you unselect \"use 1 profile for each user\" in the installer, and install it straight on the key."
+-
+    name: clievers
+    mail: ''
+    subject: Excellent
+    hostname: 68.145.109.51
+    created: '1181316694'
+    body: "This is great. I never realized you could run xampp from a usb drive. I've heard of some other apps though.\r\nFor quick dev type work, I use Crimson Editor a lot. It's a great replacement for notepad, has tabs and what not, but also does syntax highlighting for a lot of languages.\r\nThanks very much, this is great!\r\n------\r\nlet's all play nice!"
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'Crimson Editor'
+    hostname: 68.197.66.72
+    created: '1181316975'
+    body: "Crimson Editor looks pretty cool.  It isn't portable, but there is a wrapper for it:\r\nhttp://portablefreeware.com/forums/viewtopic.php?t=836&highlight=crimson+editor\r\n\r\n--\r\nAndrew Min"
+-
+    name: 'Dave Guard'
+    mail: ''
+    subject: 'Is that freeware or free software?'
+    hostname: 165.98.157.37
+    created: '1181323869'
+    body: 'Is that freeware or free software?'
+-
+    name: 'Andrew Min'
+    mail: ''
+    subject: 'Free Software'
+    hostname: 68.197.66.72
+    created: '1181323990'
+    body: "Yeah, I should have clarified that.  From what I can see, Crimson is open source.  At least, they offer the source code.\r\n\r\n--\r\nAndrew Min"
+-
+    name: clievers
+    mail: ''
+    subject: 'Didn''t work'
+    hostname: 68.145.109.51
+    created: '1181324860'
+    body: "I've actually tried the Tor a few times and I could never get a connection. Not sure if work was blocking it somehow (the port), or if it just didn't have any available connections. Neat idea though.\r\n\r\n------\r\nlet's all play nice!"
+-
+    name: 'Brent Hopkins'
+    mail: brentrowan+freesoftwaremagazinecom@gmail.com
+    subject: 'Firefox extensions'
+    hostname: 207.118.229.164
+    created: '1189712688'
+    body: 'Thanks for the suggestions. I think it worth mentioning that if you use the Firefox Portable, there are several useful extensions which work nicely with it. The DOM Inspector, Web Developer Toolbar, FireFTP, and others allow you to work within tabs of Firefox, which I find very handy.'
+-
+    name: magstudios
+    mail: ''
+    subject: 'Web development,Software Development'
+    hostname: 122.160.49.75
+    created: '1233063545'
+    body: "Hi thank you very much for provide information on The portable web development toolkit it's really working for Software Development,Web Development\r\nthe view on FTP is also very good it's helpful foe every one.\r\n\r\nThanks\r\nMag Studios\r\nhttp://www.mag-corp.com"
+-
+    name: clod
+    mail: ''
+    subject: 'Codelobster PHP Edition'
+    hostname: 87.238.159.106
+    created: '1288011238'
+    body: 'I suggest to add free portable PHP/HTML/CSS/JavaScript editor - Codelobster PHP Edition here.'

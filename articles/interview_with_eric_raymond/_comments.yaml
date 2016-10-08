@@ -1,0 +1,28 @@
+-
+    name: Balzac
+    mail: ''
+    subject: '"free software frightens and confuses people"'
+    hostname: 66.108.231.113
+    created: '1201477432'
+    body: "CM: You have advocated the label “Open Source” over “Free Software” why?\r\n\r\nESR: Because the term “free software” frightens and confuses people who wear suits. Those people have money and decision-making power that we need, so not confusing and frightening them is smart.\r\n\r\n~~~~~~~~~~~~~\r\n\r\nI think that's not a very compelling reason to re-brand the free software movement. I consider ESR's unilateral choice to re-brand the free software movement and to de-emphasize freedom a bad choice. \r\n\r\nPeople who wear suits and are frightened by the phrase \"free software\" can kiss my ass. I really don't give a flying rat's ass about what they think if the words \"free software\" frighten and confuse them.\r\n\r\nAlso, I think \"The Cathedral and the Bazaar\" is greatly overrated. The General Public License explicitly protects the fundamental freedoms which the collaborative development model (which Raymond calls the bazaar) are based on. \r\n\r\nThe Cathedral and the Bazaar was my first description of a GPL-licensed project (Linux kernel project) and I credit ESR's misinformation for giving me a false impression of what was happening and why. Later I corrected my understanding through my own experience. Now I'm a contributing member of the FSF.\r\n\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: Inspirational
+    hostname: 68.93.224.4
+    created: '1201737942'
+    body: "ESR's writings, particularly \"The Magic Cauldron\" have provided me with a lot of inspiration. It's important to take a rational, objective look at how these systems work so that we can learn how far they can be extended.\r\n\r\nIt was his arguments in TMC that convinced me that there was nothing really  stopping the idea from being extended into hardware design. There are some problems to solve, but free software points the way to a better way to do a lot of creative activities.\r\n"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'On the other hand...'
+    hostname: 68.93.224.4
+    created: '1201738010'
+    body: "Quite a bit of software now in the commons was \"suit\" financed: Mozilla, OpenOffice.org, Blender, BRL-CAD, Zope, and even Unix were developed under \"conventional\" proprietary methods (by commercial or government interests) and only later released as free software. They all needed some kind of business rationale to do that release, not just a set of ideals (you can spend your own money on your ideals, but when you're spending other people's money, you've got to prove you were acting in their interest in a very tangible way).\r\n\r\nIf speaking \"suit\" helps get us those kinds of results, I'm for it.\r\n\r\nPeople will learn the jargon in time anyway, and the ideology is much more obvious to people once they are _using_ free software.\r\n"
+-
+    name: Balzac
+    mail: ''
+    subject: 'Let''s be serious.'
+    hostname: 208.120.233.249
+    created: '1201751300'
+    body: "The choice software companies face is to free their software, or watch the community make it available for free. It's better for them if they sell support, consulting and customization rather than software licenses.\r\n\r\nYou know what gets their attention? Losing money to an upstart which uses free software. That's when they let hairy people into the board rooms to tell them how to make it stop.\r\n\r\nI intend to make money without every saying \"open source\" and without ever forgetting to include GNU in the name of GNU's derivative operating systems, such as GNU/Linux or GNU/Solaris.\r\n\r\n"

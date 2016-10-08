@@ -1,0 +1,21 @@
+-
+    name: paulw1
+    mail: ''
+    subject: 'Why Android might just kill GNU/Linux. Quickly.'
+    hostname: 194.74.226.190
+    created: '1326977065'
+    body: "I remember reading about Replicant a while back:\r\n\r\nhttp://www.ghabuntu.com/2010/11/replicant-android-for-linux-purists.html\r\n\r\nIt's what RMS uses apparently."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: Hmmm
+    hostname: 62.140.212.3
+    created: '1327064719'
+    body: "Hmmm\r\n\r\nWe've been here before - heck you've said [similar](http://www.freesoftwaremagazine.com/articles/google_chrome_os_or_how_kde_and_gnome_managed_shoot_each_other_dead) before and also spoken about this \"ideal\" of [installing software as an app](http://www.freesoftwaremagazine.com/articles/2009_software_installation_linux_broken_and_path_fixing_it) but sorry I don't buy it.\r\n\r\nFirstly you've focussed on a single (and small) part of the hardware \"market\" - tablets. While I agree there should be a simple effective way of making a tablet (or any computer device) into free software only. I don't see it happening and to be honest I don't want it to. I'd rather build my own software experience by choosing the applications I use myself.\r\n\r\nBut here's the real crunch: You make a leap from \"Android on tablet sucks you in\" to \"Android will kill GNU/Linux and quickly\". I just can't see it. For a start you're forgetting the server space which might not look as shiny as the portable one but probably makes up the majority of GNU/Linux usage even now (and with good reason). Secondly tablets will not kill the desktop. So far - and many have tried - nobody has come up with an input system for text which beats the keyboard for versatility and any future the computing industry will include the keyboard. This changes the type of \"app\" we install and use and thus there will always be a vast array of software which will not (or is inappropriate to) run on a tablet device.\r\n\r\nSo whilst tablets and the gadetisation could bring in more hurdles for GNU/Linux I don't think it will make that much of a dent."
+-
+    name: openuniverse
+    mail: ''
+    subject: 'Yeah, I realize you want'
+    hostname: 71.181.56.236
+    created: '1327218836'
+    body: "Yeah, I realize you want another go at this, but it's too bad this article ignores the feedback of the one like it before.\r\n\r\nWhy give Apple all the credit? They didn't invent WebKit, though they did contribute substantially to KHTML when they turned it into WebKit. Similarly they didn't invent UNIX or BSD, but they did manage to make a hyperusable version of it. And the app market is not half as innovative as it gets credit for, it mostly existed already (In the free software world.) Ease of install from pre-selected categories in one place? Already had that. Ease of charging money? That's an innovation, but barely an invention, it's a tweak.\r\n\r\nI'm more concerned about the logos than the software. Used to be, a gnu represented freedom. Then a penguin took over, representing companies (and individuals) exploiting (making use of) that freedom. Tux rarely pays homage to Gnu (you only see them together when FSF puts them together) and Ubuntu whitewashes the penguin. The way Android is going, MOST PEOPLE won't know the robot and the penguin have anything to do with each other.\r\n\r\nSo in a more superficial (but not entirely meaningless) way, you're totally right. From a user-awareness standpoint, this is only going to hurt more and more. But people will still be using free software, sometimes they'll just think Google (not Shuttleworth, not Murdock, not even Torvalds, and certainly not Stallman) came up with the whole thing. This is a problem no one but FSF talks about, but it goes far beyond just Linux originally overshadowing GNU. ALL the relevant logos should all be there, IMO. At least on the \"box\" (\"download\" page?) somewhere, like all the relevant logos on the back of a music CD. Enforceable? Nah. Good? VERY."

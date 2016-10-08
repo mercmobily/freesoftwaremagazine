@@ -1,0 +1,42 @@
+-
+    name: masci
+    mail: ''
+    subject: 'online version of the column'
+    hostname: 81.174.26.126
+    created: '1226664937'
+    body: "http://www.eepublishers.co.za/view.php?sid=14669\r\n\r\nThe piece above seems to be the one you read on \"Linux User & Developer\" but the author is Rheinhardt Esau, not Steve Harris..."
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'it is very similar'
+    hostname: 82.108.129.98
+    created: '1226665944'
+    body: "Certainly it is very similar, my cursory reading through both shoped up only a couple of words that were different. The article I refer to is definitely \"written by\" Steve Harris and was in the latest issues of Linux User & Developer which dropped on my mat about a week ago. That means it would have been submitted some months ago to LUD.\r\n\r\nIt doesn't really matter though. The pieces are almost identical and it looks like this is either a company line for Novell - which makes sense - or one of these two \"authors\" has been a little bit lazy.\r\n\r\nthanks for finding it though.  \r\nRyan"
+-
+    name: larkguit
+    mail: ''
+    subject: 'One important exception (and not available)'
+    hostname: 76.124.104.64
+    created: '1226693014'
+    body: 'Until they make an open source printer I think proprietary drivers will be needed. Oops! They don''t make drivers for Linux, since you want to do it yourself when it comes to drivers. And since you want to do it yourself, they let (or should I say make) your do their work for them. Unfortunately, since I''m not about to spend my money on a more compatible printer, nor will I waste time playing around with barely working foss drivers, my Edubuntu is just is just a toy, not a viable option.'
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'not true'
+    hostname: 212.159.106.192
+    created: '1226699427'
+    body: "Who is the \"they\" you refer to? And what do you mean by \"open source printer\"? Do you mean open hardware or just the drivers? I for one would welcome open hardware specs in a printer but I'm not holding my breath for it. However don't make the mistake of thinking that closed hardware requires closed drivers.\r\n\r\nFree drivers are available and work well for a large number of printers. There are [printer manufacturers](http://h71028.www7.hp.com/enterprise/cache/599999-0-0-0-121.htm) who develop open source drivers. HP's hardware is by no means \"open\" yet their drivers are. The fact that high quality free software printer drivers exist for so many printers (see [openprinting.org](http://openprinting.org)) undoes your argument that proprietary hardware requires proprietary drivers. I've personally used printers -- from inkjet to colour lasers -- from HP, Canon, Epson and Kyocera with free drivers and they worked beautifully, first time.\r\n\r\nOn a side note: I don't buy this argument that we should not have to choose our printer based on our choice of OS. If that were the case then printers would not come with Windows and Mac stickers on them. Yes, there should be better support out of the box and yes, I'd like to see \"Works with Linux\" on the box as well but right now I'd say printers enjoy one of the stronger levels of peripheral support within GNU/Linux (and by nature other free OS).\r\n\r\ncheers  \r\nRyan"
+-
+    name: 'Terry Hancock'
+    mail: ''
+    subject: 'LU & D is not very reliable these days'
+    hostname: 68.93.224.4
+    created: '1226815946'
+    body: "As far as I can tell, LinuxUser & Developer is pretty much nothing but \"corporate mouthpiece\" articles nowadays.\r\n\r\nThat's probably because they have exhausted the supply of good writers who are gullible enough to be taken in by their fraudulent business practices.\r\n\r\nLU&D has been staying afloat for years by exploiting a loophole in British bankruptcy law which allows them to back out of practically all of their obligations to pay writers and editors, while continuing to operate. The managing editor is meanwhile making a tidy profit off of this arrangement, despite her history of purposely driving companies into the ground.\r\n\r\nThe trick essentially is that \"LinuxUser & Developer\" itself is just a licensed trade name -- the licensor is always kept intact, while the official business entity has some nondescript name. That entity is driven bankrupt, avoiding all responsibilities to suppliers and employees, but the trade name, the advertisers, the managing editor, and all of the goodwill and income goes with the name.\r\n\r\nThen, after the bankruptcy, they just pick up again, form a new shill company, and keep doing business -- with a new staff of gullible employees and free-lancers ready to be duped and fleeced.\r\n\r\nThis has gone through at least three cycles, according to my sources -- apparently right from the magazine's inception.\r\n\r\nAnd yes, I know this, because I was among the duped myself. I lost something like four months full-time labor, accounting for approximately half of my expected annual income in 2005. Some others were hit harder than I was.\r\n\r\nOne would expect this sort of behavior to be criminal, as it is so blatantly unethical.\r\n\r\nHowever, it's apparently not strictly illegal under British law, so they get away with it. This does not give me a very good impression of the British justice system, I can tell you!\r\n\r\nIn any case, though, the suppliers are apparently getting wise to the situation, which accounts for the reliance on freely-provided corporate shilling as a substitute for content. As a result, you aren't going to find many balanced articles in LU&D these days.\r\n\r\nIt's a very sad story, and an appalling example of exploitation.\r\n"
+-
+    name: 'Ryan Cartwright'
+    mail: ''
+    subject: 'Whilst that may be true'
+    hostname: 212.159.106.192
+    created: '1226882571'
+    body: "Whilst that may be true, the fact that this appeared in LU & D was not a concern for me. My concern was simply adjusting the balance somewhat -- or at least putting another view up against it.\r\n\r\nMy personal view is that the reliability of any article is down to the author and not the publication it appears in. True if I have not encountered the author then my experience of the publication will count for something. In the case of LU & D that dwindled some time back -- mostly through boredom. In this case I just wanted to address this fallacy that \"mixed\" licencing is _the_ future.\r\n\r\ncheers  \r\nRyan"
