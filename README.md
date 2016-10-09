@@ -1,6 +1,6 @@
 # Welcome to Free Software Magazine!
 
-What you see here is the _full_ repository of articles in Free Software Magazine.
+What you see here is the _full_ repository of articles in [Free Software Magazine](http:/www.freesoftwaremagazine.com].
 
 They are all stored in Markdown format, with some extra FSM-specific tags for images, textboxes and zooms.
 
