@@ -1,54 +1,51 @@
-
 <% // ***************************************** %>
 <% // ************ toLink function ************ %>
 <% // ***************************************** %>
 
 <%
-  function toLink( rootPath, list ){
-    var o='', c='';
+function toLink(rootPath, list) {
+  var o = '';
+  var c = '';
 
-   if( ! list ) return; 
-   list.split(',').forEach(  (item) => {
-%>
-    <a href="/<%-rootPath%>/<%=item%>">
-      <%=item%>
-    </a>
-<%      
-    });
-  };
-%>
+  if (!list) return; 
 
+  list.split(',').forEach((item) => {
+%>
+  <a href="/<%-rootPath%>/<%=item%>"><%= item %></a>
+<%
+  });
+};
+%>
 
 <%
-
   var link = `/${article.system.filePath}/`;
   var image = `${link}${article.info.main_image}`;
   var titleMaybeLink = `<a href="/${article.system.filePath}/">${article.info.title}</a>`;
 
   var a = article;
- %>
-   <paper-material class="article">
-     <img src="<%-image%>"></img>
-     <%if( a.info.section ) { %> <div class="section-name horizontal layout end-justified"><span><%=toLink('sections', a.info.section )%></span> </div> <% } %>
-     <!--<%if( a.info.book )    { %> <div class="section-name horizontal layout"><span end-justified><%-toLink('sections', a.info.book ); %></span> </div> <% } %> -->
+%>
 
-     <div class="header-container">
+<div class="article">
+  <img class="img-fluid" src="<%- image %>">
 
-       <div class="header">
-         <div class="article-author"><%=toLink('authors', a.info.authors)%></div>
-         <div class="article-published"><%=new Date(a.info.published).toLocaleDateString()%></div>
-         <div class="article-shorturl"><a href="http://fsmsh.com/<%=a.info.nid%>">fsmsh.com/<%=a.info.nid%></a></div>
-       </div>
-     </div>
+  <% if (a.info.section) { %>
+    <div class="initialism text-muted">
+      <%= toLink('sections', a.info.section) %>
+    </div>
+  <% } %>
 
-     <div class="contents-container">
-       <div class="contents">
-         <h1><%-titleMaybeLink%></h1>
-         <span class="tags"><%=toLink('tags', a.info.tags || '')%></span>
-       </div>
-     </div>
+  <!--
+  <% if (a.info.book ) { %>
+    <div class=" initialism text-muted">
+      <%- toLink('sections', a.info.book ); %>
+    </div>
+  <% } %>
+  -->
 
+  <div><%= toLink('authors', a.info.authors) %></div>
+  <div><%= new Date(a.info.published).toLocaleDateString() %></div>
+  <div><a href="http://fsmsh.com/<%=a.info.nid%>">fsmsh.com/<%= a.info.nid %></a></div>
 
-   </paper-material>
-
-
+  <h4><%- titleMaybeLink %></h4>
+  <div><%= toLink('tags', a.info.tags || '') %></div>
+</div>

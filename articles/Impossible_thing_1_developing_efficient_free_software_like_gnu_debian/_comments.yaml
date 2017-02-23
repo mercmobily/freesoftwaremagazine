@@ -1,14 +1,1 @@
--
-    name: massysett
-    mail: ''
-    subject: 'Include KDE or GNOME'
-    hostname: 71.178.67.226
-    created: '1201175035'
-    body: 'To compare Vista with Linux, don''t you need to include KDE or GNOME? Vista comes with apps (e.g. simple text editor, calculator, music player) that are the equivalent of what KDE and GNOME make.'
--
-    name: 'Terry Hancock'
-    mail: ''
-    subject: 'I did use KDE, but...'
-    hostname: 68.93.224.4
-    created: '1201659111'
-    body: "I did use KDE in the figures, but I went back to the code and found a regular expression error that gave me a considerable undercount (I _thought_ that layer was pretty thin). _I have now corrected the\r\n figures_.\r\n\r\nThis makes a pretty big change in the relative status of KDE, but doesn't change the big picture with respect to Windows as you can see in the newly uploaded graphics with the problem fixed.\r\n\r\nThe method I used to associate packages to major projects is pretty crude—I just use a regular expression on the package name. This is made possible by Debian's fairly consistent package naming scheme (and it is easier on the source packages than on the binary packages).\r\n\r\nThen I exclude obviously bogus matches with special cases (for example \"nautilus\" happens to match \"util\", but I wanted it classified under \"Gnome\", not \"GNU Utilities\").\r\n\r\nGnome presents a bit of a problem. It might also be regarded as an undercount, but I think that Gnome development is more distributed,  and there's not as many consistent package names. The \"Gnome\" bar in the bar charts is mainly just the packages actually containing \"gnome\" in their names. If I understand correctly, this may be an accurate representation of how Gnome appears in Debian.\r\n\r\nNo slight is intended to the Gnome folks, but I'm not as familiar with the Debian Gnome installation as with KDE. That's why I used KDE in the Windows comparison. Also, I believe that KDE is somewhat more \"Windows-like\" in its interface, and therefore a more accurate \"work alike\" comparable.\r\n\r\nThe exception is the \"GNU\" packages -- it happens there is a list of names available from the GNU project, which made that a whole lot easier!\r\n\r\nThat was so nice, in fact, that I'd like to try to tease dependency lists for source packages out of the Debian package management tools, but I haven't figured out how to do it yet -- I think I can get such a list for binary packages, but not source packages. If I could, the classifications would be a lot more authoritative.\r\n\r\nBecause this is Sarge, there is also an \"overcount\" (depending on your PoV) for X Windows, because there were two versions of X11 in that distribution, the Xfree86 and the X.org versions. Etch eliminated the Xfree86 packages. I say it depends on your PoV, because there could very well be duplications of this type responsible for the larger size of Windows -- we really just don't have any way to peer inside of that monolithic block.\r\n"
+{  }

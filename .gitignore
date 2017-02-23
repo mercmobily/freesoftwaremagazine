@@ -1,0 +1,7 @@
+# macOS-generated files
+._*
+.DS_Store
+
+# Ryver default output
+_site/
+bower_components/
