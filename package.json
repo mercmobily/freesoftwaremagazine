@@ -2,9 +2,10 @@
   "name": "freesoftwaremagazine",
   "version": "1.0.0",
   "description": "What you see here is the _full_ repository of articles in [Free Software Magazine](http:/www.freesoftwaremagazine.com).",
-  "main": "a",
+  "main": "",
   "dependencies": {},
   "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
     "gulp": "^3.9.1",
     "gulp-csso": "^2.0.0",
     "gulp-sass": "^3.1.0"

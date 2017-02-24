@@ -3,7 +3,6 @@
 .DS_Store
 
 # Libs
-/bower_components
 /node_modules
 
 # Ryver default output
