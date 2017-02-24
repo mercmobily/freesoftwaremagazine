@@ -1,348 +1,41 @@
-<!--
-@license
-Copyright (c) 2016 The Polymer Project Authors. All rights reserved.
-This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
-The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
-The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
-Code distributed by Google as part of the polymer project is also
-subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
--->
-<!doctype html>
-<html lang="en">
 <%
-  var titleExtra = '', title = '';
-  if( info  && info.title ){
+  var titleExtra = ''
+  var title = '';
+
+  if (info && info.title) {
     titleExtra = " - " + info.title.replace(/<\/?[^>]+(>|$)/g, "");
     title = info.title;
   }
 %>
 
-
+<!DOCTYPE html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
 
     <title>Free Software Magazine<%=titleExtra%></title>
-    <meta name="description" content="My App description">
 
-    <link rel="icon" href="/images/favicon.ico">
-
-    <!-- See https://goo.gl/OOhYW5 -->
-    <link rel="manifest" href="/manifest.json">
-
-    <!-- See https://goo.gl/qRE0vM -->
-    <meta name="theme-color" content="#3f51b5">
-
-    <!-- Add to homescreen for Chrome on Android. Fallback for manifest.json -->
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="application-name" content="Free Software Magazine">
-
-    <!-- Add to homescreen for Safari on iOS -->
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="Free Software Magazine">
-
-    <!-- Homescreen icons -->
-    <link rel="apple-touch-icon" href="/images/manifest/icon-48x48.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/images/manifest/icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="96x96" href="/images/manifest/icon-96x96.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/images/manifest/icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="192x192" href="/images/manifest/icon-192x192.png">
-
-    <!-- Tile icon for Windows 8 (144x144 + tile color) -->
-    <meta name="msapplication-TileImage" content="/images/manifest/icon-144x144.png">
-    <meta name="msapplication-TileColor" content="#3f51b5">
-    <meta name="msapplication-tap-highlight" content="no">
-
-
-    <script>
-      // Setup Polymer options
-      window.Polymer = {
-        dom: 'shadow',
-        lazyRegister: true
-      };
-    </script>
-
-    <link rel="import" href="/bower_components/polymer/polymer.html">
-    <link rel="import" href="/bower_components/app-layout/app-drawer/app-drawer.html">
-    <link rel="import" href="/bower_components/app-layout/app-drawer-layout/app-drawer-layout.html">
-    <link rel="import" href="/bower_components/app-layout/app-header/app-header.html">
-    <link rel="import" href="/bower_components/app-layout/app-header-layout/app-header-layout.html">
-    <link rel="import" href="/bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
-    <link rel="import" href="/bower_components/app-layout/app-toolbar/app-toolbar.html">
-    <link rel="import" href="/bower_components/iron-selector/iron-selector.html">
-    <link rel="import" href="/bower_components/paper-icon-button/paper-icon-button.html">
-    <link rel="import" href="/bower_components/paper-material/paper-material.html">
-    <link rel="import" href="/bower_components/paper-card/paper-card.html">
-    <link rel="import" href="/bower_components/paper-button/paper-button.html">
-    <link rel="import" href="/bower_components/iron-flex-layout/iron-flex-layout-classes.html">
-    <link rel="import" href="/my-icons.html">
-
-    <script>
-
-      // Load webcomponentsjs polyfill if browser does not support native Web Components
-      (function() {
-        'use strict';
-
-        var onload = function() {
-          // For native Imports, manually fire WebComponentsReady so user code
-          // can use the same code path for native and polyfill'd imports.
-          if (!window.HTMLImports) {
-            document.dispatchEvent(
-              new CustomEvent('WebComponentsReady', {bubbles: true})
-            );
-          }
-        };
-
-        var webComponentsSupported = (
-          'registerElement' in document
-          && 'import' in document.createElement('link')
-          && 'content' in document.createElement('template')
-        );
-
-        if (!webComponentsSupported) {
-          var script = document.createElement('script');
-          script.async = true;
-          script.src = '/bower_components/webcomponentsjs/webcomponents-lite.min.js';
-          script.onload = onload;
-          document.head.appendChild(script);
-        } else {
-          onload();
-        }
-      })();
-
-      // Load pre-caching Service Worker
-      //if ('serviceWorker' in navigator) {
-      //  window.addEventListener('load', function() {
-      //    navigator.serviceWorker.register('/service-worker.js');
-      //  });
-      //}
-    </script>
-
-    <style is="custom-style" include="iron-flex iron-flex-alignment">
-
-      :root {
-        --app-primary-color: #4285f4;
-        --app-secondary-color: black;
-        --app-drawer-width: 120px;
-      }
-
-      body {
-        margin: 0;
-        font-family: 'Roboto', 'Noto', sans-serif;
-        line-height: 1.5;
-        min-height: 100vh;
-        background-color: #eeeeee;
-      }
-
-
-      app-header {
-        color: #fff;
-        background-color: var(--app-primary-color);
-      }
-      app-header paper-icon-button {
-        --paper-icon-button-ink-color: white;
-      }
-
-      .drawer-list {
-        margin: 0 20px;
-      }
-
-      a {
-        text-decoration: none;
-        font-weight: bold;
-        color: var(--app-secondary-color);
-      }
-
-      .drawer-list a {
-        display: block;
-
-        padding: 0 16px;
-
-        text-decoration: none;
-
-        color: var(--app-secondary-color);
-
-        line-height: 40px;
-      }
-
-      .drawer-list a.iron-selected {
-        color: black;
-        font-weight: bold;
-      }
-
-      paper-material {
-        margin-bottom: 10px;
-
-        <% if( system.filePath.split('/')[0] === 'articles' ) { %> max-width: 550px; <% } %>
-
-        padding: 10px;
-        display: block;
-      }
-
-      table, td {
-       border-width: 1px;
-       border-style: dotted;
-      }
-
-      pre {
-	padding: 0.1em 0.5em 0.3em 0.7em;
-	border-left: 11px solid #ccc;
-	margin: 1.7em 0 1.7em 0.3em;
-	width: 93%;
-	padding-bottom: 2em;
-	overflow: visible;
-	overflow-x: auto;
-      }
-
-      .article-published {
-        display: inline-block;
-        font-style: italic;
-      }
-
-      img {
-        max-width: 100%;
-      }
-
-      paper-material.article {
-        padding: 0;
-        margin: 10px;
-        box-sizing: border-box;
-        overflow: hidden;
-        width: 230px;
-      }
-
-
-     paper-material.article .header-container {
-        position: relative;
-        padding-top: 20px;
-        padding-bottom: 20px;
-        z-index: -10;
-      }
-
-      paper-material.article .header-container .header {
-        dispay: inline-block;
-        margin-left: 10px;
-        margin-right: 10px;
-      }
-
-      paper-material.article .section-name {
-        width: 100%;
-        position: absolute;
-      }
-
-
-     
-      paper-material.article .section-name span {
-        background-color: grey;
-        opacity: 1;
-      }
-
-      paper-material.article .contents-container .contents h1 {
-        font-size: 22px;
-        margin-top: 5px;
-      }
-
-      paper-material.article .contents-container .contents .tags {
-        font-size: 14px;
-      }
-
-     paper-material.article .contents-container {
-        position: relative;
-        padding-top: 5px;
-        padding-bottom: 20px;
-        background: #cccccc;
-        opacity: 0.8;
-      }
-
-      paper-material.article .contents-container .contents {
-        dispay: inline-block;
-        margin-left: 5px;
-        margin-right: 5px;
-      }
-
-
-      paper-material.article img {
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        width: 100%;
-        opacity: 0.15;
-      }
-
-
-      .pager paper-button {
-        padding: 0;
-        --paper-button: {
-          min-width: 2em;
-        }
-      }
-
-
-      .home h1, .contents h1 {
-        font-size: 20px;
-        display: inline-block;
-        border-bottom: 2px solid #d1d1d1;
-      }
-
-
-
-    </style>
+    <link rel="stylesheet" href="/assets/css/main.css">
   </head>
   <body>
+    <%- include('navbar') %>
 
-    <app-drawer-layout fullbleed>
-      <!-- Drawer content -->
-      <app-drawer swipe-open>
-      <div style="height: 100%; overflow: auto;">
+    <div class="container my-3">
+      <% if (info.listed) { %>
+        <%- include('articleInfo', { info: info, system: system }); %>
+      <% } %>
 
-        <app-toolbar>Menu</app-toolbar>
-        <iron-selector selected="[[page]]" attr-for-selected="name" class="drawer-list" role="navigation">
-          <a name="home" href="/">Home</a>
-          <a name="end_users" href="/sections/end_users">End users</a>
-          <a name="hacking" href="/sections/hacking">Hacking</a>
-          <a name="humour" href="/sections/humour">Humour</a>
-          <a name="interviews" href="/sections/interviews">Interviews</a>
-          <a name="opinions" href="/sections/opinions">Opinons</a>
-          <a name="reviews" href="/sections/reviews">Reviews</a>
-          <a name="all" href="/all_articles/">All articles</a>
-          <a name="issues" href="/issues/">Issues</a>
-          <a name="books" href="/books/">Books</a>
-        </iron-selector>
+      <!--contents-->
 
-      </div>
-      </app-drawer>
+      <% if (info.listed && info.license) { %>
+        <%- include('articleLicense'); %>
+      <% } %>
+    </div>
 
-      <!-- Main content -->
-      <app-header-layout>
-
-        <app-header condenses reveals effects="waterfall">
-          <app-toolbar>
-            <paper-icon-button icon="menu" drawer-toggle></paper-icon-button>
-            <div main-title>Free Software magazine</div>
-          </app-toolbar>
-        </app-header>
-
-        <paper-material>
-          <% if( info.listed ) { %>
-            <%- include('articleInfo', { info: info, system: system } ); %>
-          <% } %>
-
-          <div class="contents">
-            <!--contents-->
-          </div>
-
-          <% if( info.listed && info.license) { %>
-            <%- include('articleLicense' ); %>
-          <% } %>
-        </paper-material>
-
-      </app-header-layout>
-
-    </app-drawer-layout>
-
-    <!-- Built with love using Polymer Starter Kit -->
+    <script src="/bower_components/jquery/dist/jquery.slim.min.js"></script>
+    <script src="/bower_components/tether/dist/js/tether.min.js"></script>
+    <script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
   </body>
 </html>

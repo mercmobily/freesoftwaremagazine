@@ -15,44 +15,56 @@ makeListLatestVars:
 ---
 
 
-<% function showList(info, section){ %>
-<div class="horizontal layout wrap">
-<%   info.listLatestData[section].forEach( function( article ) { %>
-
-<%   //a.system.fileContentsAsBuffer = null; a.contents = ''; a.initialContents = ''; %>
-
-<%-include( 'articleCard', { article: article } ); %>
-
-
-<%   }); %>
-</div>
+<% function showList(info, section) { %>
+  <div class="row">
+    <% info.listLatestData[section].forEach(function(article) { %>
+      <% //a.system.fileContentsAsBuffer = null; a.contents = ''; a.initialContents = ''; %>
+      <div class="col-xs-12 col-md-4 col-xl-3">
+        <%- include('articleCard', { article: article }); %>
+      </div>
+    <% }); %>
+  </div>
 <% } %>
 
-<div class="home">
+<h3 class="initialism">Development</h3>
+<% showList(info, 'section.opinions') %>
 
-  <h1>Development</h1>
-  <% showList(info, 'section.opinions') %>
+<hr>
 
-  <h1>Hacking</h1>
-  <% showList(info, 'section.hacking') %>
+<h3 class="initialism">Hacking</h3>
+<% showList(info, 'section.hacking') %>
 
-  <h1>End Users</h1>
-  <% showList(info, 'section.end_users') %>
+<hr>
 
-  <h1>Games</h1>
-  <% showList(info, 'section.games') %>
+<h3 class="initialism">End Users</h3>
+<% showList(info, 'section.end_users') %>
 
-  <h1>Humour</h1>
-  <% showList(info, 'section.humour') %>
+<hr>
 
-  <h1>Interviews</h1>
-  <% showList(info, 'section.interviews') %>
+<h3 class="initialism">Games</h3>
+<% showList(info, 'section.games') %>
 
-  <h1>Reviews</h1>
-  <% showList(info, 'section.reviews') %>
+<hr>
+
+<h3 class="initialism">Humour</h3>
+<% showList(info, 'section.humour') %>
+
+<hr>
+
+<h3 class="initialism">Interviews</h3>
+<% showList(info, 'section.interviews') %>
+
+<hr>
+
+<h3 class="initialism">Reviews</h3>
+<% showList(info, 'section.reviews') %>
+
+<hr>
 
   <h1>Announcements</h1>
   <% showList(info, 'section.announcements') %>
 </div>
 <div>
   We organise Free Software Magazine with <a href="http://www.apollohq.com">Apollo Project Management</a>
+<h3 class="initialism">Announcements</h3>
+<% showList(info, 'section.announcements') %>

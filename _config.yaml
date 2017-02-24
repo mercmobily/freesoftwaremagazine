@@ -45,4 +45,4 @@ listAll:
 ignore:
   - bower.json
   - .git
-  
+  - node_modules

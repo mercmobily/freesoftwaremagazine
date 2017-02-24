@@ -1,0 +1,13 @@
+# macOS-generated files
+._*
+.DS_Store
+
+# Libs
+/bower_components
+/node_modules
+
+# Ryver default output
+/_site
+
+# Temporary built assets (to be moved inside /_site)
+/assets
