@@ -43,5 +43,6 @@ listAll:
   sortBy: published
 
 ignore:
-  bower.json
-  
+  - bower.json
+  - .git
+  - node_modules
