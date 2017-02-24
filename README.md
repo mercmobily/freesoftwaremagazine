@@ -8,7 +8,7 @@ Once you clone the repository, you can create a fully working site using [ryver]
 
 ## The actual commands
 
-    $ sudo npm install -g ry
+    $ sudo npm install -g ryver
     $ git clone https://github.com/mercmobily/freesoftwaremagazine.git src
     $ mkdir _site
     $ ryver src _site
