@@ -8,6 +8,3 @@
 
 # Ryver default output
 /_site
-
-# Temporary built assets (to be moved inside /_site)
-/assets
