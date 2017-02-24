@@ -2,7 +2,7 @@ var gulp = require('gulp');
 var sass = require('gulp-sass');
 var minifyCSS = require('gulp-csso');
 
-var scssPath = '_assets/scss/*.scss';
+var scssPath = '_assets/scss/**/*.scss';
 
 // Build SCSS
 gulp.task('stylesheets', function(){

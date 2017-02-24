@@ -38,6 +38,9 @@
 @import "../../node_modules/bootstrap/scss/responsive-embed";
 @import "../../node_modules/bootstrap/scss/close";
 
+@import "components/responsive-embed";
+@import "components/issue-card";
+
 // Components w/ JavaScript
 // @import "../../node_modules/bootstrap/scss/modal";
 // @import "../../node_modules/bootstrap/scss/tooltip";
