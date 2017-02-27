@@ -6,5 +6,5 @@
 	letter-spacing: 0.05em;
 }
 .btn-outline-inverse {
-  @include button-outline-variant($white, $gray-light);
+	@include button-outline-variant($white, $gray-light);
 }
