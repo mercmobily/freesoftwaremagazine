@@ -1,0 +1,10 @@
+.btn {
+	font-family: inherit;
+	font-size: $font-size-sm;
+	line-height: $line-height-base;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+}
+.btn-outline-inverse {
+  @include button-outline-variant($white, $gray-light);
+}

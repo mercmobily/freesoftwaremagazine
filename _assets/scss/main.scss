@@ -1,3 +1,6 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700');
+
 // Core variables and mixins
 // @import "../../node_modules/bootstrap/scss/variables";
 @import "variables";
@@ -38,9 +41,12 @@
 @import "../../node_modules/bootstrap/scss/responsive-embed";
 @import "../../node_modules/bootstrap/scss/close";
 
-@import "components/responsive-embed";
+@import "components/buttons";
 @import "components/book-card";
+@import "components/forms";
 @import "components/issue-card";
+@import "components/navbar";
+@import "components/responsive-embed";
 
 // Components w/ JavaScript
 // @import "../../node_modules/bootstrap/scss/modal";
