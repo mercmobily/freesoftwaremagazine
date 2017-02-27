@@ -3,5 +3,8 @@
 }
 .issue-card-img-item {
 	background-size: cover;
-	background-position: top center;
+}
+.issue-card-block {
+	padding-top: $card-spacer-y;
+	padding-bottom: $card-spacer-y;
 }
