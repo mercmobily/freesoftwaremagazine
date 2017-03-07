@@ -3,15 +3,15 @@ postFilters: layout
 postProcessFilters: template-ejs
 layout: home.html
 makeListLatestVars:
-	_ALL_: 10
-	section.announcements: 5
-	section.end_users: 5
-	section.games: 5
-	section.humour: 5
-	section.interviews: 5
-	section.reviews: 5
-	section.hacking: 5
-	section.opinions: 5
+  _ALL_: 10
+  section.announcements: 4
+  section.end_users: 4
+  section.games: 4
+  section.humour: 4
+  section.interviews: 4
+  section.reviews: 4
+  section.hacking: 4
+  section.opinions: 4
 ---
 
 <% function showList(info, title, section) { %>
@@ -27,6 +27,7 @@ makeListLatestVars:
 	</div>
 <% } %>
 
+<% showList(info, 'All', '_ALL_') %>
 <% showList(info, 'Development', 'section.opinions') %>
 <% showList(info, 'Hacking', 'section.hacking') %>
 <% showList(info, 'End Users', 'section.end_users') %>
