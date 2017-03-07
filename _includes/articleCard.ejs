@@ -1,51 +1,46 @@
-<% // ***************************************** %>
-<% // ************ toLink function ************ %>
-<% // ***************************************** %>
-
 <%
-function toLink(rootPath, list) {
-  var o = '';
-  var c = '';
-
-  if (!list) return; 
-
-  list.split(',').forEach((item) => {
-%>
-  <a href="/<%-rootPath%>/<%=item%>"><%= item %></a>
-<%
-  });
-};
+	function strToArray(str) {
+		if (!str) return [];
+		
+		return str.split(',').map(function(item) {
+			return item.replace('_', ' ').trim();
+		});
+	}
+	
+	var url = `/${article.system.filePath}/`;
+	var img = `${url}${article.info.main_image}`;
+	var date = new Date(article.info.published).toLocaleDateString();
+	var sections = strToArray(article.info.section);
+	var authors = strToArray(article.info.authors);
 %>
 
-<%
-  var link = `/${article.system.filePath}/`;
-  var image = `${link}${article.info.main_image}`;
-  var titleMaybeLink = `<a href="/${article.system.filePath}/">${article.info.title}</a>`;
+<div class="card article-card">
+	<a href="<%= url %>">
+		<div class="card-img-top embed-responsive embed-responsive-3by4 article-card-img" >
+			<div class="embed-responsive-item article-card-img-item" style="background-image: url(<%= img %>)"></div>
+		</div>
+	</a>
+	<div class="card-block article-card-block">
+		<% if (article.info.section) { %>
+			<p class="article-card-sectionname">
+				<% sections.forEach(function(section) { %>
+					<a href="/sections/<%= section %>"><%= section %></a>
+				<% }); %>
+			</p>
+		<% } %>
 
-  var a = article;
-%>
+		<h5 class="card-title article-card-title">
+			<a href="<%= url %>">
+				<%= article.info.title %>
+			</a>
+		</h5>
 
-<div class="article">
-  <img class="img-fluid" src="<%- image %>">
-
-  <% if (a.info.section) { %>
-    <div class="initialism text-muted">
-      <%= toLink('sections', a.info.section) %>
-    </div>
-  <% } %>
-
-  <!--
-  <% if (a.info.book ) { %>
-    <div class=" initialism text-muted">
-      <%- toLink('sections', a.info.book ); %>
-    </div>
-  <% } %>
-  -->
-
-  <div><%= toLink('authors', a.info.authors) %></div>
-  <div><%= new Date(a.info.published).toLocaleDateString() %></div>
-  <div><a href="http://fsmsh.com/<%=a.info.nid%>">fsmsh.com/<%= a.info.nid %></a></div>
-
-  <h4><%- titleMaybeLink %></h4>
-  <div><%= toLink('tags', a.info.tags || '') %></div>
+		<p class="article-card-meta">
+			<%= date %>
+			&ndash;
+			<% authors.forEach(function(author) { %>
+				<%= author %>
+			<% }); %>
+		</p>
+	</div>
 </div>

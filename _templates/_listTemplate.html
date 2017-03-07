@@ -1,60 +1,60 @@
 <div class="row <%=info.pagerData.listName%>">
-  <% info.pagerData.elementsInThisPage.forEach(function(article){ %>
-    <div class="col-xs-12 col-md-4 col-xl-3">
-      <%- include('articleCard', { article: article }); %>
-    </div>
-  <% }); %>
+	<% info.pagerData.elementsInThisPage.forEach(function(article){ %>
+		<div class="col-sm-6 col-lg-4 mb-4">
+			<%- include('articleCard', { article: article }); %>
+		</div>
+	<% }); %>
 </div>
 
 <% if (info.pagerData && info.pagerData.totalPages && info.pagerData.totalPages != 1) { %>
-  <nav aria-label="This article spans multiple pages">
-    <ul class="pagination justify-content-center">
-      <!-- "Previous" -->
-      <% if (info.pagerData.prevPageName) { %>
-        <li class="page-item">
-          <a class="page-link" href="<%=info.pagerData.prevPageName%><%=system.fileExt%>" aria-label="Previous">
-            <span aria-hidden="true">&laquo;</span>
-            <span class="sr-only">Previous</span>
-          </a>
-        </li>
-      <% } else { %>
-        <li class="page-item disabled">
-          <a class="page-link" href="#" aria-label="Previous" tabindex="-1">
-            <span aria-hidden="true">&laquo;</span>
-            <span class="sr-only">Previous</span>
-          </a>
-        </li>
-      <% } %>
+	<nav aria-label="This article spans multiple pages">
+		<ul class="pagination justify-content-center my-3">
+			<!-- "Previous" -->
+			<% if (info.pagerData.prevPageName) { %>
+				<li class="page-item">
+					<a class="page-link" href="<%=info.pagerData.prevPageName%><%=system.fileExt%>" aria-label="Previous">
+						<span aria-hidden="true">&laquo;</span>
+						<span class="sr-only">Previous</span>
+					</a>
+				</li>
+			<% } else { %>
+				<li class="page-item disabled">
+					<a class="page-link" href="#" aria-label="Previous" tabindex="-1">
+						<span aria-hidden="true">&laquo;</span>
+						<span class="sr-only">Previous</span>
+					</a>
+				</li>
+			<% } %>
 
-      <!-- "Numbers" -->
-      <% info.pagerData.pager.forEach(function(page) { %>
-        <% if (page.thisPage) { %>
-          <li class="page-item active">
-            <a class="page-link" href="#" tabindex="-1"><%=page.pageNumber%></a>
-          </li>
-        <% } else { %>
-          <li class="page-item">
-            <a class="page-link" href="<%=page.pageName%><%=system.fileExt%>"><%=page.pageNumber%></a>
-          </li>
-        <% } %>
-      <% }); %>
+			<!-- "Numbers" -->
+			<% info.pagerData.pager.forEach(function(page) { %>
+				<% if (page.thisPage) { %>
+					<li class="page-item active">
+						<a class="page-link" href="#" tabindex="-1"><%=page.pageNumber%></a>
+					</li>
+				<% } else { %>
+					<li class="page-item">
+						<a class="page-link" href="<%=page.pageName%><%=system.fileExt%>"><%=page.pageNumber%></a>
+					</li>
+				<% } %>
+			<% }); %>
 
-      <!-- "Next" -->
-      <% if (info.pagerData.nextPageName) { %>
-        <li class="page-item">
-          <a class="page-link" href="<%=info.pagerData.nextPageName%><%=system.fileExt%>" aria-label="Next">
-            <span aria-hidden="true">&raquo;</span>
-            <span class="sr-only">Next</span>
-          </a>
-        </li>
-      <% } else { %>
-        <li class="page-item disabled">
-          <a class="page-link" href="#" aria-label="Next" tabindex="-1">
-            <span aria-hidden="true">&raquo;</span>
-            <span class="sr-only">Next</span>
-          </a>
-        </li>
-      <% } %>
-    </div>
-  </nav>
+			<!-- "Next" -->
+			<% if (info.pagerData.nextPageName) { %>
+				<li class="page-item">
+					<a class="page-link" href="<%=info.pagerData.nextPageName%><%=system.fileExt%>" aria-label="Next">
+						<span aria-hidden="true">&raquo;</span>
+						<span class="sr-only">Next</span>
+					</a>
+				</li>
+			<% } else { %>
+				<li class="page-item disabled">
+					<a class="page-link" href="#" aria-label="Next" tabindex="-1">
+						<span aria-hidden="true">&raquo;</span>
+						<span class="sr-only">Next</span>
+					</a>
+				</li>
+			<% } %>
+		</div>
+	</nav>
 <% } %>
