@@ -36,11 +36,12 @@
 		</h5>
 
 		<p class="article-card-meta">
-			<%= date %>
-			&ndash;
+			by
 			<% authors.forEach(function(author) { %>
-				<%= author %>
+				<a href="/authors/<%= author %>"><%= author %></a>
 			<% }); %>
+			&ndash;
+			<%= date %>
 		</p>
 	</div>
 </div>

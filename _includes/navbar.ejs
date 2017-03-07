@@ -3,8 +3,9 @@
 		<a class="navbar-brand mr-0" href="/" title="Home">
 			<%- include('navbarLogo') %>
 		</a>
-		<form class="form-inline hidden-xs-down">
-			<input class="form-control mr-2" type="text" placeholder="Search articles&hellip;">
+		<form class="form-inline hidden-xs-down" method="get" action="https://www.google.com/search">
+			<input type="hidden" name="sitesearch" value="http://www.freesoftwaremagazine.com">
+			<input type="text" class="form-control mr-2" name="q" placeholder="Search articles&hellip;">
 			<button class="btn btn-outline-inverse" type="submit">Search</button>
 		</form>
 	</div>

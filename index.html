@@ -3,67 +3,39 @@ postFilters: layout
 postProcessFilters: template-ejs
 layout: home.html
 makeListLatestVars:
-  _ALL_: 10
-  section.announcements: 5
-  section.end_users: 5
-  section.games: 5
-  section.humour: 5
-  section.interviews: 5
-  section.reviews: 5
-  section.hacking: 5
-  section.opinions: 5
+	_ALL_: 10
+	section.announcements: 5
+	section.end_users: 5
+	section.games: 5
+	section.humour: 5
+	section.interviews: 5
+	section.reviews: 5
+	section.hacking: 5
+	section.opinions: 5
 ---
 
-
-<% function showList(info, section) { %>
-  <div class="row">
-    <% info.listLatestData[section].forEach(function(article) { %>
-      <% //a.system.fileContentsAsBuffer = null; a.contents = ''; a.initialContents = ''; %>
-      <div class="col-xs-12 col-md-4 col-xl-3">
-        <%- include('articleCard', { article: article }); %>
-      </div>
-    <% }); %>
-  </div>
+<% function showList(info, title, section) { %>
+	<h5 class="mt-5"><%= title %></h5>
+	<hr class="mt-0">
+	<div class="row">
+		<!-- FIXME: Generation does not work here -->
+		<% info.listLatestData[section].forEach(function(article) { %>
+			<div class="col-sm-6 col-lg-4 mb-4">
+				<%- include('articleCard', { article: article }); %>
+			</div>
+		<% }); %>
+	</div>
 <% } %>
 
-<h3 class="initialism">Development</h3>
-<% showList(info, 'section.opinions') %>
+<% showList(info, 'Development', 'section.opinions') %>
+<% showList(info, 'Hacking', 'section.hacking') %>
+<% showList(info, 'End Users', 'section.end_users') %>
+<% showList(info, 'Games', 'section.games') %>
+<% showList(info, 'Humour', 'section.humour') %>
+<% showList(info, 'Interviews', 'section.interviews') %>
+<% showList(info, 'Reviews', 'section.reviews') %>
+<% showList(info, 'Announcements', 'section.announcements') %>
 
-<hr>
-
-<h3 class="initialism">Hacking</h3>
-<% showList(info, 'section.hacking') %>
-
-<hr>
-
-<h3 class="initialism">End Users</h3>
-<% showList(info, 'section.end_users') %>
-
-<hr>
-
-<h3 class="initialism">Games</h3>
-<% showList(info, 'section.games') %>
-
-<hr>
-
-<h3 class="initialism">Humour</h3>
-<% showList(info, 'section.humour') %>
-
-<hr>
-
-<h3 class="initialism">Interviews</h3>
-<% showList(info, 'section.interviews') %>
-
-<hr>
-
-<h3 class="initialism">Reviews</h3>
-<% showList(info, 'section.reviews') %>
-
-<hr>
-
-<h3 class="initialism">Announcements</h3>
-<% showList(info, 'section.announcements') %>
-
-<hr>
+<hr class="my-5">
 
 <p class="text-center">We organise Free Software Magazine with <a href="http://www.apollohq.com">Apollo Project Management</a></p>

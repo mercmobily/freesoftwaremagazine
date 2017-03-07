@@ -47,6 +47,7 @@
 .article-card-meta {
 	margin-top: $spacer / 2;
 	margin-bottom: 0;
-	font-size: $font-size-sm;
+	font-size: $font-size-xs;
 	color: $text-muted;
+    text-transform: uppercase;
 }

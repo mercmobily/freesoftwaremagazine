@@ -110,7 +110,7 @@ eventEC.onCollect( 'filter', function( cb ){
 
     // IMG "FAMILY" (to be fixed later)
     fileData.contents = fileData.contents.replace( /=(IMAGE|IMG|IMG_CLEAR|IMAGE_BIG|IMG_PRIVATE)=(.*?)=(.*?)=[\r\n]+/gm, function( matches, dummy, src, caption ){
-      return `\n\n<div class="image">\n<div class="caption">\n\n${caption}\n\n</div>\n<div class="img"><img src="${src}"></img>\n</div>\n</div>` + "\n\n";
+      return `\n\n<figure class="figure">\n<img class="figure-img img-fluid rounded" src="${src}">\n<figcaption class="figure-caption">${caption}</figcaption>\n</figure>\n\n`;
     });
 
 
@@ -122,17 +122,17 @@ eventEC.onCollect( 'filter', function( cb ){
 
     // ZOOM
     fileData.contents = fileData.contents.replace( /=ZOOM=(.*?)=[\r\n]+/gm, function( matches, caption ){
-      return `\n\n<div class="zoom">\n\n${caption}\n\n</div>\n\n`;
+      return `\n\n<blockquote class="blockquote">\n<p class="mb-0">${caption}</p>\n</blockquote>\n\n`;
     });
 
     // YOUTUBE 
     fileData.contents = fileData.contents.replace( /=VIDEO=YOUTUBE=(.*?)=/gm, function( matches, id ){
-      return `\n\n<div style="embedded-youtube"><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/${id}&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/${id}&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></div>\n\n`;
+      return `\n\n<div class="embed-responsive embed-responsive-16by9">\n<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/${id}?ecver=2" allowfullscreen>\n</iframe></div>\n\n`;
     });
 
     // BLIP
-    fileData.contents = fileData.contents.replace( /=VIDEO=YOUTUBE=(.*?)=/gm, function( matches, id ){
-      return `\n\n<div style="embedded-blip"><embed src="http://blip.tv/play/${id}" type="application/x-shockwave-flash" width="425" height="355" allowscriptaccess="always" allowfullscreen="true"></embed></div>\n\n\n`;
+    fileData.contents = fileData.contents.replace( /=VIDEO=BLIP=(.*?)=/gm, function( matches, id ){
+      return `\n\n<div class="embed-responsive embed-responsive-16by9">\n<embed class="embed-responsive-item" src="http://blip.tv/play/${id}" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen>\n</embed></div>\n\n`;
     });
 
     //console.log("CONTENTS TO BE PASSED TO MARKDOWN IS:", fileData.contents );
