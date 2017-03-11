@@ -1,0 +1,19 @@
+* Source code doesn't have a background and it's hard to read
+  http://freesoftwaremagazine.com/articles/drivers_linux/
+
+* Textboxes are not rendered with a background
+
+* There is no favico
+
+* In the home, the titles ("All", "Development", "Hacking") should be bigger
+  and styled so that are nice to look at
+
+* Dates are in US format (BY TONY MOBILY – 6/15/2015 ) whereas they should be
+  set by the browser's locale
+
+* When clicking on a section, have the section name as title
+
+* http://freesoftwaremagazine.com/books/ is broken and unfinished
+
+* http://freesoftwaremagazine.com/sections/humour/ doesn't have
+  images for each entry
