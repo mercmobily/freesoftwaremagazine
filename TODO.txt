@@ -1,3 +1,11 @@
+* http://freesoftwaremagazine.com/books/ is broken and unfinished
+  http://freesoftwaremagazine.com/issues/ too
+  Please check others
+
+
+* Book pages are not styled
+  http://freesoftwaremagazine.com/articles/autotools_a_guide_to_autoconf_automake_libtool/
+
 * Source code doesn't have a background and it's hard to read
   http://freesoftwaremagazine.com/articles/drivers_linux/
 
@@ -12,8 +20,7 @@
   set by the browser's locale
 
 * When clicking on a section, have the section name as title
-
-* http://freesoftwaremagazine.com/books/ is broken and unfinished
+  http://freesoftwaremagazine.com/sections/end_users/
 
 * http://freesoftwaremagazine.com/sections/humour/ doesn't have
   images for each entry
