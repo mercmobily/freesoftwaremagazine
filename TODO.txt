@@ -9,6 +9,10 @@
 * Source code doesn't have a background and it's hard to read
   http://freesoftwaremagazine.com/articles/drivers_linux/
 
+* If I give you a variable to know if there IS a main image, is it
+  possible to provide *something* for articles without images?
+  http://freesoftwaremagazine.com/tags/kubuntu/
+
 * Textboxes are not rendered with a background
 
 * There is no favico
