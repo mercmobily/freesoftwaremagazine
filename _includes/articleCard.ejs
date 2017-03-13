@@ -8,18 +8,20 @@
 	}
 	
 	var url = `/${article.system.filePath}/`;
-	var img = `${url}${article.info.main_image}`;
+	var img = article.info.main_image ? `${url}${article.info.main_image}` : null;
 	var date = new Date(article.info.published).toLocaleDateString();
 	var sections = strToArray(article.info.section);
 	var authors = strToArray(article.info.authors);
 %>
 
 <div class="card article-card">
-	<a href="<%= url %>">
-		<div class="card-img-top embed-responsive embed-responsive-3by4 article-card-img" >
-			<div class="embed-responsive-item article-card-img-item" style="background-image: url(<%= img %>)"></div>
-		</div>
-	</a>
+	<% if (img) { %>
+		<a href="<%= url %>">
+			<div class="card-img-top embed-responsive embed-responsive-3by4 article-card-img" >
+				<div class="embed-responsive-item article-card-img-item" style="background-image: url(<%= img %>)"></div>
+			</div>
+		</a>
+	<% } %>
 	<div class="card-block article-card-block">
 		<% if (article.info.section) { %>
 			<p class="article-card-sectionname">
