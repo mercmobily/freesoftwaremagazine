@@ -8,7 +8,7 @@ delayPostProcess: true
 <%- '' && info.inspect( info, { depth: 10 } ) %>
 
   <url>
-    <loc>http://www.freesoftwaremagazine.com/</loc>
+    <loc>http://freesoftwaremagazine.com/</loc>
     <lastmod><%=new Date().toISOString().slice(0,10)%></lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -17,7 +17,7 @@ delayPostProcess: true
 <% info.fullList.forEach( function( a ) { %>
 
   <url>
-    <loc>http://www.freesoftwaremagazine.com/<%=a.system.filePath%></loc>
+    <loc>http://freesoftwaremagazine.com/<%=a.system.filePath%></loc>
     <lastmod><%=a.info.published ? a.info.published.substr(0,10) : ''%></lastmod>
     <changefreq>Monthly</changefreq>
   </url>
