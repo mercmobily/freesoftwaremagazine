@@ -3,7 +3,7 @@
 	var title = '';
 
 	if (info && info.title) {
-		titleExtra = " - " + info.title.replace(/<\/?[^>]+(>|$)/g, "");
+		titleExtra = "" + info.title.replace(/<\/?[^>]+(>|$)/g, "");
 		title = info.title;
 	}
 %>
@@ -15,7 +15,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 
-		<title>Free Software Magazine<%=titleExtra%></title>
+		<title><%=titleExtra%></title>
 
 		<link rel="stylesheet" href="/assets/css/main.css">
 	</head>
