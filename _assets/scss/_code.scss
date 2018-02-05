@@ -1,0 +1,6 @@
+pre {
+    background-color: $pre-bg;
+    padding: $code-padding-y $code-padding-x;
+    border: 1px solid $pre-border-color;
+    overflow-x: auto;
+}

@@ -1,1 +1,56 @@
-generic.html
+<%
+	function toLink (rootPath, list) {
+		if (list == '') return;
+
+	 list.split(',').forEach(function(item) {
+%>
+		<a href="/<%-rootPath%>/<%=item%>"><%= item %></a>
+<%      
+		});
+	};
+%>
+
+<%- include('layoutHead'); %>
+
+<div class="row">
+	<div class="offset-lg-1 col-lg-10 offset-xl-2 col-xl-8">
+		<h1 class="display-4" ><%= info.title %></h1>
+
+		<ul class="list-inline article-meta">
+			<li class="list-inline-item">
+				By <%= toLink('authors', info.authors) %>
+				<% if (info.section) { %>
+					in <%= toLink('sections', info.section) %>
+				<% } %>
+				<% if (info.book) { %>
+					in <%= toLink('sections', info.book) %>
+				<% } %>
+			</li>
+			<li class="list-inline-item"><%= new Date(info.published).toLocaleDateString() %></li>
+			<li class="list-inline-item">
+				<a href="http://fsmsh.com/<%= info.nid %>">Permalink</a>
+			</li>
+			<% if (info.tags) { %>
+				<li class="list-inline-item">
+					Tags: <span class="mr-1"><%= toLink('tags', info.tags || '') %></span>
+				</li>
+			<% } %>
+			</ul>
+		</ul>
+
+		<div class="article-content">
+			<!--contents-->
+		</div>
+
+		<% if (info.license) { %>
+			<div class="card bg-faded mt-5">
+				<div class="card-block">
+					<h4 class="card-title">License</h4>
+					<p class="card-text"><%- include('licenses/' + info.license + '.txt') %></p>
+				</div>
+			</div>
+		<% } %>
+	</div>
+</div>
+
+<%- include('layoutFoot'); %>

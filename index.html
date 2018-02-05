@@ -4,53 +4,39 @@ postProcessFilters: template-ejs
 layout: home.html
 makeListLatestVars:
   _ALL_: 10
-  section.announcements: 5
-  section.end_users: 5
-  section.games: 5
-  section.humour: 5
-  section.interviews: 5
-  section.reviews: 5
-  section.hacking: 5
-  section.opinions: 5
+  section.announcements: 4
+  section.end_users: 4
+  section.games: 4
+  section.humour: 4
+  section.interviews: 4
+  section.reviews: 4
+  section.hacking: 4
+  section.opinions: 4
 ---
 
-
-<% function showList(info, section){ %>
-<div class="horizontal layout wrap">
-<%   info.listLatestData[section].forEach( function( article ) { %>
-
-<%   //a.system.fileContentsAsBuffer = null; a.contents = ''; a.initialContents = ''; %>
-
-<%-include( 'articleCard', { article: article } ); %>
-
-
-<%   }); %>
-</div>
+<% function showList(info, title, section) { %>
+	<h3 class="mt-5"><%= title %></h3>
+	<hr class="mt-0">
+	<div class="row">
+		<!-- FIXME: Generation does not work here -->
+		<% info.listLatestData[section].forEach(function(article) { %>
+			<div class="col-sm-6 col-lg-4 mb-4">
+				<%- include('articleCard', { article: article }); %>
+			</div>
+		<% }); %>
+	</div>
 <% } %>
 
-<div class="home">
+<% showList(info, 'All', '_ALL_') %>
+<% showList(info, 'Development', 'section.opinions') %>
+<% showList(info, 'Hacking', 'section.hacking') %>
+<% showList(info, 'End Users', 'section.end_users') %>
+<% showList(info, 'Games', 'section.games') %>
+<% showList(info, 'Humour', 'section.humour') %>
+<% showList(info, 'Interviews', 'section.interviews') %>
+<% showList(info, 'Reviews', 'section.reviews') %>
+<% showList(info, 'Announcements', 'section.announcements') %>
 
-  <h1>Development</h1>
-  <% showList(info, 'section.opinions') %>
+<hr class="my-5">
 
-  <h1>Hacking</h1>
-  <% showList(info, 'section.hacking') %>
-
-  <h1>End Users</h1>
-  <% showList(info, 'section.end_users') %>
-
-  <h1>Games</h1>
-  <% showList(info, 'section.games') %>
-
-  <h1>Humour</h1>
-  <% showList(info, 'section.humour') %>
-
-  <h1>Interviews</h1>
-  <% showList(info, 'section.interviews') %>
-
-  <h1>Reviews</h1>
-  <% showList(info, 'section.reviews') %>
-
-  <h1>Announcements</h1>
-  <% showList(info, 'section.announcements') %>
-</div>
+<p class="text-center">We organise Free Software Magazine with <a href="http://www.apollohq.com">Apollo Project Management</a></p>

@@ -1,0 +1,38 @@
+.navbar {
+	.logo {
+		display: block;
+		width: 91px;
+		height: 52px;
+	}
+}
+.navbar-nav {
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+
+	.nav-item {
+		margin-left: .5em;
+		margin-right: .5em;
+	}
+	.nav-link {
+		font-size: $font-size-sm;
+		text-transform: uppercase;
+		letter-spacing: .05em;
+		padding-top: .25em;
+		padding-bottom: .25em;
+	}
+}
+
+// Colors
+.navbar-primary {
+	background-color: $brand-primary;
+
+	.logo-letters,
+	.logo-name {
+		fill: #fff !important;
+	}
+}
+
+.navbar-clear {
+	box-shadow: 0 1px 10px rgba($black, .1);
+}

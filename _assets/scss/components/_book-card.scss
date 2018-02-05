@@ -1,0 +1,17 @@
+.book-card {
+	height: 100%;
+}
+.book-card-img {
+	background-color: $gray-lighter;
+}
+.book-card-img-item {
+	background-size: cover;
+}
+.book-card-title {
+	margin-bottom: 0;
+	line-height: $line-height-lg;
+}
+.book-card-block {
+	padding-top: $card-spacer-y;
+	padding-bottom: $card-spacer-y;
+}

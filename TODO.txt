@@ -1,0 +1,43 @@
+ ☐ http://freesoftwaremagazine.com/books/ is broken and unfinished
+   http://freesoftwaremagazine.com/issues/ too
+   Please check others
+   > They're not broken. They're just missing the cover images. I don't know
+   > where to get them.
+
+✔ Book pages are not styled @done (3/13/2017, 9:29:18 AM)
+  http://freesoftwaremagazine.com/articles/autotools_a_guide_to_autoconf_automake_libtool/
+
+✔ Source code doesn't have a background and it's hard to read @done (3/13/2017, 9:59:30 AM)
+  http://freesoftwaremagazine.com/articles/drivers_linux/
+
+☐ If I give you a variable to know if there IS a main image, is it
+  possible to provide *something* for articles without images?
+  http://freesoftwaremagazine.com/tags/kubuntu/
+  > You're talking about a placeholder?
+
+☐ Textboxes are not rendered with a background
+  > Please provide an example
+
+✔ There is no favicon @done (3/13/2017, 10:20:50 AM)
+
+✔ In the home, the titles ("All", "Development", "Hacking") should be bigger and
+  styled so that are nice to look at @done (3/13/2017, 9:37:42 AM)
+  > Define "nice to look at". There isn't a style guide for this project, so I
+  > Don't know what you mean by "nice". I just made them bigger for now.
+
+☐ Dates are in US format (BY TONY MOBILY – 6/15/2015 ) whereas they should be
+  set by the browser's locale
+  > I'm using toLocaleDateString. Dates are built into templates, they can't be
+  > printed using the user locale, unless we render it on the client.
+
+☐ When clicking on a section, have the section name as title
+  http://freesoftwaremagazine.com/sections/end_users/
+  > Put `<h3 class="text-center mb-4">Whatever</h3>` at the top of
+  > `_templates/_listTemplate.html`. I don't know where to get the section name.
+
+✔ http://freesoftwaremagazine.com/sections/humour/ doesn't have images for
+  each entry @done (3/13/2017, 10:03:12 AM)
+  > I have removed the image placeholder if no image is set. Obviously this
+  > effects all articles without an image.
+
+☐ Tony: Add the "table" class to generated tables: <table class="table"></table>
