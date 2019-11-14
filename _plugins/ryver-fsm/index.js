@@ -210,7 +210,7 @@ eventEC.onCollect( 'afterPostProcessFilters', function( cb ){
       fs.mkdir( fullDest, function( err ){
         //if( err ) return cb( err );
 
-        var url = 'http://www.freesoftwaremagazine.com/articles/' + parts[1];
+        var url = 'http://freesoftwaremagazine.com/articles/' + parts[1];
 
         fs.writeFile( p.join(fullDest, 'index.html'), `<html xmlns="http://www.w3.org/1999/xhtml">    
   <head>      
@@ -219,7 +219,7 @@ eventEC.onCollect( 'afterPostProcessFilters', function( cb ){
   </head>    
   <body> 
     <p>This page is actually located on <a href="${url}">
-      www.freesoftwaremagazine.com</a>.</p> 
+      freesoftwaremagazine.com</a>.</p> 
   </body>  
 </html>    
 `, function(err) {
