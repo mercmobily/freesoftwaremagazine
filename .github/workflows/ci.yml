@@ -30,5 +30,5 @@ jobs:
       - name: Validate FSM transforms
         run: bundle exec ruby legacy/migration/scripts/validate_fsm_transforms.rb
 
-      - name: Validate site parity
-        run: bundle exec ruby legacy/migration/scripts/validate_site_parity.rb
+      - name: Validate site integrity
+        run: bundle exec ruby legacy/migration/scripts/validate_site_integrity.rb

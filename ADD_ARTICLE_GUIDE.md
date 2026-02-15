@@ -202,15 +202,15 @@ Run:
 
 ```bash
 bundle exec jekyll build
-bundle exec ruby scripts/validate_fsm_transforms.rb
-bundle exec ruby scripts/validate_site_parity.rb
+bundle exec ruby legacy/migration/scripts/validate_fsm_transforms.rb
+bundle exec ruby legacy/migration/scripts/validate_site_integrity.rb
 ```
 
 Optional Ryver-vs-Jekyll article comparison (when `_site_orig/` exists):
 
 ```bash
-bundle exec jekyll build -d _site_jekyll
-bundle exec ruby scripts/compare_ryver_jekyll_articles.rb --orig-root _site_orig --new-root _site_jekyll
+bundle exec jekyll build -d legacy/_site_jekyll
+bundle exec ruby legacy/migration/scripts/compare_ryver_jekyll_articles.rb --orig-root legacy/_site_orig --new-root legacy/_site_jekyll
 ```
 
 Optional duplicate `nid` check:
@@ -244,5 +244,5 @@ Then open:
 - Create/update articles via Pull Request (no direct pushes to protected branch).
 - CI must pass before merge:
   - `bundle exec jekyll build`
-  - `bundle exec ruby scripts/validate_fsm_transforms.rb`
-  - `bundle exec ruby scripts/validate_site_parity.rb`
+  - `bundle exec ruby legacy/migration/scripts/validate_fsm_transforms.rb`
+  - `bundle exec ruby legacy/migration/scripts/validate_site_integrity.rb`

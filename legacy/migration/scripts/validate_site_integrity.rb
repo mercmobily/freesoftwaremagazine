@@ -206,10 +206,10 @@ checks.each do |name, actual, expected|
 end
 
 if failures.empty?
-  puts "\nSite parity validation passed."
+  puts "\nSite integrity validation passed."
   exit 0
 end
 
-puts "\nSite parity validation failed:"
+puts "\nSite integrity validation failed:"
 failures.uniq.each { |failure| puts "- #{failure}" }
 exit 1
