@@ -39,6 +39,29 @@ def apply_article_defaults(data)
   merged
 end
 
+def parse_time(value)
+  return value.to_time if value.respond_to?(:to_time)
+  return Time.parse(value) if value.is_a?(String) && !value.strip.empty?
+
+  nil
+rescue ArgumentError
+  nil
+end
+
+def fallback_published(path, data)
+  from_date_field = parse_time(data["date"])
+  return from_date_field if from_date_field
+
+  from_published_field = parse_time(data["published"])
+  return from_published_field if from_published_field
+
+  return File.mtime(path) if File.file?(path)
+
+  Time.at(0)
+rescue StandardError
+  Time.at(0)
+end
+
 def listed?(data)
   value = data["listed"]
   return true if value == true
@@ -83,6 +106,7 @@ end
 source_articles = []
 Dir.glob(File.join(ROOT, "articles", "*", "index.md")).sort.each do |path|
   data = apply_article_defaults(load_frontmatter(path))
+  data["published"] = fallback_published(path, data) if blank_value?(data["published"])
   slug = File.basename(File.dirname(path))
   source_articles << { path: path, slug: slug, data: data }
 end
