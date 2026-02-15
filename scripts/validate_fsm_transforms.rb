@@ -3,7 +3,7 @@
 
 require "jekyll"
 
-ROOT = File.expand_path("../../..", __dir__)
+ROOT = File.expand_path("..", __dir__)
 require File.join(ROOT, "_plugins", "fsm_content_transforms")
 
 def assert(name)

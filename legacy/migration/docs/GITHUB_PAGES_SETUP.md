@@ -68,8 +68,8 @@ Expected:
 On every PR targeting `master` or `main`, CI runs:
 
 1. `bundle exec jekyll build`
-2. `bundle exec ruby legacy/migration/scripts/validate_fsm_transforms.rb`
-3. `bundle exec ruby legacy/migration/scripts/validate_site_integrity.rb`
+2. `bundle exec ruby scripts/validate_fsm_transforms.rb`
+3. `bundle exec ruby scripts/validate_site_integrity.rb`
 
 On pushes to `master` or `main`, deploy workflow:
 

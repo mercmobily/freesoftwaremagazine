@@ -197,8 +197,8 @@ Run:
 
 ```bash
 bundle exec jekyll build
-bundle exec ruby legacy/migration/scripts/validate_fsm_transforms.rb
-bundle exec ruby legacy/migration/scripts/validate_site_integrity.rb
+bundle exec ruby scripts/validate_fsm_transforms.rb
+bundle exec ruby scripts/validate_site_integrity.rb
 ```
 
 Optional Ryver-vs-Jekyll article comparison (when `_site_orig/` exists):
@@ -239,5 +239,5 @@ Then open:
 - Create/update articles via Pull Request (no direct pushes to protected branch).
 - CI must pass before merge:
   - `bundle exec jekyll build`
-  - `bundle exec ruby legacy/migration/scripts/validate_fsm_transforms.rb`
-  - `bundle exec ruby legacy/migration/scripts/validate_site_integrity.rb`
+  - `bundle exec ruby scripts/validate_fsm_transforms.rb`
+  - `bundle exec ruby scripts/validate_site_integrity.rb`

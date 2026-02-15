@@ -7,7 +7,7 @@ require "set"
 require "time"
 require "yaml"
 
-ROOT = File.expand_path("../../..", __dir__)
+ROOT = File.expand_path("..", __dir__)
 SITE = File.join(ROOT, "_site")
 PER_PAGE = 20
 ARTICLE_DEFAULTS = {

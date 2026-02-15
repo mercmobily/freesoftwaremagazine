@@ -38,15 +38,14 @@ Local validation commands:
 
 ```bash
 bundle exec jekyll build
-bundle exec ruby legacy/migration/scripts/validate_fsm_transforms.rb
-bundle exec ruby legacy/migration/scripts/validate_site_integrity.rb
+bundle exec ruby scripts/validate_fsm_transforms.rb
+bundle exec ruby scripts/validate_site_integrity.rb
 ```
 
 Operational docs:
 
 - `ADD_ARTICLE_GUIDE.md` (article format, preferred FSM syntax, validation)
 - `legacy/migration/docs/GITHUB_PAGES_SETUP.md` (migration/deploy notes)
-
 
 
 
