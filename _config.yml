@@ -29,6 +29,9 @@ defaults:
     values:
       layout: article
       render_with_liquid: false
+      listed: "true"
+      license: verbatim_only
+      section: opinions
   - scope:
       path: "pages"
       type: pages

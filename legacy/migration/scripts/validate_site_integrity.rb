@@ -10,6 +10,18 @@ require "yaml"
 ROOT = File.expand_path("../../..", __dir__)
 SITE = File.join(ROOT, "_site")
 PER_PAGE = 20
+ARTICLE_DEFAULTS = {
+  "listed" => "true",
+  "license" => "verbatim_only",
+  "section" => "opinions",
+}.freeze
+
+def blank_value?(value)
+  return true if value.nil?
+  return value.strip.empty? if value.is_a?(String)
+
+  false
+end
 
 def load_frontmatter(path)
   text = File.read(path)
@@ -17,6 +29,14 @@ def load_frontmatter(path)
   return {} unless match
 
   YAML.safe_load(match[1], aliases: true) || {}
+end
+
+def apply_article_defaults(data)
+  merged = data.dup
+  ARTICLE_DEFAULTS.each do |key, value|
+    merged[key] = value if blank_value?(merged[key])
+  end
+  merged
 end
 
 def listed?(data)
@@ -62,7 +82,7 @@ end
 
 source_articles = []
 Dir.glob(File.join(ROOT, "articles", "*", "index.md")).sort.each do |path|
-  data = load_frontmatter(path)
+  data = apply_article_defaults(load_frontmatter(path))
   slug = File.basename(File.dirname(path))
   source_articles << { path: path, slug: slug, data: data }
 end

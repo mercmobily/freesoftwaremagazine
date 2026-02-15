@@ -22,9 +22,10 @@ title: 'My Article Title'
 authors: 'Author Name'
 published: '2026-02-14 10:00:00'
 tags: 'tag1,tag2,tag3'
-license: verbatim_only
-section: opinions
-listed: 'true'
+# Optional (auto-defaults shown):
+# listed: 'true'
+# license: verbatim_only
+# section: opinions
 layout: article
 ---
 
@@ -41,17 +42,11 @@ Rest of the article body...
 - `authors`: comma-separated if multiple.
 - `published`: `YYYY-MM-DD HH:MM:SS`.
 - `tags`: comma-separated.
-- `license`: one of existing licenses used in repo (for example `verbatim_only`, `cc-by`, `cc-by-sa`, etc.).
-- `section`: one of:
-  - `announcements`
-  - `end_users`
-  - `games`
-  - `hacking`
-  - `humour`
-  - `interviews`
-  - `opinions`
-  - `reviews`
-- `listed`: set to `'true'` to include in lists/rss/sitemaps.
+- `license`: defaults to `verbatim_only` if omitted.
+  - Allowed values: `verbatim_only`, `cc-by`, `cc-by-nc`, `cc-by-nc-nd`, `cc-by-nc-sa`, `cc-by-nd`, `cc-by-sa`, `gfdl`, `gpl`, `other`.
+- `section`: defaults to `opinions` if omitted.
+  - Allowed values: `announcements`, `end_users`, `games`, `hacking`, `humour`, `interviews`, `opinions`, `reviews`.
+- `listed`: defaults to `'true'` if omitted. Set to `'false'` to keep the article out of lists/rss/sitemaps.
 - `layout`: normally `article` (use `book` only for book-chapter style pages).
 
 Optional fields commonly used:
