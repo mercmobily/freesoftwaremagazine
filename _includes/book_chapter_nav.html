@@ -1,0 +1,29 @@
+{% if page.book_nav_list_url %}
+  <nav class="book-nav my-3" aria-label="Book chapter navigation">
+    <div class="book-nav-grid">
+      <div class="book-nav-item book-nav-prev">
+        {% if page.book_nav_prev_url %}
+          <a class="book-nav-link" href="{{ page.book_nav_prev_url }}">
+            <span class="book-nav-label">Previous chapter</span>
+            <span class="book-nav-title">&laquo; {{ page.book_nav_prev_title }}</span>
+          </a>
+        {% else %}
+          <span class="book-nav-placeholder" aria-hidden="true"></span>
+        {% endif %}
+      </div>
+      <div class="book-nav-item book-nav-all">
+        <a class="book-nav-link book-nav-link-center" href="{{ page.book_nav_list_url }}">All chapters</a>
+      </div>
+      <div class="book-nav-item book-nav-next">
+        {% if page.book_nav_next_url %}
+          <a class="book-nav-link" href="{{ page.book_nav_next_url }}">
+            <span class="book-nav-label">Next chapter</span>
+            <span class="book-nav-title">{{ page.book_nav_next_title }} &raquo;</span>
+          </a>
+        {% else %}
+          <span class="book-nav-placeholder" aria-hidden="true"></span>
+        {% endif %}
+      </div>
+    </div>
+  </nav>
+{% endif %}

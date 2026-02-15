@@ -30,7 +30,8 @@
           {% for book in book_list %}
             {% assign book_name = book | strip %}
             {% if book_name != "" %}
-              <a href="/sections/{{ book_name | uri_escape }}">{{ book_name }}</a>
+              {% assign book_label = book_name | replace: "_", " " %}
+              <a href="/books/{{ book_name | uri_escape }}">{{ book_label }}</a>
             {% endif %}
           {% endfor %}
         {% endif %}
@@ -59,6 +60,7 @@
     </ul>
 
     <div class="article-content">
+      {% include book_chapter_nav.html %}
       {% assign article_main_image = page.main_image | default: "" | strip %}
       {% if article_main_image != "" %}
         {% assign article_main_image_path = article_main_image | replace: " ", "%20" %}
@@ -67,6 +69,7 @@
         </figure>
       {% endif %}
       {{ content }}
+      {% include book_chapter_nav.html %}
     </div>
 
     {% if page.license %}

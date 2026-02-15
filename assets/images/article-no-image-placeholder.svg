@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" role="img" aria-labelledby="title desc">
+  <title id="title">No image available</title>
+  <desc id="desc">Placeholder illustration shown when an article has no hero image.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f7fbff"/>
+      <stop offset="100%" stop-color="#e6f0f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <rect x="74" y="90" width="452" height="620" rx="20" fill="#ffffff" stroke="#c6d8e6" stroke-width="4"/>
+  <rect x="120" y="180" width="360" height="280" rx="14" fill="#edf5fb" stroke="#bfd4e4" stroke-width="4"/>
+  <path d="M130 430L235 315L305 385L375 320L470 430Z" fill="#d9e9f4"/>
+  <circle cx="410" cy="245" r="34" fill="#d0e3f1"/>
+  <line x1="120" y1="520" x2="480" y2="520" stroke="#d4e3ef" stroke-width="10" stroke-linecap="round"/>
+  <line x1="120" y1="560" x2="400" y2="560" stroke="#dce9f3" stroke-width="10" stroke-linecap="round"/>
+  <text x="300" y="640" text-anchor="middle" font-family="Arial, sans-serif" font-size="33" fill="#5f7f95">No image available</text>
+</svg>
