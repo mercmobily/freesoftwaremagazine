@@ -14,6 +14,12 @@
   color: #fff;
 }
 
+.navbar .logo {
+  display: block;
+  height: 52px;
+  width: 91px;
+}
+
 .navbar-primary .form-control {
   border-color: rgba(255, 255, 255, 0.45);
 }
@@ -133,7 +139,21 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: space-around;
   width: 100%;
+}
+
+.fsm-nav-links .nav-item {
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+
+.fsm-nav-links .nav-link {
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  padding-bottom: 0.25em;
+  padding-top: 0.25em;
+  text-transform: uppercase;
 }
 
 .fsm-nav-toggle {
@@ -176,6 +196,7 @@
 .navbar-clear {
   background: #fff;
   border-bottom: 1px solid #e2edf4;
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
 }
 
 .navbar-clear .nav-link {
@@ -216,7 +237,30 @@
   padding: 0.8rem 0.88rem 0.88rem;
 }
 
-.article-card-img-item,
+.article-card-img {
+  background-color: #eceeef;
+  height: 350px;
+  overflow: hidden;
+  position: relative;
+}
+
+.article-card-img.embed-responsive::before {
+  display: none;
+}
+
+.article-card-img .article-card-img-item {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  inset: 0.1rem;
+  position: absolute;
+}
+
+.issue-card-img,
+.book-card-img {
+  background-color: #eceeef;
+}
+
 .issue-card-img-item,
 .book-card-img-item {
   background-position: center center;
@@ -224,7 +268,26 @@
   background-size: cover;
 }
 
-.article-card-title,
+.article-card-title {
+  color: #292b2c;
+  font-size: 1.02rem;
+  font-weight: 400;
+  line-height: 1.33333;
+  margin-bottom: 0;
+}
+
+.article-card-title a {
+  box-shadow: inset 0 -3px #d1eaf6;
+  color: inherit;
+  text-decoration: none;
+}
+
+.article-card-title a:hover,
+.article-card-title a:focus {
+  box-shadow: inset 0 -3px #a7d6ed;
+  text-decoration: none;
+}
+
 .issue-card .card-title,
 .book-card-title {
   font-size: 1.02rem;
@@ -233,12 +296,35 @@
 }
 
 .article-card-sectionname {
-  font-size: 0.77rem;
-  margin-bottom: 0.33rem;
+  color: #868e98;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.25rem;
+  margin-top: 0;
   text-transform: uppercase;
 }
 
-.article-card-meta,
+.article-card-meta {
+  color: #868e98;
+  font-size: 0.75rem;
+  margin-top: 0.5rem;
+  text-transform: uppercase;
+}
+
+.article-card-sectionname a,
+.article-card-meta a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.article-card-sectionname a:hover,
+.article-card-sectionname a:focus,
+.article-card-meta a:hover,
+.article-card-meta a:focus {
+  color: #2a84b5;
+  text-decoration: none;
+}
+
 .issue-card .card-text,
 .book-card .card-text {
   color: #6f8798;
@@ -270,6 +356,29 @@
 
 .books-chapter-list tbody tr:hover {
   background: #f8fcff;
+}
+
+.books-chapter-list tbody td:first-child a {
+  color: #2b3c4a;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.books-chapter-list tbody td:first-child a:hover,
+.books-chapter-list tbody td:first-child a:focus {
+  color: #246e98;
+  text-decoration: none;
+}
+
+.books-chapter-list tbody td:nth-child(2) a {
+  color: #5e7485;
+  text-decoration: none;
+}
+
+.books-chapter-list tbody td:nth-child(2) a:hover,
+.books-chapter-list tbody td:nth-child(2) a:focus {
+  color: #2a84b5;
+  text-decoration: none;
 }
 
 .embed-responsive {
@@ -403,6 +512,11 @@
   background-size: contain;
 }
 
+.article-card-img .article-card-img-item-placeholder {
+  background-position: center center;
+  background-size: contain;
+}
+
 @media (max-width: 767px) {
   .author-bio-box {
     flex-direction: column;
@@ -527,6 +641,7 @@
 
   .fsm-nav-links .nav-item {
     display: block;
+    margin: 0;
   }
 
   .fsm-nav-links .nav-link {
