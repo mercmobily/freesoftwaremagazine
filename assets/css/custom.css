@@ -117,10 +117,15 @@
   align-items: stretch;
   display: grid;
   gap: 0.5rem;
-  grid-template-columns: 1fr auto 1fr;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+}
+
+.book-nav-item {
+  min-width: 0;
 }
 
 .book-nav-prev {
+  justify-self: start;
   text-align: left;
 }
 
@@ -130,6 +135,7 @@
 }
 
 .book-nav-next {
+  justify-self: end;
   text-align: right;
 }
 
@@ -162,9 +168,15 @@
 
 .book-nav-title {
   display: block;
+  line-height: 1.25;
+  max-height: 2.5em;
   overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  white-space: normal;
+}
+
+.book-nav-prev .book-nav-link,
+.book-nav-next .book-nav-link {
+  max-width: 26rem;
 }
 
 .book-nav-link-center {
