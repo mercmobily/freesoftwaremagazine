@@ -131,6 +131,7 @@
 .fsm-nav-links {
   align-items: center;
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
   width: 100%;
 }
