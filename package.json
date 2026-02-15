@@ -1,0 +1,10 @@
+{
+  "name": "freesoftwaremagazine-site",
+  "private": true,
+  "scripts": {
+    "check:article": "ruby scripts/check_article.rb",
+    "preview": "ruby scripts/preview_article.rb",
+    "preview:no-live": "ruby scripts/preview_article.rb --no-livereload",
+    "check": "bundle exec jekyll build && ruby scripts/validate_pr_article_assets.rb && bundle exec ruby scripts/validate_fsm_transforms.rb && bundle exec ruby scripts/validate_site_integrity.rb"
+  }
+}

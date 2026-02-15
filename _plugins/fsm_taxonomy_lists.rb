@@ -9,6 +9,7 @@ require "cgi"
 
 module FsmTaxonomyLists
   PER_PAGE = 20
+  DISABLE_ENV_VAR = "FSM_DISABLE_TAXONOMY_LISTS"
 
   TAXONOMIES = [
     {
@@ -207,6 +208,11 @@ module FsmTaxonomyLists
     encoded = dir.split("/").map { |segment| CGI.escape(segment).gsub("+", "%20") }.join("/")
     "/#{encoded}/"
   end
+
+  def disabled?
+    value = ENV.fetch(DISABLE_ENV_VAR, "").to_s.strip.downcase
+    %w[1 true yes on].include?(value)
+  end
 end
 
 module Jekyll
@@ -228,6 +234,8 @@ module Jekyll
     priority :low
 
     def generate(site)
+      return if FsmTaxonomyLists.disabled?
+
       articles = FsmTaxonomyLists.listed_articles(site)
       generate_all_articles(site, articles)
       generate_taxonomy_lists(site, articles)

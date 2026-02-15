@@ -36,9 +36,12 @@
         {% endif %}
       </li>
       <li class="list-inline-item">{{ page.published | date: "%-m/%-d/%Y" }}</li>
-      <li class="list-inline-item">
-        <a href="http://fsmsh.com/{{ page.nid }}">Permalink</a>
-      </li>
+      {% assign article_nid = page.nid | default: "" | strip %}
+      {% if article_nid != "" %}
+        <li class="list-inline-item">
+          <a href="http://fsmsh.com/{{ article_nid }}">Permalink</a>
+        </li>
+      {% endif %}
       {% if page.tags %}
         <li class="list-inline-item">
           Tags:
