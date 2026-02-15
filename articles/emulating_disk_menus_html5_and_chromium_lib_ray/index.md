@@ -101,7 +101,7 @@ Here's what it looks like on my prototype **Sintel** disk:
 Video appears not to be loading.
 You may want to open the <a href="../Media/feature.ogv">video file</a> with an external player (i.e. right click and select what player to open the file with)
 </video>
-<a href="../index.html" id="quit" accesskey="q"></a>
+<a href="/articles/emulating_disk_menus_html5_and_chromium_lib_ray/" id="quit" accesskey="q"></a>
 </body>
 </html>
 
