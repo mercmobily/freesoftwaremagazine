@@ -29,7 +29,7 @@ Firstly let's talk about trust. How much do you trust Google or any other online
 
 In addition software innovation thrives in environment where coders can learn from each other. When the code is not kept secret the advancement and improvement of the software increases exponentially. Look at the free desktop environments around -- I think it's hard for anyone to argue they are of a standard lower than proprietary alternatives. If anything, they are at the leading edge in terms of features and quality. Have the leaps and advancements of the past few years been solely down to competition or has access to each other's code helped? I can't find any evidence either way, but something tells me that the KDE people study the GNOME code and vice versa. They may choose different ways to do things but in terms of getting it done -- sharing things works.
 
-The same can and should apply to online applications - particularly because with an online application the software is no longer a commodity to be sold. Services are the commodities, as Tony Mobily says in his piece [on the history of computing](http://www.freesoftwaremagazine.com/columns/brief_history_computers_and_free_software_where_is_the_money):
+The same can and should apply to online applications - particularly because with an online application the software is no longer a commodity to be sold. Services are the commodities, as Tony Mobily says in his piece [on the history of computing](/articles/brief_history_computers_and_free_software_where_is_the_money/):
 
 >"The business model (and therefore the revenue source) will depend on the application, but one thing is sure: there is money to be made."
 

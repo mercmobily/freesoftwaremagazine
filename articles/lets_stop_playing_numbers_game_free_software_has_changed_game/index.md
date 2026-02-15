@@ -9,7 +9,7 @@ section: opinions
 listed: 'true'
 
 ---
-Tony Mobily's recent FSM post [A future without Microsoft](http://www.freesoftwaremagazine.com/columns/future_without_microsoft) and the resulting comments have caused me to consider the way we use numbers to argue for free software in the marketplace. I'm not convinced that it's the best strategy because those waters are particularly muddy when it comes to comparing free and proprietary software.
+Tony Mobily's recent FSM post [A future without Microsoft](/articles/future_without_microsoft/) and the resulting comments have caused me to consider the way we use numbers to argue for free software in the marketplace. I'm not convinced that it's the best strategy because those waters are particularly muddy when it comes to comparing free and proprietary software.
 
 <!--break-->
 
@@ -33,4 +33,4 @@ Free software is rarely sold and if so it's even rarer to find it's the licence 
 
 The problem with my argument above is that the other lot keep comparing in the terms of _their_ numbers game and those are terms the end-users is familiar with. So how do we combat that? For a start we can argue on our terms, within the new game. We can also demonstrate the effectiveness, not the popularity of our products. Finally we can do all we can to highlight the fact that the game has changed and that the numbers game is going to be one that smart people no longer play. 
 
-[1]: http://www.freesoftwaremagazine.com/columns/can_we_please_stop_fighting_fud_fud
+[1]: /articles/can_we_please_stop_fighting_fud_fud/

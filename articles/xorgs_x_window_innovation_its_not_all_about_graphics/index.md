@@ -9,7 +9,7 @@ section: hacking
 listed: 'true'
 
 ---
-In my [last article about Xorg](http://www.freesoftwaremagazine.com/columns/the_new_xorg_features), I touched upon several points that have been in a state of continual flux in Xorg. Here's a follow-up on that article, as it seems to have generated quite a lot of interest. However, I didn't expand much on some features and their implications, so I will do so here.
+In my [last article about Xorg](/articles/the_new_xorg_features/), I touched upon several points that have been in a state of continual flux in Xorg. Here's a follow-up on that article, as it seems to have generated quite a lot of interest. However, I didn't expand much on some features and their implications, so I will do so here.
 
 I will, also, touch upon a few improvements other than pure graphics.
 

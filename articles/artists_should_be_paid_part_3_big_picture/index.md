@@ -126,7 +126,7 @@ Overall, I find these estimates very promising. Based on previous productions it
 
 # References
 
-[1] The music breakdown is explained in the previous column, ['Artists should be paid, Part 2: What's "fair"?'](http://www.freesoftwaremagazine.com/columns/artists_should_be_paid_part_2_whats_fair)
+[1] The music breakdown is explained in the previous column, ['Artists should be paid, Part 2: What's "fair"?'](/articles/artists_should_be_paid_part_2_whats_fair/)
 
 2. ['Some numbers from the Sita Distribution Project'](http://questioncopyright.org/sita-distribtion-numbers)
 

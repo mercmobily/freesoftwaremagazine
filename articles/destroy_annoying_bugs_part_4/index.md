@@ -11,7 +11,7 @@ listed: 'true'
 ---
 In this the last part of this four-part series I will zoom carefully into the ease of use of PMD. I totally enjoy PMD. The reason for this is the relative simplicity of writing your own bug pattern-capturing rules and using them under fire. More on that later. To round off we have included an in-depth interview with Tom Copeland, the author of [PMD Applied](http://pmdapplied.com/) and the newer [JavaCC ](http://generatingparserswithjavacc.com/). It is no coincidence that Tom is at the center of the PMD development thrust.
 
-_Note: this is Part 4. Feel free to read [Part 3](http://www.freesoftwaremagazine.com/columns/destroy_annoying_bugs_part_3)!_
+_Note: this is Part 4. Feel free to read [Part 3](/articles/destroy_annoying_bugs_part_3/)!_
 
 <!--break-->
 

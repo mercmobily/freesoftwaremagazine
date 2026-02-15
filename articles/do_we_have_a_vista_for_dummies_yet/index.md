@@ -9,7 +9,7 @@ section: opinions
 listed: 'true'
 
 ---
-Ryan Cartwright wrote an excellent article, [Don't compare GNU/Linux with Windows or MacOS – they are not in the same game](http://www.freesoftwaremagazine.com/columns/dont_compare_gnu_linux_windows_or_macos_they_are_not_same_game).
+Ryan Cartwright wrote an excellent article, [Don't compare GNU/Linux with Windows or MacOS – they are not in the same game](/articles/dont_compare_gnu_linux_windows_or_macos_they_are_not_same_game/).
 
 I ran across the same blog he is referring to, while gathering potential stories for FSD and my reaction was very similar.
 

@@ -53,12 +53,12 @@ I'll leave the final comment to Alain Williams, Chairman of UKUUG:
 
 **[1] Further reading on OOXML at Free Software Magazine**
 
-* [When is a standard not a standard?](http://www.freesoftwaremagazine.com/columns/when_is_a_standard_not_a_standard)
-* [OOXML is a standard. What now?](http://www.freesoftwaremagazine.com/columns/ooxml_standard_what_now)
+* [When is a standard not a standard?](/articles/when_is_a_standard_not_a_standard/)
+* [OOXML is a standard. What now?](/articles/ooxml_standard_what_now/)
 *  [Protest observing Document Freedom and against OOXML(Bangalore, India)](http://www.freesoftwaremagazine.com/community_posts/protest_observing_document_freedom_and_against_ooxml_bangalore_india)
-* [Open letter to standards professionals, developers, and activists](http://www.freesoftwaremagazine.com/columns/open_letter_standards_professionals_developers_and_activists)
+* [Open letter to standards professionals, developers, and activists](/articles/open_letter_standards_professionals_developers_and_activists/)
 * [ODF/OOXML technical white paper](http://www.freesoftwaremagazine.com/articles/odf_ooxml_technical_white_paper)
-* [the Bizarre Cathedral -2](http://www.freesoftwaremagazine.com/columns/bizarre_cathedral_2)
+* [the Bizarre Cathedral -2](/articles/bizarre_cathedral_2/)
 
 **Other information on OOXML**
 

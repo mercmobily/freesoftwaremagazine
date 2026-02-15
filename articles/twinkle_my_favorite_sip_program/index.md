@@ -45,7 +45,7 @@ Another really neat trick is the ability to run scripts on certain events. For e
 
 =IMAGE=figure_4.jpg=Figure 4: Using a [Zenity](http://fosswire.com/2007/12/23/gtk-dialog-boxes-from-shell-scripts/) script for a GTK dialog box=
 
-Sometimes, it's important to have a encrypted line. Twinkle offers this in the form of ZRTP/SRTP encryption (David Sugar [has a good article on this topic](http://www.freesoftwaremagazine.com/columns/secure_voip_calling_free_software_right_to_privacy) ). To enable it, open the Security dialog (Edit→User Profile→Security) and check Enable ZRTP/SRTP encryption. Note that if the other party doesn't have this feature enabled, the encryption may not work.
+Sometimes, it's important to have a encrypted line. Twinkle offers this in the form of ZRTP/SRTP encryption (David Sugar [has a good article on this topic](/articles/secure_voip_calling_free_software_right_to_privacy/) ). To enable it, open the Security dialog (Edit→User Profile→Security) and check Enable ZRTP/SRTP encryption. Note that if the other party doesn't have this feature enabled, the encryption may not work.
 
 # SIPphone tricks
 

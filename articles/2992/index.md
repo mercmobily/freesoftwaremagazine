@@ -39,7 +39,7 @@ Provisional outline:
 
 # Phones
 * Ekiga
-* Twinkle (to be used from [http://www.freesoftwaremagazine.com/columns/twinkle_my_favorite_sip_program](http://www.freesoftwaremagazine.com/columns/twinkle_my_favorite_sip_program)) (Note to self: not installed by default)
+* Twinkle (to be used from [/articles/twinkle_my_favorite_sip_program/](/articles/twinkle_my_favorite_sip_program/)) (Note to self: not installed by default)
 
 # Instant messanging
 * Kopete (using [http://www.freesoftwaremagazine.com/articles/kopete_kde_instant_messenger](http://www.freesoftwaremagazine.com/articles/kopete_kde_instant_messenger))
@@ -47,7 +47,7 @@ Provisional outline:
 
 # Text editors
 * Kate
-* Gedit (using [http://www.freesoftwaremagazine.com/columns/gedit_powerful_underrated_text_editor_everybody](http://www.freesoftwaremagazine.com/columns/gedit_powerful_underrated_text_editor_everybody))
+* Gedit (using [/articles/gedit_powerful_underrated_text_editor_everybody/](/articles/gedit_powerful_underrated_text_editor_everybody/))
 
 # Word processing
 * OpenOffice Word Processing

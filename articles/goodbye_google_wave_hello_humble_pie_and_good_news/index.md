@@ -9,7 +9,7 @@ section: opinions
 listed: 'true'
 
 ---
-If you haven't heard, Google have [announced](http://googleblog.blogspot.com/2010/08/update-on-google-wave.html) they are pulling the plug on Wave, their interactive, real-time communication product. It's a shame but I can understand why. It never really took off. Google have blamed lack of user adoption for the poor showing, and maybe that's true, but in the end if people aren't using your product: it's not their fault - it's yours. I was one of those who [trumpeted](http://www.freesoftwaremagazine.com/columns/will_google_wave_revolutionise_free_software_collaboration) Wave - not as world-changing über-tech but certainly as a tool which could "change the way free software is developed". Time for some humble pie then.
+If you haven't heard, Google have [announced](http://googleblog.blogspot.com/2010/08/update-on-google-wave.html) they are pulling the plug on Wave, their interactive, real-time communication product. It's a shame but I can understand why. It never really took off. Google have blamed lack of user adoption for the poor showing, and maybe that's true, but in the end if people aren't using your product: it's not their fault - it's yours. I was one of those who [trumpeted](/articles/will_google_wave_revolutionise_free_software_collaboration/) Wave - not as world-changing über-tech but certainly as a tool which could "change the way free software is developed". Time for some humble pie then.
 
 <!-- break-->
 

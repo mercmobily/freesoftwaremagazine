@@ -15,7 +15,7 @@ In my recent article on QDVDAuthor, I skipped over the task of making a videoloo
 
 <!--break-->
 
-The videos used here are all from the same [NinaVision](http://www.archive.org/details/NinaVision) collection that I used in my [QDVDAuthor tutorial](http://www.freesoftwaremagazine.com/columns/mastering_dvd_using_qdvdauthor). For the best results, download the higher quality "mpeg" versions. All are licensed [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0), so you can freely copy and share the resulting files. I have in fact already put the completed loop up on the [NinaVisionDVD](http://www.archive.org/details/NinaVisionDVD) page at the [Internet Archive](http://www.archive.org).
+The videos used here are all from the same [NinaVision](http://www.archive.org/details/NinaVision) collection that I used in my [QDVDAuthor tutorial](/articles/mastering_dvd_using_qdvdauthor/). For the best results, download the higher quality "mpeg" versions. All are licensed [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0), so you can freely copy and share the resulting files. I have in fact already put the completed loop up on the [NinaVisionDVD](http://www.archive.org/details/NinaVisionDVD) page at the [Internet Archive](http://www.archive.org).
 
 By comparison with QDVDAuthor, Kino is much more mature software, and it is available in all the major GNU/Linux distributions. I am simply using the version 1.3.0 which is included in Debian's "Lenny" release (the current Stable).
 

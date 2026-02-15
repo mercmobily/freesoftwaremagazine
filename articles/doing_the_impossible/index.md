@@ -66,15 +66,15 @@ And _that's_ the "secret", the one rule that lies behind all the others: joy. So
 
 Some Free Software Magazine articles on improving both the efficiency and the scope of the commons based enterprise:
 
-[1] Terry Hancock; [Free software tools for designing productive community sites](http://www.freesoftwaremagazine.com/columns/free_software_tools_for_designing_productive_community_sites); 2008.
+[1] Terry Hancock; [Free software tools for designing productive community sites](/articles/free_software_tools_for_designing_productive_community_sites/); 2008.
 
-[2] Terry Hancock; [Ten easy ways to attract women to your free software project](http://www.freesoftwaremagazine.com/columns/ten_easy_ways_attract_women_your_free_software_project); 2008.
+[2] Terry Hancock; [Ten easy ways to attract women to your free software project](/articles/ten_easy_ways_attract_women_your_free_software_project/); 2008.
 
-[3] Terry Hancock; [What if copyright didn't apply to binary executables?](http://www.freesoftwaremagazine.com/columns/what_if_copyright_didnt_apply_binary_executables); 2008.
+[3] Terry Hancock; [What if copyright didn't apply to binary executables?](/articles/what_if_copyright_didnt_apply_binary_executables/); 2008.
 
-[4] Terry Hancock; [Why sharing matters more than marketshare to GNU/Linux](http://www.freesoftwaremagazine.com/columns/sharing_matters_more_than_market_share_linux); 2008.
+[4] Terry Hancock; [Why sharing matters more than marketshare to GNU/Linux](/articles/sharing_matters_more_than_market_share_linux/); 2008.
 
-[5] Terry Hancock; [Deploying CC+ for the common good: Buy4Commons](http://www.freesoftwaremagazine.com/columns/deploying_cc_common_good_buy4commons); 2008.
+[5] Terry Hancock; [Deploying CC+ for the common good: Buy4Commons](/articles/deploying_cc_common_good_buy4commons/); 2008.
 
 [6] Terry Hancock; **Group interview: a graphic view of the open hardware movement.** [Part 1: Motivations](http://www.freesoftwaremagazine.com/articles/group_interview_graphic_view_open_hardware_movement_part_1_motivations) and [Part 2: Technical and Social Issues](http://www.freesoftwaremagazine.com/articles/group_interview_graphic_view_open_hardware_movement_part_2_technical_and_social_issues); 2008. A collection of first-hand observations on a major Open Hardware project.
 

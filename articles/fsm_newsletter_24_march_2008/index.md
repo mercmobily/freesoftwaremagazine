@@ -45,9 +45,9 @@ _Thanks to santhosh, snotbutter, mark, cpoliticas, can.axis, dave, komrad, and d
 Latest content
 --------------
 
-**Asus Eee PC (Part Two): Setting up the full KDE GNU/Linux Experience** --By Gary Richmond. In Part One of my Eee PC series I looked at the hardware specifications of this miniature marvel. In such a small space Asus have managed to cram in a lot and at a price that is so low that it ought be illegal. However, it is a cliche to recall that hardware without software is junk—unless you have a fetish for silicon [Read more...](http://www.freesoftwaremagazine.com/columns/asus_eeepc_part_two_setting_full_kde_gnu_linux_experience)
+**Asus Eee PC (Part Two): Setting up the full KDE GNU/Linux Experience** --By Gary Richmond. In Part One of my Eee PC series I looked at the hardware specifications of this miniature marvel. In such a small space Asus have managed to cram in a lot and at a price that is so low that it ought be illegal. However, it is a cliche to recall that hardware without software is junk—unless you have a fetish for silicon [Read more...](/articles/asus_eeepc_part_two_setting_full_kde_gnu_linux_experience/)
 
-**How do you replace Microsoft Outlook? Groupware applications** --By Ryan Cartwright. How do you replace Microsoft Outlook? Do you go for Evolution or Kontact? Can a combination of Mozilla Thunderbird and Lighting do the trick? Do you split the features and are there any compromises to be made? [Read more...](http://www.freesoftwaremagazine.com/columns/how_do_you_replace_microsoft_outlook_groupware_applications)
+**How do you replace Microsoft Outlook? Groupware applications** --By Ryan Cartwright. How do you replace Microsoft Outlook? Do you go for Evolution or Kontact? Can a combination of Mozilla Thunderbird and Lighting do the trick? Do you split the features and are there any compromises to be made? [Read more...](/articles/how_do_you_replace_microsoft_outlook_groupware_applications/)
 
 **If the pen is mightier than the sword, is the touchpad greater than the mouse?** --By Gary Richmond. Can you give RSI the boot and let your touchpad take the strain instead? [Read more...](http://www.freesoftwaremagazine.com/articles/configure_your_laptop_touchpad_to_the_max)
 
@@ -67,13 +67,13 @@ Latest content continued
 --------------
 **Property and commons** --By Mauro Bieg. How do peer productions and free content work out? [Read more...](http://www.freesoftwaremagazine.com/articles/property_and_commons)
 
-**Social inclusion with Xubuntu: A tale of free software changing lives** --By Ryan Cartwright. M6-IT, a Community Interest Community in the UK, are part way through a project to equip socially excluded families with computers running Xubuntu. I was recently able to interview Richard Rothwell of M6-IT about this project and its progress. [Read more...](http://www.freesoftwaremagazine.com/columns/social_inclusion_xubuntu_tale_free_software_changing_lives)
+**Social inclusion with Xubuntu: A tale of free software changing lives** --By Ryan Cartwright. M6-IT, a Community Interest Community in the UK, are part way through a project to equip socially excluded families with computers running Xubuntu. I was recently able to interview Richard Rothwell of M6-IT about this project and its progress. [Read more...](/articles/social_inclusion_xubuntu_tale_free_software_changing_lives/)
 
-**Getting the login right: moving from xdm to gdm or kdm** --By Terry Hancock. For years now, I have been clinging to xdm as my display manager; years ago, I spent several days tweaking the configuration files of xbanner and xdm to get it to look “just so”, and I didn’t want to change it. [Read more...](http://www.freesoftwaremagazine.com/columns/configure_xdm_gdm_or_kdm)
+**Getting the login right: moving from xdm to gdm or kdm** --By Terry Hancock. For years now, I have been clinging to xdm as my display manager; years ago, I spent several days tweaking the configuration files of xbanner and xdm to get it to look “just so”, and I didn’t want to change it. [Read more...](/articles/configure_xdm_gdm_or_kdm/)
 
 **Making KDE look good** --By Colin McGregor. Out with the drab, in with the pretty! [Read more...](http://www.freesoftwaremagazine.com/articles/making_linux_look_good)
 
-**Twinkle: My favorite SIP program** --By Andrew Min. I’ve been looking for an SIP program for a long time. Linphone, OpenWengo, and Gizmo all failed to work with my Logitech AK5370 USB microphone (ah, the joys of drivers!). Eventually, after about half a dozen programs, I gave up. Then, out of the blue came Twinkle, a Qt-based VoIP phone. [Read more...](http://www.freesoftwaremagazine.com/columns/twinkle_my_favorite_sip_program)
+**Twinkle: My favorite SIP program** --By Andrew Min. I’ve been looking for an SIP program for a long time. Linphone, OpenWengo, and Gizmo all failed to work with my Logitech AK5370 USB microphone (ah, the joys of drivers!). Eventually, after about half a dozen programs, I gave up. Then, out of the blue came Twinkle, a Qt-based VoIP phone. [Read more...](/articles/twinkle_my_favorite_sip_program/)
 
 Reminders
 --------------

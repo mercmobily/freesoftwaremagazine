@@ -9,7 +9,7 @@ section: hacking
 listed: 'true'
 
 ---
-In [part one](http://www.freesoftwaremagazine.com/columns/spam_prevention_exim_and_greylistd_part_1) of this tutorial looked at installing and configuring greylistd alongside Exim to help combat the evils of Spam. In this second part I will look at getting some information out of greylistd -- handy if you need to troubleshoot why the CEO's "urgent" message hasn't arrived yet!
+In [part one](/articles/spam_prevention_exim_and_greylistd_part_1/) of this tutorial looked at installing and configuring greylistd alongside Exim to help combat the evils of Spam. In this second part I will look at getting some information out of greylistd -- handy if you need to troubleshoot why the CEO's "urgent" message hasn't arrived yet!
 
 <!--break-->
 

@@ -21,7 +21,7 @@ Ogg Vorbis and Ogg FLAC (the Ogg stream version of the Free Lossless Audio Codec
 This article is part of an on-going series on the challenges I've faced in producing two free-licensed movies, _Marya Morevna_, through the [Morevna Project](http://www.morevnaproject.org) and [Lunatics](http://lunatics.tv), which we are working on as Anansi Spaceworks.
 =TEXTBOX_END=
 
-I recently started working on an alternative way to package HD video for distribution -- a need I suggested in my recent piece on the [Blu-Ray Blues](http://www.freesoftwaremagazine.com/columns/five_ideas_escaping_blu_ray_blues). I decided to use the Blender Foundation's Open Movie, "Sintel" as a prototype for this, because all of the necessary files are available.
+I recently started working on an alternative way to package HD video for distribution -- a need I suggested in my recent piece on the [Blu-Ray Blues](/articles/five_ideas_escaping_blu_ray_blues/). I decided to use the Blender Foundation's Open Movie, "Sintel" as a prototype for this, because all of the necessary files are available.
 
 # Audio
 

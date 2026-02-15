@@ -31,7 +31,7 @@ Don't worry about the warnings. That's normal as the digital certificate is self
 
 =IMAGE=Webmin's_default_front_page.jpg=Figure 2: Webmin's default front page=
 
-You may encounter problems with self-signed certificates if you are using Firefox 3 and have to jump through a few hoops before you use Webmin. My colleague, Ryan Cartwright, [has already discussed this here on FSM](http://www.freesoftwaremagazine.com/columns/self_signed_certificates_and_firefox_3_possible_solution) (and others too, [here](http://pandion.ferrus.net/2008/07/31/mozilla-ssl-policy-bad-for-the-web)).
+You may encounter problems with self-signed certificates if you are using Firefox 3 and have to jump through a few hoops before you use Webmin. My colleague, Ryan Cartwright, [has already discussed this here on FSM](/articles/self_signed_certificates_and_firefox_3_possible_solution/) (and others too, [here](http://pandion.ferrus.net/2008/07/31/mozilla-ssl-policy-bad-for-the-web)).
 
 If you are going to use Webmin regularly to administer your machine it might be a good idea to set up a Firefox profile for it or navigate to the log-in page in Konqueror and drag the favicon onto the desktop for convenience. Just a thought. If you don't like the default theme there are modules to change it. (I have used the default theme. The default theme is better if only because it allows you to select a module from the side panel without opening tabs and windows, though you can if you prefer). Extra themes can be installed from the panel on the left-hand side of the homepage under the Webmin drop-down menu (change language and theme) The pre-installed modules are also listed under various headings. 
 

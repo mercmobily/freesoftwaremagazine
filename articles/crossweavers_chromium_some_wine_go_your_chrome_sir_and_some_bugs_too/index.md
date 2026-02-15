@@ -9,7 +9,7 @@ section: end_users
 listed: 'true'
 
 ---
-A few weeks ago [I discussed the main features of the Chrome browser](http://www.freesoftwaremagazine.com/columns/googles_chrome_mozillae_explorer_rendering_engines_war) and Google's motives; at that point I was like the poor child, nose pressed against the window pane, looking inside at the sumptuous feast at the master's table. I, like all GNU/Linux users, hadn't been invited. Same as ever. Crossweavers decided to gate crash the party and bring their own drink too. In short, in just eleven days from the launch of Chrome they built a version running under Wine, and although their products are proprietary and they usually reciprocate by giving code back to free software like [Wine](http://www.winehq.org/), this time they gave it away for free. Thus did Chrome become Chromium and I had a chance to download and install it. Reader, I benchtested it.
+A few weeks ago [I discussed the main features of the Chrome browser](/articles/googles_chrome_mozillae_explorer_rendering_engines_war/) and Google's motives; at that point I was like the poor child, nose pressed against the window pane, looking inside at the sumptuous feast at the master's table. I, like all GNU/Linux users, hadn't been invited. Same as ever. Crossweavers decided to gate crash the party and bring their own drink too. In short, in just eleven days from the launch of Chrome they built a version running under Wine, and although their products are proprietary and they usually reciprocate by giving code back to free software like [Wine](http://www.winehq.org/), this time they gave it away for free. Thus did Chrome become Chromium and I had a chance to download and install it. Reader, I benchtested it.
 
 <!--break-->
 

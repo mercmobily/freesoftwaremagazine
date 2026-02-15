@@ -15,7 +15,7 @@ Latest from the Bizarre Cathedral.
 
 =IMAGE_BIG=strip.jpg==
 
-Just for reference: [Strip 70](http://www.freesoftwaremagazine.com/columns/bizarre_cathedral_70)
+Just for reference: [Strip 70](/articles/bizarre_cathedral_70/)
 
 This work is covered by a [Creative commons Attribution-Non Commercial-Share Alike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) licence.
 
@@ -34,5 +34,5 @@ you may have to wait for the latest strip to be translated. If you are translati
 Got an idea for the Bizarre Cathedral? Send it to the following e-mail addresss:  
 tbc _then_ at _then_ freesoftwaremagazine _then_ dot _then_ com
 
-[<< Previous strip](http://www.freesoftwaremagazine.com/columns/bizarre_cathedral_77)
-| [Next strip >>](http://www.freesoftwaremagazine.com/columns/bizarre_cathedral_79)
+[<< Previous strip](/articles/bizarre_cathedral_77_0/)
+| [Next strip >>](/articles/bizarre_cathedral_79/)

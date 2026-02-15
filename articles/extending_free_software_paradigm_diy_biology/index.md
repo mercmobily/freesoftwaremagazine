@@ -9,11 +9,11 @@ section: hacking
 listed: 'true'
 
 ---
-Some time ago I wrote [an article about Jim Kent](http://www.freesoftwaremagazine.com/columns/jim_kent_hero_of_free_and_open_source_software), an American biologist who used free and open software to race Craig Ventnor to the finishing line, sequencing the human genome. That was very big, cutting edge science with a global audience and reach. We live in an age when big science is done, overwhelmingly, in big businesses, universities, research labs and government laboratories. In Eric Raymond's paradigm it is the culture of the Cathedral.
+Some time ago I wrote [an article about Jim Kent](/articles/jim_kent_hero_of_free_and_open_source_software/), an American biologist who used free and open software to race Craig Ventnor to the finishing line, sequencing the human genome. That was very big, cutting edge science with a global audience and reach. We live in an age when big science is done, overwhelmingly, in big businesses, universities, research labs and government laboratories. In Eric Raymond's paradigm it is the culture of the Cathedral.
 
 <!--break-->
 
-Hierarchical, big, controlled and funded by taxpayers, venture capital or shareholders. The time of the amateur dilletante scientist seems to be over. It takes the huge, collective organisation of private individuals to challenge this monopoly. GNU/Linux has managed to make a significant challenge but what of open science, not just the [actual use of free software as practised by CERN](http://www.freesoftwaremagazine.com/columns/large_hadron_collider_switches_if_its_end_world_it_will_be_powered_gnu_linux) but utilizing the whole philosophy of organizing scientific endeavour on the principles of open source?  Some amateur biohackers think they have the answer.
+Hierarchical, big, controlled and funded by taxpayers, venture capital or shareholders. The time of the amateur dilletante scientist seems to be over. It takes the huge, collective organisation of private individuals to challenge this monopoly. GNU/Linux has managed to make a significant challenge but what of open science, not just the [actual use of free software as practised by CERN](/articles/large_hadron_collider_switches_if_its_end_world_it_will_be_powered_gnu_linux/) but utilizing the whole philosophy of organizing scientific endeavour on the principles of open source?  Some amateur biohackers think they have the answer.
 
 
 # The era of the gentleman scientist is over, or is it?

@@ -9,7 +9,7 @@ section: opinions
 listed: 'true'
 
 ---
-As you may know I was [quite keen](http://www.freesoftwaremagazine.com/columns/will_google_wave_revolutionise_free_software_collaboration) on the ideas and potential of Google's Wave project and like many thought it [a bit of a shame](http://www.freesoftwaremagazine.com/columns/goodbye_google_wave_hello_humble_pie_and_good_news) when they closed the project. When the creator of Wave Lars Rasmussen left Google for Facbook, Wave seemed finished before it had started. At the time they pulled the plug Google said the project would live on but details were scratchy. Now we know more and the good news is that in yet another kudos point for free software and the development models around it, Wave will rise again and this time maybe even stronger but certainly with greater freedom.
+As you may know I was [quite keen](/articles/will_google_wave_revolutionise_free_software_collaboration/) on the ideas and potential of Google's Wave project and like many thought it [a bit of a shame](/articles/goodbye_google_wave_hello_humble_pie_and_good_news/) when they closed the project. When the creator of Wave Lars Rasmussen left Google for Facbook, Wave seemed finished before it had started. At the time they pulled the plug Google said the project would live on but details were scratchy. Now we know more and the good news is that in yet another kudos point for free software and the development models around it, Wave will rise again and this time maybe even stronger but certainly with greater freedom.
 
 <!--break-->
 
@@ -31,7 +31,7 @@ Of those the first one seems to be the key one and within that a single word sta
 
 =ZOOM=We'll be able to run our own Wave servers on our own hardware=
 
-So it will be Wave but not as we know it. That statement gives a lot of room for scope but still it's a start. The keen eyed among you will have noticed the final sentence which is, in my opinion, another key plus point. We'll be able to run our own Wave servers on our own hardware. This is very important to those who for various reasons prefer not to (or are required) keep data off third party servers such a Google's. Given the [growing concern](http://www.freesoftwaremagazine.com/columns/rise_google_should_we_be_worried) over the power we are giving Google and any associated criticisms the fact they have been prepared to release Wave back to us is something we should give them credit for.
+So it will be Wave but not as we know it. That statement gives a lot of room for scope but still it's a start. The keen eyed among you will have noticed the final sentence which is, in my opinion, another key plus point. We'll be able to run our own Wave servers on our own hardware. This is very important to those who for various reasons prefer not to (or are required) keep data off third party servers such a Google's. Given the [growing concern](/articles/rise_google_should_we_be_worried/) over the power we are giving Google and any associated criticisms the fact they have been prepared to release Wave back to us is something we should give them credit for.
 
 # The next big step
 

@@ -13,7 +13,7 @@ The biggest science story to hit the mainstream media in the last year was of co
 
 <!--break-->
 
-This is not the first time I have written about applying the practices and principles of free software to freeing science from the shackles of proprietary software and organisational structures, whether it is [DIY biology](http://www.freesoftwaremagazine.com/columns/extending_free_software_paradigm_diy_biology) or [doing science the CERN way](http://www.freesoftwaremagazine.com/columns/large_hadron_collider_switches_if_its_end_world_it_will_be_powered_gnu_linux). In this instance the stakes are much much higher than the ones I described the problems in [an article on Climategate](http://www.freesoftwaremagazine.com/columns/open_science_climategate_ipcc_cru_needs_take_leaf_out_cerns_book).
+This is not the first time I have written about applying the practices and principles of free software to freeing science from the shackles of proprietary software and organisational structures, whether it is [DIY biology](/articles/extending_free_software_paradigm_diy_biology/) or [doing science the CERN way](/articles/large_hadron_collider_switches_if_its_end_world_it_will_be_powered_gnu_linux/). In this instance the stakes are much much higher than the ones I described the problems in [an article on Climategate](/articles/open_science_climategate_ipcc_cru_needs_take_leaf_out_cerns_book/).
 
 
 # We're beyond the era of the gentleman scientist

@@ -39,7 +39,7 @@ The free software and creative commons movements have long shown that people are
 
 =TEXTBOX_START=StatusNet show how it should work=
 
-As a direct response to the Microsoft story breaking in the news channels -- StatusNet (formerly Laconi.ca) the people behind the popular [Identi.ca](http://identi.ca) free software micro-blogging software and service (which I have [mentioned before](http://www.freesoftwaremagazine.com/columns/identica_how_free_software_can_drive_social_networking_revolution)) [posted a blog](http://status.net/2009/12/17/hey-microsoft-take-our-code) _asking_ Microsoft to take their code. In that post StatusNet founder Evan Prodromou said:
+As a direct response to the Microsoft story breaking in the news channels -- StatusNet (formerly Laconi.ca) the people behind the popular [Identi.ca](http://identi.ca) free software micro-blogging software and service (which I have [mentioned before](/articles/identica_how_free_software_can_drive_social_networking_revolution/)) [posted a blog](http://status.net/2009/12/17/hey-microsoft-take-our-code) _asking_ Microsoft to take their code. In that post StatusNet founder Evan Prodromou said:
 
 >"We wanted those developers, as well as their clients at Microsoft, to know that we're more than happy to let them copy our code. StatusNet is available for download to everyone, with all source (server and client side) available for free.  
 You can get your Juku service running again quickly using StatusNet. (We even have a Chinese translation!) Please feel free to contact us; we'll be happy to help you out."

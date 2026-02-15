@@ -9,7 +9,7 @@ section: opinions
 listed: 'true'
 
 ---
-Terry Hancock seemed to raise a few hackles when he presented case recently that "[copyleft has no impact on project activity?!)](http://www.freesoftwaremagazine.com/columns/copyleft_has_no_impact_project_activity)". I'm not certain why, because it seemed he was just asking a question really (you'll note the question mark). In that piece he mentions the reasons developers choose a copyleft licence. As a -- somewhat small-time -- [developer of free software](http://www.freesoftwaremagazine.com/columns/sharing_without_microsoft_exchange) this topic interests me. Terry made a few statements about why developers choose a copyleft licence as did Tony Mobily in his 
+Terry Hancock seemed to raise a few hackles when he presented case recently that "[copyleft has no impact on project activity?!)](/articles/copyleft_has_no_impact_project_activity/)". I'm not certain why, because it seemed he was just asking a question really (you'll note the question mark). In that piece he mentions the reasons developers choose a copyleft licence. As a -- somewhat small-time -- [developer of free software](/articles/sharing_without_microsoft_exchange/) this topic interests me. Terry made a few statements about why developers choose a copyleft licence as did Tony Mobily in his 
 [editorial for issue 20](http://www.freesoftwaremagazine.com/articles/editorial_20). So let me tell you why this developer chose (and continues to choose) a copyleft licence?
 
 <!--break-->

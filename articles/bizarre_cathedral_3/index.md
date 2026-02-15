@@ -21,5 +21,5 @@ Got an idea for the Bizarre Cathedral? Send it to the following e-mail addresss:
 tbc then at then freesoftwaremagazine then dot then com
 
 
-[<< Previous strip](http://www.freesoftwaremagazine.com/columns/bizarre_cathedral_2) | 
-[Next strip >>](http://www.freesoftwaremagazine.com/columns/bizarre_cathedral_4)
+[<< Previous strip](/articles/bizarre_cathedral_2/) | 
+[Next strip >>](/articles/bizarre_cathedral_4/)

@@ -9,7 +9,7 @@ section: end_users
 listed: 'true'
 
 ---
-In my last [article](http://www.freesoftwaremagazine.com/columns/gedit_powerful_underrated_text_editor_everybody), I talked about using the powerful gedit text editor. But no program is perfect, mainly because too many features imply too much bloat. That's where gedit's plugins come into play. In this article, I'm will explain how to install and use some of my favorite gedit plugins.
+In my last [article](/articles/gedit_powerful_underrated_text_editor_everybody/), I talked about using the powerful gedit text editor. But no program is perfect, mainly because too many features imply too much bloat. That's where gedit's plugins come into play. In this article, I'm will explain how to install and use some of my favorite gedit plugins.
 
 <!--break-->
 

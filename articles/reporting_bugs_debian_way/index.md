@@ -52,7 +52,7 @@ What happens next will probably depend on the type of report you sent in and the
 Reporting bugs is a very simple way to get involved with the free software community. Using a tool like reportbug makes it even easier for inexperienced users to get involved too. If you ask me it's an all-round better system than the standard bug-tracking tools where you have to register etc.
 
 [urwid]: http://excess.org/urwid/
-[Woulter Verhelst]: http://www.freesoftwaremagazine.com/columns/bug_hunting_making_sure_your_bug_gets_fixed
-[Andrew Min]: http://www.freesoftwaremagazine.com/columns/ubuntu_help_reporting_bugs_using_launchpad
+[Woulter Verhelst]: /articles/bug_hunting_making_sure_your_bug_gets_fixed/
+[Andrew Min]: /articles/ubuntu_help_reporting_bugs_using_launchpad/
 [Debian bug reporting guide]: http://www.debian.org/Bugs/Reporting
-[apt-buglist]: http://www.freesoftwaremagazine.com/columns/beyond_synaptic_using_apt_better_package_management
+[apt-buglist]: /articles/beyond_synaptic_using_apt_better_package_management/

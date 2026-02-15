@@ -107,8 +107,8 @@ There are still many questions, but the Creative Commons and the free culture su
 =TEXTBOX_START=More Impossible Things=
 This column is part of a series called "Six Impossible Things Before Breakfast":
 
-[Impossible thing #1: Debian GNU/Linux](http://www.freesoftwaremagazine.com/columns/Impossible_thing_1_developing_efficient_free_software_like_gnu_debian)
+[Impossible thing #1: Debian GNU/Linux](/articles/Impossible_thing_1_developing_efficient_free_software_like_gnu_debian/)
 
-[Impossible thing #2: Wikipedia & Project Gutenberg](http://www.freesoftwaremagazine.com/columns/impossible_thing_2_comprehensive_free_knowledge_repositories_wikipedia_and_project_gutenberg)
+[Impossible thing #2: Wikipedia & Project Gutenberg](/articles/impossible_thing_2_comprehensive_free_knowledge_repositories_wikipedia_and_project_gutenberg/)
 =TEXTBOX_END=
 
