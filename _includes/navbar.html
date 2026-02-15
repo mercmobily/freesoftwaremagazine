@@ -11,17 +11,23 @@
   </div>
 </nav>
 <nav class="navbar navbar-clear">
+  {% assign nav_url = page.url | default: "/" %}
+  {% assign nav_section = page.section | default: "" | split: "," | first | strip %}
+  {% assign url_section = nav_url | remove_first: "/sections/" | split: "/" | first %}
+  {% if nav_section == "" and nav_url contains "/sections/" %}
+    {% assign nav_section = url_section %}
+  {% endif %}
   <div class="container">
     <ul class="navbar-nav">
-      <li class="nav-item"><a class="nav-link" href="/sections/end_users">End users</a></li>
-      <li class="nav-item"><a class="nav-link" href="/sections/hacking">Hacking</a></li>
-      <li class="nav-item"><a class="nav-link" href="/sections/humour">Humour</a></li>
-      <li class="nav-item"><a class="nav-link" href="/sections/interviews">Interviews</a></li>
-      <li class="nav-item"><a class="nav-link" href="/sections/opinions">Opinons</a></li>
-      <li class="nav-item"><a class="nav-link" href="/sections/reviews">Reviews</a></li>
-      <li class="nav-item"><a class="nav-link" href="/all_articles/">All articles</a></li>
-      <li class="nav-item"><a class="nav-link" href="/issues/">Issues</a></li>
-      <li class="nav-item"><a class="nav-link" href="/books/">Books</a></li>
+      <li class="nav-item"><a class="nav-link{% if nav_section == 'end_users' %} active{% endif %}" href="/sections/end_users"{% if nav_section == 'end_users' %} aria-current="page"{% endif %}>End users</a></li>
+      <li class="nav-item"><a class="nav-link{% if nav_section == 'hacking' %} active{% endif %}" href="/sections/hacking"{% if nav_section == 'hacking' %} aria-current="page"{% endif %}>Hacking</a></li>
+      <li class="nav-item"><a class="nav-link{% if nav_section == 'humour' %} active{% endif %}" href="/sections/humour"{% if nav_section == 'humour' %} aria-current="page"{% endif %}>Humour</a></li>
+      <li class="nav-item"><a class="nav-link{% if nav_section == 'interviews' %} active{% endif %}" href="/sections/interviews"{% if nav_section == 'interviews' %} aria-current="page"{% endif %}>Interviews</a></li>
+      <li class="nav-item"><a class="nav-link{% if nav_section == 'opinions' %} active{% endif %}" href="/sections/opinions"{% if nav_section == 'opinions' %} aria-current="page"{% endif %}>Opinons</a></li>
+      <li class="nav-item"><a class="nav-link{% if nav_section == 'reviews' %} active{% endif %}" href="/sections/reviews"{% if nav_section == 'reviews' %} aria-current="page"{% endif %}>Reviews</a></li>
+      <li class="nav-item"><a class="nav-link{% if nav_url contains '/all_articles/' %} active{% endif %}" href="/all_articles/"{% if nav_url contains '/all_articles/' %} aria-current="page"{% endif %}>All articles</a></li>
+      <li class="nav-item"><a class="nav-link{% if nav_url contains '/issues/' %} active{% endif %}" href="/issues/"{% if nav_url contains '/issues/' %} aria-current="page"{% endif %}>Issues</a></li>
+      <li class="nav-item"><a class="nav-link{% if nav_url contains '/books/' %} active{% endif %}" href="/books/"{% if nav_url contains '/books/' %} aria-current="page"{% endif %}>Books</a></li>
     </ul>
   </div>
 </nav>

@@ -185,6 +185,17 @@ module FsmContentTransforms
       "\n\n<div class=\"embed-responsive embed-responsive-16by9\">\n<embed class=\"embed-responsive-item\" src=\"http://blip.tv/play/#{id}\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen />\n</div>\n\n"
     end
   end
+
+  # Some legacy tables were authored with a blank markdown header row so the
+  # first body row carries the visible headings. Mark these heads so CSS can
+  # hide them and style the first body row as header-like.
+  def mark_legacy_blank_table_heads(rendered_html)
+    rendered_html.to_s.gsub(
+      %r{<thead>\s*<tr>\s*(?:<th\b[^>]*>\s*(?:&nbsp;|&#160;|\u00A0)?\s*</th>\s*)+</tr>\s*</thead>}im
+    ) do |thead_html|
+      thead_html.sub("<thead>", '<thead class="fsm-legacy-empty-head">')
+    end
+  end
 end
 
 Jekyll::Hooks.register [:pages, :documents], :pre_render do |doc|
@@ -194,4 +205,11 @@ Jekyll::Hooks.register [:pages, :documents], :pre_render do |doc|
   raw = doc.content.to_s
   doc.data["summary"] = FsmContentTransforms.summary_for(raw)
   doc.content = FsmContentTransforms.transform(raw)
+end
+
+Jekyll::Hooks.register [:pages, :documents], :post_render do |doc|
+  next unless FsmContentTransforms.article_page?(doc)
+  next unless FsmContentTransforms.listed?(doc)
+
+  doc.output = FsmContentTransforms.mark_legacy_blank_table_heads(doc.output)
 end

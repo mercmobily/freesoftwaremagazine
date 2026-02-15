@@ -2,16 +2,31 @@
   <h3 class="text-center mb-4">{{ page.list_title }}</h3>
 {% endif %}
 
-{% if page.list_photo_url %}
-  <p class="text-center">
-    <img class="img-fluid rounded mb-3" src="{{ page.list_photo_url }}" alt="{{ page.list_title }}" style="max-width: 220px;">
-  </p>
-{% endif %}
+{% if page.list_name == "authors" and (page.list_photo_url or page.list_description) %}
+  <section class="author-bio-box mb-4" aria-label="Author profile">
+    {% if page.list_photo_url %}
+      <div class="author-bio-photo">
+        <img class="img-fluid rounded" src="{{ page.list_photo_url }}" alt="{{ page.list_title }}">
+      </div>
+    {% endif %}
+    {% if page.list_description %}
+      <div class="author-bio-content">
+        {{ page.list_description }}
+      </div>
+    {% endif %}
+  </section>
+{% else %}
+  {% if page.list_photo_url %}
+    <p class="text-center">
+      <img class="img-fluid rounded mb-3" src="{{ page.list_photo_url }}" alt="{{ page.list_title }}" style="max-width: 220px;">
+    </p>
+  {% endif %}
 
-{% if page.list_description %}
-  <div class="mb-4">
-    {{ page.list_description }}
-  </div>
+  {% if page.list_description %}
+    <div class="mb-4">
+      {{ page.list_description }}
+    </div>
+  {% endif %}
 {% endif %}
 
 {% if page.list_name == "books" %}
