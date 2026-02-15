@@ -2,18 +2,22 @@
 {% assign url = article.url %}
 {% assign img = article.main_image | default: "" %}
 {% assign img_path = img | replace: " ", "%20" %}
+{% assign card_image_url = "/assets/images/article-no-image-placeholder.svg" %}
+{% assign card_image_is_placeholder = true %}
+{% if img != "" %}
+  {% assign card_image_url = url | append: img_path %}
+  {% assign card_image_is_placeholder = false %}
+{% endif %}
 {% assign date_value = article.published | default: article.date %}
 {% assign sections = article.section | default: "" | split: "," %}
 {% assign authors = article.authors | default: "" | split: "," %}
 
 <div class="card article-card">
-  {% if img != "" %}
-    <a href="{{ url }}">
-      <div class="card-img-top embed-responsive embed-responsive-3by4 article-card-img">
-        <div class="embed-responsive-item article-card-img-item" style="background-image: url('{{ url }}{{ img_path }}')"></div>
-      </div>
-    </a>
-  {% endif %}
+  <a href="{{ url }}">
+    <div class="card-img-top embed-responsive embed-responsive-3by4 article-card-img">
+      <div class="embed-responsive-item article-card-img-item{% if card_image_is_placeholder %} article-card-img-item-placeholder{% endif %}" style="background-image: url('{{ card_image_url }}')"></div>
+    </div>
+  </a>
   <div class="card-block article-card-block">
     {% if article.section %}
       <p class="article-card-sectionname">

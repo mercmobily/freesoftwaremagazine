@@ -1,11 +1,24 @@
 # Port of Ryver FSM content transforms for Jekyll migration.
 # Applies only to article source pages that are marked as listed.
 
+require "cgi"
+
 module FsmContentTransforms
   FIGURE_IMAGE_TAGS = %w[IMAGE IMG IMG_CLEAR IMAGE_BIG].freeze
   PRIVATE_IMAGE_TAGS = %w[IMG_PRIVATE IMAGE_PRIVATE].freeze
 
   module_function
+
+  def fallback_caption_from_src(src)
+    base = File.basename(src.to_s.strip)
+    base = base.sub(/\.[A-Za-z0-9]+\z/, "")
+    base = CGI.unescape(base).tr("_", " ").tr("-", " ")
+    base = base.gsub(/\s+/, " ").strip
+    return "Image" if base.empty?
+    return "Image #{base}" if base.match?(/\A\d+\z/)
+
+    base.split(/\s+/).map { |word| word =~ /\A[a-z]/ ? word.capitalize : word }.join(" ")
+  end
 
   def article_page?(doc)
     path =
@@ -102,11 +115,12 @@ module FsmContentTransforms
     end
 
     caption = parts.join("=").strip
+    alt_text = fallback_caption_from_src(src)
     size_attrs = +""
     size_attrs << %( width="#{width}") if width && !width.empty?
     size_attrs << %( height="#{height}") if height && !height.empty?
 
-    image_tag = %(<img class="figure-img img-fluid rounded" src="#{src}"#{size_attrs}>)
+    image_tag = %(<img class="figure-img img-fluid rounded" src="#{src}" alt="#{CGI.escapeHTML(alt_text)}"#{size_attrs}>)
 
     return image_tag if caption.empty?
 
@@ -143,7 +157,9 @@ module FsmContentTransforms
     content = content.gsub(/=(#{FIGURE_IMAGE_TAGS.join('|')})=([^=\r\n]+)=([\s\S]*?)=[ \t]*(?:\r?\n|$)/) do
       src = Regexp.last_match(2)
       caption = Regexp.last_match(3).to_s.strip
-      "\n\n<figure class=\"figure\">\n<img class=\"figure-img img-fluid rounded\" src=\"#{src}\">\n<figcaption class=\"figure-caption\">#{caption}</figcaption>\n</figure>\n\n"
+      caption = fallback_caption_from_src(src) if caption.empty?
+      alt_text = CGI.escapeHTML(caption)
+      "\n\n<figure class=\"figure\">\n<img class=\"figure-img img-fluid rounded\" src=\"#{src}\" alt=\"#{alt_text}\">\n<figcaption class=\"figure-caption\">#{caption}</figcaption>\n</figure>\n\n"
     end
 
     # TABLE_CAPTION.

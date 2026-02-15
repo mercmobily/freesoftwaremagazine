@@ -14,13 +14,50 @@
   </div>
 {% endif %}
 
-<div class="row {{ page.list_name }}">
-  {% for article in page.elements_in_this_page %}
-    <div class="col-sm-6 col-lg-4 mb-4">
-      {% include article_card.html article=article %}
-    </div>
-  {% endfor %}
-</div>
+{% if page.list_name == "books" %}
+  <div class="table-responsive">
+    <table class="table table-striped table-sm books-chapter-list">
+      <thead>
+        <tr>
+          <th scope="col">Chapter</th>
+          <th scope="col">Author</th>
+          <th scope="col">Published</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for article in page.elements_in_this_page %}
+          {% assign authors = article.authors | default: "" | split: "," %}
+          {% assign date_value = article.published | default: article.date %}
+          <tr>
+            <td><a href="{{ article.url }}">{{ article.title }}</a></td>
+            <td>
+              {% for author in authors %}
+                {% assign author_slug = author | strip %}
+                {% assign author_label = author_slug | replace: "_", " " %}
+                {% if author_slug != "" %}
+                  <a href="/authors/{{ author_slug | uri_escape }}">{{ author_label }}</a>
+                {% endif %}
+              {% endfor %}
+            </td>
+            <td>
+              {% if date_value %}
+                {{ date_value | date: "%-m/%-d/%Y" }}
+              {% endif %}
+            </td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% else %}
+  <div class="row {{ page.list_name }}">
+    {% for article in page.elements_in_this_page %}
+      <div class="col-sm-6 col-lg-4 mb-4">
+        {% include article_card.html article=article %}
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}
 
 {% if page.total_pages and page.total_pages != 1 %}
   <nav aria-label="This article list spans multiple pages">

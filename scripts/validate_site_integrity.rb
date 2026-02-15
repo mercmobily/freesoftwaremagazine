@@ -253,11 +253,11 @@ if latest_with_main_image
   if File.file?(article_html_path)
     html = File.read(article_html_path)
     expected_image_url_fragment = "/articles/#{slug}/#{main_image}"
-    expected_hero_fragment = %(<img class="figure-img img-fluid rounded" src="#{main_image}")
+    hero_image_regex = /<img[^>]*class="[^"]*\bfigure-img\b[^"]*\bimg-fluid\b[^"]*\brounded\b[^"]*"[^>]*src="#{Regexp.escape(main_image)}"/m
 
     checks << ["social og:image present", html.include?('property="og:image"'), true]
     checks << ["social og:image URL", html.include?(expected_image_url_fragment), true]
-    checks << ["article hero image present", html.include?(expected_hero_fragment), true]
+    checks << ["article hero image present", !!(html =~ hero_image_regex), true]
   else
     checks << ["social article html exists", false, true]
   end

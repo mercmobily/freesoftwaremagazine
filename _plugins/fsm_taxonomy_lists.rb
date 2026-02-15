@@ -273,6 +273,7 @@ module Jekyll
 
           list_title = FsmTaxonomyLists.list_title_for(taxonomy[:key], term, term_articles)
           base_dir = File.join(taxonomy[:folder], term)
+          assign_book_navigation(term, list_title, sorted) if taxonomy[:key] == "books"
 
           extra_data = {}
           if taxonomy[:key] == "authors"
@@ -293,6 +294,44 @@ module Jekyll
           )
         end
       end
+    end
+
+    def assign_book_navigation(term, list_title, sorted_articles)
+      list_url = "/books/#{CGI.escape(term).gsub("+", "%20")}/"
+
+      sorted_articles.each_with_index do |article, index|
+        # If an article is in multiple books, only set chapter navigation for
+        # its primary declared book term.
+        next unless primary_book_term(article) == term
+
+        previous_article = index.positive? ? sorted_articles[index - 1] : nil
+        next_article = (index + 1 < sorted_articles.size) ? sorted_articles[index + 1] : nil
+
+        article.data["book_nav_term"] = term
+        article.data["book_nav_title"] = list_title
+        article.data["book_nav_list_url"] = list_url
+
+        if previous_article
+          article.data["book_nav_prev_url"] = previous_article.url
+          article.data["book_nav_prev_title"] = previous_article.data["title"].to_s
+        else
+          article.data.delete("book_nav_prev_url")
+          article.data.delete("book_nav_prev_title")
+        end
+
+        if next_article
+          article.data["book_nav_next_url"] = next_article.url
+          article.data["book_nav_next_title"] = next_article.data["title"].to_s
+        else
+          article.data.delete("book_nav_next_url")
+          article.data.delete("book_nav_next_title")
+        end
+      end
+    end
+
+    def primary_book_term(article)
+      terms = FsmTaxonomyLists.split_terms(article.data["book"]).uniq
+      terms.first
     end
 
     def create_paginated_pages(site:, base_dir:, list_name:, list_title:, articles:, extra_data:)
