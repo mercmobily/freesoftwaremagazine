@@ -9,7 +9,7 @@ section: hacking
 listed: 'true'
 
 ---
-In the [first part](http://www.freesoftwaremagazine.com/columns/saving_my_sanity_zenity_shell_script_interaction_gui) of this piece I introduced zenity : the handy tool for providing GUI interaction with your shell scripts. In this second part I'm going to delve a little deeper into the type of things you can do with this versatile tool.
+In the [first part](/articles/saving_my_sanity_zenity_shell_script_interaction_gui/) of this piece I introduced zenity : the handy tool for providing GUI interaction with your shell scripts. In this second part I'm going to delve a little deeper into the type of things you can do with this versatile tool.
 
 <!--break-->
 

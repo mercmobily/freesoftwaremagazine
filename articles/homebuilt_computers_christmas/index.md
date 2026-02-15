@@ -51,7 +51,7 @@ For the rest of the system, cleaning mostly consists of using compressed air (fo
 
 # Installing the operating systems
 
-Yeah, I said "systems", because I actually made these computers triple-boot: Debian "Lenny" GNU/Linux, FreeDOS 1.0, and (ugh, I know) Windows 98SE. As it happens, I have licensed copies of Windows 98SE from a long time back. I won't buy Windows again, but since the kids do keep getting undocumented and incompatible hardware, as I've [mentioned before](http://www.freesoftwaremagazine.com/columns/free_software_and_gadgets_world_beautiful_broken_toys), and I do have a substantial pile of legacy Windows games from the 1990s that the kids are interested in, it makes sense for them to be able to run both (I have little fear they will get hooked on Windows, since all their favorite software is in Debian anyway).
+Yeah, I said "systems", because I actually made these computers triple-boot: Debian "Lenny" GNU/Linux, FreeDOS 1.0, and (ugh, I know) Windows 98SE. As it happens, I have licensed copies of Windows 98SE from a long time back. I won't buy Windows again, but since the kids do keep getting undocumented and incompatible hardware, as I've [mentioned before](/articles/free_software_and_gadgets_world_beautiful_broken_toys/), and I do have a substantial pile of legacy Windows games from the 1990s that the kids are interested in, it makes sense for them to be able to run both (I have little fear they will get hooked on Windows, since all their favorite software is in Debian anyway).
 
 =ZOOM=I actually made these computers triple-boot: Debian "Lenny" GNU/Linux, FreeDOS 1.0, and Windows 98SE=
 
@@ -67,7 +67,7 @@ This is the really fun but also astonishingly poorly-documented part. It is now 
 
 * Specify a GRUB boot menu splash image
 * Use "splashy" to customize the Linux boot process
-* Create a KDM theme to customize the login screen (this goes beyond the simple change of background I documented in a [previous column on XDM, GDM, and KDM](http://www.freesoftwaremagazine.com/columns/configure_xdm_gdm_or_kdm))
+* Create a KDM theme to customize the login screen (this goes beyond the simple change of background I documented in a [previous column on XDM, GDM, and KDM](/articles/configure_xdm_gdm_or_kdm/))
 * Create a special splash image for when KDE loads
 * Add sounds to boot-up, login, logout, desktop-switches, error-messages, and any number of other "system notifications"
 * Change your icon set

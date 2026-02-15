@@ -9,7 +9,7 @@ section: announcements
 listed: 'true'
 
 ---
-Since the first three parts of this series came out, ([One](http://www.freesoftwaremagazine.com/columns/asus_eee_pc_ultra_portable_laptop_gnu_linux_pre-installed), [Two](http://www.freesoftwaremagazine.com/columns/asus_eeepc_part_two_setting_full_kde_gnu_linux_experience) and [Three](http://www.freesoftwaremagazine.com/columns/asus_eee_pc_part_three_alternative_distros)) the beginning of May has seen the launch of the new EeePC 900 series; it's slightly larger and heavier, with a nine-inch screen and higher resolution. The Xandros OS is the same and therefore the tips and tricks in this last part should apply equally well. Yes, the E900 series has a larger screen but you make as well make the most of every available seven or nine inches. Other tips and tricks aimed at boosting performance should also apply.
+Since the first three parts of this series came out, ([One](/articles/asus_eee_pc_ultra_portable_laptop_gnu_linux_pre-installed/), [Two](/articles/asus_eeepc_part_two_setting_full_kde_gnu_linux_experience/) and [Three](/articles/asus_eee_pc_part_three_alternative_distros/)) the beginning of May has seen the launch of the new EeePC 900 series; it's slightly larger and heavier, with a nine-inch screen and higher resolution. The Xandros OS is the same and therefore the tips and tricks in this last part should apply equally well. Yes, the E900 series has a larger screen but you make as well make the most of every available seven or nine inches. Other tips and tricks aimed at boosting performance should also apply.
 
 # Battery life
 
@@ -23,7 +23,7 @@ The default screen is bright and you will soon discover you that can in fact man
 
 Probably the most important saving you can make is to temporarily disable the Atheros built-in wireless card. This is one of the largest system power drains, so unless you need to be on the internet, disable it. Again, toggling `Fn+F` will do the trick. (If you forget the status of the card, the blue LED at the bottom right of the EeePC will indicate that it is on). The final feature that can be controlled easily and directly from the keyboard is muting the speakers. `Fn+F` does the trick. With all those features enabled easily from the keyboard you should be able to get the most out of your battery--and if you upgrade to the six-cell version (about £50) you should see some impressive road life in your EeePC before it starts gasping for an electrical outlet.
 
-These keyboard-adjustable features discussed above are the Xandros default and the insanely massive popularity of this machine have ensured a rush of customised GNU/Linux distros which, inevitably, have endeavoured to mimic those features. For a list of feature/distro compatibility for them see [Part Three](http://www.freesoftwaremagazine.com/columns/asus_eee_pc_part_three_alternative_distros) of this series.
+These keyboard-adjustable features discussed above are the Xandros default and the insanely massive popularity of this machine have ensured a rush of customised GNU/Linux distros which, inevitably, have endeavoured to mimic those features. For a list of feature/distro compatibility for them see [Part Three](/articles/asus_eee_pc_part_three_alternative_distros/) of this series.
 
 #Webcam
 
@@ -64,7 +64,7 @@ It is one thing however to ramp up the performance speed of the processor and up
 
 ## Opera and Firefox
 
-Digressing briefly, to make the most of the EeePc's processor and memory, and to set up my own personal comfort zone, [installing Dillo is always my first port of call](http://www.freesoftwaremagazine.com/columns/dillo_the_lean_browser). It's lean and fast but it is not exactly configurable for our purposes, though you can hide the toolbar and have a really large browsing canvas (toggle the icon at the bottom right hand corner of Dillo). 
+Digressing briefly, to make the most of the EeePc's processor and memory, and to set up my own personal comfort zone, [installing Dillo is always my first port of call](/articles/dillo_the_lean_browser/). It's lean and fast but it is not exactly configurable for our purposes, though you can hide the toolbar and have a really large browsing canvas (toggle the icon at the bottom right hand corner of Dillo). 
 
 =ZOOM=Firefox needs a pruning makeover to utilize precious screen space=
 
@@ -146,7 +146,7 @@ If that is not enough for space misers, Opera has skins (aka themes in Firefox) 
 
 # Changing the default cursor
 
-Out of the box, the default Xandros mouse cursor is large--relative to the small screen. If this irks you or offends your aesthetic sensibilities it can be changed easily. Providing you have enabled repositories (as described in [Part Two](http://www.freesoftwaremagazine.com/columns/asus_eeepc_part_two_setting_full_kde_gnu_linux_experience) of this series) you can use either Synaptic to search for cursor themes or open a console and install it/them with the usual `apt-get install`. Before that try `apt-cache search cursors` and see what is available. There are a number to to choose from. The most extensive, both in terms of size and design is _xcursor-themes_, but here is a list of runners and riders from which to choose a suitably-sized cursor: _crystalcursors, dmz-cursor-theme, comixcursors, Chameleon-custom-theme_.
+Out of the box, the default Xandros mouse cursor is large--relative to the small screen. If this irks you or offends your aesthetic sensibilities it can be changed easily. Providing you have enabled repositories (as described in [Part Two](/articles/asus_eeepc_part_two_setting_full_kde_gnu_linux_experience/) of this series) you can use either Synaptic to search for cursor themes or open a console and install it/them with the usual `apt-get install`. Before that try `apt-cache search cursors` and see what is available. There are a number to to choose from. The most extensive, both in terms of size and design is _xcursor-themes_, but here is a list of runners and riders from which to choose a suitably-sized cursor: _crystalcursors, dmz-cursor-theme, comixcursors, Chameleon-custom-theme_.
 
 You can see and download a great collection of cursors for KDE at [kde-look](http://www.kde-look.org/index.php?xcontentmode=36&PHPSESSID=c6fe26cc01ca1f15d6514bd184abc096) and for Gnome head over to [Gnome-look](http://www.gnome-look.org/index.php?xcontentmode=36). You can of course manage cursor themes from the KDE Control Centre under Mouse and the cursor themes tab (gconf-editor in Gnome)--including adding new themes from there as well.
 

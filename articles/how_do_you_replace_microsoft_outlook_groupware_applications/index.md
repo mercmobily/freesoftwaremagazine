@@ -45,7 +45,7 @@ I'd be interested to hear from anyone who has been through this--how hard is mig
 [3]: http://www.mozilla.com/thunderbird/
 [4]: http://www.mozilla.org/projects/calendar/lightning/
 [5]: http://www.cafamily.org.uk
-[6]: http://www.freesoftwaremagazine.com/columns/sharing_without_microsoft_exchange
+[6]: /articles/sharing_without_microsoft_exchange/
 [7]: http://wiki.kde.org/tiki-index.php?page=KDE4+Windows+Port
 [8]: http://shellter.sourceforge.net/evolution/
 [9]: http://www.opengroupware.org
@@ -53,5 +53,5 @@ I'd be interested to hear from anyone who has been through this--how hard is mig
 [11]: http://www.phpGroupware.org
 [12]: http://osdir.com/ml/web.phpgroupware.general/2003-09/msg00025.html
 [13]: http://www.nabble.com/forum/ViewPost.jtp?post=15689869
-[14]: http://www.freesoftwaremagazine.com/columns/can_openoffice_do_the_job
+[14]: /articles/can_openoffice_do_the_job/
 [15]: http://corneliusweiss.de/?p=55

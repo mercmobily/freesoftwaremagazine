@@ -114,7 +114,7 @@ The first question is simply:
 
 If you do not, then skip to question #3 below.
 
-If you _do_ plan to make money by selling copies, you _still_ don't have to use a "non-free" license, because there are very simple [business models for free works](http://questioncopyright.org/understanding_free_content) based on ["Endorsement"](http://questioncopyright.org/creator_endorsed) that avoid much of the hassle and enmity of the older ["Monopoly"](http://questioncopyright.org/promise) strategy. Some [examples](http://www.freesoftwaremagazine.com/columns/interview_nina_paley_author_Sita_Sings_the_Blues_and_two_Minute+Meme+animations) of this have been [very successful](http://www.techdirt.com/articles/20090824/1723375986.shtml). So:
+If you _do_ plan to make money by selling copies, you _still_ don't have to use a "non-free" license, because there are very simple [business models for free works](http://questioncopyright.org/understanding_free_content) based on ["Endorsement"](http://questioncopyright.org/creator_endorsed) that avoid much of the hassle and enmity of the older ["Monopoly"](http://questioncopyright.org/promise) strategy. Some [examples](/articles/interview_nina_paley_author_Sita_Sings_the_Blues_and_two_Minute_Meme_animations/) of this have been [very successful](http://www.techdirt.com/articles/20090824/1723375986.shtml). So:
 
 2) Do you want to use an "Endorsement" model or a "Monopoly" model to provide a "reason to buy" your official copies?
 

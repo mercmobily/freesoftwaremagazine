@@ -15,7 +15,7 @@ There are several layers at which a GNU/Linux system's appearance can be customi
 
 <!--break-->
 
-Despite the fact that the KDM theme structure and syntax is quite simple, I have not found any adequate documentation for it. I learned how to use it by reverse-engineering several existing themes. Hopefully, this column will help to rectify the apparent omission. It's possible to go much further with themes than you can with simple configuration changes to the login manager (I demonstrated these kinds of simple changes in an [earlier column](http://www.freesoftwaremagazine.com/columns/configure_xdm_gdm_or_kdm)).
+Despite the fact that the KDM theme structure and syntax is quite simple, I have not found any adequate documentation for it. I learned how to use it by reverse-engineering several existing themes. Hopefully, this column will help to rectify the apparent omission. It's possible to go much further with themes than you can with simple configuration changes to the login manager (I demonstrated these kinds of simple changes in an [earlier column](/articles/configure_xdm_gdm_or_kdm/)).
 
 To follow along, you will need some kind of graphics editing tools (I used Inkscape and Gimp, but you could easily use other programs for this), and you will need to understand basic XML syntax (XML is very much like HTML, so if you are used to looking at HTML you won't have much difficulty).
 

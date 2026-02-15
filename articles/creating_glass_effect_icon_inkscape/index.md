@@ -13,7 +13,7 @@ Inkscape is a shining star in the free software graphics world. I've covered cre
 
 <!--break-->
 
-I'm going to presume you know your way around the Inkscape interface. If you don't, then perhaps it would be better to start with [my first Inkscape tutorial](http://www.freesoftwaremagazine.com/columns/inkscape_tutorial_creating_simple_ribbon). If you do then open Inkscape with a new document. Incidentally the source SVG document for this tutorial is [available for download](http://www.equitasit.co.uk/uploads/files/inkscape_glass.svg) under a Creative Commons BY-SA licence. Where possible I have specified colours in the `RRGGBBAA` format used throughout Inkscape.
+I'm going to presume you know your way around the Inkscape interface. If you don't, then perhaps it would be better to start with [my first Inkscape tutorial](/articles/inkscape_tutorial_creating_simple_ribbon/). If you do then open Inkscape with a new document. Incidentally the source SVG document for this tutorial is [available for download](http://www.equitasit.co.uk/uploads/files/inkscape_glass.svg) under a Creative Commons BY-SA licence. Where possible I have specified colours in the `RRGGBBAA` format used throughout Inkscape.
 
 * Draw a circle (We'll call this circle 1) using the ellipse tool while holding the Ctrl key. Set the size to be 200 x 200 px
 * Set the stroke width for this be 18px

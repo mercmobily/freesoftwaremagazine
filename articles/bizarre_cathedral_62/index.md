@@ -29,4 +29,4 @@ you may have to wait for the latest strip to be translated. If you are translati
 Got an idea for the Bizarre Cathedral? Send it to the following e-mail addresss:  
 tbc _then_ at _then_ freesoftwaremagazine _then_ dot _then_ com
 
-[<< Previous strip](http://www.freesoftwaremagazine.com/columns/bizarre_cathedral_61) | [Next strip >>](http://www.freesoftwaremagazine.com/columns/bizarre_cathedral_63)
+[<< Previous strip](/articles/bizarre_cathedral_61/) | [Next strip >>](/articles/bizarre_cathedral_63/)

@@ -9,7 +9,7 @@ section: end_users
 listed: 'true'
 
 ---
-In [Part One of my Eee PC series](http://www.freesoftwaremagazine.com/columns/asus_eee_pc_ultra_portable_laptop_gnu_linux_pre-installed)  I looked at the hardware specifications of this miniature marvel. In such a small space Asus have managed to cram in a lot and at a price that is so low that it ought be illegal. However, it is a cliche to recall that hardware without software is junk--unless you have a fetish for silicon. In this post I will look at the software on the Eee PC. It will not be an explicit HOWTO, but it will include lots of links to enable you to get the best out of this two-pound wonder.
+In [Part One of my Eee PC series](/articles/asus_eee_pc_ultra_portable_laptop_gnu_linux_pre-installed/)  I looked at the hardware specifications of this miniature marvel. In such a small space Asus have managed to cram in a lot and at a price that is so low that it ought be illegal. However, it is a cliche to recall that hardware without software is junk--unless you have a fetish for silicon. In this post I will look at the software on the Eee PC. It will not be an explicit HOWTO, but it will include lots of links to enable you to get the best out of this two-pound wonder.
 
 <!--break-->
 

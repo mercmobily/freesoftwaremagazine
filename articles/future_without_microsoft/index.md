@@ -33,7 +33,7 @@ Dell offering GNU/Linux laptops (and then expanding the product line) made a hug
 
 I am writing this article using an EeePC (with Ubuntu Netbook Remix installed on it). Asus has created a new class of devices, the "ultra-portable" ones (or Netbooks, or sub-notebooks...). They are tiny low-cost machines that can be used to browse the web, write letters, and answer emails (or run magazines, which is what I do with mine). This market is big enough to convince Microsoft to resuscitate support for Windows XP /just for this very class of devices/. The problem stays: paying $55 for an OEM license of Windows XP is absurd if the computer itself costs $300. This is probably why the Asus EeePC came with GNU/Linux preinstalled. Unfortunately, it was an ugly fork of Xandros, but it was GNU/Linux nevertheless.
 
-Other hardware makers now want a slice of this appealing cake. Canonical, the maker of Ubuntu, made sure that those makers' distro of choice is Ubuntu, with its promising [Ubuntu Netbook Remix](http://www.freesoftwaremagazine.com/columns/ubuntu_netbook_remix_detailed_explanation) project.
+Other hardware makers now want a slice of this appealing cake. Canonical, the maker of Ubuntu, made sure that those makers' distro of choice is Ubuntu, with its promising [Ubuntu Netbook Remix](/articles/ubuntu_netbook_remix_detailed_explanation/) project.
 
 # So, to sum up...
 

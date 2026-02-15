@@ -208,7 +208,7 @@ About four times out of five, though, free software programmers pick a copyleft 
 
 4. ["PureDarwin" Project](http://www.puredarwin.org). A community-based continuation of the Darwin project.
 
-5. [Copyleft has no impact on project activity?!](http://www.freesoftwaremagazine.com/columns/copyleft_has_no_impact_project_activity). Statistics on project activity index were derived using features of the Trove search engine on Sourceforge for projects based on results from particular groups of licenses classified as "copyleft", "non-copyleft", "proprietary/other", and "public domain").
+5. [Copyleft has no impact on project activity?!](/articles/copyleft_has_no_impact_project_activity/). Statistics on project activity index were derived using features of the Trove search engine on Sourceforge for projects based on results from particular groups of licenses classified as "copyleft", "non-copyleft", "proprietary/other", and "public domain").
 
 6. [OpenDarwin Mirror](http://www.opendarwin.info/opendarwin.org/en). The final message describes the shutdown of the project due to the transfer of interest to the proprietary Mac OS X.
 
@@ -230,7 +230,7 @@ About four times out of five, though, free software programmers pick a copyleft 
 
 15. [GNU Project](http://www.gnu.org)
 
-16. An [exploit](http://www.freesoftwaremagazine.com/columns/debian_and_the_creative_commons), suggested by [Greg London](http://www.greglondon.com/), shows how an unscrupulous party could use DRM to maintain a "platform monopoly" on rights which are granted by the license of a free-licensed work, even with a so-called "parallel distribution" requirement.
+16. An [exploit](/articles/debian_and_the_creative_commons/), suggested by [Greg London](http://www.greglondon.com/), shows how an unscrupulous party could use DRM to maintain a "platform monopoly" on rights which are granted by the license of a free-licensed work, even with a so-called "parallel distribution" requirement.
 
 17. [BSD license.](http://opensource.org/licenses/bsd-license.php)
 
@@ -238,7 +238,7 @@ About four times out of five, though, free software programmers pick a copyleft 
 
 19. [Apache license.](http://opensource.org/licenses/apache2.0.php)
 
-20. [What if copyright didn't apply to binary executables?](http://www.freesoftwaremagazine.com/columns/what_if_copyright_didnt_apply_binary_executables)
+20. [What if copyright didn't apply to binary executables?](/articles/what_if_copyright_didnt_apply_binary_executables/)
 
 21. [TAPR Open Hardware License](http://www.tapr.org/ohl.html) (TAPR stands for"Tucson Amateur Packet Radio", but today it is an international organization).
 

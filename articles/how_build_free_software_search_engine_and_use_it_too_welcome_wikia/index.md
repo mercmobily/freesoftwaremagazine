@@ -11,7 +11,7 @@ listed: 'true'
 ---
 Mention Jimmy Wales and you automatically think Wikipedia; however, that is not his only love child. The Wikia search engine is his latest offspring -- or least it was when it was launched in January 2008. Wikia has been devised as a free software and open source alternative to Google and othersNow.
 
-In an article in June [I speculated about how the internet might change the way we think.](http://www.freesoftwaremagazine.com/columns/will_internet_really_change_way_we_think); I mentioned in passing the [Wikia search engine](http://re.search.wikia.com). Enough time has passed to see how this attempt to democratise a web search engine has come.
+In an article in June [I speculated about how the internet might change the way we think.](/articles/will_internet_really_change_way_we_think/); I mentioned in passing the [Wikia search engine](http://re.search.wikia.com). Enough time has passed to see how this attempt to democratise a web search engine has come.
 
 # The philosophy
 

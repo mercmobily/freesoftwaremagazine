@@ -29,5 +29,5 @@ you may have to wait a day or two for the latest strip to be translated. If you 
 Got an idea for the Bizarre Cathedral? Send it to the following e-mail addresss:  
 tbc _then_ at _then_ freesoftwaremagazine _then_ dot _then_ com
 
-[<< Previous strip](http://www.freesoftwaremagazine.com/columns/bizarre_cathedral_52)
-| [Next strip >>](http://www.freesoftwaremagazine.com/columns/bizarre_cathedral_54)
+[<< Previous strip](/articles/bizarre_cathedral_52/)
+| [Next strip >>](/articles/bizarre_cathedral_54/)

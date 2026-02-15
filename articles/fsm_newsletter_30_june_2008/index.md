@@ -43,33 +43,33 @@ _Thanks to lozz, trombonechamp, 100110111, bridget, mark, zarkovic, JRepin, Mr. 
 Latest content
 --------------
 
-**The Bizarre Cathedral - 11** --By Ryan Cartwright and Tony Mobily. Latest from the Bizarre Cathedral. [Read more...](http://www.freesoftwaremagazine.com/columns/bizarre_cathedral)
+**The Bizarre Cathedral - 11** --By Ryan Cartwright and Tony Mobily. Latest from the Bizarre Cathedral. [Read more...](/articles/bizarre_cathedral_11/)
 
 **Configure a professional firewall using pfSense** --By Sloan Miller. Set up multiple subnets to share your broadband Internet with your neighbors and split the cost. [Read more...](http://www.freesoftwaremagazine.com/articles/configure_professional_firewall_using_pfsense)
 
-**Ten fantastic keyboard shortcuts in OpenOffice.org** --By Ryan Cartwright. A lot of software users I meet seem to feel they are not using their software as efficiently as they could. If that includes you, then listen up. Here is my list of the ten, lesser-known, OpenOffice.org Writer keyboard shortcuts that will help you improve your productivity. [Read more...](http://www.freesoftwaremagazine.com/columns/ten_fantastic_keyboard_shortcuts_openoffice_org)
+**Ten fantastic keyboard shortcuts in OpenOffice.org** --By Ryan Cartwright. A lot of software users I meet seem to feel they are not using their software as efficiently as they could. If that includes you, then listen up. Here is my list of the ten, lesser-known, OpenOffice.org Writer keyboard shortcuts that will help you improve your productivity. [Read more...](/articles/ten_fantastic_keyboard_shortcuts_openoffice_org/)
 
 **Chapter 4: Automatically writing makefiles with Automake** --By John Calcote. Most of the general complaints I’ve ever seen aimed at the Autotools are ultimately associated with Automake, in the final analysis. The reason for this is simple: Automake provides the highest level of abstraction over the build system. This high level of abstraction is both apparent, and actual. And yet a solid understanding of the inner workings of Automake can provide you with the one of the most satisfying auto-generated build system experiences, because you can feel comfortable using the features of Automake to their maximum potential. [Read more...](http://www.freesoftwaremagazine.com/books/agaal/automatically_writing_makefiles_with_autotools)
 
 **Hotwire: a combined terminal/GUI for GNU/Linux** --By Gary Richmond. A suitable peacemaker between command-line purists and pragmatists? [Read more...](http://www.freesoftwaremagazine.com/articles/hotwire_a_combined_terminal_GUI_for_GNU_Linux)
 
-**Will the internet really improve the way we think?** --By Gary Richmond. In a recent interview with the British Sunday Observer, Jimmy Wales, founder of Wikipedia, claimed that “it’s the next billion [internet users] who will change the way we think”. Such a big claim deserves some critical house room. Will the internet really change the way we think? Or are we just getting carried away? [Read more...](http://www.freesoftwaremagazine.com/columns/will_internet_really_change_way_we_think)
+**Will the internet really improve the way we think?** --By Gary Richmond. In a recent interview with the British Sunday Observer, Jimmy Wales, founder of Wikipedia, claimed that “it’s the next billion [internet users] who will change the way we think”. Such a big claim deserves some critical house room. Will the internet really change the way we think? Or are we just getting carried away? [Read more...](/articles/will_internet_really_change_way_we_think/)
 
-**Interview with Liran Tal, author of daloRADIUS** --By Tony Mobily. Hello Liran. Thank you for answering our questions! First of all, you are the main developer of daloRADIUS… What is it in very simple terms? [Read more...](http://www.freesoftwaremagazine.com/columns/interview_liran_tal_author_daloradius)
+**Interview with Liran Tal, author of daloRADIUS** --By Tony Mobily. Hello Liran. Thank you for answering our questions! First of all, you are the main developer of daloRADIUS… What is it in very simple terms? [Read more...](/articles/interview_liran_tal_author_daloradius/)
 
-**The Bizarre Cathedral - 10** --By Ryan Cartwright and Tony Mobily. Latest from the Bizarre Cathedral. [Read more...](http://www.freesoftwaremagazine.com/columns/bizarre_cathedral_10)
+**The Bizarre Cathedral - 10** --By Ryan Cartwright and Tony Mobily. Latest from the Bizarre Cathedral. [Read more...](/articles/bizarre_cathedral_10/)
 
-**Drigg is looking for a new co-maintainer!** --By Tony Mobily. I would like to ask the free software community to syndicate this entry as much as possible. It’s not exciting, it’s not “hot”, but it is about the future of a great piece of free software. [Read more...](http://www.freesoftwaremagazine.com/columns/drigg_looking_new_co_maintainer)
+**Drigg is looking for a new co-maintainer!** --By Tony Mobily. I would like to ask the free software community to syndicate this entry as much as possible. It’s not exciting, it’s not “hot”, but it is about the future of a great piece of free software. [Read more...](/articles/drigg_looking_new_co_maintainer/)
 
-**The OOXML fight continues: here's one way you can help** --By Ryan Cartwright. The fight against the adoption of OOXML as an ISO standard is continuing in many countries. In the UK the UK Unix & Open Systems User Group (UKUUG)  unsuccessfully, sought a judicial review of the British Standards Institute’s decision to vote yes. UKUUG are now seeking to appeal against that rejection of a review and you can help them. [Read more...](http://www.freesoftwaremagazine.com/columns/ooxml_fight_continues_heres_one_way_you_can_help)
+**The OOXML fight continues: here's one way you can help** --By Ryan Cartwright. The fight against the adoption of OOXML as an ISO standard is continuing in many countries. In the UK the UK Unix & Open Systems User Group (UKUUG)  unsuccessfully, sought a judicial review of the British Standards Institute’s decision to vote yes. UKUUG are now seeking to appeal against that rejection of a review and you can help them. [Read more...](/articles/ooxml_fight_continues_heres_one_way_you_can_help/)
 
-**Is Asus backsliding on GNU/Linux?** --By Gary Richmond. Businesses are not philanthropists. They are not, intentionally, educators or evangelists for ideologies. However, from time to time their business models just happen to coincide with their more idealistic customers own interests. Asus is one such company. [Read more...](http://www.freesoftwaremagazine.com/columns/asus_backsliding_linux)
+**Is Asus backsliding on GNU/Linux?** --By Gary Richmond. Businesses are not philanthropists. They are not, intentionally, educators or evangelists for ideologies. However, from time to time their business models just happen to coincide with their more idealistic customers own interests. Asus is one such company. [Read more...](/articles/asus_backsliding_linux/)
 
 **Seagate Freeagent Pro: hardware that comes with proprietary software** --By Laurie Langham. Getting an external hard drive for my laptop seemed like such a good idea when I first thought about it. Seagate have got a dinky little 750 GB affair, called the Freeagent Pro, with lights that go up and down when it’s having a bit of a think to itself, so I got myself one of those. What I didn’t know when I bought it was that the hard drive came with all sorts of issues related to proprietary software. [Read more...](http://www.freesoftwaremagazine.com/coumns/seagate_freeagent_pro_hardware_comes_proprietary_software)
 
 **Writing a kernel module for FreeBSD** --By Yousef Ourabi. FreeBSD hacking 101. [Read more...](http://www.freesoftwaremagazine.com/articles/writing_a_kernel_module_for_freebsd)
 
-**Ian Lynch's take on the BECTA fiasco** --By Tony Mobily. I have recently read an eye-opening email from Ian Lynch about what happened in the UK with BECTA. [Read more...](http://www.freesoftwaremagazine.com/columns/ian_lynchs_take_becta_fiasco)
+**Ian Lynch's take on the BECTA fiasco** --By Tony Mobily. I have recently read an eye-opening email from Ian Lynch about what happened in the UK with BECTA. [Read more...](/articles/ian_lynchs_take_becta_fiasco/)
 
 **Mail merge in OpenOffice.org** --By Michael Crider. Making a complicated topic understandable. [Read more...](http://www.freesoftwaremagazine.com/articles/mail_merge_openoffice_org)
 

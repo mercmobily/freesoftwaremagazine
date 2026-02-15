@@ -10,7 +10,7 @@ main_image: 4745_wpm_hires.jpg
 listed: 'true'
 
 ---
-In the [first part](http://www.freesoftwaremagazine.com/columns/encouraging_next_generation_hackers_part_1_raspberry_pi_25_computer) of this series I looked at the Raspberry Pi -- a $25 computer which is being developed to remove one barrier to encouraging the next generation of programmers. It's ambitious and commendable but on its own it may not be enough. The choice of software for such a project is important and as important is the implementation of that software.
+In the [first part](/articles/encouraging_next_generation_hackers_part_1_raspberry_pi_25_computer/) of this series I looked at the Raspberry Pi -- a $25 computer which is being developed to remove one barrier to encouraging the next generation of programmers. It's ambitious and commendable but on its own it may not be enough. The choice of software for such a project is important and as important is the implementation of that software.
 
 <!--break-->
 

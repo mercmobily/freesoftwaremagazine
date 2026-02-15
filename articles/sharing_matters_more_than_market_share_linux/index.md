@@ -11,7 +11,7 @@ book: making_the_impossible_happen_the_rules_of_free_culture
 book_weight: '13'
 layout: book
 ---
-In a [recent article](http://www.freesoftwaremagazine.com/columns/dont_compare_gnu_linux_windows_or_macos_they_are_not_same_game), Ryan Cartwright argued that free software isn't playing the "same game" as proprietary software is. He's right—but that begs the question: what game _is_ GNU/Linux playing?
+In a [recent article](/articles/dont_compare_gnu_linux_windows_or_macos_they_are_not_same_game/), Ryan Cartwright argued that free software isn't playing the "same game" as proprietary software is. He's right—but that begs the question: what game _is_ GNU/Linux playing?
 
 Thirty years of proprietary software thinking have conditioned us to think that _marketshare_ is a critical measure of success, and so we've convinced ourselves that we have to "win" against Windows in order to "succeed". But this is simply not true. GNU/Linux can be a very great success even if it never achieves more than 1% of the installations in the world. The reason is the difference between "power" and "freedom".
 

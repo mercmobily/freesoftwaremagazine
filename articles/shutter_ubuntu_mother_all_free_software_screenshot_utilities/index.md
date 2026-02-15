@@ -9,7 +9,7 @@ section: end_users
 listed: 'true'
 
 ---
-Like anyone else who writes about software I subscribe to the maxim that a picture paints a thousand words. In short, I like to illustrate my text with timely and relevant screenshots; so I'm always on the lookout for good, free software to get the job done. Back in the mists of time [I looked at a command-line utility called Scrot](http://www.freesoftwaremagazine.com/columns/how_to_take_screenshots_with_scrot). It's immensely powerful and configurable but it _does_ take some setting up. Not really entirely convenient when you just want to concentrate on writing the definitive user guide for some piece of killer software. I think Shutter may well be the solution.
+Like anyone else who writes about software I subscribe to the maxim that a picture paints a thousand words. In short, I like to illustrate my text with timely and relevant screenshots; so I'm always on the lookout for good, free software to get the job done. Back in the mists of time [I looked at a command-line utility called Scrot](/articles/how_to_take_screenshots_with_scrot/). It's immensely powerful and configurable but it _does_ take some setting up. Not really entirely convenient when you just want to concentrate on writing the definitive user guide for some piece of killer software. I think Shutter may well be the solution.
 
 # What's in a name?
 

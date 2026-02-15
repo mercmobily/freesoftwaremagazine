@@ -9,7 +9,7 @@ section: opinions
 listed: 'true'
 
 ---
-In [Part One](http://www.freesoftwaremagazine.com/columns/asus_eee_pc_ultra_portable_laptop_gnu_linux_pre-installed) of this four parter on the Asus Eee PC I looked at the technical specifications and in [Part Two](http://www.freesoftwaremagazine.com/columns/asus_eeepc_part_two_setting_full_kde_gnu_linux_experience) I looked at how to get the default Xandros up to speed as a full KDE desktop. In this third instalment we come to what is perhaps the most fun  part of the experience.
+In [Part One](/articles/asus_eee_pc_ultra_portable_laptop_gnu_linux_pre-installed/) of this four parter on the Asus Eee PC I looked at the technical specifications and in [Part Two](/articles/asus_eeepc_part_two_setting_full_kde_gnu_linux_experience/) I looked at how to get the default Xandros up to speed as a full KDE desktop. In this third instalment we come to what is perhaps the most fun  part of the experience.
 
 As I explained in Part Two, even getting a full KDE desktop up and running will not give you the unexpurgated GNU/Linux experience because of space constraints and the nature of Unionfs. The solution to this is the one that has been around since Unix hackers were in short trousers. Install a different distro. As soon as the ultra portable, miniature laptop was out the open-source community was busy customising existing distros to suit the small format and to ensure that hardware like the Atheros wireless card and the Webcam worked properly.
 

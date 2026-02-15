@@ -45,19 +45,19 @@ Latest content
 
 **Configure Exim with anti-spam** --By Ryan Cartwright. Spam's off! Make it so with Exim and SpamAssassin. [Read more...](http://www.freesoftwaremagazine.com/articles/exim_and_anti_spam_spamassassin)
 
-**FOSDEM: A Personal Account (with all personal details withheld)** --By Steven Goodwin. FOSDEM - a geek trip to Brussels. Going abroad to experience different cultures. Or at least, a chance to eat chips, suffer rain, and watch American TV in a different country. [Read more...](http://www.freesoftwaremagazine.com/columns/fosdem_personal_account_all_personal_details_withheld)
+**FOSDEM: A Personal Account (with all personal details withheld)** --By Steven Goodwin. FOSDEM - a geek trip to Brussels. Going abroad to experience different cultures. Or at least, a chance to eat chips, suffer rain, and watch American TV in a different country. [Read more...](/articles/fosdem_personal_account_all_personal_details_withheld/)
 
-**10 billion flies and no Kubuntu** --By Laurie Langham. Since last November, I’ve been missing from these pages because I’ve been spending the Australian summer out in the Back of Beyond. [Read more...](http://www.freesoftwaremagazine.com/columns/10_billion_flies_and_no_kubuntu)
+**10 billion flies and no Kubuntu** --By Laurie Langham. Since last November, I’ve been missing from these pages because I’ve been spending the Australian summer out in the Back of Beyond. [Read more...](/articles/10_billion_flies_and_no_kubuntu/)
 
-**How to love Free Software in 3 steps: configure, make, make install** --By Mitch Meyran. I recently re-read the article how to hate free software in 3 easy steps by Steven Goodwin. I’m no programmer, but then I’ve also installed a few distributions myself. And frankly, I have trouble relating to that post. [Read more...](http://www.freesoftwaremagazine.com/columns/how_love_free_software_3_steps)
+**How to love Free Software in 3 steps: configure, make, make install** --By Mitch Meyran. I recently re-read the article how to hate free software in 3 easy steps by Steven Goodwin. I’m no programmer, but then I’ve also installed a few distributions myself. And frankly, I have trouble relating to that post. [Read more...](/articles/how_love_free_software_3_steps/)
 
-**A £99 GNU/Linux laptop: is it just too cheap?** --By Ryan Cartwright. On 28 February 2008, Elonex launched the Elonex ONE—the first sub-£100 laptop in the UK. Clearly competing against the much in-demand Asus EeePC [2], Elonex say they are aiming at the school-student market. The thing is, I just can’t stop asking: isn’t £99 too cheap for a laptop? [Read more...](http://www.freesoftwaremagazine.com/columns/pound_99_pound_gnu_linux_laptop_too_cheap)
+**A £99 GNU/Linux laptop: is it just too cheap?** --By Ryan Cartwright. On 28 February 2008, Elonex launched the Elonex ONE—the first sub-£100 laptop in the UK. Clearly competing against the much in-demand Asus EeePC [2], Elonex say they are aiming at the school-student market. The thing is, I just can’t stop asking: isn’t £99 too cheap for a laptop? [Read more...](/articles/pound_99_pound_gnu_linux_laptop_too_cheap/)
 
-**Impossible thing #3: Free art and the Creative Commons culture** --By Terry Hancock. A new conventional wisdom began to spring up around free software, led in part by theorists like Eric Raymond, who were interested in the economics of free software production. Much of this thought centered around service-based and other ancillary sales for supporting free software. [Read more...](http://www.freesoftwaremagazine.com/columns/impossible_thing_3_free_art_and_the_creative_commons_culture)
+**Impossible thing #3: Free art and the Creative Commons culture** --By Terry Hancock. A new conventional wisdom began to spring up around free software, led in part by theorists like Eric Raymond, who were interested in the economics of free software production. Much of this thought centered around service-based and other ancillary sales for supporting free software. [Read more...](/articles/impossible_thing_3_free_art_and_the_creative_commons_culture/)
 
 **Review of FreeBSD 7** --By Yousef Ourabi. At look at the future including finstall, the new graphical installer. [Read more...](http://www.freesoftwaremagazine.com/articles/review_of_freebsd_7)
 
-**gedit plugins: What they are and how to use them** --By Andrew Min. In my last article, I talked about using the powerful gedit text editor. But no program is perfect, mainly because too many features imply too much bloat. That’s where gedit’s plugins come into play. In this article, I’m will explain how to install and use some of my favorite gedit plugins. [Read more...](http://www.freesoftwaremagazine.com/columns/gedit_plugins_what_they_are_and_how_use_them)
+**gedit plugins: What they are and how to use them** --By Andrew Min. In my last article, I talked about using the powerful gedit text editor. But no program is perfect, mainly because too many features imply too much bloat. That’s where gedit’s plugins come into play. In this article, I’m will explain how to install and use some of my favorite gedit plugins. [Read more...](/articles/gedit_plugins_what_they_are_and_how_use_them/)
 
 **Learning XHTML: Monty Python Style** --By Andrew Min. The quickstart guide to learning standards-compliant XHTML. [Read more...](http://www.freesoftwaremagazine.com/articles/learning_html_monty_python_style)
 
@@ -65,7 +65,7 @@ Latest content
 
 **Making open hardware possible** --By Alicia Asín Pérez. Explaining the basics of Open Hardware. [Read more...](http://www.freesoftwaremagazine.com/articles/making_open_hardware_possible)
 
-**Promoting the Public Domain with Creative Commons' CC0 Initiative** --By Terry Hancock. It used to be that you could safely assume a work was public domain unless there was a highly visible warning printed on it, containing both the copyright owner and the date of copyright (at least in the USA). [Read more...](http://www.freesoftwaremagazine.com/columns/promoting_public_domain_creative_commons_cc0_initiative)
+**Promoting the Public Domain with Creative Commons' CC0 Initiative** --By Terry Hancock. It used to be that you could safely assume a work was public domain unless there was a highly visible warning printed on it, containing both the copyright owner and the date of copyright (at least in the USA). [Read more...](/articles/promoting_public_domain_creative_commons_cc0_initiative/)
 
 **Trick and tips: a summary** --This is a collection of tips&tricks written by Andrew Min and Gary Richmond, published in Free Software Magazine’s blog. [Read more...](http://www.freesoftwaremagazine.com/articles/trick_tips_summary_21)
 

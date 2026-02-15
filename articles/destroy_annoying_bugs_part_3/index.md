@@ -11,7 +11,7 @@ listed: 'true'
 ---
 In the previous posts, I have written about personal use of static code reviews via a GUI, in this case Eclipse. However, for large projects with hundreds of thousands of lines of code or more, with the code base being scattered amongst project teams, we have a problem. The economics of Quality Assurance demand a more mass analyzed and factory-efficient approach. Do things quick, hit the code, find the worst bugs and repair. The white box looking out, in combination with the functional or load testing black box methodologies looking in. 
 
-_Note: this is Part 3. Feel free to read [Part 2](http://www.freesoftwaremagazine.com/columns/destroy_annoying_bugs_part_2)!_
+_Note: this is Part 3. Feel free to read [Part 2](/articles/destroy_annoying_bugs_part_2/)!_
 
 <!--break-->
 

@@ -9,7 +9,7 @@ section: end_users
 listed: 'true'
 
 ---
-GNU/Linux is blessed with a good choice of file managers. Gnome has Nautilus, KDE has Dolphin and Konqueror and Krusader, which [I wrote about some time ago](http://www.freesoftwaremagazine.com/columns/krusader_one_file_manager_rule_them_all)).
+GNU/Linux is blessed with a good choice of file managers. Gnome has Nautilus, KDE has Dolphin and Konqueror and Krusader, which [I wrote about some time ago](/articles/krusader_one_file_manager_rule_them_all/)).
 
 If you are looking for a minimalist system with low processor and memory overheads to revive an old "underpowered" machine or make the latest PC look even faster, you have to start thinking about alternatives. One of them is Thunar, the default browser of [XFCE](http://www.xfce.org/). It even has its [own homepage](http://thunar.xfce.org/index.html). The good news though is that it will run perfectly well on Gnome and KDE and other smaller desktops once you package manager has pulled in all the necessary dependencies, so you don't need to change desktops to get and use it. This article will be Debian/Ubuntu centric, but Thunar should be available in the repositories of all the major distros like Mandriva and Fedora.
 
@@ -64,7 +64,7 @@ Eureka! Count to five and that box exits stage left without so much as a by your
 
 When you right click on files and directories in Konqueror, by default you will have access to a lot of options and if that's not enough for you there are several hundred addons called _Service Menus_ which add enormous power to that file manager. Thunar _is_ extensible after all, using User Custom Actions. There aren't too many of them but they are well worth having and they don't clutter Thunar or slow it down.
 
-You can get round the virtually non-existent search capabilities by using UCA to install Catfish, a GUI meta front end for `find`, `locate` and `Beagle`. Catfish should be available in the repositories of all the main distros. That's the easy part. Post-install configuration is a little more involved and too detailed for this article, but you can find out how to integrate it with Thunar in [my article on search engines](http://www.freesoftwaremagazine.com/columns/desktop_search_beagle_part_2) 
+You can get round the virtually non-existent search capabilities by using UCA to install Catfish, a GUI meta front end for `find`, `locate` and `Beagle`. Catfish should be available in the repositories of all the main distros. That's the easy part. Post-install configuration is a little more involved and too detailed for this article, but you can find out how to integrate it with Thunar in [my article on search engines](/articles/desktop_search_beagle_part_2/) 
 
 User Custom Actions can be accessed from the drop-down Edit menu. Select `Configure Custom Actions` and you will be presented with an interface:
 

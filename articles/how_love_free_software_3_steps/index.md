@@ -9,7 +9,7 @@ section: opinions
 listed: 'true'
 
 ---
-I recently re-read the article [how to hate free software in 3 easy steps](http://www.freesoftwaremagazine.com/columns/how_to_hate_free_software_in_3_easy_steps) by Steven Goodwin. I'm no programmer, but then I've also installed a few distributions myself. And frankly, I have trouble relating to that post.
+I recently re-read the article [how to hate free software in 3 easy steps](/articles/how_to_hate_free_software_in_3_easy_steps/) by Steven Goodwin. I'm no programmer, but then I've also installed a few distributions myself. And frankly, I have trouble relating to that post.
 
 Several points were made in the article's comments, some being that non-programmers don't compile from source anyway, compiling from source requires you to be a programmer, and other operating systems don't crash when you tinker with their partitions.
 

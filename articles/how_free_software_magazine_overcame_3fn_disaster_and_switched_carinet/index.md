@@ -17,7 +17,7 @@ Before I say anything else: I was lucky. CariNet turned out to be a great choice
 
 # Rule #1: pick your partners well
 
-My entry about [3FN's shutdown](http://www.freesoftwaremagazine.com/columns/free_software_magazine_caught_3fn_shutdown_crossfire) makes a lot of sense. However, I have to say that while I can excuse a school headmaster for signing up with 3FN, I can't really excuse myself. Yes, I should have been more careful. I couldn't possibly know what kind of sites were hosted by them, but I did get hints that 3FN was not actually based in the US; the support people didn't speak English properly; it wasn't clear where the company was located; our pagerank kept on dropping because of the "bad neighbours" we had; and the prices were just too good. None of these thing on their own were enough to trigger any warning bells. But together, they should have made me wonder.
+My entry about [3FN's shutdown](/articles/free_software_magazine_caught_3fn_shutdown_crossfire/) makes a lot of sense. However, I have to say that while I can excuse a school headmaster for signing up with 3FN, I can't really excuse myself. Yes, I should have been more careful. I couldn't possibly know what kind of sites were hosted by them, but I did get hints that 3FN was not actually based in the US; the support people didn't speak English properly; it wasn't clear where the company was located; our pagerank kept on dropping because of the "bad neighbours" we had; and the prices were just too good. None of these thing on their own were enough to trigger any warning bells. But together, they should have made me wonder.
 
 # Rule #2: have backups. And have backups of backups on another continent
 

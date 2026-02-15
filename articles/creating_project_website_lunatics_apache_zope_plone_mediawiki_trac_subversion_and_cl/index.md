@@ -39,7 +39,7 @@ This is also where we advertise the fundraising campaigns, merchandise sales, co
 
 =ZOOM=This is also where we advertise the fundraising campaigns, merchandise sales, collaboration channels, and social media connections to further advertise the series=
 
-I need precise control over this page, because design is very critical when dealing with viewers and fans. I addressed the page design itself in a previous column, "[Reflections on a page design](http://www.freesoftwaremagazine.com/columns/reflections_page_design_my_how_web_has_changed)", when I prototyped the page as a static HTML page (and for a while, the page on the site was a static page served directly from the file-system).
+I need precise control over this page, because design is very critical when dealing with viewers and fans. I addressed the page design itself in a previous column, "[Reflections on a page design](/articles/reflections_page_design_my_how_web_has_changed/)", when I prototyped the page as a static HTML page (and for a while, the page on the site was a static page served directly from the file-system).
 
 =IMAGE=fig_zmi_view.jpg=The back of the front page -- the page is broken up into separate Zope objects which makes it easier to separate and manage different parts of the page=
 
@@ -73,7 +73,7 @@ So I can't think of anything that would be better for basic interaction with art
 
 This site is where we are doing our pre-production work: collecting sketches, diagrams, textual descriptions, scripts, and so on.
 
-We tried a [more complex installation](http://www.freesoftwaremagazine.com/columns/migrating_multiple_mediawikis_practically_perfect_people_policies) at first, but it was more trouble than it was worth. So in the end, I scaled back to using a single wiki instance targeted to pre-production. All of the "fan" content is now on the Plone or Zope parts of the site, and except for the front page and the "Contributing to Lunatics" pages, you need a login to view the wiki. However, creating an account is an automatic process, with just a very simple "[CAPTCHA](http://en.wikipedia.org/wiki/CAPTCHA)" to prevent spambots from vandalizing the site.
+We tried a [more complex installation](/articles/migrating_multiple_mediawikis_practically_perfect_people_policies/) at first, but it was more trouble than it was worth. So in the end, I scaled back to using a single wiki instance targeted to pre-production. All of the "fan" content is now on the Plone or Zope parts of the site, and except for the front page and the "Contributing to Lunatics" pages, you need a login to view the wiki. However, creating an account is an automatic process, with just a very simple "[CAPTCHA](http://en.wikipedia.org/wiki/CAPTCHA)" to prevent spambots from vandalizing the site.
 
 # The Production Trac Page and Subversion Repository
 

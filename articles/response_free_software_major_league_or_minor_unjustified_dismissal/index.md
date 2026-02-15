@@ -9,7 +9,7 @@ section: opinions
 listed: 'true'
 
 ---
-I just read Terry Hancock's artilce on [Is free software major league or minor?](http://www.freesoftwaremagazine.com/columns/free_software_major_league_or_minor). Great article, and I'm very glad to see articulate discussion about these core subjects. Not enough is said about these matters.
+I just read Terry Hancock's artilce on [Is free software major league or minor?](/articles/free_software_major_league_or_minor/). Great article, and I'm very glad to see articulate discussion about these core subjects. Not enough is said about these matters.
 
 However, I disagree strongly on several points that your article raises. I'll take it point by point in an effort to not misrepresent your views and keep focussed on the statements that you have made.
 

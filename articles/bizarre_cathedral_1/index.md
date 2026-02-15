@@ -17,4 +17,4 @@ Announcing a brand new cartoon strip, exclusive to FSM!
 This work is covered by a [Creative commons Attribution-Non Commercial-Share Alike 3.0 licence](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 
-[Next strip >>](http://www.freesoftwaremagazine.com/columns/bizarre_cathedral_2)
+[Next strip >>](/articles/bizarre_cathedral_2/)

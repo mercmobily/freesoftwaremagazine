@@ -9,7 +9,7 @@ section: opinions
 listed: 'true'
 
 ---
-Recently, in this column, I spoke about how we can [lose our free software choices](http://www.freesoftwaremagazine.com/columns/free_software_alternatives_what_good_choice_if_you_dont_use_it) if we don't use them. Sticking with that choice is not always easy so how do we get others to make it, particularly in a world where the choice is often made for them. How can we advocate free software in a world where others don't seem to care?
+Recently, in this column, I spoke about how we can [lose our free software choices](/articles/free_software_alternatives_what_good_choice_if_you_dont_use_it/) if we don't use them. Sticking with that choice is not always easy so how do we get others to make it, particularly in a world where the choice is often made for them. How can we advocate free software in a world where others don't seem to care?
 
 <!--break-->
 
@@ -23,7 +23,7 @@ You'll see where I am going with this: the same questions can--and are--asked ab
 
 ### Hang on--did you just say..?
 
-Regular readers of this column may be a little puzzled to find me advocating a purist approach to using free software--considering how I had used this argument as an example of [free software FUD](http://www.freesoftwaremagazine.com/columns/can_we_please_stop_fighting_fud_fud). Just to clarify, I personally use free software wherever and whenever possible. Sometimes that is just not possible and so I compromise--although often with some kind of vocal protest.  I believe advocacy to individuals has a higher chance of success if built on existing relationships, so I'm unlikely to be speaking to my fellow travellers about this. I'd like them to change their ways though and--as I suspect many probably don't care either way--I'll complain to the train company and the station outlet chains. I've done this before with hotels, cafés and supermarkets and where I don't succeed--and there is a choice--I take my business elsewhere.
+Regular readers of this column may be a little puzzled to find me advocating a purist approach to using free software--considering how I had used this argument as an example of [free software FUD](/articles/can_we_please_stop_fighting_fud_fud/). Just to clarify, I personally use free software wherever and whenever possible. Sometimes that is just not possible and so I compromise--although often with some kind of vocal protest.  I believe advocacy to individuals has a higher chance of success if built on existing relationships, so I'm unlikely to be speaking to my fellow travellers about this. I'd like them to change their ways though and--as I suspect many probably don't care either way--I'll complain to the train company and the station outlet chains. I've done this before with hotels, cafés and supermarkets and where I don't succeed--and there is a choice--I take my business elsewhere.
 
 # Advocacy on a personal level
 

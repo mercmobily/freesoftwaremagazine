@@ -39,4 +39,4 @@ Another danger of getting into the pricing bun-fight is that it is clearly Micro
 
 So let's leave the proprietary guys to their silly selling licences games -- it's a boring game anyway and it really doesn't mix well with free software. Our best arguments have always been about freedom and -- as Brian Proffitt agrees, they are successful as well.
 
-[1]: http://www.freesoftwaremagazine.com/columns/lets_stop_playing_numbers_game_free_software_has_changed_game
+[1]: /articles/lets_stop_playing_numbers_game_free_software_has_changed_game/

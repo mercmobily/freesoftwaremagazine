@@ -14,7 +14,7 @@ This last Christmas, I refurbished and installed computers for two of my childre
 <!--break-->
 
 =TEXTBOX_START=Homebuilt computers for Christmas=
-This article follows up my previous article on [refurbishing computers for kids](http://www.freesoftwaremagazine.com/columns/homebuilt_computers_christmas), with technical details about the triple-boot systems I set up. Read that if you are wondering about my goals or other aspects of this project. Here I'm just talking about the technology.
+This article follows up my previous article on [refurbishing computers for kids](/articles/homebuilt_computers_christmas/), with technical details about the triple-boot systems I set up. Read that if you are wondering about my goals or other aspects of this project. Here I'm just talking about the technology.
 =TEXTBOX_END=
 
 Many years ago, before there was GRUB, Linux was usually loaded by LILO. Although LILO worked just fine as a "LInux LOader", it wasn't much of a "GRand Unified Bootloader", and so creating a dual-boot Linux/Windows system was not so easy. I did it at the time using a DOS/Windows program called LOADLIN.EXE that started the boot-loading process for Linux from the DOS/Windows environment on the computer. That was using Windows 3.1, in about 2000, more or less at the same time I started using Linux myself. I set up a shared computer for my children then, and although they were still essentially using Windows games and applications, I wanted to introduce them to the GNU/Linux programs that I was learning as well.
@@ -48,7 +48,7 @@ Some apology is perhaps due for explaining how to install Windows 98SE on a comp
 
 * Testing for compatibility with other people's systems
 * Using old proprietary software such as games (which are as much content as software)
-* Compatibility with ubiquitous cheap proprietary hardware, such as I described in ["A world of beautiful broken toys"](http://www.freesoftwaremagazine.com/columns/free_software_and_gadgets_world_beautiful_broken_toys)
+* Compatibility with ubiquitous cheap proprietary hardware, such as I described in ["A world of beautiful broken toys"](/articles/free_software_and_gadgets_world_beautiful_broken_toys/)
 * Exposing children to a variety of different systems, to avoid being "locked-in" to one
 * Showing them exactly why I stopped using it (in a fair comparison, no child is going to prefer Windows over GNU/Linux in my opinion, certainly not when the GNU/Linux system was what they learned first)
 

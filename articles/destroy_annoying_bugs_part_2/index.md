@@ -11,7 +11,7 @@ listed: 'true'
 ---
 _Static code reviews_ aimed at eating bugs (!) are unbiased and neutral. If you spill coffee on their laps or are applying for the same job as them, the advice given back will remain the same. Static code reviews work via rules; some rules are accurate in their assessment and others are not so relevant--or even false. Before building a thorough infrastructure for large-scale deployment, it is well worth installing the tool's respective plugins. You can have a lot of fun kicking the tires of the rule sets for your own particular environment. Getting your fingers into the reality of the code is the first step in the path to Quality Assurance enlightenment. Note to self, _remember to ask boss for pay rise._
 
-_Note: this is Part 2. Feel free to read [Part 1](http://www.freesoftwaremagazine.com/columns/destroy_annoying_bugs_part_1)!_
+_Note: this is Part 2. Feel free to read [Part 1](/articles/destroy_annoying_bugs_part_1/)!_
 
 <!--break-->
 

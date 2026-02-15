@@ -21,7 +21,7 @@ Ogg Theora is the codec of choice for free-licensed, patent-free video, and so t
 This article is part of an on-going series on the challenges I've faced in producing two free-licensed movies, _Marya Morevna_, through the [Morevna Project](http://www.morevnaproject.org) and [Lunatics](http://lunatics.tv), which we are working on as Anansi Spaceworks.
 =TEXTBOX_END=
 
-After writing my recent piece on my [Blu-Ray Blues](http://www.freesoftwaremagazine.com/columns/five_ideas_escaping_blu_ray_blues) with finding a way to distribute high definition video, I began to experiment with free-licensed, non-patent-encumbered formats. The natural choice was, of course, to start with the [Xiph.org](http://xiph.org) formats and work my way along until I had achieved the goal. Today I'm going to demonstrate the creation of the video stream itself.
+After writing my recent piece on my [Blu-Ray Blues](/articles/five_ideas_escaping_blu_ray_blues/) with finding a way to distribute high definition video, I began to experiment with free-licensed, non-patent-encumbered formats. The natural choice was, of course, to start with the [Xiph.org](http://xiph.org) formats and work my way along until I had achieved the goal. Today I'm going to demonstrate the creation of the video stream itself.
 
 =ZOOM=Today I'm going to demonstrate the creation of the video stream itself=
 

@@ -64,7 +64,7 @@ Compare that with a system of updates where individual packages release updates 
 
 Wouldn't you rather know what a patch fixes and/or changes it will make before you apply it? Several proprietary companies (including Microsoft) will release change notes and update information which is tant-amount to saying "Something isn't quite right and this will fix it, but that's all we're saying". If you ask me, this borderlines between mistrusting and patronising.
 
-Compare this to a system where release notes/change logs and the like are available before you download the update. Many of the release notes could improve on ease of use, but the fact remains that you can find out what needs to change and why, determine the risk level to your systems and schedule the updates accordingly. On my Debian system I usually install `apt-listbugs` as well, so I can see any outstanding bug reports before I apply an update/patch. I discussed this [earlier in this column](http://www.freesoftwaremagazine.com/columns/beyond_synaptic_using_apt_better_package_management).
+Compare this to a system where release notes/change logs and the like are available before you download the update. Many of the release notes could improve on ease of use, but the fact remains that you can find out what needs to change and why, determine the risk level to your systems and schedule the updates accordingly. On my Debian system I usually install `apt-listbugs` as well, so I can see any outstanding bug reports before I apply an update/patch. I discussed this [earlier in this column](/articles/beyond_synaptic_using_apt_better_package_management/).
 
 
 # Conclusion

@@ -21,7 +21,7 @@ I am setting up five MediaWiki instances in three domains on one server with thr
 This article is part of an on-going series on the challenges I've faced in producing two free-licensed movies, _Marya Morevna_, through the [Morevna Project](http://www.morevnaproject.org) and [Lunatics](http://lunatics.tv), which we are working on as Anansi Spaceworks.
 =TEXTBOX_END=
 
-For some time now, we've been working on a wiki on our home LAN (as I covered in a [previous column](http://www.freesoftwaremagazine.com/columns/private_collaboration_and_digital_asset_management_mediawiki)), but in order to involve more people in the Lunatics video project, we've got to put that information online, and we have to enable collaboration. On the other hand, unlike Wikipedia, we are running a project under creative direction, so we don't want a completely wide-open door. In fact, we need several different layers of collaboration, and even a little bit of secrecy (so as not to reveal spoilers about upcoming episodes). It's a fairly tricky balance -- even when all the software is designed for what you want.
+For some time now, we've been working on a wiki on our home LAN (as I covered in a [previous column](/articles/private_collaboration_and_digital_asset_management_mediawiki/)), but in order to involve more people in the Lunatics video project, we've got to put that information online, and we have to enable collaboration. On the other hand, unlike Wikipedia, we are running a project under creative direction, so we don't want a completely wide-open door. In fact, we need several different layers of collaboration, and even a little bit of secrecy (so as not to reveal spoilers about upcoming episodes). It's a fairly tricky balance -- even when all the software is designed for what you want.
 
 MediaWiki, however, is not a perfect fit to this kind of selective-security design. You can set the access controls for an entire wiki, but not for individual pages or categories. There is, however, a set of tools for combining multiple wikis -- this is used by Wikimedia to separate its various services (such as Wikipedia, Wictionary, Wikimedia Commons, etc) and also to deal with multiple languages (each different language version of Wikipedia is really a different wiki).
 
@@ -43,7 +43,7 @@ While I'm at it, I'm going to set up two additional wikis for two other on-going
 
 # Parallel MediaWiki installations
 
-First, let me explain how the multiple wikis are set up. This is a little bit of a rehash, because I covered a nearly identical configuration in my previous column about [using MediaWiki on a home LAN](http://www.freesoftwaremagazine.com/columns/private_collaboration_and_digital_asset_management_mediawiki). But there are a few refinements here, since this site is "for company".
+First, let me explain how the multiple wikis are set up. This is a little bit of a rehash, because I covered a nearly identical configuration in my previous column about [using MediaWiki on a home LAN](/articles/private_collaboration_and_digital_asset_management_mediawiki/). But there are a few refinements here, since this site is "for company".
 
 There's a lot of different ways to do this, but oddly enough, I never found one quite like the way I finally did it. I couldn't see any reason why I needed all of the wikis to cohabitate in a single database, and doing so with table prefixes would've made the MySQL tables a terrific mess (not that I look at them much, but what if I have to?). So, instead, I just created a separate database for each wiki.
 
