@@ -3,7 +3,7 @@
 
 require "jekyll"
 
-ROOT = File.expand_path("../../..", __dir__)
+ROOT = File.expand_path("..", __dir__)
 require File.join(ROOT, "_plugins", "fsm_content_transforms")
 
 def assert(name)
@@ -76,17 +76,14 @@ assert("preferred [[textbox:...]]") do
   html.include?("<div class=\"TEXTBOX\">") && html.include?("Head") && html.include?("Body")
 end
 
-{
-  "image" => "IMAGE",
-  "img" => "IMG",
-  "img_clear" => "IMG_CLEAR",
-  "image_big" => "IMAGE_BIG",
-  "img_private" => "IMG_PRIVATE",
-  "image_private" => "IMAGE_PRIVATE"
-}.each do |directive, tag|
-  assert("preferred [[#{directive}:...|...]]") do
-    html = out("[[#{directive}:pic.jpg|Caption]]\n")
-    html.include?("src=\"pic.jpg\"") && html.include?("Caption") && !html.include?("[[") && !html.include?("=#{tag}=")
+assert("preferred [[image:...|...]]") do
+  html = out("[[image:pic.jpg|Caption]]\n")
+  html.include?("src=\"pic.jpg\"") && html.include?("Caption") && !html.include?("[[") && !html.include?("=IMAGE=")
+end
+
+%w[img img_clear image_big img_private image_private].each do |directive|
+  assert("unsupported preferred [[#{directive}:...|...]] remains unprocessed") do
+    out("[[#{directive}:pic.jpg|Caption]]\n").include?("[[#{directive}:pic.jpg|Caption]]")
   end
 end
 
@@ -98,20 +95,8 @@ assert("preferred [[zoom:...]]") do
   out("[[zoom:Cap]]\n").include?("<blockquote class=\"blockquote\">")
 end
 
-assert("preferred [[youtube:...]]") do
-  out("[[youtube:abc123]]\n").include?("youtube.com/embed/abc123")
-end
-
-assert("preferred [[blip:...]]") do
-  out("[[blip:xyz]]\n").include?("blip.tv/play/xyz")
-end
-
 assert("preferred [[video:youtube:...]]") do
   out("[[video:youtube:abc123]]\n").include?("youtube.com/embed/abc123")
-end
-
-assert("preferred [[video:blip:...]]") do
-  out("[[video:blip:xyz]]\n").include?("blip.tv/play/xyz")
 end
 
 puts "\nFSM transform validation passed."

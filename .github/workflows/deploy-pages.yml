@@ -37,10 +37,10 @@ jobs:
         run: bundle exec jekyll build
 
       - name: Validate FSM transforms
-        run: bundle exec ruby legacy/migration/scripts/validate_fsm_transforms.rb
+        run: bundle exec ruby scripts/validate_fsm_transforms.rb
 
       - name: Validate site integrity
-        run: bundle exec ruby legacy/migration/scripts/validate_site_integrity.rb
+        run: bundle exec ruby scripts/validate_site_integrity.rb
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

@@ -75,7 +75,7 @@ Added `.github/workflows/ci.yml`:
 - runs:
   - `bundle exec jekyll build`
   - `bundle exec ruby scripts/validate_fsm_transforms.rb`
-  - `bundle exec ruby legacy/migration/scripts/validate_site_integrity.rb`
+  - `bundle exec ruby scripts/validate_site_integrity.rb`
 
 ### 2) Deploy built artifact to GitHub Pages
 
@@ -424,7 +424,7 @@ Confirmed generated XML artifacts match expected list semantics:
 
 ### 3) Added repeatable output-diff validation script
 
-Added `legacy/migration/scripts/validate_site_integrity.rb` to run metadata-to-output integrity checks.
+Added `scripts/validate_site_integrity.rb` to run metadata-to-output integrity checks.
 
 Validation covers:
 
@@ -445,8 +445,8 @@ Edge compatibility:
 
 ```bash
 bundle exec jekyll build
-bundle exec ruby legacy/migration/scripts/validate_fsm_transforms.rb
-bundle exec ruby legacy/migration/scripts/validate_site_integrity.rb
+bundle exec ruby scripts/validate_fsm_transforms.rb
+bundle exec ruby scripts/validate_site_integrity.rb
 ```
 
 ### 5) Added repeatable Ryver-vs-Jekyll article comparator

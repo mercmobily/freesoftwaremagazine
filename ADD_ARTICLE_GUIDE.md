@@ -1,80 +1,61 @@
-# Add A New Article
+# Add An Article
 
-This repository stores each article as:
+This guide is for authors submitting an article via Pull Request.
+
+## Quick Start (Do This)
+
+### 1) Create your article file
+
+Pick a slug and create:
 
 - `articles/<slug>/index.md`
 
-Use lowercase, hyphen/underscore-friendly slugs (no spaces).
-
-## 1) Create the article file
-
-Create a new folder and file:
+Example:
 
 ```bash
 mkdir -p articles/my_new_article_slug
 ```
 
-Create `articles/my_new_article_slug/index.md` with this template:
+Put this in `articles/my_new_article_slug/index.md`:
 
 ```markdown
 ---
-nid: '999999'
 title: 'My Article Title'
 authors: 'Author Name'
-published: '2026-02-14 10:00:00'
 tags: 'tag1,tag2,tag3'
-license: verbatim_only
-section: opinions
-listed: 'true'
 layout: article
+main_image: hero.jpg
+# Optional (defaults apply if omitted):
+# published: '2026-02-15 10:00:00'
+# listed: 'true'
+# license: verbatim_only
+# section: opinions
 ---
 
-Your intro/summary paragraph goes here.
+Opening paragraph that summarizes the article. Something punchy!
 <!--break-->
 
-Rest of the article body...
+Rest of the article...
 ```
 
-## 2) Front matter rules
+Allowed `license` values: `verbatim_only`, `cc-by`, `cc-by-nc`, `cc-by-nc-nd`, `cc-by-nc-sa`, `cc-by-nd`, `cc-by-sa`, `gfdl`, `gpl`, `other`
 
-- `nid`: must be unique across all articles.
-- `title`: article title.
-- `authors`: comma-separated if multiple.
-- `published`: `YYYY-MM-DD HH:MM:SS`.
-- `tags`: comma-separated.
-- `license`: one of existing licenses used in repo (for example `verbatim_only`, `cc-by`, `cc-by-sa`, etc.).
-- `section`: one of:
-  - `announcements`
-  - `end_users`
-  - `games`
-  - `hacking`
-  - `humour`
-  - `interviews`
-  - `opinions`
-  - `reviews`
-- `listed`: set to `'true'` to include in lists/rss/sitemaps.
-- `layout`: normally `article` (use `book` only for book-chapter style pages).
+Allowed `section` values:  `announcements`, `end_users`, `games`, `hacking`, `humour`, `interviews`, `opinions`, `reviews`
 
-Optional fields commonly used:
+### 2) Add images/files
 
-- `main_image`: image filename inside the same article folder.
-- `issue`: like `issue_21`.
-- `book`: book slug if part of a book.
-- `book_weight`: numeric ordering value for book lists.
+Put article assets in the same folder as the article file, for example:
 
-## 3) FSM tags and preferred syntax
+- `articles/my_new_article_slug/hero.jpg`
+- `articles/my_new_article_slug/figure1.png`
 
-Transformation is done by `_plugins/fsm_content_transforms.rb` before Markdown
-rendering. Both syntaxes below are supported forever:
+`main_image` is required for new articles and must point to a file included in the PR.
 
-- **Preferred syntax** (new; easier for authors)
-- **Classic FSM syntax** (existing/canonical compatibility syntax)
+### 3) Write content using preferred FSM syntax
 
-For all new articles, use the **preferred syntax**.
+Use these forms in article body:
 
-### 3.1 Preferred syntax (recommended for new articles)
-
-#### Code blocks
+- Code block:
 
 ```text
 [[code]]
@@ -82,167 +63,118 @@ your code here
 [[/code]]
 ```
 
-#### Textboxes
+- Textbox:
 
 ```text
 [[textbox:My Textbox Title]]
-Textbox body here.
-Can include normal Markdown.
+Textbox content.
 [[/textbox]]
 ```
 
-#### Images / figures (all variants covered)
-
-The following preferred directives map to the corresponding existing FSM image tags:
-
-- `[[image:src|caption]]` -> `IMAGE`
-- `[[img:src|caption]]` -> `IMG`
-- `[[img_clear:src|caption]]` -> `IMG_CLEAR`
-- `[[image_big:src|caption]]` -> `IMAGE_BIG`
-- `[[img_private:src|caption]]` -> `IMG_PRIVATE`
-- `[[image_private:src|caption]]` -> `IMAGE_PRIVATE` (legacy alias accepted)
-
-Example:
+- Image:
 
 ```text
-[[img:figure1.jpg|Figure 1: Example caption]]
+[[image:figure1.png|Figure 1: Caption]]
 ```
 
-#### Table caption
+- Table (with caption + table body):
 
 ```text
-[[table_caption:Table 1: My caption]]
+[[table_caption:Table 1: Package comparison]]
+
+| Package | License | Notes |
+|---|---|---|
+| `gcc` | GPL | Compiler toolchain |
+| `nginx` | BSD-2-Clause | Web server |
+| `git` | GPLv2 | Version control |
 ```
 
-#### Zoom quote
+- Zoom quote:
 
 ```text
-[[zoom:An important highlighted sentence]]
+[[zoom:A highlighted sentence]]
 ```
 
-#### Videos
-
-Short forms:
-
-```text
-[[youtube:VIDEO_ID]]
-[[blip:BLIP_ID]]
-```
-
-Explicit provider forms:
+- Video:
 
 ```text
 [[video:youtube:VIDEO_ID]]
-[[video:blip:BLIP_ID]]
 ```
 
-### 3.2 Classic FSM syntax (still fully supported)
-
-#### Code blocks
-
-```text
-=CODE_START=
-your code here
-=CODE_END=
-```
-
-#### Textboxes
-
-```text
-=TEXTBOX_START=My Textbox Title=
-Textbox body here.
-=TEXTBOX_END=
-```
-
-#### Images / figures
-
-All of these are valid and still supported:
-
-- `=IMAGE=src=caption=`
-- `=IMG=src=caption=`
-- `=IMG_CLEAR=src=caption=`
-- `=IMAGE_BIG=src=caption=`
-- `=IMG_PRIVATE=src=caption=`
-- `=IMAGE_PRIVATE=...=` (legacy source alias; several historical forms are accepted)
-
-#### Table caption
-
-```text
-=TABLE_CAPTION=Table 1: My caption=
-```
-
-#### Zoom quote
-
-```text
-=ZOOM=An important highlighted sentence=
-```
-
-#### Videos
-
-```text
-=VIDEO=YOUTUBE=VIDEO_ID=
-=VIDEO=BLIP=BLIP_ID=
-```
-
-### 3.3 Rendering notes (applies to both syntaxes)
-
-- `IMAGE`, `IMG`, `IMG_CLEAR`, and `IMAGE_BIG` render as `<figure>` with `<figcaption>`.
-- `IMG_PRIVATE` and `IMAGE_PRIVATE` support historical forms:
-  - `=...=src=caption=` -> figure with caption
-  - `=...=src=width=height==` -> `<img ... width="..." height="...">`
-  - `=...=src====` -> plain `<img ...>`
-- For images, `src` should usually be a file in the same article folder (for example `figure1.jpg`).
-- Captions are trimmed.
-- Use line breaks exactly for block forms (`code`, `textbox`) as shown above.
-- Custom blocks are inserted as HTML and then continue through normal Markdown processing.
-
-## 4) Validate locally
+### 4) Validate locally
 
 Run:
 
 ```bash
-bundle exec jekyll build
-bundle exec ruby legacy/migration/scripts/validate_fsm_transforms.rb
-bundle exec ruby legacy/migration/scripts/validate_site_integrity.rb
+# Fast check for one article while writing:
+npm run check:article -- my_new_article_slug
+
+# Full project check before opening PR:
+npm run check
 ```
 
-Optional Ryver-vs-Jekyll article comparison (when `_site_orig/` exists):
+### 5) Preview in browser
+
+Run:
 
 ```bash
-bundle exec jekyll build -d legacy/_site_jekyll
-bundle exec ruby legacy/migration/scripts/compare_ryver_jekyll_articles.rb --orig-root legacy/_site_orig --new-root legacy/_site_jekyll
+# Full-site preview (starts Jekyll + opens browser on home page):
+npm run preview
+
+# Article-only fast preview (opens that article):
+npm run preview -- my_new_article_slug
+
+# Full-site preview with LiveReload disabled:
+npm run preview:no-live
+
+# Article-only fast preview with LiveReload disabled:
+npm run preview:no-live -- my_new_article_slug
 ```
 
-Optional duplicate `nid` check:
+Note: Passing a slug enables article-only fast mode (incremental rebuild + taxonomy/list pages skipped). Without a slug, preview runs in full-site mode with taxonomy/list generation enabled.
+You only need `--` when passing a slug to `npm run`.
 
-```bash
-bundle exec ruby -ryaml -e '
-by_nid=Hash.new{|h,k|h[k]=[]}
-Dir.glob("articles/*/index.md").sort.each do |path|
-  txt=File.read(path)
-  next unless txt =~ /\A---\s*\n(.*?)\n---\s*\n/m
-  d=YAML.safe_load($1, aliases:true) || {}
-  nid=d["nid"].to_s.strip
-  by_nid[nid] << path unless nid.empty?
-end
-by_nid.select{|_,v| v.size>1}.each{|nid,paths| puts "nid=#{nid}\n  #{paths.join("\n  ")}"}
-'
-```
+### 6) Submit PR
 
-## 5) Preview locally
+- Commit your changes on your branch.
+- Open a Pull Request.
+- Wait for CI to pass.
 
-```bash
-bundle exec jekyll serve --livereload
-```
+## Reference
 
-Then open:
+### A) Front matter fields
 
-- `http://127.0.0.1:4000/articles/my_new_article_slug/`
+| Field | Required | Default | Notes |
+|---|---|---|---|
+| `title` | Yes | - | Article title. |
+| `authors` | Yes | - | Comma-separated if multiple authors. |
+| `published` | No | auto | If omitted, it is auto-filled. Set manually only when you need a specific publication date/time. |
+| `tags` | Yes | - | Comma-separated tags. |
+| `layout` | No | `article` | Use `book` only for book-chapter style pages. |
+| `listed` | No | `'true'` | Set `'false'` to keep out of lists/RSS/sitemaps. |
+| `license` | No | `verbatim_only` | Must be one of allowed license values below. |
+| `section` | No | `opinions` | Must be one of allowed section values below. |
+| `main_image` | Yes (new articles) | - | Image file in same article folder and included in PR. |
+| `issue` | No | - | Example: `issue_21`. |
+| `book` | No | - | Book slug if article is in a book. |
+| `book_weight` | No | - | Numeric ordering value for book lists. |
+| `nid` | No (legacy) | - | Old numeric ID for legacy redirects/shortlinks. Leave unset for new articles. |
 
-## 6) PR workflow (required)
+`published` auto-fill order when omitted:
 
-- Create/update articles via Pull Request (no direct pushes to protected branch).
-- CI must pass before merge:
-  - `bundle exec jekyll build`
-  - `bundle exec ruby legacy/migration/scripts/validate_fsm_transforms.rb`
-  - `bundle exec ruby legacy/migration/scripts/validate_site_integrity.rb`
+1. `date` front matter (if present)
+2. file timestamp of `articles/<slug>/index.md`
+
+
+### B) Syntax reference
+
+Preferred syntax is recommended for new writing. Classic FSM syntax is still fully supported.
+
+Preferred directives:
+
+- `[[code]] ... [[/code]]`
+- `[[textbox:Title]] ... [[/textbox]]`
+- `[[image:src|caption]]`
+- `[[table_caption:Caption]]`
+- `[[zoom:Quote]]`
+- `[[video:youtube:VIDEO_ID]]`
