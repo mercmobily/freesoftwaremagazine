@@ -1,5 +1,7 @@
 {% assign title_extra = page.title | default: site.title | strip_html %}
-{% assign meta_description = page.summary | default: page.excerpt | default: page.description | default: site.description | strip_html | strip_newlines | strip %}
+{% assign page_summary = page["summary"] | default: page.summary %}
+{% assign page_description = page["description"] | default: page.description %}
+{% assign meta_description = page_summary | default: page_description | default: site.description | strip_html | strip_newlines | strip %}
 {% assign meta_site_url = site.url | default: "" | strip %}
 {% if meta_site_url == "" %}
   {% assign meta_site_url = "https://www.freesoftwaremagazine.com" %}
@@ -29,6 +31,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="facebook-domain-verification" content="7e4zwukkjtqszaa2lm7alpntgppvae">
 
     <!-- Favicons: Thanks http://realfavicongenerator.net ! -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

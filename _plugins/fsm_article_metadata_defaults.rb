@@ -53,6 +53,23 @@ module FsmArticleMetadataDefaults
   rescue StandardError
     site.time
   end
+
+  def fallback_summary(page)
+    raw = page.content.to_s
+    return "" if raw.strip.empty?
+
+    if defined?(FsmContentTransforms)
+      FsmContentTransforms.summary_for(raw).to_s.strip
+    else
+      base = raw.split("<!--break-->").first.to_s
+      stripped = base.gsub(%r{</?[^>]+(>|$)}, "").gsub(/\s+/, " ").strip
+      return "" if stripped.empty?
+
+      "#{stripped[0, 200]} ..."
+    end
+  rescue StandardError
+    ""
+  end
 end
 
 module Jekyll
@@ -70,6 +87,14 @@ module Jekyll
 
         if FsmArticleMetadataDefaults.blank_value?(page.data["published"])
           page.data["published"] = FsmArticleMetadataDefaults.fallback_published(page, site)
+        end
+
+        summary = FsmArticleMetadataDefaults.fallback_summary(page)
+        if !summary.empty? && FsmArticleMetadataDefaults.blank_value?(page.data["summary"])
+          page.data["summary"] = summary
+        end
+        if !summary.empty? && FsmArticleMetadataDefaults.blank_value?(page.data["description"])
+          page.data["description"] = summary
         end
       end
     end
