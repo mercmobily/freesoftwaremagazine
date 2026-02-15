@@ -25,8 +25,17 @@ bundle install
 # Fast, single-article check
 npm run check:article -- my_new_article_slug
 
-# Preview one article in browser (fast mode; skips taxonomy/list generation)
-npm run preview:article -- my_new_article_slug
+# Full-site preview in browser
+npm run preview
+
+# Article-only fast preview (slug passed)
+npm run preview -- my_new_article_slug
+
+# Full-site preview without LiveReload
+npm run preview:no-live
+
+# Article-only fast preview without LiveReload
+npm run preview:no-live -- my_new_article_slug
 
 # Full repository check before PR
 npm run check

@@ -118,17 +118,21 @@ npm run check
 Run:
 
 ```bash
-# Open one article directly (starts Jekyll + opens browser):
-npm run preview:article -- my_new_article_slug
+# Full-site preview (starts Jekyll + opens browser on home page):
+npm run preview
+
+# Article-only fast preview (opens that article):
+npm run preview -- my_new_article_slug
+
+# Full-site preview with LiveReload disabled:
+npm run preview:no-live
+
+# Article-only fast preview with LiveReload disabled:
+npm run preview:no-live -- my_new_article_slug
 ```
 
-Note: `preview:article` runs in fast author mode: Incremental rebuild is enabled, and  taxonomy/list pages (`/tags`, `/authors`, `/sections`, `/all_articles`, etc.) are skipped during this preview session. However, your article page preview is unaffected.
-
-```bash
-bundle exec jekyll serve --livereload
-```
-
-With this command, your article should appear on your local site.
+Note: Passing a slug enables article-only fast mode (incremental rebuild + taxonomy/list pages skipped). Without a slug, preview runs in full-site mode with taxonomy/list generation enabled.
+You only need `--` when passing a slug to `npm run`.
 
 ### 6) Submit PR
 

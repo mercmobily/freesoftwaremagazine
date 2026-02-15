@@ -7,7 +7,7 @@ require "rbconfig"
 ROOT = File.expand_path("..", __dir__)
 
 def usage!
-  warn "Usage: ruby scripts/preview_article.rb <slug|articles/<slug>/index.md>"
+  warn "Usage: ruby scripts/preview_article.rb [--no-livereload] [<slug|articles/<slug>/index.md>]"
   exit 1
 end
 
@@ -51,29 +51,58 @@ def open_url(url)
   end
 end
 
-slug = normalize_slug(ARGV.first)
-usage! if slug.nil?
+no_livereload = false
+slug_arg = nil
 
-article_path = File.join(ROOT, "articles", slug, "index.md")
-unless File.file?(article_path)
-  warn "Article not found: articles/#{slug}/index.md"
-  exit 1
+ARGV.each do |arg|
+  if arg == "--no-livereload"
+    no_livereload = true
+  elsif arg.start_with?("--")
+    warn "Unknown option: #{arg}"
+    usage!
+  elsif slug_arg.nil?
+    slug_arg = arg
+  else
+    usage!
+  end
 end
 
-url = "http://127.0.0.1:4000/articles/#{slug}/"
-puts "Starting Jekyll preview for #{slug}"
-puts "Target URL: #{url}"
+slug = nil
+unless slug_arg.nil?
+  slug = normalize_slug(slug_arg)
+  usage! if slug.nil?
+end
 
-jekyll_pid = spawn(
-  {
-    "FSM_DISABLE_TAXONOMY_LISTS" => "1",
-  },
+if slug
+  article_path = File.join(ROOT, "articles", slug, "index.md")
+  unless File.file?(article_path)
+    warn "Article not found: articles/#{slug}/index.md"
+    exit 1
+  end
+end
+
+url = slug ? "http://127.0.0.1:4000/articles/#{slug}/" : "http://127.0.0.1:4000/"
+puts "Starting Jekyll preview#{slug ? " for #{slug}" : " for full site"}"
+puts "Mode: #{slug ? "article-only" : "full-site"}"
+puts "Taxonomy/list generation: #{slug ? "disabled" : "enabled"}"
+puts "Target URL: #{url}"
+puts "LiveReload: #{no_livereload ? "disabled" : "enabled"}"
+
+serve_args = [
   "bundle",
   "exec",
   "jekyll",
   "serve",
-  "--livereload",
   "--incremental",
+]
+serve_args << "--livereload" unless no_livereload
+
+spawn_env = {}
+spawn_env["FSM_DISABLE_TAXONOMY_LISTS"] = "1" if slug
+
+jekyll_pid = spawn(
+  spawn_env,
+  *serve_args,
   chdir: ROOT
 )
 
