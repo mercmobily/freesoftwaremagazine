@@ -10,15 +10,19 @@
     </form>
   </div>
 </nav>
-<nav class="navbar navbar-clear">
+<nav class="navbar navbar-clear fsm-nav" data-fsm-nav>
   {% assign nav_url = page.url | default: "/" %}
   {% assign nav_section = page.section | default: "" | split: "," | first | strip %}
   {% assign url_section = nav_url | remove_first: "/sections/" | split: "/" | first %}
   {% if nav_section == "" and nav_url contains "/sections/" %}
     {% assign nav_section = url_section %}
   {% endif %}
-  <div class="container">
-    <ul class="navbar-nav">
+  <div class="container fsm-nav-shell">
+    <button class="fsm-nav-toggle" type="button" aria-expanded="false" aria-controls="fsm-nav-links" aria-label="Toggle navigation" data-fsm-nav-toggle>
+      <span class="fsm-nav-toggle-icon" aria-hidden="true"></span>
+      <span class="fsm-nav-toggle-text">Menu</span>
+    </button>
+    <ul class="navbar-nav fsm-nav-links" id="fsm-nav-links" data-fsm-nav-links>
       <li class="nav-item"><a class="nav-link{% if nav_section == 'end_users' %} active{% endif %}" href="/sections/end_users"{% if nav_section == 'end_users' %} aria-current="page"{% endif %}>End users</a></li>
       <li class="nav-item"><a class="nav-link{% if nav_section == 'hacking' %} active{% endif %}" href="/sections/hacking"{% if nav_section == 'hacking' %} aria-current="page"{% endif %}>Hacking</a></li>
       <li class="nav-item"><a class="nav-link{% if nav_section == 'humour' %} active{% endif %}" href="/sections/humour"{% if nav_section == 'humour' %} aria-current="page"{% endif %}>Humour</a></li>
@@ -29,5 +33,10 @@
       <li class="nav-item"><a class="nav-link{% if nav_url contains '/issues/' %} active{% endif %}" href="/issues/"{% if nav_url contains '/issues/' %} aria-current="page"{% endif %}>Issues</a></li>
       <li class="nav-item"><a class="nav-link{% if nav_url contains '/books/' %} active{% endif %}" href="/books/"{% if nav_url contains '/books/' %} aria-current="page"{% endif %}>Books</a></li>
     </ul>
+    <form class="fsm-mobile-search" method="get" action="https://www.google.com/search">
+      <input type="hidden" name="sitesearch" value="http://www.freesoftwaremagazine.com">
+      <input type="text" class="form-control" name="q" placeholder="Search articles...">
+      <button class="btn btn-outline-primary" type="submit">Search</button>
+    </form>
   </div>
 </nav>
