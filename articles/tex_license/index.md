@@ -83,14 +83,13 @@ A lot of professional programmers aim at sharing their programs, files and file 
 
 # Bibliography
 
-[1] [Debian social contract.](http://www.debian.org/social_contract), 2005.
+1. [Debian social contract.](http://www.debian.org/social_contract), 2005.
 
-[2] [Gnu general public license.](http://www.gnu.org/copyleft/gpl.html), 2005.
+2. [Gnu general public license.](http://www.gnu.org/copyleft/gpl.html), 2005.
 
-[3] [LaTeX Project Public License.](http://www.latex-project.org/lppl.html), 2005.
+3. [LaTeX Project Public License.](http://www.latex-project.org/lppl.html), 2005.
 
 [4] LaTeX3 Project Team. Modifying LaTeX. Document `modguide.dvi` in the base LaTeX distribution, 1995.
 
-[5] [List of software licenses.](http://en.wikipedia.org/wiki/List_of_software_licenses), 2005.
-
+5. [List of software licenses.](http://en.wikipedia.org/wiki/List_of_software_licenses), 2005.
 

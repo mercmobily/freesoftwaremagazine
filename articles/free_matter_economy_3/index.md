@@ -17,7 +17,7 @@ The beginning of this series presented the motivations behind creating a protoco
 
 # Actors
 
-_Projects_ in the Narya system are more-or-less as they are in the GForge[2] (or SourceForge) free software project incubator. They may be run by single individuals or groups of people. Groups might be affiliated only through common interest, or be co-workers funded by a commercial institution, though the former is much more likely.
+_Projects_ in the Narya system are more-or-less as they are in the GForge[2], or SourceForge, free software project incubator. They may be run by single individuals or groups of people. Groups might be affiliated only through common interest, or be co-workers funded by a commercial institution, though the former is much more likely.
 
 There are particular roles within the project that are common to other project systems, such as the “project leader”, but Narya Bazaar introduces another particular role, which I call the “quartermaster” (QM). Like a real quartermaster, the project QM is in charge of the project’s material stores, and is trusted by project members with this role. Furthermore, in order to interact with the Bazaar system, the QM must have a physical mailing address and account information on file at the site. Since this represents some loss of privacy, it’s understandable that projects will not want all of their members to have to agree to these terms, but at least one member needs to if they want to take advantage of Bazaar’s provision of materials and services.
 
@@ -67,7 +67,7 @@ Combined with the needs outlined in parts 1 and 2, this gives us the requirement
 =TEXTBOX_START=CMS and design tools=
 Most project developer needs are not for the funding system described here, but the content creation and management systems that will be needed to collaborate with developers on a global (or even interplanetary) scale. Fortunately, this is one area where there is much support from the free software world already.
 
-In the simplest case we could simply use the GForge application (the free branch of the SourceForge web application). Or we can extend upon any of a wide variety of CMS systems. For Narya[3] (which is being written in Python[4]) I have chosen to develop a content system based on Zope[5], which provides very useful structural abstractions for the job. I’m hedging my bet though, by providing “application views” that allow me to window other services inside the Narya framework. This would, for example, allow running GForge at least as a transitional measure.
+In the simplest case we could simply use the GForge application (the free branch of the SourceForge web application). Or we can extend upon any of a wide variety of CMS systems. For Narya[3], which is being written in Python[4], I have chosen to develop a content system based on Zope[5], which provides very useful structural abstractions for the job. I’m hedging my bet though, by providing “application views” that allow me to window other services inside the Narya framework. This would, for example, allow running GForge at least as a transitional measure.
 
 Unfortunately, there are some gaping holes in the available free design tools for serious hardware design. I hope to cover the most important ones in the next installment of this series.
 
@@ -226,7 +226,7 @@ Given that many common classes of specification can be bid on automatically, it 
 
 # The shape of things to come
 
-The future economy will deal with many realities that contrast with today’s close knit ship-to-anywhere world, especially as we move out into space. Present models for colonizing Mars, for example, rely heavily on concepts of In Situ Resource Utilization (ISRU), or “living off the land” as Dr. Robert Zubrin called it in _The Case for Mars_[9] (Figure 5), in order to avoid impossibly high expense. At the same time, there is a rising interest in commercial space development and dissatisfaction with today’s government subsidized programs, which do seem to be very stagnant. But how does ISRU work in a free market economy? The very nature of ISRU requires that products be manufactured on site, with manfacturing localized to the end-user (possibly done by the end-user). This is in stark contrast to our e-commerce mail-order economy where manufacturing localization is regarded as irrelevant, and it forces the question, “what will be sold by free market entrepreneurs in this coming interplanetary era?”
+The future economy will deal with many realities that contrast with today’s close knit ship-to-anywhere world, especially as we move out into space. Present models for colonizing Mars, for example, rely heavily on concepts of In Situ Resource Utilization (ISRU), or “living off the land” as Dr. Robert Zubrin called it in _The Case for Mars_[9], Figure 5, in order to avoid impossibly high expense. At the same time, there is a rising interest in commercial space development and dissatisfaction with today’s government subsidized programs, which do seem to be very stagnant. But how does ISRU work in a free market economy? The very nature of ISRU requires that products be manufactured on site, with manfacturing localized to the end-user (possibly done by the end-user). This is in stark contrast to our e-commerce mail-order economy where manufacturing localization is regarded as irrelevant, and it forces the question, “what will be sold by free market entrepreneurs in this coming interplanetary era?”
 
 
 =IMAGE=tfme3_f5_isru.jpg=Figure 5: ISRU on Mars. Current plans for colonizing Mars rely heavily on drawing from natural resources on site, like this atmospheric processing station which, in the Mars-Society-inspired NASA “Design Reference Mission”[10] would produce fuel for the return journey by extracting gases from the Martian atmosphere. Such techniques are better suited for development by free-licensed design markets rather than existing proprietary ones, because they do not readily provide a material “product” to be sold to consumers.=
@@ -241,24 +241,22 @@ If we choose freedom, we’re going to have to build the tools to make it work, 
 
 # Bibliography
 
-[1] [Narya Bazaar](http://bazaar.narya.net)
+1. [Narya Bazaar](http://bazaar.narya.net)
 
-[2] [GForge](http://gforge.org/projects/gforge/)
+2. [GForge](http://gforge.org/projects/gforge/)
 
-[3] [Narya Project](http://narya.net)
+3. [Narya Project](http://narya.net)
 
-[4] [Python](http://www.python.org)
+4. [Python](http://www.python.org)
 
-[5] [Zope](http://www.zope.org)
+5. [Zope](http://www.zope.org)
 
-[6] Paul Harrison, [The Rational Street Performer Protocol](http://www.logarithmic.net/pfh/rspp)
+6. Paul Harrison, [The Rational Street Performer Protocol](http://www.logarithmic.net/pfh/rspp)
 
-[7] [e-Bay](http://ebay.com)
+7. [e-Bay](http://ebay.com)
 
-[8] [ERP5 MRP](http://www.erp5.org/)
+8. [ERP5 MRP](http://www.erp5.org/)
 
-[9] Robert Zubrin, _The Case for Mars_, 1996.
+9. Robert Zubrin, _The Case for Mars_, 1996.
 
-[10] [Mars Society "NASA Design Reference Mission"](http://www.marssociety.org/interactive/art/nasa_charts.asp)
-
-
+10. [Mars Society "NASA Design Reference Mission"](http://www.marssociety.org/interactive/art/nasa_charts.asp)

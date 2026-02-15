@@ -8,8 +8,7 @@ license: verbatim_only
 listed: 'true'
 book: free_software_vector_graphics_applications
 book_weight: '0'
-layout: book.html
-
+layout: book
 ---
 <!-- Xfig: a classic program for diagram editing -->
 

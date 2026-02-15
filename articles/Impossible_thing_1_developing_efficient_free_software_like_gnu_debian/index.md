@@ -8,8 +8,7 @@ license: verbatim_only
 listed: 'true'
 book: making_the_impossible_happen_the_rules_of_free_culture
 book_weight: '-1'
-layout: book.html
-
+layout: book
 ---
 <!--Impossible Thing #1: Debian GNU/Linux -->
 
@@ -45,7 +44,7 @@ Now these are very large numbers. It's easy to lose perspective. So let's throw 
 
 =IMAGE=c20080123_cost-debian-spaceshuttle.jpg=Figure 1.2: For scale comparison, here are the costs of Debian (as well as GNU and Linux, considered separately), along with the actual reported costs of NASA space mission development projects (these do not include extended operations costs and the cost for the Space Shuttle is only from initial design to the 1981 maiden flight of Columbia).=
 
-Yes, that's right. The estimated equivalent cost of developing Debian 4.0 "Etch" is not quite _three-quarters_ of the actual development cost of the _Space Shuttle_[4]. And that's in _adjusted_ dollars[5] (inflation has been applied to these numbers to make for a fair comparison, otherwise Etch would seem much more expensive than the Shuttle). If that doesn't convince you that free software projects can be large and complex, I don't know what would.
+Yes, that's right. The estimated equivalent cost of developing Debian 4.0 "Etch" is not quite _three-quarters_ of the actual development cost of the _Space Shuttle_[4]. And that's in _adjusted_ dollars[5], with inflation applied to these numbers to make for a fair comparison, otherwise Etch would seem much more expensive than the Shuttle. If that doesn't convince you that free software projects can be large and complex, I don't know what would.
 
 =ZOOM=The estimated equivalent cost of developing Debian 4.0 "Etch" is not quite three-quarters of the actual development cost of the Space Shuttle=
 
@@ -70,15 +69,15 @@ So, not only does free software represent a vast amount of effort, but it is app
 
 # Notes
 
-[1] [LibreSoft Research Group: Debian Counting](http://libresoft.es/debian-counting). The published numbers include the overall totals and the results for each Debian source package. I have grouped packages using dependency rules and string-searches (taking advantage of Debian's package naming conventions) in order to produce the aggregates used in the Windows comparison as well as the divisions in the bar charts.
+1. [LibreSoft Research Group: Debian Counting](http://libresoft.es/debian-counting). The published numbers include the overall totals and the results for each Debian source package. I have grouped packages using dependency rules and string-searches (taking advantage of Debian's package naming conventions) in order to produce the aggregates used in the Windows comparison as well as the divisions in the bar charts.
 
-[2] [SLOCCount (Software Package)](http://www.dwheeler.com/sloccount/). Program used by the Debian Counting project to generate their results.
+2. [SLOCCount (Software Package)](http://www.dwheeler.com/sloccount/). Program used by the Debian Counting project to generate their results.
 
-[3] [COnstructive COst MOdel](http://en.wikipedia.org/wiki/COCOMO). Used by the SLOCCount program.
+3. [COnstructive COst MOdel](http://en.wikipedia.org/wiki/COCOMO). Used by the SLOCCount program.
 
-[4] [Space Shuttle Program Cost]() Testimony of Mr. Robert F. Thompson, taken from the Columbia Accident Investigation Board public hearing on Wednesday, April 23, 2003. Places the cost of the Shuttle at an estimated $5.15 billion in 1971 dollars or an actual $8.5 billion in 1981 dollars.
+4. [Space Shuttle Program Cost]() Testimony of Mr. Robert F. Thompson, taken from the Columbia Accident Investigation Board public hearing on Wednesday, April 23, 2003. Places the cost of the Shuttle at an estimated $5.15 billion in 1971 dollars or an actual $8.5 billion in 1981 dollars.
 
-[5] [Measuring Worth](http://www.measuringworth.com/uscompare). Online source and calculator, demonstrating six different deflation formulae used to compare different kinds of cost over time. The one most appropriate for large government projects is the "GDP Deflator", which is what I used here to adjust space project costs. All of the cost numbers have been converted to year 2000 dollars for comparison purposes.
+5. [Measuring Worth](http://www.measuringworth.com/uscompare). Online source and calculator, demonstrating six different deflation formulae used to compare different kinds of cost over time. The one most appropriate for large government projects is the "GDP Deflator", which is what I used here to adjust space project costs. All of the cost numbers have been converted to year 2000 dollars for comparison purposes.
 
 
 # Terms

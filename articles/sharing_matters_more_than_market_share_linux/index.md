@@ -9,8 +9,7 @@ section: opinions
 listed: 'true'
 book: making_the_impossible_happen_the_rules_of_free_culture
 book_weight: '13'
-layout: book.html
-
+layout: book
 ---
 In a [recent article](http://www.freesoftwaremagazine.com/columns/dont_compare_gnu_linux_windows_or_macos_they_are_not_same_game), Ryan Cartwright argued that free software isn't playing the "same game" as proprietary software is. He's right—but that begs the question: what game _is_ GNU/Linux playing?
 

@@ -9,8 +9,7 @@ section: end_users
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '0'
-layout: book.html
-
+layout: book
 ---
 People have been talking about "micropayments" since the early days of the world-wide-web, so I'm always skeptical of micropayment systems. Flattr is an interesting variation on the idea though. It's a voluntary system, without the overhead or chilling effects associated with "pay walls" and it puts donors in control of how much they spend, allowing them to split their donations among beneficiaries based on a monthly "pie" model. The greatest asset of Flattr is its simplicity of use -- similar in many ways to the various social networking services that abound on the web today. Flattr may well succeed, and it may fill a niche of financing small projects from free software to online videos.
 

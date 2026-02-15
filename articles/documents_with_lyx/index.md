@@ -166,16 +166,15 @@ You will find the same ideas repeated throughout the free software world, with H
 
 # Bibliography
 
-[1] [LyX website](http://lyx.org)
+1. [LyX website](http://lyx.org)
 
-[2] [Skencil website](http://skencil.org)
+2. [Skencil website](http://skencil.org)
 
-[3] [Inkscape website](http://inkscape.org)
+3. [Inkscape website](http://inkscape.org)
 
-[4] [Scribus website](http://scribus.net)
+4. [Scribus website](http://scribus.net)
 
 [5] TeX has no central website, but you can find good sources from [Wikipedia](http://en.wikipedia.org/wiki/TeX).
 
 [6] LaTeX is also well-documented on [Wikipedia](http://en.wikipedia.org/wiki/LaTeX)
-
 

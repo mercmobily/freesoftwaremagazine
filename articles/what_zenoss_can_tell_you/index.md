@@ -8,8 +8,7 @@ license: verbatim_only
 listed: 'true'
 book: network_monitoring_with_zenoss
 book_weight: '-2'
-layout: book.html
-
+layout: book
 ---
 Zenoss is extremely configurable, so it can probably be set up to tell you just about anything you want to know about the computers you are monitoring. I'm just going to go through some of the things I personally was most interested in for my LAN computers, and then for my web server.
 

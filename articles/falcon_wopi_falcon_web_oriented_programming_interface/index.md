@@ -20,7 +20,7 @@ WOPI is an abstraction layer between a web server and the falcon scripts that se
 By using WOPI, users can easily move their own web based applications to all the supported Front Ends. Front Ends are the plug-in code required to support particular web architecture. The list is quickly growing, but these currently include: Common Gateway Interface (CGI), Fast-CGI, CGI Falcon-Module, Apache 2, and the micro Falcon based web server. WOPI also delivers standardized functionality common to most web based applications such as: HTTP GET & POST Field parsing, Cookie control, Upload control, Simplified output encoding control, template management, session management, persistent data and application-wide data support. The list of basic functionality, as with the Front Ends is also rapidly growing.
 
 Before diving right in here are a few items to get you started if you don’t already have Falcon/WOPI.
-You can get a [copy of Falcon] (http://www.falconpl.org/index.ftd?page_id=official_download)
+You can get a [copy of Falcon](http://www.falconpl.org/index.ftd?page_id=official_download)
 You can also get a [copy of WOPI](http://www.falconpl.org/index.ftd?page_id=prjs&prj_id=wopi) and the [WOPI Documentation](http://falconpl.org/project_docs/wopi/)
 
 Now that you have all the tools (Falcon and WOPI) let’s get down to it!

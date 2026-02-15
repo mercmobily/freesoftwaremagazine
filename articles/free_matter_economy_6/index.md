@@ -255,72 +255,71 @@ Space technology is not the only area where community-based production of fundam
 
 # Bibliography
 
- [1] And yet, I Am Not A Lawyer.
+1. And yet, I Am Not A Lawyer.
 
- [2] Abraham Lincoln, [Discoveries and Inventions](http://showcase.netins.net/web/creative/lincoln/speeches/discoveries.htm), 1858.
+2. Abraham Lincoln, [Discoveries and Inventions](http://showcase.netins.net/web/creative/lincoln/speeches/discoveries.htm), 1858.
 
- [3] E.g. [WIPO](http://www.wipo.int).
+3. E.g. [WIPO](http://www.wipo.int).
 
- [4] Thomas Jefferson, [Letter to Isaac McPherson](http://etext.lib.virginia.edu/etcbin/foley-entry?id=JCE4045), 1813.
+4. Thomas Jefferson, [Letter to Isaac McPherson](http://etext.lib.virginia.edu/etcbin/foley-entry?id=JCE4045), 1813.
 
- [5] [Constitution of the United States of America](http://en.wikisource.org/wiki/Constitution_of_the_United_States_of_America), 1781.
+5. [Constitution of the United States of America](http://en.wikisource.org/wiki/Constitution_of_the_United_States_of_America), 1781.
 
- [6] Like the wagons in [TFME2](http://freesoftwaremagazine.com/articles/free_matter_economy_2).
+6. Like the wagons in [TFME2](http://freesoftwaremagazine.com/articles/free_matter_economy_2).
 
- [7] Charts based on [USPTO statistics](http://www.uspto.gov/web/offices/ac/ido/oeip/taf/reports.htm).
+7. Charts based on [USPTO statistics](http://www.uspto.gov/web/offices/ac/ido/oeip/taf/reports.htm).
 
- [8] [Patent Commons](http://www.patentcommons.org).
+8. [Patent Commons](http://www.patentcommons.org).
 
- [9] [Peer to Patents](http://dotank.nyls.edu/communitypatent).
+9. [Peer to Patents](http://dotank.nyls.edu/communitypatent).
 
- [10] [Open Source as Prior Art](http://developer.osdl.org/dev/priorart).
+10. [Open Source as Prior Art](http://developer.osdl.org/dev/priorart).
 
- [11] [Patent Quality Index](http://www.law.upenn.edu/blogs/polk/pqi).
+11. [Patent Quality Index](http://www.law.upenn.edu/blogs/polk/pqi).
 
- [12] Dennis S. Karjala, [Opposing Copyright Extension](http://homepages.law.asu.edu/%7Edkarjala/OpposingCopyrightExtension).
+12. Dennis S. Karjala, [Opposing Copyright Extension](http://homepages.law.asu.edu/%7Edkarjala/OpposingCopyrightExtension).
 
- [13] [Duke Center for the Study of the Public Domain](http://www.law.duke.edu/cspd).
+13. [Duke Center for the Study of the Public Domain](http://www.law.duke.edu/cspd).
 
- [14] [Free Software Foundation](http://www.fsf.org).
+14. [Free Software Foundation](http://www.fsf.org).
 
- [15] [Creative Commons](http://creativecommons.org).
+15. [Creative Commons](http://creativecommons.org).
 
- [16] [Science Commons](http://sciencecommons.org).
+16. [Science Commons](http://sciencecommons.org).
 
- [17] [Open Cores](http://www.opencores.org).
+17. [Open Cores](http://www.opencores.org).
 
- [18] [International Traffic in Arms Regulations](http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?tpl=/ecfrbrowse/Title22/22cfrv1_02.tpl) (see section ‘M’).
+18. [International Traffic in Arms Regulations](http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?tpl=/ecfrbrowse/Title22/22cfrv1_02.tpl) (see section ‘M’).
 
- [19] Ryan Zelnio, [The effects of export control on the space industry](http://www.thespacereview.com/article/533/1).
+19. Ryan Zelnio, [The effects of export control on the space industry](http://www.thespacereview.com/article/533/1).
 
- [20] [ATF](http://www.atf.gov).
+20. [ATF](http://www.atf.gov).
 
- [21] [Wirral Rocket Society](http://www.rokits.org).
+21. [Wirral Rocket Society](http://www.rokits.org).
 
- [22] [Civilian Space eXploration Team](http://www.civilianspace.com).
+22. [Civilian Space eXploration Team](http://www.civilianspace.com).
 
- [23] [USA PATRIOT Act](http://en.wikipedia.org/wiki/USA_PATRIOT).
+23. [USA PATRIOT Act](http://en.wikipedia.org/wiki/USA_PATRIOT).
 
- [24] [Nuclear Regulatory Commission](http://www.nrc.gov).
+24. [Nuclear Regulatory Commission](http://www.nrc.gov).
 
- [25] [Texas A&M, Nuclear Science Center](http://nscr.tamu.edu/about/nuclearlinks.html).
+25. [Texas A&M, Nuclear Science Center](http://nscr.tamu.edu/about/nuclearlinks.html).
 
- [26] [University of Texas, Fusion Research](http://w3fusion.ph.utexas.edu).
+26. [University of Texas, Fusion Research](http://w3fusion.ph.utexas.edu).
 
- [27] [Kármán Line](http://en.wikipedia.org/wiki/Karman_line).
+27. [Kármán Line](http://en.wikipedia.org/wiki/Karman_line).
 
- [28] [X-Prize Foundation](http://www.xprizefoundation.com).
+28. [X-Prize Foundation](http://www.xprizefoundation.com).
 
- [29] Scaled Composites, [SpaceShipOne/TierOne](http://scaled.com/projects/tierone/index.htm).
+29. Scaled Composites, [SpaceShipOne/TierOne](http://scaled.com/projects/tierone/index.htm).
 
- [30] [Archimedes Institute](http://www.permanent.com/archimedes).
+30. [Archimedes Institute](http://www.permanent.com/archimedes).
 
- [31] [Space Rocket Launch Sites Around the World](http://www.spacetoday.org/Rockets/Spaceports/LaunchSites.html).
+31. [Space Rocket Launch Sites Around the World](http://www.spacetoday.org/Rockets/Spaceports/LaunchSites.html).
 
- [32] [Scaled Composites](http://scaled.com).
+32. [Scaled Composites](http://scaled.com).
 
- [33] [Virgin Galactic](http://www.virgingalactic.com).
+33. [Virgin Galactic](http://www.virgingalactic.com).
 
- [34] [SpaceDev](http://www.spacedev.com).
-
+34. [SpaceDev](http://www.spacedev.com).
 

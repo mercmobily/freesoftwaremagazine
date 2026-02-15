@@ -8,8 +8,7 @@ license: verbatim_only
 listed: 'true'
 book: network_monitoring_with_zenoss
 book_weight: -100
-layout: book.html
-
+layout: book
 ---
 My wife and I have been using (and collecting) computers for years, and we've shared this interest very effectively with our children. Now I am the victim of my own success: my household now has four physical computers, one of them dual boot. All are on a single internal Local Area Network (LAN) with five real users plus sundry administrative ones on each. Some of the computers are also running services. I also have two computers sitting in a box, which will probably be added to this mess soon, plus my wife plans to get a laptop. Like it or not, I now manage a network bigger than many small businesses! But I can't afford to pay a system administrator, and the tedium of "network plumbing" is my least favorite part of computer technology. Surely, there must be a way to automate this mess?
 

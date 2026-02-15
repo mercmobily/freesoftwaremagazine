@@ -9,7 +9,7 @@ section: opinions
 listed: 'true'
 
 ---
-This year’s Python Convention [1], being held this weekend in Dallas Texas, started off with an inspiring presentation by an engineer from the One Laptop Per Child (OLPC) project [2] (Ivan Krstić) , showing off the hardware features of the new “OLPC XO 1” prototype, as well as some “dangerous ideas” about its software design: a large part of the user space code for the laptops will be implemented in Python, mainly because of the ease of manipulating the source code. The OLPC laptop software will be 100% free software, not just in principle, but in spirit as well—the assumption of open source design is _literally_ built into the hardware.
+This year’s Python Convention [1], being held this weekend in Dallas Texas, started off with an inspiring presentation by an engineer from the One Laptop Per Child (OLPC) project [2], Ivan Krstić, showing off the hardware features of the new “OLPC XO 1” prototype, as well as some “dangerous ideas” about its software design: a large part of the user space code for the laptops will be implemented in Python, mainly because of the ease of manipulating the source code. The OLPC laptop software will be 100% free software, not just in principle, but in spirit as well—the assumption of open source design is _literally_ built into the hardware.
 
 
 <!--break-->
@@ -83,13 +83,13 @@ And that’s based on a participation rate of just 0.1%. Imagine what would happ
 
 Yes, these _are_ “dangerous ideas” indeed.
 
-[1] [Python Convention](http://us.pycon.org)
+1. [Python Convention](http://us.pycon.org)
 
-[2] [One Laptop Per Child (OLPC) project](http://laptop.org)
+2. [One Laptop Per Child (OLPC) project](http://laptop.org)
 
-[3] This is from a study by [Libre Software Engineering](http://libresoft.dat.escet.urjc.es/debian-counting/)
+3. This is from a study by [Libre Software Engineering](http://libresoft.dat.escet.urjc.es/debian-counting/)
 
-[4] This is a value-to-value comparison, based on the value of all products created in Nigeria at US prices. The cash value of Nigeria's GDP is even lower. Data from CIA World Fact Book, 2006.
+4. This is a value-to-value comparison, based on the value of all products created in Nigeria at US prices. The cash value of Nigeria's GDP is even lower. Data from CIA World Fact Book, 2006.
 
 
 ## License
@@ -101,4 +101,3 @@ Originally published at [www.FreeSoftwareMagazine.com](http://www.freesoftwarema
 You must retain this notice if you reprint this article.
 
 This license includes my original pictures.
-

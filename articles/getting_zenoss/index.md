@@ -8,8 +8,7 @@ license: verbatim_only
 listed: 'true'
 book: network_monitoring_with_zenoss
 book_weight: '-10'
-layout: book.html
-
+layout: book
 ---
 Zenoss is pretty new, and there is no ready-made Debian package of it (or wasn't at the time of this writing, anyway), so installation will have to be from source. Given that Zenoss is a Python/Zope program, though, this won't be exceptionally hard, so long as all of the dependencies are taken care of.
 

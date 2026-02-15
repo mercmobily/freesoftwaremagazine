@@ -171,7 +171,7 @@ This list could go on and on, and doesn’t even scratch the surface. Should you
 
 =ZOOM=That is the wonder of free software, so much has been written, and once it has been it stays available to all for eternity=
 
-So, I’ve dealt with _why_, _how_ and _what_ have been catered for. Now for the crunch—w_hen_.
+So, I’ve dealt with _why_, _how_ and _what_ have been catered for. Now for the crunch, *when*.
 
 
 # When to do it? The implementation of free software migration
@@ -192,4 +192,3 @@ The vast majority of those who have successfully made the change are grateful th
 
 
 =IMAGE=ghind.jpg=Feeling the freedom of free software=
-

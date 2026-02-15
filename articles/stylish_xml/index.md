@@ -45,12 +45,12 @@ The simplest answer to improving the look of XML in the Firefox browser is to us
 
 =ZOOM=One of the cool features of modern web browsers is that they can now handle XML documents just as easily as the traditional HTML=
 
-XML uses the xml-styleheet processing instruction to reference style sheets. In the specific case of my pico de gallo recipe, I would place the line <?xml-stylesheet href="recipe-style.css" type="text/css"?> near the top of the XML file. For you web gurus out there this probably conjures up images of the HTML syntax <LINK rel="recipe-style.css" type="text/css"> which is not surprising since it works in much the same way.
+XML uses the xml-styleheet processing instruction to reference style sheets. In the specific case of my pico de gallo recipe, I would place the line `<?xml-stylesheet href="recipe-style.css" type="text/css"?>` near the top of the XML file. For you web gurus out there this probably conjures up images of the HTML syntax `<LINK rel="recipe-style.css" type="text/css">` which is not surprising since it works in much the same way.
 
 
 =IMAGE=image3.jpg=XML with CSS style sheet linked=
 
-The big difference between using CSS for XML and using CSS for HTML is that browsers don’t have any built-in styles for XML. With HTML, if you specified a level-one heading, you knew the text between the <h1> and </h1> tags was going to be displayed in a large, bold font and you could then use CSS to do some tweaking like changing the color to bright red. But, when it comes to my XML recipe there is no <h1> tag. In fact, all of the tags are made up so I can’t really expect the browser to have built-in styles for them. Every single aspect of the document layout is up to me and must be defined within my CSS file. This includes such mundane styling tasks as telling the browser to place each individual ingredient on a new line and not run them together. While this may sound like a big hassle, it’s actually not too difficult when taken one step at a time.
+The big difference between using CSS for XML and using CSS for HTML is that browsers don’t have any built-in styles for XML. With HTML, if you specified a level-one heading, you knew the text between the `<h1>` and `</h1>` tags was going to be displayed in a large, bold font and you could then use CSS to do some tweaking like changing the color to bright red. But, when it comes to my XML recipe there is no `<h1>` tag. In fact, all of the tags are made up so I can’t really expect the browser to have built-in styles for them. Every single aspect of the document layout is up to me and must be defined within my CSS file. This includes such mundane styling tasks as telling the browser to place each individual ingredient on a new line and not run them together. While this may sound like a big hassle, it’s actually not too difficult when taken one step at a time.
 
 
 <!--pagebreak-->

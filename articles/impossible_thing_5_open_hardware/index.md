@@ -8,8 +8,7 @@ license: verbatim_only
 listed: 'true'
 book: making_the_impossible_happen_the_rules_of_free_culture
 book_weight: '-1'
-layout: book.html
-
+layout: book
 ---
 <!--Impossible Thing #5: Open Hardware-->
 
@@ -111,15 +110,15 @@ Although it is clear that open hardware has some special challenges, real projec
 
 # Notes
 
-[1] [LART](http://www.lartmaker.nl/)
+1. [LART](http://www.lartmaker.nl/)
 
-[2] [Open Cores](http://www.opencores.org)
+2. [Open Cores](http://www.opencores.org)
 
-[3] [OScar](http://www.theoscarproject.org)
+3. [OScar](http://www.theoscarproject.org)
 
-[4] [Open Source Green Vehicle](http://www.osgv.org)
+4. [Open Source Green Vehicle](http://www.osgv.org)
 
-[5] [C,mm,n](http://www.cmmn.org)
+5. [C,mm,n](http://www.cmmn.org)
 
 # Terms 
 

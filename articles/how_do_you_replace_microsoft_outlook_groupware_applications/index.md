@@ -26,7 +26,7 @@ Any of [Evolution][1], [Kontact][2] or [Thunderbird][3] will do the mail job adm
 
 # Moving away from the desktop
 
-One of the needs of my users is the ability to access their e-mail from home as well. Currently--with our POP3 setup--this is "handled" using third party web-based POP clients but it's not ideal and creates its own set of issues. Moving from Outlook to say another desktop client won't really resolve this. As I've [already mentioned][6] I'm looking into web-based group--ware applications as a solution. The front runners are [OpenGroupWare.org][9] (OGo and no relation to OpenOffice.org), [eGroupware][10] and [phpGroupWare][11]--all three being reasonably mature. The former grew out of the Skyrix proprietary solution. In fact Skyrix is now the "enterprise distribution" of OpenGroupware.org--I guess the relationship is similar to that between Openoffice.org and StarOffice. 
+One of the needs of my users is the ability to access their e-mail from home as well. Currently--with our POP3 setup--this is "handled" using third party web-based POP clients but it's not ideal and creates its own set of issues. Moving from Outlook to say another desktop client won't really resolve this. As I've [already mentioned][6] I'm looking into web-based group--ware applications as a solution. The front runners are [OpenGroupWare.org][9], OGo and no relation to OpenOffice.org, [eGroupware][10] and [phpGroupWare][11]--all three being reasonably mature. The former grew out of the Skyrix proprietary solution. In fact Skyrix is now the "enterprise distribution" of OpenGroupware.org--I guess the relationship is similar to that between Openoffice.org and StarOffice. 
 
 ##eGroupware: forks (and knives?)
 

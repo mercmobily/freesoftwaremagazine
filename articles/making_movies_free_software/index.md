@@ -9,8 +9,7 @@ section: end_users
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '-12'
-layout: book.html
-
+layout: book
 ---
 <!-- Making Movies with Free Software -->
 

@@ -1,0 +1,24 @@
+{% case include.license %}
+{% when "cc-by-nd" %}
+{% include licenses/cc-by-nd.txt %}
+{% when "cc-by-sa" %}
+{% include licenses/cc-by-sa.txt %}
+{% when "cc-by" %}
+{% include licenses/cc-by.txt %}
+{% when "verbatim_only" %}
+{% include licenses/verbatim_only.txt %}
+{% when "other" %}
+{% include licenses/other.txt %}
+{% when "cc-by-nc-nd" %}
+{% include licenses/cc-by-nc-nd.txt %}
+{% when "cc-by-nc" %}
+{% include licenses/cc-by-nc.txt %}
+{% when "gfdl" %}
+{% include licenses/gfdl.txt %}
+{% when "gpl" %}
+{% include licenses/gpl.txt %}
+{% when "cc-by-nc-sa" %}
+{% include licenses/cc-by-nc-sa.txt %}
+{% else %}
+{% include licenses/verbatim_only.txt %}
+{% endcase %}

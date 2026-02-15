@@ -22,19 +22,19 @@ What happens if you have _three_ levels of menus? For example, what happens if y
 
 * One 
  * One one
-  * --One one A
-  * --One one B
-  * --One one C
+  * \\-\\-One one A
+  * \\-\\-One one B
+  * \\-\\-One one C
  * One two
-  * --One two A
-  * --One two B
+  * \\-\\-One two A
+  * \\-\\-One two B
  * One three
-  * --One three A
-  * --One three B
+  * \\-\\-One three A
+  * \\-\\-One three B
 * Two
  * Two one
-  * --Two one A
-  * --Two one B
+  * \\-\\-Two one A
+  * \\-\\-Two one B
 
 ...ecc.?
 PHPTemplate will create a two nice variables for you, `$primary_links` and `secondary_links`. Also, `$secondary_links` will contain the "right" entries if you set the primary menu and the secondary menu the same. What about `$tertiary_links`? Nowhere to be seen.

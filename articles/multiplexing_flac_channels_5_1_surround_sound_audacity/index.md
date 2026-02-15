@@ -9,8 +9,7 @@ section: opinions
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '10'
-layout: book.html
-
+layout: book
 ---
 <!-- Assembling Ogg Soundtracks for an Ogg Video with Audacity, VLC, and Command Line Tools -->
 

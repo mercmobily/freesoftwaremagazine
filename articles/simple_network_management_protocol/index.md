@@ -8,8 +8,7 @@ license: verbatim_only
 listed: 'true'
 book: network_monitoring_with_zenoss
 book_weight: '-8'
-layout: book.html
-
+layout: book
 ---
 The hardest part of the learning curve for me, was learning about SNMP, the "Simple Network Management Protocol". Zenoss, like most network monitoring services relies heavily on this technology, which apparently dates back to the late 1980s, even though I'd never heard of it.
 

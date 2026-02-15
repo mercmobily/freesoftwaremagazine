@@ -133,6 +133,5 @@ Sounds like a plan! ;-)
 
 # Bibliography
 
-[1] [klik’s home page](http://klik.atekon.de/)
-
+1. [klik’s home page](http://klik.atekon.de/)
 

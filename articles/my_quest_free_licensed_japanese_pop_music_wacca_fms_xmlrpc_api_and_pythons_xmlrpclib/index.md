@@ -9,8 +9,7 @@ section: opinions
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '0'
-layout: book.html
-
+layout: book
 ---
 This is my story about searching for Japanese pop music under a free culture license. It's a little tricky, because the best sites for this are of course, in Japan, and not well advertised on the English web. I discovered how to use Python's XMLRPC library to run searches using the web API for a Japanese music sharing site called "Wacca". The results were very interesting -- I found some of what I was looking for, though not all.
 

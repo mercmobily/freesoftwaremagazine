@@ -92,10 +92,9 @@ GuITmeeting is still young—there have only been two held now and they only las
 
 # Bibliography
 
-[1] [The Comprehensive TEX Archive Network](http://www.ctan.org), 2005.
+1. [The Comprehensive TEX Archive Network](http://www.ctan.org), 2005.
 
 [2] G. Pignalberi. [Creating Free Software Magazine](http://www.freesoftwaremagazine.com/free_issues/issue_07/creating_fsm_latex/). _Free Software Magazine_, issue 7, 2005.
 
-[3] [The PracTeX Journal](http://www.tug.org/pracjourn), 2005.
-
+3. [The PracTeX Journal](http://www.tug.org/pracjourn), 2005.
 

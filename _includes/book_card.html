@@ -1,0 +1,18 @@
+{% assign url = include.url %}
+{% assign img = include.img %}
+{% assign title = include.title %}
+{% assign subtitle = include.subtitle %}
+
+<div class="card book-card">
+  <a href="{{ url }}">
+    <div class="card-img-top embed-responsive embed-responsive-3by4 book-card-img">
+      <div class="embed-responsive-item book-card-img-item" style="background-image: url({{ img }})"></div>
+    </div>
+  </a>
+  <div class="card-block book-card-block">
+    <a href="{{ url }}">
+      <h5 class="card-title book-card-title">{{ title }}</h5>
+    </a>
+    <p class="card-text text-muted">{{ subtitle }}</p>
+  </div>
+</div>

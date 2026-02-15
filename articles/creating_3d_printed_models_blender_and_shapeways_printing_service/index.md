@@ -9,8 +9,7 @@ section: end_users
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '2'
-layout: book.html
-
+layout: book
 ---
 <!-- Creating 3D Printed Models with Blender and the Shapeways Printing Service-->
 

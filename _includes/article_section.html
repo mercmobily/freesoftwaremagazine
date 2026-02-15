@@ -1,0 +1,11 @@
+{% assign section_articles = include.articles | default: empty %}
+
+<h3 class="mt-5">{{ include.title }}</h3>
+<hr class="mt-0">
+<div class="row">
+  {% for article in section_articles limit: include.limit %}
+    <div class="col-sm-6 col-lg-4 mb-4">
+      {% include article_card.html article=article %}
+    </div>
+  {% endfor %}
+</div>

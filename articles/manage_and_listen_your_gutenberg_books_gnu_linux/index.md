@@ -42,7 +42,7 @@ With so many packages available in the GNU/Linux universe, it makes sense to sea
 sudo apt-cache search guten.
 =CODE_END=
 
-To my surprise, my search only returned two entries: PYGE[13] (an unrelated python based series of related file manipulation applications) and gutenbrowser. Gutenbrowser sounded promising, running: 
+To my surprise, my search only returned two entries: PYGE[13], an unrelated python based series of related file manipulation applications, and gutenbrowser. Gutenbrowser sounded promising, running: 
 
 =CODE_START=
 apt-cache show gutenbrowser
@@ -135,7 +135,7 @@ sudo apt-get install serpentine
 
 I have explored a number of Debian packages that make reading Gutenberg texts a pleasure. In part two of this article I will explore Gutenberg-related Java-based applications, from speed reading to converting text to other handy formats. 
 
-*_Until then happy reading._*
+*Until then happy reading.*
 
 # Resources
 

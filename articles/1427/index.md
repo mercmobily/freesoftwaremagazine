@@ -8,7 +8,7 @@ section: announcements
 listed: 'true'
 
 ---
-This week we are giving away a copy of [Producing Open Source Software](/articles/book_review_producing_oss)_ by Karl Fogel_.
+This week we are giving away a copy of [Producing Open Source Software](/articles/book_review_producing_oss), by Karl Fogel.
 
 
 =IMAGE_PRIVATE=/files/nodes/1288/cover.jpg=160=200==
@@ -33,4 +33,3 @@ Entries open on the 22nd of November 2005 and close on the 26th of November 2005
 GOOD LUCK!
 
 _Thanks go to Prentice Hall for providing this fantastic prize._
-

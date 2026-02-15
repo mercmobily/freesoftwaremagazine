@@ -9,8 +9,7 @@ section: opinions
 listed: 'true'
 book: making_the_impossible_happen_the_rules_of_free_culture
 book_weight: '11'
-layout: book.html
-
+layout: book
 ---
 The gender inequality among developers and supporters of free software is stunning. Less than 2% of us are women, according to studies conducted for the European Commission. Why? The evidence says we're driving them away. There are even some pretty good published guidelines on how _not_ to drive them away. What's missing is a practical implementation strategy: here I present _ten_ relatively simple changes in how you run your project, to make it more attractive to would-be contributors—especially women.
 <!--break-->

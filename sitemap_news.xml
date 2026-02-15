@@ -1,35 +1,20 @@
 ---
-postProcessFilters: template-ejs
-delayPostProcess: true
+layout: null
 ---
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-
-<%-'' && info.inspect( info, { depth: 10 } ) %>
-
-<% for( var i=0; i < 50; i++ ){ 
-  var a = info.fullList[ i ];
-%>
-
-<%if( a ){ %>
-
-<url>
-  <loc>http://www.freesoftwaremagazine.com/<%=a.system.filePath%>/</loc>
-
-  <news:news>
-          <news:publication>
-                <news:name>Free Software Magazine</news:name>
-                <news:language>en</news:language>
-              </news:publication>
-
-          <news:publication_date><%=a.info.published ? a.info.published.substr(0,10) : ''%></news:publication_date>
-          <news:keywords><%=a.info.tags%></news:keywords>
-          <news:title><%=a.info.title%></news:title>
-  </news:news>
-</url>
-
-<% } %>
-<% } %>
-
+{% assign article_pages = site.pages | where_exp: "p", "p.path contains 'articles/' and p.name == 'index.md' and p.listed == 'true'" | sort: "published" | reverse %}
+{% for a in article_pages limit: 50 %}
+  <url>
+    <loc>http://www.freesoftwaremagazine.com{{ a.url }}</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Free Software Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>{{ a.published | date: "%Y-%m-%d" }}</news:publication_date>
+      <news:keywords>{{ a.tags | default: "" | xml_escape }}</news:keywords>
+      <news:title>{{ a.title | xml_escape }}</news:title>
+    </news:news>
+  </url>
+{% endfor %}
 </urlset>
-
-<%-info.listData%>

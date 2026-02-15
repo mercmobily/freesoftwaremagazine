@@ -9,8 +9,7 @@ section: hacking
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '10'
-layout: book.html
-
+layout: book
 ---
 <!-- Emulating disk menus with HTML5 and Chromium for Lib-Ray -->
 

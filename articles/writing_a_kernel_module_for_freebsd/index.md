@@ -95,7 +95,7 @@ The `bsd.kmod.mk` makefile resides in `/usr/src/share/mk/bsd.kmod.mk` and takes 
 * the name of the kernel module itself via the “KMOD” variable;
 * the source files configured via the intuitive “SRCS” variable;
 
-Then, all you have to do is include <bsd.kmod.mk> to build the module.  This elegant setup lets you build your kernel module with only the following skeletal make file and a simple invocation of the “make” utility. 
+Then, all you have to do is include `<bsd.kmod.mk>` to build the module.  This elegant setup lets you build your kernel module with only the following skeletal make file and a simple invocation of the “make” utility. 
 
 The Makefile for our introductory kernel module looks like this:
 

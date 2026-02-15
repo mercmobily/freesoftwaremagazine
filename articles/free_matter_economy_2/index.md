@@ -289,62 +289,61 @@ Complete self-contained, end-user-operated replication machines won’t arrive f
 
 # Bibliography
 
-[1]  [Covered wagons](http://www.endoftheoregontrail.org/wagons.html),                  [construction](http://www.nps.gov/jeff/overland_wagon.html), and [blacksmithing](http://www.saskschools.ca/~gregory/blsmith.html)
+1.  [Covered wagons](http://www.endoftheoregontrail.org/wagons.html),                  [construction](http://www.nps.gov/jeff/overland_wagon.html), and [blacksmithing](http://www.saskschools.ca/~gregory/blsmith.html)
 
-[2]  From [Sears](http://www.sears.com/), for example.
+2.  From [Sears](http://www.sears.com/), for example.
 
-[3]  But for serious amateurs, [Software for Cars](http://www.obd-onboarddiagnostics.com/)
+3.  But for serious amateurs, [Software for Cars](http://www.obd-onboarddiagnostics.com/)
 
-[4]  [Bug Haus](http://www.bughaus.com)
+4.  [Bug Haus](http://www.bughaus.com)
 
-[5]  [History of VW "Beetle"](http://en.wikipedia.org/wiki/Volkswagen_Beetle)
+5.  [History of VW "Beetle"](http://en.wikipedia.org/wiki/Volkswagen_Beetle)
 
-[6]  Adam Smith, [An Inquiry into the Nature and Causes of the Wealth of Nations](http://www.gutenberg.org/etext/3300), 1776.
+6.  Adam Smith, [An Inquiry into the Nature and Causes of the Wealth of Nations](http://www.gutenberg.org/etext/3300), 1776.
 
-[7]  [Narya Project](http://narya.net)
+7.  [Narya Project](http://narya.net)
 
-[8]  [Narya Bazaar](http://bazaar.narya.net)
+8.  [Narya Bazaar](http://bazaar.narya.net)
 
-[9]  3D Printers: [Solid freeform fabrication](http://www.mae.cornell.edu/ccsl/research/sff/) and                            [Cubital's Soldier 5600](http://www.wired.com/wired/archive/2.05/eword.html?pg=7)
+9.  3D Printers: [Solid freeform fabrication](http://www.mae.cornell.edu/ccsl/research/sff/) and                            [Cubital's Soldier 5600](http://www.wired.com/wired/archive/2.05/eword.html?pg=7)
 
-[10] For example, [Pad2Pad](http://www.pad2pad.com/)
+10. For example, [Pad2Pad](http://www.pad2pad.com/)
 
-[11] For example, [Mouser Electronics](http://www.mouser.com/)
+11. For example, [Mouser Electronics](http://www.mouser.com/)
 
-[12] For example, [Sherline Machine Tools](http://sherline.com/)
+12. For example, [Sherline Machine Tools](http://sherline.com/)
 
-[13] For example, [Kit-built planes](http://www.homebuilt.org/kits/kits-vend.html)
+13. For example, [Kit-built planes](http://www.homebuilt.org/kits/kits-vend.html)
 
-[14] [Open Cores](http://www.opencores.org/) and [LART](http://www.lart.tudelft.nl/)
+14. [Open Cores](http://www.opencores.org/) and [LART](http://www.lart.tudelft.nl/)
 
-[15] [e-Bay](http://ebay.com)
+15. [e-Bay](http://ebay.com)
 
-[16] For example, [Elance](http://www.elance.com/)
+16. For example, [Elance](http://www.elance.com/)
 
-[17] [ThomasNet](http://www.thomasnet.com/)
+17. [ThomasNet](http://www.thomasnet.com/)
 
-[18] [Amateur Machinists](http://sherline.com/resource.htm)
+18. [Amateur Machinists](http://sherline.com/resource.htm)
 
-[19] [EDA Forum](http://www.edaboard.com/)
+19. [EDA Forum](http://www.edaboard.com/)
 
-[20] [Model Airplane News](http://www.modelairplanenews.com/)
+20. [Model Airplane News](http://www.modelairplanenews.com/)
 
-[21] [Dallas Area Rocket Society](http://www.dars.org/)
+21. [Dallas Area Rocket Society](http://www.dars.org/)
 
-[22] [Homebuilt Homepage](http://www.homebuilt.org/)
+22. [Homebuilt Homepage](http://www.homebuilt.org/)
 
-[23] [Battlebots](http://www.battlebots.com/) and  [Botball](http://www.botball.org/)
+23. [Battlebots](http://www.battlebots.com/) and  [Botball](http://www.botball.org/)
 
-[24] [Amsat](http://www.amsat.org/)
+24. [Amsat](http://www.amsat.org/)
 
-[25] [Pacific Rocket Society](http://v-serv.com/prs/)
+25. [Pacific Rocket Society](http://v-serv.com/prs/)
 
-[26] Faré Rideau, [Patents Are An Economic Absurdity](http://fare.tunes.org/articles/patents.html), and references therein.
+26. Faré Rideau, [Patents Are An Economic Absurdity](http://fare.tunes.org/articles/patents.html), and references therein.
 
-[27] Links in [All the Way Open](http://open.narya.net)
+27. Links in [All the Way Open](http://open.narya.net)
 
-[28] [W3C Patent Policy](http://www.w3.org/Consortium/Patent-Policy-20040205/)
+28. [W3C Patent Policy](http://www.w3.org/Consortium/Patent-Policy-20040205/)
 
-[29] M. T. Richardson, [Practical Carriage Building](http://www.astragalpress.com/practical_carriage_building.htm), 1892.
-
+29. M. T. Richardson, [Practical Carriage Building](http://www.astragalpress.com/practical_carriage_building.htm), 1892.
 

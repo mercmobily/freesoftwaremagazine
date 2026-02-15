@@ -8,8 +8,7 @@ section: end_users
 listed: 'true'
 book: making_the_impossible_happen_the_rules_of_free_culture
 book_weight: '-2'
-layout: book.html
-
+layout: book
 ---
 In the mainstream, free culture is regarded with varying degrees of skepticism, disdain, and dewy-eyed optimism. It violates the rules by which we imagine our world works, and many people react badly to that which they don't understand.
 

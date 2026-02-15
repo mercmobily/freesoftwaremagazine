@@ -7,8 +7,7 @@ license: verbatim_only
 listed: 'true'
 book: autotools_a_guide_to_autoconf_automake_libtool
 book_weight: '3'
-layout: book.html
-
+layout: book
 ---
 Most of the general complaints I've ever seen aimed at the Autotools are ultimately associated with Automake, in the final analysis. The reason for this is simple: Automake provides the highest level of abstraction over the build system. This high level of abstraction is both apparent, and actual. And yet a solid understanding of the inner workings of Automake can provide you with the one of the most satisfying auto-generated build system experiences, because you can feel comfortable using the features of Automake to their maximum potential, and extending it where your projects require.
 <!--break-->

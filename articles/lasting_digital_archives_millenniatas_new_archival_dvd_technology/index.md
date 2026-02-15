@@ -133,13 +133,13 @@ For me, though, it's clear that this niche, though small, is very important cult
 
 [2] There is a lot of disagreement on how long dye-based media will last once burned. The [CDR FAQ](http://www.cdrfaq.org) has [more information](http://www.cdrfaq.org/faq07.html#S7-5)
 
-[3] [Datasheet](http://www.millenniata.com/products/products/) and other [press materials](http://www.millenniata.com/technology/) available from the [Millenniata website](http://www.millenniata.com).
+3. [Datasheet](http://www.millenniata.com/products/products/) and other [press materials](http://www.millenniata.com/technology/) available from the [Millenniata website](http://www.millenniata.com).
 
-[4] ["Accelerated Life Cycle Comparison of Millenniata Archival DVD"](http://www.millenniata.com/orphan/china_lake_summary/) by Ivan Svrcek, conducted at the Ivan Svrcek at the Life Cycle and Environmental Engineering Branch, Naval Air Warfare Center, Weapons Division in China Lake, California. November 10, 2009
+4. ["Accelerated Life Cycle Comparison of Millenniata Archival DVD"](http://www.millenniata.com/orphan/china_lake_summary/) by Ivan Svrcek, conducted at the Ivan Svrcek at the Life Cycle and Environmental Engineering Branch, Naval Air Warfare Center, Weapons Division in China Lake, California. November 10, 2009
 
 [5] Trove Archive Solutions was the cheapest source for Millenniata disks and writers that I was able to find as of Feb 1, 2011. The featured product is a [kit with a drive and 25 M-Discs](http://www.troveas.com/m-disc-archival-dvds/packages/), although these can also be purchased separately
 
-[6] ["The Optical Drive: Appendix of the Modern PC"](http://www.pcworld.com/article/218110/the_optical_drive_appendix_of_the_modern_pc.html) by Jason Cross, PC World. Jan 28, 2011
+6. ["The Optical Drive: Appendix of the Modern PC"](http://www.pcworld.com/article/218110/the_optical_drive_appendix_of_the_modern_pc.html) by Jason Cross, PC World. Jan 28, 2011
 
 =TEXTBOX_START=Licensing Notice=
 This work may be distributed under the terms of the [Creative Commons Attribution-ShareAlike License, version 3.0](http://creativecommons.org/licenses/by-sa/3.0), with attribution to "Terry Hancock, first published in [Free Software Magazine](http://www.freesoftwaremagazine.com)". Illustrations and modifications to illustrations are under the same license and attribution, except as noted in their captions (all images in this article are CC By-SA 3.0 compatible).

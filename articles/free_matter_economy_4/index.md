@@ -161,7 +161,7 @@ Less expensive electronic forms of the complete ISO “source documents” may b
 
 At the most basic level, of course, are fast 3D rendering libraries and hardware, such as Open GL, but these are primarily for interfacing with (or emulating) hardware, and so are really more primitive than we want. Fortunately, many 3D rendering libraries have been built on top of these standards, primarily driven by game and computer animation applications.
 
-Some of the more prominent free-licensed 3D rendering libraries that exist include: Crystalspace [23] (written in C++, mainly to support massively-multiplayer online games), Soya 3D [24] (written in Python and Pyrex, also mainly for games), and Blender [25] (written in C, mainly for commercial computer animation applications). All are under suitable free licenses (GPL).
+Some of the more prominent free-licensed 3D rendering libraries that exist include: Crystalspace [23], written in C++, mainly to support massively-multiplayer online games; Soya 3D [24], written in Python and Pyrex, also mainly for games; and Blender [25], written in C, mainly for commercial computer animation applications. All are under suitable free licenses (GPL).
 
 Crystalspace and Blender are both primarily frameworks, which embed a Python interpreter; while Soya 3D is a python module library. The latter is better from the point of view of embedding the viewer as a major component, especially if the integration language will be Python. Blender also has embeddable builds: a game engine and a browser plugin, that might be investigated as options for a more pure “view” component.
 
@@ -235,62 +235,60 @@ This is an area where a free software CAD system could not only match the propri
 
 # Bibliography
 
-[1] Richard Stallman. [The GNU Project](http://www.gnu.org/gnu/thegnuproject.html).
+1. Richard Stallman. [The GNU Project](http://www.gnu.org/gnu/thegnuproject.html).
 
-[2] Forrest J. Cavalier, III. [Some Implications of Bazaar Size](http://www.mibsoftware.com/bazdev/), 1998.
+2. Forrest J. Cavalier, III. [Some Implications of Bazaar Size](http://www.mibsoftware.com/bazdev/), 1998.
 
-[3] [KDE Documentation](http://docs.kde.org/).
+3. [KDE Documentation](http://docs.kde.org/).
 
-[4] [Skencil Development Guide](http://www.nongnu.org/skencil/Doc/devguide.html).
+4. [Skencil Development Guide](http://www.nongnu.org/skencil/Doc/devguide.html).
 
-[5] [Blender Documentation](http://www.blender.org/modules/documentation/).
+5. [Blender Documentation](http://www.blender.org/modules/documentation/).
 
-[6] [xcircuit](http://opencircuitdesign.com/xcircuit/).
+6. [xcircuit](http://opencircuitdesign.com/xcircuit/).
 
-[7] [pcb](http://pcb.sourceforge.net/).
+7. [pcb](http://pcb.sourceforge.net/).
 
-[8] [QCAD](http://www.ribbonsoft.com/qcad.html).
+8. [QCAD](http://www.ribbonsoft.com/qcad.html).
 
-[9] [GNU EDA](http://www.geda.seul.org/).
+9. [GNU EDA](http://www.geda.seul.org/).
 
-[10] [AutoCAD](http://en.wikipedia.org/wiki/AutoCAD).
+10. [AutoCAD](http://en.wikipedia.org/wiki/AutoCAD).
 
-[11] Michael Brundage, [Network Places](http://www.qbrundage.com/np/index.html).
+11. Michael Brundage, [Network Places](http://www.qbrundage.com/np/index.html).
 
-[12] Price estimated from [CDW Catalog](http://www.cdw.com), August 2005.
+12. Price estimated from [CDW Catalog](http://www.cdw.com), August 2005.
 
-[13] [Model View Controller](http://en.wikipedia.org/wiki/Model_view_controller) Definition.
+13. [Model View Controller](http://en.wikipedia.org/wiki/Model_view_controller) Definition.
 
-[14] Terry Hancock. [Praise for Python](http://blog.freesoftwaremagazine.com/users/t.hancock/2005/11/11/praise_for_python), 2005.
+14. Terry Hancock. [Praise for Python](http://blog.freesoftwaremagazine.com/users/t.hancock/2005/11/11/praise_for_python), 2005.
 
-[15] [STEP / ISO 10303](http://www.tc184-sc4.org/SC4%5FOpen/SC4%5FWork%5FProducts%5FDocuments/STEP_(10303)).
+15. [STEP / ISO 10303](http://www.tc184-sc4.org/SC4%5FOpen/SC4%5FWork%5FProducts%5FDocuments/STEP_(10303)).
 
-[16] [ISO Restricted Documents Notice](http://www.tc184-sc4.org/Notices/Authorized%5FUsers%2DPadlocked%5FDocuments/).
+16. [ISO Restricted Documents Notice](http://www.tc184-sc4.org/Notices/Authorized%5FUsers%2DPadlocked%5FDocuments/).
 
-[17] Howard Mason, Chair, ISO TC 184/SC4. Private communication.
+17. Howard Mason, Chair, ISO TC 184/SC4. Private communication.
 
-[18] [Express Listings](http://www.tc184-sc4.org/SC4%5FOpen/SC4%5FWork%5FProducts%5FDocuments/STEP%5F%2810303%29/) (Search each block for “schema”).
+18. [Express Listings](http://www.tc184-sc4.org/SC4%5FOpen/SC4%5FWork%5FProducts%5FDocuments/STEP%5F%2810303%29/) (Search each block for “schema”).
 
-[19] [STEP Modularization Project](http://stepmod.sourceforge.net/).
+19. [STEP Modularization Project](http://stepmod.sourceforge.net/).
 
-[20] [EXFF](http://exff.org/).
+20. [EXFF](http://exff.org/).
 
-[21] [OpenCascade](http://www.opencascade.org/) (non-free).
+21. [OpenCascade](http://www.opencascade.org/) (non-free).
 
-[22] [NIST SDAI C++ Library](http://www.mel.nist.gov/msidstaff/sauder/SCL.htm) (free-licensed).
+22. [NIST SDAI C++ Library](http://www.mel.nist.gov/msidstaff/sauder/SCL.htm) (free-licensed).
 
-[23] [Crystalspace](http://www.crystalspace3d.org/).
+23. [Crystalspace](http://www.crystalspace3d.org/).
 
-[24] [Soya 3D](http://gna.org/projects/soya).
+24. [Soya 3D](http://gna.org/projects/soya).
 
-[25] [Blender](http://www.blender.org).
+25. [Blender](http://www.blender.org).
 
-[26] Brendan Eich [Python for XUL scripting](http://weblogs.mozillazine.org/roadmap/archives/008865.html), 2005.
+26. Brendan Eich [Python for XUL scripting](http://weblogs.mozillazine.org/roadmap/archives/008865.html), 2005.
 
-[27] [Using ZODB Standalone.](http://www.zope.org/Wikis/ZODB/FrontPage).
+27. [Using ZODB Standalone.](http://www.zope.org/Wikis/ZODB/FrontPage).
 
-[28] [Cygnus Solutions](http://en.wikipedia.org/wiki/Cygnus_Solutions).
+28. [Cygnus Solutions](http://en.wikipedia.org/wiki/Cygnus_Solutions).
 
-[29] Steve Litt. [Zope Corporation/Digital Creations](http://www.troubleshooters.com/tpromag/199906/_digcreate.htm), 1999.
-
-
+29. Steve Litt. [Zope Corporation/Digital Creations](http://www.troubleshooters.com/tpromag/199906/_digcreate.htm), 1999.

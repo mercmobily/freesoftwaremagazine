@@ -8,8 +8,7 @@ license: verbatim_only
 listed: 'true'
 book: ubuntu_applications
 book_weight: '0'
-layout: book.html
-
+layout: book
 ---
 So far, all of the browsers that I reviewed for this book have been Gnome-based browsers. Epiphany is a Gnome-sponsored project, and Firefox is rapidly moving towards Gnomeization (though at the time of this writing, a Qt port of Firefox is under heavy development). What's a good KDE user to do? Simple: use the conqueror of the browser market, Konqueror.
 

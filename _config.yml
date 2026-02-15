@@ -1,0 +1,37 @@
+title: Free Software Magazine
+description: Static site migration scaffold for Jekyll.
+baseurl: ""
+url: ""
+
+markdown: kramdown
+permalink: pretty
+highlighter: none
+
+kramdown:
+  auto_ids: false
+  syntax_highlighter: null
+  syntax_highlighter_opts:
+    disable: true
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
+exclude:
+  - node_modules
+  - vendor
+  - legacy
+
+include:
+  - tags/.net
+
+defaults:
+  - scope:
+      path: "articles"
+      type: pages
+    values:
+      layout: article
+      render_with_liquid: false
+  - scope:
+      path: "pages"
+      type: pages
+    values:
+      layout: generic
+      render_with_liquid: false

@@ -155,7 +155,7 @@ As you can imagine, an array declaration is also an expression and as we can cal
 Hello world
 =CODE_END=
 
-The "Have a nice day!" loop can compose the sequence to be called and then call it. Here we can see this in action on a Solaris machine with the Falcon package from [Blastwave.org] (http://www.blastwave.org)
+The "Have a nice day!" loop can compose the sequence to be called and then call it. Here we can see this in action on a Solaris machine with the Falcon package from [Blastwave.org](http://www.blastwave.org)
 
 =CODE_START=
 bash-3.2$ falcon -i

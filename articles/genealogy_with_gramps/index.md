@@ -140,13 +140,13 @@ Often, when reviewing free software, the temptation is to compare the applicatio
 
  **GRAMPS resources**
 
- [1] [http://www.gramps-project.org](http://www.gramps-project.org)—GRAMPS homepage.
+1. [http://www.gramps-project.org](http://www.gramps-project.org)—GRAMPS homepage.
 
- [2] [Linux Genealogy Desktop CD](http://gramps-project.org/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=19) (from the GRAMPS website)—an Ubuntu based Live CD which has GRAMPS, GeneWeb and Lifelines installed. Allows user of a non-free operating system to run GRAMPS without installing.
+2. [Linux Genealogy Desktop CD](http://gramps-project.org/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=19) (from the GRAMPS website)—an Ubuntu based Live CD which has GRAMPS, GeneWeb and Lifelines installed. Allows user of a non-free operating system to run GRAMPS without installing.
 
  **Websites**
 
- [3] [http://www.ancestry.com](http://www.ancestry.com)—a popular and well stocked genealogical website, includes searchable census and birth, death marriage records.
+3. [http://www.ancestry.com](http://www.ancestry.com)—a popular and well stocked genealogical website, includes searchable census and birth, death marriage records.
 
  [http://www.gro.gov.uk](http://www.gro.gov.uk)—General Register Office for UK Government. From here you can purchase copies of birth, death and marriage certificates on-line.
 
@@ -157,5 +157,4 @@ Often, when reviewing free software, the temptation is to compare the applicatio
  [GeneWeb](http://cristal.inria.fr/~ddr/GeneWeb/en/index.html)—web based, available for a range of operating systems.
 
  [LifeLines](http://lifelines.sourceforge.net/)—NCurses (console) based genealogical database.
-
 

@@ -213,60 +213,59 @@ It’s not enough to innovate. We must also remember what we innovated and forge
 
 # Bibliography
 
-[1] [Online Public Access Catalog](http://en.wikipedia.org/wiki/OPAC)
+1. [Online Public Access Catalog](http://en.wikipedia.org/wiki/OPAC)
 
-[2] [MAchine Readable Cataloging](http://www.loc.gov/marc)
+2. [MAchine Readable Cataloging](http://www.loc.gov/marc)
 
-[3] [Functional Requirements for Bibliographic Referencing](http://www.ifla.org/VII/s13/frbr/frbr.htm)
+3. [Functional Requirements for Bibliographic Referencing](http://www.ifla.org/VII/s13/frbr/frbr.htm)
 
-[4] [Dublin Core](http://dublincore.org) initiative
+4. [Dublin Core](http://dublincore.org) initiative
 
-[5] [Trove](http://sourceforge.net/softwaremap/trove_list.php) categorization system
+5. [Trove](http://sourceforge.net/softwaremap/trove_list.php) categorization system
 
-[6] [Anglo-American Cataloging Rules](http://www.collectionscanada.ca/jsc)
+6. [Anglo-American Cataloging Rules](http://www.collectionscanada.ca/jsc)
 
-[7] Cory Doctorow [Metacrap](http://www.well.com/~doctorow/metacrap.htm)
+7. Cory Doctorow [Metacrap](http://www.well.com/~doctorow/metacrap.htm)
 
-[8] Jim Giles [Internet encyclopaedias go head to head](http://www.nature.com/news/2005/051212/full/438900a.html), **Nature**, 2005
+8. Jim Giles [Internet encyclopaedias go head to head](http://www.nature.com/news/2005/051212/full/438900a.html), **Nature**, 2005
 
-[9] [SmartDJ](http://rudd-o.com/projects/smart-dj)
+9. [SmartDJ](http://rudd-o.com/projects/smart-dj)
 
-[10] [imgSeek](http://www.imgseek.net)
+10. [imgSeek](http://www.imgseek.net)
 
-[11] [Resource Description Framework](http://www.w3.org/RDF)
+11. [Resource Description Framework](http://www.w3.org/RDF)
 
-[12] [Semantic Web](http://www.semanticweb.org)
+12. [Semantic Web](http://www.semanticweb.org)
 
-[13] [IkeWiki](http://ikewiki.salzburgresearch.at)
+13. [IkeWiki](http://ikewiki.salzburgresearch.at)
 
-[14] [Bit Torrent](http://www.bittorrent.com)
+14. [Bit Torrent](http://www.bittorrent.com)
 
-[15] US [National Aeronautics and Space Administration](http://www.nasa.gov)
+15. US [National Aeronautics and Space Administration](http://www.nasa.gov)
 
-[16] US [Forest Service](http://www.fs.fed.us)
+16. US [Forest Service](http://www.fs.fed.us)
 
-[17] US [Geological Survey](http://www.usgs.gov)
+17. US [Geological Survey](http://www.usgs.gov)
 
-[18] US [Department of Energy](http://www.energy.gov)
+18. US [Department of Energy](http://www.energy.gov)
 
-[19] US [Department of Agriculture](http://www.usda.gov)
+19. US [Department of Agriculture](http://www.usda.gov)
 
-[20] US [Department of Defense](http://www.defenselink.mil)
+20. US [Department of Defense](http://www.defenselink.mil)
 
-[21] [NASA Technical Report Service](http://ntrs.nasa.gov)
+21. [NASA Technical Report Service](http://ntrs.nasa.gov)
 
-[22] [Open Cores](http://www.opencores.org)
+22. [Open Cores](http://www.opencores.org)
 
-[23] SSV’s [DIL/NetPC ADNP/ESC1](http://www.dilnetpc.com/dnp0046.htm) Single-Board Computer (SBC)
+23. SSV’s [DIL/NetPC ADNP/ESC1](http://www.dilnetpc.com/dnp0046.htm) Single-Board Computer (SBC)
 
-[24] [OpenSPARC](http://www.sun.com/processors/opensparc)
+24. [OpenSPARC](http://www.sun.com/processors/opensparc)
 
-[25] [Optical Character Recognition](http://software.newsforge.com/article.pl?sid=05/12/15/1848236)
+25. [Optical Character Recognition](http://software.newsforge.com/article.pl?sid=05/12/15/1848236)
 
-[26] Apollo [Apollo Extravehicular mobility unit. Volume 1: System description](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19730064705_1973064705.pdf)
+26. Apollo [Apollo Extravehicular mobility unit. Volume 1: System description](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19730064705_1973064705.pdf)
 
-[27] [Interlibrary Loan](http://en.wikipedia.org/wiki/Interlibrary_loan)
+27. [Interlibrary Loan](http://en.wikipedia.org/wiki/Interlibrary_loan)
 
-[28] [Print on Demand](http://en.wikipedia.org/wiki/Print_On_Demand), _e.g._[Lulu](http://www.lulu.com/)
-
+28. [Print on Demand](http://en.wikipedia.org/wiki/Print_On_Demand), _e.g._[Lulu](http://www.lulu.com/)
 

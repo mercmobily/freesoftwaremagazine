@@ -9,8 +9,7 @@ section: end_users
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '10'
-layout: book.html
-
+layout: book
 ---
 <!-- Assembling Video from a PNG Stream for an Ogg Video with png2theora -->
 

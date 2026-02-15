@@ -1,56 +1,73 @@
-<%
-	function toLink (rootPath, list) {
-		if (list == '') return;
-
-	 list.split(',').forEach(function(item) {
-%>
-		<a href="/<%-rootPath%>/<%=item%>"><%= item %></a>
-<%      
-		});
-	};
-%>
-
-<%- include('layoutHead'); %>
+{% include layout_head.html %}
 
 <div class="row">
-	<div class="offset-lg-1 col-lg-10 offset-xl-2 col-xl-8">
-		<h1 class="display-4" ><%= info.title %></h1>
+  <div class="offset-lg-1 col-lg-10 offset-xl-2 col-xl-8">
+    <h1 class="display-4">{{ page.title }}</h1>
 
-		<ul class="list-inline article-meta">
-			<li class="list-inline-item">
-				By <%= toLink('authors', info.authors) %>
-				<% if (info.section) { %>
-					in <%= toLink('sections', info.section) %>
-				<% } %>
-				<% if (info.book) { %>
-					in <%= toLink('sections', info.book) %>
-				<% } %>
-			</li>
-			<li class="list-inline-item"><%= new Date(info.published).toLocaleDateString() %></li>
-			<li class="list-inline-item">
-				<a href="http://fsmsh.com/<%= info.nid %>">Permalink</a>
-			</li>
-			<% if (info.tags) { %>
-				<li class="list-inline-item">
-					Tags: <span class="mr-1"><%= toLink('tags', info.tags || '') %></span>
-				</li>
-			<% } %>
-			</ul>
-		</ul>
+    <ul class="list-inline article-meta">
+      <li class="list-inline-item">
+        By
+        {% assign author_list = page.authors | default: "" | split: "," %}
+        {% for author in author_list %}
+          {% assign author_name = author | strip %}
+          {% if author_name != "" %}
+            <a href="/authors/{{ author_name | uri_escape }}">{{ author_name }}</a>
+          {% endif %}
+        {% endfor %}
+        {% if page.section %}
+          in
+          {% assign section_list = page.section | split: "," %}
+          {% for section in section_list %}
+            {% assign section_name = section | strip %}
+            {% if section_name != "" %}
+              <a href="/sections/{{ section_name | uri_escape }}">{{ section_name }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+        {% if page.book %}
+          in
+          {% assign book_list = page.book | split: "," %}
+          {% for book in book_list %}
+            {% assign book_name = book | strip %}
+            {% if book_name != "" %}
+              <a href="/sections/{{ book_name | uri_escape }}">{{ book_name }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      </li>
+      <li class="list-inline-item">{{ page.published | date: "%-m/%-d/%Y" }}</li>
+      <li class="list-inline-item">
+        <a href="http://fsmsh.com/{{ page.nid }}">Permalink</a>
+      </li>
+      {% if page.tags %}
+        <li class="list-inline-item">
+          Tags:
+          <span class="mr-1">
+            {% assign tag_list = page.tags | split: "," %}
+            {% for tag in tag_list %}
+              {% assign tag_name = tag | strip %}
+              {% if tag_name != "" %}
+                <a href="/tags/{{ tag_name | uri_escape }}">{{ tag_name }}</a>
+              {% endif %}
+            {% endfor %}
+          </span>
+        </li>
+      {% endif %}
+    </ul>
 
-		<div class="article-content">
-			<!--contents-->
-		</div>
+    <div class="article-content">
+      {{ content }}
+    </div>
 
-		<% if (info.license) { %>
-			<div class="card bg-faded mt-5">
-				<div class="card-block">
-					<h4 class="card-title">License</h4>
-					<p class="card-text"><%- include('licenses/' + info.license + '.txt') %></p>
-				</div>
-			</div>
-		<% } %>
-	</div>
+    {% if page.license %}
+      <div class="card bg-faded mt-5">
+        <div class="card-block">
+          <h4 class="card-title">License</h4>
+          <p class="card-text">{% include license_text.html license=page.license %}</p>
+        </div>
+      </div>
+    {% endif %}
+  </div>
 </div>
 
-<%- include('layoutFoot'); %>
+{% include layout_foot.html %}

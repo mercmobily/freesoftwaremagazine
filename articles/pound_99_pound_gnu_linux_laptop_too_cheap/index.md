@@ -70,6 +70,6 @@ So come on Elonex, prove my doubting conscience wrong. Prove that a sub--£100 l
 
 # References
 
-[1] [Elonex ONE](http://www.elonexone.co.uk)
+1. [Elonex ONE](http://www.elonexone.co.uk)
 
-[2] [Asus EeePC](http://eeepc.asus.com/global/product.htm)
+2. [Asus EeePC](http://eeepc.asus.com/global/product.htm)

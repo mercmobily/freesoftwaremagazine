@@ -9,8 +9,7 @@ section: end_users
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '1'
-layout: book.html
-
+layout: book
 ---
 Counting your blessings is good for the soul -- not to mention for convincing yourself and any investors that your project will succeed. Free culture is highly conservative, because it's possible to simply reuse ideas (and sometimes actual artifacts) with little to no cost. Here's seven things I'm really glad I _don't_ have to worry about in designing the production model for our free culture animated series _Lunatics_.
 

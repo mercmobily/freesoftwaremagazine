@@ -7,8 +7,7 @@ license: verbatim_only
 listed: 'true'
 book: autotools_a_guide_to_autoconf_automake_libtool
 book_weight: '4'
-layout: book.html
-
+layout: book
 ---
 The person who invented the concept of shared libraries should be given a raise... and a bonus. The person who decided that shared library management and naming conventions should be left to the implementation should be flogged. 
 

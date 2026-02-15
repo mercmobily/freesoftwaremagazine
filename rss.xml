@@ -1,41 +1,23 @@
 ---
-postProcessFilters: template-ejs
-delayPostProcess: true
+layout: null
 ---
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-
-<channel>
-  <title>Free Software Magazine</title>
-  <link>http://www.freesoftwaremagazine.com/</link>
-  <description>The magazine for the free software world</description>
-  <language>en</language>
-
-<% for( var i=0; i < 50; i++ ){ 
-  var a = info.fullList[ i ];
-%>
-
-
-<% if( a ){ %>
-  <item>
-    <title><%=a.info.title%></title>
-    <link>http://www.freesoftwaremagazine.com/<%=a.system.filePath%>/</link>
-    <putDate><%=a.info.published ? a.info.published.substr(0,10) : ''%></pubDate>
-    <description><%=a.info.summary%></description>
-    <author><%=a.info.authors%></author>
-    <category><%=a.info.section ? a.info.section.replace('_',' ') : ''%></category>
-  </item>
-<% }; %>
-
-
-
-<% }; %>
-
-</channel>
-
+  <channel>
+    <title>Free Software Magazine</title>
+    <link>http://www.freesoftwaremagazine.com/</link>
+    <description>The magazine for the free software world</description>
+    <language>en</language>
+{% assign article_pages = site.pages | where_exp: "p", "p.path contains 'articles/' and p.name == 'index.md' and p.listed == 'true'" | sort: "published" | reverse %}
+{% for a in article_pages limit: 50 %}
+    <item>
+      <title>{{ a.title | xml_escape }}</title>
+      <link>http://www.freesoftwaremagazine.com{{ a.url }}</link>
+      <pubDate>{{ a.published | date: "%Y-%m-%d" }}</pubDate>
+      <description>{{ a.summary | xml_escape }}</description>
+      <author>{{ a.authors | xml_escape }}</author>
+      <category>{{ a.section | default: "" | replace: "_", " " | xml_escape }}</category>
+    </item>
+{% endfor %}
+  </channel>
 </rss>
-
-
-
-
-

@@ -9,8 +9,7 @@ section: opinions
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '2'
-layout: book.html
-
+layout: book
 ---
 <!--Artists should be paid, Part 3: The Big Picture -->
 
@@ -129,13 +128,13 @@ Overall, I find these estimates very promising. Based on previous productions it
 
 [1] The music breakdown is explained in the previous column, ['Artists should be paid, Part 2: What's "fair"?'](http://www.freesoftwaremagazine.com/columns/artists_should_be_paid_part_2_whats_fair)
 
-[2] ['Some numbers from the Sita Distribution Project'](http://questioncopyright.org/sita-distribtion-numbers)
+2. ['Some numbers from the Sita Distribution Project'](http://questioncopyright.org/sita-distribtion-numbers)
 
-[3] ['Tuition Costs'](http://www.utexas.edu/tuition/costs.html) from [The University of Texas](http://www.utexas.edu)
+3. ['Tuition Costs'](http://www.utexas.edu/tuition/costs.html) from [The University of Texas](http://www.utexas.edu)
 
 [4] Budget figure from ['Elephants Dream'](http://en.wikipedia.org/wiki/Elephants_Dream) Wikipedia entry. I also fact-checked this directly with Ton Roosendaal when it came out
 
-[5] ['Sintel'](http://en.wikipedia.org/wiki/Sintel) Wikipedia entry budget (also available from [Blender Foundation](http://www.blender.org))
+5. ['Sintel'](http://en.wikipedia.org/wiki/Sintel) Wikipedia entry budget (also available from [Blender Foundation](http://www.blender.org))
 
 
 =TEXTBOX_START=Licensing Notice=

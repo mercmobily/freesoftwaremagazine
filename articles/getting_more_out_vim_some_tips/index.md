@@ -19,7 +19,7 @@ I'm going to assume you are familiar with the basics of Vim: moving the cursor, 
 
 * **[{** _move to the beginning of the current codeblock_  
 This one depends upon the language you are coding in, but it works pretty much wherever there are clear demarcations of code blocks. `]}` moves to the end of the current codeblock.
-* **:<line_num>** _go to <line_num>_  
+* **:`<line_num>`** _go to `<line_num>`_  
 Okay an obvious one but worth mentioning because I have seen people scrolling up and down to get to a specific line number.
 * **Ctrl+O** _put cursor back to its previous location_  
 Often I find myself adding break points of making debugging code in several places within a file. Once the debug is finished, finding and removing these can be a pain. Ctrl+O (not zero) will move the cursor backwards within the locations where you changed the file. Think of it like an undo without actually performing the undo. `Ctrl+I` will move forward in the list of locations.
@@ -27,7 +27,7 @@ Often I find myself adding break points of making debugging code in several plac
 # Editing
 
 * **xp** _reverse the next two characters_  
-It's surprising how many typos involve two characters being typed in the w_or_ng order (see what I did there?). Correct them with just two keystrokes.
+It's surprising how many typos involve two characters being typed in the w\_or\_ng order (see what I did there?). Correct them with just two keystrokes.
 * **Ctrl+P** autocomplete the current word_  
 I lose track of how many times I used to be dubugging and find the problem was that I was using two slightly different variable names to refer to the same thing. This command will toggle through the available words in the file and/or dictionary in an attempt to complete the one you have started. `Ctrl+P` does this by going forward through the list of words. `Ctrl+N` does it by going backwards.
 * **n.** _repeat the previous command `n` times_  

@@ -257,12 +257,11 @@ Power interruptions are a common problem in many areas and can cause eventual fa
 
 # Bibliography
 
-[1] [Network UPS Tools](http://www.networkupstools.org/)
+1. [Network UPS Tools](http://www.networkupstools.org/)
 
-[2] [Apcupsd, APC UPS Daemon](http://www.apcupsd.org/)
+2. [Apcupsd, APC UPS Daemon](http://www.apcupsd.org/)
 
-[3] [Webmin, Web based system administration](http://www.webmin.com/)
+3. [Webmin, Web based system administration](http://www.webmin.com/)
 
- [3] [Debian GNU/Linux](http://www.debian.org/)
-
+4. [Debian GNU/Linux](http://www.debian.org/)
 

@@ -7,8 +7,7 @@ license: verbatim_only
 listed: 'true'
 book: autotools_a_guide_to_autoconf_automake_libtool
 book_weight: '0'
-layout: book.html
-
+layout: book
 ---
 I'm going to make a rather broad and sweeping statement here: If you're writing free or open source software targeting Unix or Linux systems, then you should be using the GNU Autotools. I'm sure I sound a bit biased, but I'm not. And I shouldn't be, given the number of long nights I've spent working around what appeared to be shortcomings in the Autotools system. Normally, I would have been angry enough to toss the entire project out the window and write a good hand-coded makefile and configure script. But the one fact that I always came back to was that there are literally thousands of projects out there that appear to be very successfully using the Autotools. This was too much for me. My pride would never let me give up. 
 

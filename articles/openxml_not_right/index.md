@@ -9,7 +9,7 @@ section: opinions
 listed: 'true'
 
 ---
-Microsoft have published an open letter entitled "Interoperability,Choice and Open XML"[1].  I often like to think that I am neversurprised by the exaggerations, obfuscations and general untruths thatcome out of Microsoft: this letter shows their capacity of doing justthat.
+Microsoft have published an open letter entitled "Interoperability,Choice and Open XML" [1].  I often like to think that I am neversurprised by the exaggerations, obfuscations and general untruths thatcome out of Microsoft: this letter shows their capacity of doing justthat.
 
 
 <!--break-->
@@ -87,5 +87,4 @@ Dear Tom and Jean,. Regarding your accusation that IBM is derailing Microsoft's 
 
 # references
 
-[1] [Microsoft's open letter](http://www.microsoft.com/interop/letters/choice.mspx)
-
+1. [Microsoft's open letter](http://www.microsoft.com/interop/letters/choice.mspx)

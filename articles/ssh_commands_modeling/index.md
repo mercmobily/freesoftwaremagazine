@@ -7,8 +7,7 @@ license: verbatim_only
 listed: 'true'
 book: network_monitoring_with_zenoss
 book_weight: '-4'
-layout: book.html
-
+layout: book
 ---
 A really sharp admin would probably be able to set up SNMP on my virtual server and keep it secure. _I_, however, have no confidence in my ability to do this, so I at first despaired of using Zenoss to support my web server (which would've been a shame).
 

@@ -81,7 +81,7 @@ Here we've used the `cut` command to remove the '0' and '1' flags at the beginni
 
 =IMG_CLEAR=8.png==
 
-_For more on `cut`, see its [Wikipedia entry](http://en.wikipedia.org/wiki/Cut_%28Unix%29)_
+For more on `cut`, see its Wikipedia entry (http://en.wikipedia.org/wiki/Cut_%28Unix%29).
 
 __7. Split the text file on 'break'.__ Enter the command
 

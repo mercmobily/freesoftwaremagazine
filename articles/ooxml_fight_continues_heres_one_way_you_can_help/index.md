@@ -15,7 +15,7 @@ The fight against the adoption of OOXML as an ISO standard is continuing in many
 
 # Rumours and questions
 
-Following the International Organization for Standardization (ISO) decision to fast track acceptance of Microsoft's OOXML as a standard in March, many people (not just those in the FOSS community) were up in arms. I won't go into the debacle of the ISO process and the vote on fast tracking itself here. You can read more about that on this site[[1]](#references) and on countless other blogs across the web. Suffice to say that many citizens of several countries were very unhappy about the way their country voted. In Britain the vote was made by the BSI and it too was followed by questions over the process taken. 
+Following the International Organization for Standardization (ISO) decision to fast track acceptance of Microsoft's OOXML as a standard in March, many people (not just those in the FOSS community) were up in arms. I won't go into the debacle of the ISO process and the vote on fast tracking itself here. You can read more about that on this site [1](#references) and on countless other blogs across the web. Suffice to say that many citizens of several countries were very unhappy about the way their country voted. In Britain the vote was made by the BSI and it too was followed by questions over the process taken. 
 
 The UKUUG officially voiced many of the objections that were flying around at the time (and still are):
 
@@ -49,7 +49,7 @@ I'll leave the final comment to Alain Williams, Chairman of UKUUG:
 
 > "We are concerned about future generations being able to access today's electronic documents. That can only happen with fully disclosed document formats. To ensure continued profits, Microsoft prevents effective competition in word processors by keeping file formats secret. Adopting OOXML would be like setting to sea in a sieve, [Lear's Jumblies](http://www.nonsenselit.org/Lear/ns/jumblies.html) might make sense of it, but I can't."
 
-# References {#references}
+# References
 
 **[1] Further reading on OOXML at Free Software Magazine**
 
@@ -63,7 +63,7 @@ I'll leave the final comment to Alain Williams, Chairman of UKUUG:
 **Other information on OOXML**
 
 * [OOXML at Wikipedia](http://en.wikipedia.org/wiki/Office_Open_XML)
-* [<No> OOXML (OOXML opposition site)](http://www.noooxml.org)
+* [No OOXML (OOXML opposition site)](http://www.noooxml.org)
 * [Six questions to national standardisation bodies - Free Software Federation Europe](http://fsfeurope.org/documents/msooxml-questions)
 * [ECMA/OOXML objections at Grokdoc](http://www.grokdoc.net/index.php/EOOXML_objections)
 

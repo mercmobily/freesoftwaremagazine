@@ -88,7 +88,7 @@ italicized text</i>
 
 And what's wrong here? Well, it is very troublesome.
 
-The DOM is supposed to be a tree. This means that an element can contain several elements, but elements can't overlap. In the example used above, closing the bold tag should make the italic tag automatically close (and the closing tag </i> is, thus, a coding error), but since italics must be explicitly closed, we have here _two_ coding errors: an unclosed italic tag, and an unexpected italic closure.
+The DOM is supposed to be a tree. This means that an element can contain several elements, but elements can't overlap. In the example used above, closing the bold tag should make the italic tag automatically close (and the closing tag `</i>` is, thus, a coding error), but since italics must be explicitly closed, we have here _two_ coding errors: an unclosed italic tag, and an unexpected italic closure.
 
 How do browsers deal with this wrong mark-up?
 

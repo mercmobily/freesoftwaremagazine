@@ -118,30 +118,29 @@ We live in a time where digital technology enables individuals to produce and di
 
 # Bibliography
 
-[1] [Music market](http://en.wikipedia.org/wiki/Music_market), Wikipedia
+1. [Music market](http://en.wikipedia.org/wiki/Music_market), Wikipedia
 
-[2] Client programs for various peer-to-peer networks that are free software: [eMule](http://www.emule-project.net), [MLDonkey](http://mldonkey.sourceforge.net), [Gnucleus](http://www.gnucleus.com/Gnucleus/) (Windows only) or [LimeWire](http://www.limewire.com/)
+2. Client programs for various peer-to-peer networks that are free software: [eMule](http://www.emule-project.net), [MLDonkey](http://mldonkey.sourceforge.net), [Gnucleus](http://www.gnucleus.com/Gnucleus/) (Windows only) or [LimeWire](http://www.limewire.com/)
 
-[3] Some free software BitTorrent clients: [Azureus](http://azureus.sourceforge.net/), [BitTornado](http://bittornado.com/) or [Transmission](http://transmission.m0k.org/)
+3. Some free software BitTorrent clients: [Azureus](http://azureus.sourceforge.net/), [BitTornado](http://bittornado.com/) or [Transmission](http://transmission.m0k.org/)
 
-[4] [The reasons to get rid of the major record labels](http://www.downhillbattle.org/reasons/), Downhill Battle
+4. [The reasons to get rid of the major record labels](http://www.downhillbattle.org/reasons/), Downhill Battle
 
-[5] Various proposals summed up: [Making P2P Pay Artists](http://www.eff.org/share/compensation.php), Electronic Frontier Foundation (EFF); and an outlined proposal: [A Better Way Forward: Voluntary Collective Licensing of Music File Sharing](http://www.eff.org/share/collective_lic_wp.php), EFF
+5. Various proposals summed up: [Making P2P Pay Artists](http://www.eff.org/share/compensation.php), Electronic Frontier Foundation (EFF); and an outlined proposal: [A Better Way Forward: Voluntary Collective Licensing of Music File Sharing](http://www.eff.org/share/collective_lic_wp.php), EFF
 
-[6] [Grandmother piracy lawsuit dropped](http://news.bbc.co.uk/1/hi/entertainment/music/3140160.stm), BBC News;[RIAA sues computer-less family](http://arstechnica.com/news.ars/post/20060424-6662.html), Ars Technica;[“I sue dead people...”](http://arstechnica.com/news.ars/post/20050204-4587.html), Ars Technica
+6. [Grandmother piracy lawsuit dropped](http://news.bbc.co.uk/1/hi/entertainment/music/3140160.stm), BBC News;[RIAA sues computer-less family](http://arstechnica.com/news.ars/post/20060424-6662.html), Ars Technica;[“I sue dead people...”](http://arstechnica.com/news.ars/post/20050204-4587.html), Ars Technica
 
-[7] [Exonerated defendant sues RIAA for malicious prosecution](http://arstechnica.com/news.ars/post/20070625-exonerated-defendant-sues-riaa-for-malicious-prosecution.html), Ars Technica
+7. [Exonerated defendant sues RIAA for malicious prosecution](http://arstechnica.com/news.ars/post/20070625-exonerated-defendant-sues-riaa-for-malicious-prosecution.html), Ars Technica
 
-[8] [Concentration of media ownership](http://en.wikipedia.org/wiki/Concentration_of_media_ownership), Wikipedia
+8. [Concentration of media ownership](http://en.wikipedia.org/wiki/Concentration_of_media_ownership), Wikipedia
 
-[9] [Hacking Digital Rights Management](http://arstechnica.com/articles/culture/drmhacks.ars), Ars Technica
+9. [Hacking Digital Rights Management](http://arstechnica.com/articles/culture/drmhacks.ars), Ars Technica
 
-[10] [HDCP: beta testing DRM on the public?](http://arstechnica.com/news.ars/post/20070121-8665.html), Ars Technica; [Why you should boycott Blu-ray and HD-DVD](http://bluraysucks.com/), Blu-Ray Sucks
+10. [HDCP: beta testing DRM on the public?](http://arstechnica.com/news.ars/post/20070121-8665.html), Ars Technica; [Why you should boycott Blu-ray and HD-DVD](http://bluraysucks.com/), Blu-Ray Sucks
 
-[11] [Artists sue Sony for iTunes royalties](http://www.macworld.co.uk/news/index.cfm?NewsID=14495), Macworld; [iTunes and Digital Downloads: An Analysis (continued)](http://www.futureofmusic.org/itunes2.cfm), Future of Music Coalition
+11. [Artists sue Sony for iTunes royalties](http://www.macworld.co.uk/news/index.cfm?NewsID=14495), Macworld; [iTunes and Digital Downloads: An Analysis (continued)](http://www.futureofmusic.org/itunes2.cfm), Future of Music Coalition
 
-[12] [Privately, Hollywood admits DRM isn’t about piracy](http://arstechnica.com/news.ars/post/20070115-8616.html), Ars Technica
+12. [Privately, Hollywood admits DRM isn’t about piracy](http://arstechnica.com/news.ars/post/20070115-8616.html), Ars Technica
 
-[13] Lawrence Lessig: [Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity](http://www.free-culture.cc/freecontent/), 2004, p. 28
-
+13. Lawrence Lessig: [Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity](http://www.free-culture.cc/freecontent/), 2004, p. 28
 

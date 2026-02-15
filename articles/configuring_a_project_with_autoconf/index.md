@@ -9,8 +9,7 @@ main_image: hide.jpg
 listed: 'true'
 book: autotools_a_guide_to_autoconf_automake_libtool
 book_weight: '2'
-layout: book.html
-
+layout: book
 ---
 We should all be very grateful to David MacKenzie for having the foresight to--metaphorically speaking--stop and sharpen the ax. Otherwise we'd still be writing (copying) and maintaining long, complex hand-coded `configure` scripts today.
 

@@ -9,8 +9,7 @@ section: opinions
 listed: 'true'
 book: making_the_impossible_happen_the_rules_of_free_culture
 book_weight: '10'
-layout: book.html
-
+layout: book
 ---
 These days there's a lot of buzz about "Web 2.0" and making websites more interactive, but what's really going on is a reconnection to the community nature of the internet. Collaboration, cooperation, and the information commons are all ideas that pre-dated the world wide web in the form of older internet technologies. In today's distributed computing environment, though, these technologies have really flourished. Here's a guide to eight that you should consider making use of in building a community around an information commons project of any kind, from multimedia, to hardware, to software.
 
@@ -173,8 +172,8 @@ Other         | —
 Web Services  | [Sourceforge](http://sourceforge.net) (packages), [Google Code](http://code.google.net) (packages), [other project hosting](http://en.wikipedia.org/wiki/Comparison_of_free_software_hosting_facilities); [Internet Archive](http://www.archive.org) (content), [Jamendo](http://www.jamendo.com/en) (music), [Flickr](http://www.flickr.com) (images)
               |
 Clients       | [BitTorrent](http://www.bittorrent.com), [_other torrent_](http://en.wikipedia.org/wiki/Comparison_of_BitTorrent_Clients), [_other file sharing_](http://sourceforge.net/softwaremap/trove_list.php?form_cat=251)
-Servers       | [mod_bt](http://www.crackerjack.net/mod_bt) (Apache), [PHPBTTracker+](http://phpbttrkplus.sourceforge.net) (tracker), Infrastructure| [torrents](http://en.wikipedia.org/wiki/BitTorrent_(protocol))
-Services      | [LinuxTracker](http://linuxtracker.org), [TuxDistro](http://www.tuxdistro.com), [TLMP](http://tlm-project.org/public/distributions), [_other torrent sites_](http://bittorrent.wikia.com/wiki/Comparison_of_BitTorrent_sites)
+Servers       | [mod_bt](http://www.crackerjack.net/mod_bt) (Apache), [PHPBTTracker+](http://phpbttrkplus.sourceforge.net) (tracker)
+Infrastructure Services | [torrents](http://en.wikipedia.org/wiki/BitTorrent_(protocol)), [LinuxTracker](http://linuxtracker.org), [TuxDistro](http://www.tuxdistro.com), [TLMP](http://tlm-project.org/public/distributions), [_other torrent sites_](http://bittorrent.wikia.com/wiki/Comparison_of_BitTorrent_sites)
 
 
 ## e-Commerce

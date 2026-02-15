@@ -1,41 +1,35 @@
 ---
-postFilters: layout
-postProcessFilters: template-ejs
-layout: home.html
-makeListLatestVars:
-  _ALL_: 10
-  section.announcements: 4
-  section.end_users: 4
-  section.games: 4
-  section.humour: 4
-  section.interviews: 4
-  section.reviews: 4
-  section.hacking: 4
-  section.opinions: 4
+layout: home
+title: Free Software Magazine
 ---
 
-<% function showList(info, title, section) { %>
-	<h3 class="mt-5"><%= title %></h3>
-	<hr class="mt-0">
-	<div class="row">
-		<!-- FIXME: Generation does not work here -->
-		<% info.listLatestData[section].forEach(function(article) { %>
-			<div class="col-sm-6 col-lg-4 mb-4">
-				<%- include('articleCard', { article: article }); %>
-			</div>
-		<% }); %>
-	</div>
-<% } %>
+{% assign article_pages = site.pages | where_exp: "p", "p.path contains 'articles/' and p.name == 'index.md' and p.listed == 'true'" | sort: "published" | reverse %}
 
-<% showList(info, 'All', '_ALL_') %>
-<% showList(info, 'Development', 'section.opinions') %>
-<% showList(info, 'Hacking', 'section.hacking') %>
-<% showList(info, 'End Users', 'section.end_users') %>
-<% showList(info, 'Games', 'section.games') %>
-<% showList(info, 'Humour', 'section.humour') %>
-<% showList(info, 'Interviews', 'section.interviews') %>
-<% showList(info, 'Reviews', 'section.reviews') %>
-<% showList(info, 'Announcements', 'section.announcements') %>
+{% include article_section.html title="All" articles=article_pages limit=10 %}
+
+{% assign section_articles = article_pages | where: "section", "opinions" %}
+{% include article_section.html title="Development" articles=section_articles limit=4 %}
+
+{% assign section_articles = article_pages | where: "section", "hacking" %}
+{% include article_section.html title="Hacking" articles=section_articles limit=4 %}
+
+{% assign section_articles = article_pages | where: "section", "end_users" %}
+{% include article_section.html title="End Users" articles=section_articles limit=4 %}
+
+{% assign section_articles = article_pages | where: "section", "games" %}
+{% include article_section.html title="Games" articles=section_articles limit=4 %}
+
+{% assign section_articles = article_pages | where: "section", "humour" %}
+{% include article_section.html title="Humour" articles=section_articles limit=4 %}
+
+{% assign section_articles = article_pages | where: "section", "interviews" %}
+{% include article_section.html title="Interviews" articles=section_articles limit=4 %}
+
+{% assign section_articles = article_pages | where: "section", "reviews" %}
+{% include article_section.html title="Reviews" articles=section_articles limit=4 %}
+
+{% assign section_articles = article_pages | where: "section", "announcements" %}
+{% include article_section.html title="Announcements" articles=section_articles limit=4 %}
 
 <hr class="my-5">
 

@@ -43,12 +43,12 @@ The most basic XSL style sheet is one that does nothing at all. Of course, there
 
 # Introducing the XSL template
 
-A real HTML document should have tags and currently `output.html` has none. To make a valid HTML file I’ll need to fix up the XSL style sheet to at least produce <html>, <head> and <body> tags in the appropriate places. This can be done by adding a single XSLT processing rule called a template. You can think of an XSLT template as being like a word processor’s find-and-replace feature. You use the “match” attribute to tell the template what XML element it should find. Everything between the template’s starting and ending tags is the replacement text. To convert my margarita recipe to HTML I need my style sheet to match the recipe element in the XML source file and replace it with appropriate HTML elements in the output document.
+A real HTML document should have tags and currently `output.html` has none. To make a valid HTML file I’ll need to fix up the XSL style sheet to at least produce `<html>`, `<head>` and `<body>` tags in the appropriate places. This can be done by adding a single XSLT processing rule called a template. You can think of an XSLT template as being like a word processor’s find-and-replace feature. You use the “match” attribute to tell the template what XML element it should find. Everything between the template’s starting and ending tags is the replacement text. To convert my margarita recipe to HTML I need my style sheet to match the recipe element in the XML source file and replace it with appropriate HTML elements in the output document.
 
 
 =IMAGE=figure2.jpg=HTML tags are here, but the recipe’s gone!=
 
-It wasn’t hard to add the template rule to my `recipe-style.xsl` style sheet and get the HTML tags I wanted to see. Unfortunately, although I am one step closer to a valid HMTL document, it seems that all of the recipe’s content has now disappeared. This is because I have started using processing rules in my style sheet, but I have not followed through by specifying where to place the recipe’s content. Adding a simple <xsl:apply-templates /> element between the HTML <body> tags will fix things up and get my recipe content back.
+It wasn’t hard to add the template rule to my `recipe-style.xsl` style sheet and get the HTML tags I wanted to see. Unfortunately, although I am one step closer to a valid HMTL document, it seems that all of the recipe’s content has now disappeared. This is because I have started using processing rules in my style sheet, but I have not followed through by specifying where to place the recipe’s content. Adding a simple `<xsl:apply-templates />` element between the HTML `<body>` tags will fix things up and get my recipe content back.
 
 
 =IMAGE=figure3.jpg=<apply-templates /> brings the recipe’s content back=
@@ -73,11 +73,11 @@ Since I am to catering to people with older, proprietary browsers and text-only 
 
 # The value of a title
 
-My recipe already has the title displayed as a nice big level-one heading, but it really should have a title between the HTML <head> tags as well. It’s not a big deal in terms of the look of the document, but it is required for my output to be considered valid HTML.
+My recipe already has the title displayed as a nice big level-one heading, but it really should have a title between the HTML `<head>` tags as well. It’s not a big deal in terms of the look of the document, but it is required for my output to be considered valid HTML.
 
-I already have a template for the XML title element that displays it between <h1> tags in the HTML output and now I need to use the title again in another place, this time between <title> tags. While it is possible to write two templates for the title element and apply them differently in different situations, it is far easier to use an XSL <value-of /> element.
+I already have a template for the XML title element that displays it between `<h1>` tags in the HTML output and now I need to use the title again in another place, this time between `<title>` tags. While it is possible to write two templates for the title element and apply them differently in different situations, it is far easier to use an XSL `<value-of />` element.
 
-Remember when I said that templates were like using find-and-replace in a word processor? Well, <value-of /> is like using just the find without the replace, and it uses a select attribute to specify what to find. For example, if I want to know what text is between the <title> tags in my XML document I would simply use <value-of select="title" /> in my XSL style sheet to find it. Strategically placing this value-of element in my XSL style sheet will result in the recipe title appearing in the HTML header of my output as well as in the body. The result doesn’t look that much different in a browser, but by adding this title the HTML will now pass [W3C’s markup validation](http://validator.w3.org).
+Remember when I said that templates were like using find-and-replace in a word processor? Well, `<value-of />` is like using just the find without the replace, and it uses a select attribute to specify what to find. For example, if I want to know what text is between the `<title>` tags in my XML document I would simply use `<value-of select="title" />` in my XSL style sheet to find it. Strategically placing this value-of element in my XSL style sheet will result in the recipe title appearing in the HTML header of my output as well as in the body. The result doesn’t look that much different in a browser, but by adding this title the HTML will now pass [W3C’s markup validation](http://validator.w3.org).
 
 
 =IMAGE=figure5.jpg=HTML that validates=

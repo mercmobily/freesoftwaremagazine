@@ -353,7 +353,7 @@ This is a real issue because it will be much easier to simply give a numeric pho
 Theoretically, [ENUM](http://en.wikipedia.org/wiki/ENUM) is the standard for this purpose; it associates your real phone number with VoIP. This is a great solution, but the official implementation must use the e164.arpa domain and is dependant upon government decisions.  Here is the list of the [countries using ENUM](http://ENUMdata.org/). As you can see, there are only a few in actively operative. In the meantime, there is a [public ENUM server](http://www.e164.org/), but this is unofficial and users in most countries should register with the server.  At present the situation is far from optimum. Ekiga.net provides a [access to those numbers](http://wiki.Ekiga.org/index.php/Enum).
 
 As there is no widely accepted standard yet, most SIP provider use peering
-(e.g., for [Ekiga.net] (http://wiki.Ekiga.org/index.php/Peering)) to
+(e.g., for [Ekiga.net](http://wiki.Ekiga.org/index.php/Peering)) to
 connect to other SIP networks, but this raises an issue when giving out your
 SIP number as it will change depending on the provider used.
 

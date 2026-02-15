@@ -163,7 +163,7 @@ I personally use SpamOracle and a few custom procmail filters as a user on that 
 
 It’s letting up to a dozen spam emails through to my inbox daily with anywhere between 120 and over 200 getting junked (including bounces), and between 3 and 10 solicited personal emails (mostly from people using Outlook or the Bat!) being false positives. Scary but not serious enough to change.
 
-We plan to deploy SpamAssassin or DSPAM [6] (most likely the latter) as the new hosting server added to the pool should handle that. The older one is already way too busy, it’s just a Duron 800/512M.
+We plan to deploy SpamAssassin or DSPAM [6], most likely the latter, as the new hosting server added to the pool should handle that. The older one is already way too busy, it’s just a Duron 800/512M.
 
 **Do you know if there are techniques and technologies being used to fight spam developed in the Ukraine, either in the universities or in the IT companies? If so, who developed them?**
 
@@ -181,14 +181,12 @@ In the next parts, we’ll try to complete the puzzle and, hopefully, we’ll di
 
 [1] Tom Stoppard. Accidental tyranny. _The Guardian_, Oct. 1st, 2005.
 
-[2] [Radio Free Europe/Radio Liberty](http://www.rferl.org/featuresarchive/country/belarus.html), 2005.
+2. [Radio Free Europe/Radio Liberty](http://www.rferl.org/featuresarchive/country/belarus.html), 2005.
 
 [3] Peter Böhm. Der graueste Flecken auf Erden. _Die Weltwoche_, (32), 2005.
 
-[4] [Radio Free Europe/Radio Liberty](http://www.rferl.org/featuresarchive/country/turkmenistan.html), 2005.
+4. [Radio Free Europe/Radio Liberty](http://www.rferl.org/featuresarchive/country/turkmenistan.html), 2005.
 
 [5] Daniel James. [The content tail wags the IT dog](http://www.freesoftwaremagazine.com/free_issues/issue_01/content_tail). _Free Software Magazine_, (1), February 2005.
 
 [6] John Locke. [Mail servers: resolving the identity crisis](http://www.freesoftwaremagazine.com/free_issues/issue_02/focus_spam_dspam). _Free Software Magazine_, (2), March 2005.
-
-

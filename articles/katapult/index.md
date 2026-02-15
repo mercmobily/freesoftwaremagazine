@@ -42,5 +42,4 @@ All in all, Katapult is a terrific must-have app. In a few days, you’ll find y
 * [Forum](http://katapult.kde.org/forums/)
 * [Screenshots](http://katapult.kde.org/screenshots)
 * [Handbook](http://katapult.kde.org/handbook)
-* [Creating a Catalog (Plugin)](http://katapult.kde.org/handbook#Creating_a_Catalog_.28Plugin.29)
-
+* [Creating a Catalog (Plugin)](http://katapult.kde.org/handbook)

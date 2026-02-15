@@ -10,7 +10,7 @@ section: announcements
 listed: 'true'
 
 ---
-Hello readers, and welcome once again to [Free Software Magazine] (http://www.freesoftwaremagazine.com/)'s fortnightly newsletter, keeping you up to date with all things free software... AND the top 10 FSDaily announcements for this week! Enjoy!
+Hello readers, and welcome once again to [Free Software Magazine](http://www.freesoftwaremagazine.com/)'s fortnightly newsletter, keeping you up to date with all things free software... AND the top 10 FSDaily announcements for this week! Enjoy!
 
 General announcements
 =====================

@@ -9,8 +9,7 @@ section: hacking
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '0'
-layout: book.html
-
+layout: book
 ---
 <!-- MediaWiki and Script Translation for the Morevna Project -->
 

@@ -298,15 +298,15 @@ The positive aspect is about features: no commercial/closed solution can give yo
 
 # Bibliography
 
-[1] [http://linuxtv.org](http://linuxtv.org)
+1. [http://linuxtv.org](http://linuxtv.org)
 
-[2] [http://linuxtv.org/v4lwiki/index.php/Cardlist.BTTV](http://linuxtv.org/v4lwiki/index.php/Cardlist.BTTV)
+2. [http://linuxtv.org/v4lwiki/index.php/Cardlist.BTTV](http://linuxtv.org/v4lwiki/index.php/Cardlist.BTTV)
 
-[3] [http://www.lirc.org](http://www.lirc.org)
+3. [http://www.lirc.org](http://www.lirc.org)
 
- [4] [http://www.mythtv.org](http://www.mythtv.org)
+4. [http://www.mythtv.org](http://www.mythtv.org)
 
- [5] [http://www.freevo.org](http://www.freevo.org)
+5. [http://www.freevo.org](http://www.freevo.org)
 
- [6] [http://xmltv.org/wiki/](http://xmltv.org/wiki/)
+6. [http://xmltv.org/wiki/](http://xmltv.org/wiki/)
 

@@ -108,6 +108,6 @@ With Fail2ban running, you'll see entries in your `/var/log/auth.log` file showi
 
 Fail2ban will help immensely in preventing hackers from logging into your computer. However, this still allows them 3 tries, of which one may be successful. 
 
-[1] [China admits cyber warriors](http://fortune.com/2015/03/26/china-admits-cyber-warriors/)
+1. [China admits cyber warriors](http://fortune.com/2015/03/26/china-admits-cyber-warriors/)
 
-[2] [Chinese Hacking of Fortune 500 Companies](http://www.c-span.org/video/?314832-6/chinese-hacking-fortune-500-comapnies)
+2. [Chinese Hacking of Fortune 500 Companies](http://www.c-span.org/video/?314832-6/chinese-hacking-fortune-500-comapnies)

@@ -1,20 +1,18 @@
+---
+layout: generic
+title: Issues
+---
+
 <h3 class="text-center mb-4">Issues</h3>
 
 <div class="row">
-	<%
-		var issues = 24;
-		for (i = 0; i <= issues; i++) { 
-			var pad = "00";
-			var i_str = "" + i;
-			var i_pad = pad.substring(0, pad.length - i_str.length) + i_str;
-	%>
-		<div class="col-6 col-sm-4 col-lg-3 mb-4">
-			<%- include('../_includes/issueCard', {
-				'url': 'issue_' + i_pad,
-				'img': 'http://placehold.it/200x300',
-				'title': 'Issue ' + i_str,
-				'date': 'Date here' // FIXME: Add date
-			}) %>
-		</div>
-	<% } %>
+  {% for i in (0..24) %}
+    {% assign i_str = i | append: "" %}
+    {% assign i_pad = i_str | prepend: "00" | slice: -2, 2 %}
+    {% assign issue_url = "/issues/issue_" | append: i_pad | append: "/" %}
+    {% assign issue_title = "Issue " | append: i_str %}
+    <div class="col-6 col-sm-4 col-lg-3 mb-4">
+      {% include issue_card.html url=issue_url img="http://placehold.it/200x300" title=issue_title date="Date here" %}
+    </div>
+  {% endfor %}
 </div>

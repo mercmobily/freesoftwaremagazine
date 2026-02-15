@@ -64,17 +64,17 @@ As with the Blender Foundation's previous open movie projects, the entire produc
 
 # References
 
-[1] [About the Durian Project](http://durian.blender.org/about/) and the [Production Blog](http://durian.blender.org/)
+1. [About the Durian Project](http://durian.blender.org/about/) and the [Production Blog](http://durian.blender.org/)
 
-[2] Images from [David Revoy's Portfolio](http://www.davidrevoy.com/)
+2. Images from [David Revoy's Portfolio](http://www.davidrevoy.com/)
 
-[3] Images from [Angela Guenette Demo Reel](http://www.youtube.com/watch?v=1dU2YSKGKpU), also [Alien Soldier Torso 3D Model Turnaround](http://www.youtube.com/watch?v=NmHIUFIKw-E), [Human Female Dummy Walk Cycle and Pose](http://www.youtube.com/watch?v=n2OomFgfWL0), [Human Female Dummy Sitting Pose](http://www.youtube.com/watch?v=lZHS1SKwKSk)
+3. Images from [Angela Guenette Demo Reel](http://www.youtube.com/watch?v=1dU2YSKGKpU), also [Alien Soldier Torso 3D Model Turnaround](http://www.youtube.com/watch?v=NmHIUFIKw-E), [Human Female Dummy Walk Cycle and Pose](http://www.youtube.com/watch?v=n2OomFgfWL0), [Human Female Dummy Sitting Pose](http://www.youtube.com/watch?v=lZHS1SKwKSk)
 
-[4] Images from [Nathan Vegdahl Portfolio Video](http://www.youtube.com/watch?v=I2fpDXfbIIw)
+4. Images from [Nathan Vegdahl Portfolio Video](http://www.youtube.com/watch?v=I2fpDXfbIIw)
 
-[5] Images from [Soenke Maeter Portfolio](http://www.visual-noise.org/)
+5. Images from [Soenke Maeter Portfolio](http://www.visual-noise.org/)
 
-[6] Images from [Ben Dansie Durian Application Video](http://vimeo.com/5252715)
+6. Images from [Ben Dansie Durian Application Video](http://vimeo.com/5252715)
 
 =TEXTBOX_START=Licensing Notice=
 The text of this work may be distributed under the terms of the [Creative Commons Attribution License, version 3.0](http://creativecommons.org/licenses/by/3.0), with attribution to "Terry Hancock, first published in [Free Software Magazine](http://www.freesoftwaremagazine.com)".

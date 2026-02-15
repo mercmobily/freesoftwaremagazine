@@ -9,8 +9,7 @@ section: hacking
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '1'
-layout: book.html
-
+layout: book
 ---
 <!-- Understanding Surround and Binaural Sound -->
 

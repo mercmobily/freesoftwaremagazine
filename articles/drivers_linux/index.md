@@ -84,7 +84,7 @@ I’ll now show you how to develop your first Linux device driver, which will be
 
 For this purpose I’ll write the following program in a file named `nothing.c`
 
-_<nothing.c> =_
+`<nothing.c> =`
 
 
 =CODE_START=
@@ -102,7 +102,7 @@ Since the release of kernel version 2.6.x, compiling modules has become slightly
 
 Next, you need to generate a makefile. The makefile for this example, which should be named `Makefile`, will be:
 
-_<Makefile1> =_
+`<Makefile1> =`
 
 
 =CODE_START=
@@ -166,7 +166,7 @@ These tasks are performed, in kernel space, by two functions which need to be pr
 
 Let’s see a practical example with the classic program `Hello world`:
 
-_<hello.c> =_
+`<hello.c> =`
 
 
 =CODE_START=
@@ -200,7 +200,7 @@ The `printk` function has also been introduced. It is very similar to the well k
 
 This module can be compiled using the same command as before, after adding its name into the Makefile.
 
-_<Makefile2> =_
+`<Makefile2> =`
 
 
 =CODE_START=
@@ -242,7 +242,7 @@ I’ll now show how to build a complete device driver: `memory.c`. This device w
 
 To develop this driver, several new `#include` statements which appear frequently in device drivers need to be added:
 
-_<memory initial> =_
+`<memory initial> =`
 
 
 =CODE_START=
@@ -312,7 +312,7 @@ In the above, `c` means that a `char` device is to be created, `60` is the `majo
 
 Within the driver, in order to link it with its corresponding `/dev` file in kernel space, the `register_chrdev` function is used. It is called with three arguments: `major number`, a string of characters showing the module name, and a `file_operations` structure which links the call with the file functions it defines. It is invoked, when installing the module, in this way:
 
-_<memory init module> =_
+`<memory init module> =`
 
 
 =CODE_START=
@@ -360,7 +360,7 @@ Also, note the use of the `kmalloc` function. This function is used for memory a
 
 In order to remove the module inside the `memory_exit` function, the function `unregsiter_chrdev` needs to be present. This will free the `major number` for the kernel.
 
-_<memory exit module> =_
+`<memory exit module> =`
 
 
 =CODE_START=
@@ -394,7 +394,7 @@ When a file is opened, it’s normally necessary to initialize driver variables 
 
 The `memory_open` function can be seen below:
 
-_<memory open> =_
+`<memory open> =`
 
 
 =CODE_START=
@@ -434,7 +434,7 @@ When a file is closed, it’s usually necessary to free the used memory and any 
 
 The `memory_release` function is shown below:
 
-_<memory release> =_
+`<memory release> =`
 
 
 <!--pagebreak-->
@@ -476,7 +476,7 @@ To read a device with the user function `fread` or similar, the member `read:` o
 
 In this simple case, the `memory_read` function transfers a single byte from the driver buffer (`memory_buffer`) to user space with the function `copy_to_user`:
 
-_<memory read> =_
+`<memory read> =`
 
 
 =CODE_START=
@@ -527,7 +527,7 @@ Remove modules | rmmod | module_exit() |
 
 To write to a device with the user function `fwrite` or similar, the member `write:` of the `file_operations` structure is used in the call to `register_chrdev`. It is the function `memory_write`, in this particular example, which has the following as arguments: a type file structure; `buf`, a buffer in which the user space function (`fwrite`) will write; `count`, a counter with the number of bytes to transfer, which has the same values as the usual counter in the user space function (`fwrite`); and finally, `f_pos`, the position of where to start writing in the file.
 
-_<memory write> =_
+`<memory write> =`
 
 
 =CODE_START=
@@ -569,19 +569,19 @@ Remove module | rmmod | module_exit() |
 
 By joining all of the previously shown code, the complete driver is achieved:
 
-_<memory.c> =_
+`<memory.c> =`
 
 
 =CODE_START=
 
 
-<memory initial>
-<memory init module>
-<memory exit module>
-<memory open>
-<memory release>
-<memory read>
-<memory write>
+`<memory initial>`
+`<memory init module>`
+`<memory exit module>`
+`<memory open>`
+`<memory release>`
+`<memory read>`
+`<memory write>`
 
 
 
@@ -626,7 +626,7 @@ The connection of the above-mentioned byte with the external connector pins is s
 
 The previous `memory_init` function needs modification—changing the RAM memory allocation for the reservation of the memory address of the parallel port (`0x378`). To achieve this, use the function for checking the availability of a memory region (`check_region`), and the function to reserve the memory region for this device (`request_region`). Both have as arguments the base address of the memory region and its length. The `request_region` function also accepts a string which defines the module.
 
-_<parlelport modified init module> =_
+`<parlelport modified init module> =`
 
 
 =CODE_START=
@@ -650,7 +650,7 @@ _<parlelport modified init module> =_
 
 It will be very similar to the `memory` module but substituting the freeing of memory with the removal of the reserved memory of the parallel port. This is done by the `release_region` function, which has the same arguments as `check_region`.
 
-_<parlelport modified exit module> =_
+`<parlelport modified exit module> =`
 
 
 =CODE_START=
@@ -670,7 +670,7 @@ _<parlelport modified exit module> =_
 
 In this case, a real device reading action needs to be added to allow the transfer of this information to user space. The `inb` function achieves this; its arguments are the address of the parallel port and it returns the content of the port.
 
-_<parlelport inport> =_
+`<parlelport inport> =`
 
 
 =CODE_START=
@@ -699,7 +699,7 @@ Write data |  |
 
 Again, you have to add the “writing to the device” function to be able to transfer later this data to user space. The function `outb` accomplishes this; it takes as arguments the content to write in the port and its address.
 
-_<parlelport outport> =_
+`<parlelport outport> =`
 
 
 =CODE_START=
@@ -732,19 +732,19 @@ Write data | outb |
 
 I’ll proceed by looking at the whole code of the `parlelport` module. You have to replace the word `memory` for the word `parlelport` throughout the code for the `memory` module. The final result is shown below:
 
-_<parlelport.c> =_
+`<parlelport.c> =`
 
 
 =CODE_START=
 
 
-<parlelport initial>
-<parlelport init module>
-<parlelport exit module>
-<parlelport open>
-<parlelport release>
-<parlelport read>
-<parlelport write>
+`<parlelport initial>`
+`<parlelport init module>`
+`<parlelport exit module>`
+`<parlelport open>`
+`<parlelport release>`
+`<parlelport read>`
+`<parlelport write>`
 
 
 
@@ -755,7 +755,7 @@ _<parlelport.c> =_
 
 In the initial section of the driver a different `major number` is used (`61`). Also, the global variable `memory_buffer` is changed to `port` and two more `#include` lines are added: `ioport.h` and `io.h`.
 
-_<parlelport initial> =_
+`<parlelport initial> =`
 
 
 =CODE_START=
@@ -818,7 +818,7 @@ module_exit(parlelport_exit);
 
 In this module-initializing-routine I’ll introduce the memory reserve of the parallel port as was described before.
 
-_<parlelport init module> =_
+`<parlelport init module> =`
 
 
 <!--pagebreak-->
@@ -841,7 +841,7 @@ int parlelport_init(void) {
     return result; 
   } 
    
-  <parlelport modified init module>
+  `<parlelport modified init module>`
 
   printk("<1>Inserting parlelport module\n"); 
   return 0;
@@ -860,7 +860,7 @@ int parlelport_init(void) {
 
 This routine will include the modifications previously mentioned.
 
-_<parlelport exit module> =_
+`<parlelport exit module> =`
 
 
 =CODE_START=
@@ -871,7 +871,7 @@ void parlelport_exit(void) {
   /* Make major number free! */
   unregister_chrdev(parlelport_major, "parlelport");
 
-  <parlelport modified exit module>
+  `<parlelport modified exit module>`
 
   printk("<1>Removing parlelport module\n");
 }
@@ -885,7 +885,7 @@ void parlelport_exit(void) {
 
 This routine is identical to the `memory` driver.
 
-_<parlelport open> =_
+`<parlelport open> =`
 
 
 =CODE_START=
@@ -907,7 +907,7 @@ int parlelport_open(struct inode *inode, struct file *filp) {
 
 Again, the match is perfect.
 
-_<parlelport release> =_
+`<parlelport release> =`
 
 
 =CODE_START=
@@ -928,7 +928,7 @@ int parlelport_release(struct inode *inode, struct file *filp) {
 
 The reading function is similar to the `memory` one with the corresponding modifications to read from the port of a device.
 
-_<parlelport read> =_
+`<parlelport read> =`
 
 
 =CODE_START=
@@ -940,7 +940,7 @@ ssize_t parlelport_read(struct file *filp, char *buf,
   /* Buffer to read the device */
   char parlelport_buffer;
 
-  <parlelport inport>
+  `<parlelport inport>`
 
   /* We transfer data to user space */
   copy_to_user(buf,&parlelport_buffer,1); 
@@ -967,7 +967,7 @@ ssize_t parlelport_read(struct file *filp, char *buf,
 
 It is analogous to the `memory` one except for writing to a device.
 
-_<parlelport write> =_
+`<parlelport write> =`
 
 
 =CODE_START=
@@ -984,7 +984,7 @@ ssize_t parlelport_write( struct file *filp, char *buf,
   tmp=buf+count-1;
   copy_from_user(&parlelport_buffer,tmp,1);
 
-  <parlelport outport>
+  `<parlelport outport>`
   
   return 1; 
 }
@@ -1032,7 +1032,7 @@ You can check the state of the parallel port issuing the command:
 
 Finally, I’ll develop a pretty application which will make the LEDs flash in succession. To achieve this, a program in user space needs to be written with which only one bit at a time will be written to the `/dev/parlelport` device.
 
-_<lights.c> =_
+`<lights.c> =`
 
 
 =CODE_START=
@@ -1111,7 +1111,7 @@ M. Waite, S. Prata. 1990. C Programming. Any other good book on C programming wo
 
 # Appendix A. Complete Makefile
 
-_<Makefile> =_
+`<Makefile> =`
 
 
 =CODE_START=

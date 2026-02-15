@@ -8,8 +8,7 @@ license: verbatim_only
 listed: 'true'
 book: ubuntu_applications
 book_weight: '15'
-layout: book.html
-
+layout: book
 ---
 Intro
 

@@ -9,8 +9,7 @@ section: opinions
 listed: 'true'
 book: making_the_impossible_happen_the_rules_of_free_culture
 book_weight: '14'
-layout: book.html
-
+layout: book
 ---
 This year, Creative Commons unveiled a new initiative called "CC+". It is _not_ a license. It's a "protocol", although it's so simple that it almost doesn't warrant the term. Basically it specifies a standardized mechanism to sell further rights for works under Creative Commons licenses. One application of this technology could be to enable "collective patronage" models like the one that brought us the Blender free movies to be extended to a _much_ larger pool of Creative Commons licensed material.
 

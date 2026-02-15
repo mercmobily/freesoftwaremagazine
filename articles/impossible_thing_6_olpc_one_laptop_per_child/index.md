@@ -10,8 +10,7 @@ main_image: hide.jpg
 listed: 'true'
 book: making_the_impossible_happen_the_rules_of_free_culture
 book_weight: '-1'
-layout: book.html
-
+layout: book
 ---
 <!-- Impossible Thing #6: Closing the Digital Divide -->
 
@@ -107,10 +106,10 @@ What this will mean, of course, is that the present "free culture" is really jus
 
 # Notes
 
-[1] [OLPC](http://www.laptop.org)
+1. [OLPC](http://www.laptop.org)
 
-[2] [OpenFirmware](http://wiki.laptop.org/go/Open_Firmware)
+2. [OpenFirmware](http://wiki.laptop.org/go/Open_Firmware)
 
-[3] [Sugar Labs](http://www.sugarlabs.org)
+3. [Sugar Labs](http://www.sugarlabs.org)
 
 
