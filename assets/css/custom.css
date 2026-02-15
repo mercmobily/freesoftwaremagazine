@@ -27,6 +27,78 @@
   text-align: center;
 }
 
+.article-content table {
+  border: 1px solid #d7e5ef;
+  border-collapse: collapse;
+  margin: 1.35rem 0 0.35rem;
+  width: 100%;
+}
+
+.article-content table th,
+.article-content table td {
+  border: 1px solid #d7e5ef;
+  line-height: 1.45;
+  padding: 0.44rem 0.58rem;
+  vertical-align: top;
+}
+
+.article-content table thead th {
+  background: #eff6fb;
+  color: #2b3c4a;
+  font-weight: 600;
+}
+
+.article-content table tbody tr:nth-child(even) {
+  background: #fbfdff;
+}
+
+.article-content table thead.fsm-legacy-empty-head {
+  display: none;
+}
+
+.article-content table thead.fsm-legacy-empty-head + tbody tr:first-child td {
+  background: #eff6fb;
+  color: #2b3c4a;
+  font-weight: 600;
+}
+
+.article-content .table-caption {
+  color: #5e7485;
+  font-size: 0.92rem;
+  line-height: 1.4;
+  margin: 0.38rem 0 1.2rem;
+}
+
+.author-bio-box {
+  align-items: flex-start;
+  background: linear-gradient(180deg, #f8fcff 0%, #eef6fc 100%);
+  border: 1px solid #d5e4ef;
+  border-radius: 0.6rem;
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.author-bio-photo {
+  flex: 0 0 150px;
+}
+
+.author-bio-photo img {
+  border: 1px solid #c8d9e6;
+  box-shadow: 0 2px 7px rgba(30, 61, 86, 0.16);
+  display: block;
+  width: 100%;
+}
+
+.author-bio-content {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.author-bio-content > :last-child {
+  margin-bottom: 0;
+}
+
 .article-hero {
   display: block;
   float: right;
@@ -50,12 +122,27 @@
 }
 
 @media (max-width: 767px) {
+  .author-bio-box {
+    flex-direction: column;
+  }
+
+  .author-bio-photo {
+    flex: 0 0 auto;
+    max-width: 170px;
+  }
+
   .article-hero {
     float: none;
     margin: 0 0 1rem;
     max-width: 100%;
     min-width: 0;
     width: 100%;
+  }
+
+  .article-content table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
   }
 }
 
@@ -104,6 +191,23 @@
   margin-left: 1rem;
   text-transform: uppercase;
   white-space: nowrap;
+}
+
+.navbar-clear .nav-link.active {
+  color: #2a7eaf;
+  font-weight: 700;
+  position: relative;
+}
+
+.navbar-clear .nav-link.active::after {
+  background: #2a7eaf;
+  border-radius: 2px;
+  bottom: -0.12rem;
+  content: "";
+  height: 2px;
+  left: 0.35rem;
+  position: absolute;
+  right: 0.35rem;
 }
 
 .book-nav {
