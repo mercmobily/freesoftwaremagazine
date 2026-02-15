@@ -49,6 +49,9 @@
     <meta property="og:title" content="{{ title_extra }}">
     <meta property="og:type" content="{{ og_type }}">
     <meta property="og:url" content="{{ canonical_url }}">
+    {% if og_type == "article" %}
+      <meta property="article:publisher" content="https://www.facebook.com/FreeSoftwareMagazine">
+    {% endif %}
     {% if site.title %}
       <meta property="og:site_name" content="{{ site.title }}">
     {% endif %}
