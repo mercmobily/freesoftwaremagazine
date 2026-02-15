@@ -1,4 +1,28 @@
 {% assign title_extra = page.title | default: site.title | strip_html %}
+{% assign meta_description = page.summary | default: page.excerpt | default: page.description | default: site.description | strip_html | strip_newlines | strip %}
+{% assign meta_site_url = site.url | default: "" | strip %}
+{% if meta_site_url == "" %}
+  {% assign meta_site_url = "https://www.freesoftwaremagazine.com" %}
+{% endif %}
+{% assign meta_page_url = page.url | default: "/" %}
+{% assign canonical_url = meta_site_url | append: meta_page_url %}
+{% assign raw_main_image = page.main_image | default: "" | strip %}
+{% assign meta_main_image = raw_main_image | replace: " ", "%20" %}
+{% assign main_image_first_char = meta_main_image | slice: 0, 1 %}
+{% assign og_image = "" %}
+{% if meta_main_image != "" %}
+  {% if meta_main_image contains "://" %}
+    {% assign og_image = meta_main_image %}
+  {% elsif main_image_first_char == "/" %}
+    {% assign og_image = meta_site_url | append: meta_main_image %}
+  {% else %}
+    {% assign og_image = canonical_url | append: meta_main_image %}
+  {% endif %}
+{% endif %}
+{% assign og_type = "website" %}
+{% if page.layout == "article" or page.path contains "articles/" %}
+  {% assign og_type = "article" %}
+{% endif %}
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -15,6 +39,31 @@
     <meta name="theme-color" content="#ffffff">
 
     <title>{{ title_extra }}</title>
+    <link rel="canonical" href="{{ canonical_url }}">
+    {% if meta_description != "" %}
+      <meta name="description" content="{{ meta_description }}">
+    {% endif %}
+    <meta property="og:title" content="{{ title_extra }}">
+    <meta property="og:type" content="{{ og_type }}">
+    <meta property="og:url" content="{{ canonical_url }}">
+    {% if site.title %}
+      <meta property="og:site_name" content="{{ site.title }}">
+    {% endif %}
+    {% if meta_description != "" %}
+      <meta property="og:description" content="{{ meta_description }}">
+    {% endif %}
+    {% if og_image != "" %}
+      <meta property="og:image" content="{{ og_image }}">
+      <meta property="og:image:alt" content="{{ title_extra }}">
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:image" content="{{ og_image }}">
+    {% else %}
+      <meta name="twitter:card" content="summary">
+    {% endif %}
+    <meta name="twitter:title" content="{{ title_extra }}">
+    {% if meta_description != "" %}
+      <meta name="twitter:description" content="{{ meta_description }}">
+    {% endif %}
 
     <link rel="stylesheet" href="/assets/css/main.css">
   </head>
