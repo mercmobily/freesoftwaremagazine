@@ -1,7 +1,7 @@
 title: Free Software Magazine
-description: Static site migration scaffold for Jekyll.
+description: Free Software Magazine is a mostly free-content online magazine about free software.
 baseurl: ""
-url: ""
+url: "https://www.freesoftwaremagazine.com"
 
 markdown: kramdown
 permalink: pretty
