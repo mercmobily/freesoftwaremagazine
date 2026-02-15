@@ -1,11 +1,11 @@
 <nav class="navbar navbar-primary navbar-inverse">
   <div class="container d-flex justify-content-between">
-    <a class="navbar-brand mr-0" href="/" title="Home">
+    <a class="navbar-brand me-0" href="/" title="Home">
       {% include navbar_logo.html %}
     </a>
-    <form class="form-inline hidden-xs-down" method="get" action="https://www.google.com/search">
+    <form class="d-none d-sm-flex align-items-center" method="get" action="https://www.google.com/search">
       <input type="hidden" name="sitesearch" value="http://www.freesoftwaremagazine.com">
-      <input type="text" class="form-control mr-2" name="q" placeholder="Search articles&hellip;">
+      <input type="text" class="form-control me-2" name="q" placeholder="Search articles&hellip;">
       <button class="btn btn-outline-inverse" type="submit">Search</button>
     </form>
   </div>
