@@ -17,12 +17,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2"
           bundler-cache: true
+
+      - name: Validate PR article assets
+        if: github.event_name == 'pull_request'
+        run: ruby scripts/validate_pr_article_assets.rb
 
       - name: Build site
         run: bundle exec jekyll build

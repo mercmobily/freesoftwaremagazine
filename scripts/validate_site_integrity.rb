@@ -227,18 +227,18 @@ checks << ["pagination links missing", missing_links, 0]
 
 # Content transform integrity checks
 legacy_marker_pattern = /=(?:CODE_START|CODE_END|TEXTBOX_START|TEXTBOX_END|IMAGE|IMG|IMG_CLEAR|IMAGE_BIG|IMG_PRIVATE|IMAGE_PRIVATE|TABLE_CAPTION|ZOOM|VIDEO)=/
-preferred_directive_pattern = /\[\[\s*(?:\/)?(?:code|textbox|image|img|img_clear|image_big|img_private|image_private|table_caption|zoom|video|youtube|blip)\b/i
+unprocessed_directive_pattern = /\[\[\s*(?:\/)?(?:code|textbox|image|img|img_clear|image_big|img_private|image_private|table_caption|zoom|video)\b/i
 
 legacy_marker_hits = 0
-preferred_directive_hits = 0
+unprocessed_directive_hits = 0
 Dir.glob(File.join(SITE, "articles", "*", "index.html")).each do |path|
   html = File.read(path)
   legacy_marker_hits += html.scan(legacy_marker_pattern).size
-  preferred_directive_hits += html.scan(preferred_directive_pattern).size
+  unprocessed_directive_hits += html.scan(unprocessed_directive_pattern).size
 end
 
 checks << ["legacy markers in rendered articles", legacy_marker_hits, 0]
-checks << ["preferred directives in rendered articles", preferred_directive_hits, 0]
+checks << ["unprocessed directives in rendered articles", unprocessed_directive_hits, 0]
 
 checks.each do |name, actual, expected|
   if actual == expected

@@ -35,7 +35,7 @@ module FsmContentTransforms
     "#{stripped[0, 200]} ..."
   end
 
-  # Preferred author-facing syntax is normalized into canonical FSM markers.
+  # Preferred author-facing syntax is normalized into FSM markers.
   # This keeps one rendering implementation while supporting both styles forever.
   def normalize_preferred_syntax(raw_content)
     content = raw_content.to_s
@@ -53,8 +53,8 @@ module FsmContentTransforms
       "=TEXTBOX_START=#{heading}=\n#{body}=TEXTBOX_END=\n"
     end
 
-    # Image-family tags (all legacy image variants are supported).
-    content = content.gsub(/\[\[\s*(image|img|img_clear|image_big|img_private|image_private)\s*:(.*?)\|(.*?)\s*\]\][ \t]*(?:\r?\n|$)/i) do
+    # [[image:src|caption]]
+    content = content.gsub(/\[\[\s*(image)\s*:(.*?)\|(.*?)\s*\]\][ \t]*(?:\r?\n|$)/i) do
       tag = Regexp.last_match(1).to_s.upcase
       src = Regexp.last_match(2).to_s.strip
       caption = Regexp.last_match(3).to_s.strip
@@ -73,22 +73,11 @@ module FsmContentTransforms
       "=ZOOM=#{caption}=\n"
     end
 
-    # [[video:youtube:ID]] / [[video:blip:ID]]
-    content = content.gsub(/\[\[\s*video\s*:\s*(youtube|blip)\s*:\s*(.*?)\s*\]\]/i) do
+    # [[video:youtube:ID]]
+    content = content.gsub(/\[\[\s*video\s*:\s*(youtube)\s*:\s*(.*?)\s*\]\]/i) do
       provider = Regexp.last_match(1).to_s.upcase
       id = Regexp.last_match(2).to_s.strip
       "=VIDEO=#{provider}=#{id}="
-    end
-
-    # [[youtube:ID]] / [[blip:ID]]
-    content = content.gsub(/\[\[\s*youtube\s*:(.*?)\s*\]\]/i) do
-      id = Regexp.last_match(1).to_s.strip
-      "=VIDEO=YOUTUBE=#{id}="
-    end
-
-    content.gsub(/\[\[\s*blip\s*:(.*?)\s*\]\]/i) do
-      id = Regexp.last_match(1).to_s.strip
-      "=VIDEO=BLIP=#{id}="
     end
   end
 
