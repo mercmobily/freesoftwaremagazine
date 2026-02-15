@@ -18,7 +18,6 @@ Create `articles/my_new_article_slug/index.md` with this template:
 
 ```markdown
 ---
-nid: '999999'
 title: 'My Article Title'
 authors: 'Author Name'
 published: '2026-02-14 10:00:00'
@@ -37,7 +36,7 @@ Rest of the article body...
 
 ## 2) Front matter rules
 
-- `nid`: must be unique across all articles.
+- `nid`: optional legacy numeric ID. For new articles, leave it unset.
 - `title`: article title.
 - `authors`: comma-separated if multiple.
 - `published`: `YYYY-MM-DD HH:MM:SS`.
@@ -57,6 +56,7 @@ Rest of the article body...
 
 Optional fields commonly used:
 
+- `nid`: legacy-only field used for historical `/NID/` redirects and `fsmsh.com/NID` shortlinks. If you set it, it must be unique.
 - `main_image`: image filename inside the same article folder.
 - `issue`: like `issue_21`.
 - `book`: book slug if part of a book.
@@ -213,7 +213,7 @@ bundle exec jekyll build -d legacy/_site_jekyll
 bundle exec ruby legacy/migration/scripts/compare_ryver_jekyll_articles.rb --orig-root legacy/_site_orig --new-root legacy/_site_jekyll
 ```
 
-Optional duplicate `nid` check:
+Optional duplicate legacy `nid` check (only needed when editing/adding `nid` values):
 
 ```bash
 bundle exec ruby -ryaml -e '
