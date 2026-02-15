@@ -13,3 +13,6 @@
 /_site_orig
 /legacy/_site_jekyll
 /legacy/_site_orig
+
+# Jekyll local metadata
+/.jekyll-metadata
