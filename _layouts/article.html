@@ -46,7 +46,7 @@
       {% if page.tags %}
         <li class="list-inline-item">
           Tags:
-          <span class="mr-1">
+          <span class="me-1">
             {% assign tag_list = page.tags | split: "," %}
             {% for tag in tag_list %}
               {% assign tag_name = tag | strip %}
@@ -73,8 +73,8 @@
     </div>
 
     {% if page.license %}
-      <div class="card bg-faded mt-5">
-        <div class="card-block">
+      <div class="card bg-body-tertiary mt-5">
+        <div class="card-body">
           <h4 class="card-title">License</h4>
           <p class="card-text">{% include license_text.html license=page.license %}</p>
         </div>
