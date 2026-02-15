@@ -1,6 +1,7 @@
 ---
 title: 'Is GitHub the new dependency trap for free software?'
 authors: 'Tony Mobily'
+published: '2026-02-15 10:00:00'
 tags: 'github,free-software,open-source,workflow,resilience'
 layout: article
 license: verbatim_only

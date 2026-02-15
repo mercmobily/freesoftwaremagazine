@@ -39,19 +39,9 @@ module FsmArticleMetadataDefaults
     nil
   end
 
-  def fallback_published(page, site)
-    from_date_field = parse_time(page.data["date"])
-    return from_date_field if from_date_field
-
-    from_page_date = parse_time(page.respond_to?(:date) ? page.date : nil)
-    return from_page_date if from_page_date
-
-    full_path = File.join(site.source, page.path.to_s)
-    return File.mtime(full_path) if File.file?(full_path)
-
-    site.time
-  rescue StandardError
-    site.time
+  def require_published?
+    value = ENV.fetch("FSM_REQUIRE_PUBLISHED", "").to_s.strip.downcase
+    %w[1 true yes].include?(value)
   end
 
   def fallback_summary(page)
@@ -78,6 +68,10 @@ module Jekyll
     priority :high
 
     def generate(site)
+      require_published = FsmArticleMetadataDefaults.require_published?
+      missing_published = []
+      invalid_published = []
+
       site.pages.each do |page|
         next unless FsmArticleMetadataDefaults.article_page?(page)
 
@@ -85,8 +79,20 @@ module Jekyll
           page.data[key] = value if FsmArticleMetadataDefaults.blank_value?(page.data[key])
         end
 
-        if FsmArticleMetadataDefaults.blank_value?(page.data["published"])
-          page.data["published"] = FsmArticleMetadataDefaults.fallback_published(page, site)
+        published = page.data["published"]
+        if FsmArticleMetadataDefaults.blank_value?(published)
+          if require_published
+            missing_published << page.path.to_s
+          else
+            page.data["published"] = Time.at(0)
+          end
+        else
+          parsed_published = FsmArticleMetadataDefaults.parse_time(published)
+          if parsed_published.nil?
+            invalid_published << "#{page.path}: #{published.inspect}"
+          else
+            page.data["published"] = parsed_published
+          end
         end
 
         summary = FsmArticleMetadataDefaults.fallback_summary(page)
@@ -97,6 +103,19 @@ module Jekyll
           page.data["description"] = summary
         end
       end
+
+      return if invalid_published.empty? && (!require_published || missing_published.empty?)
+
+      errors = []
+      unless missing_published.empty?
+        errors << "Missing required front matter field `published` in:"
+        missing_published.sort.each { |path| errors << "- #{path}" }
+      end
+      unless invalid_published.empty?
+        errors << "Invalid `published` format in:"
+        invalid_published.sort.each { |entry| errors << "- #{entry}" }
+      end
+      raise ArgumentError, errors.join("\n")
     end
   end
 end

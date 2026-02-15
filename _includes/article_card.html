@@ -8,7 +8,7 @@
   {% assign card_image_url = url | append: img_path %}
   {% assign card_image_is_placeholder = false %}
 {% endif %}
-{% assign date_value = article.published | default: article.date %}
+{% assign date_value = article.published %}
 {% assign sections = article.section | default: "" | split: "," %}
 {% assign authors = article.authors | default: "" | split: "," %}
 

@@ -1,6 +1,7 @@
 ---
 title: 'Corporations trained AI on everything they could, so why can''t we?'
 authors: 'Tony Mobily'
+published: '2026-02-14 10:00:00'
 tags: 'ai,free-software,training-data,copyright,open-models'
 layout: article
 license: verbatim_only

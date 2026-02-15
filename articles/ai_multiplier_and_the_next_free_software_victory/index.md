@@ -1,6 +1,7 @@
 ---
 title: 'AI is not killing free software. It is forcing us to level up'
 authors: 'Tony Mobily'
+published: '2026-02-13 10:00:00'
 tags: 'ai,free-software,open-source,jekyll,maintenance'
 layout: article
 license: verbatim_only

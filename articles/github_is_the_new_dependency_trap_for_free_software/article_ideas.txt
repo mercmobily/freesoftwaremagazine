@@ -1,0 +1,25 @@
+“Explain the stack” articles
+
+“DNS on Linux in 2026: systemd-resolved, resolv.conf, NetworkManager—how it actually flows”
+
+“systemd boot sequence: what really runs when”
+
+“Debug playbooks”
+
+“When boot is slow: a step-by-step investigation with systemd-analyze, journald, iostat”
+
+“When disk fills: finding real usage (overlayfs, logs, docker layers)”
+
+“Threat model → hardening recipe”
+
+Home NAS, small business VPS, developer laptop, etc.
+
+“Reproducible setups”
+
+A repo + article: dotfiles, Ansible, Nix, or just scripts.
+
+“Migration / upgrade survival guides”
+
+“Ubuntu LTS upgrade: what to check before, during, after”
+
+“Moving from iptables to nftables without breaking SSH”
