@@ -1,7 +1,47 @@
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <script>
+      (function () {
+        var nav = document.querySelector("[data-fsm-nav]");
+        if (!nav) return;
+
+        var shell = nav.querySelector(".fsm-nav-shell");
+        var toggle = nav.querySelector("[data-fsm-nav-toggle]");
+        var links = nav.querySelector("[data-fsm-nav-links]");
+        if (!shell || !toggle || !links) return;
+
+        function closeMenu() {
+          shell.classList.remove("is-open");
+          links.classList.remove("is-open");
+          toggle.setAttribute("aria-expanded", "false");
+        }
+
+        function openMenu() {
+          shell.classList.add("is-open");
+          links.classList.add("is-open");
+          toggle.setAttribute("aria-expanded", "true");
+        }
+
+        toggle.addEventListener("click", function () {
+          if (links.classList.contains("is-open")) {
+            closeMenu();
+          } else {
+            openMenu();
+          }
+        });
+
+        nav.addEventListener("click", function (event) {
+          var link = event.target.closest("a");
+          if (!link || !links.contains(link)) return;
+          if (window.matchMedia("(max-width: 991px)").matches) closeMenu();
+        });
+
+        window.addEventListener("resize", function () {
+          if (window.innerWidth >= 992) closeMenu();
+        });
+
+        closeMenu();
+      })();
+    </script>
   </body>
 </html>

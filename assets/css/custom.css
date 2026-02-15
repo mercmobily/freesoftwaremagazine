@@ -69,6 +69,172 @@
   margin: 0.38rem 0 1.2rem;
 }
 
+.article-title {
+  letter-spacing: -0.012em;
+  line-height: 1.08;
+  margin-bottom: 0.7rem;
+}
+
+.article-meta {
+  color: #6d8495;
+  font-size: 0.94rem;
+  letter-spacing: 0.012em;
+  line-height: 1.48;
+  margin-bottom: 1.15rem;
+}
+
+.article-meta .list-inline-item {
+  margin-bottom: 0.2rem;
+}
+
+.article-meta a {
+  font-weight: 500;
+}
+
+.fsm-nav-shell {
+  align-items: center;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.fsm-nav-links {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.fsm-nav-toggle {
+  align-items: center;
+  background: #fff;
+  border: 1px solid #d7e5ef;
+  border-radius: 0.34rem;
+  color: #327faa;
+  cursor: pointer;
+  display: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+  gap: 0.48rem;
+  line-height: 1;
+  padding: 0.42rem 0.6rem;
+}
+
+.fsm-nav-toggle-icon {
+  border-bottom: 2px solid currentColor;
+  border-top: 2px solid currentColor;
+  display: inline-block;
+  height: 0.65rem;
+  position: relative;
+  width: 0.95rem;
+}
+
+.fsm-nav-toggle-icon::after {
+  border-top: 2px solid currentColor;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: calc(50% - 1px);
+}
+
+.fsm-mobile-search {
+  display: none;
+}
+
+.navbar-clear .nav-link {
+  border-radius: 0.3rem;
+  transition: background-color 0.12s ease, color 0.12s ease;
+}
+
+.navbar-clear .nav-link:hover,
+.navbar-clear .nav-link:focus {
+  background: #f1f8fd;
+  text-decoration: none;
+}
+
+.card.article-card,
+.card.issue-card,
+.card.book-card {
+  border: 1px solid #d5e4ef;
+  border-radius: 0.58rem;
+  box-shadow: 0 2px 7px rgba(30, 61, 86, 0.11);
+  height: 100%;
+  overflow: hidden;
+  transition: box-shadow 0.12s ease, transform 0.12s ease;
+}
+
+.card.article-card:hover,
+.card.issue-card:hover,
+.card.book-card:hover,
+.card.article-card:focus-within,
+.card.issue-card:focus-within,
+.card.book-card:focus-within {
+  box-shadow: 0 5px 16px rgba(30, 61, 86, 0.16);
+  transform: translateY(-1px);
+}
+
+.article-card .card-block,
+.issue-card .card-block,
+.book-card .card-block {
+  padding: 0.8rem 0.88rem 0.88rem;
+}
+
+.article-card-img-item,
+.issue-card-img-item,
+.book-card-img-item {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.article-card-title,
+.issue-card .card-title,
+.book-card-title {
+  font-size: 1.02rem;
+  line-height: 1.28;
+  margin-bottom: 0.35rem;
+}
+
+.article-card-sectionname {
+  font-size: 0.77rem;
+  margin-bottom: 0.33rem;
+  text-transform: uppercase;
+}
+
+.article-card-meta,
+.issue-card .card-text,
+.book-card .card-text {
+  color: #6f8798;
+  font-size: 0.82rem;
+  line-height: 1.35;
+  margin-bottom: 0;
+}
+
+.books-chapter-list {
+  border: 1px solid #d8e5ef;
+  border-radius: 0.42rem;
+  margin-bottom: 0;
+  overflow: hidden;
+}
+
+.books-chapter-list thead th {
+  background: #eef6fc;
+  border-bottom: 1px solid #d8e5ef;
+  color: #2e4454;
+  font-size: 0.88rem;
+  letter-spacing: 0.01em;
+  padding: 0.58rem 0.72rem;
+}
+
+.books-chapter-list tbody td {
+  border-top: 1px solid #ebf2f7;
+  padding: 0.54rem 0.72rem;
+}
+
+.books-chapter-list tbody tr:hover {
+  background: #f8fcff;
+}
+
 .author-bio-box {
   align-items: flex-start;
   background: linear-gradient(180deg, #f8fcff 0%, #eef6fc 100%);
@@ -208,6 +374,74 @@
   left: 0.35rem;
   position: absolute;
   right: 0.35rem;
+}
+
+@media (max-width: 991px) {
+  .article-title {
+    font-size: clamp(2rem, 8vw, 2.8rem);
+    line-height: 1.11;
+  }
+
+  .article-meta {
+    font-size: 0.86rem;
+    line-height: 1.52;
+    margin-bottom: 1rem;
+  }
+
+  .fsm-nav-shell {
+    align-items: stretch;
+    display: block;
+  }
+
+  .fsm-nav-toggle {
+    display: inline-flex;
+  }
+
+  .fsm-nav-links {
+    border-top: 1px solid #e2edf4;
+    display: none;
+    margin-top: 0.62rem;
+    padding-top: 0.28rem;
+    width: 100%;
+  }
+
+  .fsm-nav-links.is-open {
+    display: block;
+  }
+
+  .fsm-nav-links .nav-item {
+    display: block;
+  }
+
+  .fsm-nav-links .nav-link {
+    display: block;
+    margin: 0.1rem 0;
+    padding: 0.45rem 0.35rem;
+  }
+
+  .fsm-mobile-search {
+    border-top: 1px solid #e2edf4;
+    display: none;
+    gap: 0.45rem;
+    margin-top: 0.38rem;
+    padding: 0.62rem 0 0.1rem;
+  }
+
+  .fsm-mobile-search .form-control {
+    min-width: 0;
+  }
+
+  .fsm-nav-shell.is-open .fsm-mobile-search {
+    display: flex;
+  }
+
+  .navbar-clear .nav-link.active::after {
+    display: none;
+  }
+
+  .navbar-clear .nav-link.active {
+    background: #eaf5fc;
+  }
 }
 
 .book-nav {
