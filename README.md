@@ -44,4 +44,4 @@ npm run check
 
 ## Writing Guide
 
-See `ADD_ARTICLE_GUIDE.md` for required front matter, preferred FSM syntax, image rules, validation, and PR steps.
+See [ADD_ARTICLE_GUIDE.md](ADD_ARTICLE_GUIDE.md) for required front matter, preferred FSM syntax, image rules, validation, and PR steps.
