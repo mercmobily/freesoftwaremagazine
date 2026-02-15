@@ -1,0 +1,51 @@
+{% assign article = include.article %}
+{% assign url = article.url %}
+{% assign img = article.main_image | default: "" %}
+{% assign img_path = img | replace: " ", "%20" %}
+{% assign date_value = article.published | default: article.date %}
+{% assign sections = article.section | default: "" | split: "," %}
+{% assign authors = article.authors | default: "" | split: "," %}
+
+<div class="card article-card">
+  {% if img != "" %}
+    <a href="{{ url }}">
+      <div class="card-img-top embed-responsive embed-responsive-3by4 article-card-img">
+        <div class="embed-responsive-item article-card-img-item" style="background-image: url('{{ url }}{{ img_path }}')"></div>
+      </div>
+    </a>
+  {% endif %}
+  <div class="card-block article-card-block">
+    {% if article.section %}
+      <p class="article-card-sectionname">
+        {% for section in sections %}
+          {% assign section_slug = section | strip %}
+          {% assign section_label = section_slug | replace: "_", " " %}
+          {% if section_slug != "" %}
+            <a href="/sections/{{ section_slug | uri_escape }}">{{ section_label }}</a>
+          {% endif %}
+        {% endfor %}
+      </p>
+    {% endif %}
+
+    <h5 class="card-title article-card-title">
+      <a href="{{ url }}">
+        {{ article.title }}
+      </a>
+    </h5>
+
+    <p class="article-card-meta">
+      by
+      {% for author in authors %}
+        {% assign author_slug = author | strip %}
+        {% assign author_label = author_slug | replace: "_", " " %}
+        {% if author_slug != "" %}
+          <a href="/authors/{{ author_slug | uri_escape }}">{{ author_label }}</a>
+        {% endif %}
+      {% endfor %}
+      &ndash;
+      {% if date_value %}
+        {{ date_value | date: "%-m/%-d/%Y" }}
+      {% endif %}
+    </p>
+  </div>
+</div>

@@ -7,8 +7,7 @@ license: verbatim_only
 listed: 'true'
 book: autotools_a_guide_to_autoconf_automake_libtool
 book_weight: '8'
-layout: book.html
-
+layout: book
 ---
 [The GNU Autoconf Manual](http://www.gnu.org/software/autoconf/manual)
 

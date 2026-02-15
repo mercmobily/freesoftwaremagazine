@@ -15,8 +15,8 @@ In [part one](http://www.freesoftwaremagazine.com/columns/spam_prevention_exim_a
 
 # Captain Slog
 
-*[ACL]: Access Control List
-*[SMTP]: Simple Mail Transport Protocol -- the standard e-mail sending protocol used across the Internet
+ACL: Access Control List
+SMTP: Simple Mail Transport Protocol -- the standard e-mail sending protocol used across the Internet
 Greylistd is the [daemon][1] called by Exim during SMTP connections. The acl_check_rcpt ACL (if setup for greylisting) will ensure that Exim logs SMTP connections resulting in greylisting. You can use this information along with statistics from greylistd itself to troubleshoot and track progress of greylisted sender-triplets and messages.
 
 A typical greylisting entry in the Exim mainlog will look like this:
@@ -75,7 +75,7 @@ Greylist data:
 
 The Count column indicates that two messages have been successfully sent via that sender-triplet and Last Seen tells you when the last one was. These lists can be quite long, so you might like to pipe them into a pager (`greylist list --grey | more`) or filter them with grep `greylist list --grey | grep somedomain.com`. That last one will display all greylist entries containing "somedomain.com".
 
-*[MRTG]: Multi Router Traffic Grapher -- a free software tool originally for monitoring and measuring the traffic load on network links and displaying it in graphical form. It has developed, and it can now be used for other purposes.
+MRTG: Multi Router Traffic Grapher -- a free software tool originally for monitoring and measuring the traffic load on network links and displaying it in graphical form. It has developed, and it can now be used for other purposes.
 
 Greylist can also dump its data in a format to be used for MRTG, which you'll need redirect into a file if you want to save it: `greylist mrtg > ./filename` will do the trick.
 
@@ -85,7 +85,7 @@ So far the greylist commands I've shown you will not affect the three lists it m
 
 # May contain traces of nut
 
-*[DNSBL]: DNS based Blacklist
+DNSBL: DNS based Blacklist
 
 In the UK food products containing the word “diet” in their name ( e.g. Diet Coke) are accompanied by the warning “Can help only as part of a calorie controlled diet”. By the same nature greylisting can help reduce spam levels only in partnership with other tools, for example: Bayesian-rule based scanning, cautious use of one or more DNSBL and Client-side filtering. I have to say that it is one of the more effective measures I have implemented--and if nothing else, it will reduce the load on your server.
 

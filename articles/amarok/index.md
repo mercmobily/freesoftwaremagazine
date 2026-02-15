@@ -8,8 +8,7 @@ license: verbatim_only
 listed: 'true'
 book: ubuntu_applications
 book_weight: '0'
-layout: book.html
-
+layout: book
 ---
 For a time, GNU/Linux music library tools seemed to be, well, non-existent. Sure, XMMS was an awesome media player. But if you wanted to catalog your music, you were out of luck. Apple users had iTunes and were always rubbing it into the free software world's face. Even Microsoft, the sleeping Redmond giant, had upgraded Windows Media Player to include a library feature. Then, a giant wolf named Amarok charged to the rescue.
 

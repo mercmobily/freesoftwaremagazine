@@ -70,5 +70,4 @@ Ubuntu isn’t the only GNU/Linux distribution (or operating system) that Virtua
 
 # References
 
-[1] [Open source at CeBIT 2007](http://community.linux.com/community/07/03/22/1955255.shtml)
-
+1. [Open source at CeBIT 2007](http://community.linux.com/community/07/03/22/1955255.shtml)

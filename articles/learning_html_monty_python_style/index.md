@@ -123,7 +123,7 @@ or this:
 =CODE_END=
 
 Also note that the tags are nested exactly in the order they are put in. This is crucial. If the `<html>` tag is before the `<body>` tag, then the `</html>` must be _after_ `</body>`.
-So, this would be very wrong, since the </body> tag happens at the wrong time"
+So, this would be very wrong, since the `</body>` tag happens at the wrong time"
 
 =CODE_START=
 <body>
@@ -153,9 +153,9 @@ This is by no means a comprehensive list, but it should be enough to get you sta
 
 There are two ways to add bold/strong text. The older and more popular way is to use the `<b>` tag. The newer way is to use the `<strong>` tag. The latter is more technically correct, for reasons which are more dull than Tim the Enchanter. Don’t argue. Just use the strong tag.
 
-Next up is making your text emphasized. Again, there are two ways. You can either use the older and more popular `<i>` or the newer `<em>`. And again, the newer `<em>` tag is the correct answer for reasons even more boring than the bold reasons (actually, it’s the same reason. If you _really_ want to find out how, visit [this forum thread on <b> vs <strong>](http://www.thescripts.com/forum/thread96586.html)).
+Next up is making your text emphasized. Again, there are two ways. You can either use the older and more popular `<i>` or the newer `<em>`. And again, the newer `<em>` tag is the correct answer for reasons even more boring than the bold reasons (actually, it’s the same reason. If you _really_ want to find out how, visit [this forum thread on `<b>` vs `<strong>`](http://www.thescripts.com/forum/thread96586.html)).
 
-Now, onward to the underlined text. This you should _really_ use sparingly. Why? Well, what else on a web page is underlined? Oh yeah, links (you’ll get to that soon, I promise). You should use underlining about as many times as Robin attacks a dragon (virtually never). But for the times you absolutely have to have underlined text, the tag is `<u>`. Why isn’t there a newer version, like it happens with `<i>` and <b>`? Simple: because you shouldn’t be using it at all, remember?
+Now, onward to the underlined text. This you should _really_ use sparingly. Why? Well, what else on a web page is underlined? Oh yeah, links (you’ll get to that soon, I promise). You should use underlining about as many times as Robin attacks a dragon (virtually never). But for the times you absolutely have to have underlined text, the tag is `<u>`. Why isn’t there a newer version, like it happens with `<i>` and `<b>`? Simple: because you shouldn’t be using it at all, remember?
 
 It's time to turn to another type of formatting: deleted text. In other words, text that looks like it was crossed out (usually used for satire). But if you are a satire kind of guy (or gal), here’s the tag: `<del>`.
 

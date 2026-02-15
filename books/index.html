@@ -1,52 +1,27 @@
+---
+layout: generic
+title: Books
+---
+
 <h3 class="text-center mb-4">Books</h3>
 
 <div class="row">
   <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
-    <%- include('../_includes/bookCard', {
-      'url': 'autotools_a_guide_to_autoconf_automake_libtool',
-      'img': 'http://placehold.it/200x300',
-      'title': 'Autotools: a guide to Autoconf, Automake and Libtool',
-      'subtitle': 'Subtitle' // FIXME: Add subtitle
-    }) %>
+    {% include book_card.html url="/books/autotools_a_guide_to_autoconf_automake_libtool/" img="http://placehold.it/200x300" title="Autotools: a guide to Autoconf, Automake and Libtool" subtitle="" %}
   </div>
   <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
-    <%- include('../_includes/bookCard', {
-      'url': 'free_software_vector_graphics_applications',
-      'img': 'http://placehold.it/200x300',
-      'title': 'Free software vector graphics applications',
-      'subtitle': 'Subtitle' // FIXME: Add subtitle
-    }) %>
+    {% include book_card.html url="/books/free_software_vector_graphics_applications/" img="http://placehold.it/200x300" title="Free software vector graphics applications" subtitle="" %}
   </div>
   <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
-    <%- include('../_includes/bookCard', {
-      'url': 'making_free_movies_with_free_software',
-      'img': 'http://placehold.it/200x300',
-      'title': 'Making free movies with free software',
-      'subtitle': 'Subtitle' // FIXME: Add subtitle
-    }) %>
+    {% include book_card.html url="/books/making_free_movies_with_free_software/" img="http://placehold.it/200x300" title="Making free movies with free software" subtitle="" %}
   </div>
   <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
-    <%- include('../_includes/bookCard', {
-      'url': 'making_the_impossible_happen_the_rules_of_free_culture',
-      'img': 'http://placehold.it/200x300',
-      'title': 'Making the impossible happen: the rules of free culture',
-      'subtitle': 'Subtitle' // FIXME: Add subtitle
-    }) %>
+    {% include book_card.html url="/books/making_the_impossible_happen_the_rules_of_free_culture/" img="http://placehold.it/200x300" title="Making the impossible happen: the rules of free culture" subtitle="" %}
   </div>
   <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
-    <%- include('../_includes/bookCard', {
-      'url': 'network_monitoring_with_zenoss',
-      'img': 'http://placehold.it/200x300',
-      'title': 'Network monitoring with ZenOss',
-      'subtitle': 'Subtitle' // FIXME: Add subtitle
-    }) %>
+    {% include book_card.html url="/books/network_monitoring_with_zenoss/" img="http://placehold.it/200x300" title="Network monitoring with ZenOss" subtitle="" %}
   </div>
   <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
-    <%- include('../_includes/bookCard', {
-      'url': 'ubuntu_applications',
-      'img': 'http://placehold.it/200x300',
-      'title': 'Ubuntu applications',
-      'subtitle': 'Subtitle' // FIXME: Add subtitle
-    }) %>
+    {% include book_card.html url="/books/ubuntu_applications/" img="http://placehold.it/200x300" title="Ubuntu applications" subtitle="" %}
   </div>
 </div>

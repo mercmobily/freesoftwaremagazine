@@ -29,11 +29,10 @@ And now it's that time of year again. At the time of writing, it'ssaturday eveni
 
 For the first time, since what seems like forever, the FOSDEMorganizers managedto actually have an _almost_ working network at 9AM in the morning,with everything fully set up at 10. The main difference with previousyears was that this time around, rather than setting up the equipmentwhen everyone else is allowed in, they arrived at the insane hour of 5AMto start laying cables, installing AP devices, and doing more of thisgeneral grunt work; by the time people started arriving, the networkwas almost fully operational, prompting me to take a picture of mylaptop with an `ssh -v` session running. A working network could besaid to be taking away part of the charm that defines FOSDEM though.Heh.
 
-Joking aside, so far FOSDEM allowed me to meet some interesting newpeople and meet-up with some people I knew from the past; it has alreadyallowed me to learn some new and interesting things about varioustopics , while I also found out a bit about some things I_thought_ I was familiar with.
+Joking aside, so far FOSDEM allowed me to meet some interesting newpeople and meet-up with some people I knew from the past; it has alreadyallowed me to learn some new and interesting things about varioustopics , while I also found out a bit about some things I *thought* I was familiar with.
 
 I can hardly wait for tomorrow.
 
-[1] [Université Libre de Bruxelles](http://www.ulb.be)
+1. [Université Libre de Bruxelles](http://www.ulb.be)
 
-[2] [FOSDEM](http://www.fosdem.org)
-
+2. [FOSDEM](http://www.fosdem.org)

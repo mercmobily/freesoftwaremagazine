@@ -7,8 +7,7 @@ license: verbatim_only
 listed: 'true'
 book: ubuntu_applications
 book_weight: '0'
-layout: book.html
-
+layout: book
 ---
 This book is a work in progress. The completed chapters have links.
 

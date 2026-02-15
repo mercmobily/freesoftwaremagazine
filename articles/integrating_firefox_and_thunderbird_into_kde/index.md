@@ -71,5 +71,4 @@ Although Firefox and Thunderbird are, out of the box, extremely non-KDEish, the 
 
 =IMAGE=figure_5.jpg=Figure 5: Thunderbird: KDE style=
 
-**Further reading**:[1][HOWTO Integrate Firefox with KDE](http://gentoo-wiki.com/HOWTO_Integrate_Firefox_with_KDE)[2][Mozillux](http://www.polinux.upv.es/mozilla/?idioma=en)[3][Konquefox Tricks](http://konquefox.free.fr/index.html#tricks)
-
+**Further reading**: [1](http://gentoo-wiki.com/HOWTO_Integrate_Firefox_with_KDE) HOWTO Integrate Firefox with KDE, [2](http://www.polinux.upv.es/mozilla/?idioma=en) Mozillux, [3](http://konquefox.free.fr/index.html#tricks) Konquefox Tricks.

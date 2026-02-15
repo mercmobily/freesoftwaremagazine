@@ -9,8 +9,7 @@ main_image: hide.jpg
 listed: 'true'
 book: autotools_a_guide_to_autoconf_automake_libtool
 book_weight: '1'
-layout: book.html
-
+layout: book
 ---
 In Chapter 1, I gave a brief overview of the Autotools and some of the resources that are currently available to help reduce the learning curve. In this chapter, we're going to step back a little and examine project organization techniques that are applicable to all projects, not just those whose build system is managed by the Autotools. 
 

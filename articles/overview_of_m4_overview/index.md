@@ -7,7 +7,6 @@ license: verbatim_only
 listed: 'true'
 book: autotools_a_guide_to_autoconf_automake_libtool
 book_weight: '7'
-layout: book.html
-
+layout: book
 ---
 An overview of M4.

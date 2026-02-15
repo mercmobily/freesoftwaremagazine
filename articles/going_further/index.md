@@ -7,8 +7,7 @@ license: verbatim_only
 listed: 'true'
 book: network_monitoring_with_zenoss
 book_weight: '0'
-layout: book.html
-
+layout: book
 ---
 I've described using Zenoss for a very small network here, and that's as far as I plan to go. However, you should realize that Zenoss was designed with very large corporate networks in mind, so it is quite possibly to monitor hundreds or thousands of computers with it.
 

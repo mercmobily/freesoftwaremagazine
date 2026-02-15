@@ -7,8 +7,7 @@ license: verbatim_only
 listed: 'true'
 book: ubuntu_applications
 book_weight: '0'
-layout: book.html
-
+layout: book
 ---
 Firefox is a great browser. However, it's a tad on the bloated side (even though the new version are definitely better!). Also, Firefox is focused on cross-platform compatibility. That's great, but sometimes that also means that Firefox won't be able to take advantage of Gnome-specific features, including the unified look, better language support, and HIG-compliant settings. If you've been feeling these Firefox blues as well, Epiphany could be the answer.
 

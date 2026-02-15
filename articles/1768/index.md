@@ -9,7 +9,7 @@ section: opinions
 listed: 'true'
 
 ---
-Robin Miller recently published a story on Newsforge about "Stan"[1], as an example of a situation that demonstrates proprietary software is a danger to business continuity.  I found this story interesting since I think Mr. Miller came close to correctly identifying a core issue, which is that the proprietary software business model as it exists today both facilitates and encourages vendors to act in bad faith.  However, it did not need to have been this way, and really comes down to misuse of licensing along with some deliberate abuse and exploitation of existing commercial law.
+Robin Miller recently published a story on Newsforge about "Stan" [1], as an example of a situation that demonstrates proprietary software is a danger to business continuity.  I found this story interesting since I think Mr. Miller came close to correctly identifying a core issue, which is that the proprietary software business model as it exists today both facilitates and encourages vendors to act in bad faith.  However, it did not need to have been this way, and really comes down to misuse of licensing along with some deliberate abuse and exploitation of existing commercial law.
 
 
 # Software definitions
@@ -23,7 +23,7 @@ Software, as a fixed expression of ideas, is also assumed to be subject to copyr
 
 # The American concept of copyright
 
-Copyright is, in the American tradition, offered to copyright holders to encourage publication, particularly of new ideas, by providing a temporary restriction on the public's rights, often as a means to enable monetary gain.  This temporary restriction is not unlimited either in duration or scope, as it cannot strip users of other natural rights, and so is further balanced by the idea of fair use [2] (also known as fair dealing).  Some nations, in fact, even go further by including not only copyright, but also fair use, as part of their national constitutions.  Hence, like in a contract, we have a bargain that has been negotiated, between copyright holders and users, with both parties having specific obligations to each other.  Copyright is not meant to maximize copyright holder's profits, but rather to provide sufficient incentive to promote publication.
+Copyright is, in the American tradition, offered to copyright holders to encourage publication, particularly of new ideas, by providing a temporary restriction on the public's rights, often as a means to enable monetary gain.  This temporary restriction is not unlimited either in duration or scope, as it cannot strip users of other natural rights, and so is further balanced by the idea of fair use [2], also known as fair dealing.  Some nations, in fact, even go further by including not only copyright, but also fair use, as part of their national constitutions.  Hence, like in a contract, we have a bargain that has been negotiated, between copyright holders and users, with both parties having specific obligations to each other.  Copyright is not meant to maximize copyright holder's profits, but rather to provide sufficient incentive to promote publication.
 
 While the public's right to distribute (publicly copy) or sublicense is embargoed temporarily during copyright, part of the copyright holder's obligations to the public includes the ability of the public to reclaim a work when copyright has expired.  Private copying, such as in one's own home for personal use, is often a more contentious issue, particularly in regard to the 4th Amendment, and fair use tries to address this issue as well.  In fact, existing copyright law does not trump human rights, and hence fair use provisions do explicitly allow both for some form of at least limited private copying.
 
@@ -69,18 +69,16 @@ Hence, speaking for myself, this is where I might draw a further distinction bet
 
 # Bibliography
 
-[[1](http://software.newsforge.com/article.pl?sid=06/08/14/202229)] Newsforge, "Why Proprietary Software is Dangerous for Business"
+1. [Newsforge, "Why Proprietary Software is Dangerous for Business"](http://software.newsforge.com/article.pl?sid=06/08/14/202229)
 
-[[2](http://fairuse.stanford.edu/Copyright_and_Fair_Use_Overview)] Stanford, "Copyright and Fair Use"
+2. [Stanford, "Copyright and Fair Use"](http://fairuse.stanford.edu/Copyright_and_Fair_Use_Overview)
 
-[[3](http://www.gnu.org/philosophy/misinterpreting-copyright.html)] Stallman, "Misinterpreting Copyright"
+3. [Stallman, "Misinterpreting Copyright"](http://www.gnu.org/philosophy/misinterpreting-copyright.html)
 
-[[4](http://www.gnu.org/philosophy/free-sw.html)] FSF, "The Free Software Definition"
+4. [FSF, "The Free Software Definition"](http://www.gnu.org/philosophy/free-sw.html)
 
-[[5](http://digital-law-online.info/lpdi1.0/treatise15.html)] Digital Law Online, "Copyright Misuse"
+5. [Digital Law Online, "Copyright Misuse"](http://digital-law-online.info/lpdi1.0/treatise15.html)
 
-[[6](http://www.britannica.com/eb/article-21772)] Encylopedia Britannica, "Contracts of Adhesion"
+6. [Encylopedia Britannica, "Contracts of Adhesion"](http://www.britannica.com/eb/article-21772)
 
-[[7](http://www.gripe2ed.com/scoop/story/2006/9/4/235357/7375)] Infoworld, "A Contract Only Microsoft Can Break"
-
-
+7. [Infoworld, "A Contract Only Microsoft Can Break"](http://www.gripe2ed.com/scoop/story/2006/9/4/235357/7375)

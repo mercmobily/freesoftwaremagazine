@@ -148,20 +148,19 @@ That’s it! I hope you find KImageMapEditor as useful as I have. It’s a cool 
 
 # Bibliography
 
-[1] [Debian Packages](http://packages.debian.org/kimagemapeditor)
+1. [Debian Packages](http://packages.debian.org/kimagemapeditor)
 
-[2] [RPM Packages](http://rpmfind.net/linux/rpm2html/search.php?query=kimagemapeditor)
+2. [RPM Packages](http://rpmfind.net/linux/rpm2html/search.php?query=kimagemapeditor)
 
-[3] [Source Code](http://www.nongnu.org/kimagemap)
+3. [Source Code](http://www.nongnu.org/kimagemap)
 
-[4] Part of my game project, [The Light Princess](http://light-princess.sf.net)
+4. Part of my game project, [The Light Princess](http://light-princess.sf.net)
 
-[5] Joe Strout’s [Python Universe Builder](http://py-universe.sf.net)
+5. Joe Strout’s [Python Universe Builder](http://py-universe.sf.net)
 
-[6] [Dia](http://www.gnome.org/projects/dia/)
+6. [Dia](http://www.gnome.org/projects/dia/)
 
-[7] [Skencil](http://www.skencil.org)
+7. [Skencil](http://www.skencil.org)
 
-[8] [Inkscape](http://www.inkscape.org)
-
+8. [Inkscape](http://www.inkscape.org)
 

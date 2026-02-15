@@ -114,10 +114,10 @@ The `allowed-hosts` file is optional and is maintained by the administrator: it 
 DenyHosts is a simple method of limiting the effects of brute force attacks on a GNU/Linux server that has services open on the Internet. The default configuration is sufficient for normal operation. However, it can be customized and it has optional features not enabled by default. With the prerequisite service and libwrap support, DenyHosts adds an extra layer of security in the security process.
 
 # Bibliography
-[1] [Open SSH](http://www.openssh.org)
-[2] [TCP Wrappers](ftp://ftp.porcupine.org/pub/security/index.html)
-[3] [DenyHosts](http://www.denyhosts.net)
-[4] [ITSO TCP Wrappers](http://itso.iu.edu/TCP_Wrappers)
+1. [Open SSH](http://www.openssh.org)
+2. [TCP Wrappers](ftp://ftp.porcupine.org/pub/security/index.html)
+3. [DenyHosts](http://www.denyhosts.net)
+4. [ITSO TCP Wrappers](http://itso.iu.edu/TCP_Wrappers)
 
 
 

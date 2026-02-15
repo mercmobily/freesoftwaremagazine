@@ -9,8 +9,7 @@ section: opinions
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '0'
-layout: book.html
-
+layout: book
 ---
 <!-- Creating a moving story-reel shot with Inkscape and Blender -->
 

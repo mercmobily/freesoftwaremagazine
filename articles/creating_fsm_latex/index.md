@@ -210,11 +210,10 @@ But this is another story... (If you are interested in it, please let me know!)
 
 [2] L. Lamport. _LaTeX: A Document Preparation System_. Addison Wesley, Reading, MA., 2nd edition, 1994.
 
-[3] [Comprehensive TeX archive network](http: //www.ctan.org), 2005.
+3. [Comprehensive TeX archive network](http: //www.ctan.org), 2005.
 
-[4] [LaTeX Project Public License.](http://www.latex-project.org/lppl.html), 2005.
+4. [LaTeX Project Public License.](http://www.latex-project.org/lppl.html), 2005.
 
 [5] T. Oetiker et al. The Not So Short Introduction to LaTeX2e. Document lshort.dvi in the base LaTeX distribution, 1999.
 
 [6] T. Mobily. Creating Free Software Magazine. _Free Software Magazine_, issue 1, 2005.
-

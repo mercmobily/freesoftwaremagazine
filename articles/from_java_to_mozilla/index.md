@@ -225,7 +225,7 @@ Although an IDE for Mozilla is still missing, there are some interesting tools. 
 
 **xpcshell**: xpcshell is a command-line Javascript shell. It allows the testing of simple Javascript code snippets and also to load and test any kind of XPCOM. Unfortunately, the running environment of the xpcshell is not the same as a script in a XUL document, thus scripts that are expected to run in a GUI cannot be tested in the xpcshell.
 
-**jsshell **[12]: jsshell is an interesting service which runs as a socket server in the Mozilla browser. It allows a TCP client to connect to the browser and prompts for Javascript commands. Differently from xpcshell, jsshell has the browser as the environment and it is very useful for testing extensions.
+**jsshell** [12]: jsshell is an interesting service which runs as a socket server in the Mozilla browser. It allows a TCP client to connect to the browser and prompts for Javascript commands. Differently from xpcshell, jsshell has the browser as the environment and it is very useful for testing extensions.
 
 **venkman** [13]: venkman is a debugger for Javascript. It is installed as a tool in Mozilla and it is widely considered the best debugger for Javascript code.
 
@@ -266,32 +266,30 @@ In perspective, the internet is evolving from a web of documents to a web of ser
 
 # Bibliography
 
-[1] [Java's web site](http://java.sun.com)/ Last visited 10/04/2005
+1. [Java's web site](http://java.sun.com)/ Last visited 10/04/2005
 
-[2] Tim O’Reilly. [Mozilla.org Unleashes Mozilla 1.0](http://www.internetnews.com/xSP/article.php/1299381) Last visited 15/04/2005
+2. Tim O’Reilly. [Mozilla.org Unleashes Mozilla 1.0](http://www.internetnews.com/xSP/article.php/1299381) Last visited 15/04/2005
 
-[3] Ina Fried and Paul Festa. [Reversal: Next IE divorced from new Windows](www.news.com) February 15, 2005.
+3. Ina Fried and Paul Festa. [Reversal: Next IE divorced from new Windows](www.news.com) February 15, 2005.
 
-[4] [Inside XAML](http://www.ondotnet.com/pub/a/dotnet/2004/01/19/longhorn.html) Last visited 15/04/2005.
+4. [Inside XAML](http://www.ondotnet.com/pub/a/dotnet/2004/01/19/longhorn.html) Last visited 15/04/2005.
 
-[5] [MAB Mozilla Amazon Browser](http://mab.mozdev.org) Last visited 15/04/2005.
+5. [MAB Mozilla Amazon Browser](http://mab.mozdev.org) Last visited 15/04/2005.
 
-[6] [mozdev.org - games](http://games.mozdev.org/) Last visited 15/04/2005.
+6. [mozdev.org - games](http://games.mozdev.org/) Last visited 15/04/2005.
 
-[7] Eric Raymond. [Let Java go: an open letter to Scott McNealy, CEO of Sun](http://www.catb.org/~esr/writings/let-java-go.html) Last visited 15/04/2005.
+7. Eric Raymond. [Let Java go: an open letter to Scott McNealy, CEO of Sun](http://www.catb.org/~esr/writings/let-java-go.html) Last visited 15/04/2005.
 
-[8] Richard P. Gabriel and William N. Joy. [Sun Community Source License Principles](http://www.sun.com/981208/scsl/principles.html) Last visited 15/04/2005.
+8. Richard P. Gabriel and William N. Joy. [Sun Community Source License Principles](http://www.sun.com/981208/scsl/principles.html) Last visited 15/04/2005.
 
-[9] Jim Hamerly and Tom Paquin and Susan Walton. “Freeing the Source: The Story of Mozilla Open Sources”. Published in “Voices from the Open Source Revolution”. O’Reilly. ISBN 1-56592-582-3.
+9. Jim Hamerly and Tom Paquin and Susan Walton. “Freeing the Source: The Story of Mozilla Open Sources”. Published in “Voices from the Open Source Revolution”. O’Reilly. ISBN 1-56592-582-3.
 
-[10] [The Mozilla Application Framework in Detail](http://www.mozilla.org/why/framework-details.html) Last visited 15/04/2005.
+10. [The Mozilla Application Framework in Detail](http://www.mozilla.org/why/framework-details.html) Last visited 15/04/2005.
 
-[11] Qusay H. Mahmoud. [Concurrent programming with J2SE 5.0]( http://java.sun.com/developer/technicalArticles/J2SE/concurrency/) Last visited 15/04/2005.
+11. Qusay H. Mahmoud. [Concurrent programming with J2SE 5.0]( http://java.sun.com/developer/technicalArticles/J2SE/concurrency/) Last visited 15/04/2005.
 
-[12] [Croczilla.com](http://www.croczilla.com/jssh) Last visited 15/04/2005.
+12. [Croczilla.com](http://www.croczilla.com/jssh) Last visited 15/04/2005.
 
-[13] [Venkman Javascript Debugger](http://www.hacksrus.com/~ginda/venkman/) Last visited 15/04/2005.
+13. [Venkman Javascript Debugger](http://www.hacksrus.com/~ginda/venkman/) Last visited 15/04/2005.
 
-[14] [Java-to-XPCOM Bridge](http://java.mozdev.org/blackconnect/) Last visited 15/04/2005.
-
-
+14. [Java-to-XPCOM Bridge](http://java.mozdev.org/blackconnect/) Last visited 15/04/2005.

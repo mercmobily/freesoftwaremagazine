@@ -8,8 +8,7 @@ license: verbatim_only
 listed: 'true'
 book: ubuntu_applications
 book_weight: '0'
-layout: book.html
-
+layout: book
 ---
 Amarok sure inspires a lot of KDE-envy for Gnome users. Unfortunately, it doesn't fit in well in Gnome: it's written for a different desktop environment, uses a whole different toolkit, and requires a lot of extra libraries to run. Luckily, there's a great Gnome-based alternative: Rhythmbox.
 

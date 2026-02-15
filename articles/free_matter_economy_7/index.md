@@ -49,7 +49,7 @@ This frontier-libertarian vision is at odds with corporate proprietary _intellec
 With deep enough pockets, like Apollo-era NASA, you could simply bully the manufacturers into tending to your every whim. But this is not a very likely situation for independent colonists—they are much more likely to get shafted by corporate policies that are short-sighted here on Earth and potentially deadly in space. An omission in a manual, a microcontroller that can’t be reprogrammed, or a mechanism that can’t be repaired by a user could consign a colonist to death. If we let corporate suppliers run the show in space, it will only be a matter of time before the intellectual property system kills somebody.
 
 
-=IMAGE=fig_space_colony.jpg=A Bernal sphere, one of several giant space colony designs explored in O’Neill’s The High Frontier[8] (Image credit: NASA/Public Domain, painting by Don Davis)=
+=IMAGE=fig_space_colony.jpg=A Bernal sphere, one of several giant space colony designs explored in O’Neill’s The High Frontier[8], image credit: NASA/Public Domain, painting by Don Davis=
 
 The realization that this danger exists is not new. It has long been one of many reasons why those favoring a government-run program fear the commercialization of space by a new wave of corporate developers. There’s a real fear that “greedy capitalists” could fill the new frontier with modern analogs to the “robber barons” and “company towns” of the 1880s. Science fiction movies like _Alien_ and _Outland_ have explored this dystopic corporate future, and even Heinlein’s 1949 juvenile novel, _Red Planet_ proposed the idea that Martian colonists would have to rebel against “absentee landlords” on Earth. However, the space movement has not been very forthcoming with ideas for how to combat this problem, especially if the large government agency is not the driving force behind it.
 
@@ -95,7 +95,7 @@ Above all, suits for Moon or Mars will have to be built for field-repairability.
 
 =IMAGE=fig_moondust.jpg=Moonsuit helmets and gear between EVAs on Apollo 17. Moondust gets everywhere! (Credit: NASA)=
 
-Then there are children. When children reach a certain age, they will need suits, and their first suits will likely need to be children’s suits, designed to be easy for the parent to monitor, and hard for a child to mess up. Before they reach that age, it’ll be necessary to decide whether very young children should be in unarticulated containers like the “rescue balls” that were designed early in the Space Shuttle program [15] (though these were claustrophobic for adults and probably would be terrifying to children), or whether it will make more sense for them to be inside a parent’s suit—which implies the engineering problem of designing a maternity spacesuit, specifically for pregnant and nursing mothers.
+Then there are children. When children reach a certain age, they will need suits, and their first suits will likely need to be children’s suits, designed to be easy for the parent to monitor, and hard for a child to mess up. Before they reach that age, it’ll be necessary to decide whether very young children should be in unarticulated containers like the “rescue balls” that were designed early in the Space Shuttle program [15], though these were claustrophobic for adults and probably would be terrifying to children, or whether it will make more sense for them to be inside a parent’s suit—which implies the engineering problem of designing a maternity spacesuit, specifically for pregnant and nursing mothers.
 
 
 =ZOOM=When children reach a certain age, they will need suits, and their first suits will likely need to be children’s suits, designed to be easy for the parent to monitor, and hard for a child to mess up=
@@ -202,7 +202,7 @@ Real settlements are towns with families. They have people both too young and to
 That means that the maintenance labor of a biosphere must be less than 10% of the theoretical labor limit for the number of people it supports. Occasionally, an emergency (or a harvest) may exceed this limit, but such emergencies must be relatively rare and recovery time must be figured into the design. This is true of terrestrial farming, of course—it’s true that the work load during plantings and harvests is huge, and there is always maintenance to be done, but there’s also a lot of time “watching the corn grow”. On Earth, farmers rely a lot on natural, self-regulating systems, but space agriculture always involves relatively high-maintenance artificial growing environments. It’s necessary to design and build the self-regulation into these systems to make them workable.
 
 
-=IMAGE=fig_robotics.jpg=Robotics and automation will be essential on the space frontier. Robonaut (left) is designed as a short-range telepresence device which can reduce EVA requirements on crewed missions [28] (Credit: NASA/JSC); the Crew Spider (right) was a 1990s Anansi Spaceworks concept intended for longer range applications where greater autonomy (and therefore simpler control mechanisms) would be needed [29] (Credit: author).=
+=IMAGE=fig_robotics.jpg=Robotics and automation will be essential on the space frontier. Robonaut (left) is designed as a short-range telepresence device which can reduce EVA requirements on crewed missions [28], Credit: NASA/JSC; the Crew Spider (right) was a 1990s Anansi Spaceworks concept intended for longer range applications where greater autonomy (and therefore simpler control mechanisms) would be needed [29], Credit: author.=
 
 All of this means a massive investment in automation and computerized management of biosphere and space agriculture systems. Only free-designed open architectures, adaptable to each colony, maintained and developed by users of such systems, can hope to provide the levels of flexibility, reliability, and low maintenance that this task requires. Corporate lock-in to particular suppliers has no place in this complex system.
 
@@ -217,7 +217,7 @@ There is an expression of libertarian philosophy that says, “Your freedom shou
 In the era of the covered wagons or even of the great sailing ships of the 19th century, most technology interfaced only with the natural environment, or, at worst, could be easily adapted using handtools and ordinary craftsmen’s understanding of the basic principles (it was de facto open source [TFME2]). Today, we live in a world where most technology interfaces with other technology—often through very arcane and sometimes deeply secreted interface standards “published” only to those that the original technology rights holder authorizes. This puts the end user far more at the mercy of the original equipment manufacturers than they have ever been—their freedom is restricted by it.
 
 
-=IMAGE=fig_halo_sso_connection.jpg=Community-based projects have already contributed to the private development of space. The engine that powered SpaceShip One on its historic flight above the Von Karman line was derived from a unique hybrid engine concept used by the Huntsville Alabama L5 (HAL5) society [30] and their “High Altitude Lift-Off” (HALO) rockoon project. The engine concept was due to Tim Pickens, a HAL5 member [31] (Credits: HAL5 and Scaled Composites, from press kits)=
+=IMAGE=fig_halo_sso_connection.jpg=Community-based projects have already contributed to the private development of space. The engine that powered SpaceShip One on its historic flight above the Von Karman line was derived from a unique hybrid engine concept used by the Huntsville Alabama L5 (HAL5) society [30] and their “High Altitude Lift-Off” (HALO) rockoon project. The engine concept was due to Tim Pickens, a HAL5 member [31], credits: HAL5 and Scaled Composites, from press kits=
 
 For the end user, this is the point of opening the source to hardware designs and documentation [32]—it is essential for the interfaces to be free for the use of integrators, other manufacturers, or the end users, or we are destined to drown in a sea of red tape, bringing many areas of technological progress to an artificially-imposed standstill. Space exploration and development is just one of many such areas, but it may well be the hardest hit, because nearly every piece of technology needed has been affected by the 20th century clamp-down on technology, the centralization of manufacturing and engineering power under corporate control, the mass fear and subsequent disallowance of individuals using advanced technology, and the paranoia of the Cold War or of terrorism.
 
@@ -256,68 +256,66 @@ Will it really be NASA that figures out how to make an airlock that is sufficien
 
 # Bibliography
 
-[1] Bettyann Holtzmann Kevles [Almost Heaven: The Story of Women in Space](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2tid=10808), MIT Press March 2006, ISBN 0-262-61213-5.
+1. Bettyann Holtzmann Kevles [Almost Heaven: The Story of Women in Space](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2tid=10808), MIT Press March 2006, ISBN 0-262-61213-5.
 
-[2] [Towards a Free Matter Economy 2: The Passing of the Shade Tree Mechanic](http://www.freesoftwaremagazine.com/articles/free_matter_economy_2)
+2. [Towards a Free Matter Economy 2: The Passing of the Shade Tree Mechanic](http://www.freesoftwaremagazine.com/articles/free_matter_economy_2)
 
-[3] [“Tucson 2000”](http://www.tucsonspacesociety.org/isdc2000/index.htm) was the 19th annual [International Space Development Conference](http://isdc.nss.org/)
+3. [“Tucson 2000”](http://www.tucsonspacesociety.org/isdc2000/index.htm) was the 19th annual [International Space Development Conference](http://isdc.nss.org/)
 
-[4] [Tom Jaquish](http://www.tucsonspacesociety.org/isdc2000/track2.htm) was a conference organizer and an active member of “Tucson L5”/“Tucson NSS”
+4. [Tom Jaquish](http://www.tucsonspacesociety.org/isdc2000/track2.htm) was a conference organizer and an active member of “Tucson L5”/“Tucson NSS”
 
-[5] [Operating Missions as Nodes on the Internet (OMNI)](http://ipinspace.gsfc.nasa.gov/documents/OMNIconcept.pdf), PDF format
+5. [Operating Missions as Nodes on the Internet (OMNI)](http://ipinspace.gsfc.nasa.gov/documents/OMNIconcept.pdf), PDF format
 
-[6] [In Situ Resource Utilization (ISRU)](http://en.wikipedia.org/wiki/ISRU) (definition from Wikipedia)
+6. [In Situ Resource Utilization (ISRU)](http://en.wikipedia.org/wiki/ISRU) (definition from Wikipedia)
 
-[7] Robert Zubrin, [Mars Direct](http://en.wikipedia.org/wiki/Mars_Direct)
+7. Robert Zubrin, [Mars Direct](http://en.wikipedia.org/wiki/Mars_Direct)
 
-[8] Gerard K. O’Neill, [The High Frontier](http://www.cgpublishing.com/Books/Highfrontier.html), 1977 (1st ed./[Space Studies Institute](http://ssi.org)), 2000, ISBN 1-896522-67-X (3rd ed./[Apogee Books](http://www.cgpublishing.com/Space_Series.html))
+8. Gerard K. O’Neill, [The High Frontier](http://www.cgpublishing.com/Books/Highfrontier.html), 1977 (1st ed./[Space Studies Institute](http://ssi.org)), 2000, ISBN 1-896522-67-X (3rd ed./[Apogee Books](http://www.cgpublishing.com/Space_Series.html))
 
-[9] A reiteration of the ‘four freedoms’ of free software: [Free Software Definition](http://www.fsf.org/licensing/essays/free-sw.html)
+9. A reiteration of the ‘four freedoms’ of free software: [Free Software Definition](http://www.fsf.org/licensing/essays/free-sw.html)
 
-[10] [Christa McAuliffe](http://en.wikipedia.org/wiki/Christa_McAuliffe) was to be the first civilian school teacher in NASA’s “Teacher in Space” program, but died in the _Challenger_ accident, after which NASA abandoned the idea of sending non-astronauts into space
+10. [Christa McAuliffe](http://en.wikipedia.org/wiki/Christa_McAuliffe) was to be the first civilian school teacher in NASA’s “Teacher in Space” program, but died in the _Challenger_ accident, after which NASA abandoned the idea of sending non-astronauts into space
 
-[11] Space Frontier Foundation: [Let Tito Fly!](http://www.space-frontier.org/PressReleases/2001/20010321tito.html)
+11. Space Frontier Foundation: [Let Tito Fly!](http://www.space-frontier.org/PressReleases/2001/20010321tito.html)
 
-[12] Space Frontier Foundation: [Keep Mir Alive](http://www.space-frontier.org/Projects/Mir)
+12. Space Frontier Foundation: [Keep Mir Alive](http://www.space-frontier.org/Projects/Mir)
 
-[13] Tom Jaquish, [Where are the spacesuits?](http://www.tucsonspacesociety.org/isdc2000/spacesuits.htm)
+13. Tom Jaquish, [Where are the spacesuits?](http://www.tucsonspacesociety.org/isdc2000/spacesuits.htm)
 
-[14] Peter Koch, [M is for Middoors](http://www.asi.org/adb/06/09/03/02/005/airlockessay.html), Moon Miner’s Manifesto #5
+14. Peter Koch, [M is for Middoors](http://www.asi.org/adb/06/09/03/02/005/airlockessay.html), Moon Miner’s Manifesto #5
 
-[15] [“Rescue Ball”/PRE](http://www.astronautix.com/craft/reseball.htm)
+15. [“Rescue Ball”/PRE](http://www.astronautix.com/craft/reseball.htm)
 
-[16] [C.A.T.S. (Cheap Access To Space)](http://www.space-frontier.org/Projects/CatsPrize) is a popular catchphrase in the space community and has motivated projects such as the X-Prize
+16. [C.A.T.S. (Cheap Access To Space)](http://www.space-frontier.org/Projects/CatsPrize) is a popular catchphrase in the space community and has motivated projects such as the X-Prize
 
-[17] Ethically, of course, this is a good thing—space colonization will not displace anyone, unlike the Western expansion of the United States. This is an important failure of the popular “American West” analogy. Perhaps Carl Sagan’s suggested analogy (in **Cosmos**) of the colonization of the Polynesian islands is more apt.
+17. Ethically, of course, this is a good thing—space colonization will not displace anyone, unlike the Western expansion of the United States. This is an important failure of the popular “American West” analogy. Perhaps Carl Sagan’s suggested analogy (in **Cosmos**) of the colonization of the Polynesian islands is more apt.
 
-[18] [Biosphere 2](http://en.wikipedia.org/wiki/Biosphere_2) (Wikipedia)
+18. [Biosphere 2](http://en.wikipedia.org/wiki/Biosphere_2) (Wikipedia)
 
-[19] [Lost in the Biosphere](http://www.siteselection.com/ssinsider/snapshot/sf040405.htm) (summary of the history in **Site Selection** magazine)
+19. [Lost in the Biosphere](http://www.siteselection.com/ssinsider/snapshot/sf040405.htm) (summary of the history in **Site Selection** magazine)
 
-[20] Minnesota Lunar Simulant can be ordered from Dr. Paul W. Weiblen, the Director of the Space Science Center, 103 Shepherd Laboratories, 100 Union St., U. of Minnesota, Minneapolis, MN. 55455, according to this Lunar Reclamation Society [story](http://www.lunar-reclamation.org/lunax/harvest_moon1.htm)
+20. Minnesota Lunar Simulant can be ordered from Dr. Paul W. Weiblen, the Director of the Space Science Center, 103 Shepherd Laboratories, 100 Union St., U. of Minnesota, Minneapolis, MN. 55455, according to this Lunar Reclamation Society [story](http://www.lunar-reclamation.org/lunax/harvest_moon1.htm)
 
-[21] [Artemis Society Review of Lunar Mining](http://www.asi.org/adb/02/02/)
+21. [Artemis Society Review of Lunar Mining](http://www.asi.org/adb/02/02/)
 
-[22] [lunar concrete](http://www.pubs.asce.org/WWWdisplay.cgi?9603157)
+22. [lunar concrete](http://www.pubs.asce.org/WWWdisplay.cgi?9603157)
 
-[23] [glass-glass composite](http://www.asi.org/adb/02/16/01/01/glass-fiber-textiles.html)
+23. [glass-glass composite](http://www.asi.org/adb/02/16/01/01/glass-fiber-textiles.html)
 
-[24] [glass spherules](http://www.asi.org/adb/06/09/03/02/096/lunar-glass-production.html)
+24. [glass spherules](http://www.asi.org/adb/06/09/03/02/096/lunar-glass-production.html)
 
-[25] [piled regolith earthworks](http://www.asi.org/adb/06/09/03/02/106/lunar-studies-part1.html)
+25. [piled regolith earthworks](http://www.asi.org/adb/06/09/03/02/106/lunar-studies-part1.html)
 
-[26] Peter Koch, [Moon’s Thorium May Unlock Gates to Mars](http://www.lunar-reclamation.org/mmm_classics/mmmc13_July2006.pdf) (PDF), Moon Miner’s Manifesto #113.
+26. Peter Koch, [Moon’s Thorium May Unlock Gates to Mars](http://www.lunar-reclamation.org/mmm_classics/mmmc13_July2006.pdf) (PDF), Moon Miner’s Manifesto #113.
 
-[27] [Silicon production from lunar regolith](http://www.asi.org/adb/02/13/02/silicon-production.html)
+27. [Silicon production from lunar regolith](http://www.asi.org/adb/02/13/02/silicon-production.html)
 
-[28] [Robonaut](http://www.pythom.com/story/RobonautstohelphumansinspaceMay252005.shtml)
+28. [Robonaut](http://www.pythom.com/story/RobonautstohelphumansinspaceMay252005.shtml)
 
-[29] The Crew Spider project was not finally published, but was another motivator for this research into community-based peer production methods and research funding.
+29. The Crew Spider project was not finally published, but was another motivator for this research into community-based peer production methods and research funding.
 
-[30] [Huntsville Alabama L5 (HAL5)](http://hiwaay.net/~hal5) and Project [HALO](http://hiwaay.net/~hal5/HALO)
+30. [Huntsville Alabama L5 (HAL5)](http://hiwaay.net/~hal5) and Project [HALO](http://hiwaay.net/~hal5/HALO)
 
-[31] HAL5, [The HALO/SpaceShip One Connection](http://hiwaay.net/~hal5/HAL5_SpaceShipOne_connection.pdf) (press release)
+31. HAL5, [The HALO/SpaceShip One Connection](http://hiwaay.net/~hal5/HAL5_SpaceShipOne_connection.pdf) (press release)
 
-[32] Richard Stallman, [The GNU Manifesto](http://www.gnu.org/gnu/manifesto.html)
-
-
+32. Richard Stallman, [The GNU Manifesto](http://www.gnu.org/gnu/manifesto.html)

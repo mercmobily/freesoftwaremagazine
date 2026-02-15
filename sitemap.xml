@@ -1,29 +1,20 @@
 ---
-postProcessFilters: template-ejs
-delayPostProcess: true
+layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-
-<%- '' && info.inspect( info, { depth: 10 } ) %>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://freesoftwaremagazine.com/</loc>
-    <lastmod><%=new Date().toISOString().slice(0,10)%></lastmod>
+    <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-
-<% info.fullList.forEach( function( a ) { %>
-
+{% assign article_pages = site.pages | where_exp: "p", "p.path contains 'articles/' and p.name == 'index.md' and p.listed == 'true'" | sort: "published" | reverse %}
+{% for a in article_pages %}
   <url>
-    <loc>http://freesoftwaremagazine.com/<%=a.system.filePath%></loc>
-    <lastmod><%=a.info.published ? a.info.published.substr(0,10) : ''%></lastmod>
+    <loc>http://freesoftwaremagazine.com{{ a.url }}</loc>
+    <lastmod>{{ a.published | date: "%Y-%m-%d" }}</lastmod>
     <changefreq>Monthly</changefreq>
   </url>
-
-<% }); %>
-
+{% endfor %}
 </urlset>
-
-<%-info.listData%>

@@ -43,5 +43,5 @@ So now I am looking into options like OpenGroupware.org, e-Groupware et al. I'm 
 
 # References
 
-[1] [Ryan's In/Out board](http://ryansiob.sourceforge.net)  
-[2] [Ryan's Electronic Diary Sheet](http://ryanseds.sourceforge.net)
+1. [Ryan's In/Out board](http://ryansiob.sourceforge.net)  
+2. [Ryan's Electronic Diary Sheet](http://ryanseds.sourceforge.net)

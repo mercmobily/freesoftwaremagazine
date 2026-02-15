@@ -185,7 +185,7 @@ It would be a lot simpler just to specify the dates as ISO 8601 – for example:
 
 **Counter argument #5: terse tag names**
 
-Other SGML standards have terse tag names.  For instance, the HTML standard has tag names such as "<P>", "<HR>", "<TR>", "<TD>" and so on.  OOXML is a specification for a technical markup language and it is not unreasonable to expect direct manipulation and implementation to be done with a reference manual.
+Other SGML standards have terse tag names.  For instance, the HTML standard has tag names such as `"<P>"`, `"<HR>"`, `"<TR>"`, `"<TD>"` and so on.  OOXML is a specification for a technical markup language and it is not unreasonable to expect direct manipulation and implementation to be done with a reference manual.
 
 **My problem with this**
 
@@ -285,4 +285,3 @@ Note 4: From ECMA'a web site - [http://http://www.ecma-international.org/](http:
 "Ecma is the inventor and main practitioner of the concept of "fast tracking" of specifications drafted in international standards format through the process in Global Standards Bodies like the ISO."
 
 Note 5: From the ZDNet interview mentioned in the article Tom Robertson wrote "Office 2007 enables people to choose from many formats, and now the Open XML Translator has enabled read and write capabilities for ODF as well".
-

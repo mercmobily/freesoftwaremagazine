@@ -7,8 +7,7 @@ license: verbatim_only
 listed: 'true'
 book: network_monitoring_with_zenoss
 book_weight: '-6'
-layout: book.html
-
+layout: book
 ---
 Now that I have some of my LAN computers running SNMP, I can set Zenoss up to monitor them by "modelling" them. To do this, I start by going to the "Add Device" option on the left-hand menu (this menu stays constant in Zenoss—you can see it on the side of the dashboard display in Figure 4, for example). The "Add Device" option is way down the list, under "Management". Clicking on it leads to the "Add Device" form (Figure 6). Of course, Zenoss calls your computers "devices" (and "system" means something else entirely).
 

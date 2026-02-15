@@ -7,8 +7,7 @@ license: verbatim_only
 listed: 'true'
 book: autotools_a_guide_to_autoconf_automake_libtool
 book_weight: '5'
-layout: book.html
-
+layout: book
 ---
 In this book, I've taken you on a whirlwind tour of the main features of Autoconf, Automake and Libtool. I believe I've explained them in a manner that was not only simple to digest, but also to retain--especially if you had the time and inclination to follow my lead with your own copies of the examples. I've always believed that no form of learning comes anywhere close to the learning that happens while _doing_.
 

@@ -9,7 +9,7 @@ section: interviews
 listed: 'true'
 
 ---
-I recently read an interview with Bill Hilf [1] (thanks to a link from Groklaw).As I read it, I realised that it needed clarifications to anybody left wondering whether Mr. Hilf’s answers are indeed objective. This article will go through the most interesting questions and answers, and will try to clarify some important points
+I recently read an interview with Bill Hilf [1], thanks to a link from Groklaw. As I read it, I realised that it needed clarifications to anybody left wondering whether Mr. Hilf’s answers are indeed objective. This article will go through the most interesting questions and answers, and will try to clarify some important points
 
 
 <!--break-->
@@ -70,5 +70,4 @@ Which doesn’t answer the questions: what, are, these, patents?
 
 Mr. Hilf, please tell us. We all want to know. Please.
 
-[1] [The interview with Bill Hilf](http://www.informationweek.com/news/showArticle.jhtml?articleID=203100965)
-
+1. [The interview with Bill Hilf](http://www.informationweek.com/news/showArticle.jhtml?articleID=203100965)

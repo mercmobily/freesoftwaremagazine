@@ -9,8 +9,7 @@ section: opinions
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '2'
-layout: book.html
-
+layout: book
 ---
 <!-- Artists should be paid, Part 1: Why Creator Endorsed sales promote fair sharing -->
 

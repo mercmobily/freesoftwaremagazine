@@ -4,6 +4,12 @@
 
 # Libs
 /node_modules
+/vendor
+/.bundle
 
 # Ryver default output
 /_site
+/_site_jekyll
+/_site_orig
+/legacy/_site_jekyll
+/legacy/_site_orig

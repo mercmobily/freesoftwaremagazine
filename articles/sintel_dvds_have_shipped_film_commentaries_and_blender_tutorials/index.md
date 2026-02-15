@@ -9,8 +9,7 @@ section: end_users
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '3'
-layout: book.html
-
+layout: book
 ---
 My DVD set for the Blender Foundation's latest open movie, "Sintel," arrived this month. Considering the size, expense, and duration of the production, it's a truly amazing short film. There's much more emotional weight here than in "Elephants Dream" or "Big Buck Bunny." More of interest here, though, is the huge amount of supplementary material included in the set. This is more than just the sources for the movie. There's also a lot of tutorial information for Blender users and of course, an array of personal commentaries on the production process.
 

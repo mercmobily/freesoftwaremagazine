@@ -73,9 +73,7 @@ Also, the standard browsers Iceweasel (Debian) and Firefox (Ubuntu) offer the po
 ## The Idea
 
 The [gNewSense project](http://www.gnewsense.org) has the goal of creating a GNU/Linux distribution that has the freedom of the user as its top priority - even if this limits comfort and hardware compatibility. The basis for action of the distribution are the [guidelines of the FSF for free operating systems](http://www.gnu.org/philosophy/free-system-distribution-guidelines.html).
-The following citation describes the goal of gNewSense "Note that our goal is to produce a fully free distribution, not to have as many features as possible" [from here](http://www.gnewsense.org/Main/Features). In practise, this means that gNewSense aims to
-1. only distribute free software according to the FSF's definition and
-2. not to facilitate the installation of non-free software.
+The following citation describes the goal of gNewSense "Note that our goal is to produce a fully free distribution, not to have as many features as possible" [from here](http://www.gnewsense.org/Main/Features). In practise, this means that gNewSense aims to: 1. only distribute free software according to the FSF's definition; and 2. not to facilitate the installation of non-free software.
 These two goals are in need of a brief clarification:
 regarding 1.: it is hard to ensure that any non-trivial software-collection is 100% free - every source file must be checked regarding its license. However, gNewSense immediately removes any software from its offerings if it is discovered not to be free, even if this leads to extensive limitations ([as happened with the non-free X.org software mentioned above](http://wiki.gnewsense.org/Main/Broken3dApps)).
 regarding 2.: the user remains free to install non-free software, of course. However, gNewSense does not offer the user any help in this respect, for example in the form of providing such software or instructions on installing non-free software.

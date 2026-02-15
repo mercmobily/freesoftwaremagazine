@@ -8,8 +8,7 @@ license: verbatim_only
 listed: 'true'
 book: making_the_impossible_happen_the_rules_of_free_culture
 book_weight: '0'
-layout: book.html
-
+layout: book
 ---
 <!--Rule #1: Hold On Loosely-->
 
@@ -201,47 +200,47 @@ About four times out of five, though, free software programmers pick a copyleft 
 
 # Notes:
 
-[1] [Gnu General Public License](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) (GPL).
+1. [Gnu General Public License](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) (GPL).
 
-[2] [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/) (CC By-SA)
+2. [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/) (CC By-SA)
 
-[3] Eric Raymond; [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/), [Homesteading the Noosphere](http://www.catb.org/~esr/writings/cathedral-bazaar/homesteading/), and [The Magic Cauldron](http://www.catb.org/~esr/writings/cathedral-bazaar/magic-cauldron/); 1997-2000. Also available in print as [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](http://oreilly.com/catalog/9780596001087) from O'Reilly books.
+3. Eric Raymond; [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/), [Homesteading the Noosphere](http://www.catb.org/~esr/writings/cathedral-bazaar/homesteading/), and [The Magic Cauldron](http://www.catb.org/~esr/writings/cathedral-bazaar/magic-cauldron/); 1997-2000. Also available in print as [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](http://oreilly.com/catalog/9780596001087) from O'Reilly books.
 
-[4] ["PureDarwin" Project](http://www.puredarwin.org). A community-based continuation of the Darwin project.
+4. ["PureDarwin" Project](http://www.puredarwin.org). A community-based continuation of the Darwin project.
 
-[5] [Copyleft has no impact on project activity?!](http://www.freesoftwaremagazine.com/columns/copyleft_has_no_impact_project_activity). Statistics on project activity index were derived using features of the Trove search engine on Sourceforge for projects based on results from particular groups of licenses classified as "copyleft", "non-copyleft", "proprietary/other", and "public domain").
+5. [Copyleft has no impact on project activity?!](http://www.freesoftwaremagazine.com/columns/copyleft_has_no_impact_project_activity). Statistics on project activity index were derived using features of the Trove search engine on Sourceforge for projects based on results from particular groups of licenses classified as "copyleft", "non-copyleft", "proprietary/other", and "public domain").
 
-[6] [OpenDarwin Mirror](http://www.opendarwin.info/opendarwin.org/en). The final message describes the shutdown of the project due to the transfer of interest to the proprietary Mac OS X.
+6. [OpenDarwin Mirror](http://www.opendarwin.info/opendarwin.org/en). The final message describes the shutdown of the project due to the transfer of interest to the proprietary Mac OS X.
 
-[7] [Debian Free Software Guidelines](http://www.debian.org/social_contract#guidelines)
+7. [Debian Free Software Guidelines](http://www.debian.org/social_contract#guidelines)
 
-[8] [Debian Project](http://www.debian.org)
+8. [Debian Project](http://www.debian.org)
 
-[9] [Open Source Definition](http://opensource.org/docs/osd)
+9. [Open Source Definition](http://opensource.org/docs/osd)
 
-[10] [Open Source Initiative](http://opensource.org)
+10. [Open Source Initiative](http://opensource.org)
 
-[11] [Definition of Free Cultural Works](http://freedomdefined.org/Definition)
+11. [Definition of Free Cultural Works](http://freedomdefined.org/Definition)
 
-[12] [Freedom Defined](http://freedomdefined.org)
+12. [Freedom Defined](http://freedomdefined.org)
 
-[13] [Free Software Definition](http://www.gnu.org/philosophy/free-sw.html)
+13. [Free Software Definition](http://www.gnu.org/philosophy/free-sw.html)
 
-[14] [Free Software Foundation](http://www.fsf.org/)
+14. [Free Software Foundation](http://www.fsf.org/)
 
-[15] [GNU Project](http://www.gnu.org)
+15. [GNU Project](http://www.gnu.org)
 
-[16] An [exploit](http://www.freesoftwaremagazine.com/columns/debian_and_the_creative_commons), suggested by [Greg London](http://www.greglondon.com/), shows how an unscrupulous party could use DRM to maintain a "platform monopoly" on rights which are granted by the license of a free-licensed work, even with a so-called "parallel distribution" requirement.
+16. An [exploit](http://www.freesoftwaremagazine.com/columns/debian_and_the_creative_commons), suggested by [Greg London](http://www.greglondon.com/), shows how an unscrupulous party could use DRM to maintain a "platform monopoly" on rights which are granted by the license of a free-licensed work, even with a so-called "parallel distribution" requirement.
 
-[17] [BSD license.](http://opensource.org/licenses/bsd-license.php)
+17. [BSD license.](http://opensource.org/licenses/bsd-license.php)
 
-[18] [MIT license.](http://opensource.org/licenses/mit-license.php)
+18. [MIT license.](http://opensource.org/licenses/mit-license.php)
 
-[19] [Apache license.](http://opensource.org/licenses/apache2.0.php)
+19. [Apache license.](http://opensource.org/licenses/apache2.0.php)
 
-[20] [What if copyright didn't apply to binary executables?](http://www.freesoftwaremagazine.com/columns/what_if_copyright_didnt_apply_binary_executables)
+20. [What if copyright didn't apply to binary executables?](http://www.freesoftwaremagazine.com/columns/what_if_copyright_didnt_apply_binary_executables)
 
-[21] [TAPR Open Hardware License](http://www.tapr.org/ohl.html) (TAPR stands for"Tucson Amateur Packet Radio", but today it is an international organization).
+21. [TAPR Open Hardware License](http://www.tapr.org/ohl.html) (TAPR stands for"Tucson Amateur Packet Radio", but today it is an international organization).
 
 # Terms:
 

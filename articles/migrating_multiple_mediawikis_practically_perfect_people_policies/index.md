@@ -9,8 +9,7 @@ section: hacking
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '2'
-layout: book.html
-
+layout: book
 ---
 <!-- Migrating Multiple MediaWikis with Practically Perfect People Policies -->
 

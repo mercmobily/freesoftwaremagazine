@@ -104,16 +104,16 @@ The internet facilitates sharing and enables collaborations between a wide range
 
 # Bibliography
 
-[1] [Motivation crowding theory](http://en.wikipedia.org/wiki/Motivation_crowding_theory), Wikipedia
+1. [Motivation crowding theory](http://en.wikipedia.org/wiki/Motivation_crowding_theory), Wikipedia
 
 [2] Term coined by Yochai Benkler. Benkler, Yochai; [The Wealth of Networks: How Social Production Transforms Markets and Freedom](http://www.benkler.org/wealth_of_networks), 2006, p. 60; [Commons-based peer production](http://en.wikipedia.org/wiki/Commons-based_peer_production), Wikipedia
 
-[3] [Studying Cooperation and Conflict between Authors with History Flow Visualizations](http://alumni.media.mit.edu/~fviegas/papers/history_flow.pdf)
+3. [Studying Cooperation and Conflict between Authors with History Flow Visualizations](http://alumni.media.mit.edu/~fviegas/papers/history_flow.pdf)
 
 [4] Wikipedia co-founder Jimmy Wales and the non-profit Wikimedia Foundation that is now operating Wikipedia and its sister projects [emphasize the importance of free knowledge and free software](http://blog.jimmywales.com/index.php/archives/2004/10/21/free-knowledge-requires-free-software-and-free-file-formats/)
 
 [5] More information about the Google search algorithm: [PageRank](http://en.wikipedia.org/wiki/PageRank/), Wikipedia
 
-[6] [Free content](http://en.wikipedia.org/wiki/Free_content), Wikipedia; [Definition of Free Cultural Works](http://freedomdefined.org/Definition)
+6. [Free content](http://en.wikipedia.org/wiki/Free_content), Wikipedia; [Definition of Free Cultural Works](http://freedomdefined.org/Definition)
 
-[7] [Definition of Free Cultural Works: Licenses](http://freedomdefined.org/Licenses)
+7. [Definition of Free Cultural Works: Licenses](http://freedomdefined.org/Licenses)

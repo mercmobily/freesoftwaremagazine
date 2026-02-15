@@ -9,8 +9,7 @@ section: opinions
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '1'
-layout: book.html
-
+layout: book
 ---
 <!-- Three Real-Time Animation Methods: Machinima, Digital Puppetry, and Motion Capture -->
 

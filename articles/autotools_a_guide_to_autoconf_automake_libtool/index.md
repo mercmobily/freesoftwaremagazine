@@ -8,8 +8,7 @@ license: verbatim_only
 listed: 'true'
 book: autotools_a_guide_to_autoconf_automake_libtool
 book_weight: -100
-layout: book.html
-
+layout: book
 ---
 There are few people who would deny that Autoconf, Automake and Libtool have revolutionized the free software world. While there are many thousands of Autotools advocates, some developers absolutely _hate_ the Autotools, with a passion. Why? Let me try to explain with an analogy.
 <!--break-->

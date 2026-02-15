@@ -8,8 +8,7 @@ license: verbatim_only
 listed: 'true'
 book: ubuntu_applications
 book_weight: '0'
-layout: book.html
-
+layout: book
 ---
 After Microsoft killed Netscape, there was no serious competitor to Internet Explorer in the browser wars. For years, Microsoft lorded its dominance of the web browser market. Then along came Firefox, the open source web browser that took the world by storm.
 

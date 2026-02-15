@@ -8,8 +8,7 @@ license: verbatim_only
 listed: 'true'
 book: making_the_impossible_happen_the_rules_of_free_culture
 book_weight: -100
-layout: book.html
-
+layout: book
 ---
 <!-- Achieving Impossible Things with Free Culture and Commons-Based Enterprise-->
 

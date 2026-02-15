@@ -7,8 +7,7 @@ license: verbatim_only
 listed: 'true'
 book: autotools_a_guide_to_autoconf_automake_libtool
 book_weight: '6'
-layout: book.html
-
+layout: book
 ---
 This chapter started out as a catalog of reusable solutions--canned macros, if you will. But as I finished chapter after chapter preceeding this one, it became clear to me that I really needed to broaden my definition of a "canned solution". Instead of just cataloging interesting macros here (which has been done before anyway), this chapter lists several unrelated, but important tips for creating great projects in general. Some of these are related to the GNU Autotools, but others are merely good programming practice with respect to open source and free software projects.
 <!--break-->

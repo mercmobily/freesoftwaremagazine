@@ -9,8 +9,7 @@ section: opinions
 listed: 'true'
 book: making_the_impossible_happen_the_rules_of_free_culture
 book_weight: '12'
-layout: book.html
-
+layout: book
 ---
 By rights, copyright really shouldn't apply to binary executables, because they are purely "functional" (not "expressive") works. The decision to extend copyright to binaries was an economically-motivated anomaly, and that choice has some counter-intuitive and detrimental side-effects. What would things in the free software world look like if the courts had decided otherwise? For one thing, the implementation of copyleft would have to be completely different.
 

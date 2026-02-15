@@ -27,7 +27,7 @@ Hello everybody, and welcome once again to the fortnightly newsletter of [Free S
 
 6. **Too many free operating systems? I don't think so.** - Some people say that there are too many GNU/Linux distributions, too many people just doing their own instead of joining an existing effort. [Read more...](http://www.fsdaily.com/Community/Too_many_free_operating_systems_I_dont_think_so/)
 
-7. **NNSquad: Network Neutrality Squad** - "The Network Neutrality Squad (NNSquad) is an open-membership, open-source effort, enlisting the Internet's users to help keep the Internet's operations fair and unhindered from unreasonable restrictions. [...] [Read more...](http://www.fsdaily.com/Community/NNSquad_Network_Neutrality_Squad-1/)
+7. **NNSquad: Network Neutrality Squad** - "The Network Neutrality Squad (NNSquad) is an open-membership, open-source effort, enlisting the Internet's users to help keep the Internet's operations fair and unhindered from unreasonable restrictions. ... ([http://www.fsdaily.com/Community/NNSquad_Network_Neutrality_Squad-1/](http://www.fsdaily.com/Community/NNSquad_Network_Neutrality_Squad-1/))
 
 8. **Perception of Free/Libre Software** - "...In my recent public speeches I focused on one value of Free Software: business ethics within digital society." [Read more...](http://www.fsdaily.com/Philosophy/Perception_of_FreeLibre_Software-1/)
 
@@ -108,4 +108,3 @@ Please add freesoftwaremagazine.com to the ends of the email addresses above. So
 # Thanks
 
 Thank you for subscribing to Free Software Magazine. You are a part of a growing community who help to raise the awareness of, and educate new users in, the joys of free software. Without you we would not have this community and without you we would not have a magazine. Happy reading!
-

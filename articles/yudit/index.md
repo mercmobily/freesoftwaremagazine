@@ -100,8 +100,7 @@ In case you need a text editor as fast as vi, or as powerful as Emacs, maybe you
 
 # Bibliography
 
- [1] [The Unicode Consortium](http://www.unicode.org).
+1. [The Unicode Consortium](http://www.unicode.org).
 
- [2] [The (Y)Unicode eDITor](http://www.yudit.org).
-
+2. [The (Y)Unicode eDITor](http://www.yudit.org).
 

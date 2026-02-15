@@ -55,10 +55,9 @@ Regrettable as any legislation which makes life harder for innovators is, I have
 
 # Bibliography
 
-[1]  [Computer Discount Warehouse online](http://www.cdw.com), September 2005.
+1.  [Computer Discount Warehouse online](http://www.cdw.com), September 2005.
 
-[2]  [Debian Gnu/Linux](http://www.debian.org) currently includes over 15,000 free-software packages, available as 2 DVDs.
+2.  [Debian Gnu/Linux](http://www.debian.org) currently includes over 15,000 free-software packages, available as 2 DVDs.
 
-[3]  [Java](http://java.sun.com/) is not free software, although it is zero-cost. There are some[free alternative runtimes](http://viva.sourceforge.net/) such as [Kaffe](http://www.kaffe.org/) and free native compilers such as[GCJ](http://gcc.gnu.org/java/),but Java remains a bit of a problem for the free software purist, as explained in the[Debian Java FAQ](http://www.debian.org/doc/manuals/debian-java-faq/),which is why I list an alternative solution.  Entrepreneurial users may not care about this, though.
-
+3.  [Java](http://java.sun.com/) is not free software, although it is zero-cost. There are some[free alternative runtimes](http://viva.sourceforge.net/) such as [Kaffe](http://www.kaffe.org/) and free native compilers such as[GCJ](http://gcc.gnu.org/java/),but Java remains a bit of a problem for the free software purist, as explained in the[Debian Java FAQ](http://www.debian.org/doc/manuals/debian-java-faq/),which is why I list an alternative solution.  Entrepreneurial users may not care about this, though.
 

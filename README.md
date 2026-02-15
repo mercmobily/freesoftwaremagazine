@@ -30,7 +30,22 @@ I looked and looked, before writing my own generator, hoping that I would be abl
 
 !Let us know if it works. And... don't forget to submit pull requests for [Issue #1](https://github.com/mercmobily/freesoftwaremagazine/issues/1)!
 
+## Jekyll + GitHub Pages (current migration path)
 
+This repository now also supports Jekyll builds and GitHub Actions deployment.
+
+Local validation commands:
+
+```bash
+bundle exec jekyll build
+bundle exec ruby legacy/migration/scripts/validate_fsm_transforms.rb
+bundle exec ruby legacy/migration/scripts/validate_site_parity.rb
+```
+
+Operational docs:
+
+- `ADD_ARTICLE_GUIDE.md` (article format, preferred FSM syntax, validation)
+- `legacy/migration/docs/GITHUB_PAGES_SETUP.md` (migration/deploy notes)
 
 
 

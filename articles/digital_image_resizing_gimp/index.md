@@ -119,10 +119,9 @@ You are strongly advised to check the GIMP’s manual [3], particularly when exp
 
 # Bibliography
 
-[1] [The GNU Image Manipulation Program](http://www.gimp.org).
+1. [The GNU Image Manipulation Program](http://www.gimp.org).
 
-[2] [Graphics file format entry in Wikipedia](http://en.wikipedia.org/wiki/Graphics_file_format).
+2. [Graphics file format entry in Wikipedia](http://en.wikipedia.org/wiki/Graphics_file_format).
 
-[3] [GIMP User Manual](http://manual.gimp.org/).
-
+3. [GIMP User Manual](http://manual.gimp.org/).
 

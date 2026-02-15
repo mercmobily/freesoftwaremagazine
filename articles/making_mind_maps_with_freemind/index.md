@@ -131,12 +131,11 @@ Even though I used to dislike my father’s recipes, as they are not light at al
 
 # Bibliography
 
- [1] [Freemind’s official site](http://sourceforge.net/projects/freemind).
+1. [Freemind’s official site](http://sourceforge.net/projects/freemind).
 
- [2] [Freemind Project’s main page](http://freemind.sourceforge.net/wiki/index.php/Main_Page).
+2. [Freemind Project’s main page](http://freemind.sourceforge.net/wiki/index.php/Main_Page).
 
- [3] [Mind mapping](http://en.wikipedia.org/wiki/Mind_map).
+3. [Mind mapping](http://en.wikipedia.org/wiki/Mind_map).
 
- [4] [Mind maps and mind mapping](http://members.optusnet.com.au/~charles57/Creative/Mindmap/index.html).
-
+4. [Mind maps and mind mapping](http://members.optusnet.com.au/~charles57/Creative/Mindmap/index.html).
 

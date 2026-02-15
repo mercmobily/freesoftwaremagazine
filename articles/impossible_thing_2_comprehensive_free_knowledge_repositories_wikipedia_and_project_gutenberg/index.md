@@ -82,8 +82,8 @@ Clearly, the conventional wisdom needs adjusting.
 
 ——
 
-[1] ["Internet encyclopaedias go head to head"](http://www.nature.com/doifinder/10.1038/438900a). Jim Giles. Nature 438, 900 - 901 (2005). 
+1. ["Internet encyclopaedias go head to head"](http://www.nature.com/doifinder/10.1038/438900a). Jim Giles. Nature 438, 900 - 901 (2005). 
 
-[2] This statement is difficult to test because no one really knows exactly how big the Library of Alexandria was, and there are estimates that are probably huge exaggerations. However, based on the most reliable estimates I could find, Project Gutenberg is now larger. The Library of Alexandria was measured in numbers of scrolls, but it turns out that scrolls were generally somewhat shorter than books (and therefore than the typical e-texts in Project Gutenberg), but both can be estimated in terms of number of words, to make comparisons possible.
+2. This statement is difficult to test because no one really knows exactly how big the Library of Alexandria was, and there are estimates that are probably huge exaggerations. However, based on the most reliable estimates I could find, Project Gutenberg is now larger. The Library of Alexandria was measured in numbers of scrolls, but it turns out that scrolls were generally somewhat shorter than books (and therefore than the typical e-texts in Project Gutenberg), but both can be estimated in terms of number of words, to make comparisons possible.
 
 

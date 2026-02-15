@@ -17,7 +17,7 @@ Unfortunately, the FTA has recently lost their European funding. I talked to Dav
 
 # Q: What is the FTA?
 
-The Free Technology Academy [1] started in 2008 as an initiative of the Free Knowledge Institute [2] (FKI) to promote Free Software in the European higher education space. Since the beginning we worked very closely with two distance universities, the Open University Netherlands [3] (OU.nl) and the Open University of Catalonia [4] (UOC). Our initial aim was to set up a virtual campus with course modules on Free Technologies, recognised by partner universities in their master degree programmes.
+The Free Technology Academy [1] started in 2008 as an initiative of the Free Knowledge Institute [2] to promote Free Software in the European higher education space. Since the beginning we worked very closely with two distance universities, the Open University Netherlands [3] and the Open University of Catalonia [4]. Our initial aim was to set up a virtual campus with course modules on Free Technologies, recognised by partner universities in their master degree programmes.
 
 Since the first pilot in 2009, the FTA programme [5] has expanded from 3 to 13 course modules, including subjects such as "The concepts of Free Software and Open Standards", "GNU/Linux systems", "Economic Aspects of Free Software", "Software Architecture" and many others. According to the spirit of the Free Software movement, all FTA learning materials [6] are released under copyleft licenses.
 

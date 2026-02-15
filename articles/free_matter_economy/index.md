@@ -68,7 +68,7 @@ Just as free programs need free libraries, free machines need free electronics a
 
 Even the LART, which is often held up as the prototypical free hardware computer, suffered from this problem: the particular ARM-series CPU used in the LART design was discontinued[8]. When this happened, implementors were stuck with trying to find existing surplus or used components, or coming up with a new design to accomodate newer parts.
 
-Preventing this kind of problem—or even providing economic motivation to phase it out—will present a more difficult legal problem than for software. Attempts to legally encode a definitive “Free Hardware License”, of the stature of the Gnu GPL, have been encumbered by this complexity, although the draft “Open Hardware General Public License”[9] (originally from Open IP Cores) is an interesting attempt. Today, however, the Open Cores website promotes using the unmodified GPL or BSD licenses for free-licensed hardware designs.
+Preventing this kind of problem—or even providing economic motivation to phase it out—will present a more difficult legal problem than for software. Attempts to legally encode a definitive “Free Hardware License”, of the stature of the Gnu GPL, have been encumbered by this complexity, although the draft “Open Hardware General Public License”[9], originally from Open IP Cores, is an interesting attempt. Today, however, the Open Cores website promotes using the unmodified GPL or BSD licenses for free-licensed hardware designs.
 
 
 # The love of money is the root of all evil
@@ -276,56 +276,54 @@ In the second and third parts of this series, I will address those questions in 
 
 # Bibliography
 
-[1]  R. Buckminster Fuller, in **Critical Path**[FAQ](http://www.cjfearnley.com/fuller-faq.html)
+1.  R. Buckminster Fuller, in **Critical Path**[FAQ](http://www.cjfearnley.com/fuller-faq.html)
 
-[2]  Richard M. Stallman, [The Gnu Manifesto](http://www.gnu.org/gnu/manifesto.html)
+2.  Richard M. Stallman, [The Gnu Manifesto](http://www.gnu.org/gnu/manifesto.html)
 
-[3]  Eric Raymond, [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/)
+3.  Eric Raymond, [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/)
 
-[4]  Eric Raymond, [The Magic Cauldron](http://www.catb.org/~esr/writings/cathedral-bazaar/)
+4.  Eric Raymond, [The Magic Cauldron](http://www.catb.org/~esr/writings/cathedral-bazaar/)
 
-[5]  [Narya Project Incubator and Forum](http://narya.narya.net)
+5.  [Narya Project Incubator and Forum](http://narya.narya.net)
 
-[6]  [Narya Bazaar](http://bazaar.narya.net)
+6.  [Narya Bazaar](http://bazaar.narya.net)
 
-[7]  [Narya LSpace](http://lspace.narya.net)
+7.  [Narya LSpace](http://lspace.narya.net)
 
-[8]  [The LART Pages](http://www.lart.tudelft.nl/)
+8.  [The LART Pages](http://www.lart.tudelft.nl/)
 
-[9]  Open Hardware General Public License (orignally from Open Cores, but removed), [copy](http://open.narya.net/Legal/ohgpl_html)
+9.  Open Hardware General Public License (orignally from Open Cores, but removed), [copy](http://open.narya.net/Legal/ohgpl_html)
 
-[10] [Space Ship One](http://www.scaled.com/projects/tierone/)
+10. [Space Ship One](http://www.scaled.com/projects/tierone/)
 
-[11] [Ansari X-Prize](http://www.xprizefoundation.com/)
+11. [Ansari X-Prize](http://www.xprizefoundation.com/)
 
-[12] Paul Harrison, [The Rational Street Performer Protocol](http://www.logarithmic.net/pfh/rspp)
+12. Paul Harrison, [The Rational Street Performer Protocol](http://www.logarithmic.net/pfh/rspp)
 
-[13] E-Bay [policies](http://pages.ebay.com/help/policies/)
+13. E-Bay [policies](http://pages.ebay.com/help/policies/)
 
-[14] [PHP BB](http://www.phpbb.com/)
+14. [PHP BB](http://www.phpbb.com/)
 
-[15] [Drupal](http://www.drupal.org/)
+15. [Drupal](http://www.drupal.org/)
 
-[16] [Civicspace](http://civicspacelabs.org/)
+16. [Civicspace](http://civicspacelabs.org/)
 
-[17] [Oekaki Central](http://www.oekakicentral.com/)
+17. [Oekaki Central](http://www.oekakicentral.com/)
 
-[18] [Wiki](http://wiki.org/)
+18. [Wiki](http://wiki.org/)
 
-[19] IFLA, [Functional Requirements for Bibliographic Records](http://www.ifla.org/VII/s13/frbr/frbr.htm)
+19. IFLA, [Functional Requirements for Bibliographic Records](http://www.ifla.org/VII/s13/frbr/frbr.htm)
 
-[20] Morbus Iff, [LibDB](http://www.libdb.com/)
+20. Morbus Iff, [LibDB](http://www.libdb.com/)
 
-[21] Robert Zubrin, [Mars Direct](http://www.cbqc.net/mars/)
+21. Robert Zubrin, [Mars Direct](http://www.cbqc.net/mars/)
 
-[22] [Open Cores](http://www.opencores.org/)
+22. [Open Cores](http://www.opencores.org/)
 
-[23] [Artemis Society International](http://www.asi.org/)
+23. [Artemis Society International](http://www.asi.org/)
 
-[24] [Zope](http://www.zope.org)
+24. [Zope](http://www.zope.org)
 
-[25] [Python](http://www.python.org)
+25. [Python](http://www.python.org)
 
-[26] [Zope 3](http://www.zope.org/DevHome/Wikis/DevSite/Projects/ComponentArchitecture/FrontPage)
-
-
+26. [Zope 3](http://www.zope.org/DevHome/Wikis/DevSite/Projects/ComponentArchitecture/FrontPage)

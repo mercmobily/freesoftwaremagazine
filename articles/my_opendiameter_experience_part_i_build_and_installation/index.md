@@ -46,10 +46,10 @@ Sounds pretty straightforward. However, there might be some tricky places.
 The parts that most likely will give you problems are the external libraries.
 OpenDiameter 1.0.7-i requires:
 1. GNU g++ 4.x.x and above
-1. ACE library 5.5.x
-1. boost library 1.33.x and above
-1. OpenSSL
-1. Autoconf, Automake, Libtool
+2. ACE library 5.5.x
+3. boost library 1.33.x and above
+4. OpenSSL
+5. Autoconf, Automake, Libtool
 
 Number 1. and 5. are very common build tools on Linux and the like, and you
 usually wouldn't need to worry too much about them. OpenSSL is also very stable
@@ -146,7 +146,7 @@ $ diff -upN configure.orig configure
 
 
 On FC8, it failed because the header file for gettimeofday() on the system is
-<sys/time.h> not the expected <time.h> by configure script. So the following
+`<sys/time.h>` not the expected `<time.h>` by configure script. So the following
 change in configure file fixed it:
 
 =CODE_START=

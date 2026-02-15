@@ -64,7 +64,7 @@ to each line, then clicking on a marker icon will pop up a box with the restaura
 <styleUrl>#[insert here a code for this style]</styleUrl>
 =CODE_END=
 
-For example, a Chinese restaurant might get the style code 'Chi', as in '<styleUrl>#Chi</styleUrl>', while an Indian restaurant might get '<styleUrl>#Ind</styleUrl>'
+For example, a Chinese restaurant might get the style code 'Chi', as in `<styleUrl>#Chi</styleUrl>`, while an Indian restaurant might get `<styleUrl>#Ind</styleUrl>`
 
 Let's try it:
 
@@ -79,19 +79,19 @@ __BEGIN {FS=","}__ tells AWK that the separator between fields in _Restaurants.t
 __NR>1__ tells AWK to start with line 2 of the file, ignoring the header line with the field names.
 The __print__ command simply strings together the following bits and pieces, one after the other:
 
-"<Placemark><description>" (_The text to be printed needs to be quoted_)
+`"<Placemark><description>"` (The text to be printed needs to be quoted)
 
 $1 (_The 'Restaurant' field_)
 
-"<br />" (_Markup to put phone number on next line_)
+`"<br />"` (_Markup to put phone number on next line_)
 
 $3 (_The 'Phone' field_)
 
-"</description><styleUrl>#" (_Next bit of the markup_)
+`</description><styleUrl>#` (_Next bit of the markup_)
 
 substr($4,1,3) (_Clever AWK trick! The __substr__ function looks in field 4 ('Cuisine'), starts with character 1 and returns the first 3 characters in the string_)
 
-"</styleUrl><Point><coordinates>" (_Next bit of the markup_)
+`</styleUrl><Point><coordinates>` (_Next bit of the markup_)
 
 $6 (_The longitude field_)
 
@@ -103,11 +103,10 @@ $5 (_The latitude field_)
 
 And here are the first two lines of the result:
 
-<Placemark><description>La Campanita<br />9551 3613</description><styleUrl>#Mex</styleUrl><Point><coordinates>152.4076
-,-33.8373,0</coordinates></Point></Placemark>
-
-<Placemark><description>Jade Phoenix<br />9551 9048</description><styleUrl>#Chi</styleUrl><Point><coordinates>152.4696
-,-33.8628,0</coordinates></Point></Placemark>
+=CODE_START=
+<Placemark><description>La Campanita<br />9551 3613</description><styleUrl>#Mex</styleUrl><Point><coordinates>152.4076,-33.8373,0</coordinates></Point></Placemark>
+<Placemark><description>Jade Phoenix<br />9551 9048</description><styleUrl>#Chi</styleUrl><Point><coordinates>152.4696,-33.8628,0</coordinates></Point></Placemark>
+=CODE_END=
 
 Works! But if we're going to style those placemarks in a KML file, they'll need to be grouped by style, each group in its own folder. That's easily done with the __sort__ command, with _t,_ telling __sort__ that the field separator is a comma, and _-k4_ saying 'Sort on the 4th field' ('Cuisine'). And to make sure the header line doesn't get sorted into the mix, we'll start with AWK to delete that first header line, then print all lines in a second AWK command:
 

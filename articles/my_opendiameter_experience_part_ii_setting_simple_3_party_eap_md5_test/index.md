@@ -575,13 +575,13 @@ delayed. And I hope all those issues I have met, if they are real, will be fixed
  and more importantly, more documents please!
 
 # REFERENCES
-[1] OpenDiameter README file from 1.0.7-i source package
+1. OpenDiameter README file from 1.0.7-i source package
 
-[2] [RFC 3588, Diameter Base Protocol](http://tools.ietf.org/html/rfc3588)
+2. [RFC 3588, Diameter Base Protocol](http://tools.ietf.org/html/rfc3588)
 
-[3] [RFC 4072 Diameter Extensible Authentication Protocol Application](http://tools.ietf.org/html/rfc4072)
+3. [RFC 4072 Diameter Extensible Authentication Protocol Application](http://tools.ietf.org/html/rfc4072)
 
-[4] [IETF PANA Draft](http://tools.ietf.org/html/draft-ietf-pana-pana-18)
+4. [IETF PANA Draft](http://tools.ietf.org/html/draft-ietf-pana-pana-18)
 
 # Appendix for MD5 link problem
 

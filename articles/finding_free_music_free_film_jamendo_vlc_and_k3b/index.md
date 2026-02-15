@@ -9,8 +9,7 @@ section: end_users
 listed: 'true'
 book: making_free_movies_with_free_software
 book_weight: '0'
-layout: book.html
-
+layout: book
 ---
 <!-- Finding Free Music for a Free Film with Jamendo, VLC, and K3B -->
 

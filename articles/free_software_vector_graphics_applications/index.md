@@ -8,8 +8,7 @@ license: verbatim_only
 listed: 'true'
 book: free_software_vector_graphics_applications
 book_weight: -100
-layout: book.html
-
+layout: book
 ---
 One of the more challenging application areas for free software development is computer graphics. However, there are a number of excellent and popular tools for handling them. I use graphics a lot in my work, especially vector graphics, and I've tried a lot of graphics software.
 
