@@ -1,0 +1,30 @@
+.article-content::after {
+  clear: both;
+  content: "";
+  display: block;
+}
+
+.article-hero {
+  display: block;
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+  max-width: 420px;
+  min-width: 220px;
+  width: 45%;
+}
+
+.article-hero .figure-img {
+  display: block;
+  margin-bottom: 0;
+  width: 100%;
+}
+
+@media (max-width: 767px) {
+  .article-hero {
+    float: none;
+    margin: 0 0 1rem;
+    max-width: 100%;
+    min-width: 0;
+    width: 100%;
+  }
+}

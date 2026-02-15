@@ -240,6 +240,29 @@ end
 checks << ["legacy markers in rendered articles", legacy_marker_hits, 0]
 checks << ["unprocessed directives in rendered articles", unprocessed_directive_hits, 0]
 
+# Social preview + in-article hero image check on newest listed article with main_image
+latest_with_main_image = listed_sorted.find do |article|
+  !blank_value?(article[:data]["main_image"])
+end
+
+if latest_with_main_image
+  slug = latest_with_main_image[:slug]
+  main_image = latest_with_main_image[:data]["main_image"].to_s.strip.gsub(" ", "%20")
+  article_html_path = File.join(SITE, "articles", slug, "index.html")
+
+  if File.file?(article_html_path)
+    html = File.read(article_html_path)
+    expected_image_url_fragment = "/articles/#{slug}/#{main_image}"
+    expected_hero_fragment = %(<img class="figure-img img-fluid rounded" src="#{main_image}")
+
+    checks << ["social og:image present", html.include?('property="og:image"'), true]
+    checks << ["social og:image URL", html.include?(expected_image_url_fragment), true]
+    checks << ["article hero image present", html.include?(expected_hero_fragment), true]
+  else
+    checks << ["social article html exists", false, true]
+  end
+end
+
 checks.each do |name, actual, expected|
   if actual == expected
     puts "OK   #{name}: #{actual}"
