@@ -58,15 +58,14 @@
       {% endif %}
     </ul>
 
-    {% assign article_main_image = page.main_image | default: "" | strip %}
-    {% if article_main_image != "" %}
-      {% assign article_main_image_path = article_main_image | replace: " ", "%20" %}
-      <figure class="figure mb-4">
-        <img class="figure-img img-fluid rounded" src="{{ article_main_image_path }}" alt="{{ page.title | strip_html }}">
-      </figure>
-    {% endif %}
-
     <div class="article-content">
+      {% assign article_main_image = page.main_image | default: "" | strip %}
+      {% if article_main_image != "" %}
+        {% assign article_main_image_path = article_main_image | replace: " ", "%20" %}
+        <figure class="article-hero figure mb-4">
+          <img class="figure-img img-fluid rounded" src="{{ article_main_image_path }}" alt="{{ page.title | strip_html }}">
+        </figure>
+      {% endif %}
       {{ content }}
     </div>
 
