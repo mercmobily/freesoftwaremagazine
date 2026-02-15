@@ -66,7 +66,7 @@ Now that the dust has settled from our no-more-PDF statement and we have made ou
 
 # Latest book reviews released
 
-**Red Hat Fedora Core 6 Unleashed _by Andrew Hudson and Paul Hudson_** Alan Berg looks into the new Fedora core. [Read more...](http://www.freesoftwaremagazine.com/articles/red_hat_fedora_core_6_unleashed)
+**Red Hat Fedora Core 6 Unleashed _by Andrew Hudson and Paul Hudson_** Alan Berg looks into the new Fedora core. [Read more...](http://www.freesoftwaremagazine.com/articles/book_review_red_hat_fedora_core_6_unleashed)
 
 **Beginning GIMP: from novice to professional _by Akkana Peck_** Bridget Kulakauskas discovers the ins and outs of the GIMP. [Read more...](http://www.freesoftwaremagazine.com/articles/book_review_beginning_gimp)
 

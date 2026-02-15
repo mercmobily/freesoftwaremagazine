@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1640" height="624" viewBox="0 0 1640 624" role="img" aria-labelledby="title desc">
+  <title id="title">Free Software Magazine Facebook Cover</title>
+  <desc id="desc">A blue-green tech-themed cover banner with Free Software Magazine branding and free software themed messaging.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071c33"/>
+      <stop offset="55%" stop-color="#0c3f66"/>
+      <stop offset="100%" stop-color="#0a6a66"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7be8ff"/>
+      <stop offset="100%" stop-color="#54ffb3"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="1640" height="624" fill="url(#bg)"/>
+  <rect width="1640" height="624" fill="url(#grid)"/>
+
+  <circle cx="1330" cy="130" r="180" fill="#78f6ff" fill-opacity="0.14" filter="url(#soft)"/>
+  <circle cx="1450" cy="420" r="220" fill="#63ffcc" fill-opacity="0.12" filter="url(#soft)"/>
+  <circle cx="210" cy="520" r="180" fill="#89c9ff" fill-opacity="0.14" filter="url(#soft)"/>
+
+  <g stroke="#9ee8ff" stroke-opacity="0.55" fill="none" stroke-width="3">
+    <path d="M 1020 120 L 1480 120 L 1540 200 L 1480 280 L 1120 280"/>
+    <path d="M 980 360 L 1200 360 L 1270 430 L 1200 500 L 980 500"/>
+    <path d="M 1240 310 L 1400 310"/>
+    <circle cx="1020" cy="120" r="7" fill="#9ee8ff"/>
+    <circle cx="1480" cy="120" r="7" fill="#9ee8ff"/>
+    <circle cx="1540" cy="200" r="7" fill="#9ee8ff"/>
+    <circle cx="1480" cy="280" r="7" fill="#9ee8ff"/>
+    <circle cx="1120" cy="280" r="7" fill="#9ee8ff"/>
+    <circle cx="980" cy="360" r="7" fill="#9ee8ff"/>
+    <circle cx="1200" cy="360" r="7" fill="#9ee8ff"/>
+    <circle cx="1270" cy="430" r="7" fill="#9ee8ff"/>
+    <circle cx="1200" cy="500" r="7" fill="#9ee8ff"/>
+    <circle cx="980" cy="500" r="7" fill="#9ee8ff"/>
+  </g>
+
+  <g transform="translate(90,108)">
+    <rect x="0" y="0" width="230" height="230" rx="26" fill="#071626" fill-opacity="0.7" stroke="#80e8ff" stroke-opacity="0.65" stroke-width="3"/>
+    <rect x="26" y="26" width="178" height="178" rx="16" fill="#0d3354" stroke="#79d6ff" stroke-opacity="0.6" stroke-width="2"/>
+    <text x="115" y="130" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="84" font-weight="700" fill="url(#accent)">FSM</text>
+    <text x="115" y="168" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="14" letter-spacing="2" fill="#c9f4ff">FREE SOFTWARE</text>
+    <text x="115" y="190" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="14" letter-spacing="2" fill="#c9f4ff">MAGAZINE</text>
+  </g>
+
+  <g transform="translate(360,170)">
+    <text x="0" y="0" font-family="Trebuchet MS, Verdana, sans-serif" font-size="72" font-weight="700" fill="#f2fcff">Free Software Magazine</text>
+    <rect x="0" y="20" width="760" height="6" rx="3" fill="url(#accent)"/>
+    <text x="0" y="92" font-family="Trebuchet MS, Verdana, sans-serif" font-size="40" font-weight="600" fill="#d7f7ff">Code. Culture. Freedom.</text>
+    <text x="0" y="146" font-family="Trebuchet MS, Verdana, sans-serif" font-size="30" fill="#d0edf7">
+      Community-driven writing about GNU/Linux, open source, and digital rights.
+    </text>
+  </g>
+
+  <g transform="translate(760,330)">
+    <rect x="0" y="0" width="775" height="206" rx="14" fill="#04111e" fill-opacity="0.72" stroke="#89dcff" stroke-opacity="0.5" stroke-width="2"/>
+    <text x="20" y="44" font-family="Consolas, Menlo, monospace" font-size="17" fill="#89dcff">$ git clone git@github.com:mercmobily/freesoftwaremagazine.git</text>
+    <text x="20" y="85" font-family="Consolas, Menlo, monospace" font-size="17" fill="#89dcff">$ npm run preview</text>
+    <text x="20" y="126" font-family="Consolas, Menlo, monospace" font-size="17" fill="#89dcff">$ write, review, publish</text>
+    <text x="20" y="170" font-family="Consolas, Menlo, monospace" font-size="17" fill="#62ffb9">=> software freedom, every day</text>
+  </g>
+
+  <rect x="500" y="558" width="640" height="58" rx="29" fill="#081525" fill-opacity="0.65" stroke="#92e6ff" stroke-opacity="0.4"/>
+  <text x="820" y="596" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="28" fill="#d8f8ff">
+    freesoftwaremagazine.com
+  </text>
+</svg>

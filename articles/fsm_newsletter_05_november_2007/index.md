@@ -68,7 +68,7 @@ Thanks to mads, peacemaker, extra, AdamW, C733tus, can.axis and leo for these st
 
 **Virtual Honeypots: From Botnet Tracking to Intrusion Detection _by Niels Provos and Thorsten Holz_** Learning the latest types of honeypots, reviewed by Alan Berg. [Read more...](http://www.freesoftwaremagazine.com/articles/book_review_virtual_honeypots_botnet_tracking_intrusion_detection)
 
-**Practical Ruby for System Administration _by André Ben Hamou_** Let's get the job done! Reviewed by Alan Berg. [Read more...](http://www.freesoftwaremagazine.com/articles/practical_ruby_for_system_administration)
+**Practical Ruby for System Administration _by André Ben Hamou_** Let's get the job done! Reviewed by Alan Berg. [Read more...](http://www.freesoftwaremagazine.com/articles/book_review_practical_ruby_for_system_administration)
 
 
 # Reminders
