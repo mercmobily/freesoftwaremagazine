@@ -10,6 +10,7 @@ require "yaml"
 ROOT = File.expand_path("..", __dir__)
 SITE = File.join(ROOT, "_site")
 PER_PAGE = 20
+REQUIRE_PUBLISHED = %w[1 true yes].include?(ENV.fetch("FSM_REQUIRE_PUBLISHED", "").to_s.strip.downcase)
 ARTICLE_DEFAULTS = {
   "listed" => "true",
   "license" => "verbatim_only",
@@ -48,18 +49,20 @@ rescue ArgumentError
   nil
 end
 
-def fallback_published(path, data)
-  from_date_field = parse_time(data["date"])
-  return from_date_field if from_date_field
+def parse_published(path, data, errors)
+  value = data["published"]
+  if blank_value?(value)
+    errors << "#{path}: missing required front matter field published." if REQUIRE_PUBLISHED
+    return Time.at(0)
+  end
 
-  from_published_field = parse_time(data["published"])
-  return from_published_field if from_published_field
+  parsed = parse_time(value)
+  if parsed.nil?
+    errors << "#{path}: invalid published value #{value.inspect}."
+    return Time.at(0)
+  end
 
-  return File.mtime(path) if File.file?(path)
-
-  Time.at(0)
-rescue StandardError
-  Time.at(0)
+  parsed
 end
 
 def listed?(data)
@@ -104,9 +107,10 @@ def decode_path(href)
 end
 
 source_articles = []
+metadata_failures = []
 Dir.glob(File.join(ROOT, "articles", "*", "index.md")).sort.each do |path|
   data = apply_article_defaults(load_frontmatter(path))
-  data["published"] = fallback_published(path, data) if blank_value?(data["published"])
+  data["published"] = parse_published(path, data, metadata_failures)
   slug = File.basename(File.dirname(path))
   source_articles << { path: path, slug: slug, data: data }
 end
@@ -128,7 +132,7 @@ nids = source_articles.filter_map do |article|
 end
 unique_nids = nids.uniq
 
-failures = []
+failures = metadata_failures.dup
 checks = []
 
 # Core page counts

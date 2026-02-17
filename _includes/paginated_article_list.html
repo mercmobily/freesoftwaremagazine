@@ -42,7 +42,7 @@
       <tbody>
         {% for article in page.elements_in_this_page %}
           {% assign authors = article.authors | default: "" | split: "," %}
-          {% assign date_value = article.published | default: article.date %}
+          {% assign date_value = article.published %}
           <tr>
             <td><a href="{{ article.url }}">{{ article.title }}</a></td>
             <td>

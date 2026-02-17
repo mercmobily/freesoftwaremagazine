@@ -22,11 +22,11 @@ Put this in `articles/my_new_article_slug/index.md`:
 ---
 title: 'My Article Title'
 authors: 'Author Name'
+published: '2026-02-15 10:00:00'
 tags: 'tag1,tag2,tag3'
 layout: article
 main_image: hero.jpg
 # Optional (defaults apply if omitted):
-# published: '2026-02-15 10:00:00'
 # listed: 'true'
 # license: verbatim_only
 # section: opinions
@@ -139,6 +139,7 @@ You only need `--` when passing a slug to `npm run`.
 - Commit your changes on your branch.
 - Open a Pull Request.
 - Wait for CI to pass.
+- `published` may be omitted while drafting, but listed articles must have `published` set before merge (enforced by merge-time CI).
 
 ## Reference
 
@@ -148,7 +149,7 @@ You only need `--` when passing a slug to `npm run`.
 |---|---|---|---|
 | `title` | Yes | - | Article title. |
 | `authors` | Yes | - | Comma-separated if multiple authors. |
-| `published` | No | auto | If omitted, it is auto-filled. Set manually only when you need a specific publication date/time. |
+| `published` | Merge-required for listed articles | - | Optional while drafting. Required before merge for listed articles. |
 | `tags` | Yes | - | Comma-separated tags. |
 | `layout` | No | `article` | Use `book` only for book-chapter style pages. |
 | `listed` | No | `'true'` | Set `'false'` to keep out of lists/RSS/sitemaps. |
@@ -159,12 +160,6 @@ You only need `--` when passing a slug to `npm run`.
 | `book` | No | - | Book slug if article is in a book. |
 | `book_weight` | No | - | Numeric ordering value for book lists. |
 | `nid` | No (legacy) | - | Old numeric ID for legacy redirects/shortlinks. Leave unset for new articles. |
-
-`published` auto-fill order when omitted:
-
-1. `date` front matter (if present)
-2. file timestamp of `articles/<slug>/index.md`
-
 
 ### B) Syntax reference
 
